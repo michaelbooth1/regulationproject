@@ -815,11 +815,12 @@
       "pub_date": "2021-07-21T07:00:00+00:00",
       "duration_sec": 4040,
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER2096086391.mp3?updated=1773934711",
-      "status": "transcribing",
-      "transcript_path": null,
-      "model": null,
+      "status": "done",
+      "transcript_path": "C:\\Users\\Michael\\Documents\\github\\regulationproject\\data\\transcripts\\063 - 2021-07-21 - Zimmer's Titanium Forehead Is Humpty Dumpty an Easter Thing [60].txt",
+      "model": "large-v3-turbo",
       "error": null,
-      "processed_at": null
+      "processed_at": "2026-08-07T09:53:41.393666-04:00",
+      "diarized": true
     },
     {
       "index": 64,
@@ -827,11 +828,12 @@
       "pub_date": "2021-07-28T07:00:00+00:00",
       "duration_sec": 3168,
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER4152415721.mp3?updated=1773963161",
-      "status": "pending",
-      "transcript_path": null,
-      "model": null,
+      "status": "done",
+      "transcript_path": "C:\\Users\\Michael\\Documents\\github\\regulationproject\\data\\transcripts\\064 - 2021-07-28 - Gut Full of Tots Child Picking Day [61].txt",
+      "model": "large-v3-turbo",
       "error": null,
-      "processed_at": null
+      "processed_at": "2026-08-07T10:03:16.813281-04:00",
+      "diarized": true
     },
     {
       "index": 65,
@@ -839,11 +841,12 @@
       "pub_date": "2021-08-04T07:00:00+00:00",
       "duration_sec": 3676,
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER1598173175.mp3?updated=1773963238",
-      "status": "pending",
-      "transcript_path": null,
-      "model": null,
+      "status": "done",
+      "transcript_path": "C:\\Users\\Michael\\Documents\\github\\regulationproject\\data\\transcripts\\065 - 2021-08-04 - Not Having the Optimal Ramen Experience Not Blow, Suck [62].txt",
+      "model": "large-v3-turbo",
       "error": null,
-      "processed_at": null
+      "processed_at": "2026-08-07T10:14:02.989567-04:00",
+      "diarized": true
     },
     {
       "index": 66,
@@ -851,11 +854,12 @@
       "pub_date": "2021-08-11T07:00:00+00:00",
       "duration_sec": 3849,
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER4580302463.mp3?updated=1773963349",
-      "status": "pending",
-      "transcript_path": null,
-      "model": null,
+      "status": "done",
+      "transcript_path": "C:\\Users\\Michael\\Documents\\github\\regulationproject\\data\\transcripts\\066 - 2021-08-11 - Geoff's Bullet Points Man Hands, Open Water [63].txt",
+      "model": "large-v3-turbo",
       "error": null,
-      "processed_at": null
+      "processed_at": "2026-08-07T10:25:14.364515-04:00",
+      "diarized": true
     },
     {
       "index": 67,
@@ -863,11 +867,12 @@
       "pub_date": "2021-08-18T07:00:00+00:00",
       "duration_sec": 4101,
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER7556404886.mp3?updated=1773963393",
-      "status": "pending",
-      "transcript_path": null,
-      "model": null,
+      "status": "done",
+      "transcript_path": "C:\\Users\\Michael\\Documents\\github\\regulationproject\\data\\transcripts\\067 - 2021-08-18 - Can Geoff Ever Leave the House Again Friar Tuck Cake [64].txt",
+      "model": "large-v3-turbo",
       "error": null,
-      "processed_at": null
+      "processed_at": "2026-08-07T10:37:45.346555-04:00",
+      "diarized": true
     },
     {
       "index": 68,
@@ -875,11 +880,12 @@
       "pub_date": "2021-08-25T07:00:00+00:00",
       "duration_sec": 3645,
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER8962983553.mp3?updated=1773963482",
-      "status": "pending",
-      "transcript_path": null,
-      "model": null,
+      "status": "done",
+      "transcript_path": "C:\\Users\\Michael\\Documents\\github\\regulationproject\\data\\transcripts\\068 - 2021-08-25 - It's Constantly June Geoff's Bike Stunt Video [65].txt",
+      "model": "large-v3-turbo",
       "error": null,
-      "processed_at": null
+      "processed_at": "2026-08-07T10:47:57.053242-04:00",
+      "diarized": true
     },
     {
       "index": 69,
@@ -887,11 +893,12 @@
       "pub_date": "2021-09-01T07:00:00+00:00",
       "duration_sec": 4154,
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER6908703032.mp3?updated=1773963559",
-      "status": "pending",
-      "transcript_path": null,
-      "model": null,
+      "status": "done",
+      "transcript_path": "C:\\Users\\Michael\\Documents\\github\\regulationproject\\data\\transcripts\\069 - 2021-09-01 - Andrew's Broken Chair Birthday I've had my cat for 20 years [66].txt",
+      "model": "large-v3-turbo",
       "error": null,
-      "processed_at": null
+      "processed_at": "2026-08-07T11:00:22.399556-04:00",
+      "diarized": true
     },
     {
       "index": 70,
@@ -899,11 +906,12 @@
       "pub_date": "2021-09-08T07:00:00+00:00",
       "duration_sec": 3800,
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER8724089623.mp3?updated=1773963658",
-      "status": "pending",
-      "transcript_path": null,
-      "model": null,
+      "status": "done",
+      "transcript_path": "C:\\Users\\Michael\\Documents\\github\\regulationproject\\data\\transcripts\\070 - 2021-09-08 - The Rookie Magic Bet Andrew's Lotto Machine [67].txt",
+      "model": "large-v3-turbo",
       "error": null,
-      "processed_at": null
+      "processed_at": "2026-08-07T11:11:30.685807-04:00",
+      "diarized": true
     },
     {
       "index": 71,
@@ -911,11 +919,12 @@
       "pub_date": "2021-09-15T07:00:00+00:00",
       "duration_sec": 3695,
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER6510605425.mp3?updated=1773963748",
-      "status": "pending",
-      "transcript_path": null,
-      "model": null,
+      "status": "done",
+      "transcript_path": "C:\\Users\\Michael\\Documents\\github\\regulationproject\\data\\transcripts\\071 - 2021-09-15 - The Most Magical Podcast on Earth How Do you Scrump an Egg [68].txt",
+      "model": "large-v3-turbo",
       "error": null,
-      "processed_at": null
+      "processed_at": "2026-08-07T11:22:20.992072-04:00",
+      "diarized": true
     },
     {
       "index": 72,
@@ -923,11 +932,12 @@
       "pub_date": "2021-09-22T07:00:00+00:00",
       "duration_sec": 3728,
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER5983687731.mp3?updated=1773963688",
-      "status": "pending",
-      "transcript_path": null,
-      "model": null,
+      "status": "done",
+      "transcript_path": "C:\\Users\\Michael\\Documents\\github\\regulationproject\\data\\transcripts\\072 - 2021-09-22 - Gavin the Luck Catalyst Don't Do Anything to Crabs [69].txt",
+      "model": "large-v3-turbo",
       "error": null,
-      "processed_at": null
+      "processed_at": "2026-08-07T11:33:15.373169-04:00",
+      "diarized": true
     },
     {
       "index": 73,
@@ -935,11 +945,12 @@
       "pub_date": "2021-09-29T07:00:00+00:00",
       "duration_sec": 3822,
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER9838499143.mp3?updated=1773963905",
-      "status": "pending",
-      "transcript_path": null,
-      "model": null,
+      "status": "done",
+      "transcript_path": "C:\\Users\\Michael\\Documents\\github\\regulationproject\\data\\transcripts\\073 - 2021-09-29 - A Mid-Episode Retraction Retrain an Anus [70].txt",
+      "model": "large-v3-turbo",
       "error": null,
-      "processed_at": null
+      "processed_at": "2026-08-07T11:44:26.754670-04:00",
+      "diarized": true
     },
     {
       "index": 74,
@@ -947,11 +958,12 @@
       "pub_date": "2021-10-06T07:00:00+00:00",
       "duration_sec": 3794,
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER2691927940.mp3?updated=1773963965",
-      "status": "pending",
-      "transcript_path": null,
-      "model": null,
+      "status": "done",
+      "transcript_path": "C:\\Users\\Michael\\Documents\\github\\regulationproject\\data\\transcripts\\074 - 2021-10-06 - Too Spicy Icey It's Hard to Listen When You're Talking [71].txt",
+      "model": "large-v3-turbo",
       "error": null,
-      "processed_at": null
+      "processed_at": "2026-08-07T11:55:11.066557-04:00",
+      "diarized": true
     },
     {
       "index": 75,
@@ -959,11 +971,12 @@
       "pub_date": "2021-10-13T07:00:00+00:00",
       "duration_sec": 4773,
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER8939084673.mp3?updated=1773963934",
-      "status": "pending",
-      "transcript_path": null,
-      "model": null,
+      "status": "done",
+      "transcript_path": "C:\\Users\\Michael\\Documents\\github\\regulationproject\\data\\transcripts\\075 - 2021-10-13 - Geoff Puts His Anus Over the Pencil Grenade Regulation Caboose [72].txt",
+      "model": "large-v3-turbo",
       "error": null,
-      "processed_at": null
+      "processed_at": "2026-08-07T12:10:05.635465-04:00",
+      "diarized": true
     },
     {
       "index": 76,
@@ -971,11 +984,12 @@
       "pub_date": "2021-10-20T07:00:00+00:00",
       "duration_sec": 4237,
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER2526757590.mp3?updated=1773964094",
-      "status": "pending",
-      "transcript_path": null,
-      "model": null,
+      "status": "done",
+      "transcript_path": "C:\\Users\\Michael\\Documents\\github\\regulationproject\\data\\transcripts\\076 - 2021-10-20 - The Garlic Feet Taste Test Andrew's a _______ Guy [73].txt",
+      "model": "large-v3-turbo",
       "error": null,
-      "processed_at": null
+      "processed_at": "2026-08-07T12:22:44.984119-04:00",
+      "diarized": true
     },
     {
       "index": 77,
@@ -983,11 +997,12 @@
       "pub_date": "2021-10-27T07:00:00+00:00",
       "duration_sec": 3555,
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER5074222827.mp3?updated=1773964089",
-      "status": "pending",
-      "transcript_path": null,
-      "model": null,
+      "status": "done",
+      "transcript_path": "C:\\Users\\Michael\\Documents\\github\\regulationproject\\data\\transcripts\\077 - 2021-10-27 - Gavin's Chocolate Confidence We're a Food Podcast Maybe [74].txt",
+      "model": "large-v3-turbo",
       "error": null,
-      "processed_at": null
+      "processed_at": "2026-08-07T13:43:54.618618-04:00",
+      "diarized": true
     },
     {
       "index": 78,
