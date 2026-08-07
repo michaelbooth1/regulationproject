@@ -8,5 +8,8 @@ data/tmp/
 data/audio/
 *.mp3
 
-# Cached raw feed (regenerable via scripts/fetch_feed.py)
+# Hugging Face token (required for gated pyannote model — never commit)
+data/hf_token.txt
+
+# Cached raw feed (regenerable via scripts/fetch_catalog.py)
 data/raw/

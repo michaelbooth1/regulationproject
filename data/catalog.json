@@ -33,11 +33,11 @@
       "pub_date": "2020-06-10T07:00:00+00:00",
       "duration_sec": 2953,
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER1664875101.mp3?updated=1773802959",
-      "status": "pending",
-      "transcript_path": null,
-      "model": null,
+      "status": "done",
+      "transcript_path": "C:\\Users\\Michael\\Documents\\github\\regulationproject\\data\\transcripts\\003 - 2020-06-10 - Set Sail For Ass Billy Ripken F kfaced Himself [2].txt",
+      "model": "large-v3-turbo",
       "error": null,
-      "processed_at": null
+      "processed_at": "2026-08-06T21:50:45.249845-04:00"
     },
     {
       "index": 4,

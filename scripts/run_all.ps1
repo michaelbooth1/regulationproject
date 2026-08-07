@@ -1,14 +1,18 @@
 # Convenience loop: transcribe every pending episode, oldest first.
 # Runs the one-at-a-time pipeline until the manifest has no pending episodes.
 param(
-    [string]$Model = "large-v3-turbo"
+    [string]$Model = "large-v3-turbo",
+    [switch]$Quiet
 )
 
 $py = Join-Path $PSScriptRoot "..\.venv\Scripts\python.exe"
 if (-not (Test-Path $py)) { $py = "python" }
 
+$extra = @("--model", $Model)
+if ($Quiet) { $extra += "--quiet" }
+
 while ($true) {
-    & $py (Join-Path $PSScriptRoot "transcribe_episode.py") --model $Model
+    & $py (Join-Path $PSScriptRoot "transcribe_episode.py") @extra
     $ok = $LASTEXITCODE -eq 0
     if (-not $ok) {
         Write-Host "Pipeline stopped (episode error). Inspect data/catalog.json and re-run, or use --index to retry a specific episode." -ForegroundColor Red
