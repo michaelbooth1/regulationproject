@@ -13,7 +13,7 @@ Outputs:
     data/speaker_summary.json  {globals: {<gid>: {name, talk_sec, episodes, members}}}
 
 Usage:
-    python scripts/map_speakers.py [--threshold 0.45] [--report]
+    python scripts/map_speakers.py [--threshold 0.85] [--output-dir data] [--report]
 """
 import argparse
 import glob
@@ -63,10 +63,12 @@ class DSU:
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--threshold", type=float, default=0.45,
-                    help="min cosine similarity (1 - threshold in args) to link clusters as same person")
+    ap.add_argument("--threshold", type=float, default=0.85,
+                    help="minimum cosine similarity to link clusters as the same person")
     ap.add_argument("--min-talk", type=float, default=5.0,
                     help="drop clusters with fewer than this many seconds of speech")
+    ap.add_argument("--output-dir", default="data",
+                    help="directory for speaker_map.json and speaker_summary.json")
     ap.add_argument("--report", action="store_true",
                     help="print top matching clusters across episodes instead of final map")
     args = ap.parse_args()
@@ -145,9 +147,13 @@ def main():
         speakers[gid] = {"name": None, "talk_sec": round(total, 1),
                          "episodes": len({m["episode"] for m in members}), "members": members}
 
-    os.makedirs("data", exist_ok=True)
-    json.dump({"episodes": dict(assignments)}, open(os.path.join("data", "speaker_map.json"), "w", encoding="utf-8"), indent=1)
-    json.dump({"globals": speakers}, open(os.path.join("data", "speaker_summary.json"), "w", encoding="utf-8"), indent=2)
+    os.makedirs(args.output_dir, exist_ok=True)
+    map_path = os.path.join(args.output_dir, "speaker_map.json")
+    summary_path = os.path.join(args.output_dir, "speaker_summary.json")
+    with open(map_path, "w", encoding="utf-8") as f:
+        json.dump({"episodes": dict(assignments)}, f, indent=1)
+    with open(summary_path, "w", encoding="utf-8") as f:
+        json.dump({"globals": speakers}, f, indent=2)
 
     print(f"{len(units)} clusters -> {len(speakers)} global speakers")
     print(f"{'gid':6s} {'talk':>9s} {'eps':>3s}  members")

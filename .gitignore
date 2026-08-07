@@ -2,6 +2,7 @@
 __pycache__/
 *.pyc
 .venv/
+.pnpm-store/
 
 # Downloaded / transient audio (we delete these after transcription)
 data/tmp/

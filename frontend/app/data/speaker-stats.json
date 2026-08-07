@@ -1,0 +1,57 @@
+{
+  "generatedAt": "2026-08-07T18:10:25.288123+00:00",
+  "completedEpisodes": 86,
+  "episodeHours": 82.6,
+  "measuredTalkHours": 72.5,
+  "method": "Whisper segment durations assigned to diarized speaker clusters; approximate.",
+  "speakers": [
+    {
+      "name": "Geoff",
+      "seconds": 104354.8,
+      "hours": 29.0,
+      "episodes": 82,
+      "share": 40.0,
+      "color": "#ff5a36"
+    },
+    {
+      "name": "Andrew",
+      "seconds": 91071.4,
+      "hours": 25.3,
+      "episodes": 85,
+      "share": 34.9,
+      "color": "#ffc93d"
+    },
+    {
+      "name": "Gavin",
+      "seconds": 46266.0,
+      "hours": 12.9,
+      "episodes": 82,
+      "share": 17.7,
+      "color": "#70d6ff"
+    },
+    {
+      "name": "Other voices",
+      "seconds": 8388.3,
+      "hours": 2.3,
+      "episodes": 72,
+      "share": 3.2,
+      "color": "#8891a7"
+    },
+    {
+      "name": "Erik",
+      "seconds": 7898.4,
+      "hours": 2.2,
+      "episodes": 66,
+      "share": 3.0,
+      "color": "#aa8cff"
+    },
+    {
+      "name": "Ad",
+      "seconds": 2939.0,
+      "hours": 0.8,
+      "episodes": 54,
+      "share": 1.1,
+      "color": "#63e6a7"
+    }
+  ]
+}
