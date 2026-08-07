@@ -27,6 +27,8 @@ import json
 import os
 import subprocess
 import sys
+import time
+from contextlib import contextmanager
 from datetime import datetime
 from pathlib import Path
 
@@ -35,6 +37,7 @@ CATALOG = ROOT / "data" / "catalog.json"
 TMP_DIR = ROOT / "data" / "tmp"
 TRANSCRIPTS_DIR = ROOT / "data" / "transcripts"
 TOKEN_FILE = ROOT / "data" / "hf_token.txt"
+LOCK_FILE = TMP_DIR / "catalog.lock"
 
 DEFAULT_MODEL = "large-v3-turbo"
 DIARIZATION_MODEL = "pyannote/speaker-diarization-3.1"
@@ -57,6 +60,41 @@ def load_catalog() -> dict:
 
 def save_catalog(catalog: dict) -> None:
     CATALOG.write_text(json.dumps(catalog, indent=2, ensure_ascii=False), encoding="utf-8")
+
+
+@contextmanager
+def catalog_lock():
+    """Exclusive lock around the shared data/catalog.json for parallel workers."""
+    import msvcrt
+    TMP_DIR.mkdir(parents=True, exist_ok=True)
+    fd = os.open(str(LOCK_FILE), os.O_RDWR | os.O_CREAT)
+    try:
+        while True:
+            try:
+                msvcrt.locking(fd, msvcrt.LK_NBLCK, 1)
+                break
+            except OSError:
+                time.sleep(0.05)
+        yield
+    finally:
+        try:
+            msvcrt.locking(fd, msvcrt.LK_UNLCK, 1)
+        finally:
+            os.close(fd)
+
+
+def with_catalog_lock(mutator):
+    """Run mutator(catalog) while holding the exclusive lock; returns its result.
+
+    The mutator should read/modify the passed-in catalog dict. Any mutations
+    are persisted iff the mutator returns True.
+    """
+    with catalog_lock():
+        catalog = load_catalog()
+        changed = mutator(catalog)
+        if changed:
+            save_catalog(catalog)
+        return catalog, changed
 
 
 def pick_episode(catalog: dict, index: int | None) -> dict:
@@ -283,8 +321,10 @@ def transcribe_episode(ep: dict, audio, sample_rate: int, model_name: str,
 # --------------------------------------------------------------------------
 def main() -> int:
     ap = argparse.ArgumentParser(
-        description="Transcribe (and speaker-label) one Regulation Podcast episode")
+        description="Transcribe (and speaker-label) Regulation Podcast episodes")
     ap.add_argument("--index", type=int, help="specific episode index")
+    ap.add_argument("--indexes", type=int, nargs="*",
+                    help="one or more specific episode indexes to process (parallel worker)")
     ap.add_argument("--model", default=DEFAULT_MODEL)
     ap.add_argument("--device", default="auto")
     ap.add_argument("--language", default="en")
@@ -294,29 +334,58 @@ def main() -> int:
     ap.add_argument("--num-speakers", type=int, help="force N speakers (default: auto-detect)")
     args = ap.parse_args()
 
-    catalog = load_catalog()
-    ep = pick_episode(catalog, args.index)
+    indexes = list(args.indexes) if args.indexes else ([args.index] if args.index else [])
+    if not indexes:
+        # default: next pending
+        catalog = load_catalog()
+        ep = pick_episode(catalog, None)
+        indexes = [ep["index"]]
 
-    print(f"== Episode {ep['index']}: {ep['title']} ==")
-    print(f"   published {ep['pub_date']}, {ep['duration_sec']}s")
-    print(f"   status: {ep['status']}")
+    status = 0
+    for idx in indexes:
+        rc = process_one(idx, args)
+        status = status or rc
+    return status
+
+
+def process_one(index: int, args) -> int:
+    """Claim, download, transcribe, save, complete one episode index."""
+    print(f"== Episode {index} (claimed) ==")
+
+    def claim(catalog):
+        for e in catalog["episodes"]:
+            if e["index"] == index:
+                if e["status"] in ("pending", "error"):
+                    e["status"] = "transcribing"
+                    e["error"] = None
+                    return True
+                if e["status"] == "done":
+                    ep_replayed = e
+                    return True
+                return False  # downloading/transcribing: owned by another worker
+        raise SystemExit(f"No episode with index {index}.")
+
+    catalog, claimed = with_catalog_lock(claim)
+    if not claimed:
+        print(f"  ↻ episode {index} is owned by another worker — skipping")
+        return 0
+    ep = next(e for e in catalog["episodes"] if e["index"] == index)
 
     audio_path = TMP_DIR / f"{ep['index']:03d}.mp3"
-    ep["status"] = "downloading"
-    save_catalog(catalog)
+    base = "{:03d} - {} - {}".format(ep["index"], ep["pub_date"][:10],
+                                     safe_title(ep["title"]))
+    txt_path = TRANSCRIPTS_DIR / f"{base}.txt"
+    json_path = TRANSCRIPTS_DIR / f"{base}.json"
 
     try:
-        download_audio(ep["enclosure_url"], audio_path)
-        ep["status"] = "transcribing"
-        save_catalog(catalog)
+        if ep["status"] == "done":
+            print(f"  ↻ {txt_path.name} already done — skipping")
+            return 0
 
+        download_audio(ep["enclosure_url"], audio_path)
         audio, sr = load_audio_mono16k(audio_path)
         hf_token = resolve_hf_token()
 
-        base = "{:03d} - {} - {}".format(ep["index"], ep["pub_date"][:10],
-                                         safe_title(ep["title"]))
-        txt_path = TRANSCRIPTS_DIR / f"{base}.txt"
-        json_path = TRANSCRIPTS_DIR / f"{base}.json"
         if txt_path.exists() and json_path.exists():
             print(f"  transcript already exists ({txt_path.name}); skipping")
         else:
@@ -330,30 +399,41 @@ def main() -> int:
 
         if not args.keep_audio and audio_path.exists():
             audio_path.unlink(missing_ok=True)
-        ep["status"] = "done"
-        ep["model"] = args.model
-        ep["diarized"] = not args.no_diarize
-        ep["processed_at"] = datetime.now().astimezone().isoformat()
-        ep["error"] = None
-        ep["transcript_path"] = str(txt_path)
-        save_catalog(catalog)
-        print(f"== DONE: episode {ep['index']} ==")
+
+        def complete(catalog):
+            for e in catalog["episodes"]:
+                if e["index"] == index:
+                    e["status"] = "done"
+                    e["model"] = args.model
+                    e["diarized"] = not args.no_diarize
+                    e["processed_at"] = datetime.now().astimezone().isoformat()
+                    e["error"] = None
+                    e["transcript_path"] = str(txt_path)
+            return True
+
+        with_catalog_lock(complete)
+        print(f"== DONE: episode {index} ==")
         return 0
     except subprocess.CalledProcessError as e:
-        ep["status"] = "error"
-        ep["error"] = f"download failed (curl exit {e.returncode})"
+        err = f"download failed (curl exit {e.returncode})"
     except Exception as e:  # noqa: BLE001 - surface any pipeline failure
-        ep["status"] = "error"
-        ep["error"] = f"{type(e).__name__}: {e}"
-        print(f"ERROR: {ep['error']}")
+        err = f"{type(e).__name__}: {e}"
+        print(f"ERROR ep{index}: {err}")
     finally:
         if not args.keep_audio and audio_path.exists():
             try:
                 audio_path.unlink()
-                print("  deleted partial audio")
             except OSError:
                 pass
-        save_catalog(catalog)
+
+    def fail(catalog):
+        for e in catalog["episodes"]:
+            if e["index"] == index:
+                e["status"] = "error"
+                e["error"] = err
+        return True
+
+    with_catalog_lock(fail)
     return 1
 
 
