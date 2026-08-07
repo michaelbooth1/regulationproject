@@ -10,10 +10,11 @@
       "duration_sec": 32,
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER7190888328.mp3?updated=1773845691",
       "status": "done",
-      "transcript_path": null,
+      "transcript_path": "C:\\Users\\Michael\\Documents\\github\\regulationproject\\data\\transcripts\\001 - 2020-05-20 - Introducing F kface.txt",
       "model": "large-v3-turbo",
       "error": null,
-      "processed_at": "2026-08-06T21:26:13.103551-04:00"
+      "processed_at": "2026-08-06T22:30:21.343013-04:00",
+      "diarized": true
     },
     {
       "index": 2,
@@ -22,10 +23,11 @@
       "duration_sec": 3031,
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER2628363439.mp3?updated=1773802712",
       "status": "done",
-      "transcript_path": "data/transcripts/0002 - 2020-06-03 - Face Tattoo Bets Animal Crossing Turnips [1].txt",
+      "transcript_path": "C:\\Users\\Michael\\Documents\\github\\regulationproject\\data\\transcripts\\002 - 2020-06-03 - Face Tattoo Bets Animal Crossing Turnips [1].txt",
       "model": "large-v3-turbo",
       "error": null,
-      "processed_at": "2026-08-06T21:27:50.289342-04:00"
+      "processed_at": "2026-08-06T22:40:17.331920-04:00",
+      "diarized": true
     },
     {
       "index": 3,
@@ -37,7 +39,8 @@
       "transcript_path": "C:\\Users\\Michael\\Documents\\github\\regulationproject\\data\\transcripts\\003 - 2020-06-10 - Set Sail For Ass Billy Ripken F kfaced Himself [2].txt",
       "model": "large-v3-turbo",
       "error": null,
-      "processed_at": "2026-08-06T21:50:45.249845-04:00"
+      "processed_at": "2026-08-06T22:49:41.824382-04:00",
+      "diarized": true
     },
     {
       "index": 4,
@@ -45,11 +48,12 @@
       "pub_date": "2020-06-17T11:57:00+00:00",
       "duration_sec": 2947,
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER8321701800.mp3?updated=1773802895",
-      "status": "pending",
-      "transcript_path": null,
-      "model": null,
+      "status": "done",
+      "transcript_path": "C:\\Users\\Michael\\Documents\\github\\regulationproject\\data\\transcripts\\004 - 2020-06-17 - Trapped in the Bathroom with a Cat You Make People Uncomfortable [3].txt",
+      "model": "large-v3-turbo",
       "error": null,
-      "processed_at": null
+      "processed_at": "2026-08-06T22:58:30.301290-04:00",
+      "diarized": true
     },
     {
       "index": 5,
@@ -57,11 +61,12 @@
       "pub_date": "2020-06-24T07:00:00+00:00",
       "duration_sec": 3240,
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER6108995712.mp3?updated=1773802930",
-      "status": "pending",
-      "transcript_path": null,
-      "model": null,
+      "status": "done",
+      "transcript_path": "C:\\Users\\Michael\\Documents\\github\\regulationproject\\data\\transcripts\\005 - 2020-06-24 - Andrew Joins the Basket Weaving Alliance Naturally Equipped to be a Mime [4].txt",
+      "model": "large-v3-turbo",
       "error": null,
-      "processed_at": null
+      "processed_at": "2026-08-06T23:08:00.262021-04:00",
+      "diarized": true
     },
     {
       "index": 6,
@@ -69,11 +74,12 @@
       "pub_date": "2020-07-01T07:00:00+00:00",
       "duration_sec": 3068,
       "enclosure_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER4336917803.mp3?updated=1773845878",
-      "status": "pending",
-      "transcript_path": null,
-      "model": null,
+      "status": "done",
+      "transcript_path": "C:\\Users\\Michael\\Documents\\github\\regulationproject\\data\\transcripts\\006 - 2020-07-01 - Going Ape for Monkey Movies A Friendship Ends Over Piss [5].txt",
+      "model": "large-v3-turbo",
       "error": null,
-      "processed_at": null
+      "processed_at": "2026-08-06T22:29:24.694808-04:00",
+      "diarized": true
     },
     {
       "index": 7,

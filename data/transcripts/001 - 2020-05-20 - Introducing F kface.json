@@ -3,57 +3,64 @@
  "title": "Introducing F**kface",
  "pub_date": "2020-05-20T07:00:00+00:00",
  "model": "large-v3-turbo",
+ "diarization_model": "pyannote/speaker-diarization-3.1",
  "language": "en",
  "language_probability": 1,
- "duration_sec": 32.36575,
+ "duration_sec": 32.3646875,
  "segments": [
   {
    "start": 0.0,
    "end": 6.38,
-   "text": "My name is Geoff Ramsey and I am the co-host of the new Rooster Teeth Podcast, F**kface, here with Andrew Panton and Gavin Free.",
-   "words": []
+   "text": "My name is Geoff Ramsey, and I am the co-host of the new Rooster Teeth Podcast, F**kface, here with Andrew Panton and Gavin Free.",
+   "speaker": "SPEAKER_02"
   },
   {
    "start": 6.52,
-   "end": 8.3,
-   "text": "Hello. Andrew, what's a f**kface?",
-   "words": []
+   "end": 6.76,
+   "text": "Hello.",
+   "speaker": "SPEAKER_02"
   },
   {
-   "start": 8.46,
+   "start": 7.04,
+   "end": 8.3,
+   "text": "Andrew, what's a f**kface?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 8.44,
    "end": 14.66,
-   "text": "A f**kface is an event that happens that makes you look like an idiot and the only way to deal with it is by laughing.",
-   "words": []
+   "text": "A f**kface is an event that happens that makes you look like an idiot, and the only way to deal with it is by laughing.",
+   "speaker": "SPEAKER_01"
   },
   {
    "start": 14.78,
    "end": 15.84,
    "text": "And that's the podcast!",
-   "words": []
+   "speaker": "SPEAKER_01"
   },
   {
    "start": 17.94,
    "end": 19.24,
    "text": "Do you think you have anything in there?",
-   "words": []
+   "speaker": "SPEAKER_03"
   },
   {
    "start": 19.5,
    "end": 19.9,
    "text": "No!",
-   "words": []
+   "speaker": "SPEAKER_00"
   },
   {
    "start": 24.82,
    "end": 28.5,
    "text": "This is it! This is the trailer! You're an idiot! This is it!",
-   "words": []
+   "speaker": "SPEAKER_00"
   },
   {
    "start": 28.5,
    "end": 31.54,
    "text": "This is the trailer! F**kface! Like and subscribe!",
-   "words": []
+   "speaker": "SPEAKER_00"
   }
  ]
 }

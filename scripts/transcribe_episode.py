@@ -106,7 +106,11 @@ def resolve_hf_token() -> str | None:
     token = os.environ.get("HF_TOKEN") or os.environ.get(
         "HUGGING_FACE_HUB_TOKEN")
     if not token and TOKEN_FILE.exists():
-        token = TOKEN_FILE.read_text(encoding="utf-8").strip()
+        for line in TOKEN_FILE.read_text(encoding="utf-8").splitlines():
+            line = line.strip()
+            if line and not line.startswith("#"):
+                token = line
+                break
     return token or None
 
 
@@ -169,7 +173,9 @@ def diarize(pipeline, audio, sample_rate: int, num_speakers: int | None):
     import torch
     waveform = torch.from_numpy(audio)[None, :] if audio.dtype.kind == "f" else audio
     kwargs = {"num_speakers": num_speakers} if num_speakers else {}
-    return pipeline({"waveform": waveform, "sample_rate": sample_rate}, **kwargs)
+    out = pipeline({"waveform": waveform, "sample_rate": sample_rate}, **kwargs)
+    # pyannote>=4 returns a DiarizeOutput dataclass wrapping an Annotation.
+    return getattr(out, "speaker_diarization", out)
 
 
 def segment_speaker(diarization, start: float, end: float) -> str:
