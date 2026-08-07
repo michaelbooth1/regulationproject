@@ -170,12 +170,25 @@ def load_diarizer(hf_token: str | None, device: str):
 
 
 def diarize(pipeline, audio, sample_rate: int, num_speakers: int | None):
+    """Run diarization; returns (annotation, embeddings_by_label) or (None, {}).
+
+    annotation is the interval->speaker map; embeddings_by_label maps each
+    SPEAKER_xx to its (256,) voice embedding so clusters can be matched to
+    persons later even after the audio is deleted.
+    """
     import torch
     waveform = torch.from_numpy(audio)[None, :] if audio.dtype.kind == "f" else audio
     kwargs = {"num_speakers": num_speakers} if num_speakers else {}
     out = pipeline({"waveform": waveform, "sample_rate": sample_rate}, **kwargs)
-    # pyannote>=4 returns a DiarizeOutput dataclass wrapping an Annotation.
-    return getattr(out, "speaker_diarization", out)
+    # pyannote>=4 returns a DiarizeOutput dataclass wrapping an Annotation,
+    # with speaker_embeddings ordered to match annotation.labels().
+    ann = getattr(out, "speaker_diarization", out)
+    embeddings = getattr(out, "speaker_embeddings", None)
+    embeddings_by_label = {}
+    if embeddings is not None:
+        for label, vec in zip(sorted(set(ann.labels())), embeddings):
+            embeddings_by_label[label] = [round(float(x), 6) for x in vec]
+    return ann, embeddings_by_label
 
 
 def segment_speaker(diarization, start: float, end: float) -> str:
@@ -199,6 +212,7 @@ def transcribe_episode(ep: dict, audio, sample_rate: int, model_name: str,
     from faster_whisper import WhisperModel
 
     diar = None
+    speaker_embeddings = {}
     if do_diarize:
         if hf_token is None:
             raise RuntimeError(
@@ -206,7 +220,7 @@ def transcribe_episode(ep: dict, audio, sample_rate: int, model_name: str,
                 f"{TOKEN_FILE}). Use --no-diarize to skip speaker labels.")
         print("  loading & running speaker diarization (pyannote) ...")
         pipeline = load_diarizer(hf_token, device)
-        diar = diarize(pipeline, audio, sample_rate, num_speakers)
+        diar, speaker_embeddings = diarize(pipeline, audio, sample_rate, num_speakers)
         n = len(set(diar.labels()))
         print(f"  diarization done: {n} speakers found")
 
@@ -257,6 +271,7 @@ def transcribe_episode(ep: dict, audio, sample_rate: int, model_name: str,
         "language": getattr(info, "language", None),
         "language_probability": getattr(info, "language_probability", None),
         "duration_sec": info.duration,
+        "speaker_embeddings": speaker_embeddings or None,
         "segments": segments_out,
     }
     json_path.write_text(json.dumps(json_out, indent=1, ensure_ascii=False), encoding="utf-8")

@@ -23,6 +23,27 @@ Produce a local, durable transcript of **every** episode of *The Regulation Podc
 4. **Never store the whole archive.** Only `data/catalog.json` and the finished
    transcripts are kept on disk (and committed to git). Audio lives in
    `data/tmp/` (gitignored) and is deleted after transcription.
+5. **Every transcript stays resolvable to people.** Whisper is speaker-agnostic,
+   so each episode is also run through speaker diarization (pyannote) and the
+   resulting per-cluster voice fingerprints are saved. That is enough — even
+   without the audio — to attribute `SPEAKER_xx` back to the actual hosts later.
+
+## Speaker identity mapping (future, no audio needed)
+
+Whisper alone cannot tell "who" spoke. Diarization assigns opaque, per-episode
+cluster ids (`SPEAKER_00`, ...), re-labeled every episode. So each `.json` saves:
+
+- per-segment `speaker` + `start`/`end`/`text` — the transcript-to-speaker map,
+- `speaker_embeddings`: a `(256,)` voice fingerprint per `SPEAKER_xx`
+  (ordered to match the diarization `labels()`).
+
+With those fingerprints you can, after the audio is deleted:
+1. **Link across episodes** — the same host ⇒ near-identical embedding, so you
+   can collapse `SPEAKER_03` (ep 6) ↔ `SPEAKER_00` (ep 2) etc. by cosine
+   similarity.
+2. **Enroll known voices** — run a short clip of each host through the same
+   embedding model and nearest-neighbor every cluster to them. One-time; no
+   per-episode training.
 
 ## Data layout
 
@@ -42,7 +63,7 @@ regulationproject/
     ├── tmp/                    # active audio download (deleted after transcribe)
     └── transcripts/
         ├── 0001 - {title}.txt  # plain text with [mm:ss] timestamp headings
-        └── 0001 - {title}.json # structured segments + words
+        └── 0001 - {title}.json # structured segments + speaker + embeddings
 ```
 
 ## Workflow
@@ -65,7 +86,9 @@ Flow per episode:
 1. load the next `pending` episode from the manifest
 2. mark `downloading`, stream audio into `data/tmp/{episode}.mp3` (resumable)
 3. mark `transcribing`, run faster-whisper (model `large-v3-turbo`, English)
-4. write `data/transcripts/000N - {title}.txt` (+ `.json` with segments)
+   + pyannote diarization for speaker labels
+4. write `data/transcripts/000N - {title}.txt` (+ `.json` with segments,
+   per-segment `speaker`, and `speaker_embeddings`)
 5. delete `data/tmp/{episode}.mp3`, mark `done`
    On any failure → mark `error` with message, delete partial audio; rerun resets it.
 
@@ -80,9 +103,10 @@ Loops Step 2 oldest→newest until every episode is `done`.
 - Default: `large-v3-turbo` — near `large-v3` quality at several× faster throughput;
   ideal for ~1-hour episodes.
 - This is a conversational podcast with overlapping speakers; Whisper is
-  speaker-agnostic, so voice labels are not produced. Episodes that nominally have
-  known lineup can be annotated later. Long/intro/outro music can produce mild
-  hallucinations — expected and acceptable.
+  speaker-agnostic, so voice labels come from **pyannote speaker diarization**
+  (`pyannote/speaker-diarization-3.1`, then name-resolved later via embeddings).
+  Long/intro/outro music can produce mild hallucinations — expected and
+  acceptable.
 - `initial_prompt` nudges spelling of "Regulation", host names (Andrew, Nick,
   Eric, Geoff, Gavin), "F**kface", "Sausage", etc.
 

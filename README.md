@@ -47,7 +47,9 @@ powershell -ExecutionPolicy Bypass -File scripts/run_all.ps1 -Quiet
 Each finished episode lands in `data/transcripts/` as
 `0001 - YYYY-MM-DD - <Ep Title>.txt` (+ `.json` with timestamped segments).
 Each segment carries a `[HH:MM:SS] SPEAKER_00` label (cluster id — mapping
-clusters to real names can be added later via voice enrollment).
+clusters to real names can be added later via voice enrollment). The `.json`
+also stores a 256-dim `speaker_embeddings` fingerprint per cluster, so you can
+resolve `SPEAKER_xx` to the actual hosts after the audio is deleted.
 The downloaded mp3 is deleted after transcription. `data/catalog.json` tracks
 per-episode status; a crash just leaves the current episode "error" and the
 pipeline resumes cleanly on the next run.

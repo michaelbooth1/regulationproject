@@ -7,6 +7,782 @@
  "language": "en",
  "language_probability": 1,
  "duration_sec": 3090.4936875,
+ "speaker_embeddings": {
+  "SPEAKER_00": [
+   -0.02152,
+   0.152722,
+   -0.2081,
+   0.043817,
+   -0.218045,
+   -0.256612,
+   0.578152,
+   -0.032866,
+   0.135194,
+   0.08466,
+   0.301478,
+   -0.022721,
+   0.228992,
+   0.095574,
+   0.077678,
+   -0.248188,
+   -0.35218,
+   -0.086896,
+   0.012903,
+   0.23854,
+   -0.222007,
+   0.053085,
+   0.516021,
+   0.056074,
+   0.076185,
+   0.224688,
+   -0.215102,
+   0.140125,
+   -0.022469,
+   -0.037059,
+   0.581767,
+   0.185927,
+   0.161143,
+   -0.23889,
+   -0.155211,
+   -0.132564,
+   0.035036,
+   -0.286175,
+   0.089412,
+   0.320814,
+   -0.273762,
+   0.084298,
+   0.372833,
+   0.211756,
+   -0.215432,
+   0.118972,
+   -0.132413,
+   -0.084107,
+   0.422899,
+   0.586433,
+   0.234849,
+   0.028774,
+   0.146675,
+   -0.144425,
+   -0.207318,
+   0.382675,
+   -0.042578,
+   -0.216368,
+   -0.162373,
+   -0.043411,
+   0.420641,
+   0.023183,
+   0.189747,
+   0.054993,
+   0.144519,
+   0.224789,
+   -0.238193,
+   -0.322701,
+   -0.06283,
+   0.238525,
+   -0.26641,
+   -0.19153,
+   0.018546,
+   -0.312102,
+   0.133795,
+   0.212333,
+   -0.092629,
+   0.094876,
+   0.019735,
+   0.000406,
+   -0.328327,
+   -0.163239,
+   0.183235,
+   -0.142316,
+   -0.36705,
+   -0.044564,
+   -0.073968,
+   -0.120707,
+   -0.29331,
+   -0.291359,
+   -0.096115,
+   0.204738,
+   0.051061,
+   0.033236,
+   0.110094,
+   0.053489,
+   0.02376,
+   0.237317,
+   0.055767,
+   -0.153408,
+   -0.008186,
+   -0.174937,
+   -0.189585,
+   -0.085258,
+   -0.155496,
+   -0.032472,
+   0.33515,
+   0.129082,
+   0.08478,
+   -0.407753,
+   0.39525,
+   0.247734,
+   -0.131287,
+   -0.121541,
+   -0.077301,
+   -0.365218,
+   -0.106424,
+   -0.131578,
+   -0.047072,
+   0.111095,
+   0.392214,
+   0.160792,
+   -0.159409,
+   0.066203,
+   -0.101209,
+   0.296777,
+   -0.066383,
+   -0.003489,
+   -0.286524,
+   0.054399,
+   -0.321689,
+   -0.206714,
+   0.052425,
+   0.294839,
+   0.335752,
+   -0.365569,
+   0.181106,
+   -0.126534,
+   0.330723,
+   -0.52563,
+   -0.241284,
+   0.20488,
+   0.087726,
+   0.264023,
+   -0.134644,
+   -0.031986,
+   0.116469,
+   -0.191792,
+   -0.173686,
+   0.065238,
+   0.19738,
+   -0.245411,
+   -0.370106,
+   -0.288975,
+   0.042739,
+   0.082111,
+   -0.032636,
+   -0.266736,
+   0.142148,
+   -0.060931,
+   0.306782,
+   0.059319,
+   0.120876,
+   -0.001184,
+   -0.318794,
+   -0.148437,
+   -0.127626,
+   -0.144635,
+   0.160644,
+   -0.136005,
+   -0.297544,
+   0.195941,
+   0.021842,
+   -0.302554,
+   -0.039959,
+   -0.330122,
+   -0.288546,
+   0.005276,
+   0.056805,
+   -0.078985,
+   -0.076547,
+   0.167785,
+   0.26371,
+   0.238048,
+   -0.119604,
+   -0.038282,
+   -0.195974,
+   0.388119,
+   -0.123228,
+   -0.133875,
+   -0.215176,
+   0.151564,
+   -0.037229,
+   -0.261427,
+   -0.07623,
+   0.076556,
+   0.298683,
+   0.205033,
+   0.160275,
+   0.260421,
+   0.00026,
+   -0.169959,
+   0.063673,
+   0.032421,
+   -0.278849,
+   -0.025597,
+   -0.008704,
+   -0.228798,
+   0.063099,
+   0.170039,
+   0.107103,
+   0.102642,
+   -0.220898,
+   -0.238805,
+   -0.273794,
+   0.125116,
+   0.06757,
+   0.100496,
+   0.309449,
+   0.540951,
+   0.278733,
+   0.087046,
+   0.272508,
+   0.177102,
+   0.281759,
+   -0.148577,
+   0.44386,
+   -0.254654,
+   0.113331,
+   -0.259061,
+   0.067067,
+   -0.150815,
+   -0.011418,
+   0.483712,
+   0.122292,
+   0.262901,
+   -0.259002,
+   -0.032497,
+   -0.064367,
+   -0.476268,
+   -0.243346,
+   -0.296692,
+   -0.132224,
+   -0.094408,
+   -0.060405,
+   -0.044588,
+   0.061014,
+   -0.17872,
+   -0.162299,
+   0.175512,
+   -0.023048,
+   0.050242,
+   0.212184,
+   0.146597,
+   0.319986,
+   -0.191682
+  ],
+  "SPEAKER_01": [
+   -0.045801,
+   0.030059,
+   0.125833,
+   -0.245481,
+   -0.044768,
+   0.179931,
+   0.039274,
+   -0.035041,
+   0.165651,
+   0.13546,
+   -0.034989,
+   0.066393,
+   0.0318,
+   -0.026722,
+   0.161165,
+   -0.091549,
+   -0.08213,
+   -0.309617,
+   0.009581,
+   0.207781,
+   -0.474638,
+   0.149532,
+   0.015369,
+   0.401005,
+   0.025098,
+   0.166967,
+   -0.017925,
+   -0.052549,
+   -0.061005,
+   0.035027,
+   -0.166619,
+   -0.006023,
+   0.040562,
+   -0.413089,
+   -0.08953,
+   -0.206994,
+   0.174299,
+   -0.272971,
+   -0.160124,
+   0.078716,
+   -0.060502,
+   -0.136614,
+   0.180397,
+   0.200467,
+   -0.113188,
+   0.020397,
+   -0.182698,
+   -0.264133,
+   -0.033948,
+   0.544294,
+   -0.091301,
+   0.271707,
+   0.1519,
+   0.245342,
+   -0.107201,
+   0.174761,
+   0.265779,
+   -0.139192,
+   -0.613817,
+   0.043279,
+   0.118584,
+   0.040217,
+   -0.201022,
+   0.062833,
+   0.143648,
+   -0.001699,
+   -0.055814,
+   -0.041212,
+   -0.192071,
+   0.352769,
+   0.078067,
+   -0.055736,
+   0.333316,
+   -0.145179,
+   -0.639354,
+   0.092271,
+   -0.38321,
+   -0.021726,
+   -0.085356,
+   -0.068737,
+   -0.18739,
+   -0.026686,
+   0.032946,
+   -0.195433,
+   -0.021149,
+   -0.013267,
+   -0.146757,
+   -0.170115,
+   0.102153,
+   0.072915,
+   0.242048,
+   -0.099881,
+   -0.306377,
+   0.128382,
+   0.016149,
+   0.045524,
+   -0.218221,
+   -0.063752,
+   0.110289,
+   -0.247969,
+   0.018764,
+   0.30188,
+   -0.00815,
+   -0.272327,
+   -0.110633,
+   0.18296,
+   -0.036745,
+   -0.003313,
+   0.046732,
+   -0.147272,
+   0.362955,
+   0.1907,
+   -0.16447,
+   -0.188697,
+   0.25213,
+   -0.134105,
+   -0.105199,
+   -0.045666,
+   -0.130297,
+   0.023391,
+   -0.043449,
+   0.017968,
+   0.065383,
+   -0.116316,
+   0.128114,
+   0.368135,
+   -0.06288,
+   0.032401,
+   0.224363,
+   -0.00384,
+   -0.35255,
+   -0.00324,
+   0.174518,
+   0.005821,
+   0.055234,
+   -0.139554,
+   -0.09122,
+   0.42543,
+   0.160456,
+   -0.587214,
+   -0.085838,
+   0.126159,
+   0.289921,
+   -0.160965,
+   -0.227542,
+   -0.052553,
+   -0.10723,
+   0.201842,
+   -0.08259,
+   -0.601832,
+   0.111313,
+   0.042915,
+   -0.25829,
+   0.221137,
+   0.038551,
+   -0.066678,
+   -0.155492,
+   -0.005876,
+   -0.112267,
+   -0.066591,
+   0.225013,
+   -0.087578,
+   -0.257312,
+   -0.130494,
+   -0.176254,
+   0.016747,
+   -0.017397,
+   0.071759,
+   0.025387,
+   -0.454189,
+   -0.070917,
+   0.424586,
+   -0.186479,
+   0.062415,
+   -0.103221,
+   -0.112381,
+   0.053068,
+   0.066261,
+   0.192946,
+   -0.197518,
+   -0.117128,
+   -0.40555,
+   -0.093723,
+   -0.027111,
+   0.121547,
+   0.124523,
+   0.184305,
+   0.155987,
+   -0.181208,
+   -0.115078,
+   0.076675,
+   0.189729,
+   0.005119,
+   -0.130879,
+   -0.060603,
+   0.224152,
+   -0.107133,
+   0.229061,
+   0.269181,
+   0.378464,
+   -0.000931,
+   -0.34697,
+   0.090972,
+   -0.268212,
+   0.163917,
+   0.05212,
+   -0.019442,
+   -0.150755,
+   0.105132,
+   0.143155,
+   -0.435926,
+   -0.012355,
+   0.478181,
+   -0.04203,
+   -0.007775,
+   0.208487,
+   0.053351,
+   0.0192,
+   -0.032182,
+   0.060061,
+   0.244445,
+   0.055826,
+   -0.258247,
+   -0.121232,
+   -0.11163,
+   -0.36935,
+   0.056398,
+   -0.32927,
+   0.231069,
+   -0.163146,
+   0.031775,
+   -0.231881,
+   -0.079791,
+   0.071281,
+   0.324485,
+   -0.156945,
+   -0.29923,
+   0.36991,
+   0.037835,
+   -0.019378,
+   -0.309153,
+   0.025505,
+   0.221914,
+   -0.262175,
+   -0.298198,
+   -0.088324,
+   0.178255,
+   -0.114574,
+   -0.052484,
+   -0.123837,
+   -0.022061,
+   -0.056841,
+   -0.076203,
+   -0.293522,
+   0.454991,
+   -0.163589
+  ],
+  "SPEAKER_02": [
+   -0.159553,
+   0.180991,
+   -0.157447,
+   -0.154308,
+   -0.179178,
+   0.106634,
+   0.139914,
+   0.048799,
+   0.256813,
+   0.025694,
+   0.004103,
+   0.280223,
+   0.202862,
+   0.013681,
+   0.167524,
+   -0.288912,
+   -0.125848,
+   -0.243992,
+   0.368948,
+   0.228614,
+   -0.202271,
+   0.100481,
+   -0.159843,
+   0.062515,
+   0.232262,
+   0.09074,
+   -0.022509,
+   0.242286,
+   -0.118653,
+   0.131953,
+   -0.019437,
+   0.125936,
+   0.113729,
+   -0.396159,
+   0.091642,
+   -0.014458,
+   -0.232445,
+   -0.066098,
+   0.121714,
+   -0.156369,
+   -0.028323,
+   -0.185345,
+   0.284552,
+   -0.174221,
+   -0.193516,
+   0.085328,
+   -0.109994,
+   -0.002797,
+   -0.094718,
+   0.463704,
+   0.55484,
+   0.123445,
+   0.219412,
+   -0.165943,
+   -0.045289,
+   0.033979,
+   0.018549,
+   -0.124706,
+   -0.087922,
+   0.162029,
+   0.215832,
+   -0.033784,
+   0.185048,
+   0.068046,
+   0.258604,
+   0.342426,
+   0.01375,
+   0.042446,
+   -0.421158,
+   -0.03566,
+   -0.245236,
+   -0.26859,
+   0.099623,
+   -0.764498,
+   -0.034997,
+   0.232319,
+   -0.165878,
+   -0.210895,
+   0.152163,
+   0.098584,
+   -0.108748,
+   -0.226365,
+   -0.107415,
+   0.175437,
+   0.101663,
+   -0.075743,
+   0.049403,
+   -0.038717,
+   0.122963,
+   -0.211687,
+   0.271122,
+   -0.081568,
+   -0.158533,
+   -0.093039,
+   0.010009,
+   -0.318156,
+   0.348454,
+   0.361176,
+   -0.26612,
+   0.34829,
+   0.077574,
+   0.140876,
+   0.169907,
+   -0.213607,
+   -0.241453,
+   -0.000279,
+   -0.132066,
+   -0.178254,
+   -0.016534,
+   -0.174548,
+   0.573241,
+   0.09348,
+   -0.005418,
+   0.191835,
+   -0.250889,
+   -0.070859,
+   -0.030039,
+   -0.206537,
+   -0.419677,
+   -0.243618,
+   0.318032,
+   -0.115563,
+   -0.060101,
+   0.287454,
+   -0.204043,
+   0.207011,
+   -0.0793,
+   0.041241,
+   -0.074557,
+   0.293863,
+   -0.348705,
+   0.265346,
+   0.289235,
+   0.227369,
+   0.272349,
+   -0.219849,
+   -0.53777,
+   0.506301,
+   0.120543,
+   -0.116042,
+   0.058728,
+   0.191708,
+   0.22588,
+   -0.261934,
+   -0.319203,
+   -0.069542,
+   -0.304519,
+   -0.022031,
+   0.159448,
+   0.143477,
+   0.157933,
+   -0.110574,
+   -0.271527,
+   0.060394,
+   -0.225587,
+   -0.090736,
+   -0.223256,
+   0.044787,
+   0.26117,
+   -0.004626,
+   0.111298,
+   0.171915,
+   0.066716,
+   0.198278,
+   -0.040431,
+   0.114417,
+   -0.116033,
+   0.109806,
+   -0.24067,
+   -0.4635,
+   -0.092834,
+   0.237993,
+   0.035722,
+   0.159476,
+   0.203777,
+   -0.193762,
+   0.357035,
+   -0.111131,
+   -0.266949,
+   -0.168784,
+   0.069691,
+   -0.130889,
+   -0.234012,
+   0.214137,
+   0.154801,
+   0.179784,
+   0.024055,
+   0.107932,
+   -0.44507,
+   0.297792,
+   -0.210887,
+   0.313716,
+   -0.080674,
+   -0.300743,
+   -0.043262,
+   0.191692,
+   -0.042478,
+   0.192851,
+   0.272011,
+   0.089399,
+   0.080121,
+   -0.403004,
+   0.237297,
+   0.261028,
+   0.043083,
+   0.015549,
+   0.087082,
+   -0.034881,
+   -0.024093,
+   0.075007,
+   -0.126712,
+   -0.062483,
+   0.062571,
+   -0.088556,
+   -0.02081,
+   -0.330177,
+   -0.038984,
+   -0.215628,
+   -0.030662,
+   -0.089282,
+   -0.165391,
+   0.160245,
+   -0.128947,
+   0.215499,
+   -0.026705,
+   -0.278338,
+   0.277027,
+   -0.526704,
+   -0.258319,
+   -0.385938,
+   0.157764,
+   -0.227776,
+   -0.117879,
+   0.196225,
+   0.199457,
+   0.049017,
+   -0.229331,
+   0.010832,
+   -0.181209,
+   -0.287021,
+   -0.346807,
+   0.027899,
+   0.218476,
+   -0.488861,
+   -0.170859,
+   0.022238,
+   0.03978,
+   -0.008246,
+   0.302053,
+   0.101491,
+   -0.031077,
+   -0.086843,
+   -0.044465,
+   0.100982,
+   -0.109086,
+   0.05483
+  ]
+ },
  "segments": [
   {
    "start": 10.58,
@@ -3700,12 +4476,18 @@
   },
   {
    "start": 1663.54,
-   "end": 1668.02,
+   "end": 1665.1,
+   "text": "Ha ha ha ha!",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1665.8,
+   "end": 1668.0,
    "text": "Well, same social security number, so it's not too hard.",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 1668.32,
+   "start": 1668.2,
    "end": 1668.42,
    "text": "Yeah.",
    "speaker": "SPEAKER_01"
@@ -3717,32 +4499,32 @@
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 1673.0,
-   "end": 1673.44,
-   "text": "Uh, so.",
+   "start": 1672.98,
+   "end": 1673.84,
+   "text": "Uh, so, uh.",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 1674.42,
-   "end": 1675.0,
+   "start": 1674.4,
+   "end": 1675.18,
    "text": "That's terrifying, isn't it?",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 1675.0,
+   "start": 1675.18,
    "end": 1676.06,
    "text": "I make them well aware.",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 1676.22,
-   "end": 1679.86,
+   "start": 1676.24,
+   "end": 1679.84,
    "text": "Yeah, no, it's the most horrifying thing you can do in America is earn money.",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 1680.12,
-   "end": 1682.92,
+   "start": 1680.14,
+   "end": 1682.9,
    "text": "It's funny you mention, um, the name thing.",
    "speaker": "SPEAKER_00"
   },
@@ -3753,3423 +4535,1533 @@
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 1683.68,
-   "end": 1684.72,
-   "text": "I have this distinct memory.",
+   "start": 1683.72,
+   "end": 1686.28,
+   "text": "I have this distinct memory, and this is so embarrassing to say.",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 1684.82,
-   "end": 1687.94,
-   "text": "This is so embarrassing to say is before I knew you.",
+   "start": 1686.28,
+   "end": 1691.64,
+   "text": "is before i knew you and i was i don't know if it was i talking about content or something with",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 1687.94,
-   "end": 1692.06,
-   "text": "And I don't know if it was talking about content or something with my cousin.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 1692.26,
-   "end": 1693.62,
-   "text": "I called you G off.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 1693.78,
+   "start": 1691.64,
    "end": 1697.08,
-   "text": "I thought I thought your name was G off for a period of my life.",
+   "text": "my cousin i called you geoff i thought i thought your name was geoff for a period of my life",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 1697.56,
-   "end": 1698.96,
-   "text": "Well, yeah, I get that one a lot.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 1699.1,
-   "end": 1699.32,
-   "text": "Really?",
+   "start": 1697.08,
+   "end": 1701.96,
+   "text": "well yeah i get that one a lot really that's common okay i don't feel as dumb no no it's",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 1699.4,
-   "end": 1699.78,
-   "text": "That's common.",
+   "start": 1701.96,
+   "end": 1706.78,
+   "text": "common it's an it's common it's a it's commonly insulting for sure you should feel bad about it",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 1699.88,
-   "end": 1701.34,
-   "text": "OK, I don't feel as dumb.",
+   "start": 1706.78,
+   "end": 1716.02,
+   "text": "well it's okay andrew because for most of uh most of the first i would say six months i knew",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 1701.52,
-   "end": 1702.28,
-   "text": "No, no, it's common.",
+   "start": 1716.02,
+   "end": 1721.88,
+   "text": "you i referred to you as that fucking andrew panton the ball carrier and griff ball that",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 1702.38,
-   "end": 1703.06,
-   "text": "It's an it's common.",
+   "start": 1721.88,
+   "end": 1727.68,
+   "text": "fucking kid fuck him how does he do that fuck andrew panton do you still have your griff ball",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 1703.16,
-   "end": 1705.22,
-   "text": "It's a it's commonly insulting for sure.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 1705.68,
-   "end": 1706.72,
-   "text": "You should feel bad about it.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 1706.72,
-   "end": 1715.6,
-   "text": "Well, it's OK, Andrew, because for most of most of the first, I would say, six months",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 1715.6,
-   "end": 1721.38,
-   "text": "I knew you, I referred to you as that fucking Andrew Panton, the ball carrier and griff",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 1721.38,
-   "end": 1722.66,
-   "text": "ball, that fucking kid.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 1722.86,
-   "end": 1723.44,
-   "text": "Fuck him.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 1723.92,
-   "end": 1724.82,
-   "text": "How does he do that?",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 1725.24,
-   "end": 1726.0,
-   "text": "Fuck Andrew Panton.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 1726.32,
-   "end": 1728.34,
-   "text": "Do you still have your griff ball skills, Andrew?",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 1728.98,
-   "end": 1731.64,
-   "text": "No, no, I never really had them to begin with.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 1731.68,
+   "start": 1727.68,
    "end": 1732.86,
-   "text": "You guys were just all terrible.",
+   "text": "skills andrew i know no i never really had them to begin with you guys were just all terrible",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 1733.24,
-   "end": 1733.54,
-   "text": "That's true.",
+   "start": 1732.86,
+   "end": 1735.84,
+   "text": "that's true um big fish small pond type",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 1733.88,
-   "end": 1736.34,
-   "text": "Big fish, small pond type situation.",
+   "start": 1735.84,
+   "end": 1743.34,
+   "text": "but it was but wasn't that that was wrong it was like a slightly bigger fish in a really tiny",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 1736.72,
-   "end": 1740.94,
-   "text": "But it was but wasn't that that was wrong.",
+   "start": 1743.34,
+   "end": 1748.72,
+   "text": "like a puddle i was like a small fish in a puddle it's big griff ball by the way if you don't know",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 1741.0,
-   "end": 1744.56,
-   "text": "It was like a slightly bigger fish in a really tiny like a puddle.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 1744.62,
-   "end": 1745.96,
-   "text": "I was like a small fish in a puddle.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 1747.08,
-   "end": 1747.36,
-   "text": "It's big.",
+   "start": 1748.72,
+   "end": 1753.28,
+   "text": "what we're talking about it's a dumb uh video game that gavin and our friend bernie made in halo",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 1747.44,
-   "end": 1750.96,
-   "text": "Griff ball, by the way, if you don't know what we're talking about, it's a dumb video game",
+   "start": 1753.28,
+   "end": 1757.78,
+   "text": "like a game inside of a game so it's a game type yeah it became very popular and became official",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 1750.96,
-   "end": 1754.92,
-   "text": "that Gavin and our friend Bernie made in Halo, like a game inside of a game.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 1754.94,
-   "end": 1755.7,
-   "text": "So it's a game type.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 1756.16,
-   "end": 1758.46,
-   "text": "Yeah, they became very popular and became official part of Halo.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 1758.54,
+   "start": 1757.78,
    "end": 1761.26,
-   "text": "Actually, I think it's it's an official game type for the last couple of games.",
+   "text": "part of halo actually i think it's uh it's an official game type for the last couple games",
    "speaker": "SPEAKER_02"
   },
   {
    "start": 1761.26,
-   "end": 1762.84,
-   "text": "And it's named after you.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 1763.22,
-   "end": 1765.84,
-   "text": "Well, it's named after a character I played in a cartoon.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 1766.12,
    "end": 1766.24,
-   "text": "Yeah.",
+   "text": "which is and it's named after you well it's named after a character i played in in a cartoon yeah",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 1766.72,
-   "end": 1767.26,
-   "text": "Yeah, I guess so.",
+   "start": 1766.24,
+   "end": 1769.76,
+   "text": "but yeah i guess so i guess it's named after me though the point of it i'm not talking about a",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 1767.36,
-   "end": 1768.28,
-   "text": "I guess it's named after me, though.",
+   "start": 1769.76,
+   "end": 1774.8,
+   "text": "the point of the game is to kill me so thanks for inventing a game where the point you win by",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 1768.34,
-   "end": 1768.96,
-   "text": "The point of it.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 1769.24,
-   "end": 1770.06,
-   "text": "Not talking about a face.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 1770.14,
-   "end": 1771.32,
-   "text": "The point of the game is to kill me.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 1771.6,
-   "end": 1775.38,
-   "text": "So thanks for inventing a game where the point you win by killing me.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 1775.84,
-   "end": 1779.8,
-   "text": "Also, I feel like because we were sort of there at the beginning, we were all quite good at",
+   "start": 1774.8,
+   "end": 1779.42,
+   "text": "killing me also i feel like because we were sort of there at the beginning we were all quite good",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 1779.8,
-   "end": 1782.12,
-   "text": "the start, I would say, except for you, Jeff.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 1782.16,
+   "start": 1779.42,
    "end": 1783.72,
-   "text": "I don't think you were ever good at griffball.",
+   "text": "at the start i would say except for you jeff i don't think you were ever good at griffball",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 1784.04,
-   "end": 1784.98,
-   "text": "I think you're always terrible.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 1785.22,
-   "end": 1787.68,
-   "text": "I was never good at the game where the point was to kill me.",
+   "start": 1783.72,
+   "end": 1787.7,
+   "text": "i think you're always terrible i was never good at the game where the point was to kill me",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 1787.68,
-   "end": 1788.04,
-   "text": "Nah.",
+   "start": 1787.7,
+   "end": 1793.78,
+   "text": "something something always held me back on the griffball fields i don't know why i don't know",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 1790.52,
-   "end": 1793.0,
-   "text": "Something that something always held me back on the griffball fields.",
+   "start": 1793.78,
+   "end": 1799.5,
+   "text": "what it was hey gav i have a question i'm thinking about my childhood i remember about a specific",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 1793.08,
-   "end": 1793.52,
-   "text": "I don't know why.",
+   "start": 1799.5,
+   "end": 1804.9,
+   "text": "moment from your childhood and i wonder would you consider that period in your life where you didn't",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 1793.6,
-   "end": 1794.22,
-   "text": "I don't know what it was.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 1795.36,
-   "end": 1796.4,
-   "text": "Hey, Gav, I have a question.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 1796.56,
-   "end": 1798.0,
-   "text": "I'm thinking about my childhood.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 1798.44,
-   "end": 1800.64,
-   "text": "I remember about a specific moment from your childhood.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 1800.64,
-   "end": 1805.98,
-   "text": "And I wonder, would you consider that period in your life where you didn't talk for three",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 1805.98,
-   "end": 1806.78,
-   "text": "or four years?",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 1807.16,
-   "end": 1807.82,
-   "text": "Was that a face?",
+   "start": 1804.9,
+   "end": 1812.6,
+   "text": "talk for three or four years was that a face uh i guess it was that was i mean yeah once again like",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 1807.82,
-   "end": 1810.8,
-   "text": "Uh, I guess it was.",
+   "start": 1812.6,
+   "end": 1819.66,
+   "text": "yours wasn't my decision i just became you know when you're like four or five you start you sort of",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 1810.88,
-   "end": 1814.3,
-   "text": "That was, I mean, yeah, once again, like yours, wasn't my decision.",
+   "start": 1819.66,
+   "end": 1824.92,
+   "text": "take control over the mindless blob that you've been the entire time and you're like all right i'm",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 1815.62,
-   "end": 1821.04,
-   "text": "I just became, you know, when you're like four or five, you sort of take control over",
+   "start": 1824.92,
+   "end": 1831.22,
+   "text": "driving this thing i guess i'm making decisions for this lump of meat uh but for some reason at",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 1821.04,
-   "end": 1823.78,
-   "text": "the mindless blob that you've been the entire time.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 1824.1,
-   "end": 1825.88,
-   "text": "And you're like, all right, I'm driving this thing.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 1826.04,
-   "end": 1828.98,
-   "text": "I guess I'm making decisions for this lump of meat.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 1829.8,
-   "end": 1832.18,
-   "text": "But for some reason at school, I didn't talk.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 1832.68,
-   "end": 1834.8,
-   "text": "And I just became sentient in that.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 1834.8,
+   "start": 1831.22,
    "end": 1837.44,
-   "text": "And I was like, well, I want to talk to people.",
+   "text": "school i didn't talk and i just became sentient in that and i was like well i want to talk to people",
    "speaker": "SPEAKER_01"
   },
   {
    "start": 1837.44,
-   "end": 1841.22,
-   "text": "Well, I can't just start talking now, though, because everyone will be like, Jesus Christ,",
+   "end": 1842.0,
+   "text": "i can't just start talking now though because everyone will be like jesus christ he said something",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 1841.3,
-   "end": 1841.92,
-   "text": "he said something.",
+   "start": 1842.0,
+   "end": 1850.12,
+   "text": "uh so i just stayed silent have you heard this andrew no he described it to me what grade was",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1850.12,
+   "end": 1854.72,
+   "text": "it this started in oh right at the beginning from the moment i set foot into a school i was like i",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 1842.94,
-   "end": 1844.76,
-   "text": "So I just stayed silent.",
+   "start": 1854.72,
+   "end": 1860.66,
+   "text": "don't like what's happening this is but before i took over apparently it's like i don't want to say",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 1845.8,
-   "end": 1846.9,
-   "text": "Have you heard this, Andrew?",
+   "start": 1860.66,
+   "end": 1866.28,
+   "text": "anything the way he described it to me the first time he told me andrew is he went to school the first",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 1847.52,
-   "end": 1847.88,
-   "text": "No.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 1848.34,
-   "end": 1849.44,
-   "text": "He described it to me.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 1849.48,
-   "end": 1850.86,
-   "text": "What grade was it this started in?",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 1851.0,
-   "end": 1851.66,
-   "text": "Oh, right at the beginning.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 1852.14,
-   "end": 1856.22,
-   "text": "From the moment I set foot into a school, I was like, I don't like what's happening.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 1856.34,
-   "end": 1857.8,
-   "text": "This is before I took over.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 1859.18,
-   "end": 1860.96,
-   "text": "Apparently, it's like, I don't want to say anything.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 1861.78,
-   "end": 1865.92,
-   "text": "The way he described it to me the first time he told me, Andrew, is he went to school",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 1865.92,
+   "start": 1866.28,
    "end": 1869.56,
-   "text": "the first day and he didn't say anything because he didn't know who to talk to or who's shy.",
+   "text": "day and he didn't say anything because he didn't you know he didn't know who to talk to who's shy",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 1869.88,
-   "end": 1872.62,
-   "text": "And then so when he went to school the second day, he thought, well, I didn't say anything",
+   "start": 1869.56,
+   "end": 1873.26,
+   "text": "and then so when he went to school the second day he thought well i didn't say anything yesterday so",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 1872.62,
-   "end": 1874.48,
-   "text": "yesterday, so I better keep my mouth shut today.",
+   "start": 1873.26,
+   "end": 1879.46,
+   "text": "i better keep my mouth shut today and then he just did that for like three years like he was the",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 1875.1,
-   "end": 1878.04,
-   "text": "And then he just did that for like three years.",
+   "start": 1879.46,
+   "end": 1885.36,
+   "text": "kid in class that doesn't talk like the mute silent kid that everybody thinks is weird i assume yeah but",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 1878.5,
-   "end": 1881.1,
-   "text": "Like he was the kid in class that doesn't talk.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 1881.16,
-   "end": 1884.18,
-   "text": "Like the mute, silent kid that everybody thinks is weird, I assume.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 1884.18,
-   "end": 1886.74,
-   "text": "Yeah, but it was fine.",
+   "start": 1885.36,
+   "end": 1890.42,
+   "text": "it was fine like people would still talk to me and they they could tell that i would understand like",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 1886.82,
-   "end": 1890.18,
-   "text": "Like people would still talk to me and they could tell that I would understand.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 1890.36,
-   "end": 1891.54,
-   "text": "Like I would nod and stuff.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 1893.1,
+   "start": 1890.42,
    "end": 1896.34,
-   "text": "And then I would get home and be like, oh, God.",
+   "text": "i would nod and stuff and then i would go i would get home and be like oh god",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 1896.7,
-   "end": 1899.08,
-   "text": "And just everyone's like pent up energy.",
+   "start": 1896.34,
+   "end": 1903.4,
+   "text": "and just someone's like pent up energy and then one day i think it was year two i decided i was bored",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 1899.64,
-   "end": 1905.0,
-   "text": "And then one day, I think it was year two, I decided I was bored of this existence.",
+   "start": 1903.4,
+   "end": 1908.9,
+   "text": "of of this existence and i thought i'm gonna talk when they because the the the teachers had already",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 1905.0,
-   "end": 1909.28,
-   "text": "And I thought, I'm going to talk when they, because the teachers had already got into",
+   "start": 1908.9,
+   "end": 1913.86,
+   "text": "got into the swing of ignoring me for the for like the morning register they would read out everyone's",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 1909.28,
-   "end": 1912.8,
-   "text": "the swing of ignoring me for the, for like the morning register.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 1912.8,
+   "start": 1913.86,
    "end": 1917.04,
-   "text": "They would read out everyone's names, you know, be like Gavin, Goreflax or whatever.",
+   "text": "names you know be like gavin gore flax or whatever",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 1919.44,
-   "end": 1923.38,
-   "text": "And they would say Gavin and just look for me and people would point at me and I would",
+   "start": 1917.04,
+   "end": 1923.68,
+   "text": "and they would say gavin and just look for me and people would point at me and i would just like",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 1923.38,
-   "end": 1925.4,
-   "text": "just like sometimes put a hand up and they'd be like, yeah, he's here.",
+   "start": 1923.68,
+   "end": 1927.6,
+   "text": "sometimes put a hand up and they'd be like yeah he's here and then one day the beginning of year",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 1925.62,
-   "end": 1929.86,
-   "text": "And then one day, the beginning of year two, I was like, uh, yeah, here.",
+   "start": 1927.6,
+   "end": 1933.12,
+   "text": "two i was like uh yeah here and every single person in the room looked at me",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 1929.86,
-   "end": 1936.08,
-   "text": "And every single person in the room looked at me and I was like, this is my worst nightmare.",
+   "start": 1933.12,
+   "end": 1939.5,
+   "text": "and i was like this is my worst nightmare and then and then the teacher just said the next",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 1936.34,
-   "end": 1941.02,
-   "text": "And then, and then the teacher just said the next, the next name on the list.",
+   "start": 1939.5,
+   "end": 1944.5,
+   "text": "next name on the list and that was it that was it from then on it was fine i was like what the",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 1941.16,
-   "end": 1941.86,
-   "text": "And that was it.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 1942.4,
-   "end": 1942.96,
-   "text": "That was it.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 1943.04,
-   "end": 1943.86,
-   "text": "From then on, it was fine.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 1943.9,
-   "end": 1945.5,
-   "text": "I was like, what the hell was all the fuss about?",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 1945.9,
-   "end": 1947.8,
-   "text": "What was the next moment you spoke?",
+   "start": 1944.5,
+   "end": 1950.3,
+   "text": "hell was all the fuss about what was the next moment you spoke do you remember like at recess some kid",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 1947.9,
-   "end": 1948.5,
-   "text": "Do you remember?",
+   "start": 1950.3,
+   "end": 1955.14,
+   "text": "was like oh daddy you will play a game of nobby tobs or whatever and you were like oh i guess i do",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 1948.7,
-   "end": 1953.74,
-   "text": "Like at recess, some kid was like, oh, Gary, you will play a game of nobby tobs or whatever.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 1953.74,
-   "end": 1955.1,
-   "text": "And you were like, oh, I guess I do.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 1955.46,
-   "end": 1955.68,
-   "text": "Yeah.",
+   "start": 1955.14,
+   "end": 1959.72,
+   "text": "yeah it was just people were just coming over be like so you talk now and i was like i guess so",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 1955.98,
-   "end": 1958.6,
-   "text": "It was just people were just coming over and be like, so you talk now?",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 1958.62,
-   "end": 1959.7,
-   "text": "And I was like, I guess so.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 1960.14,
-   "end": 1960.3,
-   "text": "Yeah.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 1960.36,
-   "end": 1961.1,
-   "text": "I just went for it.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 1962.88,
-   "end": 1965.72,
-   "text": "You think you'd be naturally equipped to be a mime at this point?",
+   "start": 1959.72,
+   "end": 1966.14,
+   "text": "yeah i just went for it you think you'd be naturally equipped to be a mime at this point like if you",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 1965.78,
-   "end": 1968.0,
-   "text": "Like if you got into that, would you just be immediately good?",
+   "start": 1966.14,
+   "end": 1970.18,
+   "text": "got into that would you just be immediately good like how did you communicate at all you like you",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 1968.48,
-   "end": 1969.8,
-   "text": "Like how did you communicate at all?",
+   "start": 1970.18,
+   "end": 1976.62,
+   "text": "must have emoted there's no like you just didn't do anything i did quite enjoy the silent times",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 1969.86,
-   "end": 1971.04,
-   "text": "Like you must have emoted.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 1971.6,
-   "end": 1973.36,
-   "text": "There's no, like you just didn't do anything.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 1973.74,
-   "end": 1978.7,
-   "text": "I did quite enjoy the silent times because I got out of doing stuff that I didn't want",
+   "start": 1976.62,
+   "end": 1981.58,
+   "text": "because i got out of doing stuff that i didn't want to do anyway like we during like reading they",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 1978.7,
-   "end": 1979.16,
-   "text": "to do anyway.",
+   "start": 1981.58,
+   "end": 1985.7,
+   "text": "would just like pass a book around and one person would read to the rest of the class and they just",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 1979.16,
-   "end": 1984.2,
-   "text": "Like we, during like reading, they would just like pass a book around and one person would",
+   "start": 1985.7,
+   "end": 1990.94,
+   "text": "passed it over me because they knew i wouldn't do it suddenly i'm there having to read and everyone's",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 1984.2,
-   "end": 1986.8,
-   "text": "read to the rest of the class and they just passed it over me.",
+   "start": 1990.94,
+   "end": 1996.22,
+   "text": "you know it was it was a shyness thing you never got called on to answer questions or anything because",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1996.22,
+   "end": 2001.24,
+   "text": "there was no point yeah until i answered my name that one day i should i i if i look back on it i",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 1986.8,
-   "end": 1993.22,
-   "text": "Suddenly I'm there having to read and everyone's, you know, it was, it was a shyness thing.",
+   "start": 2001.24,
+   "end": 2007.02,
+   "text": "probably should have kept it up a little bit longer you know it's never too late go ahead go",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 1993.54,
-   "end": 1996.88,
-   "text": "You never got called on to answer questions or anything because there was no point.",
+   "start": 2007.02,
+   "end": 2014.1,
+   "text": "into what andrew said about you like having those innate mime skills that makes me think when my kid",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 1997.6,
-   "end": 1997.86,
-   "text": "Yeah.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 1997.86,
-   "end": 1999.24,
-   "text": "Until I answered my name that one day.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 1999.62,
-   "end": 2002.8,
-   "text": "I, if I look back on it, I probably should have kept it up a little bit longer.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 2002.8,
-   "end": 2005.32,
-   "text": "Well, you know, it's never too late.",
+   "start": 2014.1,
+   "end": 2018.48,
+   "text": "went to preschool she went to a french immersion preschool for like three or four years and uh they",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2005.68,
-   "end": 2012.36,
-   "text": "Go into what Andrew said about you, like having those innate mime skills.",
+   "start": 2018.48,
+   "end": 2023.94,
+   "text": "only spoke french and so she learned and was fluent in french and hated it and stopped speaking it and",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2012.36,
-   "end": 2016.3,
-   "text": "That makes me think when my kid went to preschool, she went to a French immersion preschool for",
+   "start": 2023.94,
+   "end": 2028.82,
+   "text": "now doesn't remember a word of french but her teacher told me it's okay because when she's an adult",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2016.3,
-   "end": 2019.22,
-   "text": "like three or four years and, uh, they only spoke French.",
+   "start": 2028.82,
+   "end": 2036.62,
+   "text": "she her her her like her mouth muscles learned how to how to do those sounds and to pronounce and",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2019.22,
-   "end": 2024.16,
-   "text": "And so she learned and was fluent in French and hated it and stopped speaking it and now",
+   "start": 2036.62,
+   "end": 2041.22,
+   "text": "pronounce things that way and she'll always have that and if she ever decides to pick up french again",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2024.16,
-   "end": 2025.48,
-   "text": "doesn't remember a word of French.",
+   "start": 2041.22,
+   "end": 2046.78,
+   "text": "she'll pick it up immediately because her her i don't know her mouth knows how to form words that way",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2025.48,
-   "end": 2031.64,
-   "text": "But her teacher told me it's okay because when she's an adult, she, her, her, her, like",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2031.64,
-   "end": 2037.04,
-   "text": "her mouth muscles learned how to, how to do those sounds and to pronounce and pronounce",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2037.04,
-   "end": 2037.72,
-   "text": "things that way.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2037.76,
-   "end": 2039.24,
-   "text": "And she'll always have that.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2039.24,
-   "end": 2043.12,
-   "text": "And if she ever decides to pick up French again, she'll pick it up immediately because",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2043.12,
-   "end": 2047.56,
-   "text": "her, her, her, I don't know, her mouth knows how to form words that way from an early",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2047.56,
+   "start": 2046.78,
    "end": 2053.32,
-   "text": "age, like since memory, I bet you have innate mime memory where your body would just snap",
+   "text": "from an early age like since memory i bet you have innate mime memory where your body would just snap",
    "speaker": "SPEAKER_02"
   },
   {
    "start": 2053.32,
-   "end": 2054.22,
-   "text": "right back into it.",
+   "end": 2062.34,
+   "text": "right back into it i'd be doing all the gestures i feel like that's such a cop-out answer i'm trapped",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2062.34,
+   "end": 2069.68,
+   "text": "in a box like how are you going to prove the french teacher wrong like come back in 20 years like that's",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2069.68,
+   "end": 2075.18,
+   "text": "such a great argument to make you can't prove them wrong until like 20 years passes i could uh i could",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2075.18,
+   "end": 2081.02,
+   "text": "prove a wrong i'm still on the mailing list i still donate money to them every year is the sole reason",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2055.48,
-   "end": 2057.38,
-   "text": "I'd be doing all the gestures.",
+   "start": 2081.02,
+   "end": 2088.62,
+   "text": "why you're waiting you promise me why french though french is a is a useless language in texas you",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 2058.78,
-   "end": 2061.62,
-   "text": "I feel like that's such a cop out answer.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2061.92,
-   "end": 2062.92,
-   "text": "I'm trapped in a box.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 2064.84,
-   "end": 2067.08,
-   "text": "Like, how are you going to prove the French teacher wrong?",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2067.52,
-   "end": 2068.94,
-   "text": "Like come back in 20 years?",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2069.08,
-   "end": 2071.06,
-   "text": "Like that's such a great argument to make.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2071.2,
-   "end": 2073.66,
-   "text": "You can't prove them wrong until like 20 years passes.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2074.08,
-   "end": 2075.72,
-   "text": "I could, uh, I could prove a wrong.",
+   "start": 2088.62,
+   "end": 2095.54,
+   "text": "want you want spanish surely uh yeah no if i can be totally honest with you i mean high-mindedly the",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2075.82,
-   "end": 2076.98,
-   "text": "I'm still on the mailing list.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2077.08,
-   "end": 2078.96,
-   "text": "I still donate money to them every year.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2079.68,
-   "end": 2082.42,
-   "text": "Is the sole reason why you're waiting?",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2082.74,
-   "end": 2083.66,
-   "text": "You promise me.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2084.24,
-   "end": 2085.24,
-   "text": "Why French though?",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 2085.48,
-   "end": 2088.34,
-   "text": "French is a, is a useless language in Texas.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 2088.58,
-   "end": 2089.74,
-   "text": "You want, you want Spanish surely?",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 2090.46,
-   "end": 2096.56,
-   "text": "Uh, yeah, no, if I can be totally honest with you, I mean, high-mindedly the idea was my",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2096.56,
+   "start": 2095.54,
    "end": 2102.74,
-   "text": "ex-wife spoke fluent French and they could speak it together and it would be like a family",
+   "text": "idea was my ex-wife spoke fluent french and they could speak it together and it would be like a family",
    "speaker": "SPEAKER_02"
   },
   {
    "start": 2102.74,
-   "end": 2103.1,
-   "text": "thing.",
+   "end": 2107.66,
+   "text": "thing uh and then she could help her learn and that kind of thing uh but the real honest to god",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2103.3,
-   "end": 2105.52,
-   "text": "Uh, and then she could help her learn and that kind of thing.",
+   "start": 2107.66,
+   "end": 2114.44,
+   "text": "reason was that it was the only preschool we could get her in like it's just like in texas in austin",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2105.52,
-   "end": 2110.76,
-   "text": "Uh, but the real honest to God reason was that it was the only preschool we could get her in.",
+   "start": 2114.44,
+   "end": 2122.66,
+   "text": "you have to sign up for preschool probably six months before you conceive to get into a program and so",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2111.62,
-   "end": 2121.44,
-   "text": "Like, it's just like in Texas, in Austin, you have to sign up for preschool probably six months before you conceive to get into a program.",
+   "start": 2122.66,
+   "end": 2127.22,
+   "text": "uh we didn't do that and so when millie was about a year old we realized we were going to need",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2121.44,
-   "end": 2124.06,
-   "text": "Uh, and so, uh, we didn't do that.",
+   "start": 2127.22,
+   "end": 2131.96,
+   "text": "at about two we were going to need preschool so we started looking and they were like you want to",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2124.06,
-   "end": 2129.3,
-   "text": "And so when Millie was about a year old, we realized we were going to need at, at about two, we were going to need preschool.",
+   "start": 2131.96,
+   "end": 2136.16,
+   "text": "take you want to put your kid preschool in a year yeah fat chance buddy you should have you should",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2129.3,
-   "end": 2133.74,
-   "text": "So we started looking and they were like, you want to take, you want to put your kid in preschool in a year?",
+   "start": 2136.16,
+   "end": 2141.04,
+   "text": "start this process four years ago and it's she wasn't she was minus three four years ago and",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2134.04,
-   "end": 2134.3,
-   "text": "Yeah.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2134.38,
-   "end": 2135.16,
-   "text": "Fat chance, buddy.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2135.26,
-   "end": 2137.78,
-   "text": "You should have, you should have started this process four years ago.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2137.88,
-   "end": 2140.86,
-   "text": "And it's, she wasn't, she was minus three, four years ago.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2140.86,
-   "end": 2141.94,
-   "text": "And they're like, that's not my problem.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2142.4,
+   "start": 2141.04,
    "end": 2144.54,
-   "text": "Uh, so we were able to get her into the French immersion school.",
+   "text": "they're like that's not my problem uh so we were able to get her into the french immersion school",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2144.6,
-   "end": 2146.94,
-   "text": "So then we were like, yeah, we, we planned that the whole time.",
+   "start": 2144.54,
+   "end": 2148.96,
+   "text": "so they were like yeah we we planned that the whole time absolutely all right andrew i think for next",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2147.22,
-   "end": 2147.54,
-   "text": "Absolutely.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2147.92,
-   "end": 2153.4,
-   "text": "All right, Andrew, I think for next week you should try and get your kid into preschool, even though he's yet to be born.",
+   "start": 2148.96,
+   "end": 2154.88,
+   "text": "week you should try and get your kid into preschool even though he's yet to be born oh man i need more",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 2153.86,
-   "end": 2155.32,
-   "text": "Oh man, I need more than three.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2155.8,
-   "end": 2156.98,
-   "text": "I need like negative 20.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2159.36,
+   "start": 2154.88,
    "end": 2163.18,
-   "text": "So I, so I fucked, I, my face was, my first face was at birth.",
+   "text": "than three i need like negative 20 i think so i so i fucked i my face was my first face was at birth",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2163.42,
-   "end": 2166.88,
-   "text": "Uh, Gavin, I don't know if that was your first face, but it was a pretty, it was.",
+   "start": 2163.18,
+   "end": 2168.68,
+   "text": "uh gavin i don't know if that was your first face but i think it was oh so your first face was when",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2167.24,
-   "end": 2170.0,
-   "text": "Oh, so your first face was when you decided not to talk ever.",
+   "start": 2168.68,
+   "end": 2174.2,
+   "text": "you decided not to talk ever did what about you andrew do you have any at least early faces i have a",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2170.38,
-   "end": 2171.22,
-   "text": "Did, what about you, Andrew?",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2171.22,
-   "end": 2173.34,
-   "text": "Do you have any, at least early faces?",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2173.7,
-   "end": 2174.94,
-   "text": "I have a, a bunch.",
+   "start": 2174.2,
+   "end": 2180.04,
+   "text": "bunch um you guys know like before like a movie starts that's like dangerous or something they say",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2175.38,
-   "end": 2179.64,
-   "text": "Um, you guys know, like before, like a movie starts, that's like dangerous or something.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2179.64,
-   "end": 2181.46,
-   "text": "They say like, don't perform these stunts at home.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2181.46,
-   "end": 2182.38,
-   "text": "Or like, this is a movie.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2182.48,
+   "start": 2180.04,
    "end": 2184.36,
-   "text": "Don't try to, don't try to do those.",
+   "text": "like don't perform these stunts at home or like this is a movie don't try to don't try to do those",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2184.6,
-   "end": 2184.74,
-   "text": "Yeah.",
+   "start": 2184.36,
+   "end": 2190.9,
+   "text": "yeah i realized those were really made for me i learned a lot from movies growing up like i have",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2184.74,
-   "end": 2186.42,
-   "text": "I realized those were really made for me.",
+   "start": 2190.9,
+   "end": 2195.54,
+   "text": "a distinct memory of uh like i'd i'd hear words in movies i could kind of watch whatever i wanted",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2187.52,
-   "end": 2190.1,
-   "text": "I learned a lot from movies growing up.",
+   "start": 2195.54,
+   "end": 2199.82,
+   "text": "when i was a kid when i was like four or five and i'd hear like curse words and stuff and i wouldn't",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2190.4,
-   "end": 2194.0,
-   "text": "Like I have a distinct memory of, uh, like I'd, I'd hear words in movies.",
+   "start": 2199.82,
+   "end": 2203.98,
+   "text": "know what they meant but i could kind of tell what they meant based on how the person in the scene",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2194.12,
-   "end": 2197.2,
-   "text": "I could kind of watch whatever I wanted when I was a kid, when I was like four or five.",
+   "start": 2203.98,
+   "end": 2209.84,
+   "text": "reacted to them so i get a gauge of like how bad the word was that way okay and there was",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2197.3,
-   "end": 2199.06,
-   "text": "And I'd hear like curse words and stuff.",
+   "start": 2209.84,
+   "end": 2214.36,
+   "text": "one movie where someone flipped somebody off and it was kind of like they were kind of annoyed but",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2199.06,
-   "end": 2202.82,
-   "text": "And I wouldn't know what they meant, but I could kind of tell what they meant based on",
+   "start": 2214.36,
+   "end": 2219.14,
+   "text": "also like they thought it was funny so i had no idea how to read it i spent the entire day i was",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2202.82,
-   "end": 2205.16,
-   "text": "how the person in the scene reacted to them.",
+   "start": 2219.14,
+   "end": 2224.36,
+   "text": "probably like four thinking is this bad is this like an insult is this like a it's like a secret",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2205.32,
-   "end": 2208.5,
-   "text": "So I get a gauge of like how bad the word was that way.",
+   "start": 2224.36,
+   "end": 2229.84,
+   "text": "like wave like what is this i don't know what this move is so my way to figure this out was as soon as",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2208.74,
-   "end": 2209.0,
-   "text": "Okay.",
+   "start": 2229.84,
+   "end": 2235.98,
+   "text": "i got home uh i i walked to the side i walked in front of my house on the sidewalk and i decided that",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2209.12,
-   "end": 2213.38,
-   "text": "And there was one movie where someone flipped somebody off and it was kind of like, they",
+   "start": 2235.98,
+   "end": 2242.9,
+   "text": "the next car that drove by i'm gonna flip them off and depending on how they react i'll know if i",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2213.38,
-   "end": 2215.76,
-   "text": "were kind of annoyed, but also like they thought it was funny.",
+   "start": 2242.9,
+   "end": 2249.72,
+   "text": "should continue to do this or if i shouldn't do this so i waited like five or ten minutes and then",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2215.9,
-   "end": 2217.5,
-   "text": "So I had no idea how to read it.",
+   "start": 2249.72,
+   "end": 2255.54,
+   "text": "this really and i remember this so vividly it was this piece of shit truck just completely beat up",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2217.54,
-   "end": 2218.76,
-   "text": "I spent the entire day.",
+   "start": 2255.54,
+   "end": 2261.34,
+   "text": "holes in the side it was a mess and this big guy driving it he looked like kind of a southern",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2218.86,
-   "end": 2221.44,
-   "text": "I was probably like four thinking, is this bad?",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2221.46,
-   "end": 2222.44,
-   "text": "Is this like an insult?",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2222.44,
-   "end": 2225.04,
-   "text": "Is this like a, is this like a secret like wave?",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2225.14,
-   "end": 2225.88,
-   "text": "Like, what is this?",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2225.9,
-   "end": 2226.92,
-   "text": "I don't know what this move is.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2227.34,
-   "end": 2232.78,
-   "text": "So my way to figure this out was as soon as I got home, uh, I, I walked to the side,",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2232.84,
-   "end": 2237.14,
-   "text": "I walked in front of my house on the sidewalk and I decided that the next car that drove",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2237.14,
-   "end": 2239.26,
-   "text": "by, I'm going to flip them off.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2239.64,
-   "end": 2245.2,
-   "text": "And depending on how they react, I'll know if I should continue to do this or if I shouldn't",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2245.2,
-   "end": 2245.7,
-   "text": "do this.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2245.7,
-   "end": 2251.92,
-   "text": "So I waited like five or 10 minutes and then this really, and I remember this so vividly,",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2251.98,
-   "end": 2256.9,
-   "text": "it was this piece of shit truck, just completely beat up holes in the side.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2257.12,
-   "end": 2258.1,
-   "text": "It was a mess.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2258.26,
-   "end": 2263.18,
-   "text": "And this big guy driving it, he looked like kind of a Southern like stereotype character.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2263.58,
+   "start": 2261.34,
    "end": 2267.08,
-   "text": "And he looked at me and I looked at him and I had this huge grin on my face.",
+   "text": "like stereotype character and he looked at me and i looked at him and i had this huge grin on my face",
    "speaker": "SPEAKER_00"
   },
   {
    "start": 2267.08,
-   "end": 2268.36,
-   "text": "Cause I'm like, I don't know what this means.",
+   "end": 2270.6,
+   "text": "because i'm like i don't know what this means so i want to kind of look nice but it probably made it",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2268.46,
-   "end": 2270.92,
-   "text": "So I want to kind of look nice, but it probably made it worse.",
+   "start": 2270.6,
+   "end": 2278.0,
+   "text": "worse so i was smiling as wide as i could and i flipped him off and to this date i think this is",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2271.28,
-   "end": 2273.76,
-   "text": "So I smiling as wide as I could.",
+   "start": 2278.0,
+   "end": 2285.02,
+   "text": "the angriest i've ever seen anybody in my life he was irate he was so mad and he immediately flipped",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2273.76,
-   "end": 2275.3,
-   "text": "And I flipped him off.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2275.74,
-   "end": 2280.66,
-   "text": "And to this date, I think this is the angriest I've ever seen anybody in my life.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2280.74,
-   "end": 2281.68,
-   "text": "He was irate.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2282.12,
-   "end": 2283.4,
-   "text": "He was so mad.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2283.54,
-   "end": 2285.94,
-   "text": "And he immediately flipped me back off again.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2286.14,
-   "end": 2287.5,
-   "text": "And I was terrified.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2287.98,
+   "start": 2285.02,
    "end": 2290.02,
-   "text": "I was like, I don't know what I did to this person.",
+   "text": "me back off again and i was terrified i was like i don't know what i did to this person",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2290.24,
-   "end": 2290.96,
-   "text": "And you were four?",
+   "start": 2290.02,
+   "end": 2294.68,
+   "text": "and you were four yeah it's like four or five so he's there driving around minding his own",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2291.4,
-   "end": 2292.54,
-   "text": "Yeah, it's like four or five.",
+   "start": 2294.68,
+   "end": 2300.1,
+   "text": "business you're ruining his day he's thinking whose kid is this just stood outside the road",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2300.1,
+   "end": 2305.84,
+   "text": "smugly flipping me off i was very nervous and i thought why i do this in front of my own house",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2292.74,
-   "end": 2295.0,
-   "text": "So he's there driving around minding his own business.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 2295.1,
-   "end": 2296.32,
-   "text": "You're ruining his day.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 2296.4,
-   "end": 2298.52,
-   "text": "He's thinking, whose kid is this?",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 2298.84,
-   "end": 2298.98,
-   "text": "Yeah.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 2299.3,
-   "end": 2301.7,
-   "text": "He's sitting outside of the road smugly flipping me off.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 2301.7,
-   "end": 2303.78,
-   "text": "I was very nervous.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2303.92,
-   "end": 2305.8,
-   "text": "I thought, why do I do this in front of my own house?",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2306.34,
+   "start": 2305.84,
    "end": 2307.12,
-   "text": "He knows where I live.",
+   "text": "he knows where i live",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2309.0,
-   "end": 2312.86,
-   "text": "So you, as a four-year-old, you're not thinking like, oh sweet, Super Nintendo.",
+   "start": 2307.12,
+   "end": 2313.94,
+   "text": "so you as a four-year-old you're not thinking like oh sweet super nintendo or like i'm gonna play with",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 2313.14,
-   "end": 2314.8,
-   "text": "Or like, I'm going to play with blocks and shit.",
+   "start": 2313.94,
+   "end": 2319.72,
+   "text": "blocks and shit you're doing like studies on human communication based on movies and you're",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 2315.1,
-   "end": 2319.1,
-   "text": "You're doing like studies on human communication based on movies.",
+   "start": 2319.72,
+   "end": 2323.82,
+   "text": "testing that out in the real world yeah i just i didn't know what it meant and i i don't know i",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2323.82,
+   "end": 2328.26,
+   "text": "like making people laugh so like in godzilla i used to watch that a lot as a kid a helicopter",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2328.26,
+   "end": 2332.5,
+   "text": "gets shot down and they yell mayday i had no idea what that meant but i just yell mayday kids would",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2332.5,
+   "end": 2337.42,
+   "text": "laugh at it so i'd yell mayday all the time when i was in like first grade playing tech well maybe if",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2337.42,
+   "end": 2342.08,
+   "text": "you went to french school andrew you would know what that meant that's a great point probably known",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 2319.36,
-   "end": 2321.22,
-   "text": "And you're testing that out in the real world.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 2321.22,
-   "end": 2322.68,
-   "text": "Yeah, I just, I didn't know what it meant.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2322.88,
-   "end": 2323.68,
-   "text": "And I don't know.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2323.78,
-   "end": 2325.06,
-   "text": "I like making people laugh.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2325.12,
-   "end": 2327.64,
-   "text": "So like in Godzilla, I used to watch that a lot as a kid.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2327.74,
-   "end": 2329.72,
-   "text": "A helicopter gets shot down and they yell mayday.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2329.96,
-   "end": 2332.08,
-   "text": "I had no idea what that meant, but I just yell mayday.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2332.2,
-   "end": 2333.08,
-   "text": "Kids would laugh at it.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2333.1,
-   "end": 2336.44,
-   "text": "So I'd yell mayday all the time when I was in like first grade playing tech.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2336.82,
-   "end": 2340.24,
-   "text": "Well, maybe if you went to French school, Andrew, you would know what that meant.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 2340.38,
-   "end": 2341.18,
-   "text": "That's a great point.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2341.56,
-   "end": 2342.66,
-   "text": "Probably known two languages.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2342.66,
-   "end": 2348.4,
-   "text": "It's amazing how dumb the shit we used to do as kids is.",
+   "start": 2342.08,
+   "end": 2350.78,
+   "text": "two languages it's amazing how dumb the shit we used to do as kids is and i your story andrew has",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2348.68,
-   "end": 2353.18,
-   "text": "And your story, Andrew, has reminded me of quite a few things I could talk about.",
+   "start": 2350.78,
+   "end": 2355.6,
+   "text": "reminded me of quite a few things i could talk about but i don't know what the statue of limitations",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2353.34,
-   "end": 2356.7,
-   "text": "But I don't know what the statute of limitations is on some stuff.",
+   "start": 2355.6,
+   "end": 2361.74,
+   "text": "is on some stuff you know what i mean we're what we're what like 40 years out from your childhood",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2357.74,
-   "end": 2358.58,
-   "text": "You know what I mean?",
+   "start": 2361.74,
+   "end": 2366.08,
+   "text": "at this point uh maybe we're like maybe stuff i did when i was like 10 or 11 i was just thinking",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2359.12,
-   "end": 2359.44,
-   "text": "We're what?",
+   "start": 2366.08,
+   "end": 2370.44,
+   "text": "about the maddest i've ever seen somebody and i mean the maddest i've ever seen somebody is probably",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2359.48,
-   "end": 2359.74,
-   "text": "We're what?",
+   "start": 2370.44,
+   "end": 2379.12,
+   "text": "all of my wives but uh but i remember one time we used to when i was like i was maybe nine when i",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2359.76,
-   "end": 2362.26,
-   "text": "Like 40 years out from your childhood at this point?",
+   "start": 2379.12,
+   "end": 2385.46,
+   "text": "lived in florida we used to just be little hooligans that we would dress up in camouflage like rambo and",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2362.9,
-   "end": 2365.2,
-   "text": "Maybe we're like, maybe stuff I did when I was like 10 or 11.",
+   "start": 2385.46,
+   "end": 2391.3,
+   "text": "run around the neighborhood at night and i remember we used to uh there was this pond in my neighborhood",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2365.56,
-   "end": 2368.04,
-   "text": "I was just thinking about the maddest I've ever seen somebody.",
+   "start": 2391.3,
+   "end": 2395.28,
+   "text": "and there was this like we call it pampas grass i don't know if you guys know what that is but",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2368.34,
-   "end": 2371.52,
-   "text": "And I mean, the maddest I've ever seen somebody is probably all of my wives.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2371.52,
-   "end": 2380.48,
-   "text": "But I remember one time we used to, when I was maybe nine, when I lived in Florida, we",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2380.48,
-   "end": 2385.92,
-   "text": "used to just be little hooligans that we would dress up in camouflage like Rambo and run around",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2385.92,
-   "end": 2386.72,
-   "text": "the neighborhood at night.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2387.02,
-   "end": 2392.78,
-   "text": "And I remember we used to, there was this pond in my neighborhood and there was this",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2392.78,
-   "end": 2394.0,
-   "text": "like, we call it pampas grass.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2394.1,
-   "end": 2396.28,
-   "text": "I don't know if you guys know what that is, but it's popular in Florida.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2396.42,
+   "start": 2395.28,
    "end": 2399.08,
-   "text": "It's like this, it's about like a bush that's like maybe six feet tall.",
+   "text": "it's popular in florida it's like this it's about like a bush that's like maybe six feet tall",
    "speaker": "SPEAKER_02"
   },
   {
    "start": 2399.08,
-   "end": 2404.88,
-   "text": "And if you touch, it's got these long like razor sharp blades of grass that will cut you",
+   "end": 2405.1,
+   "text": "and if you touch it's got these long like razor sharp uh blades of grass that will cut you if you",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2404.88,
-   "end": 2405.48,
-   "text": "if you touch them.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2405.6,
+   "start": 2405.1,
    "end": 2410.34,
-   "text": "And in the middle are these like what look like bamboo shoots with like fluffy shit on",
+   "text": "touch them and in the middle are these like what look like bamboo shoots with like fluffy shit on",
    "speaker": "SPEAKER_02"
   },
   {
    "start": 2410.34,
-   "end": 2410.88,
-   "text": "the top of them.",
+   "end": 2415.2,
+   "text": "the top of them and you can rip those out and use them as like really weak swords and like fuck around",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2411.0,
-   "end": 2415.36,
-   "text": "And you can rip those out and use them as like really weak swords and like fuck around with",
+   "start": 2415.2,
+   "end": 2418.52,
+   "text": "with them and i remember one night my friends and i were pulling a bunch of them out of the just",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2415.36,
-   "end": 2415.48,
-   "text": "them.",
+   "start": 2418.52,
+   "end": 2421.98,
+   "text": "being hoodlums and we're pulling a bunch of them out of the grass and we started fucking",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2415.86,
-   "end": 2418.54,
-   "text": "And I remember one night my friends and I were pulling a bunch of them out of the, just",
+   "start": 2421.98,
+   "end": 2428.84,
+   "text": "throwing them at cars and uh and i remember i was like you guys suck here and i actually",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2418.54,
-   "end": 2421.7,
-   "text": "being hoodlums and we're pulling a bunch of them out of the grass and we started",
+   "start": 2428.84,
+   "end": 2433.0,
+   "text": "unfortunately i have two stories about throwing shit at cars and they're very similar i realize",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2421.7,
-   "end": 2423.12,
-   "text": "fucking throwing them at cars.",
+   "start": 2433.0,
+   "end": 2437.62,
+   "text": "but i was like you guys you got to throw it like a javelin and i picked up some pampas grass",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2423.62,
-   "end": 2428.22,
-   "text": "And, uh, and I remember I was like, you guys suck here.",
+   "start": 2437.62,
+   "end": 2444.68,
+   "text": "and i fucking threw it at a car and uh a little i remember it was a volkswagen bug and uh and i i and",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2428.34,
-   "end": 2432.18,
-   "text": "And I actually, unfortunately, I have two stories about throwing shit at cars and they're very",
+   "start": 2444.68,
+   "end": 2452.36,
+   "text": "then i heard tires screech and i heard a guy go mother fucker and i looked i looked up and uh because",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2432.18,
-   "end": 2433.02,
-   "text": "similar, I realize.",
+   "start": 2452.36,
+   "end": 2459.42,
+   "text": "we like hid down under a ditch and i looked up and uh the guy's window was open and uh and i it had",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2433.32,
-   "end": 2436.22,
-   "text": "But I was like, you guys, you got to throw it like a javelin.",
+   "start": 2459.42,
+   "end": 2467.6,
+   "text": "gone into his driver into the window and it didn't hit him i don't think but it like landed like on his",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2436.28,
-   "end": 2441.2,
-   "text": "And I picked up some pampas grass and I fucking threw it at a car and a little, I remember",
+   "start": 2467.6,
+   "end": 2471.2,
+   "text": "dashboard right in front of him he wasn't going fast he was going like maybe 10 miles an hour it was",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2441.2,
-   "end": 2442.2,
-   "text": "it was a Volkswagen bug.",
+   "start": 2471.2,
+   "end": 2476.22,
+   "text": "coming up to a stop sign but the guy was just sitting there and i remember looking up at him",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2443.06,
-   "end": 2448.8,
-   "text": "And, uh, and I, I, and then I heard tires screech and I heard a guy go, mother fucker.",
+   "start": 2476.22,
+   "end": 2483.68,
+   "text": "and he looked at me and there's this like fluffy shit in his car and he goes i'm gonna fucking kill",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2449.18,
-   "end": 2454.38,
-   "text": "And I looked, I looked up and, uh, cause we'd like hid down under a ditch and I looked up",
+   "start": 2483.68,
+   "end": 2490.92,
+   "text": "you and i heard his car door open and i took off and i probably i probably ran uh i might still be",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2454.38,
-   "end": 2461.46,
-   "text": "and, uh, the guy's window was open and, uh, and I, it had gone into his driveway and",
+   "start": 2490.92,
+   "end": 2496.0,
+   "text": "running if i'm being honest with you uh i probably ran for two straight hours and i remember going",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2461.46,
-   "end": 2464.9,
-   "text": "through the window and it didn't hit him.",
+   "start": 2496.0,
+   "end": 2500.2,
+   "text": "like i couldn't go home i was convinced he would find out where i lived and so i was trying to get",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2465.24,
-   "end": 2468.92,
-   "text": "I don't think, but it like landed like on his dashboard right in front of him and he wasn't",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2468.92,
-   "end": 2469.4,
-   "text": "going fast.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2472.2,
-   "end": 2479.06,
-   "text": "But the guy was just sitting there and I remember looking up at him and he looked at me and",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2479.06,
-   "end": 2483.94,
-   "text": "there's this like fluffy shit in his car and he goes, I'm going to fucking kill you.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2484.04,
-   "end": 2490.6,
-   "text": "And I heard his car door open and I took off and I probably, I probably ran, uh, I might",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2490.6,
-   "end": 2492.32,
-   "text": "still be running if I'm being honest with you.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2492.92,
-   "end": 2497.68,
-   "text": "Uh, I probably ran for two straight hours and I remember going like, I couldn't go home.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2497.78,
-   "end": 2499.42,
-   "text": "I was convinced he would find out where I lived.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2499.42,
-   "end": 2501.8,
-   "text": "And so I was trying to get my friends to let me spend the night at their houses and",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2501.8,
+   "start": 2500.2,
    "end": 2502.98,
-   "text": "all their parents were like, fuck you.",
+   "text": "my friends to let me spend the night at their houses and all their parents were like fuck you",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2503.56,
-   "end": 2507.12,
-   "text": "And eventually, eventually I just went, I just went home and snuck in the back.",
+   "start": 2502.98,
+   "end": 2508.14,
+   "text": "and eventually eventually i just wait i just went home and snuck in the back uh but i think",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2507.28,
-   "end": 2509.28,
-   "text": "Uh, but I think that guy probably chased us.",
+   "start": 2508.14,
+   "end": 2513.04,
+   "text": "that guy probably chased us there were three of us for at least an hour on foot like he was so angry",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2509.46,
-   "end": 2511.46,
-   "text": "There were three of us for at least an hour on foot.",
+   "start": 2513.04,
+   "end": 2517.32,
+   "text": "allegedly maybe that didn't happen maybe i made that up especially if the guy's still alive and",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2511.54,
-   "end": 2513.06,
-   "text": "Like he was so angry.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2513.9,
-   "end": 2514.22,
-   "text": "Allegedly.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2514.66,
-   "end": 2515.42,
-   "text": "Maybe that didn't happen.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2515.5,
-   "end": 2518.0,
-   "text": "Maybe I made that up, especially if the guy's still alive and listening to the story.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2518.0,
-   "end": 2518.56,
-   "text": "Jesus.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2519.22,
-   "end": 2519.36,
-   "text": "Yeah.",
+   "start": 2517.32,
+   "end": 2522.16,
+   "text": "listening to the story jesus yeah i can i can imagine that feeling of just like heart racing just",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 2519.4,
-   "end": 2523.9,
-   "text": "I can, I can imagine that feeling of just like heart racing, just endlessly sprinting.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 2524.12,
-   "end": 2525.7,
-   "text": "And knowing an old guy's chasing after you.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 2525.8,
-   "end": 2526.4,
-   "text": "An old to me.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2526.72,
+   "start": 2522.16,
    "end": 2527.6,
-   "text": "He was probably 30.",
+   "text": "endlessly sprinting and knowing an old guy's chasing after you and old to me he was probably 30",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2527.6,
+   "end": 2535.18,
+   "text": "he's probably in way better shape than i was oh god and that that and telling that story it sounds",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2528.3,
-   "end": 2529.76,
-   "text": "He's probably in way better shape than I was.",
+   "start": 2535.18,
+   "end": 2542.32,
+   "text": "so bad it makes me not want to tell the next story so maybe i won't because it's very similar but worse",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2531.08,
-   "end": 2531.94,
-   "text": "Oh God.",
+   "start": 2542.32,
+   "end": 2547.08,
+   "text": "maybe wait another decade yeah maybe wait another decade just in case let it really cool off",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2532.36,
-   "end": 2535.86,
-   "text": "And that, that, and telling that story, it sounds so bad.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2535.92,
-   "end": 2537.58,
-   "text": "It makes me not want to tell the next story.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2537.66,
-   "end": 2538.42,
-   "text": "So maybe I won't.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2538.42,
-   "end": 2542.3,
-   "text": "Because it's very similar, but worse.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2542.78,
-   "end": 2543.78,
-   "text": "Maybe wait another decade.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2543.98,
-   "end": 2544.14,
-   "text": "Yeah.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2544.18,
-   "end": 2544.96,
-   "text": "Maybe wait another decade.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2545.06,
-   "end": 2545.62,
-   "text": "Just in case.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2545.74,
-   "end": 2547.04,
-   "text": "Let, let it really cool off.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2548.58,
-   "end": 2548.98,
-   "text": "Yeah.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2549.46,
-   "end": 2549.86,
-   "text": "Goddamn.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2550.02,
-   "end": 2551.86,
-   "text": "The dumb shit we do as kids, man.",
+   "start": 2547.08,
+   "end": 2551.88,
+   "text": "yeah god damn the dumb shit we do as kids man",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2552.36,
-   "end": 2552.76,
-   "text": "Ugh.",
+   "start": 2551.88,
+   "end": 2556.22,
+   "text": "i got into skateboarding because i saw a monkey do it",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2553.18,
-   "end": 2555.68,
-   "text": "I got into skateboarding because I saw a monkey do it.",
+   "start": 2556.22,
+   "end": 2570.86,
+   "text": "i got into skateboarding because a monkey did it what does that mean have you not heard of the",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 2570.86,
+   "end": 2577.16,
+   "text": "film franchise this these are huge in my life i mean it makes sense i guess why i'm younger but",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2565.32,
-   "end": 2568.26,
-   "text": "I got into skateboarding because a monkey did it?",
+   "start": 2577.16,
+   "end": 2582.68,
+   "text": "there are these series of movies called mvp most valuable primate made by the people",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2568.66,
-   "end": 2569.44,
-   "text": "What does that mean?",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2569.66,
-   "end": 2572.1,
-   "text": "Have you not heard of the MVP film franchise?",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2572.1,
-   "end": 2574.86,
-   "text": "These, these were huge in my life.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2574.92,
-   "end": 2575.56,
-   "text": "I mean, it would make sense.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2575.62,
-   "end": 2580.36,
-   "text": "I guess why I'm, I'm younger, but there were these series of movies called MVP, most valuable",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2580.36,
-   "end": 2584.3,
-   "text": "primate made by the people that made air bud.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2584.3,
-   "end": 2585.8,
-   "text": "And I fucking love them.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2586.12,
+   "start": 2582.68,
    "end": 2589.2,
-   "text": "I was a big fan of the first one, which was about hockey.",
+   "text": "that made air bud and i fucking love them i was a big fan of the first one which was about hockey",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2589.84,
-   "end": 2593.82,
-   "text": "And, uh, then they made a second one, which was called the most vertical primate.",
+   "start": 2589.2,
+   "end": 2594.22,
+   "text": "and uh then they made a second one which was called the most vertical primate and that one",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2593.92,
-   "end": 2596.5,
-   "text": "And that one was all about skateboarding had Bob Burkwest in it.",
+   "start": 2594.22,
+   "end": 2599.66,
+   "text": "was all about skateboarding had bob request in it so you know it's official yeah okay then they made a",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2596.52,
-   "end": 2597.22,
-   "text": "So, you know, it's official.",
+   "start": 2599.66,
+   "end": 2605.2,
+   "text": "third one called mxp most extreme primate about snowboarding i'd watch that one the least i don't",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2597.58,
-   "end": 2597.84,
-   "text": "Yeah.",
+   "start": 2605.2,
+   "end": 2609.72,
+   "text": "really have opinions about that one but i love the first two genuinely as a kid i thought they were",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2597.96,
-   "end": 2598.36,
-   "text": "Okay.",
+   "start": 2609.72,
+   "end": 2616.12,
+   "text": "great as an adult i love them because their storylines are so overly complicated like that",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2598.36,
-   "end": 2603.36,
-   "text": "Um, then they made a third one called MXP most extreme primate about snowboarding.",
+   "start": 2616.12,
+   "end": 2621.32,
+   "text": "first movie is all about like he's in a research lab and they're doing experiments it's like planet",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2603.36,
-   "end": 2604.88,
-   "text": "I'd watch that one the least.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2605.02,
-   "end": 2609.22,
-   "text": "I don't really have opinions about that one, but I love the first two genuinely as a kid.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2609.28,
-   "end": 2611.1,
-   "text": "I thought they were great as an adult.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2611.22,
-   "end": 2615.26,
-   "text": "I love them because their storylines are so overly complicated.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2615.56,
-   "end": 2620.72,
-   "text": "Like the first movie is all about like, he's in a research lab and they're doing experiments.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2620.72,
-   "end": 2624.48,
-   "text": "It's like planet of the apes ish and he escapes it and then joins the hockey league and is",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2624.48,
+   "start": 2621.32,
    "end": 2625.5,
-   "text": "the best hockey player ever.",
+   "text": "of the apes ish and he escapes it and then joins the hockey league and is the best hockey player ever",
    "speaker": "SPEAKER_00"
   },
   {
    "start": 2625.5,
-   "end": 2627.08,
-   "text": "It's almost like a side story.",
+   "end": 2632.24,
+   "text": "it's almost like a side story the second movie is about he's so fucking good at hockey they frame",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2627.3,
-   "end": 2631.12,
-   "text": "The second movie is about, he's so fucking good at hockey.",
+   "start": 2632.24,
+   "end": 2637.98,
+   "text": "him to get out of the league like they set up a brawl and they cover a guy's glove with ketchup",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2631.4,
-   "end": 2633.46,
-   "text": "They frame him to get out of the league.",
+   "start": 2637.98,
+   "end": 2643.02,
+   "text": "and then say that the monkey bit him so he gets thrown out of the league and he can't play anymore",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2633.98,
-   "end": 2639.28,
-   "text": "Like they set up a brawl and they cover a guy's glove with ketchup and then say that",
+   "start": 2643.02,
+   "end": 2647.66,
+   "text": "because he scored too many goals they can't handle it and they not only throw him out of the league",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2639.28,
-   "end": 2640.38,
-   "text": "the monkey bit him.",
+   "start": 2647.66,
+   "end": 2654.42,
+   "text": "they make him homeless it's not like he goes back to where he lives they like give him his jacket and",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2640.5,
-   "end": 2643.84,
-   "text": "So he gets thrown out of the league and he can't play anymore because he scored too many",
+   "start": 2654.42,
+   "end": 2659.34,
+   "text": "some jeans and he's just homeless and he's just walking around and for half that movie he's just",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2643.84,
-   "end": 2644.12,
-   "text": "goals.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2644.52,
-   "end": 2645.5,
-   "text": "They can't handle it.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2645.84,
-   "end": 2649.2,
-   "text": "And they not only throw him out of the league, they make him homeless.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2649.46,
-   "end": 2651.2,
-   "text": "It's not like he goes back to where he lives.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2651.2,
-   "end": 2657.1,
-   "text": "They like give him his jacket and some jeans and he's just homeless and he's just walking",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2657.1,
-   "end": 2657.48,
-   "text": "around.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2657.8,
-   "end": 2659.64,
-   "text": "And for half that movie, he's just homeless.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2660.0,
-   "end": 2662.12,
-   "text": "Why go to all those efforts to get the monkey out of the league?",
+   "start": 2659.34,
+   "end": 2663.62,
+   "text": "homeless why go to all those efforts to get the monkey out of the league why not just shoot him",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 2662.2,
-   "end": 2665.22,
-   "text": "Why not just shoot him while he's walking to his car or something?",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 2665.28,
-   "end": 2665.84,
-   "text": "It's a monkey.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 2665.84,
+   "start": 2663.62,
    "end": 2667.44,
-   "text": "It's a kid's movie.",
-   "speaker": "SPEAKER_00"
+   "text": "while he's walking to his car or something it's a monkey it's the kids movie",
+   "speaker": "SPEAKER_01"
   },
   {
-   "start": 2667.58,
-   "end": 2669.22,
-   "text": "This is an official dude, fellas.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2670.22,
-   "end": 2673.72,
-   "text": "You're going to put him in a room and just shoot him back in the head?",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2674.58,
-   "end": 2679.86,
-   "text": "I mean, I think framing him with a ketchup bite is a little excessive, but shoot him?",
+   "start": 2667.44,
+   "end": 2679.68,
+   "text": "i mean i i think framing him with a ketchup bite is a little excessive but it's insane",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2680.44,
-   "end": 2682.58,
-   "text": "You want to get him out of the league and just fucking kill him?",
+   "start": 2679.68,
+   "end": 2682.66,
+   "text": "you want to like get him out of the league just fucking kill him",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2683.94,
-   "end": 2684.34,
-   "text": "What?",
+   "start": 2682.66,
+   "end": 2686.14,
+   "text": "what are you gonna go down for murder as a monkey",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 2684.4,
-   "end": 2686.1,
-   "text": "You're going to go down for murder as a monkey?",
+   "start": 2686.14,
+   "end": 2692.16,
+   "text": "gavin you don't like called out the legitimacy of the plot of a monkey skateboarding movie he's",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2686.1,
-   "end": 2691.9,
-   "text": "Gavin called out the legitimacy of the plot of a monkey skateboarding movie.",
+   "start": 2692.16,
+   "end": 2696.78,
+   "text": "like that makes no sense why wouldn't they just shoot him it's so much the jail time for offing",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2691.98,
-   "end": 2693.3,
-   "text": "He's like, that makes no sense.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2693.44,
-   "end": 2694.56,
-   "text": "Why wouldn't they just shoot him?",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2694.7,
-   "end": 2695.4,
-   "text": "It's so much more complicated.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2695.4,
-   "end": 2699.28,
-   "text": "The jail time for offing a monkey has to be shorter than offing a human.",
+   "start": 2696.78,
+   "end": 2701.26,
+   "text": "a monkey has to be shorter than offing a human you know what though andrew let me just let me just",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 2699.48,
-   "end": 2700.26,
-   "text": "You know what though, Andrew?",
+   "start": 2701.26,
+   "end": 2707.64,
+   "text": "i'll i'll explain gavin in one sentence right here when he plays halo the first thing he does is kill",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2700.44,
-   "end": 2704.0,
-   "text": "Let me just, let me just, I'll explain Gavin in one sentence right here.",
+   "start": 2707.64,
+   "end": 2714.32,
+   "text": "every ai fucking unsc soldier so that he can take their ammo and their weapons he has no respect for",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2704.16,
-   "end": 2711.46,
-   "text": "When he plays Halo, the first thing he does is kill every AI fucking UNSC soldier so that",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2711.46,
-   "end": 2712.74,
-   "text": "he can take their ammo and their weapons.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2713.04,
-   "end": 2714.58,
-   "text": "He has no respect for life.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2714.74,
-   "end": 2715.2,
-   "text": "This is true.",
+   "start": 2714.32,
+   "end": 2718.18,
+   "text": "life this is true i i just shoot him out of the warthog so i can get in and i know that there's",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 2716.1,
-   "end": 2717.36,
-   "text": "I'm out of the warthog so I can get in.",
+   "start": 2718.18,
+   "end": 2724.48,
+   "text": "a button to get him out it's just it's halo it's not real i'm not i wasn't really even concerned about",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 2717.56,
-   "end": 2719.0,
-   "text": "And I know that there's a button to get him out.",
+   "start": 2724.48,
+   "end": 2728.4,
+   "text": "his life i was more upset by the fact that he was like calling out that they should murder a monkey in",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2728.4,
+   "end": 2735.7,
+   "text": "a kid's movie like he's trying to solve plot problems of mvp2 it's not murder it's it is murder it's a monkey",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2735.7,
+   "end": 2742.02,
+   "text": "it's a living creature it's cruelty to animals it's not murder is it murder you can't murder an",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 2719.74,
-   "end": 2720.88,
-   "text": "It's just, it's Halo.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 2721.06,
-   "end": 2721.66,
-   "text": "It's not real.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 2722.64,
-   "end": 2724.92,
-   "text": "I'm not, I wasn't really even concerned about his life.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2724.98,
-   "end": 2728.08,
-   "text": "I was more upset by the fact that he was like calling out that they should murder a",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2728.08,
-   "end": 2729.02,
-   "text": "monkey in a kid's movie.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2729.32,
-   "end": 2732.32,
-   "text": "Like he's trying to solve plot problems of MVP 2.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2732.54,
-   "end": 2733.44,
-   "text": "It's not murder.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2733.74,
-   "end": 2734.12,
-   "text": "It's a monkey.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2734.12,
-   "end": 2734.9,
-   "text": "It is murder.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2735.06,
-   "end": 2735.62,
-   "text": "It's a monkey.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2736.36,
-   "end": 2737.56,
-   "text": "It's a living creature.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2738.1,
-   "end": 2739.4,
-   "text": "It's cruelty to animals.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 2739.5,
-   "end": 2740.22,
-   "text": "It's not murder.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 2740.44,
-   "end": 2741.0,
-   "text": "Is it murder?",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 2741.14,
-   "end": 2742.28,
-   "text": "You can't murder an animal.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 2742.58,
-   "end": 2744.04,
-   "text": "Of course you can murder an animal.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2744.16,
-   "end": 2744.88,
-   "text": "Well, yeah.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2744.88,
-   "end": 2747.34,
-   "text": "No, I think he has a point actually.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2747.64,
+   "start": 2742.02,
    "end": 2747.82,
-   "text": "All right.",
+   "text": "animal of course you can murder an animal well yeah no i think he has a point actually all right",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2747.82,
+   "end": 2752.8,
+   "text": "i'm googling it you tell your fucking you tell you tell how tell me about how how you became a",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2747.84,
-   "end": 2748.6,
-   "text": "I'm Googling it.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2749.14,
-   "end": 2753.16,
-   "text": "You tell your fucking, you tell, do you tell how, tell me about how, how you became a skateboarder",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2753.16,
-   "end": 2753.7,
-   "text": "while I Googled it.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2753.7,
-   "end": 2754.38,
-   "text": "Let me say this.",
+   "start": 2752.8,
+   "end": 2757.48,
+   "text": "skateboarder while i googled let me say this i love animals i am not saying let's kill animals i'm",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 2754.46,
-   "end": 2755.28,
-   "text": "I love animals.",
+   "start": 2757.48,
+   "end": 2764.38,
+   "text": "just saying to frame a monkey seems pretty convoluted damn it you're saying this very confidently",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 2755.46,
-   "end": 2757.24,
-   "text": "I am not saying let's kill animals.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 2757.36,
-   "end": 2762.06,
-   "text": "I'm just saying to frame a monkey seems pretty convoluted.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 2762.06,
-   "end": 2762.88,
-   "text": "Damn it.",
+   "start": 2764.38,
+   "end": 2769.32,
+   "text": "though it's a little alarming murder is the unlawful killing of another human without",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2763.14,
-   "end": 2764.66,
-   "text": "You're saying this very confidently though.",
+   "start": 2769.32,
+   "end": 2776.0,
+   "text": "jurisdiction or valid excuse especially the unlawful jurisdiction homicide manslaughter i'm",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 2776.0,
+   "end": 2781.6,
+   "text": "looking for animals hold on god damn it i think all right well maybe it's not murder it's yeah but",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 2781.6,
+   "end": 2791.02,
+   "text": "it's definitely it's definitely wrong yeah it's super wrong it's still killing sure anyway this monkey",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 2791.02,
+   "end": 2795.28,
+   "text": "was homeless and he didn't know how to skateboard and he learned how to skateboard he was immediately",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2765.08,
-   "end": 2766.2,
-   "text": "It's a little alarming.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2766.6,
-   "end": 2771.14,
-   "text": "Murder is the unlawful killing of another human without jurisdiction or valid excuse,",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2771.26,
-   "end": 2775.78,
-   "text": "especially the unlawful jurisdiction, homicide, manslaughter.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2775.9,
-   "end": 2776.88,
-   "text": "I'm looking for animals.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2777.04,
-   "end": 2777.4,
-   "text": "Hold on.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2777.76,
-   "end": 2778.92,
-   "text": "God damn it.",
-   "speaker": "SPEAKER_99"
-  },
-  {
-   "start": 2779.1,
-   "end": 2779.5,
-   "text": "All right.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2779.5,
-   "end": 2780.64,
-   "text": "Well, maybe it's not murder.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2780.88,
-   "end": 2784.72,
-   "text": "It's yeah, but it's definitely, it's definitely sketchy.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2784.72,
-   "end": 2786.42,
-   "text": "Yeah, it's super wrong.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2787.9,
-   "end": 2788.9,
-   "text": "It's still killing.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2789.2,
-   "end": 2789.42,
-   "text": "Sure.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2789.7,
-   "end": 2794.32,
-   "text": "Anyway, this monkey was homeless and he didn't know how to skateboard and he learned how to",
+   "start": 2795.28,
+   "end": 2800.16,
+   "text": "doing kickflips how did he get a skateboard if he was homeless he met another kid that was homeless",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2794.32,
-   "end": 2794.64,
-   "text": "skateboard.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2794.8,
-   "end": 2796.1,
-   "text": "He was immediately doing kickflips.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2796.5,
-   "end": 2798.08,
-   "text": "How did he get a skateboard if he was homeless?",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2798.5,
-   "end": 2802.34,
-   "text": "He met another kid that was homeless and he liked to skateboard and he took the kid's",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2802.34,
+   "start": 2800.16,
    "end": 2804.6,
-   "text": "board and then he immediately started doing kickflips.",
+   "text": "and he liked the skateboard and he took the kid's board and then he immediately started doing kickflips",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2804.88,
-   "end": 2809.1,
-   "text": "And then the guy that was in home improvement that wasn't Tim Allen helped them and gave",
+   "start": 2804.6,
+   "end": 2809.24,
+   "text": "and then the guy that was in home improvement that wasn't tim allen helped them and gave them",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2809.1,
-   "end": 2809.76,
-   "text": "them skateboards.",
+   "start": 2809.24,
+   "end": 2815.72,
+   "text": "skateboards the guy that sells garden hoses on tv al i'm yeah i'm assuming him yeah the other like",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2809.76,
-   "end": 2812.78,
-   "text": "The guy that sells garden hoses on TV, Al?",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2812.98,
-   "end": 2814.28,
-   "text": "Yeah, I'm assuming him.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2814.66,
-   "end": 2814.78,
-   "text": "Yeah.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2814.96,
-   "end": 2816.14,
-   "text": "The other like lead.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2816.94,
-   "end": 2817.18,
-   "text": "Al?",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2817.66,
-   "end": 2817.8,
-   "text": "Yeah.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2817.88,
+   "start": 2815.72,
    "end": 2821.98,
-   "text": "Anyway, I was convinced that if a monkey could skateboard immediately, then there's no way",
+   "text": "lead um al yeah anyway i was convinced that if a monkey could skateboard immediately then there's no way",
    "speaker": "SPEAKER_00"
   },
   {
    "start": 2821.98,
-   "end": 2823.52,
-   "text": "I wouldn't be immediately good at it.",
+   "end": 2827.84,
+   "text": "i wouldn't be immediately good at it and the only knowledge i had was tony hawk and mvp2 and i really",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2823.8,
-   "end": 2826.76,
-   "text": "And the only knowledge I had was Tony Hawk and MVP too.",
+   "start": 2827.84,
+   "end": 2833.12,
+   "text": "pushed my parents to buy me a skateboard and my dad knew my motivation and i remember him yelling at me",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2827.34,
-   "end": 2829.46,
-   "text": "And I really pushed my parents to buy me a skateboard.",
+   "start": 2833.12,
+   "end": 2838.84,
+   "text": "just because that goddamn monkey can skateboard doesn't mean you can and i i responded like yeah",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2829.96,
-   "end": 2831.46,
-   "text": "And my dad knew my motivation.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2831.72,
-   "end": 2836.22,
-   "text": "And I remember him yelling at me just because that goddamn monkey can skateboard doesn't mean",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2836.22,
-   "end": 2836.74,
-   "text": "you can.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2836.74,
-   "end": 2839.76,
-   "text": "And I responded like, yeah, of course, obviously.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2839.88,
+   "start": 2838.84,
    "end": 2842.96,
-   "text": "But deep down, I was like, there's no way this monkey can skateboard and I can't.",
+   "text": "of course obviously but deep down i was like there's no way this monkey can skateboard and i can't",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2843.04,
-   "end": 2847.24,
-   "text": "So I got a skateboard and all I knew was like Tony Hawk and MVP too.",
+   "start": 2842.96,
+   "end": 2849.12,
+   "text": "so i got a skateboard and all i knew was like tony hawk and mvp2 and you know in tony hawk like you stand",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2847.38,
-   "end": 2850.86,
-   "text": "And you know, in Tony Hawk, like you stand and then you like kick the board down and go",
+   "start": 2849.12,
+   "end": 2854.3,
+   "text": "and then you like kick the board down and go like that's how you you move in tony hawk yeah so that's",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2850.86,
-   "end": 2853.04,
-   "text": "like that's how you move in Tony Hawk.",
+   "start": 2854.3,
+   "end": 2858.42,
+   "text": "how i wanted to go i got up on a ramp and there were like maybe 10 other skateboarders there and",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2853.16,
-   "end": 2853.4,
-   "text": "Yeah.",
+   "start": 2858.42,
+   "end": 2862.86,
+   "text": "it became like an event like they're all behind me they knew like i'd never skated before wait you'd",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2853.66,
-   "end": 2855.04,
-   "text": "So that's how I wanted to go.",
+   "start": 2862.86,
+   "end": 2868.04,
+   "text": "never skated before and you dropped in on a like a half pipe or a no no no no it's like a small ramp",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2855.1,
-   "end": 2858.72,
-   "text": "I got up on a ramp and there were like maybe 10 other skateboarders there and it became",
+   "start": 2868.04,
+   "end": 2872.22,
+   "text": "it was like an incline maybe ramp ramp might be generous but it was an incline that you'd like go",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2858.72,
-   "end": 2859.36,
-   "text": "like an event.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2859.48,
-   "end": 2860.32,
-   "text": "Like they were all behind me.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2860.36,
-   "end": 2861.92,
-   "text": "They knew like I'd never skated before.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2862.28,
-   "end": 2866.52,
-   "text": "Wait, you'd never skated before and you dropped in on a like a half pipe or a?",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2866.52,
-   "end": 2867.24,
-   "text": "No, no, no, no.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2867.24,
-   "end": 2868.06,
-   "text": "It's like a small ramp.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2868.1,
-   "end": 2868.9,
-   "text": "It was like an incline.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2869.02,
-   "end": 2869.64,
-   "text": "Maybe ramp.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2869.74,
-   "end": 2873.3,
-   "text": "Ramp might be generous, but it was an incline that you'd like go down to generate speed",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2873.3,
+   "start": 2872.22,
    "end": 2875.64,
-   "text": "so you could go through the rest of the course that was built.",
+   "text": "down to generate speed so you could go through the rest of the course that was built",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2876.06,
-   "end": 2877.56,
-   "text": "They called them course tracks.",
+   "start": 2875.64,
+   "end": 2883.54,
+   "text": "they called them course tracks i don't know skateboard terminology yeah park i shot twice",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2878.2,
-   "end": 2878.6,
-   "text": "I don't know.",
+   "start": 2883.54,
+   "end": 2890.18,
+   "text": "and i missed both times anyway i i had the board tilted like in tony hawk and i was explaining what",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2878.86,
-   "end": 2880.02,
-   "text": "Skateboard terminology.",
+   "start": 2890.18,
+   "end": 2894.04,
+   "text": "i was gonna do and the guy just kept saying you don't that's way harder than it just put the board",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2881.02,
-   "end": 2881.28,
-   "text": "Park.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2882.48,
-   "end": 2884.62,
-   "text": "I shot twice and I missed both times.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2885.16,
-   "end": 2890.44,
-   "text": "Anyway, I had the board tilted like in Tony Hawk and I was explaining what I was going",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2890.44,
-   "end": 2890.7,
-   "text": "to do.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2890.76,
-   "end": 2892.18,
-   "text": "And the guy just kept saying, you don't.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2892.28,
-   "end": 2893.34,
-   "text": "That's way harder than it.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2893.34,
-   "end": 2895.0,
-   "text": "Just put the board down and then push.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2895.32,
-   "end": 2897.08,
-   "text": "I'm like, no, this is how they do it in Tony Hawk.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2897.16,
+   "start": 2894.04,
    "end": 2899.0,
-   "text": "So this must be the way they do it.",
+   "text": "down and then push i'm like no this is how they do it in tony hawk so this must be the way they do it",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2899.2,
-   "end": 2900.3,
-   "text": "And I've seen a monkey do this.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2900.34,
-   "end": 2901.18,
-   "text": "It can't be that hard.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2901.72,
-   "end": 2903.5,
-   "text": "I made it like halfway down.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2903.94,
+   "start": 2899.0,
    "end": 2904.66,
-   "text": "I fell.",
+   "text": "and i've seen a monkey do this it can't be that hard i made it like halfway down i fell",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2905.04,
-   "end": 2909.46,
-   "text": "My foot stayed on the board and I did like the splits and immediately started crying.",
+   "start": 2904.66,
+   "end": 2910.52,
+   "text": "my foot stayed on the board and i did like the splits and immediately started crying i was bawling",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2909.46,
-   "end": 2915.12,
-   "text": "I was bawling my eyes out and then the park was like, ooh, and then they started laughing",
+   "start": 2910.52,
+   "end": 2916.5,
+   "text": "my eyes out and then the the park was like oh and then they started laughing and then i walked home",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2915.12,
-   "end": 2917.92,
-   "text": "and then I walked home and I never touched a skateboard again.",
+   "start": 2916.5,
+   "end": 2920.2,
+   "text": "and i never touched the skateboard again that was the end of my career i realized i couldn't just",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2918.0,
-   "end": 2918.86,
-   "text": "That was the end of my career.",
+   "start": 2920.2,
+   "end": 2925.18,
+   "text": "because the monkey could do it does not mean i can't believe you gave up i you could have been",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2918.96,
-   "end": 2921.84,
-   "text": "I realized I couldn't just because a monkey could do it does not mean.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2922.02,
-   "end": 2923.54,
-   "text": "I can't believe you gave up.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2924.02,
-   "end": 2927.9,
-   "text": "I, you could have been, there's an alternate timeline where you are one of the most famous",
+   "start": 2925.18,
+   "end": 2930.22,
+   "text": "there's an alternate timeline where you are one of the most famous skaters alive it's true you just gave",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 2927.9,
-   "end": 2928.84,
-   "text": "skaters alive.",
+   "start": 2930.22,
+   "end": 2934.76,
+   "text": "up because you didn't beat the monkey could you imagine how sad it would be though if i was like",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 2929.02,
-   "end": 2929.44,
-   "text": "It's true.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 2929.56,
-   "end": 2932.5,
-   "text": "And you just gave up because you didn't beat the monkey.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 2932.82,
-   "end": 2934.26,
-   "text": "Could you imagine how sad it would be though?",
+   "start": 2934.76,
+   "end": 2939.86,
+   "text": "tony hawk and i credited it all to a monkey movie that'd be awesome here's it's your story actually",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2934.3,
-   "end": 2937.04,
-   "text": "If I was like Tony Hawk and I credited it all to a monkey movie.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2937.04,
-   "end": 2937.84,
-   "text": "That'd be awesome.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2938.24,
-   "end": 2941.08,
-   "text": "Your story actually would be a lot better, Andrew.",
+   "start": 2939.86,
+   "end": 2943.72,
+   "text": "would be a lot better andrew see the way it would have worked is you'd have become a professional",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2941.3,
-   "end": 2944.7,
-   "text": "See, the way it would have worked is you'd have become a professional skateboarder a la",
+   "start": 2943.72,
+   "end": 2949.02,
+   "text": "skateboarder a la bob burnquist and when people would ask you about your inspiration you would talk",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2944.7,
-   "end": 2945.4,
-   "text": "Bob Bernquist.",
+   "start": 2949.02,
+   "end": 2953.82,
+   "text": "about this movie mvp then eventually you would become so famous that you would get to reboot the",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2945.62,
-   "end": 2949.6,
-   "text": "And when people would ask you about your inspiration, you would talk about this movie",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2949.6,
-   "end": 2949.96,
-   "text": "MVP.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2950.38,
-   "end": 2955.06,
-   "text": "Then eventually you would become so famous that you would get to reboot the franchise a",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2955.06,
+   "start": 2953.82,
    "end": 2960.34,
-   "text": "la Space Jam and then you could be the Bob Bernquist of MVP the reboot and you would",
+   "text": "franchise a la space jam and then you could be the bob burnquist of mvp the reboot and you would",
    "speaker": "SPEAKER_02"
   },
   {
    "start": 2960.34,
-   "end": 2964.94,
-   "text": "have been a fucking movie star who got to hang out with a monkey and be an amazing",
+   "end": 2965.86,
+   "text": "have been a fucking movie star who got to hang out with a monkey and be an amazing skateboarder to",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 2964.94,
-   "end": 2966.02,
-   "text": "skateboarder to boot.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2966.02,
-   "end": 2967.92,
-   "text": "And you, you blew it.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2968.22,
-   "end": 2969.32,
-   "text": "You were right there.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2969.56,
-   "end": 2973.58,
-   "text": "To be fair, if it was a reboot these days, it would, it would be a CG monkey.",
+   "start": 2965.86,
+   "end": 2972.52,
+   "text": "boot and you you blew it you were right there to be fair if it was a reboot these days it would it",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 2974.22,
-   "end": 2974.56,
-   "text": "That's true.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 2974.56,
-   "end": 2975.18,
-   "text": "That's true.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 2975.52,
-   "end": 2975.82,
-   "text": "That's true.",
+   "start": 2972.52,
+   "end": 2977.9,
+   "text": "would be a cg monkey that's true that's true that's that's a great point that's yeah thank you",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2975.88,
-   "end": 2976.78,
-   "text": "That's a great point.",
+   "start": 2977.9,
+   "end": 2981.96,
+   "text": "gavin you made me feel better about this that's fair that's an excellent point damn i hope jack is still",
    "speaker": "SPEAKER_00"
   },
   {
-   "start": 2977.0,
-   "end": 2977.24,
-   "text": "That's fair.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2977.4,
-   "end": 2978.1,
-   "text": "Thank you, Gavin.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2978.16,
-   "end": 2979.16,
-   "text": "You made me feel better about this.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2979.28,
-   "end": 2979.62,
-   "text": "That's fair.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2979.94,
-   "end": 2980.7,
-   "text": "That's an excellent point.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2980.86,
-   "end": 2981.04,
-   "text": "Damn.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2981.2,
-   "end": 2982.28,
-   "text": "I hope Jack is still alive.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2982.64,
-   "end": 2983.94,
-   "text": "That's the name of the monkey, by the way.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 2984.14,
-   "end": 2984.44,
-   "text": "Jack.",
-   "speaker": "SPEAKER_99"
-  },
-  {
-   "start": 2985.22,
-   "end": 2987.96,
-   "text": "What was the, that monkey movie with Jason Alexander?",
+   "start": 2981.96,
+   "end": 2987.46,
+   "text": "alive that's the name of the monkey by the way jack what was the that monkey movie with jason",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 2988.34,
-   "end": 2989.1,
-   "text": "Dunstan Checks In?",
+   "start": 2987.46,
+   "end": 2992.5,
+   "text": "alexander dunstan checks in oh that's a good movie that's a great fucking movie that's a good monkey",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 2989.28,
-   "end": 2990.26,
-   "text": "Ah, that's a good movie.",
+   "start": 2992.5,
+   "end": 2996.92,
+   "text": "movie that's a that is one of the best monkey movies all the doorknobs are in the middle of the door",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 2996.92,
+   "end": 3007.18,
+   "text": "love it all right fuck it i want to go watch dunstan checks in we should watch it you should watch it",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 3007.18,
+   "end": 3011.2,
+   "text": "together yeah all right let's stop doing this let's go do that you want to end the podcast yeah",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 3011.2,
+   "end": 3015.14,
+   "text": "this is the part where eric yells at me to end the podcast okay without eric here i think he's",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 3015.14,
+   "end": 3018.56,
+   "text": "probably in a meeting getting yelled at for something else uh i'm gonna try to i'm all right i'm gonna get",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 3018.56,
+   "end": 3025.24,
+   "text": "it this concludes another episode of the face podcast i have been your host jeff ramsey uh and",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 3025.24,
+   "end": 3030.8,
+   "text": "with me uh andrew panton and gavin free nobody likes them but that's okay uh they continue to live",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 3030.8,
+   "end": 3035.78,
+   "text": "in my shadow that's fine thanks for listening if you like it please rate and review it on apple",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 3035.78,
+   "end": 3041.86,
+   "text": "podcasts or spotify podcasts or whatever the fuck that is and uh if you don't like it still review it",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 3041.86,
+   "end": 3049.12,
+   "text": "uh stick it to the man don't let them tell you that i lost him yes so did i this is the best intro",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 3049.12,
+   "end": 3056.02,
+   "text": "regs that we've ever done i'll be honest i um i tried to distract him i tried to distract him in the",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 2990.34,
-   "end": 2991.44,
-   "text": "That's a great fucking movie.",
+   "start": 3056.02,
+   "end": 3061.4,
+   "text": "middle of him doing that oh he's back by calling his phone and the moment i called him his audio",
    "speaker": "SPEAKER_01"
   },
   {
-   "start": 2991.68,
-   "end": 2992.82,
-   "text": "That's a good monkey movie.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 2993.14,
-   "end": 2994.96,
-   "text": "That's a, that is one of the best monkey movies.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 2995.18,
-   "end": 2996.9,
-   "text": "All the doorknobs are in the middle of the door.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 2997.1,
-   "end": 2997.48,
-   "text": "Love it.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 3001.66,
-   "end": 3002.06,
-   "text": "All right.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 3002.08,
-   "end": 3002.36,
-   "text": "Fuck it.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 3002.54,
-   "end": 3004.04,
-   "text": "I want to go watch Dunstan Checks in.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 3004.8,
-   "end": 3005.84,
-   "text": "We should watch it.",
-   "speaker": "SPEAKER_99"
-  },
-  {
-   "start": 3006.4,
-   "end": 3007.44,
-   "text": "We should watch it together.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 3007.76,
-   "end": 3008.0,
-   "text": "Yeah.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 3008.1,
-   "end": 3008.42,
-   "text": "All right.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 3008.42,
-   "end": 3009.2,
-   "text": "Let's stop doing this.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 3009.26,
-   "end": 3009.78,
-   "text": "Let's go do that.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 3009.94,
-   "end": 3010.7,
-   "text": "You want to end the podcast?",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 3011.02,
-   "end": 3011.22,
-   "text": "Yeah.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 3011.28,
-   "end": 3012.86,
-   "text": "This is the part where Eric yells at me to end the podcast.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 3012.96,
-   "end": 3013.06,
-   "text": "Okay.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 3013.94,
-   "end": 3016.58,
-   "text": "Without Eric here, I think he's probably in a meeting getting yelled at for something else.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 3016.98,
-   "end": 3018.68,
-   "text": "I'm going to try to, I'm going to get it.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 3019.16,
-   "end": 3022.56,
-   "text": "This concludes another episode of the F*** Face Podcast.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 3023.08,
-   "end": 3024.44,
-   "text": "I have been your host, Jeff Ramsey.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 3024.92,
-   "end": 3027.68,
-   "text": "And with me, Andrew Panton and Gavin Free.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 3028.0,
-   "end": 3029.46,
-   "text": "Nobody likes them, but that's okay.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 3029.9,
-   "end": 3031.42,
-   "text": "They continue to live in my shadow.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 3031.64,
-   "end": 3032.26,
-   "text": "That's fine.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 3032.58,
-   "end": 3033.2,
-   "text": "Thanks for listening.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 3033.2,
-   "end": 3038.16,
-   "text": "If you like it, please rate and review it on Apple Podcasts or Spotify Podcasts or whatever",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 3038.16,
-   "end": 3038.88,
-   "text": "the f*** that is.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 3039.32,
-   "end": 3041.88,
-   "text": "And if you don't like it, still review it.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 3043.06,
-   "end": 3044.0,
-   "text": "Stick it to the man.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 3044.28,
-   "end": 3047.06,
-   "text": "Don't let them tell you that I lost him.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 3047.5,
-   "end": 3048.16,
-   "text": "Yes, so did I.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 3048.22,
-   "end": 3050.34,
-   "text": "This is the best intro regs that we've ever done.",
-   "speaker": "SPEAKER_00"
-  },
-  {
-   "start": 3050.62,
-   "end": 3051.1,
-   "text": "I'll be honest.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 3051.3,
-   "end": 3053.64,
-   "text": "I tried to distract him.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 3054.46,
-   "end": 3056.92,
-   "text": "I tried to distract him in the middle of him doing that.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 3057.02,
-   "end": 3057.58,
-   "text": "Oh, he's back.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 3058.02,
-   "end": 3059.18,
-   "text": "By calling his phone.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 3059.18,
-   "end": 3061.96,
-   "text": "And the moment I called him, his audio stopped.",
-   "speaker": "SPEAKER_01"
-  },
-  {
-   "start": 3063.38,
-   "end": 3064.48,
-   "text": "What just happened there?",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 3064.92,
-   "end": 3066.32,
-   "text": "Did you not hear me at all?",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 3066.38,
-   "end": 3066.56,
-   "text": "No.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 3066.56,
-   "end": 3068.78,
-   "text": "Yeah, you called me.",
+   "start": 3061.4,
+   "end": 3069.42,
+   "text": "i stopped what just happened there did you not hear me at all no yeah you called me well or did",
    "speaker": "SPEAKER_02"
   },
   {
    "start": 3069.42,
-   "end": 3070.86,
-   "text": "I'm on my f***ing phone.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 3071.16,
-   "end": 3072.18,
-   "text": "So you called me.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 3072.26,
-   "end": 3073.82,
-   "text": "I just hit mute and I just kept going.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 3073.92,
    "end": 3074.74,
-   "text": "It was brilliant.",
+   "text": "i'm on my fucking phone so you called me i just hit mute and i just kept going it was brilliant",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 3076.46,
-   "end": 3077.58,
-   "text": "Oh, it was brilliant.",
+   "start": 3074.74,
+   "end": 3081.56,
+   "text": "oh it was brilliant rate reviews on the fucking thing tell everybody if i stop",
    "speaker": "SPEAKER_02"
   },
   {
-   "start": 3078.1,
-   "end": 3079.54,
-   "text": "Rate and review us on the f***ing thing.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 3079.84,
-   "end": 3080.66,
-   "text": "Tell everybody.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 3080.86,
-   "end": 3081.52,
-   "text": "F*** if I stop.",
-   "speaker": "SPEAKER_02"
-  },
-  {
-   "start": 3082.74,
-   "end": 3083.14,
-   "text": "Assholes.",
+   "start": 3081.56,
+   "end": 3083.18,
+   "text": "assholes",
    "speaker": "SPEAKER_02"
   }
  ]
