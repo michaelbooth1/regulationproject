@@ -1,0 +1,6950 @@
+{
+ "index": 57,
+ "title": "Who is the Host? // Geoff Ends the Podcast [54]",
+ "pub_date": "2021-06-09T07:00:00+00:00",
+ "model": "large-v3-turbo",
+ "diarization_model": "pyannote/speaker-diarization-3.1",
+ "language": "en",
+ "language_probability": 1,
+ "duration_sec": 3472.639,
+ "speaker_embeddings": {
+  "SPEAKER_00": [
+   -0.225722,
+   0.174873,
+   -0.001541,
+   -0.25434,
+   -0.208129,
+   0.07244,
+   0.126686,
+   0.040727,
+   0.154862,
+   0.076875,
+   0.028294,
+   0.2275,
+   0.323815,
+   -0.002056,
+   0.211267,
+   -0.330582,
+   -0.163421,
+   -0.192577,
+   0.376041,
+   0.219773,
+   -0.196915,
+   0.140974,
+   -0.107863,
+   0.100131,
+   0.226449,
+   0.027303,
+   0.053811,
+   0.164886,
+   -0.137816,
+   0.026318,
+   -0.048752,
+   -0.021132,
+   -0.035271,
+   -0.385291,
+   -0.054845,
+   -0.004338,
+   -0.251081,
+   0.001074,
+   0.218769,
+   -0.215957,
+   -0.078962,
+   -0.065642,
+   0.274828,
+   -0.131371,
+   -0.190658,
+   0.003725,
+   -0.240877,
+   0.082103,
+   -0.030107,
+   0.486048,
+   0.445652,
+   0.165012,
+   0.112603,
+   -0.221042,
+   0.094984,
+   0.040571,
+   0.06887,
+   -0.212362,
+   0.022122,
+   0.118272,
+   0.227987,
+   -0.06423,
+   0.202034,
+   0.004167,
+   0.314294,
+   0.290275,
+   -0.047778,
+   0.0253,
+   -0.278078,
+   -0.134033,
+   -0.278486,
+   -0.188329,
+   0.023969,
+   -0.688518,
+   0.034898,
+   0.250652,
+   -0.141948,
+   -0.158047,
+   0.147804,
+   0.182553,
+   -0.143139,
+   -0.254062,
+   -0.13232,
+   0.269025,
+   0.012219,
+   -0.05863,
+   0.075429,
+   -0.029692,
+   0.046554,
+   -0.190168,
+   0.255245,
+   -0.071237,
+   -0.136344,
+   -0.13665,
+   -0.05529,
+   -0.260522,
+   0.36138,
+   0.264369,
+   -0.163128,
+   0.275551,
+   0.015952,
+   0.11779,
+   0.124889,
+   -0.207204,
+   -0.167612,
+   0.05266,
+   -0.057887,
+   -0.187917,
+   -0.007262,
+   -0.071672,
+   0.443521,
+   -0.030723,
+   -0.016282,
+   0.200458,
+   -0.256027,
+   -0.094074,
+   0.010385,
+   -0.207638,
+   -0.342131,
+   -0.212235,
+   0.271139,
+   -0.111772,
+   -0.004522,
+   0.255256,
+   -0.214189,
+   0.181045,
+   -0.126089,
+   0.021981,
+   -0.06825,
+   0.290886,
+   -0.347718,
+   0.372953,
+   0.143643,
+   0.124409,
+   0.348035,
+   -0.20042,
+   -0.530156,
+   0.471896,
+   0.227125,
+   -0.00208,
+   -0.063649,
+   0.124362,
+   0.267963,
+   -0.191808,
+   -0.336617,
+   -0.089333,
+   -0.344665,
+   0.036756,
+   0.212307,
+   0.157745,
+   0.081049,
+   -0.244855,
+   -0.292534,
+   0.006947,
+   -0.236443,
+   -0.028527,
+   -0.250641,
+   -0.002719,
+   0.141579,
+   0.022411,
+   0.016919,
+   0.137702,
+   -0.029397,
+   0.152273,
+   0.070072,
+   -0.004879,
+   -0.156852,
+   0.164845,
+   -0.217862,
+   -0.439045,
+   -0.108873,
+   0.185136,
+   0.096136,
+   0.102412,
+   0.239636,
+   -0.190545,
+   0.292962,
+   -0.118431,
+   -0.226318,
+   -0.091876,
+   -0.057121,
+   -0.226793,
+   -0.252911,
+   0.19775,
+   0.202843,
+   0.110933,
+   0.044992,
+   -0.021271,
+   -0.288405,
+   0.178616,
+   -0.280083,
+   0.1905,
+   -0.086685,
+   -0.281486,
+   -0.115214,
+   0.288413,
+   -0.02825,
+   0.118891,
+   0.252998,
+   0.058381,
+   0.030051,
+   -0.287856,
+   0.224061,
+   0.281822,
+   -0.129374,
+   0.038812,
+   0.084755,
+   -0.056212,
+   -0.005861,
+   0.150791,
+   -0.074471,
+   -0.094485,
+   -0.003617,
+   -0.115342,
+   0.017961,
+   -0.373996,
+   -0.077651,
+   -0.264399,
+   -0.069001,
+   -0.077933,
+   -0.123247,
+   0.206753,
+   -0.101012,
+   0.260412,
+   -0.011263,
+   -0.256503,
+   0.186958,
+   -0.586738,
+   -0.258477,
+   -0.322593,
+   0.17514,
+   -0.237557,
+   -0.198751,
+   0.27155,
+   0.28786,
+   0.110019,
+   -0.232277,
+   -0.009725,
+   -0.170806,
+   -0.214755,
+   -0.354977,
+   0.033709,
+   0.102157,
+   -0.325046,
+   -0.109612,
+   -0.091689,
+   0.118006,
+   0.128155,
+   0.183203,
+   0.096162,
+   -0.163267,
+   -0.11459,
+   -0.015815,
+   0.204037,
+   0.079974,
+   -0.025751
+  ],
+  "SPEAKER_01": [
+   -0.070149,
+   0.00086,
+   0.097467,
+   -0.221557,
+   -0.082873,
+   0.131093,
+   0.147998,
+   0.028069,
+   0.186882,
+   0.119992,
+   -0.001828,
+   0.06542,
+   0.042626,
+   -0.031328,
+   0.169539,
+   -0.070235,
+   -0.0909,
+   -0.261177,
+   0.04718,
+   0.108668,
+   -0.489147,
+   0.051487,
+   0.097037,
+   0.344751,
+   -0.06441,
+   0.195576,
+   0.063808,
+   -0.078177,
+   -0.137324,
+   0.051714,
+   -0.082737,
+   -0.015442,
+   0.032023,
+   -0.422575,
+   -0.112361,
+   -0.269441,
+   0.141147,
+   -0.364087,
+   -0.049881,
+   0.066119,
+   -0.12269,
+   -0.117736,
+   0.179103,
+   0.219156,
+   -0.095729,
+   0.023563,
+   -0.200225,
+   -0.156892,
+   0.011098,
+   0.53869,
+   -0.101739,
+   0.196912,
+   0.151296,
+   0.230249,
+   -0.125729,
+   0.210504,
+   0.241354,
+   -0.124534,
+   -0.623519,
+   0.013569,
+   0.204433,
+   -0.096628,
+   -0.125793,
+   0.007975,
+   0.154332,
+   -0.056785,
+   -0.189857,
+   -0.078184,
+   -0.114719,
+   0.364338,
+   -0.022417,
+   -0.047437,
+   0.35118,
+   -0.136067,
+   -0.482721,
+   0.119255,
+   -0.423694,
+   0.040049,
+   -0.122523,
+   -0.044211,
+   -0.310804,
+   -0.081962,
+   0.096726,
+   -0.201598,
+   -0.019791,
+   0.011191,
+   -0.00847,
+   -0.132647,
+   0.03249,
+   0.048223,
+   0.285966,
+   -0.133947,
+   -0.279761,
+   0.076082,
+   -0.007351,
+   0.030008,
+   -0.245071,
+   -0.006901,
+   0.057052,
+   -0.21124,
+   0.008949,
+   0.326593,
+   -0.016624,
+   -0.320103,
+   -0.115607,
+   0.152765,
+   0.062571,
+   -0.017871,
+   0.002205,
+   -0.135106,
+   0.329948,
+   0.048074,
+   -0.115923,
+   -0.142699,
+   0.242457,
+   -0.160533,
+   -0.13098,
+   -0.126153,
+   9.8e-05,
+   0.030382,
+   0.021542,
+   0.061013,
+   -0.026705,
+   -0.013692,
+   0.057258,
+   0.309021,
+   -0.087359,
+   -0.028011,
+   0.174433,
+   -0.177346,
+   -0.31996,
+   0.067923,
+   0.103341,
+   0.05984,
+   0.018812,
+   -0.154743,
+   -0.087745,
+   0.507506,
+   0.133959,
+   -0.556947,
+   -0.050714,
+   0.128229,
+   0.32614,
+   -0.199843,
+   -0.260227,
+   -0.03643,
+   -0.160895,
+   0.152381,
+   -0.084424,
+   -0.596744,
+   0.184787,
+   0.074666,
+   -0.278323,
+   0.168458,
+   0.030398,
+   -0.082246,
+   -0.111639,
+   -0.077773,
+   -0.096905,
+   -0.02165,
+   0.172656,
+   -0.052095,
+   -0.186858,
+   -0.054896,
+   -0.091392,
+   0.021766,
+   0.012736,
+   0.018778,
+   0.041272,
+   -0.394164,
+   -0.044092,
+   0.399395,
+   -0.202903,
+   0.002169,
+   0.005072,
+   -0.094433,
+   -0.027318,
+   0.043658,
+   0.150562,
+   -0.276948,
+   -0.050678,
+   -0.400218,
+   -0.144659,
+   -0.047173,
+   0.07101,
+   0.181698,
+   0.153722,
+   0.180704,
+   -0.133214,
+   -0.071468,
+   0.079949,
+   0.104447,
+   -0.011927,
+   -0.126065,
+   -0.113467,
+   0.188858,
+   -0.036458,
+   0.198144,
+   0.27939,
+   0.395737,
+   -0.035802,
+   -0.356092,
+   0.025552,
+   -0.295009,
+   0.247252,
+   -0.003894,
+   -0.034402,
+   -0.177114,
+   0.052465,
+   0.119105,
+   -0.383847,
+   -0.027576,
+   0.443718,
+   -0.093128,
+   0.017268,
+   0.108674,
+   0.025062,
+   0.040766,
+   0.013164,
+   0.047437,
+   0.209759,
+   -0.029141,
+   -0.228957,
+   -0.18686,
+   -0.094639,
+   -0.34061,
+   0.058128,
+   -0.243697,
+   0.141809,
+   -0.18718,
+   -0.053833,
+   -0.330211,
+   0.000598,
+   0.069829,
+   0.297986,
+   -0.116703,
+   -0.27386,
+   0.339832,
+   0.05311,
+   -0.141029,
+   -0.290624,
+   0.003176,
+   0.116937,
+   -0.235352,
+   -0.321932,
+   -0.076109,
+   0.138056,
+   -0.111226,
+   -0.021354,
+   -0.03974,
+   0.076497,
+   -0.057478,
+   -0.040527,
+   -0.215487,
+   0.287111,
+   -0.14181
+  ],
+  "SPEAKER_02": [
+   -0.07361,
+   0.178473,
+   -0.069605,
+   -0.043247,
+   -0.259374,
+   -0.171557,
+   0.491633,
+   -0.15361,
+   0.10068,
+   0.157942,
+   0.243865,
+   0.112108,
+   0.096342,
+   0.101409,
+   0.049882,
+   -0.133224,
+   -0.254515,
+   -0.16853,
+   0.028346,
+   0.167596,
+   -0.304078,
+   -0.04335,
+   0.565664,
+   0.183217,
+   0.091281,
+   0.285452,
+   -0.067115,
+   0.031165,
+   0.070721,
+   -0.068711,
+   0.556441,
+   0.149247,
+   0.046149,
+   -0.300399,
+   -0.077866,
+   -0.185752,
+   -0.054227,
+   -0.231,
+   0.090318,
+   0.263218,
+   -0.222694,
+   0.011047,
+   0.426021,
+   0.284141,
+   -0.121165,
+   -0.054948,
+   -0.161258,
+   -0.23527,
+   0.414899,
+   0.607683,
+   0.20052,
+   0.068003,
+   0.163485,
+   -0.159958,
+   -0.10197,
+   0.251171,
+   -0.092534,
+   -0.247293,
+   -0.17183,
+   -0.066512,
+   0.339884,
+   -0.050194,
+   0.170013,
+   0.018595,
+   0.141672,
+   0.185544,
+   -0.228426,
+   -0.195674,
+   -0.056016,
+   0.24029,
+   -0.296029,
+   -0.128554,
+   0.054061,
+   -0.326137,
+   -0.031945,
+   0.121621,
+   -0.123815,
+   0.096228,
+   -0.023395,
+   -0.115706,
+   -0.310662,
+   -0.21251,
+   0.23765,
+   -0.061503,
+   -0.352307,
+   -0.053951,
+   -0.071475,
+   0.05748,
+   -0.244148,
+   -0.205576,
+   -0.066868,
+   0.317452,
+   0.08505,
+   0.105506,
+   0.066804,
+   0.05943,
+   -0.027412,
+   0.088804,
+   0.057273,
+   -0.137225,
+   -0.02703,
+   -0.185969,
+   -0.146001,
+   -0.141523,
+   -0.28356,
+   -0.073963,
+   0.306673,
+   0.112427,
+   -0.004473,
+   -0.407463,
+   0.377424,
+   0.242626,
+   -0.144892,
+   -0.097166,
+   -0.154116,
+   -0.39291,
+   -0.077597,
+   -0.024973,
+   -0.060497,
+   0.228427,
+   0.334233,
+   0.251109,
+   -0.162441,
+   0.071043,
+   -0.043654,
+   0.260816,
+   -0.028181,
+   0.065052,
+   -0.370928,
+   0.069847,
+   -0.364753,
+   0.049124,
+   0.144677,
+   0.066178,
+   0.313373,
+   -0.341641,
+   0.102451,
+   -0.099921,
+   0.349533,
+   -0.485642,
+   -0.152559,
+   0.175265,
+   0.190217,
+   0.223856,
+   -0.194996,
+   -0.131147,
+   0.121356,
+   -0.043422,
+   -0.116461,
+   0.036706,
+   0.190706,
+   -0.438442,
+   -0.422116,
+   -0.268246,
+   -0.064835,
+   0.01908,
+   -0.07816,
+   -0.151518,
+   -0.079212,
+   0.040229,
+   0.401652,
+   0.006377,
+   -0.013617,
+   -0.023969,
+   -0.260924,
+   -0.132022,
+   -0.095875,
+   -0.037125,
+   0.099813,
+   -0.209023,
+   -0.250791,
+   0.139952,
+   0.145103,
+   -0.336234,
+   0.019302,
+   -0.333497,
+   -0.278824,
+   0.132516,
+   -0.002369,
+   -0.017019,
+   -0.130943,
+   0.164459,
+   0.217269,
+   0.164783,
+   -0.035017,
+   0.026719,
+   -0.177711,
+   0.38414,
+   -0.071164,
+   -0.207911,
+   -0.211964,
+   0.150838,
+   -0.023836,
+   -0.162583,
+   -0.169831,
+   0.143598,
+   0.365019,
+   0.21773,
+   0.10767,
+   0.347464,
+   -0.036614,
+   -0.103435,
+   0.110627,
+   0.079409,
+   -0.303603,
+   -0.015517,
+   -0.118321,
+   -0.289506,
+   -0.044096,
+   0.108299,
+   0.161234,
+   0.155628,
+   -0.143494,
+   -0.162433,
+   -0.20917,
+   0.073181,
+   0.003475,
+   0.052042,
+   0.276204,
+   0.510246,
+   0.321442,
+   0.154936,
+   0.250044,
+   0.203337,
+   0.235141,
+   -0.168499,
+   0.341221,
+   -0.372334,
+   0.116293,
+   -0.252936,
+   0.145391,
+   -0.301372,
+   -0.026597,
+   0.470294,
+   0.219756,
+   0.286899,
+   -0.25232,
+   0.032274,
+   0.049308,
+   -0.438545,
+   -0.195018,
+   -0.318097,
+   -0.23293,
+   -0.065737,
+   -0.031301,
+   -0.222957,
+   0.168068,
+   -0.125277,
+   -0.111148,
+   0.243083,
+   -0.007281,
+   0.072987,
+   0.274049,
+   0.149736,
+   0.418993,
+   -0.187953
+  ],
+  "SPEAKER_03": [
+   -0.133685,
+   0.005538,
+   0.054177,
+   -0.209165,
+   0.060591,
+   -0.191928,
+   0.239349,
+   0.135839,
+   -0.078615,
+   0.163884,
+   0.052464,
+   0.025438,
+   -0.14313,
+   0.145851,
+   0.061255,
+   -0.377332,
+   -0.370772,
+   -0.141612,
+   0.05793,
+   -0.028184,
+   -0.372687,
+   0.056094,
+   0.153211,
+   0.201814,
+   0.063259,
+   0.126483,
+   0.350129,
+   -0.089402,
+   -0.221199,
+   0.095841,
+   0.231464,
+   0.093688,
+   -0.100166,
+   -0.256339,
+   -0.113226,
+   -0.22548,
+   0.128281,
+   0.00444,
+   -0.029743,
+   -0.146252,
+   0.191349,
+   -0.059802,
+   -0.253157,
+   0.057631,
+   0.222805,
+   -0.085492,
+   -0.291397,
+   0.017062,
+   0.173819,
+   0.222753,
+   0.203226,
+   -0.085584,
+   -0.104693,
+   -0.051726,
+   0.291126,
+   -0.190568,
+   0.03048,
+   -0.119497,
+   -0.251412,
+   -0.09471,
+   -0.049804,
+   -0.264201,
+   0.066753,
+   0.034283,
+   0.023649,
+   -0.019725,
+   -0.033354,
+   -0.086022,
+   0.301996,
+   0.092022,
+   -0.189149,
+   0.025404,
+   0.073407,
+   -0.334468,
+   0.033152,
+   -0.001582,
+   -0.35969,
+   -0.057464,
+   -0.117193,
+   -0.181524,
+   0.026901,
+   -0.355246,
+   0.241432,
+   -0.219928,
+   -0.271101,
+   -0.046165,
+   -0.039748,
+   0.246536,
+   0.281302,
+   -0.177205,
+   0.052937,
+   0.114587,
+   0.389319,
+   0.143677,
+   0.085538,
+   -0.142188,
+   -0.033803,
+   0.235007,
+   0.162812,
+   -0.063112,
+   -0.168822,
+   -0.084848,
+   0.111583,
+   -0.046923,
+   -0.277056,
+   -0.114499,
+   0.169547,
+   0.261571,
+   0.05744,
+   -0.464405,
+   -0.011487,
+   -0.30512,
+   -0.013739,
+   -0.256979,
+   -0.006326,
+   -0.044002,
+   -0.122912,
+   0.193014,
+   -0.160049,
+   0.292249,
+   -0.02231,
+   0.168492,
+   0.069701,
+   -0.006594,
+   -0.201129,
+   0.31434,
+   0.08349,
+   -0.281289,
+   -0.106846,
+   0.165258,
+   -0.119924,
+   0.128874,
+   0.216841,
+   0.037709,
+   -0.0776,
+   -0.17587,
+   -0.096672,
+   -0.288874,
+   0.082478,
+   0.093569,
+   -0.05545,
+   0.293954,
+   0.108911,
+   0.106179,
+   -0.358801,
+   -0.176184,
+   -0.085794,
+   0.343139,
+   0.068688,
+   0.128227,
+   0.189064,
+   -0.191283,
+   -0.203151,
+   0.09666,
+   -0.049997,
+   0.063094,
+   -0.063617,
+   0.284112,
+   0.008217,
+   -0.022086,
+   0.166089,
+   -0.128188,
+   -0.178435,
+   -0.292313,
+   0.005299,
+   -0.029386,
+   -0.041539,
+   0.119029,
+   0.275304,
+   -0.2511,
+   0.034461,
+   0.142095,
+   0.086874,
+   -0.004174,
+   0.402049,
+   -0.32125,
+   -0.117274,
+   -0.332492,
+   -0.207822,
+   0.008548,
+   -0.357951,
+   -0.057653,
+   -0.013159,
+   -0.007365,
+   -0.126617,
+   0.319,
+   -0.227265,
+   0.229186,
+   -0.066591,
+   0.004356,
+   0.149692,
+   -0.010151,
+   -0.389145,
+   -0.089077,
+   -0.026126,
+   0.17765,
+   0.140892,
+   0.452986,
+   0.007969,
+   -0.233401,
+   0.080484,
+   0.156718,
+   -0.190719,
+   0.152402,
+   0.157046,
+   0.150496,
+   0.092316,
+   -0.004906,
+   -0.095078,
+   0.021841,
+   0.111167,
+   0.25631,
+   -0.23291,
+   -0.078706,
+   -0.179531,
+   -0.209041,
+   -0.046653,
+   0.011774,
+   0.221476,
+   0.367225,
+   0.056767,
+   0.07857,
+   -0.120474,
+   0.137287,
+   -0.088494,
+   -0.185975,
+   -0.090176,
+   -0.281187,
+   0.141953,
+   -0.17854,
+   0.010143,
+   -0.506178,
+   0.23795,
+   0.183177,
+   0.112103,
+   -0.055566,
+   -0.047906,
+   0.184058,
+   0.307895,
+   -0.307128,
+   0.146525,
+   0.192376,
+   0.094032,
+   -0.048853,
+   -0.035439,
+   0.052473,
+   0.25126,
+   -0.008817,
+   -0.065522,
+   0.078652,
+   -0.250231,
+   0.136366,
+   -0.062391,
+   -0.232461,
+   0.127952,
+   0.159839
+  ]
+ },
+ "segments": [
+  {
+   "start": 10.74,
+   "end": 40.26,
+   "text": "Should we get into it? I'm going to assume that Eric and Gavin have been recording for a while. I'm recording. I need to ask Andrew. Oh my God. I flipped it. You yelled at me last week. I'm recording. I'm good. I'm ready. All right. Well, kick it off then, Andrew. What do you mean? Season two. Andrew starts. No, wait. Wait, wait. You're going to be the... No, no, no, no, no, no, no. I was the season one. No, no, no, no. I did the season one in Charles. Welcome to episode 54 of F**kface. That was pretty good. I think he gets... That was a good... That was the handoff point. That was the handoff point.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 40.26,
+   "end": 69.92,
+   "text": "That was the handoff, so then someone else take it. Oh. You know, I got a little bit of insight this week. I did the... I did one of our sister podcasts that Gavin usually does, the RT podcast. Yeah. And I did it with Eric, producer Eric, of this very same podcast. And I found out through the podcast that he... It annoys him that we haven't nailed the intro and the outro yet. He finds that to be, I guess, an annoyance.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 69.92,
+   "end": 75.94,
+   "text": "Oh, are you annoyed, Eric? Are you annoyed? What's that voice? He expressed displeasure.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 76.58,
+   "end": 83.44,
+   "text": "It's been over a year, and I feel like I'm not looking for the most consistent intro and outro,",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 83.9,
+   "end": 90.06,
+   "text": "but if there was something like, hey, welcome to F**kface. I'm Jeff, along with Andrew and Gavin,",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 90.06,
+   "end": 94.38,
+   "text": "and then you guys get into it. Like, that's not a lot, right? Like, that's pretty easy.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 99.92,
+   "end": 107.46,
+   "text": "Is the outro, because... And I don't want to say that it's bad. It's that we do the outro,",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 107.74,
+   "end": 111.48,
+   "text": "and it doesn't seem to matter, because then we just keep going.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 112.28,
+   "end": 117.02,
+   "text": "Well, nobody... Why would you want to stop making F**kface? It doesn't really make any sense what you're saying.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 117.02,
+   "end": 125.8,
+   "text": "I don't know what to tell you. That is logic right there. That is an excellent point.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 126.86,
+   "end": 130.98,
+   "text": "Because you know, like, think about it, Eric. You have a life outside of this podcast.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 131.46,
+   "end": 138.2,
+   "text": "You know that the second that we power down, life gets shitty again for seven fucking days",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 138.2,
+   "end": 146.46,
+   "text": "until you get to turn back on for this podcast. And so it's like, why don't we extend the good a little bit more?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 146.46,
+   "end": 152.76,
+   "text": "I love the idea of the podcast ending, and then a timer for six days and 23 hours begins.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 153.72,
+   "end": 158.64,
+   "text": "Of misery. It's like a soccer match. It's like the time ends, then we go to OT,",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 158.82,
+   "end": 163.06,
+   "text": "and nobody really knows how long it's going to go for. There's extra time. It just goes beyond.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 163.56,
+   "end": 165.5,
+   "text": "I don't think we need to clear it. That's the best analogy.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 165.5,
+   "end": 172.28,
+   "text": "The thing that I learned is that Jeff sees this as a triangle with himself, Gavin, and Andrew,",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 172.46,
+   "end": 175.92,
+   "text": "where he does not consider him the host, but it's like three hosts.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 176.56,
+   "end": 182.32,
+   "text": "And I think that just given the year we've been doing this, that that's insane.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 183.04,
+   "end": 187.6,
+   "text": "And there just needs to be the one host, Jeff, and then...",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 187.6,
+   "end": 190.3,
+   "text": "Why does there need to be a host? It's just three people chatting a few weeks.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 190.3,
+   "end": 192.48,
+   "text": "Because someone will be doing the intro and the outro and the heavy lifting",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 192.48,
+   "end": 195.06,
+   "text": "for getting us through the things that we have to get through.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 195.5,
+   "end": 202.66,
+   "text": "I feel like the description of the show lists you as the host, Jeff. Singularly.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 202.74,
+   "end": 205.62,
+   "text": "Yeah, but listen to what Gavin said. Think about that for a minute.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 205.64,
+   "end": 207.88,
+   "text": "Yeah, but it's labeled. I mean, you declared, I feel like, from the beginning.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 207.98,
+   "end": 211.36,
+   "text": "I mean, change that if you want to. Listen, I feel like...",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 211.36,
+   "end": 212.94,
+   "text": "And I was just trying to make a point, right?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 213.0,
+   "end": 215.1,
+   "text": "I was just trying to make a point on that other podcast.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 215.1,
+   "end": 221.32,
+   "text": "That we... I consider us, and this isn't to discount Eric or whoever's editing the week,",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 221.54,
+   "end": 224.4,
+   "text": "but the three of us to be like a comedy triangle, right?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 224.66,
+   "end": 226.78,
+   "text": "And I feel like it's a perfect triangle.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 226.98,
+   "end": 230.4,
+   "text": "I don't think that there's... I don't think that any point is elongated.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 231.34,
+   "end": 235.98,
+   "text": "And by that token, no point is more important than any other point.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 235.98,
+   "end": 240.22,
+   "text": "And so I was just saying that, like, I think hosting duties, like intros and outros,",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 240.66,
+   "end": 248.04,
+   "text": "since we are such a perfect triangle, that we should probably divvy them up as such.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 248.2,
+   "end": 250.44,
+   "text": "You know, you do a third, I do a third, Gavin does a third.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 250.62,
+   "end": 255.98,
+   "text": "I already do all of the ad reads, which I'm happy about.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 256.82,
+   "end": 260.34,
+   "text": "I never make you guys do those, except for the one time Andrew had to do them",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 260.34,
+   "end": 261.04,
+   "text": "because I had an emergency.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 261.56,
+   "end": 263.24,
+   "text": "So I feel like... I just feel like...",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 263.24,
+   "end": 266.68,
+   "text": "I just feel like we could all share the burden of the intro and the outro,",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 266.68,
+   "end": 269.1,
+   "text": "because Eric makes it be more of a thing than it needs to be anyway.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 269.12,
+   "end": 270.94,
+   "text": "Also, we may mess up the outro for a week,",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 270.98,
+   "end": 273.34,
+   "text": "but last week we went to the major effort...",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 273.34,
+   "end": 274.0,
+   "text": "Or was it two weeks ago?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 274.08,
+   "end": 277.14,
+   "text": "We went to the major effort of bleeping out a word",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 277.14,
+   "end": 279.02,
+   "text": "so it didn't spoil the story.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 279.64,
+   "end": 282.06,
+   "text": "We bleeped out Jeff talking about his car,",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 282.06,
+   "end": 285.3,
+   "text": "and then Eric names the episode Jeff's Car Wreck.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 286.26,
+   "end": 289.64,
+   "text": "Listen, I don't know how you have time to do this show.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 289.64,
+   "end": 292.74,
+   "text": "Don't you have a halo bet that you're on the clock for right now?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 292.74,
+   "end": 292.88,
+   "text": "I do!",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 293.12,
+   "end": 294.14,
+   "text": "Don't you have things to do?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 294.44,
+   "end": 296.26,
+   "text": "I'm wasting time now!",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 297.36,
+   "end": 298.56,
+   "text": "That's a great pivot, Eric.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 298.84,
+   "end": 299.84,
+   "text": "That's fantastic.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 300.02,
+   "end": 300.86,
+   "text": "Get the heat off of you.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 301.04,
+   "end": 303.46,
+   "text": "Just before we move on, once again, I'd just like to reiterate",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 303.46,
+   "end": 305.54,
+   "text": "the description of this show.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 306.12,
+   "end": 308.72,
+   "text": "F*** Faces Shooting Yourself in the Foot for a Laugh.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 309.2,
+   "end": 313.4,
+   "text": "Host Jeff Ramsey is joined every week by longtime friend Gavin Free.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 313.62,
+   "end": 316.56,
+   "text": "Yeah, but I don't think I wrote that.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 316.56,
+   "end": 318.08,
+   "text": "Also, it says bi-weekly.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 319.2,
+   "end": 319.54,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 319.7,
+   "end": 320.72,
+   "text": "That doesn't sound good either.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 320.74,
+   "end": 322.92,
+   "text": "Everything about this is awful.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 323.64,
+   "end": 325.12,
+   "text": "Yeah, once every two weeks.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 326.14,
+   "end": 326.42,
+   "text": "What?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 326.82,
+   "end": 327.82,
+   "text": "Two every one week?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 328.02,
+   "end": 329.06,
+   "text": "What does my weekly mean?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 330.0,
+   "end": 331.02,
+   "text": "Well, it's neither of them.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 331.4,
+   "end": 332.32,
+   "text": "F*** F*** Faces weekly.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 332.54,
+   "end": 333.02,
+   "text": "It's the point.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 333.04,
+   "end": 333.44,
+   "text": "It's once a week.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 333.64,
+   "end": 333.78,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 334.54,
+   "end": 335.78,
+   "text": "Oh, okay.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 335.86,
+   "end": 336.8,
+   "text": "Now I see what you're saying.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 337.06,
+   "end": 337.18,
+   "text": "Okay.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 339.74,
+   "end": 341.06,
+   "text": "Do you like this intro, Eric?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 341.1,
+   "end": 341.76,
+   "text": "Is this a good one?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 342.8,
+   "end": 343.52,
+   "text": "What I'm...",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 343.52,
+   "end": 345.0,
+   "text": "Jeff, take it away.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 345.0,
+   "end": 345.9,
+   "text": "What I...",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 345.9,
+   "end": 346.6,
+   "text": "What I...",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 346.6,
+   "end": 350.66,
+   "text": "Hey, hello, and welcome to episode 54 of the F*** Face Podcast.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 351.08,
+   "end": 356.72,
+   "text": "What you have been listening to up until this point is a simulation of the difficulty we go",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 356.72,
+   "end": 358.8,
+   "text": "through each week trying to start the podcast.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 359.0,
+   "end": 359.96,
+   "text": "We wanted to put on a little...",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 359.96,
+   "end": 362.4,
+   "text": "That was actually scripted and seen.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 362.5,
+   "end": 362.7,
+   "text": "Sorry.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 363.36,
+   "end": 366.0,
+   "text": "And so you guys can go ahead and throw those scripts away.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 366.0,
+   "end": 366.64,
+   "text": "We don't need them anymore.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 366.64,
+   "end": 366.86,
+   "text": "All right.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 366.86,
+   "end": 369.88,
+   "text": "I wanted to just give you guys a little taste of what sometimes it's like.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 370.66,
+   "end": 371.52,
+   "text": "I'm Jeff Ramsey.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 371.66,
+   "end": 373.38,
+   "text": "With me always, Andrew Patton and Gavin Free.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 373.54,
+   "end": 375.0,
+   "text": "What's going on in your world this week, guys?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 375.0,
+   "end": 375.56,
+   "text": "I'm miserable.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 376.1,
+   "end": 376.62,
+   "text": "It's great.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 377.3,
+   "end": 378.4,
+   "text": "It's great and awful.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 379.12,
+   "end": 379.7,
+   "text": "It's great and then terrible.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 379.7,
+   "end": 385.88,
+   "text": "We are deep in this Halo bet, which when it started last week, kind of, it was great.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 386.08,
+   "end": 387.92,
+   "text": "I had a pretty open week.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 388.34,
+   "end": 393.9,
+   "text": "This week, I've been shooting every single day, and I've been having to come home, shoot",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 393.9,
+   "end": 396.42,
+   "text": "entire days, you know, like 12 plus hours.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 396.42,
+   "end": 400.72,
+   "text": "It's knowing that I'm going to have to come home tired, download all my footage, and then",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 400.72,
+   "end": 404.54,
+   "text": "play Halo, the same piece of level over and over again.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 404.6,
+   "end": 407.18,
+   "text": "And somehow, I keep beating Andrew's time.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 407.52,
+   "end": 410.38,
+   "text": "So this has been following me every single night of the week.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 410.46,
+   "end": 416.36,
+   "text": "I have to beat the time by like one second, and I'm so tired, it's dreadful.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 416.48,
+   "end": 417.1,
+   "text": "Andrew, thoughts?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 417.86,
+   "end": 420.86,
+   "text": "I'm going to argue against you saying you're available last week.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 420.94,
+   "end": 423.78,
+   "text": "The reason why we're doing this this week is purely because of you.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 424.12,
+   "end": 425.46,
+   "text": "You kept shifting the start.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 425.46,
+   "end": 430.02,
+   "text": "That's because I didn't want to start and have the 24 hours go on to my birthday.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 434.06,
+   "end": 436.38,
+   "text": "Speaking of, like you talked about how miserable you are this week.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 436.46,
+   "end": 437.8,
+   "text": "I want to hear all about this bet.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 438.02,
+   "end": 441.58,
+   "text": "I'm super invested in it, and I want to get into it, and I think it's probably the meat",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 441.58,
+   "end": 442.36,
+   "text": "of this episode.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 442.36,
+   "end": 447.0,
+   "text": "Especially because somehow this goes on every night, and everybody knows about it, but I",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 447.0,
+   "end": 447.52,
+   "text": "don't.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 447.74,
+   "end": 452.34,
+   "text": "Like, I don't check Twitter, so I guess I just never know when the streams are happening or",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 452.34,
+   "end": 452.48,
+   "text": "anything.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 452.54,
+   "end": 454.34,
+   "text": "I hear Jack's involved at one point.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 454.46,
+   "end": 456.56,
+   "text": "Like, I am ignorant of the whole thing.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 456.56,
+   "end": 457.38,
+   "text": "Even Eric's been watching.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 457.48,
+   "end": 460.38,
+   "text": "There's been hundreds of people watching every night for Andrew's stream.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 460.44,
+   "end": 465.2,
+   "text": "Gavin, after we're done with this, I would like to challenge your idea of a bad week with",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 465.2,
+   "end": 465.84,
+   "text": "my life.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 466.38,
+   "end": 468.2,
+   "text": "Oh, I'm sure mine doesn't come close.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 468.6,
+   "end": 470.44,
+   "text": "Mine is just normal work, and I'm tired.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 471.7,
+   "end": 475.36,
+   "text": "So, how are you guys able to keep shaving off time?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 475.92,
+   "end": 477.16,
+   "text": "And how many times have you gone back and forth?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 477.16,
+   "end": 480.4,
+   "text": "Well, this is, I have another, you know what, Jeff, you just remind me of another thing.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 480.5,
+   "end": 481.58,
+   "text": "You are a motherfucker.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 481.8,
+   "end": 483.56,
+   "text": "I fucking, you piece of shit.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 483.92,
+   "end": 487.66,
+   "text": "You've caused another layer to this bet, you son of a bitch.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 488.26,
+   "end": 490.14,
+   "text": "So, you'll find out in a minute.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 490.6,
+   "end": 492.4,
+   "text": "So, we've been going back and forth.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 493.08,
+   "end": 497.36,
+   "text": "I haven't been able to figure out how Gavin has consistently been beating my times.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 497.46,
+   "end": 500.96,
+   "text": "I've been showing how I've been doing it, and as mentioned before, I've been doing it",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 500.96,
+   "end": 502.22,
+   "text": "like the speed running method.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 502.44,
+   "end": 506.5,
+   "text": "I'm grenade jumping, I'm hopping over things, like I'm doing everything properly.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 506.5,
+   "end": 508.06,
+   "text": "With zero skulls on.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 508.52,
+   "end": 509.58,
+   "text": "No skulls.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 509.64,
+   "end": 510.88,
+   "text": "I've been doing it cleanly.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 511.04,
+   "end": 514.0,
+   "text": "Jeff, Andrew found my new techniques.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 514.14,
+   "end": 514.92,
+   "text": "He found out what they were.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 515.4,
+   "end": 519.5,
+   "text": "I discovered his new techniques, because I kept doing this thing, and eventually, what,",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 519.56,
+   "end": 523.06,
+   "text": "our time started at like 4 minute 20-something, Gavin, when this started?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 523.2,
+   "end": 528.64,
+   "text": "You had to beat 4.22, I think was the first time that I'd left you with, from over, well,",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 528.82,
+   "end": 529.78,
+   "text": "like nine months ago.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 530.4,
+   "end": 531.46,
+   "text": "Okay, 4.22.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 531.62,
+   "end": 534.58,
+   "text": "The fastest run I had seen used this, like, pelican.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 534.58,
+   "end": 538.9,
+   "text": "You'd jump and bounce off a pelican in a certain way, and that was for 3 minutes 59 seconds.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 539.58,
+   "end": 544.14,
+   "text": "And I just couldn't figure out how to do it, and I was demoralized, and for the first time,",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 544.18,
+   "end": 545.32,
+   "text": "I had a genius idea.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 545.74,
+   "end": 549.64,
+   "text": "I googled the level and put in the word speedrun after it.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 549.92,
+   "end": 553.98,
+   "text": "I just, like, all the research I'd done at that point had just been on YouTube looking",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 553.98,
+   "end": 554.34,
+   "text": "at runs.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 554.52,
+   "end": 558.5,
+   "text": "For the first time, I looked it up, and I found a website that was like Halo speedrunning,",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 558.6,
+   "end": 562.14,
+   "text": "and they had a bunch of times, and their lowest time was three and a half minutes.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 564.58,
+   "end": 567.32,
+   "text": "And he refused to tell me, for some reason.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 567.32,
+   "end": 568.1,
+   "text": "Well, yeah, you asked me.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 568.14,
+   "end": 574.48,
+   "text": "I have a, I think I had seven skulls on, and you asked me which, yeah, nine, and you asked",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 574.48,
+   "end": 576.46,
+   "text": "me which ones, and I just said a bit of this, bit of that.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 576.7,
+   "end": 581.94,
+   "text": "Yeah, but I'd asked you at multiple times throughout this, what skulls are you using?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 582.02,
+   "end": 583.38,
+   "text": "You'd always just say, ah, new techniques.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 583.54,
+   "end": 584.38,
+   "text": "I'm using new techniques.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 584.58,
+   "end": 585.54,
+   "text": "You'd give no details.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 585.86,
+   "end": 589.86,
+   "text": "Then you eventually told me that you would use a ghost, and I was like, oh, now you're willing",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 589.86,
+   "end": 593.18,
+   "text": "to talk about what you're doing, because I'm showing you how I'm doing it, and then",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 593.18,
+   "end": 595.36,
+   "text": "I asked you the skulls, and you're like, ah, bit of this, bit of that.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 595.76,
+   "end": 596.58,
+   "text": "Completely useless.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 597.08,
+   "end": 602.3,
+   "text": "Well, here's, you missed out the part where you beat my 422, and you got 420.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 603.02,
+   "end": 605.04,
+   "text": "And I thought, oh, I'm going to whip out my new techniques again.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 605.04,
+   "end": 609.98,
+   "text": "And what I was going to do was just get a time, because my new techniques allowed me",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 609.98,
+   "end": 612.86,
+   "text": "to smash the world record without skulls.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 612.94,
+   "end": 615.36,
+   "text": "Like, it's way faster than playing normally.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 615.36,
+   "end": 620.78,
+   "text": "But I was just going to wait at the end, and then drive through the finish with, like,",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 620.84,
+   "end": 621.3,
+   "text": "one second.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 621.56,
+   "end": 621.72,
+   "text": "You fuck.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 622.24,
+   "end": 625.0,
+   "text": "So I was parked at the end, and I was trying to film it.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 625.04,
+   "end": 628.38,
+   "text": "I was trying to film me waiting at the end, but as I was doing that, I fumbled the controller,",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 628.52,
+   "end": 633.52,
+   "text": "and I drove to the end, like, over 10 seconds faster than your time.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 634.0,
+   "end": 635.02,
+   "text": "I think, what did I put it at?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 635.68,
+   "end": 638.3,
+   "text": "It was, it was, like, shockingly low.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 638.42,
+   "end": 640.06,
+   "text": "I thought you couldn't beat 420.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 640.06,
+   "end": 645.06,
+   "text": "I accidentally went from beating your 420, I accidentally put in a 406.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 645.36,
+   "end": 648.9,
+   "text": "And at that point, you were like, wait, what are you doing?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 649.0,
+   "end": 649.86,
+   "text": "And I was like, no!",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 650.32,
+   "end": 653.88,
+   "text": "Now he knows that the skulls are definitely my new techniques.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 654.64,
+   "end": 655.62,
+   "text": "I hate you.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 655.76,
+   "end": 661.1,
+   "text": "What was it, what did it feel like the second you saw him beat your time by 14 seconds?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 661.52,
+   "end": 662.6,
+   "text": "Oh, stunned.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 663.18,
+   "end": 667.58,
+   "text": "Like, before you rationalized it, did your heart fall out of your body?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 667.58,
+   "end": 669.82,
+   "text": "It was depressing, Jeff.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 669.92,
+   "end": 673.26,
+   "text": "It was shocking, and it just heightened my sense of, Gavin isn't this good.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 673.56,
+   "end": 675.02,
+   "text": "What the fuck is Gavin doing?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 675.66,
+   "end": 676.64,
+   "text": "What is happening here?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 676.64,
+   "end": 677.3,
+   "text": "He's tenacious, though.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 677.3,
+   "end": 677.74,
+   "text": "He is.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 677.74,
+   "end": 677.78,
+   "text": "He is.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 677.78,
+   "end": 678.44,
+   "text": "He was thinking about Gavin.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 678.48,
+   "end": 679.22,
+   "text": "A huge mistake.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 679.46,
+   "end": 681.72,
+   "text": "So, Andrew then started fumbling around with skulls.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 682.12,
+   "end": 683.98,
+   "text": "I actually have the clip, Andrew, from your stream,",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 684.42,
+   "end": 687.94,
+   "text": "of the moment you discovered what happens when you put those skulls on.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 688.0,
+   "end": 688.5,
+   "text": "Shall I play it?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 688.8,
+   "end": 689.14,
+   "text": "Sure.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 702.28,
+   "end": 705.0,
+   "text": "So, Andrew realized, I'm just playing golf.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 705.0,
+   "end": 713.04,
+   "text": "I've got Sputnik, Feather, and Boom on, which combined, you just throw a grenade to the ground",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 713.04,
+   "end": 715.66,
+   "text": "and shoot, like, 200 feet in the air.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 715.82,
+   "end": 719.16,
+   "text": "And you can just blow yourself over half the level at the beginning.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 719.16,
+   "end": 723.52,
+   "text": "And that's how I've been, like, by the time he's driving or, like, walking over the rooftops",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 723.52,
+   "end": 725.0,
+   "text": "to the hotel in 30 seconds.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 725.14,
+   "end": 727.42,
+   "text": "I've been there in, like, 15 seconds.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 727.98,
+   "end": 731.82,
+   "text": "And, uh, alas, my new techniques have been revealed.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 732.82,
+   "end": 735.32,
+   "text": "But it was so...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 735.32,
+   "end": 736.62,
+   "text": "You make, like, it is easy.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 736.72,
+   "end": 737.54,
+   "text": "Like, it's a lot easier.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 737.7,
+   "end": 739.58,
+   "text": "It is difficult to get those grenade jumps.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 739.66,
+   "end": 743.82,
+   "text": "You have to be so specific because Halo 2 doesn't have fall damage.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 743.82,
+   "end": 746.96,
+   "text": "It has, if you're in the air for a certain amount of time, you just die.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 747.28,
+   "end": 749.58,
+   "text": "What is the Sputnik Skull?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 749.88,
+   "end": 751.54,
+   "text": "What is, like, the description of it?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 751.62,
+   "end": 752.0,
+   "text": "Because there's...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 752.0,
+   "end": 752.66,
+   "text": "I don't know that one.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 752.78,
+   "end": 756.96,
+   "text": "They actually added new skulls to Halo 2, but I think Sputnik is one of the originals.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 757.18,
+   "end": 757.94,
+   "text": "Sputnik Skull.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 757.94,
+   "end": 758.16,
+   "text": "Is it?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 758.98,
+   "end": 760.22,
+   "text": "Halo 2.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 760.58,
+   "end": 762.08,
+   "text": "I think it reduces gravity.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 762.44,
+   "end": 764.42,
+   "text": "But there's a few different, like, there's a grenade modifier.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 764.42,
+   "end": 765.8,
+   "text": "I don't think that's in other Halos.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 765.92,
+   "end": 766.14,
+   "text": "No.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 766.14,
+   "end": 766.66,
+   "text": "Is that just a Halo?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 766.66,
+   "end": 767.78,
+   "text": "Is that one that's only Halo 2?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 767.92,
+   "end": 771.94,
+   "text": "Mass of objects is decreased, making them more easily displaced.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 772.58,
+   "end": 772.94,
+   "text": "Gotcha.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 773.14,
+   "end": 773.34,
+   "text": "Okay.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 773.34,
+   "end": 775.1,
+   "text": "And that applies to you as well.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 776.96,
+   "end": 779.48,
+   "text": "Before, we're getting too far ahead, so I'm still doing...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 779.48,
+   "end": 781.9,
+   "text": "I'm doing the skull-less runs, right?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 782.0,
+   "end": 786.96,
+   "text": "And then I finally, I realize Gavin's been fucking golf-balling it up, flying around, and",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 786.96,
+   "end": 790.6,
+   "text": "I beat his time by however many seconds, and I post a screenshot.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 790.76,
+   "end": 792.3,
+   "text": "This is the first time I've used skulls.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 792.34,
+   "end": 797.0,
+   "text": "I've done this, like, as legitimately as you can until this point, and then all of a",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 797.0,
+   "end": 799.94,
+   "text": "sudden, this narrative got created of, Gavin's got nine skulls.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 799.96,
+   "end": 800.68,
+   "text": "You only got four?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 801.1,
+   "end": 801.7,
+   "text": "What are you doing?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 801.7,
+   "end": 807.44,
+   "text": "Like, my runs all of a sudden became lessened because people equate more skulls to harder,",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 807.92,
+   "end": 809.24,
+   "text": "including you, Jeff.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 809.42,
+   "end": 813.68,
+   "text": "You had a little fucking snarky tweet about, oh, four, like, five skull difference.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 814.08,
+   "end": 815.06,
+   "text": "That's interesting.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 815.76,
+   "end": 816.66,
+   "text": "It is interesting.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 816.72,
+   "end": 817.3,
+   "text": "It's harder.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 817.56,
+   "end": 818.68,
+   "text": "It's harder what I'm doing.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 819.12,
+   "end": 821.74,
+   "text": "But everyone thinks it's easier because I have less skulls.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 821.74,
+   "end": 830.0,
+   "text": "So then, when I took Gavin's time back the following day, I put on fucking ten skulls.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 830.0,
+   "end": 833.78,
+   "text": "Because you can just add, like, the I would have been your daddy's skull, which does nothing.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 833.96,
+   "end": 835.0,
+   "text": "It, like, adds dialogue.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 835.16,
+   "end": 836.78,
+   "text": "That was my original thing.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 836.84,
+   "end": 840.02,
+   "text": "I put on nine or so skulls, but I was really only using three.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 840.1,
+   "end": 841.64,
+   "text": "I was just putting on more to throw them off.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 841.8,
+   "end": 845.56,
+   "text": "But yeah, I had, like, profit birthday party, which there's no profits in that level.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 845.64,
+   "end": 846.84,
+   "text": "It's just a skull to throw on.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 846.84,
+   "end": 848.34,
+   "text": "It's ridiculous.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 848.54,
+   "end": 854.04,
+   "text": "So, in my anger of this, Jeff, I just threw on all these skulls, and one of them is a",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 854.04,
+   "end": 855.78,
+   "text": "grunt funeral or something like that.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 855.82,
+   "end": 856.88,
+   "text": "I don't remember the exact wording.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 856.96,
+   "end": 857.64,
+   "text": "Do you know what it is, Gavin?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 857.74,
+   "end": 857.98,
+   "text": "Okay.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 858.4,
+   "end": 859.06,
+   "text": "Yeah, grunt funeral.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 859.3,
+   "end": 860.38,
+   "text": "Okay, it is grunt funeral.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 860.78,
+   "end": 863.76,
+   "text": "And grunt funeral is when you kill a grunt, they explode.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 864.32,
+   "end": 868.78,
+   "text": "And how we're doing this, we average, like, maybe at most, like, one or two kills per run.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 869.04,
+   "end": 873.7,
+   "text": "And so I'm thinking in my head of, like, well, do I kill a grunt at all in this?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 873.78,
+   "end": 874.48,
+   "text": "No, I don't think I do.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 874.56,
+   "end": 875.38,
+   "text": "Like, why would I kill a grunt?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 876.02,
+   "end": 880.4,
+   "text": "There's one fucking grunt that blows up on my path, and it added, like, an additional",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 880.4,
+   "end": 885.24,
+   "text": "30 minutes to my run, because every time I tried to go past it, it would explode, and",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 885.24,
+   "end": 886.74,
+   "text": "I'd blow up, and I'd have to go over again.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 886.94,
+   "end": 888.88,
+   "text": "All because of this fucking skull narrative.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 888.96,
+   "end": 894.2,
+   "text": "I don't need any of these skulls on, but we're now at 10 skulls, and it has continued to progress.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 894.2,
+   "end": 898.1,
+   "text": "You also are fantastic at getting my exact time.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 898.76,
+   "end": 901.74,
+   "text": "You get all the way to the end, and you land on the exact time I got.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 901.74,
+   "end": 903.68,
+   "text": "So I put in the 406 by accident.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 904.2,
+   "end": 908.64,
+   "text": "Then it was, you know, all of the Mysterium and the mind games are all out the window.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 908.76,
+   "end": 911.24,
+   "text": "Now I just have to rely on skill, which I don't really have much of.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 911.54,
+   "end": 914.34,
+   "text": "You then put in a 354.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 914.84,
+   "end": 915.62,
+   "text": "Was it that low?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 916.28,
+   "end": 916.52,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 916.52,
+   "end": 921.5,
+   "text": "And then, somehow, I sat down last night, after shooting all day, I was like, I'm going",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 921.5,
+   "end": 924.74,
+   "text": "to be up until, like, 2 a.m., and then I've got to get up at 6.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 924.84,
+   "end": 925.68,
+   "text": "It's going to be a nightmare.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 926.1,
+   "end": 930.16,
+   "text": "But somehow, in about 45 minutes, I put in a 352.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 930.16,
+   "end": 934.34,
+   "text": "Not only did he put in, we need context also, once again.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 934.86,
+   "end": 940.94,
+   "text": "Every single time Gavin tries to beat my time, there's just a text chain of whining and complaining.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 941.18,
+   "end": 942.68,
+   "text": "Why doesn't your timer work?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 942.92,
+   "end": 943.82,
+   "text": "This sucks.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 944.14,
+   "end": 945.0,
+   "text": "This is terrible.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 945.46,
+   "end": 946.5,
+   "text": "Blink if you can hear me.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 946.82,
+   "end": 951.12,
+   "text": "Yeah, blink if you can hear me, which is, Cortana says, at the beginning, when you load",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 951.12,
+   "end": 953.94,
+   "text": "in that level, so when you're trying to do the first part, you just hear blink if you",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 953.94,
+   "end": 954.38,
+   "text": "can hear me.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 954.64,
+   "end": 955.8,
+   "text": "Over and over and over.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 955.92,
+   "end": 956.86,
+   "text": "Fucking is awful.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 957.28,
+   "end": 958.22,
+   "text": "Shake it off, Marines.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 958.86,
+   "end": 963.14,
+   "text": "But there's always this text chain I get from Gavin of, like, it's going to be miserable.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 963.54,
+   "end": 966.6,
+   "text": "And we had been talking earlier in the day, and he's like, oh, I've got to shoot all day.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 966.92,
+   "end": 969.74,
+   "text": "I'm not even going to be able to start until 7 your time.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 970.28,
+   "end": 972.12,
+   "text": "This is just, like, I've got no chance.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 972.12,
+   "end": 973.56,
+   "text": "I've got, like, two hours to do this.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 974.14,
+   "end": 976.2,
+   "text": "And so I texted back, you know what?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 976.56,
+   "end": 979.1,
+   "text": "And I've done this a few times, because it's weird.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 979.42,
+   "end": 984.88,
+   "text": "When it's not on you, when you don't have to beat the time, you're, like, kind of cheering",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 984.88,
+   "end": 986.74,
+   "text": "for the other person because it's so miserable.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 986.74,
+   "end": 988.56,
+   "text": "And you're just hoping.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 988.66,
+   "end": 989.46,
+   "text": "I'm like, you know what, Gavin?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 989.82,
+   "end": 994.46,
+   "text": "I'll let you, I'll extend your time from, it was, like, 11 p.m. for you.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 994.92,
+   "end": 997.36,
+   "text": "I'll let you go until we record the podcast tomorrow.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 997.5,
+   "end": 1001.06,
+   "text": "If you, as long as you beat the time by that, that's, like, 30-something hours.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1001.26,
+   "end": 1005.62,
+   "text": "And I was very appreciative, because I needed the time, because I'd wasted so much doing work.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1005.64,
+   "end": 1009.92,
+   "text": "Yeah, Gavin sent me this thing of, like, oh, I'm going to have, like, no time to do this.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1010.0,
+   "end": 1010.64,
+   "text": "That's, you know what?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1010.64,
+   "end": 1012.46,
+   "text": "But, hey, I really appreciate that.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1012.52,
+   "end": 1013.2,
+   "text": "That's kind of you.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1013.76,
+   "end": 1014.92,
+   "text": "So I'm having dinner.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1015.0,
+   "end": 1015.74,
+   "text": "I eat my meal.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1016.22,
+   "end": 1017.16,
+   "text": "It's 7 p.m.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1017.18,
+   "end": 1018.94,
+   "text": "Gavin should just be starting now.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1019.56,
+   "end": 1021.38,
+   "text": "And I decide I'm going to have a bath.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1021.5,
+   "end": 1022.62,
+   "text": "I'm going to have a nice bath.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1022.74,
+   "end": 1024.06,
+   "text": "I've been streaming every night.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1024.26,
+   "end": 1025.52,
+   "text": "This is suck doing this thing.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1025.86,
+   "end": 1031.44,
+   "text": "This is the one night where I know for a fact I can just stretch out, relax, enjoy myself,",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1031.88,
+   "end": 1036.12,
+   "text": "hop in the tub, spend seven minutes in a tub filling with water.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1036.12,
+   "end": 1037.58,
+   "text": "It's all nice and warm.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1038.08,
+   "end": 1039.32,
+   "text": "I'm just loving life.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1039.68,
+   "end": 1044.06,
+   "text": "And then out of nowhere, I get a text from Gavin saying, never mind, with a new time.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1044.26,
+   "end": 1045.84,
+   "text": "He beat my time by two seconds.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1046.16,
+   "end": 1047.4,
+   "text": "There was no text chain.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1047.66,
+   "end": 1048.66,
+   "text": "There was no warning.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1048.9,
+   "end": 1051.08,
+   "text": "Just immediately stabbed me in the heart.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1051.6,
+   "end": 1052.22,
+   "text": "I'm just devastated.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1052.22,
+   "end": 1057.62,
+   "text": "Yeah, so I realized I was still one night behind when I said my last score, which was 3.52 after your 3.54.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1057.84,
+   "end": 1063.86,
+   "text": "That was, you put in the previous night a 3.49, and then I sat down and very quickly did a 3.47.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1063.86,
+   "end": 1067.26,
+   "text": "Which, at the time, when I said that to you, I looked it up.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1067.32,
+   "end": 1072.04,
+   "text": "That was, like, number 62 in the world on that leaderboard in the game.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1072.56,
+   "end": 1072.82,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1073.2,
+   "end": 1074.8,
+   "text": "Well, like, the times are weird.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1074.92,
+   "end": 1077.72,
+   "text": "So we're doing, like, save and quit, so it's not, like, a continuous run.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1077.82,
+   "end": 1080.3,
+   "text": "So it's not, like, an officially submittable time.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1080.92,
+   "end": 1086.68,
+   "text": "But it was just the fact that every other time there's been, like, some warning or, like, a message of, like, hey, I'm going to start.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1086.94,
+   "end": 1090.94,
+   "text": "I have never been more comfortable and, like, I don't need to worry about this right now.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1090.94,
+   "end": 1098.1,
+   "text": "And then I just got that text, and I've never been sadder in a bathtub in my life because it was, like, this is ruined now.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1098.18,
+   "end": 1099.26,
+   "text": "I need to now go out.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1099.36,
+   "end": 1100.1,
+   "text": "I need to do this.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1100.18,
+   "end": 1101.2,
+   "text": "I need to stream this.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1101.32,
+   "end": 1102.52,
+   "text": "I got out of my bath.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1102.94,
+   "end": 1103.72,
+   "text": "It ruined my bath.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1103.72,
+   "end": 1103.94,
+   "text": "I ruined his bath.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1104.36,
+   "end": 1105.56,
+   "text": "He ruined my bath.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1106.12,
+   "end": 1107.78,
+   "text": "It's the angriest I've been in a tub.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1108.02,
+   "end": 1111.26,
+   "text": "I couldn't believe it for ruining your bath because I know what a bath means to you.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1111.66,
+   "end": 1114.08,
+   "text": "And, you know, you're usually in there for, like, an hour to 90 minutes.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1114.46,
+   "end": 1114.68,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1115.0,
+   "end": 1115.56,
+   "text": "No, you got it.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1115.68,
+   "end": 1116.48,
+   "text": "It's a whole extreme.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1116.5,
+   "end": 1117.64,
+   "text": "It's the angriest you've been in a tub.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1117.64,
+   "end": 1118.82,
+   "text": "It is, by far.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1119.08,
+   "end": 1122.08,
+   "text": "I was irate at having to pull the drain.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1122.74,
+   "end": 1123.82,
+   "text": "It was just terrible.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1124.28,
+   "end": 1124.96,
+   "text": "I put a tub.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1124.96,
+   "end": 1126.08,
+   "text": "You had 24 hours.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1126.18,
+   "end": 1128.24,
+   "text": "You could have enjoyed the bath for 15 more minutes.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1128.24,
+   "end": 1133.56,
+   "text": "No, it's not how, because I need to put the pressure back on Gavin, and I got to stream it.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1134.02,
+   "end": 1137.92,
+   "text": "But honestly, he starts streaming every time, and it is so, so good to watch.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1138.0,
+   "end": 1139.36,
+   "text": "There's, like, hundreds of people in there.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1139.4,
+   "end": 1140.18,
+   "text": "They're all cheering him on.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1140.38,
+   "end": 1142.8,
+   "text": "I'm, you know, I'm taunting him, really, if we're honest.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1142.86,
+   "end": 1143.18,
+   "text": "Oh, yeah.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1143.18,
+   "end": 1146.26,
+   "text": "So, are you just streaming from your Twitch channel that I used to watch you stream?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1146.26,
+   "end": 1146.42,
+   "text": "No.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1146.62,
+   "end": 1146.98,
+   "text": "Okay.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1147.18,
+   "end": 1150.68,
+   "text": "So, I lost that account I don't have access to at the time.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1150.76,
+   "end": 1154.98,
+   "text": "So, I've been using my Andrew the Donkey Kong guy, which was a fake account I made to stream",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1154.98,
+   "end": 1156.6,
+   "text": "Gavin when I was doing the Donkey Kong thing.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1156.94,
+   "end": 1157.52,
+   "text": "So, I've been on that.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1158.12,
+   "end": 1159.3,
+   "text": "That's why you probably haven't gotten any notifications.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1159.3,
+   "end": 1161.28,
+   "text": "That must be why I probably haven't seen any alerts or anything.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1161.64,
+   "end": 1161.86,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1162.26,
+   "end": 1162.66,
+   "text": "So, it's been...",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1162.66,
+   "end": 1164.18,
+   "text": "I got to subscribe to your alt account.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1165.28,
+   "end": 1169.1,
+   "text": "It's been a whole process, and just fucking...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1169.1,
+   "end": 1173.02,
+   "text": "So, wait, who's currently got the record, Andrew?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1173.02,
+   "end": 1174.34,
+   "text": "That's a great question.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1174.54,
+   "end": 1179.24,
+   "text": "So, then, I came out of my bath furious, and I was hot initially.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1179.44,
+   "end": 1180.28,
+   "text": "I did really good.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1180.5,
+   "end": 1181.84,
+   "text": "First few jumps, no problem.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1182.44,
+   "end": 1182.98,
+   "text": "It took me one.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1182.98,
+   "end": 1183.44,
+   "text": "3.47 to beat.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1184.0,
+   "end": 1184.84,
+   "text": "3.47 to beat.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1184.84,
+   "end": 1186.26,
+   "text": "Well, you're all steamed up from the back.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1186.26,
+   "end": 1186.74,
+   "text": "I'm...",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1186.74,
+   "end": 1187.14,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1187.34,
+   "end": 1188.42,
+   "text": "I've steamed up from the back.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1188.42,
+   "end": 1188.82,
+   "text": "You're all lubed up.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1188.86,
+   "end": 1192.34,
+   "text": "I put a fucking towel over my head of sadness while the water drained.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1192.34,
+   "end": 1193.66,
+   "text": "I was just devastated.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1194.48,
+   "end": 1194.88,
+   "text": "Sitting.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1194.88,
+   "end": 1196.2,
+   "text": "And so, I came...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1196.2,
+   "end": 1199.14,
+   "text": "I had a new level of anger and a wanting to get this done.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1199.72,
+   "end": 1203.8,
+   "text": "And for the first time, as Gavin said, what would always happen in my runs is I would tie him.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1204.12,
+   "end": 1207.94,
+   "text": "I'd tie his time, and then I'd have to do it again, because a tie, he still wins.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1208.0,
+   "end": 1208.8,
+   "text": "I need to pass him.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1209.34,
+   "end": 1211.1,
+   "text": "And I beat him in about an hour.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1211.36,
+   "end": 1213.64,
+   "text": "It took one hour, and I'm one second...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1213.64,
+   "end": 1214.1,
+   "text": "Is it one?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1214.26,
+   "end": 1214.78,
+   "text": "Yeah, it's one.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1214.94,
+   "end": 1216.32,
+   "text": "I got him by one second.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1216.76,
+   "end": 1218.52,
+   "text": "I improved on his time by one second.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1219.1,
+   "end": 1220.22,
+   "text": "It's all on Gavin now.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1220.22,
+   "end": 1221.82,
+   "text": "So, it's 3.21 p.m.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1221.82,
+   "end": 1225.36,
+   "text": "I have until 11 to beat 3.46.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1226.12,
+   "end": 1226.5,
+   "text": "You do.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1227.26,
+   "end": 1229.46,
+   "text": "And I've never been more confident that you will.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1230.12,
+   "end": 1231.12,
+   "text": "I'm fully prepared for that.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1231.12,
+   "end": 1231.14,
+   "text": "Why?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1231.8,
+   "end": 1232.16,
+   "text": "Really?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1232.7,
+   "end": 1236.12,
+   "text": "Yeah, because it's only two seconds, and I feel like I could have shaved...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1236.12,
+   "end": 1237.8,
+   "text": "I feel like there are things I could have done better.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1238.38,
+   "end": 1241.16,
+   "text": "This is the first time where I feel like you're going to take the time back.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1241.68,
+   "end": 1243.14,
+   "text": "It is so bizarre how it works, though.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1243.18,
+   "end": 1245.22,
+   "text": "Like, I'm always so excited when I beat you.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1245.26,
+   "end": 1247.14,
+   "text": "I'm just like, oh, I'm like hands in the air.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1247.18,
+   "end": 1248.32,
+   "text": "I'm like jumping up off the couch.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1248.32,
+   "end": 1251.84,
+   "text": "But the moment I'm watching him stream, I'm rooting for him.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1251.92,
+   "end": 1257.88,
+   "text": "Like, there's a bit where, like, if you get through this corridor and down to a ghost in a good time, it's like, oh, it's a good run.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1257.92,
+   "end": 1259.32,
+   "text": "And I'm like, oh, he's going to do it.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1259.34,
+   "end": 1259.94,
+   "text": "I'm cheering him on.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1260.04,
+   "end": 1263.94,
+   "text": "And then he actually does it, and I'm just miserable and filled with dread.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1264.58,
+   "end": 1266.16,
+   "text": "It's a roller coaster.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1266.88,
+   "end": 1272.1,
+   "text": "You have seven and a half hours to do it, and it sounds to me like, what's the current time?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1272.7,
+   "end": 1273.2,
+   "text": "What is it?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1274.26,
+   "end": 1275.06,
+   "text": "Yeah, I think that's right.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1275.18,
+   "end": 1275.88,
+   "text": "I think you need 3.45.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1275.88,
+   "end": 1276.32,
+   "text": "3.46.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1276.32,
+   "end": 1280.08,
+   "text": "So you only need 3 minutes and 45 seconds to beat the record.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1280.4,
+   "end": 1280.9,
+   "text": "That's true.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1281.18,
+   "end": 1284.3,
+   "text": "Seven and a half hours is way more time than you need, buddy.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1284.78,
+   "end": 1286.56,
+   "text": "Way more time than you need.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1286.62,
+   "end": 1288.78,
+   "text": "You only need 3 minutes and 45 seconds.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1288.94,
+   "end": 1292.2,
+   "text": "Do you use the same ghost path as I do, Gavin?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1292.24,
+   "end": 1295.28,
+   "text": "That's the only part of this that isn't, okay, interesting.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1295.54,
+   "end": 1298.16,
+   "text": "Well, you're like, no, I don't.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1298.3,
+   "end": 1299.0,
+   "text": "Mine's slightly different.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1299.38,
+   "end": 1305.88,
+   "text": "Well, because I didn't ever watch, when I say new techniques, I just figured that out from just farting around with skulls.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1305.88,
+   "end": 1311.5,
+   "text": "Because I realized that three hour on legendary achievement, you can still use those skulls as long as I don't have a zero multiplier.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1311.92,
+   "end": 1313.6,
+   "text": "So I was just throwing them on back in the day.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1313.66,
+   "end": 1316.72,
+   "text": "I was like, wow, you can actually shave so much time off like this.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1317.46,
+   "end": 1320.1,
+   "text": "But I just basically carved my own path through that level.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1320.1,
+   "end": 1323.86,
+   "text": "And it was actually very similar to that video you sent me in the end.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1324.64,
+   "end": 1324.92,
+   "text": "Huh.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1325.4,
+   "end": 1327.1,
+   "text": "I can't wait for this to be over.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1327.32,
+   "end": 1328.62,
+   "text": "One, for my mental health.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1328.72,
+   "end": 1330.86,
+   "text": "And two, I just want to see what your ghost does.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1331.18,
+   "end": 1340.16,
+   "text": "Because it is truly, I've never been in a bet before, like Gavin said, where when it's not in your court, when you just the other person has to do it, I'm cheering for him.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1340.16,
+   "end": 1341.26,
+   "text": "I kind of hope he does it.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1341.48,
+   "end": 1347.66,
+   "text": "But if he does do it, like the moment it happens, nothing but dread and anger at myself.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1348.02,
+   "end": 1352.26,
+   "text": "Because when I set one of the times that I passed Gavin on, I said, fuck this.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1352.34,
+   "end": 1355.28,
+   "text": "I'm tired of him watching my runs and just figuring out what I'm doing.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1355.54,
+   "end": 1356.88,
+   "text": "I'm not going to stream this.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1356.92,
+   "end": 1357.42,
+   "text": "So I didn't.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1357.5,
+   "end": 1358.34,
+   "text": "I set a new time.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1358.6,
+   "end": 1362.0,
+   "text": "And then I sent him the fucking link to the speed run that I was using anyway.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1362.12,
+   "end": 1363.1,
+   "text": "So it's like, what am I doing?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1363.86,
+   "end": 1364.6,
+   "text": "It's ridiculous.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1364.6,
+   "end": 1369.4,
+   "text": "It's a weird up and down emotional roller coaster, and it doesn't seem to want to end.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1369.48,
+   "end": 1370.62,
+   "text": "It's been very fun.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1370.62,
+   "end": 1370.74,
+   "text": "And I'm terrified.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1371.18,
+   "end": 1374.4,
+   "text": "And I like that I'm shaving the total time off that achievement that I'm eventually getting.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1374.48,
+   "end": 1375.7,
+   "text": "Yeah, you're actually gaining stuff.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1376.18,
+   "end": 1378.22,
+   "text": "Oh, it's actually helping you work towards that.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1378.28,
+   "end": 1378.46,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1378.52,
+   "end": 1378.88,
+   "text": "That's awesome.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1379.4,
+   "end": 1381.62,
+   "text": "So this definitely benefits you.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1382.14,
+   "end": 1390.18,
+   "text": "So I just realized this may be the last opportunity we have to discuss this particular conversation while it's still going on.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1390.54,
+   "end": 1392.48,
+   "text": "All three of us together being recorded.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1392.98,
+   "end": 1398.64,
+   "text": "So could we go over what the punishment and the reward is just so we're all clear?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1398.84,
+   "end": 1399.68,
+   "text": "That's a great point.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1400.02,
+   "end": 1401.58,
+   "text": "I don't even know what I'm playing for.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1401.9,
+   "end": 1403.48,
+   "text": "I don't even really know.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1403.78,
+   "end": 1405.56,
+   "text": "Like, why doesn't anyone go back and listen?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1406.04,
+   "end": 1406.7,
+   "text": "Why don't you?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1406.84,
+   "end": 1408.2,
+   "text": "You're the person that does that.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1409.24,
+   "end": 1410.46,
+   "text": "Well, I'm busy tonight.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1411.14,
+   "end": 1411.74,
+   "text": "That's fair.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1412.0,
+   "end": 1413.0,
+   "text": "That's a great point.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1414.06,
+   "end": 1414.78,
+   "text": "Somebody will figure it out.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1414.78,
+   "end": 1422.38,
+   "text": "Because I just feel like, you know, I feel like we've had some productive conversations recently about ways to streamline these processes.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1422.96,
+   "end": 1423.7,
+   "text": "In the future, right?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1423.72,
+   "end": 1423.96,
+   "text": "Yes.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1423.96,
+   "end": 1426.4,
+   "text": "Like, we've talked about getting a permanent judge.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1426.54,
+   "end": 1428.58,
+   "text": "We even talked about a group, a quorum, if you will.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1428.66,
+   "end": 1429.94,
+   "text": "I think Fuck Force, we called it.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1430.54,
+   "end": 1438.02,
+   "text": "I feel like we had a lot of good ideas out there to head off any, you know, intransigence when it comes to results.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1438.22,
+   "end": 1440.7,
+   "text": "But then I feel like all we've done is throw a lot of good ideas out there.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1440.7,
+   "end": 1442.18,
+   "text": "But we haven't actually solidified anything.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1442.72,
+   "end": 1453.68,
+   "text": "And we could be, this time next Wednesday or next Thursday while we're recording, I could be trying to play middleman between you two screaming at each other because you disagree about the rules of this bet.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1454.06,
+   "end": 1459.2,
+   "text": "And I feel like this is our last opportunity to do something about it before it goes down that dark, angry road.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1459.28,
+   "end": 1460.52,
+   "text": "I think if I lose, it's gum.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1460.94,
+   "end": 1461.84,
+   "text": "It might be gum.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1461.88,
+   "end": 1462.88,
+   "text": "I don't really know.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1462.94,
+   "end": 1465.6,
+   "text": "But I feel like this bet has entered a different tier, Jeff.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1465.6,
+   "end": 1473.54,
+   "text": "You know what, like the end of like just a fucking gritty boxing fight, like it's like there's a level of respect.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1473.92,
+   "end": 1476.48,
+   "text": "It almost doesn't matter what happened, like the result.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1476.7,
+   "end": 1479.1,
+   "text": "That's where I feel like Gavin and I are entering that territory.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1479.1,
+   "end": 1481.82,
+   "text": "We're seven or eight rounds into this going back and forth.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1482.2,
+   "end": 1483.34,
+   "text": "I don't really care.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1483.46,
+   "end": 1484.26,
+   "text": "I just want to win.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1484.56,
+   "end": 1489.36,
+   "text": "Like whatever the result is, like the prize, doesn't really matter to me at this point.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1489.72,
+   "end": 1493.24,
+   "text": "Sometimes winning is all you need and losing is the only punishment.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1493.72,
+   "end": 1493.86,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1493.94,
+   "end": 1494.6,
+   "text": "That's okay.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1494.6,
+   "end": 1498.46,
+   "text": "I have one more audio clip that I want to play from Andrew's stream.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1499.18,
+   "end": 1506.32,
+   "text": "What we didn't really discuss on here is the reason I use the ghost and not the warthog is that that Sputnik skull or one of the feather skull, one of them.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1506.66,
+   "end": 1508.5,
+   "text": "It just makes driving the warthog impossible.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1508.64,
+   "end": 1512.74,
+   "text": "If the warthog gets hit by plasma, it shoots like 60 feet in the air.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1512.84,
+   "end": 1514.86,
+   "text": "Like you end up driving on the ceiling and the walls.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1515.04,
+   "end": 1516.2,
+   "text": "And this is Andrew's reaction.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1516.74,
+   "end": 1518.68,
+   "text": "This is Andrew's reaction to discovering that.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1519.56,
+   "end": 1523.38,
+   "text": "Odd, I know, but it does probably explain why they came here with such a small thing.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1523.38,
+   "end": 1525.14,
+   "text": "Oh, no.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1525.64,
+   "end": 1526.4,
+   "text": "Oh, no.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1526.96,
+   "end": 1527.56,
+   "text": "Oh, no.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1530.06,
+   "end": 1530.88,
+   "text": "Oh, no.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1530.88,
+   "end": 1537.24,
+   "text": "It's just such a – I love these streams so much because I know what you're about to stumble from.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1537.32,
+   "end": 1541.92,
+   "text": "The moment you swapped into the warthog, I was like, oh, it's going to be so good when he finds out why you shouldn't do that.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1541.92,
+   "end": 1549.56,
+   "text": "It feels like there should be a way we can – I mean, I guess Twitch records the streams.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1549.66,
+   "end": 1549.76,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1549.76,
+   "end": 1553.52,
+   "text": "It feels like there should be a way we can archive this stuff so that people can go back and watch it later.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1553.92,
+   "end": 1560.98,
+   "text": "They should all be – yeah, all of the streams I've done on the Andrew the Donkey Kong guy account are recorded, I believe.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1561.18,
+   "end": 1561.92,
+   "text": "Okay, that's cool.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1562.12,
+   "end": 1562.3,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1562.44,
+   "end": 1563.92,
+   "text": "You can go back and view them if you want.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1563.92,
+   "end": 1566.4,
+   "text": "Yeah, maybe we should cut a little compilation from all of them.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1567.02,
+   "end": 1567.6,
+   "text": "That'd be interesting.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1571.92,
+   "end": 1573.0,
+   "text": "It could work.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1573.14,
+   "end": 1573.66,
+   "text": "Explaining the bet.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1573.88,
+   "end": 1574.08,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1574.08,
+   "end": 1575.7,
+   "text": "Like a little documentary.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1576.18,
+   "end": 1581.0,
+   "text": "It's fascinating that this is the bet I'm most invested in but have the least to gain from at this point, I think.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1581.14,
+   "end": 1582.74,
+   "text": "Like, I don't – whatever it is, doesn't matter.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1583.48,
+   "end": 1584.34,
+   "text": "It's bragging rights, right?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1584.68,
+   "end": 1585.84,
+   "text": "I guess bragging rights, yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1585.94,
+   "end": 1588.76,
+   "text": "It's just like the pain has been so deep.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1588.98,
+   "end": 1590.62,
+   "text": "It has sucked so much to do this.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1590.84,
+   "end": 1592.88,
+   "text": "And I hate that we're actually getting good at it.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1592.88,
+   "end": 1593.04,
+   "text": "I know.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1593.04,
+   "end": 1594.56,
+   "text": "Like, this is a skill that we're developing.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1601.92,
+   "end": 1603.8,
+   "text": "It's the same emotions but at different times.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1604.1,
+   "end": 1607.88,
+   "text": "Yeah, it's a different – it's like a teeter-totter of fuck you.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1608.3,
+   "end": 1609.62,
+   "text": "Like, it goes back and forth.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1609.7,
+   "end": 1615.04,
+   "text": "There's nice times but it's mainly just like one of us beating the other's time and then a large text thread of,",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1615.14,
+   "end": 1616.08,
+   "text": "you're fucking suck.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1616.32,
+   "end": 1616.84,
+   "text": "You're the worst.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1617.12,
+   "end": 1618.02,
+   "text": "How can you do this?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1618.7,
+   "end": 1618.96,
+   "text": "Why?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1618.96,
+   "end": 1625.7,
+   "text": "You guys must be so exhausted from talking to each other that that's why every time I text the two of you in our group text exchange,",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1625.82,
+   "end": 1626.38,
+   "text": "nobody responds to me for 24 hours.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1626.38,
+   "end": 1627.98,
+   "text": "I responded to you.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1628.08,
+   "end": 1628.78,
+   "text": "At a minimum.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1629.4,
+   "end": 1631.86,
+   "text": "Boy, do I have a dental story for you guys.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1631.92,
+   "end": 1632.32,
+   "text": "Crickets.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1632.44,
+   "end": 1634.72,
+   "text": "Well, what do I have to repair for you guys?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1635.18,
+   "end": 1635.46,
+   "text": "Crickets.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1635.52,
+   "end": 1636.08,
+   "text": "What do we got to do?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1636.14,
+   "end": 1636.78,
+   "text": "Ask about it?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1636.78,
+   "end": 1638.08,
+   "text": "I'm just excited for the episode.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1638.28,
+   "end": 1638.74,
+   "text": "I'm excited.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1638.82,
+   "end": 1639.88,
+   "text": "Yeah, that's the exact same.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1639.9,
+   "end": 1640.34,
+   "text": "I hope you're okay.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1640.54,
+   "end": 1644.08,
+   "text": "Yeah, I don't want you to suddenly just tell the end of the story without us asking.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1644.22,
+   "end": 1645.1,
+   "text": "Thumbs up.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1645.1,
+   "end": 1650.48,
+   "text": "I'm not going to spoil the fucking story, but I didn't realize that that was –",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1650.48,
+   "end": 1653.92,
+   "text": "I said like six things in a row over the course of a week to that before.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1654.26,
+   "end": 1659.64,
+   "text": "And eventually the only way I was able to get anybody to respond to me was to ask a pointed question that had a yes or no answer.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1659.76,
+   "end": 1661.74,
+   "text": "I didn't know those statements were questions.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1661.88,
+   "end": 1663.2,
+   "text": "I thought you were just telling us things.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1663.34,
+   "end": 1663.64,
+   "text": "I didn't know –",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1663.64,
+   "end": 1667.86,
+   "text": "If we replied, there was the risk of A, you telling the whole story right then.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1667.86,
+   "end": 1667.96,
+   "text": "How often?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1667.96,
+   "end": 1670.6,
+   "text": "Or B, you giving us the origins of dentistry.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1671.18,
+   "end": 1673.56,
+   "text": "A, A, A, A, A.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1674.18,
+   "end": 1675.64,
+   "text": "I don't know the origins of dentistry.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1675.96,
+   "end": 1680.86,
+   "text": "B, don't make me find out because C, I will fucking tell you next week.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1681.74,
+   "end": 1686.96,
+   "text": "D, how often do you text somebody a statement of fact and never expect an acknowledgement?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1687.3,
+   "end": 1691.5,
+   "text": "Gavin, if you've never – you don't text me and then expect me not to respond to you.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1691.54,
+   "end": 1694.32,
+   "text": "It's different when it's like – I view that as like a show text.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1694.7,
+   "end": 1696.92,
+   "text": "I don't view that as like a friend group text.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1697.14,
+   "end": 1701.68,
+   "text": "Andrew, if you said, boy, do I have a fire extinguisher story to tell you guys next week, I would go, can't wait.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1702.1,
+   "end": 1702.88,
+   "text": "Ooh, that's exciting.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1703.24,
+   "end": 1704.42,
+   "text": "I'll make sure we cover it.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1704.54,
+   "end": 1704.76,
+   "text": "Whatever.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1705.08,
+   "end": 1706.04,
+   "text": "Jeff, I do want to apologize.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1706.44,
+   "end": 1711.74,
+   "text": "Also, also, also, by the way, I had – I had – the one person that does still talk to me",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1711.74,
+   "end": 1716.52,
+   "text": "and therefore because that person still talks to me, I'm elevating him back to superfan right now.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1716.92,
+   "end": 1717.6,
+   "text": "Superfan Jack.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1717.82,
+   "end": 1718.34,
+   "text": "Oh, he's back.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1718.34,
+   "end": 1727.1,
+   "text": "I had coffee this morning with fan Jack, but this afternoon, looking back on it, he became – during that coffee, he became superfan Jack again",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1727.1,
+   "end": 1729.86,
+   "text": "because he fucking showed up and talked to me, which was nice.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1729.9,
+   "end": 1731.56,
+   "text": "And is he up to date on f*** face?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1731.84,
+   "end": 1733.56,
+   "text": "Superfan Jack is up to date on f*** face.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1733.92,
+   "end": 1743.4,
+   "text": "Superfan Jack was very upset and thinks that Andrew is lying about setting off the fire extinguisher at all and demanded photography.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1743.4,
+   "end": 1746.52,
+   "text": "Oh, yeah, I only saw a picture of his bag.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1747.28,
+   "end": 1748.48,
+   "text": "Yeah, I only saw a picture of a bag either.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1748.58,
+   "end": 1749.8,
+   "text": "And I was like, no, Andrew wouldn't do that.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1749.98,
+   "end": 1750.76,
+   "text": "My phone was dead.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1750.94,
+   "end": 1752.68,
+   "text": "Jack was like, I don't trust his performance.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1752.82,
+   "end": 1753.88,
+   "text": "I listened to it a couple times.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1754.06,
+   "end": 1754.8,
+   "text": "I think he's lying.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1754.94,
+   "end": 1755.92,
+   "text": "I think he made it all up.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1756.0,
+   "end": 1758.42,
+   "text": "And I was like, well, you know, the basket thing was great.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1758.76,
+   "end": 1759.88,
+   "text": "I thought that was even funnier.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1759.92,
+   "end": 1763.5,
+   "text": "And he's like, yeah, yeah, the basket thing was great, but you need to get to the bottom of that because Andrew's lying.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1763.72,
+   "end": 1764.92,
+   "text": "And I defended you, Andrew.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1765.04,
+   "end": 1766.94,
+   "text": "I defended you, but I don't know why.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1767.34,
+   "end": 1767.58,
+   "text": "Okay.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1767.96,
+   "end": 1769.08,
+   "text": "Well, I mean, I don't know what you want.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1769.14,
+   "end": 1770.36,
+   "text": "That was over two weeks ago.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1770.82,
+   "end": 1771.14,
+   "text": "I don't know.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1771.24,
+   "end": 1772.1,
+   "text": "Like, it went off.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1772.1,
+   "end": 1773.5,
+   "text": "It wasn't as big as I wanted.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1773.5,
+   "end": 1775.76,
+   "text": "I'm just letting you know what the people are saying.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1775.86,
+   "end": 1776.22,
+   "text": "That's all.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1776.42,
+   "end": 1777.36,
+   "text": "I don't want anything.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1777.66,
+   "end": 1778.34,
+   "text": "Jack is saying.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1778.86,
+   "end": 1779.3,
+   "text": "Not the people.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1779.3,
+   "end": 1780.8,
+   "text": "I read some tweets.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1781.08,
+   "end": 1781.36,
+   "text": "Okay.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1781.92,
+   "end": 1782.28,
+   "text": "The people.",
+   "speaker": "SPEAKER_99"
+  },
+  {
+   "start": 1783.2,
+   "end": 1784.34,
+   "text": "Who are these people, Jack?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1784.34,
+   "end": 1784.5,
+   "text": "There were a few tweets.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1784.5,
+   "end": 1785.12,
+   "text": "Outside of Jack.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1785.28,
+   "end": 1788.3,
+   "text": "How did this get Jack back in the super fan status?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1788.62,
+   "end": 1789.24,
+   "text": "I already told you.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1789.38,
+   "end": 1790.26,
+   "text": "I explained it like three times.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1790.4,
+   "end": 1791.14,
+   "text": "Will he talk to you?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1791.16,
+   "end": 1791.6,
+   "text": "Is that it?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1791.94,
+   "end": 1792.14,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1792.14,
+   "end": 1792.5,
+   "text": "I will say.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1792.78,
+   "end": 1793.16,
+   "text": "I do apologize.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1793.16,
+   "end": 1794.26,
+   "text": "Yeah, he paid attention to me.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1794.4,
+   "end": 1795.3,
+   "text": "I was lonely.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1795.48,
+   "end": 1799.64,
+   "text": "In your defense, it does look bad when I look back at our group text right now.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1799.64,
+   "end": 1803.18,
+   "text": "I remember my thoughts each time I saw these texts.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1803.32,
+   "end": 1803.92,
+   "text": "That's the thing.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1803.98,
+   "end": 1804.14,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1804.42,
+   "end": 1805.22,
+   "text": "I reply in my head.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1805.42,
+   "end": 1806.44,
+   "text": "It looks like what it was.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1806.6,
+   "end": 1806.76,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1808.2,
+   "end": 1810.14,
+   "text": "Thursday, Jeff tweets a photo.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1810.24,
+   "end": 1810.94,
+   "text": "This is the thing.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1811.04,
+   "end": 1815.26,
+   "text": "You tweeted a photo about a thing you're working on, and it looked like a fucking time machine",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1815.26,
+   "end": 1815.86,
+   "text": "to me.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1815.98,
+   "end": 1817.3,
+   "text": "I didn't know how to process it.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1817.3,
+   "end": 1819.28,
+   "text": "Internally, I was like, that's cool.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1819.88,
+   "end": 1824.94,
+   "text": "Then Jeff on Friday, boy, do I have a surprise dental story for you guys next week.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1825.2,
+   "end": 1825.82,
+   "text": "No reply.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1826.36,
+   "end": 1830.92,
+   "text": "Tuesday, boy, do I have a broken house shit story and picture for you guys this week.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1831.04,
+   "end": 1832.18,
+   "text": "That did get a reply.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1832.7,
+   "end": 1834.08,
+   "text": "You did get something on that.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1834.6,
+   "end": 1838.46,
+   "text": "And I also, I replied to Jeff drinking a whole soda without burping.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1838.8,
+   "end": 1839.36,
+   "text": "That's true.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1839.54,
+   "end": 1840.04,
+   "text": "That's true.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1840.18,
+   "end": 1840.58,
+   "text": "That's true.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1840.62,
+   "end": 1841.92,
+   "text": "I did do that, and you did do that.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1842.34,
+   "end": 1842.88,
+   "text": "That is true.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1843.08,
+   "end": 1844.22,
+   "text": "Because I sent you a video.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1844.64,
+   "end": 1845.28,
+   "text": "Yeah, it was awesome.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1845.58,
+   "end": 1846.04,
+   "text": "Thanks, man.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1846.04,
+   "end": 1850.62,
+   "text": "I was surprised at how easy, A, it was not to burp, and then B, how hard it was to burp",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1850.62,
+   "end": 1850.82,
+   "text": "later.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1850.86,
+   "end": 1853.84,
+   "text": "Well, that's why I thought the toucan challenge would be the real challenge.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1854.24,
+   "end": 1859.48,
+   "text": "I really did, honestly, up until I burped, I thought that the whole thing was a prank",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1859.48,
+   "end": 1864.64,
+   "text": "on me, and that drinking a whole soda without burping makes you painfully not be able to",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1864.64,
+   "end": 1868.56,
+   "text": "burp for a while, because Millie and I were both unable to burp, and we were in agony.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1868.84,
+   "end": 1872.16,
+   "text": "It's funny, because I was looking, Millie's on the left, you're on the right.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1872.24,
+   "end": 1874.7,
+   "text": "I would look to the left and be like, oh, no.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1874.7,
+   "end": 1880.1,
+   "text": "And I'd look to the right and be like, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha,",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1880.1,
+   "end": 1882.04,
+   "text": "So do you want to tell one of these stories, Jeff?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1882.14,
+   "end": 1882.34,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1882.46,
+   "end": 1882.86,
+   "text": "I've been waiting.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1883.18,
+   "end": 1884.46,
+   "text": "I've been waiting since Friday, I guess so.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1884.48,
+   "end": 1885.38,
+   "text": "Yeah, that was a big lump of Halo.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1885.46,
+   "end": 1887.28,
+   "text": "That was probably too long, so why don't you save this?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1887.28,
+   "end": 1887.66,
+   "text": "All right.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1887.88,
+   "end": 1888.56,
+   "text": "Well, okay.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1888.78,
+   "end": 1892.1,
+   "text": "So I feel like, I feel like...",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1892.1,
+   "end": 1892.84,
+   "text": "Save it for the text.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1892.94,
+   "end": 1894.1,
+   "text": "Oh, I could do that if you want.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1894.34,
+   "end": 1895.76,
+   "text": "Eric says I should just save it for text.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1895.82,
+   "end": 1896.04,
+   "text": "No.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1896.22,
+   "end": 1896.9,
+   "text": "I'm not totally sure.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1896.9,
+   "end": 1899.9,
+   "text": "no you should tell I want to this is going to be a great story",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1899.9,
+   "end": 1902.38,
+   "text": "both of them so here's I don't know they're gonna be great stories",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1902.38,
+   "end": 1906.12,
+   "text": "it's just it's just a part of the rich pastiche of",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1906.12,
+   "end": 1911.36,
+   "text": "dog shit that is my life so you guys know that I usually come in hot",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1911.36,
+   "end": 1915.74,
+   "text": "I either have a I either have a bike wreck I have a dental story",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1915.74,
+   "end": 1920.1,
+   "text": "I have a something broke or something related to my house broke right",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1920.1,
+   "end": 1926.8,
+   "text": "those are like the four tent poles of of feces that that support",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1926.8,
+   "end": 1930.36,
+   "text": "the structure of the foundation of my life right",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1930.36,
+   "end": 1935.02,
+   "text": "those are like my shit bricks they're the load-bearing shit bricks",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1935.02,
+   "end": 1938.9,
+   "text": "they keep me alive right and also suppress me into a life of",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1938.9,
+   "end": 1943.92,
+   "text": "fly-encrusted doo-doo so I am happy to report",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1943.92,
+   "end": 1948.2,
+   "text": "I'm happy to report that from last recording until this recording",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1948.2,
+   "end": 1953.92,
+   "text": "I had zero bike wrecks that's awesome that's great that is all I am happy to",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1953.92,
+   "end": 1960.52,
+   "text": "report that's all the good news the only reason I am happy to report that I had",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1960.52,
+   "end": 1964.42,
+   "text": "zero bike wrecks is because I didn't ride my bike for the entire week because there",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1964.42,
+   "end": 1970.22,
+   "text": "was goddamn constant rain I assume because somebody had a birthday recently",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1970.22,
+   "end": 1975.48,
+   "text": "and made some plans yeah it was uh it was a wet birthday that's for sure I don't",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1975.48,
+   "end": 1980.5,
+   "text": "know if I'm to blame but it's continuing oh yeah good I just opened the weather app",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1980.5,
+   "end": 1986.6,
+   "text": "can you can you see that oh my god I gotta post that the discord please what do you mean",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1986.6,
+   "end": 1994.08,
+   "text": "uh so let me I'll go canonically uh last time we talked I had did I mention to you guys about",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1994.08,
+   "end": 2000.26,
+   "text": "having a leak on the outside of my house coming like water streaming out of my no out of my uh",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2000.26,
+   "end": 2003.82,
+   "text": "I don't think so yeah I don't think I was ready to talk about it yet because of the depression",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2003.82,
+   "end": 2010.6,
+   "text": "uh oh god that looks rough god damn dude another week that's what thursday to next",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2010.6,
+   "end": 2016.82,
+   "text": "you know what it is saturday after this saturday is all cloud and lightning it's my fucking birthday",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2016.82,
+   "end": 2021.38,
+   "text": "coming up oh are we gonna have like a birthday to birthday blackout of weather we're gonna have",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2021.38,
+   "end": 2027.24,
+   "text": "a birthday to birthday fuck you black and the thing is that will if we if we still power through",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2027.24,
+   "end": 2031.54,
+   "text": "and make a plan on one of those days it will be good weather but we won't go through with it that's",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2031.54,
+   "end": 2035.32,
+   "text": "the that's the downside to it because it's just that's the problem it's just lies all right carry",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2035.32,
+   "end": 2039.4,
+   "text": "we're gonna we're gonna figure this out uh we're gonna spend time together I promise you we're gonna",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2039.4,
+   "end": 2044.26,
+   "text": "figure it out anyway so all right first thing is I'll go back a little bit why I was walking my",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2044.26,
+   "end": 2048.92,
+   "text": "bike down the the path to go out to the front of my house the other day uh maybe six weeks ago and I",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2048.92,
+   "end": 2054.58,
+   "text": "noticed the side of my house the siding some water dripping out from under the siding onto the",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2054.58,
+   "end": 2061.9,
+   "text": "concrete and I went so I called a plumber uh it took the plumber two weeks to get here because this",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2061.9,
+   "end": 2071.92,
+   "text": "is austin and uh listen it takes it's really really fucking hard to get anybody in any kind of home",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2071.92,
+   "end": 2079.72,
+   "text": "service industry to come to your house right now because on for some reason 65 percent of america",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2079.72,
+   "end": 2087.3,
+   "text": "is moving to austin as we speak and so everybody is stretched thin because there are 150 million new",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2087.3,
+   "end": 2091.0,
+   "text": "residents in austin and there's nowhere to put them all and they all clog toilets it's just become",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2091.0,
+   "end": 2095.78,
+   "text": "impossible for us to get you for anybody in austin to get anything done in their house so anyway two",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2095.78,
+   "end": 2101.24,
+   "text": "weeks later they come out guy looks into it he goes I'm gonna have to cut into the wall uh to fix this",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2101.24,
+   "end": 2107.2,
+   "text": "thing uh I don't have the right tool for it I'll come back in three weeks all right this is going",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2107.2,
+   "end": 2111.96,
+   "text": "back further than six weeks now that I'm doing the math in my head three weeks later I'm like where",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2111.96,
+   "end": 2115.62,
+   "text": "the fuck is this guy so I call them and they're like oops we forgot to schedule it we'll be out",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2115.62,
+   "end": 2120.52,
+   "text": "next week so then now on five weeks into this if my math is correct maybe six weeks into this",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2120.52,
+   "end": 2126.0,
+   "text": "this was last last week Friday or Saturday or something they come out and they go hey I got the",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2126.0,
+   "end": 2131.54,
+   "text": "tools now and they cut out the hole and basically what happened is when uh I'm gonna call them an",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2131.54,
+   "end": 2135.78,
+   "text": "asshole whoever they were when the asshole put the siding on the side of my house they uh weren't paying",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2135.78,
+   "end": 2139.0,
+   "text": "attention where they were fucking hammering and they hammered right through a plumbing pipe however",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2139.0,
+   "end": 2146.16,
+   "text": "it sealed until the nail rusted and then it started to leak slowly so didn't cause any major damage",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2146.16,
+   "end": 2151.38,
+   "text": "had to have in my laundry room an entire wall cut out right so they could get in to fix it did all that",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2151.38,
+   "end": 2157.92,
+   "text": "of course of course so that's where I am Friday morning right is I have a I have a fixed plumbing",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2157.92,
+   "end": 2163.38,
+   "text": "issue now I think or I'm about to get it fixed I have I wake up on Friday morning a little bit of",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2163.38,
+   "end": 2168.78,
+   "text": "anxiety because I have to go to the dentist I had it's a no big deal I just I have an old silver",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2168.78,
+   "end": 2173.18,
+   "text": "filling and the dentist was like I'd like to take that out and maybe put a crown there I think it'll",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2173.18,
+   "end": 2176.76,
+   "text": "just it's not gonna hurt it's not gonna be painful I know we I know we just went through that marathon",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2176.76,
+   "end": 2183.1,
+   "text": "of shitty root canals this is gonna be a just a minor minor thing so I said yeah sure no problem",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2183.1,
+   "end": 2187.18,
+   "text": "and then I scheduled it for fucking three months later three months later was last Friday",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2187.18,
+   "end": 2192.74,
+   "text": "get up I go to the I'm feeling I'm feeling itchy you know getting up going to the dentist because",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2192.74,
+   "end": 2199.5,
+   "text": "I've had like I had that run I had that like uh five root canal run right and uh so I don't want",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2199.5,
+   "end": 2203.58,
+   "text": "to go and I like calm myself down and I'm like you being a fucking baby and so I go in and I get in",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2203.58,
+   "end": 2209.82,
+   "text": "and I'm like and I sit down and we we do the we do the take the filling off and she's like okay",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2209.82,
+   "end": 2212.98,
+   "text": "and she cleans it up like that and she's like looking good this is fine and I'm feeling really good",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2212.98,
+   "end": 2215.98,
+   "text": "she's like this is all so easy no pain yet right and I'm like no not at all and she's like",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2215.98,
+   "end": 2220.12,
+   "text": "all right we're just about wrapping up and you know what here's what I'm gonna do though instead",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2220.12,
+   "end": 2224.94,
+   "text": "of just putting the crown on right now I'm gonna go ahead and give you another root canal and then",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2224.94,
+   "end": 2229.66,
+   "text": "uh then a fucking nurse came out and she had an air horn and she went and then they all held their",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2229.66,
+   "end": 2235.66,
+   "text": "drills up in the air and they went what wait what fuck Jeff you didn't and then they gave me a root",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2235.66,
+   "end": 2240.7,
+   "text": "canal right there and there yeah yeah and so I had an immediate root canal on the spot",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2240.7,
+   "end": 2246.76,
+   "text": "right there wait did they know in that fucking moment this or did they realize in the process",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 2246.76,
+   "end": 2250.94,
+   "text": "they discovered they discovered in the process from removing the old silver filling that that",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2250.94,
+   "end": 2255.02,
+   "text": "the root was a little close to the edge and they just thought it to be safe that's why I had",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2255.02,
+   "end": 2263.36,
+   "text": "another root canal so anyway that was uh most of Friday uh had that that hurt like hell uh real",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2263.36,
+   "end": 2269.34,
+   "text": "sore real pain a lot a lot of pain uh misery a lot of misery there so then go and uh and the plumbers",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2269.34,
+   "end": 2272.4,
+   "text": "come and they're like hey we cut your whole fucking wall out uh but your plumbing's fixed",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2272.4,
+   "end": 2277.56,
+   "text": "and I'm like cool and then and then I'm like you're not you're not gonna put the wall back are you and",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2277.56,
+   "end": 2282.86,
+   "text": "they're like yeah we're plumbers asshole we don't do drywall I'm like of course you don't uh how stupid",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2282.86,
+   "end": 2287.36,
+   "text": "of me so I had to hire somebody to come out and have to patch and replace the whole wall and",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2287.36,
+   "end": 2292.2,
+   "text": "unfortunately to do this because the uh I'm coming to hate the person that flipped this house before me",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2292.2,
+   "end": 2298.12,
+   "text": "really really really hate that so the entire time you've lifted it there's been a nail stuck in a pipe",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2298.12,
+   "end": 2303.44,
+   "text": "that was sealed yeah yeah it was sealed the whole time it's probably honestly gav it had probably",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2303.44,
+   "end": 2308.12,
+   "text": "been sealed for 10 years it's not new sighting I wonder if that freeze um like nudged it and then",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2308.12,
+   "end": 2312.74,
+   "text": "it started wet and rusted probably the best thing about it was that it wasn't a busted pipe or",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2312.74,
+   "end": 2316.28,
+   "text": "anything like it was easy to fix right yeah and and it wasn't expensive to replace the drywall",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2316.28,
+   "end": 2321.24,
+   "text": "however then I get the drywall done now I have to get it painted so I have to get it all painted",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2321.24,
+   "end": 2325.5,
+   "text": "and then the last time we fixed the other bathroom when we had to have the drywall done and I had",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2325.5,
+   "end": 2332.22,
+   "text": "to have it repainted the paint color was wrong yeah do I did I tell you guys that yes well it's",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2332.22,
+   "end": 2336.74,
+   "text": "been festering and annoying us for a very long time so since we were getting the laundry room",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2336.74,
+   "end": 2341.1,
+   "text": "repainted we went ahead and had that painted too so I ended up having to have two killed two birds",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2341.1,
+   "end": 2346.96,
+   "text": "with one stone there uh I thought well this is great I've got uh well oh also another frustrating",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2346.96,
+   "end": 2353.22,
+   "text": "thing is uh I I they built this really cool pretty wooden structure around um around my washer in the",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2353.22,
+   "end": 2359.76,
+   "text": "dryer unfortunately I had to rip all that out to get to the where they could replace the wall so I had",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2359.76,
+   "end": 2366.14,
+   "text": "to put all that back together which was a giant nightmare and I smashed my finger brutally and uh",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2366.14,
+   "end": 2373.06,
+   "text": "was very very mad and uh so anyway I hate everything um but then it's like okay root canal's done right",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2373.06,
+   "end": 2379.18,
+   "text": "root canal's down I survived that uh fucking uh got the got the plumbing fixed got the wall repaired",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2379.18,
+   "end": 2385.1,
+   "text": "you have so many bad paint job painted got the current paint job fixed all good everything's fine",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2385.1,
+   "end": 2390.84,
+   "text": "then I'm gonna take a second you guys vamp amongst you I'm gonna send you a photo now and then we'll get",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2390.84,
+   "end": 2397.08,
+   "text": "into the next thing the thing I love about Jeff's on discord is is that you forget what problems are",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2397.08,
+   "end": 2402.58,
+   "text": "happening in the story there's so many that you forget I forgot that the fucking the dental thing",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 2402.58,
+   "end": 2406.3,
+   "text": "happened yeah I was just listening then with a smile on my face and then I just started laughing",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2406.3,
+   "end": 2411.48,
+   "text": "just because there was more to come like the way the inflection is like this is halfway through the",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2411.48,
+   "end": 2416.34,
+   "text": "list of shit and I just started laughing at that here's what we're gonna do we're gonna I'm gonna",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2416.34,
+   "end": 2420.32,
+   "text": "put this photo up I'm gonna let you guys look at it on discord and then why don't you discuss what",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2420.32,
+   "end": 2432.16,
+   "text": "you think is going on okay I'm looking at a broom wedged between maybe the dishwasher and the fridge",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2432.16,
+   "end": 2438.46,
+   "text": "I assume either the fridge door or the dishwasher door uh can't stay shut I'm gonna say that they're",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2438.46,
+   "end": 2443.8,
+   "text": "maybe getting into high jump they're getting into an olympic mood if you'll if you'll look to your left",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 2443.8,
+   "end": 2453.08,
+   "text": "you'll notice a towel on the ground that's to catch the water leaking from the uh ice chest that is now",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2453.08,
+   "end": 2464.8,
+   "text": "my refrigerator because uh the next day the next day I wake up and Emily comes in and goes uh",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2464.8,
+   "end": 2470.98,
+   "text": "I think there's something wrong with the fridge everything is warm and we go look and the fridge",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2470.98,
+   "end": 2475.88,
+   "text": "isn't cool and so it doesn't feel like it's it's sealing properly you know like maybe the seal like",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2475.88,
+   "end": 2490.28,
+   "text": "sometimes that's such a nice fridge oh yeah well yeah uh so uh yeah but lose my fucking mind uh so",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2490.28,
+   "end": 2494.86,
+   "text": "uh so we think like maybe it's not sealing properly because sometimes that fridge is if the door is",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2494.86,
+   "end": 2499.9,
+   "text": "heavy sometimes it doesn't shut all the way so we try to push it shut and throughout the day we",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2499.9,
+   "end": 2504.38,
+   "text": "realize it's still not getting cold and then I can't tell if it's sealing so we shove the broom in",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2504.38,
+   "end": 2509.64,
+   "text": "there freezer freezer's working fine by the way I'd like I should point out that the freezer is",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2509.64,
+   "end": 2516.78,
+   "text": "working fine so uh at this point most of the stuff in the fridge is bad however uh we we shut it and",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2516.78,
+   "end": 2522.4,
+   "text": "then we leave it like that for 24 hours get up the next morning to see if it was the seal and oh oh and",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2522.4,
+   "end": 2526.96,
+   "text": "I call a repairman he's kind of he's like I'm gonna come out this day so this was at this point this",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2526.96,
+   "end": 2534.32,
+   "text": "was yesterday he's gonna come right so uh so uh he he we leave it like that for 24 hours",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2534.32,
+   "end": 2538.74,
+   "text": "get up the next morning which is yesterday morning open it deconstruct it open it up and",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2538.74,
+   "end": 2542.58,
+   "text": "it's hot as hell in there and it's like okay so the ac is just not working open up the freezer",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2542.58,
+   "end": 2547.54,
+   "text": "freezer still works fine my popsicles are frozen everything's looking good there shut it guy shows",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2547.54,
+   "end": 2555.56,
+   "text": "up in a fucking toyota prius uh I thought he was an uber driver so like a little angry dude shows up",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2555.56,
+   "end": 2560.4,
+   "text": "looks at it and you know how like when you see a dude you know how like when you see a dude look at",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2560.4,
+   "end": 2567.32,
+   "text": "something and and you watch him and you think he doesn't know what he's looking at like he's lost",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2567.32,
+   "end": 2575.64,
+   "text": "when you see the expert go yeah you're like oh god a lot of hmms you know and like scratching his",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2575.64,
+   "end": 2580.36,
+   "text": "beard and stuff and I'm like oh this guy is in over his head he's fucking lost but I have to like",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2580.36,
+   "end": 2584.88,
+   "text": "record and film and stuff so I'm going in and out Emily's handling it uh then I had to leave or",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2584.88,
+   "end": 2590.88,
+   "text": "something to deal with a Millie thing and uh come back and he's like Emily's like yeah so it was uh",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2591.64,
+   "end": 2598.84,
+   "text": "he he well first off the freezer is now uh everything in the freezer is now melted because",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2598.84,
+   "end": 2605.82,
+   "text": "he had the freezer and the fridge open for two and a half hours while he fixed it uh so everything",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2605.82,
+   "end": 2610.04,
+   "text": "melted uh all the meat and everything it's like you remember the cow yeah yeah we ended up having to",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2610.04,
+   "end": 2614.22,
+   "text": "we saw the meat was was starting to melt so we gave it away we just put it in a bag and gave it",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2614.22,
+   "end": 2621.16,
+   "text": "away to people so uh so it didn't go bad uh but uh so he he spends about two hours working on it",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2621.16,
+   "end": 2627.44,
+   "text": "while I'm not home and then uh then he replaces a fan says all right a-okay problem solved uh shows",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2627.44,
+   "end": 2631.28,
+   "text": "Emily that the fan is not working everything's looking good shows it feels that it's cold or",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2631.28,
+   "end": 2638.22,
+   "text": "whatever he leaves um it sure didn't feel like it was getting cold or but you think like it's an",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2638.22,
+   "end": 2641.9,
+   "text": "cold or fridge and it's a big fridge you know it's one of those deep freezes so maybe it takes",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2641.9,
+   "end": 2651.26,
+   "text": "some time and uh and uh so then this morning got up and uh not only is the fridge not cold but now",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2651.26,
+   "end": 2660.72,
+   "text": "the freezer is broken too so I now so I called him at 6 50 in the morning uh because I had his phone",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2660.72,
+   "end": 2665.94,
+   "text": "number and woke him the fuck up and I was like you didn't fix it he argued with me for a while",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2665.94,
+   "end": 2673.44,
+   "text": "about whether I whether he fixed it or not uh he kept he kept he kept pointing to me that the",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2673.44,
+   "end": 2677.78,
+   "text": "freezer was working fine and I kept telling him come to my house and look it is no longer working fine",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2677.78,
+   "end": 2684.82,
+   "text": "you have you've disrepaired the freezer and uh anyway so uh he just it ended with him yelling at me",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2684.82,
+   "end": 2694.2,
+   "text": "that he'll cut he'll call me tomorrow so uh I've given up on life I don't care if if it gets fixed",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2694.2,
+   "end": 2701.82,
+   "text": "it gets I I have a cooler I got my diet kepsis in the cooler uh yeah I got a towel for any drips",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2701.82,
+   "end": 2706.52,
+   "text": "and uh if he comes tomorrow maybe he'll fix it if he doesn't I don't give a fuck anymore I don't",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2706.52,
+   "end": 2711.4,
+   "text": "care I just I quit I quit at life dude I fucking quit this is more than a human being should have",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2711.4,
+   "end": 2717.7,
+   "text": "to deal with in a seven day period not only that but it's every seven day period of my life",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2717.7,
+   "end": 2725.64,
+   "text": "so anyway I I can't believe it yeah how does so much happen to the same person what kind of karma",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2725.64,
+   "end": 2731.78,
+   "text": "am I dealing with oh it's I gotta say maybe the greatest thing that's ever happened in my life",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 2731.78,
+   "end": 2737.88,
+   "text": "is you buying that house it's been a complete joy man what a time that is a nice house it looks",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 2737.88,
+   "end": 2745.48,
+   "text": "well cosmetically it's excellent visually beautiful so Friday I'm gonna get up and I'm gonna go",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2745.48,
+   "end": 2750.98,
+   "text": "fucking fridge shopping of course oh you've given I've already done a little bit of preliminary",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2750.98,
+   "end": 2754.76,
+   "text": "fridge shopping and because I didn't buy this fridge I didn't put this fridge in the house",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2754.76,
+   "end": 2760.56,
+   "text": "I I certainly didn't build custom cabinets around it however the person who lived here before me did",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2760.56,
+   "end": 2766.32,
+   "text": "so what I am left with is a fridge that is a non-standard size there are zero fridges the",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2766.32,
+   "end": 2771.4,
+   "text": "exact same dimensions at best buy there are zero fridges the exact same dimensions at a lot of places",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2771.4,
+   "end": 2778.06,
+   "text": "I have to go to a place that sells expensive fridges do you know how much a fridge to fit that space is",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2778.06,
+   "end": 2788.2,
+   "text": "gonna cost I'm gonna guess seven grand you are a little low nine grand nine grand oh is what those",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2788.2,
+   "end": 2797.02,
+   "text": "fridges cost fancy like Samsung with a screen you get that for like two grand Gavin I could buy",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2797.02,
+   "end": 2801.88,
+   "text": "Millie a car so she could wreck that one and not mine there's a lot of things I could do with nine",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2801.88,
+   "end": 2807.66,
+   "text": "grand I could buy a smaller fridge and live with the live with the misshape live with the weird hole",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2807.66,
+   "end": 2813.34,
+   "text": "I could get I could get new custom cabinets built around that fridge I don't know I don't want to",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2813.34,
+   "end": 2821.76,
+   "text": "think about you off there's no way you're gonna live with a big gap around oh Jeff you and I share a",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2821.76,
+   "end": 2826.96,
+   "text": "love of the movie bottle rocket one of my favorite movies yeah it's I it's well the best movies are made",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 2826.96,
+   "end": 2832.28,
+   "text": "I've seen it probably 50 times I love it now you're you're watching of that seeing it so many times did you",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 2832.28,
+   "end": 2837.5,
+   "text": "immediately recognize the repair guy as an applejack like did it just immediately give you that vibe",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 2837.5,
+   "end": 2842.32,
+   "text": "because it's immediately what I thought of I'm like just looking at a guy he's like doesn't really know I can't do it man",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 2842.32,
+   "end": 2847.56,
+   "text": "I lost it man and he's like you can't you didn't lose it because you never had an applejack yeah yeah",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2847.56,
+   "end": 2853.86,
+   "text": "it's applejack you hired an applejack and you called him back I hired applejack it's great",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2853.86,
+   "end": 2859.28,
+   "text": "so I don't know if applejack's gonna come fix it tomorrow or not he I'm gonna cancel I'm not gonna",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2859.28,
+   "end": 2863.38,
+   "text": "cancel a check but he paid I paid him 600 bucks not to I paid him 600 bucks or rather Emily paid him",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2863.38,
+   "end": 2868.02,
+   "text": "600 bucks to break the freezer so I'd like to at least get that fixed I could do that for a lot less",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2868.02,
+   "end": 2873.96,
+   "text": "I yeah I'm gonna come in and fix it god damn it man I just I bet I could fix your freezer I think I",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2873.96,
+   "end": 2879.14,
+   "text": "could too I think what I I think what I I think what I the last thing I said to you guys which was",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2879.14,
+   "end": 2887.64,
+   "text": "in a moment of honest to god pain yes was I can pull up the text I never meant anything as much as",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2887.64,
+   "end": 2893.82,
+   "text": "I meant when I said in all seriousness it's gotta let up eventually right I'm drowning in content",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2893.82,
+   "end": 2899.48,
+   "text": "I am drowning in content and I would like to not for a little bit",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2899.48,
+   "end": 2906.28,
+   "text": "I would I mean drowning in content could mean a lot that doesn't necessarily mean negative you're",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 2906.28,
+   "end": 2912.14,
+   "text": "drowning in like just misery content you are the content breadwinner you're yeah you're supporting",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 2912.14,
+   "end": 2917.88,
+   "text": "this triangle you've been doing fantastic with your health problems it's great as I said in the",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 2917.88,
+   "end": 2922.64,
+   "text": "text it's like I get Christmas every three weeks a new disastrous thing happens this week it was like",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 2922.64,
+   "end": 2928.26,
+   "text": "four things this is great I like to think too that whenever something happens to Jeff it means it",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2928.26,
+   "end": 2933.46,
+   "text": "won't happen to me like it was a chance for my fridge to break but my fridge didn't like it the",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2933.46,
+   "end": 2939.32,
+   "text": "coin landed the other way and I was like oh I hope that's the case man I hope that's the case I also",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2939.32,
+   "end": 2945.14,
+   "text": "I got really mad at you two earlier today I calmed down but I got really mad at you two because uh and",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2945.14,
+   "end": 2949.28,
+   "text": "this is super irrational but I was thinking about how you weren't responding to me on text and then I got",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2949.28,
+   "end": 2954.26,
+   "text": "it in my head that uh that I was in the middle of being pranked right now and I just haven't figured it",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2954.26,
+   "end": 2959.9,
+   "text": "out yet and there's some sort of a port-a-potty-esque prank like lingering above me that I",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2959.9,
+   "end": 2964.7,
+   "text": "hasn't hit yet and I was ready to murder you both so I was like if these motherfuckers are gonna prank",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2964.7,
+   "end": 2969.34,
+   "text": "me right now in the middle of this and then I had to be like wait wait wait wait that's uh take a step",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2969.34,
+   "end": 2973.74,
+   "text": "back there are no there's no indication of pranking going on right now you should you should not murder",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2973.74,
+   "end": 2979.42,
+   "text": "them yet uh and so I I calmed down but god damn dude can you now technically expense your fridge",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2979.42,
+   "end": 2985.94,
+   "text": "to the show because it's content I wish I could oh I gotta get it fixed I can't buy a new fridge I",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2985.94,
+   "end": 2991.78,
+   "text": "want to get it fixed you know what yeah I need this I need Applejack fix my fridge he did well yeah",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 2991.78,
+   "end": 2997.58,
+   "text": "he broke it you had a toilet issue I helped you with that I think I could figure out something for this",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 2997.58,
+   "end": 3003.32,
+   "text": "I got you covered don't you worry we'll figure something out somebody did point out that uh when",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 3003.32,
+   "end": 3008.84,
+   "text": "my toilet broke you sent me a new full-size toilet but when my brand new BMW broke you didn't send me",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 3008.84,
+   "end": 3015.48,
+   "text": "anything oh okay I'll do that too I'll add that to the list you could have sent me a new BMW yeah",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 3015.48,
+   "end": 3021.84,
+   "text": "full-size working BMW like the toilet well yeah I don't even care if it's pink okay I'll see what",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 3021.84,
+   "end": 3028.02,
+   "text": "I can do so uh what what what else is going on with y'all I was wondering Andrew have you replaced",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 3028.02,
+   "end": 3035.56,
+   "text": "your fire extinguisher no no I've never I got one fire extinguisher of my life I don't what do you",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 3035.56,
+   "end": 3040.48,
+   "text": "mean replace like wait wait how how long have you had that one I got it when I got the flamethrower",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 3040.48,
+   "end": 3047.58,
+   "text": "that isn't a flamethrower okay so you fired it and now it was useless in the firing and according",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 3047.58,
+   "end": 3052.4,
+   "text": "to some a lie according uh to you not I don't carry the wave to be honest with you because I think the",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 3052.4,
+   "end": 3058.16,
+   "text": "basket more than made up for it but it's now you now have an empty fire extinguisher that I assume is",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 3058.16,
+   "end": 3063.9,
+   "text": "serving as a mic stand still uh it's just next to my desk it feels very full just nothing will come out",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 3063.9,
+   "end": 3070.08,
+   "text": "of it feels very why don't you get it fixed for free I think well I'd have to go to a fire hall",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 3070.08,
+   "end": 3075.4,
+   "text": "to do that I don't like I'm never just at the fire hall what if you have a fire yeah also why do you",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 3075.4,
+   "end": 3080.26,
+   "text": "not like doing anything in a week like are you mad if you leave the house no not at all what do you",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 3080.26,
+   "end": 3085.5,
+   "text": "mean it's just I'm never going to the fire hall also covid pretty bad here right now I limit my trips",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 3085.5,
+   "end": 3090.58,
+   "text": "I get what I need that's fair that's fair that's fair yeah that's fair totally yeah I just uh",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 3090.58,
+   "end": 3095.06,
+   "text": "I've never just happened to be at the fire hall I also never happened to just have my fire",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 3095.06,
+   "end": 3100.66,
+   "text": "extinguisher on me it's not a well I mean it could be a thing that one makes a point of doing uh but",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 3100.66,
+   "end": 3105.52,
+   "text": "you don't have to stumble into it as if like oh how did I end up here at the fire hall and what I have",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 3105.52,
+   "end": 3111.3,
+   "text": "my fire extinguisher on me as well what a happy coincidence um but I gotta say Andrew having never",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 3111.3,
+   "end": 3115.58,
+   "text": "met anybody else who lives in your apartment complex I'm gonna make an assumption that I feel",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 3115.58,
+   "end": 3121.14,
+   "text": "pretty safe in making is that every out of all the people in that apartment complex you're the one",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 3121.14,
+   "end": 3125.34,
+   "text": "who needs a fire extinguisher the most oh you know what I do have fire extinguisher this is a really",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 3125.34,
+   "end": 3131.32,
+   "text": "dangerous thing that I have I have a fire alarm in my unit like that you'd find in a building",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 3131.32,
+   "end": 3135.46,
+   "text": "and I stare at that almost every day and just think I could pull that did I lose you guys",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 3135.46,
+   "end": 3143.06,
+   "text": "I can hear you yeah I can hello what is Jeff gone can you not hear me did he just know us",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 3143.06,
+   "end": 3153.62,
+   "text": "whatever the Jeff did he freeze oh okay is uh I gotcha hey what does he think we're pranking him",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 3153.62,
+   "end": 3163.06,
+   "text": "but we're not I thanks for listening to another episode of what is he doing episode 54 if you",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 3163.06,
+   "end": 3170.78,
+   "text": "like the podcast and you want to give us a review give me give me the old uh five stars whatever it is",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 3170.78,
+   "end": 3175.26,
+   "text": "I want to hear about the fire alarm thing we will appreciate it uh have a good",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 3175.26,
+   "end": 3181.02,
+   "text": "I'm still I'm not done have a good week stop ending the show that's the best out story he's done",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 3181.02,
+   "end": 3187.3,
+   "text": "what's going on I don't understand what Jeff is doing what if why did he do that I don't know",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 3187.3,
+   "end": 3193.68,
+   "text": "what are you doing you can hear us what are you doing what's the point of that can he still",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 3193.68,
+   "end": 3197.06,
+   "text": "I'm not I'm not gonna get pranked by you guys",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 3197.06,
+   "end": 3206.04,
+   "text": "what is happening he can only hear Eric I think what's happening is he paranoid could you",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 3206.04,
+   "end": 3212.32,
+   "text": "can you hear us or not I can hear everybody you can hear me then yeah why did you end the show",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 3212.32,
+   "end": 3218.32,
+   "text": "what's that it went it went silent for like a minute while I was talking no I was talking to",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 3218.32,
+   "end": 3223.68,
+   "text": "you guys I didn't hear anything no it didn't I was still talking I never stopped talking you were",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 3223.68,
+   "end": 3228.16,
+   "text": "just like hello over a story and then he was like hello and then he continued his story you just",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 3228.16,
+   "end": 3233.28,
+   "text": "ended the podcast you just started ending the show no I said something and then I was waiting for",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 3233.28,
+   "end": 3237.14,
+   "text": "Andrew to respond and I didn't hear anything anything anything for a long long time and then I",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 3237.14,
+   "end": 3241.94,
+   "text": "said hello and then Eric's like we hear you fine and I went oh okay uh and I thought Eric was",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 3241.94,
+   "end": 3244.86,
+   "text": "telling me that you guys were hearing me because you were saying you were making time you couldn't",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 3244.86,
+   "end": 3249.62,
+   "text": "hear me we kept being like what Jeff we've been doing this for over a year your instinct is never",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 3249.62,
+   "end": 3255.44,
+   "text": "to end the show why is this suddenly you're now ending the show what was that let me notice",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 3255.44,
+   "end": 3262.04,
+   "text": "why did you do that uh I thought you were pranking me so I ended the show everything is in a prank",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 3262.04,
+   "end": 3266.88,
+   "text": "Jeff I'm gonna be so sad when we do these in real life because this kind of stuff could never",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 3266.88,
+   "end": 3269.52,
+   "text": "happen in real life can you imagine someone just doing that",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 3269.52,
+   "end": 3276.84,
+   "text": "uh I just don't even like we're just in the middle about hearing a fire hearing about a fire",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 3276.84,
+   "end": 3281.16,
+   "text": "alarm and I'm and Andrew's going and I could just pull it and I'm like oh man this is getting",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 3281.16,
+   "end": 3288.44,
+   "text": "dangerous and then all of a sudden well thanks for listening see you dude that is screaming what are",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 3288.44,
+   "end": 3295.4,
+   "text": "you doing that is the opposite of what happened on my end like we were having a conversation I think I",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 3295.4,
+   "end": 3300.86,
+   "text": "said I said I said out of everybody like did you hear the part I said like out of everybody in your",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 3300.86,
+   "end": 3307.04,
+   "text": "apartment complex yes I heard all of the one that needs it you never dropped we heard every hug you",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 3307.04,
+   "end": 3313.88,
+   "text": "the whole time that was there was one that was silent for at least a minute it was oh it was you guys didn't I",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 3313.88,
+   "end": 3320.78,
+   "text": "couldn't hear you guys at all it was like the word fire alarm was like Jeff's activation code like he just went cold how it",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 3320.78,
+   "end": 3321.68,
+   "text": "was closing",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 3321.68,
+   "end": 3328.04,
+   "text": "that I don't know how we know that out and then I don't know what to say that we still hear you what",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 3328.04,
+   "end": 3334.16,
+   "text": "Jeff sometimes people just want to know Christmas music it's not always a prank Greg is real",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 3334.16,
+   "end": 3340.4,
+   "text": "everything isn't a conspiracy what what happened with the fire alarm you just I don't it doesn't",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 3340.4,
+   "end": 3347.12,
+   "text": "even matter now I feel like we've gone long past the fire well here's here's the thing Jeff worked",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 3347.12,
+   "end": 3355.08,
+   "text": "himself into this paranoid space where he thought that you guys were pranking him earlier and now you",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 3355.08,
+   "end": 3358.88,
+   "text": "must be pranking him now there's no other explanation",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 3358.88,
+   "end": 3366.34,
+   "text": "well listen I've never been impressed with your pranks but I don't know that I call him shitty",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 3366.34,
+   "end": 3371.36,
+   "text": "wait okay Jeff's move now makes sense he's like trying to counter the prank by ending the show of like if we're",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 3371.36,
+   "end": 3376.14,
+   "text": "yeah okay well I'm just ending the show to counter the prank what a weird thing that was",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 3376.14,
+   "end": 3381.42,
+   "text": "oh man that was strange Jeff because the editors of the show they do a good job to make sure that we're talking",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 3381.42,
+   "end": 3385.0,
+   "text": "over each other as little as possible like muting and like boost we have to leave all that",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 3385.0,
+   "end": 3390.34,
+   "text": "that has to be exactly how it came yeah wait I thought I thought we're still you guys were just",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 3390.34,
+   "end": 3395.52,
+   "text": "no no you guys were completely silent I didn't hear anything wait wait it just got like I just",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 3395.52,
+   "end": 3399.78,
+   "text": "got silent and I was just like okay it's the podcast over I'm so confused this is still the",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 3399.78,
+   "end": 3403.96,
+   "text": "podcast okay and then I was like well they're fucking I just went on a whole thing about how",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 3403.96,
+   "end": 3407.18,
+   "text": "you guys are gonna prank me and then suddenly everybody's quiet and then Eric's like no no we",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 3407.18,
+   "end": 3410.44,
+   "text": "can hear you and I'm like what if I was like we heard you totally fine",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 3410.44,
+   "end": 3418.0,
+   "text": "if we have to submit this podcast for an award at any point this year we have to use those two minutes",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 3418.0,
+   "end": 3428.38,
+   "text": "can we can we stop now well okay we could yeah do you want to do another outro you seem to really",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 3428.38,
+   "end": 3434.32,
+   "text": "nail this episode is called Jeff ends the podcast should we believe the thing and then just name",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 3434.32,
+   "end": 3439.54,
+   "text": "it just want to go dig a hole under my house and crawl in it well careful don't hit a pipe yeah I've",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 3439.54,
+   "end": 3447.08,
+   "text": "gotta go play Halo just that'll just do that'll just speed up the drowning uh you know see you guys",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 3447.08,
+   "end": 3449.28,
+   "text": "next week if I'm alive still bye",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 3449.28,
+   "end": 3449.8,
+   "text": "bye Jeff",
+   "speaker": "SPEAKER_00"
+  }
+ ]
+}

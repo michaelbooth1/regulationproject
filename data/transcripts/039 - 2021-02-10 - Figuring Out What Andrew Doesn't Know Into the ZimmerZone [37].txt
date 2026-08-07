@@ -1,0 +1,5244 @@
+# Episode 39: Figuring Out What Andrew Doesn't Know // Into the ZimmerZone [37]
+published: 2021-02-10T08:00:00+00:00  |  duration: 01:05:14
+source: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER2025338703.mp3?updated=1773848854
+transcribed: 2026-08-07T05:45:21.654520-04:00  |  model: large-v3-turbo
+diarization: pyannote/speaker-diarization-3.1
+
+
+[00:00:00] SPEAKER_01
+There's no shortcut for saving time, but saving money is simple. Just combine your car and home insurance with Bel Air Direct and save. Get a quote at belairdirect.com.
+
+[00:00:10] SPEAKER_03
+Real Canadian Superstore has everything you need this back-to-school season. Save on lunchbox savers like Ziggy's Sliced Ellie Meat Products for always $3.75. And get Life Brand Pure Vita Shampoo or Conditioner for $8 each. At Real Canadian Superstore, when you're ready, we're ready, with the whole world and more.
+
+[00:00:27] SPEAKER_06
+And exactly on time, like always, hello and welcome to another episode of F**kface. I believe this is episode 37. My name is Geoff Ramsey, and with me, as always, Gavin Free and Andrew Panton. How's it going, guys?
+
+[00:00:49] SPEAKER_05
+I'm very confused. You've done this bit already.
+
+[00:00:52] SPEAKER_06
+I'm just showing up on time and starting the show. It's not a bit. The start of the show is not a bit, Andrew.
+
+[00:00:57] SPEAKER_07
+Aw, did you already do some again?
+
+[00:01:00] SPEAKER_06
+No, I just started. I turned on and started the show. I did the intro.
+
+[00:01:03] SPEAKER_06
+We always forget to do the intro, or we argue about the intro, so I thought I'd just get it out of the way early.
+
+[00:01:08] SPEAKER_07
+Andrew, what's he doing?
+
+[00:01:10] SPEAKER_05
+I feel like he's doing the thing where he was trying to be late on time, but he was early for his late on time. I feel like we've done this.
+
+[00:01:17] SPEAKER_06
+No, I'm not doing that at all. I showed up on time, as always, and started the show with the intro.
+
+[00:01:23] SPEAKER_06
+I literally began the podcast the way one begins a podcast at the prescribed time.
+
+[00:01:29] SPEAKER_06
+It was textbook podcast starting.
+
+[00:01:33] SPEAKER_05
+You did a great job. I would just say you started before Gavin got here. That'd be my only question.
+
+[00:01:38] SPEAKER_06
+Yeah, but I knew I had faith he was going to show up, and that if he hadn't, if he didn't, we could cover, because we know we're professionals, we can vamp, and sure enough, I saw him pop in before I finished my sentence.
+
+[00:01:48] SPEAKER_07
+I joined at three, which was about one minute ago, and I joined, and all I heard was Jeff say, I'm Jeff, and with me, Gavin, and I said, hello.
+
+[00:01:57] SPEAKER_07
+I couldn't have been more on time, I don't think.
+
+[00:01:58] SPEAKER_07
+It was perfect, Gavin.
+
+[00:02:00] SPEAKER_05
+You were on time. I mean, I wasn't recording. I missed the first part.
+
+[00:02:03] SPEAKER_07
+Why do you never record? How are people who haven't shown up yet always recording before you?
+
+[00:02:08] SPEAKER_05
+Because I wait for everybody to show up. Jeff just joined and started the show immediately. I wasn't ready for it.
+
+[00:02:14] SPEAKER_07
+I always start recording before I joined.
+
+[00:02:16] SPEAKER_07
+So do I.
+
+[00:02:17] SPEAKER_07
+Oh, really?
+
+[00:02:17] SPEAKER_07
+So you're ready to go from second one.
+
+[00:02:19] SPEAKER_07
+Yeah.
+
+[00:02:19] SPEAKER_05
+The problem is, I show up like 15 minutes early.
+
+[00:02:21] SPEAKER_06
+Right, but once again, that's your fault, and it's pointless.
+
+[00:02:25] SPEAKER_06
+And you were just sitting there in the Discord for 15 minutes twiddling your dick with Eric at any point you could have, in that countdown, you could have hit record.
+
+[00:02:34] SPEAKER_07
+Yeah, well, like, you see that 2.59 showing up. You could do it then.
+
+[00:02:39] SPEAKER_05
+That's fair. I don't know. Jeff, last week, was it last week or two weeks ago?
+
+[00:02:42] SPEAKER_05
+You're like, I have a story I want to tell before we start, and you teased it.
+
+[00:02:46] SPEAKER_07
+I probably started at 2.59 in 45 seconds and joined on three.
+
+[00:02:50] SPEAKER_06
+That was last week, I believe, Andrew, and I told that story.
+
+[00:02:54] SPEAKER_05
+No, I mean, I wasn't there for it the first time because I knocked over my computers and spilled water everywhere.
+
+[00:03:00] SPEAKER_05
+So I missed it because I kept plugging my headphone jack into my microphone jack.
+
+[00:03:04] SPEAKER_05
+So, I'm smart.
+
+[00:03:07] SPEAKER_05
+Right.
+
+[00:03:08] SPEAKER_07
+Oh, by the way, I went back and listened to, because we had some confusion over you just randomly starting the burger bit,
+
+[00:03:15] SPEAKER_07
+so I re-listened to your previous discussion about how you were just going to start whenever you had confidence.
+
+[00:03:21] SPEAKER_07
+And, yeah, I do remember that now.
+
+[00:03:22] SPEAKER_07
+Yeah.
+
+[00:03:22] SPEAKER_07
+I just, for some reason, erased that from last week's episode.
+
+[00:03:25] SPEAKER_06
+Do you remember it now, or did you hear it?
+
+[00:03:26] SPEAKER_06
+I kind of vaguely remembered it, but after I heard it, it was crystal clear, Andrew.
+
+[00:03:32] SPEAKER_05
+Yeah, well, I mean, I had to ask you about it, first of all.
+
+[00:03:35] SPEAKER_05
+And, second of all, I don't think you can claim you remembered something that you had to listen to to learn.
+
+[00:03:39] SPEAKER_05
+You just didn't hear it.
+
+[00:03:41] SPEAKER_07
+I mean, it was definitely forgotten, but as soon as I was hearing your words, I was like,
+
+[00:03:47] SPEAKER_07
+I do remember him saying this.
+
+[00:03:49] SPEAKER_07
+Yeah, just jogged his memory.
+
+[00:03:51] SPEAKER_07
+Fair enough.
+
+[00:03:51] SPEAKER_07
+I deleted it.
+
+[00:03:53] SPEAKER_05
+Can we talk about a big accomplishment in Jeff's life?
+
+[00:03:56] SPEAKER_05
+Jeff had a big thing happen to him.
+
+[00:03:59] SPEAKER_05
+I'm very excited about this.
+
+[00:04:00] SPEAKER_05
+I don't know if you saw it, Gavin.
+
+[00:04:02] SPEAKER_07
+No, I don't know what you're talking about.
+
+[00:04:05] SPEAKER_06
+Are you serious, Gavin?
+
+[00:04:06] SPEAKER_06
+You don't know?
+
+[00:04:07] SPEAKER_06
+No.
+
+[00:04:08] SPEAKER_06
+Here's what I'm going to do.
+
+[00:04:09] SPEAKER_06
+I'm going to upload a photo.
+
+[00:04:11] SPEAKER_06
+I prepared this.
+
+[00:04:12] SPEAKER_06
+It's funny you mentioned that, Andrew, because I probably would have fucking forgot about it
+
+[00:04:16] SPEAKER_06
+even after I prepped this.
+
+[00:04:17] SPEAKER_06
+Okay.
+
+[00:04:19] SPEAKER_06
+I did, Gavin.
+
+[00:04:20] SPEAKER_06
+There was something I tweeted about it just the other day.
+
+[00:04:24] SPEAKER_06
+It was kind of a big milestone in my life.
+
+[00:04:27] SPEAKER_06
+I'm really not sure how my life changes going forward, given this, but let me pop this sucker
+
+[00:04:37] SPEAKER_06
+in and then try to explain it.
+
+[00:04:40] SPEAKER_06
+You struggling to get it in?
+
+[00:04:42] SPEAKER_07
+Nothing takes longer on this podcast than waiting for it.
+
+[00:04:44] SPEAKER_07
+No.
+
+[00:04:44] SPEAKER_06
+Oh.
+
+[00:04:45] SPEAKER_06
+Than emailing a photo to yourself and then posting it.
+
+[00:04:48] SPEAKER_06
+What do you have there, Gavin?
+
+[00:04:50] SPEAKER_06
+And for the audience, we'll post this at some point.
+
+[00:04:52] SPEAKER_06
+That is approximately, I'd say, 15 to 45 seconds after I picked up the right sock for the right foot.
+
+[00:05:04] SPEAKER_07
+How did that happen?
+
+[00:05:06] SPEAKER_07
+Do you have a new system?
+
+[00:05:08] SPEAKER_06
+No.
+
+[00:05:08] SPEAKER_06
+No.
+
+[00:05:10] SPEAKER_06
+No.
+
+[00:05:10] SPEAKER_06
+No, no, no, no.
+
+[00:05:13] SPEAKER_06
+Let me set the stage.
+
+[00:05:15] SPEAKER_06
+Saturday morning, just going about my day.
+
+[00:05:17] SPEAKER_06
+I think it was Saturday.
+
+[00:05:18] SPEAKER_06
+I'll have to go back and check the tweet.
+
+[00:05:20] SPEAKER_06
+Anyway, one morning, just going about my day.
+
+[00:05:22] SPEAKER_06
+Took a shower.
+
+[00:05:23] SPEAKER_06
+Everything's fine.
+
+[00:05:26] SPEAKER_06
+Sit down on the sofa to put my socks and shoes on that you make fun of because I'm old.
+
+[00:05:30] SPEAKER_06
+And like I do every day, like I've done millions of times.
+
+[00:05:34] SPEAKER_06
+I picked up the left sock to put it on the right foot, but it wasn't the left sock.
+
+[00:05:37] SPEAKER_06
+It was the right sock.
+
+[00:05:40] SPEAKER_07
+I would put money on this not being the first time this has happened.
+
+[00:05:44] SPEAKER_07
+I think this is the first time you've noticed.
+
+[00:05:46] SPEAKER_07
+First time it's happened.
+
+[00:05:47] SPEAKER_07
+I think you've put the correct sock on the correct foot hundreds of times, but because it's a totally normal event, it doesn't register.
+
+[00:05:54] SPEAKER_07
+And then the next time it's the wrong one, you're like, it's again, it's the wrong one.
+
+[00:05:58] SPEAKER_06
+I can understand how you would need to believe that to make your world make sense.
+
+[00:06:02] SPEAKER_06
+But that's not what's going on here.
+
+[00:06:04] SPEAKER_06
+I'm telling you, it's a Matrix-style simulation.
+
+[00:06:07] SPEAKER_06
+I've pretty much got it dialed in.
+
+[00:06:09] SPEAKER_06
+However, there was a glitch or I did something.
+
+[00:06:12] SPEAKER_06
+I don't know what I did differently, but in that moment, I had prescience and I saw it and I realized it and I put the correct sock on and I knew I was doing it at the time.
+
+[00:06:21] SPEAKER_06
+And I'll say this, it hasn't happened again since.
+
+[00:06:24] SPEAKER_06
+I made a note of it every morning.
+
+[00:06:26] SPEAKER_06
+So far, it was a one-time incident.
+
+[00:06:28] SPEAKER_06
+So what I've been trying to do is dissect everything in my life that led up to that to see what I did differently.
+
+[00:06:33] SPEAKER_06
+Here's the problem.
+
+[00:06:35] SPEAKER_06
+Every day of my life, every day of my life is identical to the previous day.
+
+[00:06:39] SPEAKER_06
+So I don't know!
+
+[00:06:41] SPEAKER_07
+I'm imagining Neo walking past that doorway and seeing the cat.
+
+[00:06:44] SPEAKER_07
+But it happened 750 times back to back.
+
+[00:06:47] SPEAKER_07
+At that point, it's not deja vu.
+
+[00:06:48] SPEAKER_07
+It's just the norm.
+
+[00:06:50] SPEAKER_07
+If anything, you're not in a simulation.
+
+[00:06:53] SPEAKER_06
+No, I'm telling you, I am.
+
+[00:06:54] SPEAKER_06
+And that's the reboot moment.
+
+[00:06:56] SPEAKER_06
+But however, yeah, so I don't know.
+
+[00:06:59] SPEAKER_06
+It was amazing.
+
+[00:07:00] SPEAKER_06
+It was liberating.
+
+[00:07:01] SPEAKER_06
+I felt young again.
+
+[00:07:02] SPEAKER_06
+I felt like I was flying.
+
+[00:07:03] SPEAKER_06
+I felt like I was free.
+
+[00:07:04] SPEAKER_06
+I felt like the world was full of possibility.
+
+[00:07:06] SPEAKER_06
+I felt like I could touch the moon if I wanted to until I put my socks on again and then it went back to normal.
+
+[00:07:13] SPEAKER_07
+I'll be honest.
+
+[00:07:14] SPEAKER_07
+I think if there's any proof that we're not in a simulation, it's Andrew Panton himself.
+
+[00:07:18] SPEAKER_07
+Like, there's no way a computer could come up with that.
+
+[00:07:21] SPEAKER_06
+I don't know what you're talking about.
+
+[00:07:22] SPEAKER_06
+Yeah.
+
+[00:07:23] SPEAKER_06
+Andrew's like the bits left over after a defrag that just pile up and really turns into it.
+
+[00:07:27] SPEAKER_06
+He's the frag?
+
+[00:07:30] SPEAKER_07
+Andrew's the fragments.
+
+[00:07:33] SPEAKER_05
+I'm really happy, Jeff, that this event happened in your life that is absolutely random, unexplainable,
+
+[00:07:39] SPEAKER_05
+and it's just a good thing that happened to you and was no way set up or predetermined anyway.
+
+[00:07:45] SPEAKER_05
+Really happy for me.
+
+[00:07:46] SPEAKER_05
+Glad you had this one.
+
+[00:07:47] SPEAKER_05
+Thank you for that.
+
+[00:07:48] SPEAKER_06
+Thank you for that, Andrew.
+
+[00:07:49] SPEAKER_06
+And let me say that, you know, the last time we talked, there were some suggestions by audience members,
+
+[00:07:54] SPEAKER_06
+and I was going to try some of those, and I didn't even get around to it.
+
+[00:07:57] SPEAKER_06
+And I'll be honest with you.
+
+[00:07:58] SPEAKER_06
+Now, I don't care.
+
+[00:08:00] SPEAKER_06
+I'll do it wrong.
+
+[00:08:01] SPEAKER_06
+It's fine.
+
+[00:08:02] SPEAKER_06
+I had it right once.
+
+[00:08:03] SPEAKER_06
+I touched the sun for one brief second.
+
+[00:08:09] SPEAKER_06
+I reached Shangri-La.
+
+[00:08:11] SPEAKER_06
+I tasted ambrosia.
+
+[00:08:13] SPEAKER_06
+I know what the top of the mountain looks like.
+
+[00:08:16] SPEAKER_06
+I've breathed that air, and I don't ever have to breathe it again.
+
+[00:08:19] SPEAKER_06
+That's fine.
+
+[00:08:20] SPEAKER_06
+I know.
+
+[00:08:20] SPEAKER_06
+I will hold on to that memory, that brief fleeting day for the rest of my life, and that's enough
+
+[00:08:25] SPEAKER_06
+to sustain me.
+
+[00:08:26] SPEAKER_06
+So I'm going to consider this chapter, unless something weird happens, I'm going to consider
+
+[00:08:31] SPEAKER_06
+this chapter in my life closed, and I'm just going to go back to the way things were,
+
+[00:08:34] SPEAKER_06
+and any time I get frustrated, I'll just look at that picture.
+
+[00:08:37] SPEAKER_05
+I don't.
+
+[00:08:38] SPEAKER_05
+You're just going to go back to not noticing, because you certainly have put the right sock
+
+[00:08:41] SPEAKER_05
+on the right foot countless times before this, like I haven't said.
+
+[00:08:44] SPEAKER_06
+Nope.
+
+[00:08:44] SPEAKER_06
+Nope.
+
+[00:08:45] SPEAKER_06
+I mean, yeah, before it started to become a thing, like when I was a leader and shit.
+
+[00:08:48] SPEAKER_07
+Before you bought left and right socks, and made your life overly complicated.
+
+[00:08:52] SPEAKER_06
+Back when I just had straight-ass tube socks.
+
+[00:08:55] SPEAKER_05
+Sure.
+
+[00:08:57] SPEAKER_05
+I do.
+
+[00:08:57] SPEAKER_05
+What I appreciate about this photo, and I was going to bring this up, but this is a
+
+[00:09:01] SPEAKER_05
+perfect discussion into this.
+
+[00:09:03] SPEAKER_05
+I think Jeff might be the worst picture taker of all time.
+
+[00:09:07] SPEAKER_05
+Just absolutely horrendous at it.
+
+[00:09:11] SPEAKER_05
+Like, look at this photo specifically.
+
+[00:09:13] SPEAKER_05
+It tells you nothing about his left sock thing.
+
+[00:09:16] SPEAKER_05
+It's a foot in a shoe.
+
+[00:09:18] SPEAKER_05
+You can't even see the R or the L.
+
+[00:09:20] SPEAKER_05
+You can't see the L or R. You can't tell what foot it is.
+
+[00:09:22] SPEAKER_05
+It's a completely useless photo.
+
+[00:09:25] SPEAKER_05
+It means nothing.
+
+[00:09:26] SPEAKER_05
+And Jeff sends me-
+
+[00:09:28] SPEAKER_05
+Jeff-
+
+[00:09:29] SPEAKER_05
+Go ahead.
+
+[00:09:30] SPEAKER_07
+What are you going to say?
+
+[00:09:31] SPEAKER_07
+No, I'm agreeing with you.
+
+[00:09:32] SPEAKER_07
+I feel like every time he puts a picture in the group text-
+
+[00:09:35] SPEAKER_07
+Oh, it's horrendous.
+
+[00:09:36] SPEAKER_07
+It's a blurry piece of shit, and it'll be followed up by a second one that's actually
+
+[00:09:39] SPEAKER_07
+the actual thing he wanted.
+
+[00:09:40] SPEAKER_05
+I have a-
+
+[00:09:41] SPEAKER_05
+Continue with your bit.
+
+[00:09:43] SPEAKER_05
+I have a reason for this.
+
+[00:09:44] SPEAKER_05
+No, it's not a bit.
+
+[00:09:45] SPEAKER_05
+Jeff sends me basketball cards pretty regularly that he's gotten, and they're the worst
+
+[00:09:50] SPEAKER_05
+photos I've ever seen.
+
+[00:09:51] SPEAKER_05
+None of them are centered.
+
+[00:09:53] SPEAKER_05
+I'm going to send some of these.
+
+[00:09:55] SPEAKER_05
+Here's the first one.
+
+[00:09:56] SPEAKER_05
+We got one to the left.
+
+[00:09:57] SPEAKER_05
+That's just-
+
+[00:09:58] SPEAKER_05
+That's like 80% of them.
+
+[00:09:59] SPEAKER_05
+That's how they come in.
+
+[00:10:00] SPEAKER_05
+Recently, I got one that was upside down.
+
+[00:10:03] SPEAKER_05
+I'm trying to figure out what these cards are.
+
+[00:10:05] SPEAKER_05
+We got another one to the left.
+
+[00:10:08] SPEAKER_05
+The most recent-
+
+[00:10:09] SPEAKER_05
+Not-
+
+[00:10:09] SPEAKER_05
+This isn't the most recent.
+
+[00:10:10] SPEAKER_05
+This is the second to most recent.
+
+[00:10:12] SPEAKER_05
+I thought it couldn't get worse than this.
+
+[00:10:14] SPEAKER_05
+This is when he sent me when he's like, I got new cards.
+
+[00:10:16] SPEAKER_05
+Look at these cards.
+
+[00:10:17] SPEAKER_05
+Literally just his finger in front of the lines.
+
+[00:10:20] SPEAKER_07
+There have been countless times, too, back in the-
+
+[00:10:23] SPEAKER_07
+Maybe over the last eight years, where I'm like, Jeff, Jeff, take my phone, record this.
+
+[00:10:28] SPEAKER_07
+We'll do something amazing.
+
+[00:10:29] SPEAKER_07
+We'll do something that was like one-of-a-kind funny.
+
+[00:10:32] SPEAKER_07
+And at the end of it, Jeff will hit record.
+
+[00:10:35] SPEAKER_07
+And I realize that he's actually not been filming the entire time.
+
+[00:10:38] SPEAKER_07
+I'd also like to point out, Jeff was a photographer.
+
+[00:10:41] SPEAKER_05
+Yeah, I was gonna say.
+
+[00:10:42] SPEAKER_05
+Yeah, I'll get to that.
+
+[00:10:43] SPEAKER_05
+Yeah, of course.
+
+[00:10:44] SPEAKER_05
+I got-
+
+[00:10:44] SPEAKER_05
+There's a point of that.
+
+[00:10:45] SPEAKER_05
+I got one more, Gavin.
+
+[00:10:46] SPEAKER_05
+Look.
+
+[00:10:47] SPEAKER_05
+Because when you look at that photo, you think, how could it get worse than this?
+
+[00:10:51] SPEAKER_05
+How could you get a more useless photo of what the cards are?
+
+[00:10:55] SPEAKER_05
+This is his most recent one he sent me.
+
+[00:10:58] SPEAKER_05
+It's the fucking package they were shipped in.
+
+[00:11:00] SPEAKER_05
+I still don't know what the cards look like.
+
+[00:11:03] SPEAKER_05
+Why did you even take that picture?
+
+[00:11:05] SPEAKER_05
+Like, what am I supposed to do with that?
+
+[00:11:07] SPEAKER_05
+Are you trying to, like, set up some tension?
+
+[00:11:13] SPEAKER_05
+Like, oh, what's it gonna be?
+
+[00:11:14] SPEAKER_05
+He has done that.
+
+[00:11:15] SPEAKER_05
+I've gotten a text if you want to see something cool, and then I'll see it way too late.
+
+[00:11:19] SPEAKER_05
+I gotta wait a whole fucking day to find out what the cool thing is in his cards, which is fine.
+
+[00:11:22] SPEAKER_07
+It's just gonna get earlier and earlier.
+
+[00:11:24] SPEAKER_07
+Like, the next time it happens, it's gonna be a picture of the mailman.
+
+[00:11:27] SPEAKER_07
+And then it'll be a picture of the front door before anyone shows up.
+
+[00:11:32] SPEAKER_05
+I thought it was a bit.
+
+[00:11:33] SPEAKER_05
+I scrolled through all of the, like, photos he sent me for cards.
+
+[00:11:37] SPEAKER_05
+They're all sideless.
+
+[00:11:38] SPEAKER_05
+Not a single one.
+
+[00:11:39] SPEAKER_05
+What's the red one?
+
+[00:11:40] SPEAKER_06
+Okay, okay, okay, okay, okay.
+
+[00:11:41] SPEAKER_06
+Here's the deal.
+
+[00:11:42] SPEAKER_06
+The first three are definitely not a bit.
+
+[00:11:45] SPEAKER_06
+The fourth one was not a bit.
+
+[00:11:48] SPEAKER_06
+I just wasn't paying attention.
+
+[00:11:50] SPEAKER_06
+The fifth one was a setup.
+
+[00:11:52] SPEAKER_06
+I thought it would be funny to send him that, because he's getting mad.
+
+[00:11:56] SPEAKER_06
+Like, every time I send him a photo, and it's usually because I'm, well, I'll get to that.
+
+[00:12:01] SPEAKER_06
+But every time I send him a photo, he just responds with, is this a bit?
+
+[00:12:04] SPEAKER_06
+And then I go, what?
+
+[00:12:05] SPEAKER_06
+And then I have to go back and look at the photo and go, oh, I see.
+
+[00:12:07] SPEAKER_06
+It's upside down.
+
+[00:12:08] SPEAKER_06
+Or, oh, I guess my thumb was over the fucking camera.
+
+[00:12:10] SPEAKER_06
+Whatever.
+
+[00:12:11] SPEAKER_06
+So, uh, so I thought it would be funny, this last one, just to send him a picture of the
+
+[00:12:17] SPEAKER_06
+mail with the cards poking out of the top.
+
+[00:12:19] SPEAKER_06
+And then immediately, I was going to, when he responded, I was going to follow up with
+
+[00:12:22] SPEAKER_06
+the actual photos.
+
+[00:12:23] SPEAKER_06
+But he didn't respond, and I got, I lost interest and moved on.
+
+[00:12:27] SPEAKER_06
+So he just got.
+
+[00:12:29] SPEAKER_06
+What's the red one?
+
+[00:12:30] SPEAKER_07
+How is that?
+
+[00:12:31] SPEAKER_07
+Because you said that one was real.
+
+[00:12:32] SPEAKER_05
+It was like my thumb.
+
+[00:12:33] SPEAKER_05
+Yeah.
+
+[00:12:33] SPEAKER_05
+Yeah, I guess.
+
+[00:12:34] SPEAKER_05
+What's impressive, though, is you have to take the photo, you have to then click the photo,
+
+[00:12:38] SPEAKER_05
+click it again, and then hit submit.
+
+[00:12:39] SPEAKER_05
+There's so many ways.
+
+[00:12:40] SPEAKER_06
+No, no, no.
+
+[00:12:41] SPEAKER_06
+Like, if you, if you, if you're in the text window, and you just hit the take photo button,
+
+[00:12:45] SPEAKER_06
+and then you just snap it, it uploads it, and you're not paying attention.
+
+[00:12:47] SPEAKER_06
+If you're talking to your girlfriend, or your daughter, or the dog's barking, or you're
+
+[00:12:50] SPEAKER_06
+trying to figure out who's not, you know, ringing the doorbell, you accidentally upload
+
+[00:12:54] SPEAKER_06
+a fucking photo of your thumb.
+
+[00:12:56] SPEAKER_07
+But you have to still send it.
+
+[00:12:57] SPEAKER_07
+You still see what you're about to send.
+
+[00:12:59] SPEAKER_06
+Yeah, if you're paying attention.
+
+[00:13:00] SPEAKER_06
+I'm doing a lot of things at once.
+
+[00:13:02] SPEAKER_06
+He's cutting two nails.
+
+[00:13:04] SPEAKER_06
+He's very occupied.
+
+[00:13:06] SPEAKER_06
+No, none of those things happened.
+
+[00:13:08] SPEAKER_06
+Those are all different days.
+
+[00:13:09] SPEAKER_06
+Every one of those photos is a different day.
+
+[00:13:17] SPEAKER_05
+Nice.
+
+[00:13:18] SPEAKER_05
+I get one of those.
+
+[00:13:19] SPEAKER_05
+Oh, shit.
+
+[00:13:19] SPEAKER_05
+It's great.
+
+[00:13:20] SPEAKER_06
+That's amazing.
+
+[00:13:21] SPEAKER_06
+Yeah.
+
+[00:13:21] SPEAKER_06
+This is a very visual episode this week.
+
+[00:13:23] SPEAKER_06
+It is.
+
+[00:13:23] SPEAKER_06
+I have a whole thing I want to do, too.
+
+[00:13:25] SPEAKER_06
+That's what we have an Instagram for, isn't it?
+
+[00:13:26] SPEAKER_06
+Exactly.
+
+[00:13:26] SPEAKER_06
+Yeah, yeah.
+
+[00:13:27] SPEAKER_06
+We're definitely going to be leaning into the Instagram today.
+
+[00:13:30] SPEAKER_06
+Oh, boy.
+
+[00:13:31] SPEAKER_06
+Yeah.
+
+[00:13:32] SPEAKER_06
+So, here's the deal.
+
+[00:13:33] SPEAKER_06
+I was a professional photographer for five years.
+
+[00:13:37] SPEAKER_06
+I was a photojournalist.
+
+[00:13:38] SPEAKER_06
+And I am of the opinion that either you do something as well as possible or not at all.
+
+[00:13:46] SPEAKER_06
+Since I have to take, send, communicate via photo, and I'm not going to treat it like
+
+[00:13:53] SPEAKER_06
+I'm a professional photographer anymore, which I know how to do.
+
+[00:13:55] SPEAKER_06
+Instead, I'm just going to put the least amount of effort into this thing as possible.
+
+[00:13:59] SPEAKER_06
+And so, that's what I do with photography now.
+
+[00:14:01] SPEAKER_06
+I went the other way.
+
+[00:14:03] SPEAKER_05
+Yeah, but I feel like...
+
+[00:14:03] SPEAKER_06
+I know how to take a good photo.
+
+[00:14:05] SPEAKER_06
+I know how to take a good photo.
+
+[00:14:06] SPEAKER_06
+I went to school for it.
+
+[00:14:07] SPEAKER_06
+I got paid to do it.
+
+[00:14:08] SPEAKER_06
+I was a professional at it for five years.
+
+[00:14:10] SPEAKER_06
+So, now I feel like I'm allowed to take a bad photo.
+
+[00:14:12] SPEAKER_06
+It's like when a billionaire wears cargo shorts and flip-flops.
+
+[00:14:16] SPEAKER_05
+But there's a large range that you're not considering.
+
+[00:14:19] SPEAKER_05
+There's professional photographer.
+
+[00:14:21] SPEAKER_05
+Then there's human.
+
+[00:14:22] SPEAKER_05
+And then there's what you're taking.
+
+[00:14:24] SPEAKER_05
+You're way below the human bar.
+
+[00:14:26] SPEAKER_05
+These are horrendous photos.
+
+[00:14:28] SPEAKER_07
+I'll be honest.
+
+[00:14:29] SPEAKER_07
+I gave Millie my camera, and she took a better picture of me when she was five than some
+
+[00:14:34] SPEAKER_07
+of the ones that showed up here.
+
+[00:14:35] SPEAKER_05
+Well, because I'm not trying to take a good photo.
+
+[00:14:36] SPEAKER_05
+I'm trying to communicate information.
+
+[00:14:38] SPEAKER_05
+They are so bad.
+
+[00:14:39] SPEAKER_05
+I feel like you're putting effort into make them as bad as they are.
+
+[00:14:42] SPEAKER_05
+I feel like you're putting it twice as much work.
+
+[00:14:44] SPEAKER_06
+I don't put effort into anything.
+
+[00:14:48] SPEAKER_05
+You put effort into this.
+
+[00:14:49] SPEAKER_06
+No, I'm not trying.
+
+[00:14:50] SPEAKER_06
+Eric asked if I was trying to take a bad photo.
+
+[00:14:52] SPEAKER_06
+No.
+
+[00:14:53] SPEAKER_06
+In the fifth photo, the one of the male, I was trying to take a funny photo.
+
+[00:14:57] SPEAKER_06
+But the rest, I was just...
+
+[00:14:58] SPEAKER_06
+By the way, I think Andrew's blowing it a little out of proportion.
+
+[00:15:02] SPEAKER_06
+Big deal, the cards are sideways.
+
+[00:15:04] SPEAKER_06
+You can still fucking see what they are.
+
+[00:15:06] SPEAKER_06
+It's just a huge annoyance for no reason.
+
+[00:15:07] SPEAKER_06
+It's not a complicated mathematical equation.
+
+[00:15:09] SPEAKER_06
+No, it's an annoyance.
+
+[00:15:10] SPEAKER_06
+You can still see Marcus Smart, Taco Fall, Marcus Smart.
+
+[00:15:12] SPEAKER_05
+Yeah, but I'm trying to look at the details of the card.
+
+[00:15:15] SPEAKER_05
+I'm trying to be excited about what you got, and I have to turn my head.
+
+[00:15:18] SPEAKER_05
+Just send a proper photo.
+
+[00:15:19] SPEAKER_06
+I wouldn't want you to have to put any effort into it.
+
+[00:15:21] SPEAKER_05
+No, just put a little effort into your photo.
+
+[00:15:23] SPEAKER_05
+Just a minimal amount.
+
+[00:15:24] SPEAKER_05
+Why are you making me do the effort?
+
+[00:15:26] SPEAKER_05
+I can't turn my head.
+
+[00:15:27] SPEAKER_06
+That's fair.
+
+[00:15:34] SPEAKER_06
+I'm getting paid to do it.
+
+[00:15:35] SPEAKER_05
+That wasn't the goal of this conversation, was to get you to take better photos.
+
+[00:15:38] SPEAKER_05
+It was horrendous.
+
+[00:15:40] SPEAKER_05
+I had to bring it up.
+
+[00:15:41] SPEAKER_05
+I'm the worst photo taker I've ever seen.
+
+[00:15:43] SPEAKER_05
+I'd be honest, I didn't think that this was content.
+
+[00:15:45] SPEAKER_05
+I'm surprised you mentioned it.
+
+[00:15:46] SPEAKER_05
+Oh, it's horrendous.
+
+[00:15:47] SPEAKER_05
+It's hilarious.
+
+[00:15:48] SPEAKER_05
+I really thought it was a bit, and I'm glad to hear the last one was part of the bit.
+
+[00:15:52] SPEAKER_05
+But scrolling through, it was alarming to realize how long you've been doing this without
+
+[00:15:56] SPEAKER_05
+me saying anything or really registering that every single one is sideways.
+
+[00:16:00] SPEAKER_06
+Yeah.
+
+[00:16:02] SPEAKER_06
+I'm not even sure.
+
+[00:16:03] SPEAKER_06
+Can I be honest with you?
+
+[00:16:04] SPEAKER_06
+I don't know why they're sideways.
+
+[00:16:07] SPEAKER_06
+I don't know how I took a sideways photo.
+
+[00:16:09] SPEAKER_06
+I held the camera, right?
+
+[00:16:11] SPEAKER_06
+Clearly not.
+
+[00:16:12] SPEAKER_06
+I didn't hold the camera upside down.
+
+[00:16:14] SPEAKER_06
+So why is the fucking photo upside down?
+
+[00:16:16] SPEAKER_07
+There was a video we made where Jeremy was covered in powder paint, and I was brushing
+
+[00:16:22] SPEAKER_07
+it off him.
+
+[00:16:22] SPEAKER_07
+I was like, oh man, it's all over your back.
+
+[00:16:24] SPEAKER_07
+But what he didn't know is that I had the bottle of powder paint, and as I was brushing
+
+[00:16:28] SPEAKER_07
+it off, I was just squirting more on.
+
+[00:16:30] SPEAKER_07
+And Jeff was filming it, but he ended up laughing so hard that he fell over and stopped the video.
+
+[00:16:37] SPEAKER_07
+And it went on for like 90 seconds longer than we put in the video.
+
+[00:16:42] SPEAKER_07
+And Jeff was just rolling around on the floor crying, not filming it.
+
+[00:16:46] SPEAKER_06
+But I one time got to go, probably the most embarrassing, because I didn't care about that because we
+
+[00:16:51] SPEAKER_06
+had other coverage.
+
+[00:16:52] SPEAKER_06
+But I one time...
+
+[00:16:53] SPEAKER_06
+You did it.
+
+[00:16:54] SPEAKER_99
+What's the end of it?
+
+[00:16:55] SPEAKER_06
+We had the coverage up to it, right?
+
+[00:16:57] SPEAKER_06
+That was the video.
+
+[00:16:58] SPEAKER_06
+I one time got to go to a special...
+
+[00:17:01] SPEAKER_06
+I got to go to a special Action Bronson show.
+
+[00:17:05] SPEAKER_06
+Gavin and I were both fans of Action Bronson.
+
+[00:17:07] SPEAKER_06
+And I got to get up close, and I got to high-five him.
+
+[00:17:09] SPEAKER_06
+And I just felt bad that Gavin didn't go.
+
+[00:17:12] SPEAKER_06
+I wasn't able to get him in.
+
+[00:17:13] SPEAKER_06
+So I took a whole video of him singing a song, and then me running up and high-fiving him.
+
+[00:17:17] SPEAKER_06
+And he high-fives me.
+
+[00:17:19] SPEAKER_06
+And it's really cool, except I missed the high-five.
+
+[00:17:22] SPEAKER_06
+And he looked at me like I was a fucking dumbass.
+
+[00:17:24] SPEAKER_06
+Like, are you serious?
+
+[00:17:25] SPEAKER_06
+Did you just miss a fucking high-five?
+
+[00:17:27] SPEAKER_06
+And of course, I missed it because I was holding the phone and filming it while I was
+
+[00:17:30] SPEAKER_06
+high-fiving it.
+
+[00:17:30] SPEAKER_06
+And I must have looked as dumb as it sounds.
+
+[00:17:32] SPEAKER_06
+Anyway, he was like instantly lost any respect he probably never had for me to begin with
+
+[00:17:37] SPEAKER_06
+because I'm just some asshole.
+
+[00:17:39] SPEAKER_06
+And he turned around and walked off, and I thought, well, I just ruined it with Action Bronson.
+
+[00:17:41] SPEAKER_06
+And then I hit stop.
+
+[00:17:43] SPEAKER_06
+And then I went to send it to Gavin and realized that I'd never hit record.
+
+[00:17:46] SPEAKER_06
+But I did hit record right after Action Bronson missed the high-five.
+
+[00:17:50] SPEAKER_06
+And I literally have a video of me going, oh, man.
+
+[00:17:54] SPEAKER_07
+Jeff has the best videos that occur before or after a really funny event.
+
+[00:17:59] SPEAKER_07
+He has the best collection of those.
+
+[00:18:01] SPEAKER_07
+Without fail.
+
+[00:18:02] SPEAKER_07
+And it's not like it's a once in a while that happens.
+
+[00:18:06] SPEAKER_07
+It's most.
+
+[00:18:07] SPEAKER_07
+It's the most times you try and video something.
+
+[00:18:10] SPEAKER_06
+I got bad iPhone luck.
+
+[00:18:13] SPEAKER_06
+At a certain point, it's not luck.
+
+[00:18:15] SPEAKER_06
+At a certain point.
+
+[00:18:16] SPEAKER_06
+Put it in with your footlock.
+
+[00:18:17] SPEAKER_06
+Yes.
+
+[00:18:17] SPEAKER_06
+God damn.
+
+[00:18:19] SPEAKER_06
+Gav, you said you wanted to play a game today.
+
+[00:18:22] SPEAKER_06
+You have a game for us?
+
+[00:18:24] SPEAKER_07
+I don't know if it'll be any good.
+
+[00:18:25] SPEAKER_07
+I've done a little bit of an information gathering because, you know, we were trying to find out
+
+[00:18:28] SPEAKER_07
+what Andrew doesn't know, but he doesn't know what he doesn't know.
+
+[00:18:32] SPEAKER_07
+So I was trying to find lists of things that are actually quite obvious, but sometimes people
+
+[00:18:36] SPEAKER_07
+don't know.
+
+[00:18:37] SPEAKER_05
+How big is this list?
+
+[00:18:39] SPEAKER_07
+What are we talking about?
+
+[00:18:40] SPEAKER_07
+It's loads.
+
+[00:18:41] SPEAKER_07
+It's loads.
+
+[00:18:41] SPEAKER_07
+But I'll do a few.
+
+[00:18:43] SPEAKER_07
+We'll see how it goes.
+
+[00:18:44] SPEAKER_07
+We'll start with M&M's, right?
+
+[00:18:46] SPEAKER_07
+Why is the rapper M&M called M&M?
+
+[00:18:48] SPEAKER_05
+Do people know this?
+
+[00:18:50] SPEAKER_05
+I don't feel like this would be a thing that's commonly known.
+
+[00:18:52] SPEAKER_05
+Oh, wait.
+
+[00:18:53] SPEAKER_05
+Is the rapper?
+
+[00:18:54] SPEAKER_05
+Wait.
+
+[00:18:54] SPEAKER_05
+Sorry.
+
+[00:18:54] SPEAKER_05
+What was the question?
+
+[00:18:55] SPEAKER_05
+I think I misinterpreted this question.
+
+[00:18:58] SPEAKER_05
+Can we roll this back?
+
+[00:18:59] SPEAKER_05
+What was the question?
+
+[00:19:01] SPEAKER_07
+M&M, the guy.
+
+[00:19:03] SPEAKER_05
+Yeah.
+
+[00:19:03] SPEAKER_07
+Why is he called M&M?
+
+[00:19:04] SPEAKER_05
+It's his initials.
+
+[00:19:05] SPEAKER_05
+Actually, I had this realization.
+
+[00:19:07] SPEAKER_05
+I told Jeff about it.
+
+[00:19:08] SPEAKER_05
+I was so excited.
+
+[00:19:09] SPEAKER_05
+It's true.
+
+[00:19:10] SPEAKER_05
+It's true.
+
+[00:19:10] SPEAKER_05
+I've talked to Jeff about this.
+
+[00:19:12] SPEAKER_05
+He just, like, it was like nobody else had ever thought of this.
+
+[00:19:15] SPEAKER_05
+He added the blue.
+
+[00:19:15] SPEAKER_05
+Yeah.
+
+[00:19:15] SPEAKER_05
+No, I was very excited about it.
+
+[00:19:17] SPEAKER_05
+I thought you meant, like, why are M&M's called M&M's?
+
+[00:19:21] SPEAKER_05
+I did, too.
+
+[00:19:21] SPEAKER_05
+Yeah.
+
+[00:19:21] SPEAKER_07
+Oh, sorry.
+
+[00:19:22] SPEAKER_07
+Did I phrase it wrong?
+
+[00:19:23] SPEAKER_07
+I might have.
+
+[00:19:23] SPEAKER_05
+No, it's just I interpreted it like the candy rapper, not the musician M&M.
+
+[00:19:27] SPEAKER_07
+When you see, like, first, second, and third written, where it's like 1, ST, 2, ND, 3, RD,
+
+[00:19:37] SPEAKER_07
+what are the significance of the letters?
+
+[00:19:41] SPEAKER_05
+It's the last two letters of the word?
+
+[00:19:46] SPEAKER_07
+Yeah, that's true.
+
+[00:19:46] SPEAKER_07
+That was like a common, oh, I didn't know that.
+
+[00:19:48] SPEAKER_05
+Yeah, I didn't think about that.
+
+[00:19:49] SPEAKER_05
+I didn't know that.
+
+[00:19:51] SPEAKER_05
+Can I tell you one that gets me with numbers all the time?
+
+[00:19:54] SPEAKER_05
+This is really stupid.
+
+[00:19:55] SPEAKER_05
+When you're on an elevator, the button below it in my head is always the floor that's below
+
+[00:19:59] SPEAKER_05
+it.
+
+[00:20:00] SPEAKER_05
+So if it's 22 and the button below 22 is 20 in my head, that is what that's what how the
+
+[00:20:05] SPEAKER_05
+building is laid out.
+
+[00:20:06] SPEAKER_07
+So you can have 21.
+
+[00:20:12] SPEAKER_05
+Yeah.
+
+[00:20:12] SPEAKER_07
+Like elsewhere.
+
+[00:20:13] SPEAKER_05
+Yeah.
+
+[00:20:13] SPEAKER_05
+Well, OK, so here I don't remember exactly how the panel was.
+
+[00:20:16] SPEAKER_05
+It really fucked me up.
+
+[00:20:17] SPEAKER_05
+And Luigi's Mansion 3 because they said they said go to the floor below the floor.
+
+[00:20:23] SPEAKER_05
+The ghost is on the floor below the one you're on.
+
+[00:20:26] SPEAKER_05
+And the button was for a completely different number.
+
+[00:20:29] SPEAKER_05
+It was like two floors down or three floors.
+
+[00:20:31] SPEAKER_05
+But I just clicked the next button down.
+
+[00:20:34] SPEAKER_05
+The button, the floor screws me up.
+
+[00:20:36] SPEAKER_05
+That's weird.
+
+[00:20:37] SPEAKER_05
+I think the button that's not on my list.
+
+[00:20:39] SPEAKER_05
+The button below the floor you're on should always be for the next floor down.
+
+[00:20:45] SPEAKER_05
+It's just my policy.
+
+[00:20:46] SPEAKER_05
+I don't care how large that panel is.
+
+[00:20:48] SPEAKER_05
+It just makes sense.
+
+[00:20:51] SPEAKER_07
+All right.
+
+[00:20:51] SPEAKER_07
+Why is it called a donut?
+
+[00:20:52] SPEAKER_05
+Uh, donut, donut, donut.
+
+[00:20:57] SPEAKER_05
+Am I focusing on the nut here?
+
+[00:20:59] SPEAKER_05
+Do I focus on the dough?
+
+[00:21:00] SPEAKER_05
+What is it?
+
+[00:21:01] SPEAKER_05
+A dough is a deer.
+
+[00:21:03] SPEAKER_05
+I don't think that has to do with donut.
+
+[00:21:04] SPEAKER_05
+Donut.
+
+[00:21:05] SPEAKER_05
+Do not donut.
+
+[00:21:10] SPEAKER_05
+Donut.
+
+[00:21:12] SPEAKER_05
+I don't know.
+
+[00:21:12] SPEAKER_05
+I don't know this one.
+
+[00:21:13] SPEAKER_05
+I can't figure this out.
+
+[00:21:15] SPEAKER_05
+Oh, yeah.
+
+[00:21:15] SPEAKER_05
+What is it?
+
+[00:21:16] SPEAKER_07
+Uh, so like a nut from Nuts and Bolts.
+
+[00:21:20] SPEAKER_05
+That's stupid.
+
+[00:21:21] SPEAKER_07
+It's a dough one.
+
+[00:21:22] SPEAKER_05
+That's stupid.
+
+[00:21:24] SPEAKER_05
+That's a dumb one.
+
+[00:21:25] SPEAKER_07
+All right.
+
+[00:21:25] SPEAKER_07
+Why is it called a club sandwich?
+
+[00:21:27] SPEAKER_05
+It was made in a club.
+
+[00:21:28] SPEAKER_05
+It was part of a club?
+
+[00:21:29] SPEAKER_05
+Was it a club secret?
+
+[00:21:31] SPEAKER_05
+Club sandwich?
+
+[00:21:32] SPEAKER_05
+What is in a club sandwich?
+
+[00:21:33] SPEAKER_06
+Turkey.
+
+[00:21:34] SPEAKER_05
+That's true.
+
+[00:21:34] SPEAKER_05
+There's variants, isn't there?
+
+[00:21:35] SPEAKER_05
+There's like a turkey club.
+
+[00:21:36] SPEAKER_05
+Tomato.
+
+[00:21:37] SPEAKER_05
+A meatball sub.
+
+[00:21:38] SPEAKER_05
+A club.
+
+[00:21:38] SPEAKER_05
+Is there a meatball club?
+
+[00:21:39] SPEAKER_05
+Meatball sub club?
+
+[00:21:42] SPEAKER_05
+I'm just trying to figure this out.
+
+[00:21:43] SPEAKER_05
+There's a fucking subway here, dude.
+
+[00:21:44] SPEAKER_05
+Yeah.
+
+[00:21:45] SPEAKER_05
+No, I don't know.
+
+[00:21:46] SPEAKER_05
+Why is the club sandwich called the club sandwich?
+
+[00:21:48] SPEAKER_07
+Uh, it's an acronym apparently for chicken and lettuce under bacon.
+
+[00:21:52] SPEAKER_05
+Well, I feel like I was greatly misguided by Jeff's suggestion of turkey.
+
+[00:21:56] SPEAKER_05
+Club sandwich?
+
+[00:21:57] SPEAKER_05
+Does that?
+
+[00:21:57] SPEAKER_05
+Really?
+
+[00:21:58] SPEAKER_05
+That's interesting.
+
+[00:21:59] SPEAKER_05
+That was, that's just.
+
+[00:22:00] SPEAKER_07
+Is that right?
+
+[00:22:01] SPEAKER_05
+Is that right?
+
+[00:22:02] SPEAKER_05
+What do you mean is that right?
+
+[00:22:04] SPEAKER_05
+You're the guy conducting this.
+
+[00:22:05] SPEAKER_07
+Yeah, that's what Google says is right.
+
+[00:22:07] SPEAKER_07
+Okay.
+
+[00:22:07] SPEAKER_07
+All right.
+
+[00:22:08] SPEAKER_07
+What is, what's 24-7?
+
+[00:22:10] SPEAKER_05
+24-7.
+
+[00:22:11] SPEAKER_07
+Like if it's.
+
+[00:22:12] SPEAKER_05
+24-7.
+
+[00:22:13] SPEAKER_05
+Okay.
+
+[00:22:13] SPEAKER_05
+Seven days a week, right?
+
+[00:22:15] SPEAKER_05
+I got the seven day.
+
+[00:22:16] SPEAKER_05
+What's 24?
+
+[00:22:17] SPEAKER_05
+24, 24 hours in a day, 24 hours a day, seven days a week.
+
+[00:22:21] SPEAKER_05
+Fucking got it.
+
+[00:22:22] SPEAKER_07
+Yeah.
+
+[00:22:22] SPEAKER_07
+Apparently a lot of people didn't know that if you're open 24-7, it just means you're
+
+[00:22:25] SPEAKER_07
+open all the time.
+
+[00:22:26] SPEAKER_05
+Yeah.
+
+[00:22:26] SPEAKER_05
+I got to say, if anything, this is making me look great at riddles.
+
+[00:22:29] SPEAKER_05
+I'm figuring these out on the fly.
+
+[00:22:31] SPEAKER_05
+I haven't put thought into these.
+
+[00:22:32] SPEAKER_05
+I'm deciphering these left and right.
+
+[00:22:34] SPEAKER_05
+I feel pretty confident.
+
+[00:22:35] SPEAKER_07
+What does sitcom mean?
+
+[00:22:37] SPEAKER_05
+Oh, fuck.
+
+[00:22:38] SPEAKER_05
+Sitcom.
+
+[00:22:39] SPEAKER_05
+It's, uh, you, uh, is the calm comedy and the sit literally sit because people would
+
+[00:22:45] SPEAKER_05
+sit and watch.
+
+[00:22:47] SPEAKER_05
+People used to watch.
+
+[00:22:49] SPEAKER_06
+Jesus Christ.
+
+[00:22:50] SPEAKER_06
+Think about it.
+
+[00:22:51] SPEAKER_05
+Sitcoms.
+
+[00:22:51] SPEAKER_05
+Because you would sit.
+
+[00:22:53] SPEAKER_05
+Sitcoms used to be filmed live.
+
+[00:22:55] SPEAKER_05
+So they'd have people come and they'd sit and they'd watch the comedy.
+
+[00:22:58] SPEAKER_06
+You're taking this way too literally.
+
+[00:23:00] SPEAKER_05
+Um, sit-com.
+
+[00:23:02] SPEAKER_05
+It's a sit-down comedy.
+
+[00:23:04] SPEAKER_05
+It's a sit-down comedy.
+
+[00:23:05] SPEAKER_05
+It's an abbreviation of both.
+
+[00:23:07] SPEAKER_05
+Sit-com.
+
+[00:23:08] SPEAKER_05
+I, uh, I'm thinking of like all the sitcoms.
+
+[00:23:12] SPEAKER_05
+Sit-com.
+
+[00:23:13] SPEAKER_05
+I, I, I don't know.
+
+[00:23:15] SPEAKER_05
+I don't know this one.
+
+[00:23:16] SPEAKER_05
+I don't feel like most people know this one.
+
+[00:23:17] SPEAKER_07
+How one is this?
+
+[00:23:19] SPEAKER_07
+Situational comedy.
+
+[00:23:20] SPEAKER_07
+I think most people know that.
+
+[00:23:21] SPEAKER_05
+No, I don't think, I don't think anyone refers to it as a situational comedy.
+
+[00:23:24] SPEAKER_05
+What does that even mean?
+
+[00:23:26] SPEAKER_06
+It means that the comedy is, the show is about a funny situation in these people's lives.
+
+[00:23:32] SPEAKER_06
+Like a funny set-up scenario.
+
+[00:23:34] SPEAKER_05
+Technically, isn't every moment a situation?
+
+[00:23:37] SPEAKER_05
+Isn't every moment?
+
+[00:23:37] SPEAKER_06
+You're 100% correct.
+
+[00:23:39] SPEAKER_06
+You've just, you've just cracked the code.
+
+[00:23:41] SPEAKER_05
+That's the, like, that seems like a weird qualifier.
+
+[00:23:44] SPEAKER_05
+I mean, technically everything's a situation.
+
+[00:23:45] SPEAKER_07
+What, what is a pony?
+
+[00:23:47] SPEAKER_05
+It's a, it's a horse of some kind.
+
+[00:23:49] SPEAKER_05
+It's a horse, I believe.
+
+[00:23:51] SPEAKER_05
+Uh.
+
+[00:23:52] SPEAKER_07
+Yeah, I think the misconception on that one is a lot of people think it's a baby horse.
+
+[00:23:54] SPEAKER_07
+But it's actually just a different type entirely.
+
+[00:23:57] SPEAKER_05
+Yeah, I didn't know that.
+
+[00:23:58] SPEAKER_05
+Also, don't really care about that one.
+
+[00:24:00] SPEAKER_05
+I just don't think that's all I'm interested in.
+
+[00:24:02] SPEAKER_05
+That's fair.
+
+[00:24:03] SPEAKER_07
+Why did Apple call their computer the Macintosh?
+
+[00:24:06] SPEAKER_05
+Because it's the name of an apple.
+
+[00:24:08] SPEAKER_05
+I don't fuck around with apples.
+
+[00:24:10] SPEAKER_05
+I love apples.
+
+[00:24:11] SPEAKER_05
+You're right on that one.
+
+[00:24:11] SPEAKER_05
+Yeah, of course I am.
+
+[00:24:13] SPEAKER_05
+Apple pie, best pastry.
+
+[00:24:15] SPEAKER_05
+Best dessert, I'll die on that hill.
+
+[00:24:17] SPEAKER_07
+Mmm.
+
+[00:24:18] SPEAKER_05
+Mmm.
+
+[00:24:18] SPEAKER_05
+I think it's the best pie.
+
+[00:24:19] SPEAKER_05
+I know it's the cliched answer.
+
+[00:24:21] SPEAKER_05
+Love the apple pie.
+
+[00:24:23] SPEAKER_05
+It's a staple.
+
+[00:24:24] SPEAKER_07
+Alright, I'll do one more.
+
+[00:24:25] SPEAKER_07
+Okay.
+
+[00:24:26] SPEAKER_07
+Uh, what's a camcorder?
+
+[00:24:28] SPEAKER_05
+Camcorder?
+
+[00:24:29] SPEAKER_05
+It's a camera recorder.
+
+[00:24:30] SPEAKER_05
+Yes.
+
+[00:24:31] SPEAKER_05
+Yeah?
+
+[00:24:31] SPEAKER_05
+Yeah, I'm fucking good.
+
+[00:24:32] SPEAKER_07
+You did pretty well on those.
+
+[00:24:32] SPEAKER_07
+I'm so good at riddles.
+
+[00:24:33] SPEAKER_05
+Not bad.
+
+[00:24:35] SPEAKER_07
+Those are apparently just a list of things that are, to most people, very obvious, but
+
+[00:24:39] SPEAKER_07
+a lot of people just, it passes them by.
+
+[00:24:41] SPEAKER_07
+I think that's what that list is.
+
+[00:24:42] SPEAKER_05
+My issue isn't that I can't figure these things out.
+
+[00:24:45] SPEAKER_05
+It's that I put no thought into these things.
+
+[00:24:47] SPEAKER_05
+That's my problem most of the time.
+
+[00:24:49] SPEAKER_05
+Like, I didn't know any of those going into them.
+
+[00:24:51] SPEAKER_05
+At least I didn't think I did, much like the burger thing.
+
+[00:24:53] SPEAKER_05
+You didn't know any of those?
+
+[00:24:54] SPEAKER_05
+No, not really.
+
+[00:24:55] SPEAKER_05
+No, 24-7 I think I knew, but outside of that, I was figuring it out as we went, because it
+
+[00:25:00] SPEAKER_05
+just was logical.
+
+[00:25:01] SPEAKER_05
+I put a little thought into it.
+
+[00:25:02] SPEAKER_07
+What about Y2K?
+
+[00:25:04] SPEAKER_05
+Y2K?
+
+[00:25:05] SPEAKER_05
+Oh boy, I should know this.
+
+[00:25:07] SPEAKER_05
+Y2K.
+
+[00:25:07] SPEAKER_05
+Oh, come on.
+
+[00:25:08] SPEAKER_05
+Y2K.
+
+[00:25:09] SPEAKER_05
+Oh, come on.
+
+[00:25:12] SPEAKER_05
+Y2K.
+
+[00:25:13] SPEAKER_05
+That's a confusing one, because I know what it was for.
+
+[00:25:15] SPEAKER_05
+No, it's not.
+
+[00:25:17] SPEAKER_07
+What's the context around?
+
+[00:25:18] SPEAKER_07
+Where have you heard that?
+
+[00:25:19] SPEAKER_05
+It's the year 2000, all the computers were going to die.
+
+[00:25:22] SPEAKER_05
+I've watched a Leonard Nimoy safety special on how to prepare for Y2K.
+
+[00:25:27] SPEAKER_05
+I don't know if they went into...
+
+[00:25:31] SPEAKER_05
+What does it stand for?
+
+[00:25:33] SPEAKER_05
+Are you okay, Jeff?
+
+[00:25:35] SPEAKER_05
+Why don't you take another photo of your left sock while I figure this out?
+
+[00:25:39] SPEAKER_04
+Oh, thank you, Marty!
+
+[00:25:41] SPEAKER_05
+Y2K.
+
+[00:25:43] SPEAKER_05
+Y.
+
+[00:25:44] SPEAKER_05
+Is it Y?
+
+[00:25:45] SPEAKER_05
+Is the Y literally the Y?
+
+[00:25:47] SPEAKER_05
+No, it's spelled as a Y, but that just feels lazy.
+
+[00:25:51] SPEAKER_05
+Y2K is like a distance, I would feel like, if I was going on a walk.
+
+[00:25:56] SPEAKER_07
+Y2K is a distance?
+
+[00:25:57] SPEAKER_07
+Yeah.
+
+[00:25:57] SPEAKER_07
+Yeah, why is it...
+
+[00:25:59] SPEAKER_07
+What's the equivalent?
+
+[00:25:59] SPEAKER_07
+Okay, in a distance, what's Y2K?
+
+[00:26:02] SPEAKER_05
+I don't understand that question.
+
+[00:26:04] SPEAKER_07
+Like, why...
+
+[00:26:05] SPEAKER_07
+In terms of distance, how does Y2K make sense in distance?
+
+[00:26:09] SPEAKER_05
+Oh, it's a measurement.
+
+[00:26:10] SPEAKER_05
+Y2K is a measurement.
+
+[00:26:11] SPEAKER_05
+What?
+
+[00:26:12] SPEAKER_05
+Kilometers.
+
+[00:26:13] SPEAKER_05
+Two kilometers.
+
+[00:26:14] SPEAKER_05
+Expand on it.
+
+[00:26:15] SPEAKER_05
+I don't know what that means.
+
+[00:26:20] SPEAKER_05
+What do you mean?
+
+[00:26:20] SPEAKER_07
+You have all the ingredients!
+
+[00:26:21] SPEAKER_07
+Make the cake, Andrew!
+
+[00:26:23] SPEAKER_05
+You said the fucking answer!
+
+[00:26:25] SPEAKER_05
+What does that mean?
+
+[00:26:26] SPEAKER_05
+Y2 kilometers?
+
+[00:26:28] SPEAKER_05
+That can't be right.
+
+[00:26:30] SPEAKER_05
+It's about computers.
+
+[00:26:31] SPEAKER_05
+Is it not about computers?
+
+[00:26:34] SPEAKER_05
+You don't know the spell with a K, you genius!
+
+[00:26:36] SPEAKER_05
+No, it's not.
+
+[00:26:37] SPEAKER_05
+What do you mean?
+
+[00:26:38] SPEAKER_05
+Oh.
+
+[00:26:40] SPEAKER_05
+Oh.
+
+[00:26:41] SPEAKER_05
+Well, no, but the thing is, no, like, I know computers are spelled with a K.
+
+[00:26:43] SPEAKER_05
+That's obvious.
+
+[00:26:45] SPEAKER_05
+That's very good at spelling.
+
+[00:26:46] SPEAKER_05
+I don't know.
+
+[00:26:47] SPEAKER_05
+Why is a Y2K Y2K?
+
+[00:26:51] SPEAKER_05
+Explain it to me, and then I'll realize.
+
+[00:26:53] SPEAKER_07
+So, the kilo, the kilo in a, well, any measurement, kilometers, kilograms, what does the kilobit mean?
+
+[00:27:00] SPEAKER_05
+Oh, it's the computer thing.
+
+[00:27:03] SPEAKER_05
+It's the computer thing, right?
+
+[00:27:04] SPEAKER_05
+What?
+
+[00:27:04] SPEAKER_05
+The kilobit.
+
+[00:27:06] SPEAKER_05
+Kilobit?
+
+[00:27:06] SPEAKER_05
+What?
+
+[00:27:07] SPEAKER_05
+It's like the megabit.
+
+[00:27:08] SPEAKER_05
+It's like the gigabit.
+
+[00:27:09] SPEAKER_07
+You're talking about kilobytes?
+
+[00:27:10] SPEAKER_07
+Yeah.
+
+[00:27:10] SPEAKER_05
+Just tell them, man.
+
+[00:27:11] SPEAKER_05
+Yeah.
+
+[00:27:12] SPEAKER_06
+Oh.
+
+[00:27:13] SPEAKER_06
+Yeah, like.
+
+[00:27:14] SPEAKER_06
+It just means thousand.
+
+[00:27:15] SPEAKER_06
+K just means thousand.
+
+[00:27:16] SPEAKER_06
+Oh.
+
+[00:27:17] SPEAKER_06
+Y, year, two, two, K, thousand.
+
+[00:27:20] SPEAKER_06
+You said it.
+
+[00:27:21] SPEAKER_06
+You go, what does Y2K mean?
+
+[00:27:22] SPEAKER_06
+Oh, the Y is year.
+
+[00:27:25] SPEAKER_07
+Yeah, like, if I give you 5K, you'd get $5,000.
+
+[00:27:29] SPEAKER_05
+Surely that is a lot more effort than just saying 2,000.
+
+[00:27:32] SPEAKER_05
+That is a lot of unnecessary code and an extra letter.
+
+[00:27:36] SPEAKER_05
+Just say 2,000.
+
+[00:27:38] SPEAKER_05
+Why are we saying Y2K?
+
+[00:27:40] SPEAKER_05
+Why do we need a fancy abbreviation?
+
+[00:27:41] SPEAKER_05
+You know what I did on Y2K?
+
+[00:27:43] SPEAKER_05
+I remember this specifically.
+
+[00:27:45] SPEAKER_05
+Great, great New Year's Eve.
+
+[00:27:47] SPEAKER_05
+Wasn't worried about the world ending at all.
+
+[00:27:49] SPEAKER_05
+I rented the Triple X movie with Vin Diesel.
+
+[00:27:52] SPEAKER_05
+I was very excited about having me some Cherry Coke.
+
+[00:27:55] SPEAKER_05
+There was a huge misguided.
+
+[00:27:56] SPEAKER_05
+So I was so excited for the Triple X Vin Diesel action movie as a kid.
+
+[00:28:01] SPEAKER_05
+And I'd drive with my dad.
+
+[00:28:03] SPEAKER_05
+And when we'd, like, leave town, there was a porno theater on, like, the outskirts of town.
+
+[00:28:08] SPEAKER_05
+And they had this sign that said, Triple X every Tuesday, 50 cents.
+
+[00:28:12] SPEAKER_05
+And I thought that that was the Vin Diesel movie.
+
+[00:28:15] SPEAKER_05
+So every time we'd drive by, I'd excitedly be like, we got to, one of these Tuesdays, we got to go.
+
+[00:28:21] SPEAKER_05
+It's 50 cents.
+
+[00:28:22] SPEAKER_05
+I don't know how money works.
+
+[00:28:23] SPEAKER_05
+I'm a kid.
+
+[00:28:24] SPEAKER_05
+But that seems like a hell of a deal.
+
+[00:28:26] SPEAKER_05
+And it doesn't come out for, like, eight months.
+
+[00:28:28] SPEAKER_05
+So I don't know how they got it.
+
+[00:28:29] SPEAKER_05
+And they're screening it every Tuesday.
+
+[00:28:32] SPEAKER_05
+So it has to be awesome.
+
+[00:28:34] SPEAKER_05
+There's no way you screen a bad movie every Tuesday.
+
+[00:28:37] SPEAKER_05
+We got to go.
+
+[00:28:37] SPEAKER_05
+And that was just months of my life.
+
+[00:28:40] SPEAKER_05
+And then 2000 happened.
+
+[00:28:42] SPEAKER_05
+It was New Year's.
+
+[00:28:43] SPEAKER_05
+Got Cherry Coke.
+
+[00:28:44] SPEAKER_05
+Ran in the movie.
+
+[00:28:45] SPEAKER_05
+Very excited.
+
+[00:28:45] SPEAKER_05
+Enjoyed it.
+
+[00:28:46] SPEAKER_05
+Had a great time.
+
+[00:28:47] SPEAKER_05
+I love that movie.
+
+[00:28:48] SPEAKER_05
+That's such a dumb, great movie.
+
+[00:28:49] SPEAKER_05
+That's such a great Y2 computer story.
+
+[00:28:51] SPEAKER_05
+Yeah.
+
+[00:28:54] SPEAKER_07
+Oh, I think that was a quite a little fun game.
+
+[00:28:56] SPEAKER_07
+I enjoyed that.
+
+[00:28:57] SPEAKER_06
+That was a great game, Gavin.
+
+[00:28:58] SPEAKER_06
+Thanks for playing that.
+
+[00:29:00] SPEAKER_01
+There's no shortcut for saving time.
+
+[00:29:02] SPEAKER_01
+But saving money is simple.
+
+[00:29:04] SPEAKER_01
+Just combine your car and home insurance with Bel Air Direct and save.
+
+[00:29:07] SPEAKER_01
+Get a quote at belairdirect.com.
+
+[00:29:10] SPEAKER_02
+The 2026 Chevrolet Trax is the stylish SUV for those on the move.
+
+[00:29:17] SPEAKER_02
+And with the standard Chevy Safety Assist package, you have the backup to handle every turn with confidence.
+
+[00:29:22] SPEAKER_02
+The 2026 Trax.
+
+[00:29:24] SPEAKER_02
+Start your build at Chevrolet.ca.
+
+[00:29:27] SPEAKER_00
+Gregus believes in the art of living, in choosing the pleasurable over the practical.
+
+[00:29:33] SPEAKER_00
+It's why we craft our premium vodka in France using pure spring water from Genzac.
+
+[00:29:39] SPEAKER_00
+And why you hear the celebratory bump of our cork reminding us to make every martini cocktail count.
+
+[00:29:46] SPEAKER_00
+So go on and make every moment count because there's no better time than now.
+
+[00:29:53] SPEAKER_00
+Gregus, make time wait.
+
+[00:29:56] SPEAKER_00
+Sip responsibly.
+
+[00:29:57] SPEAKER_05
+You know what?
+
+[00:29:58] SPEAKER_05
+I actually have something, too, that I want to bring up.
+
+[00:30:01] SPEAKER_05
+Okay.
+
+[00:30:02] SPEAKER_05
+A little something new.
+
+[00:30:04] SPEAKER_05
+I'm very excited about this.
+
+[00:30:06] SPEAKER_05
+I hope you guys don't mind me doing this.
+
+[00:30:08] SPEAKER_05
+But I thought it would be a lot of fun to go on a visual journey this episode, is what I think.
+
+[00:30:15] SPEAKER_05
+I think a nice little visual journey.
+
+[00:30:16] SPEAKER_05
+Maybe we can see we've been talking about funny baseball cards and maybe collecting obscure cards.
+
+[00:30:22] SPEAKER_05
+So I thought I could maybe guide us through some cards I found.
+
+[00:30:27] SPEAKER_05
+And I just think I'd love to hear your opinion on them.
+
+[00:30:29] SPEAKER_05
+So let's open with this one.
+
+[00:30:31] SPEAKER_05
+Okay, okay, okay, okay.
+
+[00:30:32] SPEAKER_05
+Hold on.
+
+[00:30:32] SPEAKER_05
+I get the bit that you're doing here.
+
+[00:30:34] SPEAKER_05
+No, I'm not doing any bit at all.
+
+[00:30:35] SPEAKER_05
+I just want to start with, like, this is a great baseball card that I found.
+
+[00:30:39] SPEAKER_05
+And I'd like to take you on a visual journey.
+
+[00:30:41] SPEAKER_06
+You see, what you're doing is funny, but you don't have the context.
+
+[00:30:45] SPEAKER_06
+I had a whole tapestry woven around this fucking visual game and you're ruining it.
+
+[00:30:50] SPEAKER_05
+I know, this is a great, I'm having a great time on this visual journey that we're on.
+
+[00:30:55] SPEAKER_05
+What do you think of that card?
+
+[00:30:57] SPEAKER_05
+Bobby, Bobby Gritch?
+
+[00:30:58] SPEAKER_05
+Gritch?
+
+[00:31:00] SPEAKER_05
+Second baseman.
+
+[00:31:02] SPEAKER_05
+How do we feel about it?
+
+[00:31:03] SPEAKER_05
+I wrote shit for this.
+
+[00:31:05] SPEAKER_05
+How do we feel?
+
+[00:31:06] SPEAKER_06
+God damn it.
+
+[00:31:07] SPEAKER_06
+I've been working on this for three hours today.
+
+[00:31:11] SPEAKER_05
+I can tell you guys, I'm going to fucking...
+
+[00:31:14] SPEAKER_05
+Okay, well, Jeff's mad.
+
+[00:31:15] SPEAKER_05
+I just don't think he likes the card.
+
+[00:31:17] SPEAKER_05
+Let's talk about Jeff Reed.
+
+[00:31:18] SPEAKER_05
+How do we feel about Jeff Reed?
+
+[00:31:21] SPEAKER_05
+He looks very upset.
+
+[00:31:23] SPEAKER_05
+Stomach issue?
+
+[00:31:24] SPEAKER_05
+I don't know.
+
+[00:31:25] SPEAKER_05
+Why take that?
+
+[00:31:25] SPEAKER_07
+So earlier on today, I got alert after alert on my phone from Discord of Jeff posting baseball
+
+[00:31:33] SPEAKER_07
+card after baseball card in this Discord.
+
+[00:31:36] SPEAKER_07
+And then slowly, one by one, they started disappearing.
+
+[00:31:39] SPEAKER_07
+And then Jeff texts us saying, I've got a bit clapped for f*** face this week.
+
+[00:31:44] SPEAKER_05
+No, no, no.
+
+[00:31:45] SPEAKER_05
+I wonder what it is.
+
+[00:31:46] SPEAKER_05
+You're lacking some context.
+
+[00:31:48] SPEAKER_05
+This wasn't today.
+
+[00:31:49] SPEAKER_05
+Jeff has been posting baseball photos since, like, the weekend.
+
+[00:31:52] SPEAKER_05
+It has been days of baseball photos.
+
+[00:31:56] SPEAKER_05
+So I looked at the Discord channel today, and Jeff deleted them all, and there's a conversation
+
+[00:32:01] SPEAKER_05
+with the person who's like, why are you deleting them?
+
+[00:32:03] SPEAKER_05
+And he said, don't worry.
+
+[00:32:04] SPEAKER_05
+They'll be back.
+
+[00:32:05] SPEAKER_05
+And then he texted Gavin and I, I have a new idea for us this week.
+
+[00:32:09] SPEAKER_05
+We're going on a visual journey.
+
+[00:32:11] SPEAKER_05
+We have seen all the photos.
+
+[00:32:12] SPEAKER_05
+You've posted them in my head.
+
+[00:32:14] SPEAKER_05
+You haven't seen them all!
+
+[00:32:16] SPEAKER_07
+I don't think Jeff necessarily knows how to transfer stuff from his phone to his computer, so he
+
+[00:32:21] SPEAKER_07
+uses it, he uses the public Discord as a way to do it.
+
+[00:32:24] SPEAKER_07
+And we've seen everything.
+
+[00:32:25] SPEAKER_06
+That was the big mystery, is why are you doing this?
+
+[00:32:27] SPEAKER_06
+You're wrong.
+
+[00:32:28] SPEAKER_06
+You're wrong.
+
+[00:32:28] SPEAKER_06
+You're so stupid.
+
+[00:32:30] SPEAKER_06
+You're also stupid.
+
+[00:32:31] SPEAKER_06
+Here's how it happened.
+
+[00:32:32] SPEAKER_06
+Okay?
+
+[00:32:33] SPEAKER_06
+Okay.
+
+[00:32:33] SPEAKER_07
+All right.
+
+[00:32:34] SPEAKER_06
+Dumb little idiots.
+
+[00:32:36] SPEAKER_06
+Here's how it happened.
+
+[00:32:38] SPEAKER_06
+I, we did the podcast last week.
+
+[00:32:42] SPEAKER_06
+Two weeks ago in our podcast, we talked about the idea of doing an everything is terrible
+
+[00:32:47] SPEAKER_06
+Jerry Maguire type deal, where we created like a social experiment, and we take something
+
+[00:32:52] SPEAKER_06
+that has inherently no value, and we create value, not necessarily monetary, but it could
+
+[00:32:58] SPEAKER_06
+just be via desire of wanting to be a part of something.
+
+[00:33:01] SPEAKER_06
+And we decided that it would be funny to find the most boring, mundane, least valuable sports
+
+[00:33:09] SPEAKER_06
+card in the world, and try to buy all of them, or try to have the audience send them, and
+
+[00:33:13] SPEAKER_06
+we all try to collectively collect them, and until we own every single baseball card of
+
+[00:33:19] SPEAKER_06
+this particular person, whoever it is, right?
+
+[00:33:24] SPEAKER_06
+So, we then promptly forgot to talk about it last week when we recorded, and then Andrew
+
+[00:33:30] SPEAKER_06
+reminded me, we never talked about the baseball card thing, and I went, oh shit, you're right,
+
+[00:33:33] SPEAKER_06
+we didn't.
+
+[00:33:34] SPEAKER_06
+And then I thought, I should throw some up in the Discord for us to talk about, throw
+
+[00:33:38] SPEAKER_06
+a couple of examples up, because I doubt Andrew and Gavin are going to put any effort into
+
+[00:33:42] SPEAKER_06
+it.
+
+[00:33:42] SPEAKER_06
+So, I'll throw some fucking baseball cards up, and then we can pick one from some of the
+
+[00:33:45] SPEAKER_06
+ones that I find, right?
+
+[00:33:46] SPEAKER_06
+So, I started throwing them up, and then today, when I sat down, and I started thinking
+
+[00:33:50] SPEAKER_06
+about how I wanted to present it, I thought it would be funnier if I just showed them
+
+[00:33:55] SPEAKER_06
+to you one at a time, instead of a long list, and I had been putting them up there, Andrew's
+
+[00:33:59] SPEAKER_06
+right, for days, just because I'm a holder.
+
+[00:34:01] SPEAKER_06
+I wasn't trying to keep them from you, I wasn't trying to hide them, I wasn't, I was totally
+
+[00:34:05] SPEAKER_06
+fine with everybody seeing them.
+
+[00:34:06] SPEAKER_06
+Nobody was accusing you of that.
+
+[00:34:08] SPEAKER_05
+You posted them in the public Discord, why would we think you're hiding them?
+
+[00:34:11] SPEAKER_06
+Yeah, I don't know, so I wasn't like, but I was just throwing them up there, just so I
+
+[00:34:14] SPEAKER_06
+would, like bookmarking them, so I'd remember to go back to them, if they're in the Discord,
+
+[00:34:18] SPEAKER_06
+and I see it when we log in, I can't forget to talk about it, like we did this last
+
+[00:34:21] SPEAKER_06
+podcast, right, so I was just putting them up there to remind us to talk about it, and
+
+[00:34:26] SPEAKER_06
+then today I thought, oh, I could have a little fun with this, do it in a, present it in a
+
+[00:34:30] SPEAKER_06
+manner, so I'll take them down, so they're not all up at once, and then we can talk about
+
+[00:34:34] SPEAKER_06
+them as I post them, and then Andrew, who is a terrible human being, did his thing.
+
+[00:34:39] SPEAKER_07
+Yeah, and so Andrew saved them, and is now just posting them himself, as his own bit.
+
+[00:34:45] SPEAKER_05
+No, this was my visual journey for you two, I was very excited to share it, and then
+
+[00:34:49] SPEAKER_05
+Jeff had to be very aggressive about it, and I guess it's his thing, so you can
+
+[00:34:51] SPEAKER_05
+go ahead, you fucking bitch, do what you want with it.
+
+[00:34:54] SPEAKER_06
+Okay, here's the first one, 1986 Donruss, Bobby Gritch, here's why I like this card,
+
+[00:35:01] SPEAKER_06
+if, oh, by the way, if you're listening to this podcast, this is obviously the visual
+
+[00:35:04] SPEAKER_06
+part, I'm posting all of this, or I'm gonna have all, I don't post on the Instagram, but
+
+[00:35:07] SPEAKER_06
+I'll have all this posted on the Instagram, and so you can follow along, if you're driving
+
+[00:35:11] SPEAKER_06
+right now, or you're at work, doing open heart surgery, and your hands aren't free, or
+
+[00:35:16] SPEAKER_06
+whatever, then Alex will explain it as we go, but I highly recommend you play along on
+
+[00:35:22] SPEAKER_06
+Instagram, face pod is our Instagram handle.
+
+[00:35:24] SPEAKER_07
+I'm trying to guess why you like this picture so much.
+
+[00:35:27] SPEAKER_06
+The first one, 1996 Bobby Gritch, here's why I like it, Bobby is A, a baseball player
+
+[00:35:32] SPEAKER_06
+I've never heard of, B, so he's a nobody, right?
+
+[00:35:35] SPEAKER_06
+I mean, no offense, he's probably somebody to somebody, but to us, he's effectively no
+
+[00:35:38] SPEAKER_06
+one, this card, it's horizontal blue lines, it's on the piss, it's skewed, it's very, very
+
+[00:35:45] SPEAKER_06
+80s, very dated, right?
+
+[00:35:47] SPEAKER_06
+That's what's nice about it.
+
+[00:35:48] SPEAKER_06
+It also fits into a window, when I was looking into it, Andrew said we should try to figure
+
+[00:35:53] SPEAKER_06
+out what is statistically the least valuable baseball card on earth, and collect that one.
+
+[00:36:00] SPEAKER_06
+So, I was thinking about that, and trying to figure out how to do it, and here's where
+
+[00:36:04] SPEAKER_06
+a lot of the research went in, that Eric was making fun of me for on the Discord earlier.
+
+[00:36:07] SPEAKER_06
+Uh, I've been reading about print runs, it became very clear, very quickly, that we have
+
+[00:36:13] SPEAKER_06
+to eliminate all other sports.
+
+[00:36:14] SPEAKER_06
+Baseball is the only one that prints in ridiculous numbers.
+
+[00:36:18] SPEAKER_06
+Now, they, now they don't, but from the 80s to the mid-90s was considered the junk wax
+
+[00:36:24] SPEAKER_06
+era, they were printing millions and millions of copies of every baseball player's card.
+
+[00:36:28] SPEAKER_06
+Now, they print like 75,000, maybe.
+
+[00:36:31] SPEAKER_06
+So, from like 86 to like 92, they would print sometimes three, or like this Bobby Gritch,
+
+[00:36:35] SPEAKER_06
+so there might be four million of that card out there.
+
+[00:36:38] SPEAKER_06
+So, I think it's got to be from this window, mid-80s to 90s, so it fits that.
+
+[00:36:41] SPEAKER_06
+Also, Bobby Gritch appears to be on second base, or on first, looking to go to second or third
+
+[00:36:46] SPEAKER_06
+to steal.
+
+[00:36:47] SPEAKER_06
+He's squatting, and it very clearly appears like he's shitting the entire state of California
+
+[00:36:52] SPEAKER_06
+out of his butthole, and it says angels on it.
+
+[00:36:55] SPEAKER_06
+Or, like he's got a really big back dong that's hanging low coming out of his butthole.
+
+[00:37:00] SPEAKER_06
+Like if his dick was misplaced, and it was about where a sphincter would be, and very
+
+[00:37:04] SPEAKER_06
+large, it's like hanging down.
+
+[00:37:05] SPEAKER_06
+It's a very unfortunate placement and shape.
+
+[00:37:07] SPEAKER_05
+I also feel his angle doesn't make sense.
+
+[00:37:10] SPEAKER_05
+I don't feel like he's facing the right way for that photo.
+
+[00:37:13] SPEAKER_06
+I think he's on, I think he's leading off on second, facing toward third base.
+
+[00:37:16] SPEAKER_05
+Okay, it's just a weird, maybe camera angle.
+
+[00:37:18] SPEAKER_05
+Yeah, I guess the camera would be.
+
+[00:37:19] SPEAKER_05
+Yeah.
+
+[00:37:20] SPEAKER_05
+Okay, I see.
+
+[00:37:21] SPEAKER_06
+So, I think that, so these are my candidates.
+
+[00:37:22] SPEAKER_06
+That's the first one.
+
+[00:37:23] SPEAKER_06
+The next one.
+
+[00:37:24] SPEAKER_04
+Sorry, sorry, before you go to the next one, I don't want to dissuade you.
+
+[00:37:27] SPEAKER_04
+I don't know how into what the player has done, if you care or not, but he's definitely,
+
+[00:37:33] SPEAKER_04
+Bobby Gritch was a hell of a player for the California Angels.
+
+[00:37:36] SPEAKER_04
+He was a silver slugger and a six-time all-star.
+
+[00:37:38] SPEAKER_04
+So, I don't know if that factors into we want a nobody, or if we want a silver slugger and
+
+[00:37:45] SPEAKER_04
+a six-time all-star.
+
+[00:37:46] SPEAKER_06
+Look, the best thing Bobby Gritch has going for him, aside from the giant angel California
+
+[00:37:50] SPEAKER_06
+dong coming out of his butthole, is the name Gritch is a terrible name.
+
+[00:37:54] SPEAKER_06
+That's another one.
+
+[00:37:55] SPEAKER_06
+I'd never heard of, Bobby Gritch is before my time.
+
+[00:37:58] SPEAKER_06
+I was a kid watching baseball in the 80s, and I never heard of him.
+
+[00:38:00] SPEAKER_06
+After that.
+
+[00:38:01] SPEAKER_06
+Not to diminish his tremendous abilities and obviously all of his accomplishments.
+
+[00:38:07] SPEAKER_06
+Say what you will about the man, he could take a California-shaped dump, that's for
+
+[00:38:10] SPEAKER_06
+sure.
+
+[00:38:11] SPEAKER_07
+I don't think Gritch is that bad.
+
+[00:38:12] SPEAKER_06
+No, I think Bobby Gritch.
+
+[00:38:14] SPEAKER_06
+Gritch, it's a funny bad name.
+
+[00:38:16] SPEAKER_07
+You can't spell Gritch without Rich.
+
+[00:38:18] SPEAKER_06
+Wow, that's a great point.
+
+[00:38:20] SPEAKER_06
+I think that disqualifies it immediately.
+
+[00:38:21] SPEAKER_06
+That's true, you can't spell Grinch without Gritch.
+
+[00:38:23] SPEAKER_06
+Next one, 92 score, as Andrew mentioned, Jeff Reed, catcher for the Cincinnati Reds.
+
+[00:38:31] SPEAKER_06
+For some reason, he's laying on the ground holding what appears to be his chest or his
+
+[00:38:36] SPEAKER_06
+heart as if he's just been struck by a car or a shotgun blast.
+
+[00:38:42] SPEAKER_05
+I was going to say, do we know he's alive?
+
+[00:38:45] SPEAKER_06
+That's just the first question before we continue.
+
+[00:38:47] SPEAKER_06
+He might be having a heart attack.
+
+[00:38:50] SPEAKER_06
+So I'm going to check on to see if this is the last photo taken.
+
+[00:38:53] SPEAKER_06
+Okay, he's alive.
+
+[00:38:54] SPEAKER_06
+This could be a death photo.
+
+[00:38:55] SPEAKER_06
+Okay, we're good.
+
+[00:38:56] SPEAKER_07
+It doesn't look like he's been shot and landed against a wall and he's about to slide down
+
+[00:39:00] SPEAKER_07
+it with a blood smear.
+
+[00:39:01] SPEAKER_06
+They made the weird decision to turn the card sideways so it looks like he's standing against
+
+[00:39:05] SPEAKER_06
+the wall, but he's really just laying down on the ground, clutching his chest or heart
+
+[00:39:09] SPEAKER_06
+in pain as his clogged arteries try to end his life, from what I can tell.
+
+[00:39:16] SPEAKER_06
+I really like this one a lot too, but it's kind of funny.
+
+[00:39:20] SPEAKER_06
+The problem with this one is I laugh every time I see it.
+
+[00:39:22] SPEAKER_06
+This one and the Bobby Gritch.
+
+[00:39:24] SPEAKER_06
+And I think that takes away from the mundane aspect of it.
+
+[00:39:27] SPEAKER_06
+So I got to thinking, like, what's less, like, even these guys are doing something
+
+[00:39:31] SPEAKER_06
+funny.
+
+[00:39:32] SPEAKER_06
+What's even, like, lamer than that?
+
+[00:39:36] SPEAKER_06
+And I got to thinking about managers.
+
+[00:39:40] SPEAKER_06
+Managers get baseball cards.
+
+[00:39:42] SPEAKER_06
+They're not athletes anymore.
+
+[00:39:44] SPEAKER_06
+And so I thought, I'll browse around the managers and see what I can come up with.
+
+[00:39:48] SPEAKER_06
+And then I found 1987 Topps Dave Johnson.
+
+[00:39:52] SPEAKER_06
+I highly encourage you to look up this photo if you can.
+
+[00:39:54] SPEAKER_06
+And what you're looking at here is maybe what I would consider to be the most iconic
+
+[00:39:58] SPEAKER_06
+baseball card of all time.
+
+[00:40:00] SPEAKER_06
+It's the 87 Tops with the wood grain.
+
+[00:40:02] SPEAKER_06
+I would imagine that most people, if you say the word baseball card to them, some form
+
+[00:40:07] SPEAKER_06
+of this card is the first thing they see.
+
+[00:40:09] SPEAKER_06
+It was when baseball cards hit their frenzy, right?
+
+[00:40:12] SPEAKER_06
+And what you have here is what appears to be a non-action shot.
+
+[00:40:16] SPEAKER_06
+Dave here, kind of looking off to the right.
+
+[00:40:19] SPEAKER_06
+With what appears to be a lot of dip in his mouth.
+
+[00:40:23] SPEAKER_06
+He's definitely dipping Skoll or Copenhagen.
+
+[00:40:26] SPEAKER_06
+And he's got a mustache and a, I'm pretty sure a pop belly.
+
+[00:40:30] SPEAKER_06
+And what he looks like, he gives the appearance of being like, let's say you live in North Carolina
+
+[00:40:35] SPEAKER_06
+and you hate your stepdad.
+
+[00:40:37] SPEAKER_06
+He's probably a dick who won't let you go out and hang out with your friends until you
+
+[00:40:40] SPEAKER_06
+do all of the, like, hours and hours of yard work.
+
+[00:40:43] SPEAKER_06
+And he just keeps, like, spitting in the grass and talking about your mom's ass.
+
+[00:40:47] SPEAKER_06
+And every time she walks by, he slaps her.
+
+[00:40:48] SPEAKER_06
+And you fucking hate him.
+
+[00:40:49] SPEAKER_06
+Um, that's this, that's a picture of this guy right here.
+
+[00:40:52] SPEAKER_06
+That's Dave Johnson in a heartbeat.
+
+[00:40:54] SPEAKER_06
+I'm sure he's a lovely man, but that's what he conveys in this photo.
+
+[00:40:57] SPEAKER_06
+And I love it for that.
+
+[00:40:59] SPEAKER_06
+I also love, they put this fucking black stroke around the word manager that is reminiscent
+
+[00:41:04] SPEAKER_06
+of, like, they were ahead of their time.
+
+[00:41:05] SPEAKER_06
+This is bad 90s Photoshop 10 years earlier, eight years earlier.
+
+[00:41:09] SPEAKER_06
+So for those reasons, I love it.
+
+[00:41:11] SPEAKER_06
+But I got to thinking, Dave Johnson, well, I'll keep going down, I'll keep going down
+
+[00:41:15] SPEAKER_06
+this manager rabbit hole and see what else I can find.
+
+[00:41:18] SPEAKER_06
+And then I found the legend, Don Zimmer.
+
+[00:41:23] SPEAKER_06
+What do you think about that?
+
+[00:41:25] SPEAKER_06
+Now, here we have a photo of Cubs manager Don Zimmer staring off into the sun.
+
+[00:41:30] SPEAKER_06
+His eyes are, he's wincing because it's super bright.
+
+[00:41:32] SPEAKER_06
+And he's very old.
+
+[00:41:34] SPEAKER_06
+And he looks like, uh, he looks like a sad, fat, old Popeye.
+
+[00:41:37] SPEAKER_06
+That's how I would describe it.
+
+[00:41:38] SPEAKER_07
+I can hear that guy.
+
+[00:41:39] SPEAKER_07
+Yeah.
+
+[00:41:40] SPEAKER_07
+I can hear exactly what he sounds like.
+
+[00:41:41] SPEAKER_05
+He looks like he was made in a lab to just manage baseball.
+
+[00:41:45] SPEAKER_05
+He is the perfect baseball look.
+
+[00:41:47] SPEAKER_06
+He's just got the, he's, he's, he's got like an old man baby face.
+
+[00:41:50] SPEAKER_06
+And it's really endearing.
+
+[00:41:51] SPEAKER_07
+I bet he looked like that when he was born.
+
+[00:41:54] SPEAKER_07
+He's definitely going to coach baseball.
+
+[00:41:56] SPEAKER_06
+It's funny you say that, Gavin.
+
+[00:41:58] SPEAKER_06
+I got to thinking what other, like, surely that's a bad photo of Don Zimmer, right?
+
+[00:42:02] SPEAKER_06
+Let me find another one.
+
+[00:42:03] SPEAKER_06
+Here's the next one.
+
+[00:42:04] SPEAKER_06
+I don't see a bad photo in the bunch.
+
+[00:42:08] SPEAKER_06
+He's got like a cheek full of something.
+
+[00:42:09] SPEAKER_06
+Yeah.
+
+[00:42:09] SPEAKER_06
+And I thought, I bet Don was a handsome man because he's got kind of a wry smile.
+
+[00:42:14] SPEAKER_06
+I bet he was a handsome man when he was younger.
+
+[00:42:16] SPEAKER_06
+I found his young baseball card.
+
+[00:42:17] SPEAKER_06
+Turns out he looked like a serial killer.
+
+[00:42:20] SPEAKER_07
+Oh.
+
+[00:42:21] SPEAKER_06
+Piercing, scary, very dangerous eyes.
+
+[00:42:24] SPEAKER_07
+He looks like if Phil Collins killed people.
+
+[00:42:25] SPEAKER_06
+He looks like if Phil Collins was the night, the night stalker.
+
+[00:42:29] SPEAKER_06
+Right?
+
+[00:42:30] SPEAKER_06
+Very unsettling.
+
+[00:42:31] SPEAKER_06
+And then, uh, that turned me off to the whole thing and I thought, I'm going to go back to
+
+[00:42:34] SPEAKER_06
+old, uh, Don Zimmer.
+
+[00:42:36] SPEAKER_06
+And then I found this photo.
+
+[00:42:38] SPEAKER_06
+Uh, this is not a baseball card photo, but I thought you guys would appreciate it.
+
+[00:42:41] SPEAKER_06
+And, uh, well, here you go.
+
+[00:42:43] SPEAKER_06
+That's a picture of Don Zimmer.
+
+[00:42:45] SPEAKER_06
+Can we make that a card?
+
+[00:42:46] SPEAKER_06
+Lounging, lounging in the dugout with his belly and his crotch hanging out for the world
+
+[00:42:53] SPEAKER_06
+to see in a very suggestive, sexy pose.
+
+[00:42:56] SPEAKER_05
+That's a power move.
+
+[00:42:56] SPEAKER_06
+That's a confident man.
+
+[00:42:58] SPEAKER_06
+Yeah.
+
+[00:42:58] SPEAKER_05
+That's a confident man.
+
+[00:42:59] SPEAKER_05
+He owns that dugout.
+
+[00:43:00] SPEAKER_06
+So that's, that's the end of my, uh, my terrible little visual journey that, uh, Andrew, uh,
+
+[00:43:06] SPEAKER_06
+tried to destroy.
+
+[00:43:07] SPEAKER_06
+Uh, but what we're left with, I think is probably, I think my personal preference would be one
+
+[00:43:12] SPEAKER_06
+of the manager cards, either Dave Johnson or one of the two Don Zimmers, but I went down
+
+[00:43:17] SPEAKER_07
+the Zimmer hall.
+
+[00:43:17] SPEAKER_07
+You went through the Zimmer zone.
+
+[00:43:19] SPEAKER_06
+I went, I'm, I'm in this, I left the ham zone briefly to enter the Zimmer zone and I
+
+[00:43:24] SPEAKER_06
+Zim zoned for a couple hours and then went, Oh, right.
+
+[00:43:27] SPEAKER_06
+I was looking at other, I was looking at other baseball cards.
+
+[00:43:29] SPEAKER_06
+Shit.
+
+[00:43:29] SPEAKER_06
+I spent all this time looking up on Zimmer.
+
+[00:43:32] SPEAKER_05
+The Zimmer zone.
+
+[00:43:33] SPEAKER_06
+I was in the Zim zone.
+
+[00:43:35] SPEAKER_05
+Oh, I love it.
+
+[00:43:37] SPEAKER_05
+Can I, did you find any Bobby Valentine manager cards, Jeff?
+
+[00:43:41] SPEAKER_05
+Cause I feel like Bob, the fake mustache is so wonderful.
+
+[00:43:44] SPEAKER_06
+It's Bobby Valentine.
+
+[00:43:45] SPEAKER_06
+I, I, I did look up a Bobby Valentine, his 87 tops.
+
+[00:43:47] SPEAKER_06
+I think it wasn't as funny, but, um, and you know, these by, by no means have to be the
+
+[00:43:53] SPEAKER_06
+cards we pick.
+
+[00:43:53] SPEAKER_06
+I just figured we should pick the, these are pretty lame and I think they fit all the criteria.
+
+[00:44:00] SPEAKER_06
+There's probably three or 4 million Don Zimmer, uh, staring off into the, into the sun baseball
+
+[00:44:06] SPEAKER_06
+cards out there that have to be worth less than the ink and paper.
+
+[00:44:10] SPEAKER_05
+I'm a supporter.
+
+[00:44:11] SPEAKER_05
+Don Zimmer.
+
+[00:44:12] SPEAKER_05
+Do you know the Bobby Valentine mustache story, Gavin?
+
+[00:44:14] SPEAKER_05
+Yes.
+
+[00:44:15] SPEAKER_05
+I know you and Jeff.
+
+[00:44:17] SPEAKER_05
+So Bobby Valentine was a baseball manager.
+
+[00:44:19] SPEAKER_05
+Was it the Red Sox, Jeff, that he was, he was the manager of?
+
+[00:44:22] SPEAKER_05
+Uh, I think he was the Mets manager at the time.
+
+[00:44:23] SPEAKER_05
+The Mets?
+
+[00:44:23] SPEAKER_05
+Okay.
+
+[00:44:24] SPEAKER_05
+Um, he got thrown out of a game, Gavin, and he left cause he was thrown out.
+
+[00:44:29] SPEAKER_05
+He had to leave.
+
+[00:44:30] SPEAKER_05
+He then applied like tape to his face to make a fake mustache.
+
+[00:44:33] SPEAKER_05
+And then he just came back and he was just in the dugout for like three more innings.
+
+[00:44:38] SPEAKER_05
+And then they threw him out again.
+
+[00:44:39] SPEAKER_05
+Oh, it's such a good fake mustache.
+
+[00:44:43] SPEAKER_05
+We'll put that on the Instagram too.
+
+[00:44:46] SPEAKER_05
+It's great.
+
+[00:44:46] SPEAKER_05
+It's one of the great coaching moments.
+
+[00:44:48] SPEAKER_07
+Where did he, where did he get that?
+
+[00:44:49] SPEAKER_05
+He went to the bath.
+
+[00:44:50] SPEAKER_05
+It was like tape.
+
+[00:44:52] SPEAKER_05
+And like, I don't remember the full story, but he, yeah, that's what he normally looks
+
+[00:44:57] SPEAKER_05
+like.
+
+[00:44:57] SPEAKER_07
+That's what he looks like normally.
+
+[00:44:58] SPEAKER_07
+Yeah.
+
+[00:44:58] SPEAKER_07
+That's what, that would fool me.
+
+[00:44:59] SPEAKER_07
+I'll be honest.
+
+[00:45:00] SPEAKER_07
+That way he would definitely walk by me twice.
+
+[00:45:03] SPEAKER_05
+I want to say he came back.
+
+[00:45:04] SPEAKER_05
+It was there for like three more innings before they noticed he came back and they threw
+
+[00:45:07] SPEAKER_05
+him out again, but it's just a great move.
+
+[00:45:10] SPEAKER_05
+One of the best.
+
+[00:45:11] SPEAKER_06
+Anyway, if y'all have any suggestions, I welcome them.
+
+[00:45:14] SPEAKER_06
+I think we should pick one fairly soon.
+
+[00:45:16] SPEAKER_06
+The audience, we talked about it in the episode that came out this week.
+
+[00:45:20] SPEAKER_06
+The audience has been throwing out some suggestions.
+
+[00:45:22] SPEAKER_06
+I'll be honest.
+
+[00:45:22] SPEAKER_06
+I haven't been blown away by any of theirs, but, oh, no, I just, I mean, there's, they're
+
+[00:45:28] SPEAKER_06
+all, no, they're all great in some funny way.
+
+[00:45:31] SPEAKER_06
+Like they're interesting in some way that, that inherently provides value.
+
+[00:45:35] SPEAKER_06
+You know, they're sending us really interesting cards and that's cool, but we need the opposite
+
+[00:45:39] SPEAKER_06
+of interesting.
+
+[00:45:40] SPEAKER_06
+We want, we want the epitome of the absence of value, right?
+
+[00:45:46] SPEAKER_06
+So there can't be an interesting story.
+
+[00:45:48] SPEAKER_06
+There can't be a funny pose.
+
+[00:45:50] SPEAKER_06
+It can't be Jeff Reed having a heart attack.
+
+[00:45:52] SPEAKER_06
+It's got to be like, it's just got to be on, it's got to be unvalued.
+
+[00:45:56] SPEAKER_06
+It's got to be just like worthless.
+
+[00:45:58] SPEAKER_05
+That's interesting.
+
+[00:45:58] SPEAKER_05
+Cause I, I assumed we would want like some level of intrigue around it.
+
+[00:46:03] SPEAKER_05
+Not like the player was terrible, but like an interesting story or something.
+
+[00:46:06] SPEAKER_05
+We just want zero value at all is what we're going on.
+
+[00:46:09] SPEAKER_06
+Well, I think you said the thing that you said that stuck with me was that it should
+
+[00:46:12] SPEAKER_06
+be statistically the least valuable baseball card in the world.
+
+[00:46:15] SPEAKER_06
+And I think you, I think you've got to start at managers and work your way down.
+
+[00:46:18] SPEAKER_06
+But that's fair.
+
+[00:46:20] SPEAKER_05
+Also crazy conversation with like what's happening with GameStop stock.
+
+[00:46:23] SPEAKER_05
+We were ahead of the curve with the baseball thing.
+
+[00:46:26] SPEAKER_06
+Yeah, I guess we were.
+
+[00:46:27] SPEAKER_06
+Yeah.
+
+[00:46:28] SPEAKER_06
+That's a good point.
+
+[00:46:29] SPEAKER_06
+Mm-hmm.
+
+[00:46:29] SPEAKER_06
+Do you, do you guys all load it up on your GameStop stock?
+
+[00:46:32] SPEAKER_05
+Oh, I'm, I'm good.
+
+[00:46:33] SPEAKER_05
+Good deal.
+
+[00:46:34] SPEAKER_05
+Yeah.
+
+[00:46:35] SPEAKER_06
+All right.
+
+[00:46:36] SPEAKER_06
+Well, that was my visual game.
+
+[00:46:38] SPEAKER_06
+Anyway, I don't know when, when we should pick one, but we should probably get to it
+
+[00:46:42] SPEAKER_06
+at some point.
+
+[00:46:42] SPEAKER_06
+So I'll, I'll leave it up to you guys.
+
+[00:46:44] SPEAKER_05
+I would like to explore managers a little bit further, but I kind of like Don Zimmer.
+
+[00:46:47] SPEAKER_05
+I like the Don Zimmer angle quite a bit out of all.
+
+[00:46:51] SPEAKER_06
+Don Zimmer's like, he's kind of likable too, right?
+
+[00:46:54] SPEAKER_06
+Like, I mean, he, he is, I do think he might kill you.
+
+[00:46:57] SPEAKER_06
+Okay.
+
+[00:46:57] SPEAKER_06
+Definitely looks like he got away with murder at some point in his life when the forensic
+
+[00:47:01] SPEAKER_06
+evidence wasn't as easy to examine.
+
+[00:47:05] SPEAKER_06
+But, but Dave Johnson gives really, and I'm sure he's a lovely man.
+
+[00:47:08] SPEAKER_06
+He does give real like dickhead stepdad vibes.
+
+[00:47:11] SPEAKER_06
+Absolutely.
+
+[00:47:11] SPEAKER_07
+You know, there's a really great British word that I feel like I don't hear enough here.
+
+[00:47:15] SPEAKER_07
+Like gormless.
+
+[00:47:16] SPEAKER_07
+Like if you look at Dave Johnson, he is the definition of gormless in that picture.
+
+[00:47:22] SPEAKER_06
+What does gormless mean?
+
+[00:47:24] SPEAKER_07
+What is the definition of gormless?
+
+[00:47:26] SPEAKER_05
+Dropping a word, looking at all the meaning of, it doesn't get used enough.
+
+[00:47:30] SPEAKER_05
+I don't even know what it means.
+
+[00:47:31] SPEAKER_06
+He's like, well, it's kind of, he's like, uh, I have an urban dictionary now, we'll have
+
+[00:47:43] SPEAKER_06
+a picture of Dave Johnson.
+
+[00:47:47] SPEAKER_07
+Yeah.
+
+[00:47:47] SPEAKER_07
+Just look up gormless, you know, in your own convenience.
+
+[00:47:50] SPEAKER_05
+I like Don Zimmer because he looks like he's a boat captain in his free time.
+
+[00:47:53] SPEAKER_05
+Like he's a manager half the season and then he operates boats for the rest.
+
+[00:47:57] SPEAKER_05
+Yeah.
+
+[00:47:58] SPEAKER_06
+If have you ever seen the movie cabin boy?
+
+[00:48:01] SPEAKER_06
+No.
+
+[00:48:02] SPEAKER_06
+Oh, you should look it up.
+
+[00:48:03] SPEAKER_06
+He looks like the captain of that ship.
+
+[00:48:04] SPEAKER_06
+Okay.
+
+[00:48:05] SPEAKER_07
+He looks like he was driving a boat and an hour into it, he realized he zoned out and
+
+[00:48:09] SPEAKER_07
+he doesn't know where he is.
+
+[00:48:10] SPEAKER_05
+Yes.
+
+[00:48:10] SPEAKER_05
+Yes, he does.
+
+[00:48:11] SPEAKER_05
+The Zimmer zone is also just fantastic.
+
+[00:48:14] SPEAKER_05
+I'd love to enter the Zimmer zone.
+
+[00:48:16] SPEAKER_05
+Zip zone.
+
+[00:48:18] SPEAKER_06
+He looks like he eats spinach.
+
+[00:48:20] SPEAKER_06
+Like he, he looks like he eats spinach like other people eat dip.
+
+[00:48:25] SPEAKER_06
+Like he's just got like a, a hawk of spinach in the side of his mouth.
+
+[00:48:28] SPEAKER_06
+Just waiting, just waiting for geriatric Bluto to show up and try to steal, uh, what's left
+
+[00:48:35] SPEAKER_06
+of olive oil.
+
+[00:48:36] SPEAKER_05
+20 minutes of what Don Zimmer looks like he does talk.
+
+[00:48:39] SPEAKER_05
+I love it.
+
+[00:48:41] SPEAKER_05
+The rest of the show just talking about what hobbies we think Don Zimmer has based off his
+
+[00:48:45] SPEAKER_05
+baseball cards.
+
+[00:48:49] SPEAKER_07
+Model trains.
+
+[00:48:50] SPEAKER_07
+Andrew, should we talk about briefly what we've been getting up to in Hitman?
+
+[00:48:54] SPEAKER_05
+Oh, sure.
+
+[00:48:54] SPEAKER_05
+We could talk about that for a minute.
+
+[00:48:56] SPEAKER_05
+Have you topped, have you topped what I sent you?
+
+[00:48:59] SPEAKER_05
+I feel like I set the bar.
+
+[00:49:00] SPEAKER_07
+No, no.
+
+[00:49:01] SPEAKER_07
+Oh yeah.
+
+[00:49:02] SPEAKER_07
+Okay.
+
+[00:49:03] SPEAKER_07
+I just like to sometimes like do weird shit in, uh, in video games and send it to Andrew.
+
+[00:49:08] SPEAKER_07
+Kind of like a things to do where you don't play the game normally.
+
+[00:49:10] SPEAKER_07
+You play it like a total maniac.
+
+[00:49:12] SPEAKER_07
+And I just found someone in Hitman in one of the levels.
+
+[00:49:15] SPEAKER_07
+He's, is it a wine tasting?
+
+[00:49:16] SPEAKER_07
+And the guy's like had too much wine.
+
+[00:49:18] SPEAKER_07
+So he just is on a, on this AI loop of he'll go and have a phone call and then he'll come
+
+[00:49:22] SPEAKER_07
+to a bin and just vomit over and over again.
+
+[00:49:24] SPEAKER_07
+And I just sat on the bench next to the bin while this guy's throwing up like a foot from
+
+[00:49:30] SPEAKER_07
+me.
+
+[00:49:30] SPEAKER_07
+And I've just filmed myself sat next to this guy throwing up for like 25 seconds.
+
+[00:49:36] SPEAKER_07
+And I just sent the whole clip to Andrew, Andrew, Andrew applied with another clip of a guy
+
+[00:49:44] SPEAKER_07
+throwing up over a railing, like throwing up over a balcony.
+
+[00:49:48] SPEAKER_07
+But Andrew's hanging below him and he's just getting showered and vomit.
+
+[00:49:54] SPEAKER_07
+And now I'm in, now I'm in a predicament where I've got to sort of outdo his vomit by trying
+
+[00:49:59] SPEAKER_07
+to find something even more gross than that.
+
+[00:50:01] SPEAKER_06
+And we're just sending back and forth these clips of people throwing up near us to honor.
+
+[00:50:07] SPEAKER_06
+So there's a lot of, a lot of vomit in Hitman, huh?
+
+[00:50:09] SPEAKER_06
+There is.
+
+[00:50:10] SPEAKER_06
+Yeah.
+
+[00:50:10] SPEAKER_06
+You can poison people.
+
+[00:50:11] SPEAKER_05
+Yeah.
+
+[00:50:11] SPEAKER_05
+What?
+
+[00:50:12] SPEAKER_05
+I hadn't poisoned anyone in the game yet.
+
+[00:50:14] SPEAKER_05
+I thought Gavin, it's the vomiting animation is so long.
+
+[00:50:17] SPEAKER_05
+I thought you had somehow discovered a way to keep it infinitely looping Gavin based on
+
+[00:50:21] SPEAKER_05
+the clip.
+
+[00:50:22] SPEAKER_05
+I didn't realize.
+
+[00:50:23] SPEAKER_07
+No, he just throws up for ages.
+
+[00:50:24] SPEAKER_05
+Yeah.
+
+[00:50:24] SPEAKER_05
+They just, when you, you make somebody sick of that game, they vomit for like a minute
+
+[00:50:28] SPEAKER_05
+straight and it's very graphic.
+
+[00:50:29] SPEAKER_05
+And I was trying to do something completely unrelated to that.
+
+[00:50:32] SPEAKER_05
+I poisoned a guy and he ran over to the railing and started vomiting over it.
+
+[00:50:36] SPEAKER_05
+And I was like, I know what I got to do.
+
+[00:50:38] SPEAKER_05
+So I reverted my save to get into prime vomit taking position and just got covered by the
+
+[00:50:44] SPEAKER_05
+guy.
+
+[00:50:44] SPEAKER_05
+It was fantastic.
+
+[00:50:46] SPEAKER_07
+Oh, I can't wait.
+
+[00:50:47] SPEAKER_07
+Yeah.
+
+[00:50:47] SPEAKER_07
+We could probably put those clips on Instagram.
+
+[00:50:49] SPEAKER_06
+Yeah.
+
+[00:50:50] SPEAKER_07
+That's a great idea.
+
+[00:50:51] SPEAKER_06
+That sounds disgusting.
+
+[00:50:53] SPEAKER_06
+It's a, that's a video game that you can do some really weird, funny, creative shit
+
+[00:50:57] SPEAKER_06
+in.
+
+[00:50:57] SPEAKER_06
+Oh, it's the best.
+
+[00:50:58] SPEAKER_06
+I appreciate that about it.
+
+[00:50:59] SPEAKER_05
+I love those games.
+
+[00:51:00] SPEAKER_05
+They're so good.
+
+[00:51:00] SPEAKER_05
+Yeah.
+
+[00:51:00] SPEAKER_07
+That Dubai level, the first level of Hitman 3 has, you remember when we did Puddle Pile,
+
+[00:51:05] SPEAKER_07
+Jeff?
+
+[00:51:05] SPEAKER_07
+Oh yeah.
+
+[00:51:06] SPEAKER_07
+There's like a puddle the size of a room in that level.
+
+[00:51:09] SPEAKER_07
+And I'm trying to figure out a way to try and kill everyone at once with it.
+
+[00:51:12] SPEAKER_05
+I'm excited for them to make the James Bond game.
+
+[00:51:14] SPEAKER_05
+Yeah.
+
+[00:51:14] SPEAKER_05
+Hitman 3.
+
+[00:51:15] SPEAKER_05
+Me too.
+
+[00:51:15] SPEAKER_05
+It feels like James Bond-ish in a weird way.
+
+[00:51:18] SPEAKER_05
+Like it's the most spy one.
+
+[00:51:19] SPEAKER_05
+Like we're using your, you use the camera to like unlock windows and shit.
+
+[00:51:22] SPEAKER_05
+I'm excited.
+
+[00:51:23] SPEAKER_05
+Those are going to be good games.
+
+[00:51:24] SPEAKER_05
+Or hopefully it will be a good game.
+
+[00:51:26] SPEAKER_07
+So Andrew, do you have your Act 3?
+
+[00:51:28] SPEAKER_07
+Yeah.
+
+[00:51:28] SPEAKER_07
+Let's hit, let's hear Act 3.
+
+[00:51:29] SPEAKER_05
+I do.
+
+[00:51:30] SPEAKER_05
+Oh, I don't have my Act 3.
+
+[00:51:31] SPEAKER_05
+I got, I could tease into Act 3.
+
+[00:51:33] SPEAKER_05
+Um, I got salad cream.
+
+[00:51:36] SPEAKER_05
+That's something.
+
+[00:51:38] SPEAKER_05
+Oh!
+
+[00:51:38] SPEAKER_05
+I got salad.
+
+[00:51:39] SPEAKER_05
+It arrived finally.
+
+[00:51:40] SPEAKER_05
+It arrived finally.
+
+[00:51:41] SPEAKER_05
+I couldn't figure out.
+
+[00:51:41] SPEAKER_05
+It's like a month late.
+
+[00:51:42] SPEAKER_05
+Yeah.
+
+[00:51:42] SPEAKER_05
+Here's the thing.
+
+[00:51:43] SPEAKER_05
+If anything, I just proved how much of a genius I was.
+
+[00:51:46] SPEAKER_05
+I was like, what is this package from Ireland?
+
+[00:51:49] SPEAKER_05
+I have no idea what this is.
+
+[00:51:51] SPEAKER_05
+Very confused.
+
+[00:51:52] SPEAKER_05
+Then I was thrilled when I opened it.
+
+[00:51:54] SPEAKER_05
+I was like, the salad cream finally arrived.
+
+[00:51:56] SPEAKER_05
+I forgot I even ordered this.
+
+[00:52:03] SPEAKER_05
+I don't have the salad.
+
+[00:52:04] SPEAKER_05
+What do you mean?
+
+[00:52:05] SPEAKER_05
+I was going to do a whole salad thing.
+
+[00:52:07] SPEAKER_05
+I just didn't have time to prepare what I wanted to do.
+
+[00:52:09] SPEAKER_05
+So I have the cream.
+
+[00:52:10] SPEAKER_07
+We were talking about this a week ago.
+
+[00:52:11] SPEAKER_07
+We were saying that you should get your normal salad.
+
+[00:52:14] SPEAKER_05
+Yeah.
+
+[00:52:15] SPEAKER_05
+No, we did.
+
+[00:52:15] SPEAKER_07
+For the podcast.
+
+[00:52:16] SPEAKER_07
+And then have some without and have some with salad cream.
+
+[00:52:18] SPEAKER_07
+You've had at least a week to prepare for this.
+
+[00:52:20] SPEAKER_05
+See, unlike you, I remember this conversation.
+
+[00:52:22] SPEAKER_05
+I acknowledge it happened.
+
+[00:52:24] SPEAKER_05
+I just, it didn't come together.
+
+[00:52:26] SPEAKER_05
+I got all the stuff for it.
+
+[00:52:28] SPEAKER_07
+Right.
+
+[00:52:28] SPEAKER_07
+But when you're sat in the Discord 30 minutes early with your thumb in your ass,
+
+[00:52:32] SPEAKER_07
+why didn't you just order a salad or something?
+
+[00:52:34] SPEAKER_05
+You know, next week we'll have a great act three of the salad,
+
+[00:52:37] SPEAKER_05
+and it's going to come together then.
+
+[00:52:39] SPEAKER_05
+It's going to be a great act three.
+
+[00:52:40] SPEAKER_05
+You wanted a good act three?
+
+[00:52:42] SPEAKER_07
+I mean, I got blue balls for this salad cream.
+
+[00:52:44] SPEAKER_07
+It's been like six weeks at this point.
+
+[00:52:46] SPEAKER_06
+Gavin, do you know what I did today for, I was doing a meeting with RT
+
+[00:52:52] SPEAKER_06
+to test some equipment out, and it was like at noon,
+
+[00:52:55] SPEAKER_06
+and I realized I wasn't going to have time to get up and go anywhere.
+
+[00:52:58] SPEAKER_06
+So I ordered from a sub shop, I ordered a salad.
+
+[00:53:01] SPEAKER_06
+And in 20 minutes, I was eating it.
+
+[00:53:04] SPEAKER_06
+Wow.
+
+[00:53:05] SPEAKER_06
+What do you think about that, Andrew?
+
+[00:53:06] SPEAKER_05
+That's, I mean, a really boring story he just told
+
+[00:53:09] SPEAKER_05
+that I don't feel like has any purpose to the conversation.
+
+[00:53:11] SPEAKER_06
+Probably in the time that I could have sat in a Discord server,
+
+[00:53:13] SPEAKER_06
+I could have ordered it and had it arrive.
+
+[00:53:15] SPEAKER_06
+I don't see how that applies.
+
+[00:53:17] SPEAKER_07
+What do you have in your house that you could use salad cream on?
+
+[00:53:21] SPEAKER_07
+Do you have anything green?
+
+[00:53:22] SPEAKER_05
+Well, I don't want to make, I don't want to, I haven't tried this.
+
+[00:53:25] SPEAKER_05
+I haven't even opened it yet.
+
+[00:53:26] SPEAKER_05
+You put cream in coffee, from my understanding.
+
+[00:53:29] SPEAKER_05
+Just saying.
+
+[00:53:30] SPEAKER_05
+I'm just saying, it's a cream.
+
+[00:53:33] SPEAKER_05
+I'm not going to, I'm not saying I'm going to do it.
+
+[00:53:35] SPEAKER_05
+Just throwing it out there.
+
+[00:53:36] SPEAKER_05
+Don't do it.
+
+[00:53:36] SPEAKER_05
+I could just try it.
+
+[00:53:38] SPEAKER_05
+What do we do?
+
+[00:53:38] SPEAKER_05
+Do we wait?
+
+[00:53:39] SPEAKER_05
+Because I, the next, great third act next week.
+
+[00:53:41] SPEAKER_05
+I just want to bring up that I had it.
+
+[00:53:43] SPEAKER_05
+Felt like it needed to be brought to the thing.
+
+[00:53:44] SPEAKER_06
+Have you, have you, have you smelled it yet?
+
+[00:53:47] SPEAKER_06
+No.
+
+[00:53:47] SPEAKER_05
+I haven't done anything with it yet.
+
+[00:53:49] SPEAKER_07
+Yeah, why don't you get a whiff?
+
+[00:53:50] SPEAKER_07
+Why don't you get a whiff for like a little taste?
+
+[00:53:51] SPEAKER_05
+A whiff?
+
+[00:53:51] SPEAKER_05
+Let's cliffhang, yeah, let's cliffhang on a whiff.
+
+[00:53:53] SPEAKER_05
+I'm so scared I'm going to shoot this everywhere.
+
+[00:53:56] SPEAKER_07
+What way up is the label, by the way?
+
+[00:53:57] SPEAKER_05
+Uh, it's, uh, you'd face it, uh, like a psychopath would, based on the label.
+
+[00:54:01] SPEAKER_05
+So I'm going to keep it the correct way.
+
+[00:54:06] SPEAKER_05
+I'd do it.
+
+[00:54:07] SPEAKER_05
+I don't like this at all.
+
+[00:54:08] SPEAKER_05
+The color of it is bad.
+
+[00:54:10] SPEAKER_05
+What does it say?
+
+[00:54:12] SPEAKER_05
+Lift and peel?
+
+[00:54:13] SPEAKER_07
+It's like a yellowed mayonnaise.
+
+[00:54:15] SPEAKER_05
+Ugh, boy.
+
+[00:54:17] SPEAKER_05
+Ugh.
+
+[00:54:17] SPEAKER_05
+Um, okay, we're going to smell it.
+
+[00:54:19] SPEAKER_05
+I need to mentally prepare myself for a minute, because I feel like I'm going to gag already,
+
+[00:54:23] SPEAKER_05
+and I haven't even smelled anything.
+
+[00:54:24] SPEAKER_05
+Why would you gag?
+
+[00:54:25] SPEAKER_05
+It's a condiment.
+
+[00:54:26] SPEAKER_05
+I feel, well, because the last time I brought a bottle to my face, Gavin, it was the Waffle
+
+[00:54:30] SPEAKER_05
+Bomb.
+
+[00:54:31] SPEAKER_05
+So I think, I think I'm trained right now to feel like I want to gag.
+
+[00:54:36] SPEAKER_05
+That was so bad.
+
+[00:54:37] SPEAKER_05
+Okay.
+
+[00:54:38] SPEAKER_05
+Oh my god, that sucked.
+
+[00:54:40] SPEAKER_05
+That was awful.
+
+[00:54:42] SPEAKER_05
+What do you mean?
+
+[00:54:43] SPEAKER_05
+I could gag off that.
+
+[00:54:45] SPEAKER_05
+I had to fight to not gag.
+
+[00:54:46] SPEAKER_05
+That smells so bad.
+
+[00:54:48] SPEAKER_07
+You eat this?
+
+[00:54:49] SPEAKER_07
+I think you're projecting Waffle Bomb into it.
+
+[00:54:52] SPEAKER_07
+Imagine it fresh on a nice salad.
+
+[00:54:54] SPEAKER_05
+Well, it is fresh.
+
+[00:54:54] SPEAKER_05
+I just opened it.
+
+[00:54:55] SPEAKER_05
+I couldn't get fresher.
+
+[00:54:56] SPEAKER_05
+What do you mean, imagine it fresh?
+
+[00:55:00] SPEAKER_07
+You just got, you've, you've poisoned your own mind.
+
+[00:55:02] SPEAKER_05
+Oh no, it just smells really bad.
+
+[00:55:05] SPEAKER_05
+Kind of, you know what, actually, no, it, no, I think you're right.
+
+[00:55:08] SPEAKER_05
+I think that was in my head.
+
+[00:55:09] SPEAKER_05
+This is fine.
+
+[00:55:10] SPEAKER_05
+Kind of has a honey mustardy smell to it, actually.
+
+[00:55:14] SPEAKER_07
+Why don't you just, yeah, I think, I think you're going to like it.
+
+[00:55:16] SPEAKER_07
+Why don't you just squirt a bit onto your, to your tongue?
+
+[00:55:18] SPEAKER_05
+No, I'm not, why would I do it to my tongue?
+
+[00:55:20] SPEAKER_05
+I'd surely do it on my hand.
+
+[00:55:21] SPEAKER_05
+Would I not?
+
+[00:55:22] SPEAKER_05
+Going straight for the mouth seems aggressive.
+
+[00:55:24] SPEAKER_06
+Can you taste stuff through your hand?
+
+[00:55:25] SPEAKER_06
+Dude, you, if you want to, if you really want to taste, if you really want to taste it
+
+[00:55:29] SPEAKER_06
+properly, you need to swish it around in your mouth like a, like you do with wine.
+
+[00:55:33] SPEAKER_05
+No, I'm not doing that.
+
+[00:55:33] SPEAKER_06
+So I would do like a squirt and then swirl it around.
+
+[00:55:36] SPEAKER_05
+I'm good.
+
+[00:55:36] SPEAKER_05
+I think I wait for the salad.
+
+[00:55:38] SPEAKER_05
+I think that's the act three next week.
+
+[00:55:40] SPEAKER_05
+All right.
+
+[00:55:41] SPEAKER_05
+We got that to look forward to then.
+
+[00:55:42] SPEAKER_05
+Yeah.
+
+[00:55:43] SPEAKER_06
+What kind of salad greens do you like?
+
+[00:55:45] SPEAKER_05
+I got a whole thing plant.
+
+[00:55:48] SPEAKER_05
+So, um, all of them, I guess.
+
+[00:55:50] SPEAKER_05
+I don't know.
+
+[00:55:51] SPEAKER_05
+What does that mean?
+
+[00:55:51] SPEAKER_07
+Well, I did ask you what your normal go-to salad covering was.
+
+[00:55:55] SPEAKER_07
+Yeah.
+
+[00:55:55] SPEAKER_07
+Like what dressing or sauce or whatever.
+
+[00:55:57] SPEAKER_07
+And you said nothing.
+
+[00:55:58] SPEAKER_07
+You said you just have dry leaves.
+
+[00:56:00] SPEAKER_05
+Yeah, I don't like the dressing.
+
+[00:56:01] SPEAKER_05
+I just, you get some berries in there.
+
+[00:56:03] SPEAKER_05
+It's good enough.
+
+[00:56:04] SPEAKER_05
+I enjoy the taste of that.
+
+[00:56:06] SPEAKER_06
+What are we, are you doing like iceberg?
+
+[00:56:08] SPEAKER_06
+You a spinach guy?
+
+[00:56:09] SPEAKER_06
+Are we doing romaine?
+
+[00:56:10] SPEAKER_06
+A little spinach is good.
+
+[00:56:11] SPEAKER_06
+I like some romaine.
+
+[00:56:12] SPEAKER_05
+Yeah.
+
+[00:56:12] SPEAKER_05
+I think I'm a romaine guy, but I can't, you know, spinach is great too.
+
+[00:56:15] SPEAKER_05
+I'm not too picky.
+
+[00:56:16] SPEAKER_05
+Okay.
+
+[00:56:16] SPEAKER_07
+I feel like the most divisive ingredient to a salad to me is carrot.
+
+[00:56:20] SPEAKER_06
+Carrot?
+
+[00:56:21] SPEAKER_06
+Really?
+
+[00:56:21] SPEAKER_07
+Yeah.
+
+[00:56:21] SPEAKER_07
+Like shaved carrot is often in salad and I feel like I could do without.
+
+[00:56:25] SPEAKER_07
+I like carrot.
+
+[00:56:26] SPEAKER_07
+It's just the wrong, it's the, it's too much crunch for my, for the other stuff.
+
+[00:56:31] SPEAKER_06
+I would have to disagree with you.
+
+[00:56:32] SPEAKER_06
+Yeah.
+
+[00:56:33] SPEAKER_07
+You like a bit of carrot strips?
+
+[00:56:34] SPEAKER_06
+Well, I like a bit of crunch.
+
+[00:56:35] SPEAKER_06
+That's why I like croutons.
+
+[00:56:37] SPEAKER_07
+I feel like there's enough crunch in a salad already.
+
+[00:56:39] SPEAKER_06
+I don't know if there's such a thing.
+
+[00:56:40] SPEAKER_07
+It's a different, it's like a dull crunch with a carrot.
+
+[00:56:43] SPEAKER_05
+That I agree with, but I, I'm, I think there's never too much crunch.
+
+[00:56:47] SPEAKER_05
+I'm good with crunch.
+
+[00:56:49] SPEAKER_05
+It's like the thing I reject with your whole no stuff crust thing, Jeff.
+
+[00:56:52] SPEAKER_05
+I don't think you can add cheese to something and make it worse.
+
+[00:56:55] SPEAKER_05
+So I just, it makes no sense to me that you just like stuff crust.
+
+[00:56:58] SPEAKER_05
+It's an addition of cheese.
+
+[00:56:59] SPEAKER_05
+I would disagree with that.
+
+[00:57:01] SPEAKER_05
+Melted cheese makes everything better.
+
+[00:57:03] SPEAKER_05
+Okay.
+
+[00:57:04] SPEAKER_07
+Cereal.
+
+[00:57:05] SPEAKER_05
+It probably would.
+
+[00:57:06] SPEAKER_05
+I don't drink, I've never had cereal and milk.
+
+[00:57:09] SPEAKER_05
+So I don't know what that's like.
+
+[00:57:11] SPEAKER_05
+I, I'd always have my cereal dry.
+
+[00:57:14] SPEAKER_05
+I also haven't had a lot of cereal.
+
+[00:57:15] SPEAKER_05
+I've had like three cereals.
+
+[00:57:17] SPEAKER_07
+You don't like, you don't like stuff to be wet.
+
+[00:57:19] SPEAKER_05
+I'm okay with, uh, I, I, I don't know about that.
+
+[00:57:22] SPEAKER_07
+You've never put milk on cereal.
+
+[00:57:24] SPEAKER_05
+No.
+
+[00:57:24] SPEAKER_05
+Cause I had a milk allergy as a kid.
+
+[00:57:26] SPEAKER_05
+So I just never did it.
+
+[00:57:27] SPEAKER_07
+And then that makes sense.
+
+[00:57:28] SPEAKER_07
+What about like almond milk though?
+
+[00:57:30] SPEAKER_07
+And other milks, nut milk.
+
+[00:57:31] SPEAKER_05
+No, I never, I didn't really like any of the other variants of milk when I tried it.
+
+[00:57:35] SPEAKER_05
+So I wouldn't put it on food that I thought was okay without it.
+
+[00:57:38] SPEAKER_07
+So you, you no longer have that allergy?
+
+[00:57:40] SPEAKER_05
+Uh, it doesn't seem to bother me.
+
+[00:57:42] SPEAKER_05
+I don't really put much thought into it, but I also have never just like had milk, ice cream.
+
+[00:57:47] SPEAKER_06
+You should try milk and cereal someday.
+
+[00:57:49] SPEAKER_06
+Yeah.
+
+[00:57:50] SPEAKER_06
+You might be surprised.
+
+[00:57:51] SPEAKER_05
+I think so.
+
+[00:57:52] SPEAKER_05
+What would be a good cereal?
+
+[00:57:53] SPEAKER_05
+I've had like, I think I've had honey nut Cheerios.
+
+[00:57:56] SPEAKER_05
+I've had fruit loops and I think that might be it.
+
+[00:57:58] SPEAKER_05
+I think everything else is on the table.
+
+[00:58:00] SPEAKER_07
+How do you feel about like a frosted mini wheat?
+
+[00:58:03] SPEAKER_07
+Oh, it's a good cereal.
+
+[00:58:04] SPEAKER_05
+Is it?
+
+[00:58:04] SPEAKER_05
+I'm open to it.
+
+[00:58:05] SPEAKER_05
+I've never had.
+
+[00:58:06] SPEAKER_06
+A lot of, a lot of crunch in that for you.
+
+[00:58:08] SPEAKER_06
+A lot of crunch.
+
+[00:58:09] SPEAKER_05
+I like that.
+
+[00:58:10] SPEAKER_06
+I'm a big Captain Crunch fan myself.
+
+[00:58:12] SPEAKER_06
+It's in the name.
+
+[00:58:13] SPEAKER_06
+Uh, I also like Crunch Berries.
+
+[00:58:16] SPEAKER_06
+It's also in the name.
+
+[00:58:17] SPEAKER_06
+I think the question is what would, uh.
+
+[00:58:19] SPEAKER_06
+Peanut Butter Crunch.
+
+[00:58:19] SPEAKER_06
+It's in the name as well.
+
+[00:58:21] SPEAKER_05
+What type of cereal would Don Zimmer like?
+
+[00:58:24] SPEAKER_06
+Golden Grahams is real good.
+
+[00:58:26] SPEAKER_06
+Don Zimmer likes old people cereal.
+
+[00:58:28] SPEAKER_06
+He likes, uh.
+
+[00:58:30] SPEAKER_07
+Muesli.
+
+[00:58:31] SPEAKER_06
+Yeah.
+
+[00:58:31] SPEAKER_06
+He, yeah.
+
+[00:58:32] SPEAKER_06
+He likes Weetabix and Muesli and shit like that.
+
+[00:58:34] SPEAKER_06
+Nothing old about Weetabix.
+
+[00:58:36] SPEAKER_06
+He likes mini wheats.
+
+[00:58:38] SPEAKER_06
+Not the frosted mini wheats.
+
+[00:58:39] SPEAKER_06
+He likes just mini wheats.
+
+[00:58:42] SPEAKER_05
+Yeah.
+
+[00:58:42] SPEAKER_05
+Okay.
+
+[00:58:43] SPEAKER_05
+How do you like your port-a-potty, Jeff?
+
+[00:58:45] SPEAKER_06
+Uh, oh, I, that's right.
+
+[00:58:47] SPEAKER_06
+So what happened there?
+
+[00:58:48] SPEAKER_06
+The last episode, uh, it ended with you saying you had to make some calls.
+
+[00:58:52] SPEAKER_06
+Yeah.
+
+[00:58:52] SPEAKER_06
+You then repeated that you needed to make some calls via text for a while.
+
+[00:58:57] SPEAKER_06
+I don't know if you ever made the calls, but I never received a port-a-potty.
+
+[00:59:00] SPEAKER_05
+Yeah, I never ordered one.
+
+[00:59:02] SPEAKER_05
+I was just, I was trying to see how many times they could get you to walk around your house.
+
+[00:59:05] SPEAKER_05
+Did we get three?
+
+[00:59:06] SPEAKER_05
+I think three.
+
+[00:59:06] SPEAKER_05
+Three weeks of the month.
+
+[00:59:12] SPEAKER_07
+It was discussed for a long time before.
+
+[00:59:14] SPEAKER_05
+Never ordered, but I was just, ah, I'll see how many times we could get Jeff to leave
+
+[00:59:17] SPEAKER_05
+the podcast.
+
+[00:59:18] SPEAKER_05
+This is fun.
+
+[00:59:19] SPEAKER_07
+Was it just not in the budget?
+
+[00:59:20] SPEAKER_05
+I believe so.
+
+[00:59:22] SPEAKER_05
+Yeah.
+
+[00:59:22] SPEAKER_05
+I mean, a port-a-potty is pretty expensive.
+
+[00:59:24] SPEAKER_05
+Not as expensive as I thought it would be, but it's expensive.
+
+[00:59:27] SPEAKER_05
+It's, it's expensive to buy one.
+
+[00:59:29] SPEAKER_05
+Yes, it is.
+
+[00:59:30] SPEAKER_07
+How much are we talking?
+
+[00:59:31] SPEAKER_05
+They wanted to rent it or, or rental was a question.
+
+[00:59:34] SPEAKER_05
+I think it's way funnier if you just have to deal with the port-a-potty.
+
+[00:59:37] SPEAKER_05
+Like it's now yours.
+
+[00:59:38] SPEAKER_05
+Now you have to somehow get rid of this.
+
+[00:59:41] SPEAKER_07
+Are you saying port-a-potty?
+
+[00:59:43] SPEAKER_05
+Yeah.
+
+[00:59:44] SPEAKER_05
+It's a portable potty.
+
+[00:59:45] SPEAKER_05
+Port-a-potty.
+
+[00:59:45] SPEAKER_07
+It just sounded like you were saying like port-er.
+
+[00:59:48] SPEAKER_04
+No.
+
+[00:59:49] SPEAKER_04
+Port-a, port-a-potty.
+
+[00:59:50] SPEAKER_04
+It's, uh, they, they range, they're like $650, $700, something like that, which isn't
+
+[00:59:55] SPEAKER_04
+an insane amount of, uh, money, but for a show with no budget, it's, uh, an insane
+
+[01:00:01] SPEAKER_04
+amount of money.
+
+[01:00:01] SPEAKER_04
+When the budget, when the budget I have to spend is zero, uh, and sometimes if I have
+
+[01:00:07] SPEAKER_04
+to pay for anything, it has to, you know, budget numbers have to come from other things,
+
+[01:00:10] SPEAKER_04
+uh, then yeah, $700 is a lot.
+
+[01:00:13] SPEAKER_07
+And also it's a podcast that people listen to and they can't see it.
+
+[01:00:16] SPEAKER_04
+And it's not like you could see or hear it happen.
+
+[01:00:20] SPEAKER_04
+It would just simply be there and it would be a huge hassle for Jeff to do something
+
+[01:00:25] SPEAKER_04
+with this port-a-potty that he now owns.
+
+[01:00:27] SPEAKER_05
+It makes me happy.
+
+[01:00:30] SPEAKER_06
+Yeah.
+
+[01:00:31] SPEAKER_06
+Yeah.
+
+[01:00:31] SPEAKER_06
+That sounds, uh, that sounds like a lot of fun.
+
+[01:00:33] SPEAKER_06
+Well, shenanigans.
+
+[01:00:34] SPEAKER_06
+Here's what we could do.
+
+[01:00:36] SPEAKER_06
+We could, we could use all of our winnings, uh, all of our earnings from collecting, like
+
+[01:00:43] SPEAKER_06
+from owning the global Don Zimmer baseball card market.
+
+[01:00:47] SPEAKER_06
+And, uh, once we have it all like GameStop, right?
+
+[01:00:50] SPEAKER_06
+Then we can set our own price.
+
+[01:00:51] SPEAKER_06
+So then we'll sell all the cards for $10,000 each and then we'll be rich in port-a-potties.
+
+[01:00:55] SPEAKER_05
+I think we have a plan.
+
+[01:00:57] SPEAKER_05
+There you go.
+
+[01:00:57] SPEAKER_05
+Are we good?
+
+[01:00:59] SPEAKER_05
+Is that the end of the episode?
+
+[01:00:59] SPEAKER_07
+You've really blue balls me with this salad cream.
+
+[01:01:01] SPEAKER_07
+I'll be honest.
+
+[01:01:02] SPEAKER_05
+Why are you upset about the salad cream?
+
+[01:01:04] SPEAKER_07
+I'm not upset.
+
+[01:01:04] SPEAKER_07
+I just, I was really excited for you to try it.
+
+[01:01:06] SPEAKER_05
+Oh, okay.
+
+[01:01:06] SPEAKER_05
+That's fair.
+
+[01:01:07] SPEAKER_05
+You know what?
+
+[01:01:07] SPEAKER_05
+I apologize.
+
+[01:01:07] SPEAKER_05
+I had a whole thing.
+
+[01:01:09] SPEAKER_05
+It just didn't come together.
+
+[01:01:10] SPEAKER_05
+Next week, we're going to go deep in the salad cream.
+
+[01:01:13] SPEAKER_06
+Let's lead with salad cream next week.
+
+[01:01:15] SPEAKER_06
+Let's make it the, let's make it the focus.
+
+[01:01:17] SPEAKER_05
+We're going to exit the Zimmer zone briefly.
+
+[01:01:20] SPEAKER_05
+I don't, I want to live there, but we're going to briefly exit Duke's Spirit Salad Cream.
+
+[01:01:23] SPEAKER_06
+I'm excited.
+
+[01:01:24] SPEAKER_06
+So we've got the ham zone.
+
+[01:01:25] SPEAKER_06
+We've got the Zimmer zone.
+
+[01:01:26] SPEAKER_06
+We're a, we're a zone heavy operation at this point.
+
+[01:01:30] SPEAKER_06
+I don't know what we're going to do with all these zones.
+
+[01:01:31] SPEAKER_06
+We should sanction them and I don't know, figure out a way to charge access for them.
+
+[01:01:35] SPEAKER_07
+Andrew, what does Fortnite mean?
+
+[01:01:37] SPEAKER_05
+It's a video game.
+
+[01:01:39] SPEAKER_05
+Can't trick me.
+
+[01:01:45] SPEAKER_07
+Eric, Eric, what's this?
+
+[01:01:46] SPEAKER_07
+Do you?
+
+[01:01:47] SPEAKER_04
+Yeah, no shit.
+
+[01:01:48] SPEAKER_04
+Everyone's just sitting quietly.
+
+[01:01:49] SPEAKER_04
+You're really not.
+
+[01:01:50] SPEAKER_04
+Everyone is being quiet.
+
+[01:01:51] SPEAKER_04
+I was reading what you were typing.
+
+[01:01:54] SPEAKER_04
+You lunatic.
+
+[01:01:54] SPEAKER_04
+This is unlistenable.
+
+[01:01:56] SPEAKER_04
+Everyone is sitting quietly.
+
+[01:01:57] SPEAKER_04
+Because we're all listening to you.
+
+[01:01:59] SPEAKER_04
+Everyone's sitting quietly.
+
+[01:01:59] SPEAKER_04
+And then Gavin goes, Andrew, what's Fortnite?
+
+[01:02:01] SPEAKER_04
+And he says, a video game.
+
+[01:02:03] SPEAKER_04
+And then we're back to silence.
+
+[01:02:05] SPEAKER_99
+Yeah.
+
+[01:02:07] SPEAKER_04
+Insane.
+
+[01:02:07] SPEAKER_04
+Not answering the question.
+
+[01:02:09] SPEAKER_07
+Insane.
+
+[01:02:09] SPEAKER_07
+But then it said you were typing.
+
+[01:02:11] SPEAKER_07
+So I was just waiting to see what you were typing.
+
+[01:02:13] SPEAKER_04
+We're an hour in.
+
+[01:02:15] SPEAKER_04
+What did you think I was going to say?
+
+[01:02:16] SPEAKER_04
+We're good.
+
+[01:02:17] SPEAKER_04
+We're done here.
+
+[01:02:19] SPEAKER_04
+And goodbye.
+
+[01:02:20] SPEAKER_04
+Thank you for listening to this episode of F*** Face.
+
+[01:02:23] SPEAKER_04
+Hope you enjoyed it.
+
+[01:02:24] SPEAKER_04
+We'll see you next time where Andrew eats salad.
+
+[01:02:27] SPEAKER_04
+Bye.
+
+[01:02:27] SPEAKER_04
+Salad cream.
+
+[01:02:28] SPEAKER_04
+Yeah.
+
+[01:02:30] SPEAKER_05
+Pick a baseball card, Andrew and Gavin.
+
+[01:02:32] SPEAKER_05
+I feel like I could get this going.
+
+[01:02:33] SPEAKER_05
+The Zimmer zone.
+
+[01:02:34] SPEAKER_05
+What'd you pick?
+
+[01:02:34] SPEAKER_05
+I feel like I'm all in on the Zimmer zone.
+
+[01:02:36] SPEAKER_05
+Oh, I have to pick a specific Zimmer.
+
+[01:02:38] SPEAKER_05
+That's the bottom line.
+
+[01:02:39] SPEAKER_05
+Pick the Phil Collins one.
+
+[01:02:40] SPEAKER_05
+That is impossible, Jeff.
+
+[01:02:42] SPEAKER_05
+It's a man of my heart.
+
+[01:02:44] SPEAKER_05
+You got to pick.
+
+[01:02:46] SPEAKER_05
+We can only pick one.
+
+[01:02:47] SPEAKER_05
+Man, can't we just own all the Don?
+
+[01:02:48] SPEAKER_05
+How many cards does Don Zimmer possibly have?
+
+[01:02:51] SPEAKER_06
+No, it's too much.
+
+[01:02:53] SPEAKER_06
+Dude, there's four fucking million of that 1991 Tops 40th anniversary Don Zimmer card right there.
+
+[01:02:59] SPEAKER_06
+Yeah, but how many does he can have more than five variants?
+
+[01:03:03] SPEAKER_06
+Gavin, pick one of the two Zims.
+
+[01:03:05] SPEAKER_06
+Are those our only manager Zims?
+
+[01:03:06] SPEAKER_07
+Wait, I can't pick the Phil Collins serial killer one?
+
+[01:03:10] SPEAKER_06
+Oh, Dave Johnson?
+
+[01:03:10] SPEAKER_06
+No, no, the red one.
+
+[01:03:12] SPEAKER_06
+Absolutely.
+
+[01:03:12] SPEAKER_07
+The Zimmer one.
+
+[01:03:14] SPEAKER_06
+Oh, no.
+
+[01:03:15] SPEAKER_06
+That's a 1950s card.
+
+[01:03:17] SPEAKER_06
+That's got that.
+
+[01:03:17] SPEAKER_06
+That'd be hard to find.
+
+[01:03:19] SPEAKER_06
+All right.
+
+[01:03:19] SPEAKER_07
+Well, it means 14 nights.
+
+[01:03:22] SPEAKER_06
+I'm with Eric.
+
+[01:03:25] SPEAKER_06
+What do you mean?
+
+[01:03:25] SPEAKER_06
+This is a terrible podcast.
+
+[01:03:26] SPEAKER_05
+I'm waiting for you to end it.
+
+[01:03:28] SPEAKER_06
+This is the episode where it went to shit.
+
+[01:03:30] SPEAKER_06
+Okay.
+
+[01:03:31] SPEAKER_06
+Thanks a lot.
+
+[01:03:32] SPEAKER_06
+It was a good run.
+
+[01:03:33] SPEAKER_05
+Yeah, I feel like it's ended six times.
+
+[01:03:35] SPEAKER_05
+That's why I've been quiet every time.
+
+[01:03:37] SPEAKER_05
+I'm waiting for you to do the outro and you just don't say anything.
+
+[01:03:40] SPEAKER_07
+It's weird that you try and end it and we all sit in silence and then you're like,
+
+[01:03:44] SPEAKER_07
+Ah, it didn't end.
+
+[01:03:45] SPEAKER_07
+Let's keep it going.
+
+[01:03:46] SPEAKER_07
+You do that, Jeff.
+
+[01:03:48] SPEAKER_05
+That's your outro.
+
+[01:03:48] SPEAKER_05
+I just want an answer to the Zimmer zone.
+
+[01:03:51] SPEAKER_05
+We have to deliberate on it.
+
+[01:03:51] SPEAKER_05
+We'll have an answer next week.
+
+[01:03:53] SPEAKER_05
+I mean, if we want to get into card issues.
+
+[01:03:55] SPEAKER_05
+I'm just impatient.
+
+[01:03:55] SPEAKER_05
+We've been talking about it forever.
+
+[01:03:56] SPEAKER_05
+Jeff, have you used the spreadsheet I sent you?
+
+[01:03:58] SPEAKER_05
+I made Jeff a fucking spreadsheet.
+
+[01:04:00] SPEAKER_05
+It's still going.
+
+[01:04:02] SPEAKER_05
+I don't think he's used it.
+
+[01:04:04] SPEAKER_05
+Yeah, exactly.
+
+[01:04:05] SPEAKER_06
+I need to use the spreadsheet.
+
+[01:04:06] SPEAKER_06
+You're right.
+
+[01:04:06] SPEAKER_06
+Eric, what do you think?
+
+[01:04:07] SPEAKER_06
+What's your pick on the...
+
+[01:04:09] SPEAKER_04
+Well, guys, thanks for listening to episode 37 of F*** Face.
+
+[01:04:11] SPEAKER_04
+We're really happy that you made it all the way to the bitter fucking end of this
+
+[01:04:14] SPEAKER_04
+goddamn show.
+
+[01:04:15] SPEAKER_04
+I hope that you had a lot of fun where Jeff put on the right sock and Andrew's going
+
+[01:04:21] SPEAKER_04
+to eat salad.
+
+[01:04:23] SPEAKER_04
+He didn't know what Y2K meant.
+
+[01:04:25] SPEAKER_04
+Wacky stuff.
+
+[01:04:26] SPEAKER_04
+In the next episode, even wackier.
+
+[01:04:28] SPEAKER_04
+I hope that you guys will stick around for the 38th episode, the ultimate episode where
+
+[01:04:34] SPEAKER_04
+Andrew eats salad.
+
+[01:04:35] SPEAKER_04
+Thank you guys so much.
+
+[01:04:36] SPEAKER_04
+And we'll see you next time on F*** Face.
+
+[01:04:39] SPEAKER_03
+Real Canadian Superstore has everything you need this back-to-school season.
+
+[01:05:02] SPEAKER_03
+Save on lunchbox savers like Ziggy's sliced deli meat products for always $3.75.
+
+[01:05:06] SPEAKER_03
+And get Life Brand Pure Vita shampoo or conditioner for $8 each.
+
+[01:05:10] SPEAKER_03
+At Real Canadian Superstore, when you're ready, we're ready.
+
+[01:05:12] SPEAKER_03
+With the whole world and more.
+
+[01:05:13] SPEAKER_03
+With the whole world and more.

@@ -1,0 +1,544 @@
+{
+ "episodes": {
+  "2": {
+   "SPEAKER_05": "G01",
+   "SPEAKER_08": "G02",
+   "SPEAKER_07": "G03",
+   "SPEAKER_02": "G36",
+   "SPEAKER_01": "G45",
+   "SPEAKER_04": "G52",
+   "SPEAKER_00": "G54",
+   "SPEAKER_06": "G68",
+   "SPEAKER_03": "G82"
+  },
+  "3": {
+   "SPEAKER_06": "G01",
+   "SPEAKER_03": "G02",
+   "SPEAKER_05": "G03",
+   "SPEAKER_08": "G05",
+   "SPEAKER_00": "G09",
+   "SPEAKER_01": "G10",
+   "SPEAKER_07": "G14",
+   "SPEAKER_02": "G64",
+   "SPEAKER_04": "G79"
+  },
+  "4": {
+   "SPEAKER_03": "G01",
+   "SPEAKER_01": "G02",
+   "SPEAKER_04": "G03",
+   "SPEAKER_02": "G04",
+   "SPEAKER_00": "G21"
+  },
+  "5": {
+   "SPEAKER_02": "G01",
+   "SPEAKER_00": "G02",
+   "SPEAKER_01": "G03"
+  },
+  "6": {
+   "SPEAKER_03": "G01",
+   "SPEAKER_06": "G02",
+   "SPEAKER_02": "G03",
+   "SPEAKER_04": "G04",
+   "SPEAKER_00": "G05",
+   "SPEAKER_01": "G12",
+   "SPEAKER_05": "G59"
+  },
+  "7": {
+   "SPEAKER_04": "G01",
+   "SPEAKER_03": "G02",
+   "SPEAKER_06": "G03",
+   "SPEAKER_02": "G04",
+   "SPEAKER_00": "G05",
+   "SPEAKER_01": "G12",
+   "SPEAKER_05": "G30"
+  },
+  "8": {
+   "SPEAKER_02": "G01",
+   "SPEAKER_00": "G02",
+   "SPEAKER_01": "G03"
+  },
+  "9": {
+   "SPEAKER_01": "G01",
+   "SPEAKER_00": "G02",
+   "SPEAKER_03": "G03",
+   "SPEAKER_02": "G30"
+  },
+  "10": {
+   "SPEAKER_05": "G01",
+   "SPEAKER_06": "G02",
+   "SPEAKER_04": "G03",
+   "SPEAKER_03": "G04",
+   "SPEAKER_01": "G05",
+   "SPEAKER_02": "G09",
+   "SPEAKER_00": "G20"
+  },
+  "11": {
+   "SPEAKER_04": "G01",
+   "SPEAKER_03": "G02",
+   "SPEAKER_02": "G03",
+   "SPEAKER_00": "G05",
+   "SPEAKER_01": "G09"
+  },
+  "12": {
+   "SPEAKER_02": "G01",
+   "SPEAKER_03": "G02",
+   "SPEAKER_01": "G03",
+   "SPEAKER_00": "G04"
+  },
+  "13": {
+   "SPEAKER_04": "G01",
+   "SPEAKER_02": "G02",
+   "SPEAKER_03": "G03",
+   "SPEAKER_01": "G04",
+   "SPEAKER_06": "G05",
+   "SPEAKER_05": "G14",
+   "SPEAKER_00": "G56"
+  },
+  "14": {
+   "SPEAKER_04": "G01",
+   "SPEAKER_02": "G02",
+   "SPEAKER_06": "G03",
+   "SPEAKER_05": "G04",
+   "SPEAKER_00": "G05",
+   "SPEAKER_01": "G26",
+   "SPEAKER_03": "G37"
+  },
+  "15": {
+   "SPEAKER_08": "G01",
+   "SPEAKER_07": "G02",
+   "SPEAKER_06": "G03",
+   "SPEAKER_05": "G04",
+   "SPEAKER_01": "G05",
+   "SPEAKER_03": "G09",
+   "SPEAKER_00": "G20",
+   "SPEAKER_02": "G25",
+   "SPEAKER_04": "G76"
+  },
+  "16": {
+   "SPEAKER_04": "G01",
+   "SPEAKER_08": "G02",
+   "SPEAKER_05": "G03",
+   "SPEAKER_06": "G04",
+   "SPEAKER_01": "G05",
+   "SPEAKER_02": "G09",
+   "SPEAKER_03": "G10",
+   "SPEAKER_00": "G20",
+   "SPEAKER_07": "G78"
+  },
+  "17": {
+   "SPEAKER_04": "G01",
+   "SPEAKER_02": "G02",
+   "SPEAKER_03": "G03",
+   "SPEAKER_01": "G04",
+   "SPEAKER_05": "G05",
+   "SPEAKER_00": "G09",
+   "SPEAKER_06": "G14",
+   "SPEAKER_07": "G22"
+  },
+  "18": {
+   "SPEAKER_07": "G01",
+   "SPEAKER_05": "G02",
+   "SPEAKER_06": "G03",
+   "SPEAKER_04": "G04",
+   "SPEAKER_02": "G09",
+   "SPEAKER_01": "G14",
+   "SPEAKER_08": "G19",
+   "SPEAKER_00": "G23",
+   "SPEAKER_03": "G27"
+  },
+  "19": {
+   "SPEAKER_06": "G01",
+   "SPEAKER_09": "G02",
+   "SPEAKER_05": "G03",
+   "SPEAKER_08": "G04",
+   "SPEAKER_00": "G05",
+   "SPEAKER_01": "G09",
+   "SPEAKER_03": "G10",
+   "SPEAKER_02": "G15",
+   "SPEAKER_04": "G17",
+   "SPEAKER_07": "G51"
+  },
+  "20": {
+   "SPEAKER_05": "G01",
+   "SPEAKER_04": "G02",
+   "SPEAKER_01": "G03",
+   "SPEAKER_03": "G04",
+   "SPEAKER_07": "G05",
+   "SPEAKER_00": "G09",
+   "SPEAKER_06": "G14",
+   "SPEAKER_02": "G53"
+  },
+  "21": {
+   "SPEAKER_06": "G01",
+   "SPEAKER_04": "G02",
+   "SPEAKER_05": "G03",
+   "SPEAKER_01": "G05",
+   "SPEAKER_00": "G09",
+   "SPEAKER_02": "G10",
+   "SPEAKER_03": "G18"
+  },
+  "22": {
+   "SPEAKER_02": "G01",
+   "SPEAKER_04": "G02",
+   "SPEAKER_01": "G03",
+   "SPEAKER_03": "G04",
+   "SPEAKER_00": "G10"
+  },
+  "23": {
+   "SPEAKER_05": "G01",
+   "SPEAKER_04": "G02",
+   "SPEAKER_02": "G03",
+   "SPEAKER_01": "G04",
+   "SPEAKER_00": "G25",
+   "SPEAKER_03": "G71"
+  },
+  "25": {
+   "SPEAKER_05": "G01",
+   "SPEAKER_04": "G02",
+   "SPEAKER_06": "G03",
+   "SPEAKER_03": "G04",
+   "SPEAKER_00": "G05",
+   "SPEAKER_01": "G10",
+   "SPEAKER_02": "G16"
+  },
+  "26": {
+   "SPEAKER_06": "G01",
+   "SPEAKER_02": "G02",
+   "SPEAKER_05": "G03",
+   "SPEAKER_01": "G04",
+   "SPEAKER_00": "G05",
+   "SPEAKER_03": "G46",
+   "SPEAKER_04": "G87"
+  },
+  "27": {
+   "SPEAKER_05": "G01",
+   "SPEAKER_02": "G02",
+   "SPEAKER_03": "G03",
+   "SPEAKER_00": "G05",
+   "SPEAKER_01": "G09",
+   "SPEAKER_06": "G23",
+   "SPEAKER_04": "G49",
+   "SPEAKER_07": "G70"
+  },
+  "28": {
+   "SPEAKER_05": "G01",
+   "SPEAKER_03": "G02",
+   "SPEAKER_04": "G03",
+   "SPEAKER_01": "G05",
+   "SPEAKER_00": "G09",
+   "SPEAKER_02": "G15"
+  },
+  "29": {
+   "SPEAKER_01": "G01",
+   "SPEAKER_02": "G02",
+   "SPEAKER_00": "G03",
+   "SPEAKER_03": "G04"
+  },
+  "30": {
+   "SPEAKER_05": "G01",
+   "SPEAKER_07": "G02",
+   "SPEAKER_06": "G03",
+   "SPEAKER_08": "G04",
+   "SPEAKER_00": "G05",
+   "SPEAKER_01": "G12",
+   "SPEAKER_02": "G16",
+   "SPEAKER_04": "G35",
+   "SPEAKER_03": "G73"
+  },
+  "31": {
+   "SPEAKER_02": "G01",
+   "SPEAKER_10": "G02",
+   "SPEAKER_07": "G03",
+   "SPEAKER_09": "G04",
+   "SPEAKER_03": "G05",
+   "SPEAKER_05": "G10",
+   "SPEAKER_04": "G12",
+   "SPEAKER_06": "G28",
+   "SPEAKER_00": "G40",
+   "SPEAKER_01": "G57",
+   "SPEAKER_11": "G63",
+   "SPEAKER_08": "G77"
+  },
+  "32": {
+   "SPEAKER_04": "G01",
+   "SPEAKER_02": "G02",
+   "SPEAKER_05": "G03",
+   "SPEAKER_03": "G04",
+   "SPEAKER_07": "G05",
+   "SPEAKER_00": "G10",
+   "SPEAKER_06": "G22",
+   "SPEAKER_01": "G26"
+  },
+  "33": {
+   "SPEAKER_01": "G01",
+   "SPEAKER_04": "G02",
+   "SPEAKER_02": "G03",
+   "SPEAKER_03": "G04",
+   "SPEAKER_00": "G05"
+  },
+  "34": {
+   "SPEAKER_08": "G01",
+   "SPEAKER_03": "G02",
+   "SPEAKER_07": "G03",
+   "SPEAKER_00": "G04",
+   "SPEAKER_05": "G11",
+   "SPEAKER_06": "G31",
+   "SPEAKER_02": "G42",
+   "SPEAKER_01": "G62",
+   "SPEAKER_04": "G69"
+  },
+  "35": {
+   "SPEAKER_05": "G01",
+   "SPEAKER_02": "G02",
+   "SPEAKER_06": "G03",
+   "SPEAKER_04": "G04",
+   "SPEAKER_08": "G05",
+   "SPEAKER_00": "G09",
+   "SPEAKER_07": "G14",
+   "SPEAKER_03": "G16",
+   "SPEAKER_01": "G60"
+  },
+  "36": {
+   "SPEAKER_06": "G01",
+   "SPEAKER_03": "G02",
+   "SPEAKER_04": "G03",
+   "SPEAKER_01": "G04",
+   "SPEAKER_00": "G05",
+   "SPEAKER_02": "G21",
+   "SPEAKER_05": "G24"
+  },
+  "37": {
+   "SPEAKER_03": "G01",
+   "SPEAKER_02": "G02",
+   "SPEAKER_04": "G03",
+   "SPEAKER_01": "G04",
+   "SPEAKER_00": "G05"
+  },
+  "38": {
+   "SPEAKER_00": "G01",
+   "SPEAKER_01": "G02",
+   "SPEAKER_03": "G03",
+   "SPEAKER_02": "G04"
+  },
+  "39": {
+   "SPEAKER_06": "G01",
+   "SPEAKER_05": "G02",
+   "SPEAKER_07": "G03",
+   "SPEAKER_04": "G04",
+   "SPEAKER_00": "G05",
+   "SPEAKER_01": "G09",
+   "SPEAKER_03": "G10",
+   "SPEAKER_02": "G67"
+  },
+  "41": {
+   "SPEAKER_04": "G01",
+   "SPEAKER_02": "G02",
+   "SPEAKER_03": "G03",
+   "SPEAKER_01": "G04",
+   "SPEAKER_07": "G05",
+   "SPEAKER_05": "G10",
+   "SPEAKER_00": "G12",
+   "SPEAKER_06": "G14"
+  },
+  "42": {
+   "SPEAKER_04": "G01",
+   "SPEAKER_11": "G02",
+   "SPEAKER_12": "G03",
+   "SPEAKER_09": "G04",
+   "SPEAKER_00": "G05",
+   "SPEAKER_02": "G11",
+   "SPEAKER_01": "G12",
+   "SPEAKER_05": "G15",
+   "SPEAKER_08": "G21",
+   "SPEAKER_03": "G24",
+   "SPEAKER_06": "G29",
+   "SPEAKER_10": "G47",
+   "SPEAKER_07": "G86"
+  },
+  "43": {
+   "SPEAKER_04": "G01",
+   "SPEAKER_01": "G02",
+   "SPEAKER_02": "G03",
+   "SPEAKER_00": "G05",
+   "SPEAKER_03": "G55"
+  },
+  "44": {
+   "SPEAKER_01": "G01",
+   "SPEAKER_02": "G02",
+   "SPEAKER_00": "G03",
+   "SPEAKER_03": "G04"
+  },
+  "45": {
+   "SPEAKER_04": "G01",
+   "SPEAKER_02": "G02",
+   "SPEAKER_03": "G03",
+   "SPEAKER_01": "G04",
+   "SPEAKER_00": "G05"
+  },
+  "46": {
+   "SPEAKER_05": "G01",
+   "SPEAKER_03": "G02",
+   "SPEAKER_04": "G03",
+   "SPEAKER_02": "G04",
+   "SPEAKER_00": "G05",
+   "SPEAKER_01": "G10"
+  },
+  "47": {
+   "SPEAKER_06": "G01",
+   "SPEAKER_04": "G02",
+   "SPEAKER_03": "G03",
+   "SPEAKER_01": "G04",
+   "SPEAKER_00": "G16",
+   "SPEAKER_07": "G39",
+   "SPEAKER_02": "G65",
+   "SPEAKER_05": "G88"
+  },
+  "48": {
+   "SPEAKER_06": "G01",
+   "SPEAKER_02": "G02",
+   "SPEAKER_05": "G03",
+   "SPEAKER_03": "G04",
+   "SPEAKER_00": "G05",
+   "SPEAKER_01": "G12",
+   "SPEAKER_04": "G41"
+  },
+  "49": {
+   "SPEAKER_04": "G01",
+   "SPEAKER_03": "G02",
+   "SPEAKER_05": "G03",
+   "SPEAKER_01": "G04",
+   "SPEAKER_07": "G05",
+   "SPEAKER_02": "G11",
+   "SPEAKER_00": "G15",
+   "SPEAKER_06": "G29"
+  },
+  "50": {
+   "SPEAKER_05": "G01",
+   "SPEAKER_08": "G02",
+   "SPEAKER_06": "G03",
+   "SPEAKER_03": "G04",
+   "SPEAKER_00": "G05",
+   "SPEAKER_02": "G10",
+   "SPEAKER_01": "G12",
+   "SPEAKER_07": "G43",
+   "SPEAKER_04": "G44"
+  },
+  "51": {
+   "SPEAKER_05": "G01",
+   "SPEAKER_02": "G02",
+   "SPEAKER_03": "G03",
+   "SPEAKER_00": "G04",
+   "SPEAKER_01": "G16",
+   "SPEAKER_04": "G48"
+  },
+  "52": {
+   "SPEAKER_02": "G01",
+   "SPEAKER_05": "G02",
+   "SPEAKER_03": "G03",
+   "SPEAKER_00": "G04",
+   "SPEAKER_01": "G32",
+   "SPEAKER_04": "G50"
+  },
+  "53": {
+   "SPEAKER_05": "G01",
+   "SPEAKER_03": "G02",
+   "SPEAKER_04": "G03",
+   "SPEAKER_02": "G04",
+   "SPEAKER_07": "G05",
+   "SPEAKER_01": "G09",
+   "SPEAKER_08": "G22",
+   "SPEAKER_06": "G34",
+   "SPEAKER_00": "G61"
+  },
+  "54": {
+   "SPEAKER_04": "G01",
+   "SPEAKER_07": "G02",
+   "SPEAKER_08": "G03",
+   "SPEAKER_06": "G04",
+   "SPEAKER_00": "G05",
+   "SPEAKER_01": "G15",
+   "SPEAKER_02": "G19",
+   "SPEAKER_05": "G74",
+   "SPEAKER_03": "G81"
+  },
+  "55": {
+   "SPEAKER_03": "G01",
+   "SPEAKER_05": "G02",
+   "SPEAKER_06": "G03",
+   "SPEAKER_02": "G04",
+   "SPEAKER_00": "G05",
+   "SPEAKER_01": "G10",
+   "SPEAKER_04": "G13"
+  },
+  "56": {
+   "SPEAKER_03": "G01",
+   "SPEAKER_01": "G02",
+   "SPEAKER_02": "G03",
+   "SPEAKER_00": "G12",
+   "SPEAKER_04": "G80"
+  },
+  "57": {
+   "SPEAKER_00": "G01",
+   "SPEAKER_02": "G02",
+   "SPEAKER_01": "G03",
+   "SPEAKER_03": "G04"
+  },
+  "58": {
+   "SPEAKER_06": "G01",
+   "SPEAKER_01": "G02",
+   "SPEAKER_03": "G03",
+   "SPEAKER_05": "G11",
+   "SPEAKER_00": "G13",
+   "SPEAKER_04": "G75",
+   "SPEAKER_02": "G84"
+  },
+  "59": {
+   "SPEAKER_04": "G01",
+   "SPEAKER_00": "G02",
+   "SPEAKER_02": "G03",
+   "SPEAKER_01": "G38",
+   "SPEAKER_03": "G89"
+  },
+  "60": {
+   "SPEAKER_04": "G01",
+   "SPEAKER_03": "G02",
+   "SPEAKER_05": "G03",
+   "SPEAKER_02": "G04",
+   "SPEAKER_00": "G05",
+   "SPEAKER_01": "G19"
+  },
+  "61": {
+   "SPEAKER_04": "G01",
+   "SPEAKER_02": "G02",
+   "SPEAKER_03": "G03",
+   "SPEAKER_01": "G04",
+   "SPEAKER_05": "G05",
+   "SPEAKER_00": "G58"
+  },
+  "62": {
+   "SPEAKER_05": "G01",
+   "SPEAKER_04": "G02",
+   "SPEAKER_07": "G03",
+   "SPEAKER_03": "G04",
+   "SPEAKER_00": "G40",
+   "SPEAKER_01": "G57",
+   "SPEAKER_06": "G66",
+   "SPEAKER_02": "G72"
+  },
+  "1": {
+   "SPEAKER_01": "G02",
+   "SPEAKER_00": "G83",
+   "SPEAKER_02": "G85"
+  },
+  "40": {
+   "SPEAKER_00": "G02"
+  },
+  "24": {
+   "SPEAKER_00": "G05",
+   "SPEAKER_03": "G06",
+   "SPEAKER_02": "G07",
+   "SPEAKER_01": "G08",
+   "SPEAKER_04": "G33"
+  }
+ }
+}

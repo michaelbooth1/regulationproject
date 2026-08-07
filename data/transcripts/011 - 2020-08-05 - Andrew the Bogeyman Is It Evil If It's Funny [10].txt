@@ -1,0 +1,2976 @@
+# Episode 11: Andrew the Bogeyman//Is It Evil If It's Funny? [10]
+published: 2020-08-05T07:00:00+00:00  |  duration: 00:44:37
+source: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER7442887311.mp3?updated=1773846323
+transcribed: 2026-08-07T00:47:48.824666-04:00  |  model: large-v3-turbo
+diarization: pyannote/speaker-diarization-3.1
+
+
+[00:00:00] SPEAKER_01
+There's no shortcut for saving time, but saving money is simple. Just combine your car and home insurance with Bel Air Direct and save. Get a quote at belairdirect.com.
+
+[00:00:10] SPEAKER_00
+Regousse believes in the art of living, in choosing the pleasurable over the practical. It's why we craft our premium vodka in France using pure spring water from Genzac.
+
+[00:00:24] SPEAKER_00
+And while you hear the celebratory pub of our cork, reminding us to make every martini cocktail count.
+
+[00:00:31] SPEAKER_00
+So, go on and make every moment count. Because there's no better time than now.
+
+[00:00:38] SPEAKER_00
+Grey Goose. Make. Time. Wait. Sip responsibly.
+
+[00:00:42] SPEAKER_04
+And welcome to another episode. Was that too, was that an appropriate level of excitement? I just realized I didn't check with you.
+
+[00:01:02] SPEAKER_03
+Yeah, it was a good, you know, I wasn't going to interrupt you this time, because you were so aggressive about it last time.
+
+[00:01:07] SPEAKER_03
+Yeah, so you interrupted yourself for some reason. But yeah, I'd say that was pretty good.
+
+[00:01:11] SPEAKER_04
+I'll be honest, you guys have me second-guessing myself a lot these days. Okay.
+
+[00:01:16] SPEAKER_04
+That's for the best, though.
+
+[00:01:17] SPEAKER_04
+Episode of F**kface. My name is Geoff Ramsey, and as with me, with me as always, the other two.
+
+[00:01:25] SPEAKER_04
+I'm one of the other two.
+
+[00:01:26] SPEAKER_04
+I'm the other one.
+
+[00:01:27] SPEAKER_04
+Gavin and Andrew. How's it going, boys?
+
+[00:01:30] SPEAKER_04
+I'm pretty good. How are you?
+
+[00:01:31] SPEAKER_04
+I'm pretty good. I'm pretty good. I'm excited, because we just recorded what I think was one of the episodes of the show.
+
+[00:01:40] SPEAKER_04
+Yeah.
+
+[00:01:40] SPEAKER_04
+The previous episode.
+
+[00:01:41] SPEAKER_03
+Yeah, that's a factually correct statement. I can confirm that.
+
+[00:01:45] SPEAKER_02
+So, Geoff, you mentioned last episode that you had listened to previous episodes of F**kface.
+
+[00:01:51] SPEAKER_02
+Yeah.
+
+[00:01:51] SPEAKER_02
+Is it good? Is it any good?
+
+[00:01:53] SPEAKER_04
+I quite, I'll be totally, I'll break character here, I'll be totally honest with you.
+
+[00:01:57] SPEAKER_04
+I quite enjoy the interplay between you guys, and I don't know if it's my inability to recognize myself in a positive way ever for anything,
+
+[00:02:08] SPEAKER_04
+but I find myself to be grating and obnoxious and overbearing, and I laugh too, and I find that I laugh too much, and when I do, it sounds disingenuous, even though it's not.
+
+[00:02:17] SPEAKER_04
+But I find you guys to be really funny, and I quite enjoyed listening to you two talk, because when you're doing a podcast like this, or let's say a Let's Play at Rooster Teeth,
+
+[00:02:28] SPEAKER_04
+or one of those things where you're performing, you're hyper aware of everything that's happening, and you're in the conversation, but you're, it's different to perform in it than it is to listen to it and enjoy it, if that makes sense.
+
+[00:02:40] SPEAKER_04
+And so, being able to go back and listen to you guys, just listen to you guys talk, and be able to take it for what it is without having to be thinking about pacing, and where to take the story, or when to interject, you know what I mean?
+
+[00:02:50] SPEAKER_04
+It's a much more fun, passive experience for me, going back and listening to you guys talk.
+
+[00:02:54] SPEAKER_02
+Wow, that took me by surprise. I was ready for an insult. I didn't get one.
+
+[00:02:58] SPEAKER_03
+I hate you, Jeff. I hate you. I was so prepared to f***ing face you, censor it, bleep out, I was the only time in my life I've been ready, and you decide to be nice. The only time.
+
+[00:03:12] SPEAKER_02
+Imagine Jeff spewing all that wonderfulness, and Andrew just like, f***, f***.
+
+[00:03:16] SPEAKER_03
+Yeah, I was, I had my finger on the trigger, I was ready to go, Jeff decided to be a nice guy. God damn it. Thank you, but god damn it.
+
+[00:03:26] SPEAKER_04
+Gotta keep you guys on your toes? There you go. God damn it.
+
+[00:03:30] SPEAKER_04
+Speaking of you, Andrew, I want to talk about an idea. I mentioned earlier I have an idea for a product, and it centers around you.
+
+[00:03:37] SPEAKER_03
+Oh, this is horrifying. Considering the last thing you thought I would qualify for, I'm a little nervous.
+
+[00:03:43] SPEAKER_04
+I'm excited about it. And when I say product, I feel like that's a little disingenuous. I was just trying to be obtuse, so that you couldn't follow the thread.
+
+[00:03:52] SPEAKER_04
+I think that you have the makings of, I think that maybe, maybe we've all been looking at you the wrong way.
+
+[00:04:00] SPEAKER_04
+And we've been, like Gavin and I, we've been taking you the wrong way.
+
+[00:04:04] SPEAKER_04
+I've always, I've always taken you as this, like, happy-go-lucky, really talented, good-natured, good-hearted, too funny for his own good, too mischievous for his own good kid,
+
+[00:04:15] SPEAKER_04
+who kind of practices a, like a chaotic good malevolence upon his own life, but also the people around him, but in an endearing way.
+
+[00:04:27] SPEAKER_04
+I'm waiting for the turn. However, I think you have the makings of, like a, let's say, like a Krampus, or...
+
+[00:04:37] SPEAKER_04
+What?
+
+[00:04:38] SPEAKER_04
+What's, what's, what's a, like, what's another evil entity?
+
+[00:04:42] SPEAKER_04
+I did not expect, like boogie man, boogie man type creature, right?
+
+[00:04:47] SPEAKER_04
+Krampus?
+
+[00:04:47] SPEAKER_04
+Like a, like candy man, I think of, like, a horror movie villain, like, uh, yeah, like maybe...
+
+[00:04:53] SPEAKER_04
+Hitla.
+
+[00:04:54] SPEAKER_04
+Well, I think less...
+
+[00:04:56] SPEAKER_04
+I really should have blocked that one. That's a regrettable miss.
+
+[00:05:00] SPEAKER_04
+I know, I wasn't going that way. But yeah, I think more like, like, the thing that people are scared of in the night.
+
+[00:05:06] SPEAKER_04
+And here's why. Here's why.
+
+[00:05:08] SPEAKER_04
+Okay.
+
+[00:05:09] SPEAKER_04
+I'm going to take a couple of examples.
+
+[00:05:10] SPEAKER_03
+Okay.
+
+[00:05:11] SPEAKER_04
+You told a story about, uh, how awkward you are and how socially inept you are. And so you found a guy to cut your hair. And so when he retired and moved to the old folks home, you just dotingly and awkwardly followed along with him.
+
+[00:05:27] SPEAKER_03
+That's not exactly how it went, but okay.
+
+[00:05:30] SPEAKER_03
+It's pretty close.
+
+[00:05:30] SPEAKER_03
+Not really.
+
+[00:05:31] SPEAKER_04
+And you, you talk about how you pretend to be interested in, in football while he pretends to be interested in hockey or golf or whatever it was. Tennis maybe.
+
+[00:05:39] SPEAKER_04
+And, uh...
+
+[00:05:40] SPEAKER_03
+Slipped those as well, but that's fine. Continue.
+
+[00:05:41] SPEAKER_04
+Yeah. And then, uh, you talked about, uh, another story. I'm just pulling these from the ether.
+
+[00:05:47] SPEAKER_04
+Okay.
+
+[00:05:47] SPEAKER_04
+Another story is, uh, there was the time when you found all the, like, hamster traps...
+
+[00:05:51] SPEAKER_04
+Yep, yep.
+
+[00:05:52] SPEAKER_04
+...in your yard.
+
+[00:05:53] SPEAKER_04
+Mm-hmm.
+
+[00:05:53] SPEAKER_04
+And you thought that somebody was, was performing some sort of a malicious prank or weird thing on you.
+
+[00:06:00] SPEAKER_04
+That was the time that you mistakenly sent a package to yourself, but you sent it to an old address.
+
+[00:06:08] SPEAKER_04
+So instead of just going up and knocking on the door, you, uh, developed an elaborate plan which required you, uh, putting Chinese food flyers all over a neighborhood.
+
+[00:06:17] SPEAKER_04
+Uh, and then, there was a recent one that you just brought up where you, uh, were, uh, alerted to looking out the window by an ambulance and flashing sirens, and then you, uh, unintentionally following a mystery, ended up watching a homeless lady go to the bathroom.
+
+[00:06:34] SPEAKER_04
+Uh, yeah.
+
+[00:06:36] SPEAKER_04
+Those all sound perfectly rational when told through that lens.
+
+[00:06:40] SPEAKER_04
+But, well, here's what I'm thinking.
+
+[00:06:41] SPEAKER_04
+I'm thinking, what if we've been looking at you the wrong way?
+
+[00:06:44] SPEAKER_04
+What if you have been unintentionally terrorizing your poor town and island, and you've become, like, a mythical boogeyman-type creature?
+
+[00:06:53] SPEAKER_04
+For instance, you're the kid that it was so, that the barber was so scared of because he's so intimidated by you and your forceful sports talk, he tried to go the one place a 20-year-old man would not follow him, an old folks' home.
+
+[00:07:07] SPEAKER_04
+It's anathema to youth to go to an old folks' home.
+
+[00:07:10] SPEAKER_04
+It was the only place he could think of to stay in business and hide, and you still found him.
+
+[00:07:15] SPEAKER_04
+Or maybe the person who lived in that house before you, or lived next door, was a little boy who had a pet hamster that his dad gave him, and then his dad died in a plane crash, and all he has to remember his dad by is this hamster, and the hamster got out one night, and he's been going and setting traps trying to find his poor hamster that reminds him of his dead dad.
+
+[00:07:35] SPEAKER_04
+And every time you find it, you throw it on the pile, or you smash it, or you, in some way, stop this poor kid from reconnecting with his dead father.
+
+[00:07:42] SPEAKER_04
+Or, what if this poor Chinese food restaurant is getting fined by the local authorities because they keep flyering neighborhoods, and they don't, and they keep saying, no, it's this Andrew, it's Andrew, it's the name that people whisper in the dark, it's Andrew, and they're like, Andrew doesn't exist, he's not real.
+
+[00:07:59] SPEAKER_04
+What if there's a poor homeless woman who's like, every time I go to the bathroom, there's this pair of eyes staring at me through a window, it's Andrew.
+
+[00:08:07] SPEAKER_04
+Andrew, what if you are Andrew, the boogeyman?
+
+[00:08:13] SPEAKER_03
+Andrew, I prefer Andrew from the block, I think that was a better, I'd rather have that title.
+
+[00:08:19] SPEAKER_03
+Sure.
+
+[00:08:20] SPEAKER_03
+I will say, I don't necessarily agree with a lot of what you're saying.
+
+[00:08:23] SPEAKER_02
+That was a torrent.
+
+[00:08:24] SPEAKER_03
+It was a lot, but to give a little bit of evidence to part of your theory, the guy that cuts my hair, very shaky hands, I don't know if he's like that with everybody.
+
+[00:08:33] SPEAKER_03
+Because he's terrifying.
+
+[00:08:34] SPEAKER_03
+It's fine, that's what I'm saying, I'm adding a little bit of weight to your theory.
+
+[00:08:39] SPEAKER_02
+So wait, you exclusively see a hairdresser who is incredibly difficult to get to, and his hands shake while he's cutting your hair?
+
+[00:08:47] SPEAKER_03
+Yeah, because he knows how to cut my hair, it's convenient.
+
+[00:08:50] SPEAKER_04
+He knows how to cut your hair out of fear because he's scared you're going to kill him.
+
+[00:08:54] SPEAKER_03
+I don't think that's true, but the handshaking is a little weird.
+
+[00:08:57] SPEAKER_04
+Coronavirus might have been the best thing to ever happen to that poor man.
+
+[00:08:59] SPEAKER_03
+That's one way to look at it.
+
+[00:09:01] SPEAKER_03
+I mean, that's a take, I guess.
+
+[00:09:04] SPEAKER_03
+I don't really know what to say.
+
+[00:09:05] SPEAKER_03
+I didn't expect it to be called Krampus.
+
+[00:09:07] SPEAKER_02
+Yeah, the Krampus was a, that took a turn into Krampus.
+
+[00:09:11] SPEAKER_99
+Yeah.
+
+[00:09:12] SPEAKER_04
+I'm not expecting that.
+
+[00:09:13] SPEAKER_04
+No.
+
+[00:09:14] SPEAKER_04
+Just something to think about.
+
+[00:09:16] SPEAKER_04
+You might be, so anyway, my idea for a product is we should franchise you as the new,
+
+[00:09:22] SPEAKER_04
+like, evil, scary thing in the night.
+
+[00:09:27] SPEAKER_04
+The thing that goes bump in the night.
+
+[00:09:28] SPEAKER_03
+How do I advertise that?
+
+[00:09:30] SPEAKER_03
+Do I just, is that on my, I'm the thing in the night on my Twitter bio?
+
+[00:09:34] SPEAKER_03
+Hire me?
+
+[00:09:34] SPEAKER_04
+Yeah, maybe, I don't know, maybe we could write a book about it or we make a movie and
+
+[00:09:40] SPEAKER_04
+you could be like, like maybe it's a movie franchise, like Friday the 13th or Nightmare
+
+[00:09:46] SPEAKER_04
+on Elm Street.
+
+[00:09:47] SPEAKER_04
+It's very, Nightmare on Elm Street, very cerebral.
+
+[00:09:49] SPEAKER_04
+You're a smart guy.
+
+[00:09:50] SPEAKER_04
+Maybe you're like the new Freddy Krueger.
+
+[00:09:52] SPEAKER_02
+I wonder what the day rate should be on the thing in the night.
+
+[00:09:55] SPEAKER_03
+That's a great question, too.
+
+[00:09:57] SPEAKER_03
+And also, I, like, you say these like I'm purposefully causing them.
+
+[00:10:01] SPEAKER_03
+These are just things that have happened.
+
+[00:10:03] SPEAKER_03
+I don't feel I'm at fault for most of these things.
+
+[00:10:05] SPEAKER_02
+What do you mean?
+
+[00:10:05] SPEAKER_02
+You're not at fault?
+
+[00:10:06] SPEAKER_03
+I don't think I'm at fault in any way.
+
+[00:10:08] SPEAKER_03
+I don't think I caused any of these to happen.
+
+[00:10:10] SPEAKER_02
+Well, okay, but like for the stuff where you smacked every button in the lift, so Steven
+
+[00:10:15] SPEAKER_02
+Spielberg had to go to every floor of that building.
+
+[00:10:18] SPEAKER_04
+Can we tell that fucking story?
+
+[00:10:21] SPEAKER_04
+After this bit.
+
+[00:10:24] SPEAKER_04
+If we must.
+
+[00:10:25] SPEAKER_04
+That is the best story.
+
+[00:10:27] SPEAKER_04
+Also, lends a lot of credence to where I'm going with this.
+
+[00:10:31] SPEAKER_04
+For all I know, Steven Spielberg whispers your name to his kids at night to scare them.
+
+[00:10:36] SPEAKER_03
+I don't think that's true.
+
+[00:10:38] SPEAKER_02
+I feel like, here's why this analogy doesn't work.
+
+[00:10:40] SPEAKER_02
+The Krampus is scary in appearance.
+
+[00:10:44] SPEAKER_02
+I've met Andrew, you know, not a scary, not a scary person to look at.
+
+[00:10:48] SPEAKER_04
+Yeah, but Robert England isn't scary.
+
+[00:10:51] SPEAKER_04
+Freddy Krueger is.
+
+[00:10:52] SPEAKER_03
+Yeah, but he's like missing.
+
+[00:10:54] SPEAKER_03
+He's not playing himself.
+
+[00:10:55] SPEAKER_03
+He doesn't just show up.
+
+[00:10:56] SPEAKER_03
+And he's Freddy Krueger.
+
+[00:10:58] SPEAKER_03
+They put, like, paint on his face and stuff.
+
+[00:11:00] SPEAKER_03
+Half his face is missing.
+
+[00:11:02] SPEAKER_04
+He's got burns everywhere.
+
+[00:11:03] SPEAKER_04
+He will burn your face or whatever.
+
+[00:11:05] SPEAKER_04
+That's fine.
+
+[00:11:05] SPEAKER_04
+That'll be a part of it.
+
+[00:11:06] SPEAKER_03
+What if I become Two-Face?
+
+[00:11:08] SPEAKER_03
+Consider that.
+
+[00:11:09] SPEAKER_03
+What if we go too far?
+
+[00:11:10] SPEAKER_04
+You could be like No-Face.
+
+[00:11:11] SPEAKER_04
+Oh.
+
+[00:11:12] SPEAKER_03
+That's not...
+
+[00:11:13] SPEAKER_04
+I can live with that.
+
+[00:11:17] SPEAKER_04
+I agree with you, Gavin, in that it works better as a psychological horror when you only hear of
+
+[00:11:24] SPEAKER_04
+Andrew whispered in the dark.
+
+[00:11:26] SPEAKER_04
+When you see him, it takes a bit of the fear away.
+
+[00:11:30] SPEAKER_03
+Boo.
+
+[00:11:31] SPEAKER_03
+I emerge from the darkness.
+
+[00:11:34] SPEAKER_02
+Yeah, it should be someone that you never see but only hear about.
+
+[00:11:38] SPEAKER_02
+Yeah.
+
+[00:11:38] SPEAKER_03
+The other thing I feel bad about this with is I get mistaken for a different Andrew Panton.
+
+[00:11:44] SPEAKER_03
+A decent amount.
+
+[00:11:44] SPEAKER_02
+That's two Andrew Pantons?
+
+[00:11:46] SPEAKER_03
+There's way more.
+
+[00:11:47] SPEAKER_03
+I'm in a group chat of just Andrew Pantons, which is great.
+
+[00:11:51] SPEAKER_03
+It's me and five other Andrew Pantons.
+
+[00:11:53] SPEAKER_03
+It's a very supportive group.
+
+[00:11:54] SPEAKER_04
+Do you all look the same?
+
+[00:11:55] SPEAKER_04
+How did you meet each other?
+
+[00:11:57] SPEAKER_03
+Yeah, you would think this sounds like an idea I would come up with, but I just got invited
+
+[00:12:01] SPEAKER_03
+in a messenger group to a chat called Andrew Pantons, and it was me and five other Andrew
+
+[00:12:05] SPEAKER_03
+Pantons, and that's the only similarity.
+
+[00:12:07] SPEAKER_03
+We all have the same name.
+
+[00:12:08] SPEAKER_02
+But what do you have in common, though?
+
+[00:12:10] SPEAKER_02
+Oh, nothing.
+
+[00:12:10] SPEAKER_02
+Aside from having the same name.
+
+[00:12:11] SPEAKER_03
+It's just like, hey, this is kind of funny.
+
+[00:12:13] SPEAKER_03
+And it's like, yeah, this is funny.
+
+[00:12:14] SPEAKER_03
+And then it's not an active chat, but there's some communication.
+
+[00:12:17] SPEAKER_03
+I check in.
+
+[00:12:19] SPEAKER_02
+It's like you have access to a parallel universe where you can see other versions of you and how
+
+[00:12:23] SPEAKER_02
+they turned out.
+
+[00:12:24] SPEAKER_02
+They're all you, but they've all gone on different paths.
+
+[00:12:27] SPEAKER_02
+Who's the most successful Andrew Pantons, judging by the chat?
+
+[00:12:30] SPEAKER_03
+That's the thing.
+
+[00:12:31] SPEAKER_03
+I feel really bad about whenever I pop up in any way on the internet, because there is
+
+[00:12:38] SPEAKER_03
+another Andrew Pantons who is way more accomplished than I am.
+
+[00:12:42] SPEAKER_03
+What has he done?
+
+[00:12:43] SPEAKER_03
+This is what he's done.
+
+[00:12:44] SPEAKER_03
+This has caused some problems in my life.
+
+[00:12:45] SPEAKER_03
+He was Susan Boyle's original vocal coach.
+
+[00:12:50] SPEAKER_03
+He taught her how to sing.
+
+[00:12:52] SPEAKER_03
+That's what the actual that's what that top Andrew Pantons has done as far as what I'm
+
+[00:12:57] SPEAKER_03
+aware of.
+
+[00:12:58] SPEAKER_03
+That's the greatest accomplishment of any Andrew Pantons.
+
+[00:13:02] SPEAKER_03
+It has caused problems.
+
+[00:13:04] SPEAKER_02
+That to be fair is way cooler than anything you've done.
+
+[00:13:06] SPEAKER_03
+Yeah.
+
+[00:13:07] SPEAKER_03
+A hundred percent cooler.
+
+[00:13:09] SPEAKER_03
+He does like musical stuff.
+
+[00:13:11] SPEAKER_03
+He teaches like a program in England.
+
+[00:13:13] SPEAKER_03
+Like he's very accomplished taught Susan Boyle how to sing.
+
+[00:13:16] SPEAKER_03
+I don't have any of that.
+
+[00:13:17] SPEAKER_03
+So whenever if I ever pop up ahead of him in any way, I always feel embarrassed.
+
+[00:13:22] SPEAKER_02
+Have you ever thought about taking out all of the other Andrew Pantons so you gain all
+
+[00:13:27] SPEAKER_02
+of their power?
+
+[00:13:28] SPEAKER_03
+No, like that's never crossed my mind.
+
+[00:13:31] SPEAKER_04
+Yeah.
+
+[00:13:32] SPEAKER_04
+Or like there was a comic called Rising Stars that was like that, which is interesting
+
+[00:13:36] SPEAKER_04
+you say that, Gav, because I was going to bring up what if Andrew is the least evil
+
+[00:13:40] SPEAKER_04
+of the Andrews and his like their worst versions of him, like some sort of a multiverse type
+
+[00:13:46] SPEAKER_04
+thing.
+
+[00:13:48] SPEAKER_04
+And there are like we all now realize how evil and the Andrew that goes bump in the night
+
+[00:13:53] SPEAKER_04
+is one of you're the best version.
+
+[00:13:55] SPEAKER_03
+That's an alarming thing to consider.
+
+[00:13:59] SPEAKER_03
+I hope that's not the case.
+
+[00:14:01] SPEAKER_03
+I will say just to continue the Susan Boyle talk for a minute, I got an angry mob of Susan
+
+[00:14:07] SPEAKER_03
+Boyle fans mad at me at one point.
+
+[00:14:09] SPEAKER_03
+And that is not a community community you want to have any issue with.
+
+[00:14:12] SPEAKER_03
+I've been blocked by several Susan Boyle fans.
+
+[00:14:15] SPEAKER_03
+They're aggressive.
+
+[00:14:16] SPEAKER_03
+They're old, but they're aggressive.
+
+[00:14:18] SPEAKER_03
+How did you anger them?
+
+[00:14:19] SPEAKER_03
+Well, I because I have my Twitter name is at Andrew Panton.
+
+[00:14:22] SPEAKER_03
+I have the Twitter handle, so sometimes I'll get tweets from people asking about Susan Boyle
+
+[00:14:27] SPEAKER_03
+and I always respond to them.
+
+[00:14:30] SPEAKER_03
+I always think it's if I get if someone mistakes me for someone else, I always think it's funnier
+
+[00:14:34] SPEAKER_03
+just to pretend to be that person and to give a terrible opinion because they think I'm
+
+[00:14:39] SPEAKER_03
+the person and it doesn't reflect on me.
+
+[00:14:41] SPEAKER_03
+It reflects on them.
+
+[00:14:42] SPEAKER_03
+It's like house money.
+
+[00:14:43] SPEAKER_03
+Pretty evil thing to do.
+
+[00:14:44] SPEAKER_03
+I mean, I confess at a certain point, but the Susan Boyle thing was the thing where someone
+
+[00:14:49] SPEAKER_03
+asked me what her set list was for a show she did.
+
+[00:14:53] SPEAKER_03
+It was like, oh, I was going to perform and I was going to go and I missed it.
+
+[00:14:56] SPEAKER_03
+What was the set list?
+
+[00:14:57] SPEAKER_03
+I'd love to know.
+
+[00:14:58] SPEAKER_03
+And I sent this like 15 song list that included Free Bird, Baby Got Back.
+
+[00:15:05] SPEAKER_03
+I included like ridiculous song Barbie Girl, whatever I could think of.
+
+[00:15:10] SPEAKER_03
+Like, there's no way she'd perform this.
+
+[00:15:11] SPEAKER_03
+Barbie Girl.
+
+[00:15:12] SPEAKER_03
+But I didn't what I didn't anticipate.
+
+[00:15:15] SPEAKER_03
+Here's the problem.
+
+[00:15:15] SPEAKER_03
+I don't fully think a lot of these plans through her response was, oh, that sounds wonderful.
+
+[00:15:20] SPEAKER_03
+Thank you so much for replying unsarcastically.
+
+[00:15:23] SPEAKER_03
+I never considered she would think the song list was real.
+
+[00:15:27] SPEAKER_03
+Then it spiraled into like some other Susan Boyle fans saw it and was like, this guy is
+
+[00:15:32] SPEAKER_03
+not who you think he is.
+
+[00:15:33] SPEAKER_03
+This is all a root.
+
+[00:15:35] SPEAKER_03
+He's trolling you.
+
+[00:15:35] SPEAKER_03
+This is a troll.
+
+[00:15:37] SPEAKER_03
+He's nasty.
+
+[00:15:38] SPEAKER_03
+And then I it just turned into a whole thing.
+
+[00:15:40] SPEAKER_03
+I got blocked by a bunch of Susan Boyle fans.
+
+[00:15:42] SPEAKER_03
+They weren't happy with me, man.
+
+[00:15:44] SPEAKER_03
+Yeah, it's a weird group.
+
+[00:15:45] SPEAKER_03
+I never thought I'd have a battle with Susan Boyle fans, but it's happened.
+
+[00:15:50] SPEAKER_02
+Well, what was Boyle up to these days?
+
+[00:15:52] SPEAKER_02
+What's she playing at?
+
+[00:15:53] SPEAKER_03
+I have no idea.
+
+[00:15:53] SPEAKER_03
+I haven't heard in a while.
+
+[00:15:54] SPEAKER_03
+Nobody's tweeted.
+
+[00:15:56] SPEAKER_03
+How do you not keep up with Susan Boyle?
+
+[00:15:59] SPEAKER_03
+It used to be easy, Jeff.
+
+[00:16:00] SPEAKER_03
+The news would come to me.
+
+[00:16:01] SPEAKER_03
+I don't think she's up to much based on what I've heard.
+
+[00:16:05] SPEAKER_03
+I don't have any update on Susan Boyle.
+
+[00:16:07] SPEAKER_03
+I hope she's doing well.
+
+[00:16:09] SPEAKER_04
+She's OK, right?
+
+[00:16:10] SPEAKER_04
+Susan Boyle, voice like an angel, vocal coach like a demon.
+
+[00:16:15] SPEAKER_04
+Vocal coach like Krampus.
+
+[00:16:17] SPEAKER_03
+People say one thing about Susan Boyle.
+
+[00:16:19] SPEAKER_03
+That vocal coach sure is Krampus-like.
+
+[00:16:22] SPEAKER_99
+Krampus.
+
+[00:16:23] SPEAKER_03
+It's such a weird pull.
+
+[00:16:25] SPEAKER_03
+Why did he go Krampus?
+
+[00:16:26] SPEAKER_04
+The success she's been able to have despite having you in her corner.
+
+[00:16:33] SPEAKER_03
+That's the real inspiration of the story.
+
+[00:16:35] SPEAKER_03
+Not her own accomplishments.
+
+[00:16:37] SPEAKER_03
+It's what she's overcome within her own team to get to where she is.
+
+[00:16:41] SPEAKER_02
+Why were you in a lift with Stevie Spiels?
+
+[00:16:44] SPEAKER_03
+It was just a coincidence.
+
+[00:16:45] SPEAKER_03
+I was just in the same elevator with him.
+
+[00:16:47] SPEAKER_03
+I was there for a different...
+
+[00:16:49] SPEAKER_03
+I was in Vancouver for something.
+
+[00:16:50] SPEAKER_03
+Yeah.
+
+[00:16:50] SPEAKER_03
+Do you want to give us the whole spiel?
+
+[00:16:52] SPEAKER_03
+I'll give it abbreviated.
+
+[00:16:53] SPEAKER_03
+I'll give like the highlights.
+
+[00:16:55] SPEAKER_03
+I was in an elevator with him and there was an issue and I felt like he was being a jerk.
+
+[00:17:02] SPEAKER_03
+And so when I got to my floor, I hit all of the buttons because he had to go to a higher floor and I ran out.
+
+[00:17:08] SPEAKER_03
+That was about it.
+
+[00:17:09] SPEAKER_03
+I will say a second thing that made me very proud is like four years later, that exact scenario played out on Curb Your Enthusiasm.
+
+[00:17:16] SPEAKER_03
+Larry does that to somebody.
+
+[00:17:18] SPEAKER_03
+Yeah.
+
+[00:17:18] SPEAKER_03
+The exact same thing happened.
+
+[00:17:19] SPEAKER_03
+I was like, holy shit.
+
+[00:17:21] SPEAKER_03
+I did that.
+
+[00:17:22] SPEAKER_03
+I lived that ridiculous moment.
+
+[00:17:23] SPEAKER_04
+What did Steven Spielberg yell at you as you ran out the door at the elevator?
+
+[00:17:27] SPEAKER_03
+I don't...
+
+[00:17:28] SPEAKER_03
+Did he yell something?
+
+[00:17:28] SPEAKER_03
+Yeah.
+
+[00:17:28] SPEAKER_04
+I don't remember that part.
+
+[00:17:29] SPEAKER_04
+You told me he yelled, hey, you, come here.
+
+[00:17:33] SPEAKER_04
+Oh, I don't remember that.
+
+[00:17:34] SPEAKER_04
+I guess he did.
+
+[00:17:36] SPEAKER_04
+Because you got off on the third floor and he was going to like the 36th floor or something.
+
+[00:17:42] SPEAKER_03
+Yeah, I was on a much lower floor than the button he hit.
+
+[00:17:45] SPEAKER_02
+Did he have like an entourage or was it just him?
+
+[00:17:47] SPEAKER_03
+It was just him.
+
+[00:17:48] SPEAKER_02
+Oh.
+
+[00:17:49] SPEAKER_02
+Surprising.
+
+[00:17:51] SPEAKER_03
+Yeah.
+
+[00:17:51] SPEAKER_03
+I mean, you're in a hotel.
+
+[00:17:52] SPEAKER_03
+I didn't do people have entourages.
+
+[00:17:54] SPEAKER_03
+An elevator is kind of a tough place to have an entourage.
+
+[00:17:57] SPEAKER_03
+You kind of own the elevator at that point.
+
+[00:17:59] SPEAKER_03
+You're not just going into elevators.
+
+[00:18:01] SPEAKER_04
+He probably ended up being late for some meeting that lost him a gig.
+
+[00:18:06] SPEAKER_04
+And as he was going to bed, that's like the last thing he thought of was, Andrew.
+
+[00:18:10] SPEAKER_03
+That is what I'd love to know.
+
+[00:18:12] SPEAKER_03
+Like you talking about, and I think you took it to maybe a ridiculous level, but I'm sure
+
+[00:18:17] SPEAKER_03
+there is a world impact that I'm not aware of, of some of these stories that have happened
+
+[00:18:22] SPEAKER_03
+to me.
+
+[00:18:23] SPEAKER_03
+And I'd love to know what the ripple effect of those button presses was.
+
+[00:18:28] SPEAKER_04
+Here's what I'm trying to do for you, Andrew.
+
+[00:18:29] SPEAKER_04
+I'm trying to make you more than a man.
+
+[00:18:32] SPEAKER_04
+I'm trying to make you like mythical.
+
+[00:18:35] SPEAKER_04
+I want the name Andrew Patton or whatever we end up calling you, like Andrew the Pissperv
+
+[00:18:41] SPEAKER_04
+or whatever it is.
+
+[00:18:42] SPEAKER_04
+I want it to live beyond your lifespan.
+
+[00:18:46] SPEAKER_02
+The Pissperv.
+
+[00:18:48] SPEAKER_02
+I feel like myths and legends are never man-made.
+
+[00:18:53] SPEAKER_02
+They always come after.
+
+[00:18:54] SPEAKER_02
+You can't try and become a myth.
+
+[00:18:56] SPEAKER_02
+You are just mythical.
+
+[00:18:57] SPEAKER_03
+I think if I put my foreskin in my ass, I would become, that would be a man-made, I think
+
+[00:19:04] SPEAKER_03
+I'd get credit for that.
+
+[00:19:05] SPEAKER_03
+That's never happening.
+
+[00:19:06] SPEAKER_04
+Interesting that you brought that up.
+
+[00:19:07] SPEAKER_03
+Yeah.
+
+[00:19:08] SPEAKER_03
+I don't know where I got that from.
+
+[00:19:09] SPEAKER_03
+Yeah.
+
+[00:19:10] SPEAKER_03
+Randomly pulled that one.
+
+[00:19:12] SPEAKER_02
+Can we cut that entire conversation from the last episode just so that it was more insane?
+
+[00:19:18] SPEAKER_03
+No.
+
+[00:19:19] SPEAKER_03
+Fuck you.
+
+[00:19:20] SPEAKER_02
+No.
+
+[00:19:21] SPEAKER_02
+Andrew, where would you get that from?
+
+[00:19:23] SPEAKER_03
+Why is he always talking about his foreskin?
+
+[00:19:26] SPEAKER_03
+Jeff talked about that for like 20 minutes.
+
+[00:19:29] SPEAKER_03
+You're just cutting, like that's the whole episode.
+
+[00:19:31] SPEAKER_03
+I don't remember any of that.
+
+[00:19:33] SPEAKER_03
+We're not having a 20 minute episode.
+
+[00:19:35] SPEAKER_04
+You'd be a real f*** face here, Andrew.
+
+[00:19:38] SPEAKER_03
+If one episode is suddenly 20 minutes long, you don't think people are going to think that's
+
+[00:19:42] SPEAKER_03
+suspicious?
+
+[00:19:42] SPEAKER_02
+That's called f*** facing ourselves.
+
+[00:19:44] SPEAKER_02
+We deliberately sabotage all the good from our last episode just to make you look weird
+
+[00:19:50] SPEAKER_02
+in this one.
+
+[00:19:51] SPEAKER_03
+Is there a small joke?
+
+[00:19:52] SPEAKER_03
+What's the most effort you're willing to put into a small joke?
+
+[00:19:56] SPEAKER_02
+I put a lot of effort into a small joke.
+
+[00:19:59] SPEAKER_04
+The smaller, the more effort, honestly.
+
+[00:20:01] SPEAKER_03
+I one time, I was playing a game with someone and I said, I'll be right back.
+
+[00:20:04] SPEAKER_03
+And I like grabbed a drink and then something happened and ended up taking like 10 minutes.
+
+[00:20:08] SPEAKER_03
+And I like this person a lot.
+
+[00:20:11] SPEAKER_03
+A part of me thought, and I really consider this for a few minutes.
+
+[00:20:13] SPEAKER_03
+What if I just never talked to them again?
+
+[00:20:16] SPEAKER_03
+Like, what if I just completely vanished?
+
+[00:20:19] SPEAKER_03
+That'd be really funny.
+
+[00:20:20] SPEAKER_03
+And then like maybe 40 years later, be like, what's up?
+
+[00:20:22] SPEAKER_03
+I'm back.
+
+[00:20:25] SPEAKER_02
+And you're just there with slurping sounds like you've got your drink.
+
+[00:20:28] SPEAKER_03
+Yeah, exactly.
+
+[00:20:29] SPEAKER_03
+I'm back.
+
+[00:20:30] SPEAKER_03
+Let's play.
+
+[00:20:31] SPEAKER_02
+Let's do this.
+
+[00:20:31] SPEAKER_02
+God, that would cause potentially psychological damage to the other person.
+
+[00:20:36] SPEAKER_02
+Also, you'd have to hope that you could still contact them in 40 years.
+
+[00:20:40] SPEAKER_02
+That's a risk because that's a joke where obviously,
+
+[00:20:43] SPEAKER_02
+well worth the joke because of the psychological damage.
+
+[00:20:46] SPEAKER_02
+But would you throw away the entire relationship and risk the fact that you wouldn't be able
+
+[00:20:50] SPEAKER_02
+to talk to them again just from drifting apart?
+
+[00:20:53] SPEAKER_02
+Technology changes.
+
+[00:20:54] SPEAKER_02
+You don't know how to get to them.
+
+[00:20:56] SPEAKER_03
+That's a really well thought out point.
+
+[00:20:58] SPEAKER_03
+I didn't get.
+
+[00:20:59] SPEAKER_03
+I honestly, I thought about it.
+
+[00:21:00] SPEAKER_03
+I was like, that'd be really funny.
+
+[00:21:02] SPEAKER_03
+Oh, but I need co-op achievements in this game.
+
+[00:21:04] SPEAKER_04
+Dude, I'll tell you what's funny is how many people may or may not be listening to this
+
+[00:21:09] SPEAKER_04
+episode right now who know you personally, Andrew, and haven't spoken to you in more
+
+[00:21:15] SPEAKER_04
+than two weeks who are like, am I the guy?
+
+[00:21:17] SPEAKER_04
+Is he doing it to me right now?
+
+[00:21:18] SPEAKER_03
+It's funny you mentioned that.
+
+[00:21:20] SPEAKER_03
+And this would have been a good housekeeping note.
+
+[00:21:22] SPEAKER_03
+Something I left out of the Garfield story.
+
+[00:21:24] SPEAKER_03
+When the Garfield thing came out, it was on the subreddit for where I live.
+
+[00:21:30] SPEAKER_03
+And one of the comments was, I was this guy's childhood best friend.
+
+[00:21:34] SPEAKER_03
+I know that guy.
+
+[00:21:34] SPEAKER_03
+He definitely is from where the article was published.
+
+[00:21:38] SPEAKER_03
+And I thought, I don't know who this person is.
+
+[00:21:39] SPEAKER_03
+So I messaged them.
+
+[00:21:41] SPEAKER_03
+We had a conversation.
+
+[00:21:42] SPEAKER_03
+They were genuinely my childhood best friend who I hadn't spoken to in like 11 years.
+
+[00:21:48] SPEAKER_03
+And that was a really like, I didn't expect Garfield to take me there.
+
+[00:21:51] SPEAKER_03
+That's a very weird conversation to know someone for so long, but also like not know who they
+
+[00:21:58] SPEAKER_03
+are anymore.
+
+[00:21:59] SPEAKER_03
+Like I knew all the information of the person, but had no concept of who they were.
+
+[00:22:04] SPEAKER_02
+How did you, in what way had you forgotten about them?
+
+[00:22:07] SPEAKER_02
+Like you forgot their name or you were like, oh, it's that person's name.
+
+[00:22:10] SPEAKER_03
+No, no, no.
+
+[00:22:10] SPEAKER_03
+They had a username.
+
+[00:22:11] SPEAKER_03
+So I didn't know who their name was.
+
+[00:22:13] SPEAKER_03
+I completely was aware of everything.
+
+[00:22:15] SPEAKER_02
+And how did you, how did you drift apart?
+
+[00:22:17] SPEAKER_02
+Did you piss on his leg or something?
+
+[00:22:19] SPEAKER_03
+Yeah, it was a really unfortunate accident.
+
+[00:22:22] SPEAKER_03
+He called me Krampus.
+
+[00:22:23] SPEAKER_03
+I got a little aggressive.
+
+[00:22:24] SPEAKER_04
+I think you're being a little serious.
+
+[00:22:26] SPEAKER_04
+Obviously, Andrew's not going to pee on somebody's leg.
+
+[00:22:28] SPEAKER_04
+What I assume is that you got caught watching his mom pee.
+
+[00:22:31] SPEAKER_04
+And then you didn't warn him that he was going to walk through it.
+
+[00:22:35] SPEAKER_03
+When I told the pee story, I really didn't.
+
+[00:22:38] SPEAKER_03
+It's not worth the juice.
+
+[00:22:39] SPEAKER_03
+It was not worth the impact of this.
+
+[00:22:42] SPEAKER_03
+This is a thing that has stuck around.
+
+[00:22:45] SPEAKER_03
+The story wasn't, Jeff, I don't call you the fucking grill master.
+
+[00:22:48] SPEAKER_03
+You told an average barbecue story and we let it go.
+
+[00:22:53] SPEAKER_03
+We let it pass.
+
+[00:22:54] SPEAKER_04
+Oh, speaking of the grill, can I give you guys an update?
+
+[00:22:58] SPEAKER_03
+Yeah, go ahead.
+
+[00:22:59] SPEAKER_03
+It's working fine.
+
+[00:23:00] SPEAKER_03
+Yeah, great.
+
+[00:23:00] SPEAKER_03
+Things are good.
+
+[00:23:01] SPEAKER_03
+Yeah, good.
+
+[00:23:01] SPEAKER_03
+You got the thing?
+
+[00:23:02] SPEAKER_04
+Yeah, no issues.
+
+[00:23:04] SPEAKER_04
+Yeah, everything's good.
+
+[00:23:04] SPEAKER_03
+Good to know.
+
+[00:23:05] SPEAKER_02
+You're not pissed off that it's a floor model?
+
+[00:23:07] SPEAKER_04
+Nah, it's fine.
+
+[00:23:08] SPEAKER_04
+It still cooks the same.
+
+[00:23:10] SPEAKER_04
+Great.
+
+[00:23:11] SPEAKER_04
+I'm happy for you.
+
+[00:23:12] SPEAKER_02
+We should, you got to introduce the next f*** faces, P-Boy and Grill Master.
+
+[00:23:23] SPEAKER_03
+The worst duo.
+
+[00:23:25] SPEAKER_04
+We should get Robert Rodriguez to make a kid's movie about us.
+
+[00:23:29] SPEAKER_04
+God damn.
+
+[00:23:30] SPEAKER_04
+I had no idea when you divulged your piss obsession that it was going to turn into such material.
+
+[00:23:38] SPEAKER_02
+See, what you've done here, Andrew, you've given him a nibble.
+
+[00:23:41] SPEAKER_02
+And he's taken it and he's reeled you in.
+
+[00:23:44] SPEAKER_02
+Well, I guess you gave him a nibble.
+
+[00:23:46] SPEAKER_02
+So what you got to do around Jeff is never let on.
+
+[00:23:50] SPEAKER_02
+Like the fact that he knows that it's affecting you.
+
+[00:23:52] SPEAKER_02
+That will last, it won't last forever because his memory's shit and he'll just drift away
+
+[00:23:57] SPEAKER_02
+and forget it eventually.
+
+[00:23:58] SPEAKER_02
+But that will last at least six episodes, I assume.
+
+[00:24:00] SPEAKER_04
+It's a good point.
+
+[00:24:01] SPEAKER_04
+You bring that up, Gavin.
+
+[00:24:02] SPEAKER_04
+And I feel like it's a perfect time in the episode to remind everyone that Trevor Collins
+
+[00:24:07] SPEAKER_04
+comes in his own face.
+
+[00:24:10] SPEAKER_03
+God damn.
+
+[00:24:11] SPEAKER_03
+That doesn't bode well for me.
+
+[00:24:14] SPEAKER_02
+You know, Fiona thought that was real.
+
+[00:24:17] SPEAKER_03
+Really?
+
+[00:24:18] SPEAKER_02
+Yeah.
+
+[00:24:18] SPEAKER_02
+Did she really?
+
+[00:24:20] SPEAKER_02
+Yeah.
+
+[00:24:22] SPEAKER_02
+She's gone this whole time thinking her boss does that.
+
+[00:24:24] SPEAKER_02
+And that's what he's into.
+
+[00:24:26] SPEAKER_02
+I continued just working for him as usual.
+
+[00:24:30] SPEAKER_02
+She's very accepting.
+
+[00:24:32] SPEAKER_04
+She's the best.
+
+[00:24:33] SPEAKER_04
+Fiona's really the best.
+
+[00:24:34] SPEAKER_04
+Oh, man.
+
+[00:24:35] SPEAKER_04
+God damn.
+
+[00:24:36] SPEAKER_04
+That's great.
+
+[00:24:37] SPEAKER_04
+What other perversions are you into right now, Andrew?
+
+[00:24:40] SPEAKER_03
+Well, I have.
+
+[00:24:41] SPEAKER_03
+You said you had a product.
+
+[00:24:42] SPEAKER_03
+And I said that I had a product.
+
+[00:24:44] SPEAKER_03
+Yes.
+
+[00:24:45] SPEAKER_03
+I wanted to share as well.
+
+[00:24:46] SPEAKER_03
+Mine is actually a product.
+
+[00:24:47] SPEAKER_03
+I don't think we could really sell the thing that you're-
+
+[00:24:49] SPEAKER_04
+We could sell the franchise rights to make movies and books and dinnerware and other t-shirts.
+
+[00:24:53] SPEAKER_03
+I'm not talking about Piss Boy and Grill Master.
+
+[00:24:56] SPEAKER_03
+That's obviously a multi-film franchise.
+
+[00:24:59] SPEAKER_03
+I wouldn't discredit that.
+
+[00:25:01] SPEAKER_03
+Your whole Krampus angle, I don't think, is hard to sell.
+
+[00:25:05] SPEAKER_03
+We can't travel right now.
+
+[00:25:07] SPEAKER_04
+All I'm saying is I think people in Vancouver Island are terrified of you.
+
+[00:25:11] SPEAKER_03
+I don't know about that.
+
+[00:25:13] SPEAKER_04
+I think you're a supervillain and you don't know it.
+
+[00:25:15] SPEAKER_03
+I don't know about that.
+
+[00:25:16] SPEAKER_01
+There's no shortcut for saving time.
+
+[00:25:19] SPEAKER_01
+But saving money is simple.
+
+[00:25:21] SPEAKER_01
+Just combine your car and home insurance with Bel Air Direct and save.
+
+[00:25:24] SPEAKER_01
+Get a quote at BelAirDirect.com.
+
+[00:25:27] SPEAKER_00
+Regousse believes in the art of living, in choosing the pleasurable over the practical.
+
+[00:25:35] SPEAKER_00
+It's why we craft our premium vodka in France using pure spring water from Genzac.
+
+[00:25:40] SPEAKER_00
+And why you hear the celebratory bump of our cork reminding us to make every martini cocktail count.
+
+[00:25:48] SPEAKER_00
+So go on and make every moment count.
+
+[00:25:51] SPEAKER_00
+Because there's no better time than now.
+
+[00:25:54] SPEAKER_00
+Grey Goose.
+
+[00:25:55] SPEAKER_00
+Make time wait.
+
+[00:25:57] SPEAKER_03
+I can tell you what I do know.
+
+[00:26:01] SPEAKER_03
+Okay.
+
+[00:26:01] SPEAKER_03
+Is that we have a shirt.
+
+[00:26:02] SPEAKER_03
+We have a shirt that came out a few weeks ago at this point.
+
+[00:26:05] SPEAKER_03
+We have a shirt.
+
+[00:26:06] SPEAKER_03
+Yeah.
+
+[00:26:06] SPEAKER_03
+With our show name on it.
+
+[00:26:08] SPEAKER_03
+And when we were introduced, the shirt, I suggested that we make a fuck hat.
+
+[00:26:14] SPEAKER_03
+We have a hat that just says fuck on.
+
+[00:26:16] SPEAKER_03
+I think this is a great idea.
+
+[00:26:19] SPEAKER_03
+I was shot down for reasons I don't understand.
+
+[00:26:22] SPEAKER_03
+I think it's a hit in the making.
+
+[00:26:25] SPEAKER_03
+If it would only, if only maybe see the light of day.
+
+[00:26:27] SPEAKER_03
+If only it could be seen.
+
+[00:26:29] SPEAKER_03
+Maybe opinions could be swayed.
+
+[00:26:31] SPEAKER_03
+Eric was having none of it.
+
+[00:26:33] SPEAKER_02
+Not a fan of the fuck hat.
+
+[00:26:34] SPEAKER_02
+So was it just going to be with the asterisks?
+
+[00:26:36] SPEAKER_03
+No.
+
+[00:26:37] SPEAKER_03
+I was just going to say fuck.
+
+[00:26:38] SPEAKER_04
+You wouldn't have to put the asterisks because it's not the name.
+
+[00:26:41] SPEAKER_04
+You can say fuck.
+
+[00:26:41] SPEAKER_03
+There's no face.
+
+[00:26:42] SPEAKER_03
+Yeah.
+
+[00:26:42] SPEAKER_03
+You can say the fuck part is fine.
+
+[00:26:44] SPEAKER_03
+It's when you combine them.
+
+[00:26:45] SPEAKER_03
+That's why the shirt is censored.
+
+[00:26:47] SPEAKER_03
+I thought we could sell a hat that said fuck and then a shirt that said face.
+
+[00:26:51] SPEAKER_03
+And then you can have the uncensored.
+
+[00:26:53] SPEAKER_03
+Really, I just, I mean, the face shirt, whatever.
+
+[00:26:55] SPEAKER_03
+I'm really, I'm in it for the fuck hat.
+
+[00:26:57] SPEAKER_03
+I thought it was a great idea.
+
+[00:26:59] SPEAKER_02
+I think that is a great idea.
+
+[00:27:00] SPEAKER_02
+And people are going to be buying two items.
+
+[00:27:02] SPEAKER_02
+I think that's amazing.
+
+[00:27:04] SPEAKER_02
+That's great marketing.
+
+[00:27:05] SPEAKER_04
+On the surface, I agree.
+
+[00:27:07] SPEAKER_04
+I think it's a great idea.
+
+[00:27:08] SPEAKER_04
+And I think if you want a fuck hat and you're an audience member, please tweet Rooster Teeth Store
+
+[00:27:12] SPEAKER_04
+or Eric.
+
+[00:27:13] SPEAKER_03
+I think Eric, personally, would really like to, he'd go to bat for this idea.
+
+[00:27:19] SPEAKER_04
+Tweet Rooster Teeth.
+
+[00:27:20] SPEAKER_04
+Tweet everybody associated with Rooster Teeth, whatever you want to do.
+
+[00:27:23] SPEAKER_04
+That's fine.
+
+[00:27:24] SPEAKER_04
+Although, I will say, Andrew, I would like to caution you.
+
+[00:27:26] SPEAKER_03
+Okay.
+
+[00:27:27] SPEAKER_04
+Because here's what I see unfolding.
+
+[00:27:28] SPEAKER_04
+I see you in your daily routine getting your fuck hat in the mail.
+
+[00:27:33] SPEAKER_04
+Which, by the way, have you guys received your fuck face shirts?
+
+[00:27:35] SPEAKER_04
+Because I have not.
+
+[00:27:36] SPEAKER_04
+I have not.
+
+[00:27:36] SPEAKER_04
+No, I haven't got mine.
+
+[00:27:37] SPEAKER_04
+Yeah, neither have you.
+
+[00:27:38] SPEAKER_04
+Okay.
+
+[00:27:40] SPEAKER_04
+So, you open the mail one day and you got your fuck hat.
+
+[00:27:43] SPEAKER_04
+And you're so excited and you put it on.
+
+[00:27:45] SPEAKER_04
+And you look at yourself in the mirror and you're like, oh, it looks, it's, you know,
+
+[00:27:48] SPEAKER_04
+I have an issue where, like, not a lot of hats look good on me.
+
+[00:27:51] SPEAKER_04
+So, it's always exciting when I find one that does look good.
+
+[00:27:53] SPEAKER_04
+Maybe you have a similar situation.
+
+[00:27:55] SPEAKER_04
+You're like, oh, this hat makes me look taller.
+
+[00:27:57] SPEAKER_04
+Or, like, it makes me, whatever.
+
+[00:27:59] SPEAKER_04
+It elongates me or, you know, it makes me look striking.
+
+[00:28:02] SPEAKER_04
+It really, you know, shows off my chin.
+
+[00:28:04] SPEAKER_04
+I don't know.
+
+[00:28:05] SPEAKER_04
+And then you forget that you're wearing it because you're very comfortable in it.
+
+[00:28:08] SPEAKER_04
+And then you go about your business.
+
+[00:28:10] SPEAKER_04
+You do your chores.
+
+[00:28:11] SPEAKER_04
+You torture Jake online for a little bit.
+
+[00:28:15] SPEAKER_04
+You maybe run some errands for your mom.
+
+[00:28:17] SPEAKER_04
+And then at some point in the day when you're looking out the window for homeless ladies to piss
+
+[00:28:21] SPEAKER_04
+and you make eye contact with those poor homeless women,
+
+[00:28:23] SPEAKER_04
+and they're now looking at a pair of evil eyes with a giant fuck hat.
+
+[00:28:28] SPEAKER_04
+It's gotten darker quickly.
+
+[00:28:30] SPEAKER_03
+I'm going to poke a hole in your theory right off the bat.
+
+[00:28:33] SPEAKER_03
+And some people might say I'm not going to stare at homeless women pissing.
+
+[00:28:36] SPEAKER_03
+I'm not going to counter that.
+
+[00:28:37] SPEAKER_03
+What I'm going to counter is my head is too big to wear hats.
+
+[00:28:40] SPEAKER_03
+No hat fits this head.
+
+[00:28:41] SPEAKER_03
+I can't wear the hat.
+
+[00:28:43] SPEAKER_03
+It's not going to happen.
+
+[00:28:44] SPEAKER_03
+It's not going to fit.
+
+[00:28:45] SPEAKER_02
+I feel like everything about your head is such an issue for you.
+
+[00:28:49] SPEAKER_02
+Like, this one old shaky guy is the only man who can tackle that mane.
+
+[00:28:53] SPEAKER_02
+And no hat fits on it.
+
+[00:28:55] SPEAKER_02
+What's wrong with your head?
+
+[00:28:56] SPEAKER_03
+I have a big head.
+
+[00:28:57] SPEAKER_03
+I don't know what you want.
+
+[00:28:58] SPEAKER_02
+Look, people have bigger heads than you who wear hats.
+
+[00:29:01] SPEAKER_02
+That's a guess.
+
+[00:29:02] SPEAKER_02
+That's not accurate.
+
+[00:29:04] SPEAKER_02
+You ever been in the same room as Bernie Burns?
+
+[00:29:06] SPEAKER_02
+Come on.
+
+[00:29:07] SPEAKER_03
+His head is huge.
+
+[00:29:08] SPEAKER_03
+But once again, you're kind of missing the point.
+
+[00:29:10] SPEAKER_03
+I do the haircut thing for convenience.
+
+[00:29:12] SPEAKER_03
+You think I'm going to get a custom hat made for my head?
+
+[00:29:16] SPEAKER_03
+That seems like a lot of work.
+
+[00:29:17] SPEAKER_03
+That's not convenient at all.
+
+[00:29:19] SPEAKER_03
+If it's not convenient, I'm not probably going to do it.
+
+[00:29:22] SPEAKER_04
+All right, please tweet or send a snail mail letter to Rooster Teeth asking for a fuck
+
+[00:29:30] SPEAKER_04
+hat in an extra large size so that even Andrew can wear it.
+
+[00:29:33] SPEAKER_02
+Are you saying that even if we made you a custom-sized large hat, would you not wear it?
+
+[00:29:38] SPEAKER_02
+Or would you wear it?
+
+[00:29:39] SPEAKER_03
+I'm not opposed to wearing it.
+
+[00:29:41] SPEAKER_03
+I just, it's going to, that's a tough hat to find.
+
+[00:29:43] SPEAKER_02
+You must be able to fit a beanie.
+
+[00:29:45] SPEAKER_03
+Uh, you know what?
+
+[00:29:46] SPEAKER_03
+I don't, uh, I don't fuck with beanies.
+
+[00:29:49] SPEAKER_02
+What about a fuck fedora?
+
+[00:29:50] SPEAKER_03
+Ooh, that sounds horrible.
+
+[00:29:52] SPEAKER_03
+No, thank you.
+
+[00:29:53] SPEAKER_02
+What about a hat, but instead of, um, face or whatever on it, it just is a picture of
+
+[00:29:59] SPEAKER_02
+your forehead on top so people can, like, see through the hat.
+
+[00:30:03] SPEAKER_03
+Wait, so wait, it's a photo?
+
+[00:30:04] SPEAKER_03
+It's not like a panel?
+
+[00:30:05] SPEAKER_03
+It's not like a window?
+
+[00:30:06] SPEAKER_02
+No, it's a photo of your specific forehead on the hat.
+
+[00:30:10] SPEAKER_02
+Like, I would wear that hat.
+
+[00:30:11] SPEAKER_02
+I would, if I could wear Andrew's forehead on a, like, a flat-peaked hat so it looked like
+
+[00:30:18] SPEAKER_02
+you were looking through it, I think that'd be a great hat.
+
+[00:30:21] SPEAKER_03
+I don't think I got a great forehead.
+
+[00:30:23] SPEAKER_03
+I don't think anyone needs that.
+
+[00:30:24] SPEAKER_03
+I think I've got a very average forehead.
+
+[00:30:27] SPEAKER_03
+Very middle of the road.
+
+[00:30:28] SPEAKER_02
+Should we all post pictures of our foreheads and, uh, without telling who is who and have
+
+[00:30:33] SPEAKER_02
+the audience guess, like, whose forehead?
+
+[00:30:35] SPEAKER_03
+I feel like it would be easy to tell.
+
+[00:30:38] SPEAKER_03
+I don't, I don't think that wouldn't be hard.
+
+[00:30:40] SPEAKER_03
+I think it'd be pretty obvious.
+
+[00:30:41] SPEAKER_04
+I'm 45.
+
+[00:30:42] SPEAKER_04
+Mine would look, mine's the one that looks like the topographical aerial photo of the
+
+[00:30:46] SPEAKER_04
+Grand Canyon.
+
+[00:30:49] SPEAKER_03
+Like a baseball glove.
+
+[00:30:51] SPEAKER_02
+Jeff's is like an ordnance survey, Matt.
+
+[00:30:58] SPEAKER_02
+I think it's a, I think it's a good hat idea, though.
+
+[00:31:00] SPEAKER_02
+I stick by it.
+
+[00:31:01] SPEAKER_03
+It's a great hat idea.
+
+[00:31:02] SPEAKER_03
+I haven't, um, there's more to this story.
+
+[00:31:05] SPEAKER_03
+It's a great hat idea.
+
+[00:31:06] SPEAKER_03
+I appreciate people should absolutely reach out.
+
+[00:31:09] SPEAKER_03
+Demand a fuck hat.
+
+[00:31:10] SPEAKER_03
+I thought I could maybe turn opinions here.
+
+[00:31:13] SPEAKER_03
+I didn't realize that the support would be so large within this group for the fuck hat.
+
+[00:31:17] SPEAKER_03
+Kind of was a dead on arrival when I initially pitched it.
+
+[00:31:20] SPEAKER_03
+But I know a guy and I had a prototype made.
+
+[00:31:24] SPEAKER_03
+I have a prototype fuck hat was made.
+
+[00:31:28] SPEAKER_03
+However, in perfect face fashion, I'm going to post the current result of the prototype.
+
+[00:31:33] SPEAKER_02
+Yeah.
+
+[00:31:34] SPEAKER_03
+Uh, there were some issues.
+
+[00:31:37] SPEAKER_03
+There were some issues with the fuck hat.
+
+[00:31:39] SPEAKER_02
+What is it?
+
+[00:31:40] SPEAKER_03
+It looks like it's in Russian.
+
+[00:31:41] SPEAKER_03
+What happens?
+
+[00:31:42] SPEAKER_03
+Yeah.
+
+[00:31:43] SPEAKER_03
+I described it.
+
+[00:31:44] SPEAKER_03
+It looks like, fuck is that?
+
+[00:31:45] SPEAKER_03
+It looks like it was burnt.
+
+[00:31:47] SPEAKER_03
+It looks like the text melted.
+
+[00:31:49] SPEAKER_03
+It looks like it says, fucks.
+
+[00:31:51] SPEAKER_02
+It looks like they sewed, they embroidered the front.
+
+[00:31:54] SPEAKER_02
+And then at some point the hat got flipped over and started coming in from the back.
+
+[00:31:58] SPEAKER_02
+I don't even know how that's been done.
+
+[00:32:00] SPEAKER_03
+Yeah.
+
+[00:32:01] SPEAKER_03
+So, I know a guy who said he could get a prototype made.
+
+[00:32:05] SPEAKER_03
+And I was like, great.
+
+[00:32:06] SPEAKER_03
+I could try to convince people that this is a great idea.
+
+[00:32:10] SPEAKER_03
+So, he went, that's the first prototype.
+
+[00:32:13] SPEAKER_03
+He tried to make that hat.
+
+[00:32:16] SPEAKER_02
+Look, we have to sell that hat.
+
+[00:32:19] SPEAKER_02
+We have to sell exactly that.
+
+[00:32:21] SPEAKER_02
+I would wear that.
+
+[00:32:22] SPEAKER_04
+That's amazing.
+
+[00:32:23] SPEAKER_04
+I'm with Gavin.
+
+[00:32:24] SPEAKER_04
+We need a thousand of that hat.
+
+[00:32:28] SPEAKER_04
+Also, is it possible?
+
+[00:32:31] SPEAKER_04
+Did they get each hat with the large stain on the bill there?
+
+[00:32:34] SPEAKER_03
+I didn't ask about that.
+
+[00:32:36] SPEAKER_03
+I didn't pay extra for that.
+
+[00:32:37] SPEAKER_03
+It was just there.
+
+[00:32:38] SPEAKER_03
+That's what the prototype looked like.
+
+[00:32:40] SPEAKER_03
+It was, yeah, maybe the collateral damage.
+
+[00:32:42] SPEAKER_03
+I was really excited.
+
+[00:32:43] SPEAKER_03
+That was the first prototype.
+
+[00:32:45] SPEAKER_03
+So, that didn't go too well.
+
+[00:32:47] SPEAKER_03
+So, then the person went to people that worked at the place and said, hey, I'm trying to make
+
+[00:32:51] SPEAKER_03
+a fuck hat.
+
+[00:32:52] SPEAKER_03
+This is very important.
+
+[00:32:54] SPEAKER_03
+Could you try?
+
+[00:32:55] SPEAKER_03
+And the second hat came out the same way.
+
+[00:32:57] SPEAKER_03
+Nobody knew what was going on.
+
+[00:32:58] SPEAKER_03
+So, then they tried a third time and they got a third hat that was identical.
+
+[00:33:04] SPEAKER_03
+Their machine broke while trying to make the fuck hat.
+
+[00:33:07] SPEAKER_03
+And the guy that owns the place got so mad, he threw a chair.
+
+[00:33:11] SPEAKER_03
+He threw a chair across the room and said, this is, we're done.
+
+[00:33:14] SPEAKER_03
+We're done.
+
+[00:33:15] SPEAKER_03
+So, the fuck hat took out a hat store in Kansas.
+
+[00:33:20] SPEAKER_03
+So, it's a dangerous item.
+
+[00:33:21] SPEAKER_04
+No, the fuck hat didn't.
+
+[00:33:23] SPEAKER_04
+Once again, super villain Krampus-esque Andrew Patton.
+
+[00:33:28] SPEAKER_04
+The evil that men whisper in the night strikes again.
+
+[00:33:31] SPEAKER_03
+This was in a different state.
+
+[00:33:33] SPEAKER_03
+This was far away.
+
+[00:33:34] SPEAKER_03
+I can't be blamed for this.
+
+[00:33:35] SPEAKER_03
+Your reach is far.
+
+[00:33:36] SPEAKER_02
+Yeah, legend travels.
+
+[00:33:37] SPEAKER_02
+Yeah.
+
+[00:33:38] SPEAKER_02
+Across borders.
+
+[00:33:39] SPEAKER_02
+Oh, God.
+
+[00:33:40] SPEAKER_02
+I don't think I've ever laughed so much at a hat.
+
+[00:33:42] SPEAKER_02
+That's the funniest hat I've ever seen in my life.
+
+[00:33:44] SPEAKER_03
+I mean, it doesn't really deliver the message, but I agree.
+
+[00:33:47] SPEAKER_03
+It's a pretty good hat.
+
+[00:33:48] SPEAKER_03
+I think we should make that hat.
+
+[00:33:49] SPEAKER_02
+We should make that.
+
+[00:33:50] SPEAKER_02
+I don't know how we would make that because it's clearly, you'd have to like break the
+
+[00:33:55] SPEAKER_02
+machine to do that.
+
+[00:33:57] SPEAKER_04
+Yeah.
+
+[00:33:57] SPEAKER_04
+Oh, yeah.
+
+[00:33:57] SPEAKER_04
+It's expensive.
+
+[00:33:58] SPEAKER_02
+We should buy that machine so we can replicate it every time.
+
+[00:34:01] SPEAKER_02
+It's clearly, it's clearly working every single time you try and print it.
+
+[00:34:05] SPEAKER_03
+Yeah.
+
+[00:34:05] SPEAKER_03
+That's true.
+
+[00:34:06] SPEAKER_02
+I'd put in a bulk order.
+
+[00:34:08] SPEAKER_03
+I didn't get any other photos of the other prototypes from my understanding.
+
+[00:34:11] SPEAKER_03
+They all look identical to that masterpiece.
+
+[00:34:14] SPEAKER_02
+It looks like a Russian MAGA hat.
+
+[00:34:19] SPEAKER_02
+Maybe we should change the color scheme.
+
+[00:34:21] SPEAKER_04
+Yeah.
+
+[00:34:21] SPEAKER_04
+I would gather on that one.
+
+[00:34:23] SPEAKER_04
+Interesting color choice you chose.
+
+[00:34:25] SPEAKER_03
+I didn't pick the color.
+
+[00:34:27] SPEAKER_03
+Want that also on the record.
+
+[00:34:28] SPEAKER_03
+I just, I was, I signed off on the prototype.
+
+[00:34:30] SPEAKER_02
+Keep the white text.
+
+[00:34:31] SPEAKER_02
+Next, uh, keep the weird yellow thread that's going through it for some reason and put it
+
+[00:34:36] SPEAKER_02
+on a, put it on a black hat and I would buy it.
+
+[00:34:38] SPEAKER_04
+I definitely feel like that's more on brand for us.
+
+[00:34:40] SPEAKER_03
+I agree.
+
+[00:34:41] SPEAKER_03
+I'd agree with that statement.
+
+[00:34:43] SPEAKER_03
+I didn't pick the hat color.
+
+[00:34:44] SPEAKER_03
+I just had the prototype.
+
+[00:34:45] SPEAKER_04
+Rook.
+
+[00:34:47] SPEAKER_04
+I don't know what it says.
+
+[00:34:49] SPEAKER_04
+Rook.
+
+[00:34:50] SPEAKER_03
+Yeah.
+
+[00:34:50] SPEAKER_02
+I'm trying to see what's gone on and I feel bad about talking about like a visual that
+
+[00:34:54] SPEAKER_02
+people clearly can't see.
+
+[00:34:55] SPEAKER_02
+I assume it's on our Twitter somewhere, but it looks like the top, the bottom of the U was
+
+[00:35:01] SPEAKER_02
+printed on the top of the U and maybe the top, the bottom of the C is on the top, but
+
+[00:35:07] SPEAKER_02
+the entire K came out.
+
+[00:35:08] SPEAKER_02
+Yeah.
+
+[00:35:08] SPEAKER_02
+The K is perfect.
+
+[00:35:09] SPEAKER_03
+I don't understand why the K looks so good and everything else is Russian, but, uh,
+
+[00:35:14] SPEAKER_03
+the machine broke, took out a machine.
+
+[00:35:17] SPEAKER_04
+The C looks kind of like a fat Twitter bird.
+
+[00:35:20] SPEAKER_03
+I see that.
+
+[00:35:22] SPEAKER_04
+Yeah.
+
+[00:35:23] SPEAKER_04
+Yeah.
+
+[00:35:23] SPEAKER_03
+Facing less.
+
+[00:35:25] SPEAKER_03
+Yeah.
+
+[00:35:25] SPEAKER_03
+That's the fuck hat.
+
+[00:35:26] SPEAKER_02
+All right.
+
+[00:35:27] SPEAKER_02
+So let us know, um, if you would want, if you would also buy that hat.
+
+[00:35:31] SPEAKER_02
+So we've got, we've got three hats that we've talked about.
+
+[00:35:33] SPEAKER_02
+We've got just the, uh, the hat with the F word on it.
+
+[00:35:37] SPEAKER_02
+We've got the hat with Andrew's forehead on it and we've got whatever this is.
+
+[00:35:41] SPEAKER_02
+I think whatever this is, is the clear winner.
+
+[00:35:43] SPEAKER_03
+It's pretty good.
+
+[00:35:45] SPEAKER_03
+I definitely, uh, message Eric about it because he's not here anymore.
+
+[00:35:49] SPEAKER_03
+So we can say whatever we want and he doesn't.
+
+[00:35:52] SPEAKER_03
+Yeah.
+
+[00:35:52] SPEAKER_02
+Can't say who is Eric to shoot down your idea anyway, though, Andrew, I, to be fair, he didn't
+
+[00:35:57] SPEAKER_03
+necessarily say no.
+
+[00:35:59] SPEAKER_03
+He just reiterated what I said, maybe in shock.
+
+[00:36:02] SPEAKER_03
+And then I said, yeah.
+
+[00:36:03] SPEAKER_03
+And then that was our conversation.
+
+[00:36:07] SPEAKER_03
+I think it's a great idea.
+
+[00:36:09] SPEAKER_04
+I think you've got a clear winner and I don't think you should sleep on the idea that you
+
+[00:36:13] SPEAKER_04
+may be the next, uh, scary monster that parents use to terrify their kids and to keep them
+
+[00:36:19] SPEAKER_04
+in bed at night, not to look under, uh, or in the closet and, uh, to brush their teeth.
+
+[00:36:24] SPEAKER_03
+No, I feel pretty good about sleeping in that one.
+
+[00:36:26] SPEAKER_02
+I think he's more like, he's more like Banksy where he's just kind of like a bank's elusive
+
+[00:36:31] SPEAKER_02
+idea, but he touches various things and you should be honored if he touches anywhere near
+
+[00:36:36] SPEAKER_02
+you, but you never truly know what he is.
+
+[00:36:38] SPEAKER_03
+I don't know if that's an insult or a compliment.
+
+[00:36:40] SPEAKER_03
+I would take that as a huge compliment.
+
+[00:36:42] SPEAKER_03
+Yeah.
+
+[00:36:43] SPEAKER_03
+That's a compliment.
+
+[00:36:43] SPEAKER_03
+Okay.
+
+[00:36:44] SPEAKER_03
+Well, thank you, Gavin.
+
+[00:36:45] SPEAKER_02
+It's like, for example, okay.
+
+[00:36:47] SPEAKER_02
+The reason I compare it is this.
+
+[00:36:49] SPEAKER_02
+If I owned a shop and Banksy just graffitied all over the side of it, I'd be like, well,
+
+[00:36:54] SPEAKER_02
+that's awesome.
+
+[00:36:55] SPEAKER_02
+Yeah.
+
+[00:36:56] SPEAKER_02
+It's like, it sucks, but it's great.
+
+[00:36:58] SPEAKER_02
+And also I feel like the same way.
+
+[00:37:00] SPEAKER_02
+Like if, if I was randomly messed with by Andrew Patton and it caused me, you know,
+
+[00:37:05] SPEAKER_02
+emotional peril, I'd be like, oh my God, but at least it was Andrew Patton.
+
+[00:37:09] SPEAKER_02
+That's crazy.
+
+[00:37:10] SPEAKER_02
+Of all people.
+
+[00:37:12] SPEAKER_03
+I would like, I don't think I've caused much emotional peril.
+
+[00:37:15] SPEAKER_03
+I don't think, I think everything's been in good fun.
+
+[00:37:18] SPEAKER_03
+I think everyone's okay.
+
+[00:37:20] SPEAKER_03
+I've messed with.
+
+[00:37:21] SPEAKER_04
+That goes to the question.
+
+[00:37:22] SPEAKER_04
+I always wonder about this.
+
+[00:37:24] SPEAKER_04
+Do villains know their villains?
+
+[00:37:26] SPEAKER_04
+Like if you're the bad guy, do you know you're the bad guy or are you always the protagonist,
+
+[00:37:32] SPEAKER_04
+always the good guy, always the hero in your own story?
+
+[00:37:35] SPEAKER_03
+I feel like that's sort of the cliche of modern movies, at least, right?
+
+[00:37:40] SPEAKER_03
+Like it's like the villain in his own mind thinks he's right.
+
+[00:37:43] SPEAKER_03
+Yeah.
+
+[00:37:43] SPEAKER_03
+They kind of present that a lot.
+
+[00:37:45] SPEAKER_02
+They always try and put more of a personal angle on the villain.
+
+[00:37:49] SPEAKER_02
+You always kind of learn a little bit more about them than you used to.
+
+[00:37:52] SPEAKER_03
+Like Thanos wasn't really into just snapping for fun.
+
+[00:37:55] SPEAKER_02
+Yeah.
+
+[00:37:56] SPEAKER_02
+Yeah, exactly.
+
+[00:37:56] SPEAKER_02
+Like he had his reasons.
+
+[00:37:59] SPEAKER_02
+I mean, you look back on old shit, like Blofeld.
+
+[00:38:02] SPEAKER_02
+I mean, he liked his cat, but what was the reason he was killing all those people?
+
+[00:38:07] SPEAKER_02
+I never really figured it out.
+
+[00:38:09] SPEAKER_02
+No.
+
+[00:38:09] SPEAKER_02
+I think it was just a mental.
+
+[00:38:11] SPEAKER_03
+Those movies, the early Bond movies are kind of, they're very confusing in that way.
+
+[00:38:15] SPEAKER_03
+Where it's like they kind of had an idea of what to do, but no idea at the same time.
+
+[00:38:19] SPEAKER_03
+Like the idea of like a league of villains.
+
+[00:38:21] SPEAKER_02
+Are you still trying to watch them all?
+
+[00:38:23] SPEAKER_03
+Yeah, I need to get back through it.
+
+[00:38:25] SPEAKER_03
+Yeah.
+
+[00:38:26] SPEAKER_03
+I'm like nine in.
+
+[00:38:27] SPEAKER_03
+It's a lot of movies.
+
+[00:38:28] SPEAKER_04
+Do you think you're like a Bond villain?
+
+[00:38:30] SPEAKER_04
+Is that how you would describe yourself?
+
+[00:38:32] SPEAKER_03
+No, I'm not.
+
+[00:38:33] SPEAKER_03
+James Bond has caused me a lot of problems in my life.
+
+[00:38:35] SPEAKER_03
+But I would not consider, okay, well, when I was a kid, you kind of have that assumption
+
+[00:38:42] SPEAKER_03
+that like adults know everything and you don't and how they do it is better.
+
+[00:38:47] SPEAKER_03
+And I played Goldeneye a lot on the N64 and I used to play soccer and I thought, huh,
+
+[00:38:55] SPEAKER_03
+I don't run like James Bond runs in the game.
+
+[00:38:57] SPEAKER_03
+James Bond is a secret agent, super spy, knows a lot.
+
+[00:39:02] SPEAKER_03
+I bet you his way of running is more effective than how I'm currently running.
+
+[00:39:07] SPEAKER_03
+And if you remember Goldeneye on the N64, how the characters would run in that game is
+
+[00:39:12] SPEAKER_03
+they'd ball up both fists and then slowly move their arms forward and backwards as they ran.
+
+[00:39:19] SPEAKER_03
+So there was a period of my life where I was running like all the characters from the
+
+[00:39:22] SPEAKER_03
+Goldeneye video game because I thought that that was a more effective way to gain speed.
+
+[00:39:26] SPEAKER_02
+Oh, it's so stupid.
+
+[00:39:29] SPEAKER_03
+Yeah.
+
+[00:39:30] SPEAKER_03
+God damn.
+
+[00:39:31] SPEAKER_03
+I thought that was true.
+
+[00:39:32] SPEAKER_03
+I also thought I could ski because I saw James Bond do it in a movie and I thought that looked
+
+[00:39:37] SPEAKER_03
+really easy and I couldn't.
+
+[00:39:39] SPEAKER_02
+He skied backwards sometimes and sometimes on just one ski.
+
+[00:39:43] SPEAKER_02
+You know, there was a Bond where he gets one of his skis blown off.
+
+[00:39:47] SPEAKER_02
+So he just uses the remaining ski.
+
+[00:39:50] SPEAKER_02
+He like picks up some, some like plain shrapnel and stands on it with both feet and he's like
+
+[00:39:56] SPEAKER_02
+snowboarding down the mountain.
+
+[00:39:58] SPEAKER_02
+Apparently that's what popularized snowboarding.
+
+[00:40:01] SPEAKER_02
+Really?
+
+[00:40:02] SPEAKER_02
+Yeah.
+
+[00:40:02] SPEAKER_02
+And everyone was like watching him like use two feet on one, you know, air quotes ski.
+
+[00:40:07] SPEAKER_02
+And everyone was like, that looks so cool.
+
+[00:40:10] SPEAKER_02
+And the same thing happened with the, with the jet ski.
+
+[00:40:12] SPEAKER_03
+He popularized jet skiing and.
+
+[00:40:14] SPEAKER_03
+Yeah.
+
+[00:40:15] SPEAKER_02
+He like Q made him this like special, I think they called it the wet bike and, and it popularized
+
+[00:40:21] SPEAKER_02
+the whole vehicle.
+
+[00:40:22] SPEAKER_02
+Which two movies were those or was it the same movie?
+
+[00:40:24] SPEAKER_02
+Uh, I want to say spy who loved me was one of them.
+
+[00:40:28] SPEAKER_02
+I don't remember that.
+
+[00:40:29] SPEAKER_02
+It was one of the old, I think Roger Moore era.
+
+[00:40:31] SPEAKER_02
+Gotcha.
+
+[00:40:32] SPEAKER_04
+So Andrew, it sounds like James Bond has caused a lot of problems for you.
+
+[00:40:36] SPEAKER_04
+He has.
+
+[00:40:37] SPEAKER_04
+Yeah.
+
+[00:40:37] SPEAKER_04
+Would, would you say you feel, uh, like maybe getting revenge on James Bond?
+
+[00:40:42] SPEAKER_04
+Would you want to, I don't know, saw him in half with a laser?
+
+[00:40:46] SPEAKER_03
+That seems like once again, where am I ordering the laser from?
+
+[00:40:49] SPEAKER_03
+That seems like a lot of work.
+
+[00:40:50] SPEAKER_03
+I got to get a table that is like at a human height longer than human.
+
+[00:40:54] SPEAKER_03
+That seems like a lot of work.
+
+[00:40:55] SPEAKER_03
+It also seems expensive.
+
+[00:40:56] SPEAKER_03
+I don't, I don't have the budget for that.
+
+[00:40:58] SPEAKER_04
+Gotcha.
+
+[00:40:58] SPEAKER_04
+So, so you do want to harm James Bond, but you don't have the ambition or budget of the,
+
+[00:41:05] SPEAKER_04
+of your predecessors.
+
+[00:41:06] SPEAKER_04
+Let's say, I don't want, I think you're a super villain in the making is what I'm getting
+
+[00:41:10] SPEAKER_04
+at here.
+
+[00:41:10] SPEAKER_03
+I don't want to, but I, yeah, it just seems like a lot of work.
+
+[00:41:14] SPEAKER_02
+Do you ever wonder Jeff that like pushing this on Andrew is what is turning him into
+
+[00:41:18] SPEAKER_02
+a super villain?
+
+[00:41:20] SPEAKER_04
+Oh, it's sort of like a, yeah, sort of like a Mr. Glass type situation.
+
+[00:41:24] SPEAKER_02
+And, uh, yeah, yeah, that's interesting.
+
+[00:41:26] SPEAKER_02
+Yeah.
+
+[00:41:26] SPEAKER_02
+I feel like you could be causing this entire thing.
+
+[00:41:31] SPEAKER_04
+Maybe that's my role.
+
+[00:41:32] SPEAKER_02
+I don't know.
+
+[00:41:33] SPEAKER_03
+I don't think, I feel like what really Jeff had no involvement in the first thing I,
+
+[00:41:37] SPEAKER_03
+I, I would say I did of this nature, like a prank or messing with someone.
+
+[00:41:42] SPEAKER_03
+I don't think he gets credit for that.
+
+[00:41:44] SPEAKER_03
+Thank you.
+
+[00:41:45] SPEAKER_03
+I agree.
+
+[00:41:46] SPEAKER_03
+Yeah.
+
+[00:41:46] SPEAKER_03
+I don't think so.
+
+[00:41:47] SPEAKER_03
+I think this was all me.
+
+[00:41:49] SPEAKER_03
+I'll own this one.
+
+[00:41:50] SPEAKER_04
+Yeah.
+
+[00:41:50] SPEAKER_04
+No, I think, I think your, your special brand of evil was, was born from you.
+
+[00:41:55] SPEAKER_03
+Is it evil if it's funny?
+
+[00:41:57] SPEAKER_03
+If everyone thinks it's funny, is it evil?
+
+[00:42:00] SPEAKER_03
+I don't think so.
+
+[00:42:01] SPEAKER_03
+I think you all had a good time.
+
+[00:42:03] SPEAKER_03
+Is it evil if it's funny?
+
+[00:42:05] SPEAKER_03
+I don't think, as long as nobody's hurt, I think it's all a good fun.
+
+[00:42:10] SPEAKER_02
+Jeff doesn't get the credit.
+
+[00:42:11] SPEAKER_02
+You became P-Boy entirely on your own.
+
+[00:42:14] SPEAKER_03
+Uh, yeah, I guess that is what I'm saying.
+
+[00:42:17] SPEAKER_04
+Andrew Panton became, uh, uh, uh, uh,
+
+[00:42:20] SPEAKER_04
+Are you, okay?
+
+[00:42:23] SPEAKER_04
+I was trying to get this out.
+
+[00:42:25] SPEAKER_04
+A Bond villain, uh, kids nightmare-esque piss fetish aficionado all on his own.
+
+[00:42:34] SPEAKER_04
+He needed no help.
+
+[00:42:36] SPEAKER_04
+Thanks for listening to F*** Face.
+
+[00:42:38] SPEAKER_04
+Wait, no, wait a second.
+
+[00:42:38] SPEAKER_04
+You've survived another episode, as did we.
+
+[00:42:41] SPEAKER_04
+My name is Jeff Ramsey.
+
+[00:42:43] SPEAKER_04
+With me, as always, Gavin Free and Andrew Panton.
+
+[00:42:46] SPEAKER_04
+I hope you liked the episode.
+
+[00:42:47] SPEAKER_04
+If you did, tell a friend about it.
+
+[00:42:48] SPEAKER_04
+Go ahead and like and subscribe, and, uh, give us a review on Apple Podcasts if you would intend to.
+
+[00:42:54] SPEAKER_04
+And, uh, hey.
+
+[00:42:55] SPEAKER_04
+No.
+
+[00:42:57] SPEAKER_04
+Thanks a lot.
+
+[00:42:58] SPEAKER_04
+And as we, as, uh, as, as we always say,
+
+[00:43:01] SPEAKER_03
+Well, I'm Jeff Ramsey.
+
+[00:43:02] SPEAKER_03
+You keep peeing, and Andrew will keep making face.
+
+[00:43:04] SPEAKER_03
+Oh, my barbecue is broken.
+
+[00:43:07] SPEAKER_03
+I had to get a floor model.
+
+[00:43:08] SPEAKER_03
+Woe is me.
+
+[00:43:09] SPEAKER_03
+It's a pandemic, and I don't have a barbecue.
+
+[00:43:12] SPEAKER_03
+Oh, boy.
+
+[00:43:13] SPEAKER_03
+Things are rough.
+
+[00:43:14] SPEAKER_03
+Let me tell you about my toenail, but did not talk about it.
+
+[00:43:17] SPEAKER_03
+Too much of a coward.
+
+[00:43:18] SPEAKER_03
+Look at my own goddamn toenail.
+
+[00:43:20] SPEAKER_03
+Ah!
+
+[00:43:26] SPEAKER_04
+Oh, that was excellent, Andrew.
+
+[00:43:28] SPEAKER_04
+Thank you very much.
+
+[00:43:29] SPEAKER_04
+And I hope the rivers of your future success run as yellow as your fetish.
+
+[00:43:34] SPEAKER_03
+The episode ended.
+
+[00:43:35] SPEAKER_03
+What are you talking?
+
+[00:43:36] SPEAKER_03
+Why are you still?
+
+[00:43:37] SPEAKER_03
+I thought.
+
+[00:43:38] SPEAKER_02
+You know, I don't think the episode ended because you bleeped.
+
+[00:43:41] SPEAKER_03
+You did the outro.
+
+[00:43:42] SPEAKER_02
+You bleeped all the way through the instruction part.
+
+[00:43:44] SPEAKER_03
+Well, he was slandering me.
+
+[00:43:46] SPEAKER_03
+He was slandering me.
+
+[00:43:48] SPEAKER_03
+It's not my fault.
+
+[00:43:50] SPEAKER_02
+Now the audience is going to turn this off and not know what to do to support us.
+
+[00:43:54] SPEAKER_04
+Like and subscribe.
+
+[00:43:56] SPEAKER_04
+Send her over.
+
+[00:43:56] SPEAKER_04
+Give us a five-star review because Andrew will catch you peeing if you don't look behind you.
+
+[00:44:06] SPEAKER_03
+It's Andrew.
+
+[00:44:08] SPEAKER_03
+You smell that in the distance?
+
+[00:44:09] SPEAKER_03
+Jeff is nearby.
+
+[00:44:10] SPEAKER_03
+There's a fucking grill going.
+
+[00:44:11] SPEAKER_03
+It's the grill monster.
+
+[00:44:12] SPEAKER_03
+You smell that charcoal?
+
+[00:44:14] SPEAKER_03
+Ah, shit.
+
+[00:44:15] SPEAKER_04
+It's the smell you smell is the stale urine caked on Andrew's shoes.
+
+[00:44:23] SPEAKER_04
+Stalks you in the night.

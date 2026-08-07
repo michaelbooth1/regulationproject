@@ -1,0 +1,2958 @@
+# Episode 57: Who is the Host? // Geoff Ends the Podcast [54]
+published: 2021-06-09T07:00:00+00:00  |  duration: 00:57:52
+source: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER9854099008.mp3?updated=1773934449
+transcribed: 2026-08-07T08:43:35.527002-04:00  |  model: large-v3-turbo
+diarization: pyannote/speaker-diarization-3.1
+
+
+[00:00:10] SPEAKER_02
+Should we get into it? I'm going to assume that Eric and Gavin have been recording for a while. I'm recording. I need to ask Andrew. Oh my God. I flipped it. You yelled at me last week. I'm recording. I'm good. I'm ready. All right. Well, kick it off then, Andrew. What do you mean? Season two. Andrew starts. No, wait. Wait, wait. You're going to be the... No, no, no, no, no, no, no. I was the season one. No, no, no, no. I did the season one in Charles. Welcome to episode 54 of F**kface. That was pretty good. I think he gets... That was a good... That was the handoff point. That was the handoff point.
+
+[00:00:40] SPEAKER_00
+That was the handoff, so then someone else take it. Oh. You know, I got a little bit of insight this week. I did the... I did one of our sister podcasts that Gavin usually does, the RT podcast. Yeah. And I did it with Eric, producer Eric, of this very same podcast. And I found out through the podcast that he... It annoys him that we haven't nailed the intro and the outro yet. He finds that to be, I guess, an annoyance.
+
+[00:01:09] SPEAKER_01
+Oh, are you annoyed, Eric? Are you annoyed? What's that voice? He expressed displeasure.
+
+[00:01:16] SPEAKER_03
+It's been over a year, and I feel like I'm not looking for the most consistent intro and outro,
+
+[00:01:23] SPEAKER_03
+but if there was something like, hey, welcome to F**kface. I'm Jeff, along with Andrew and Gavin,
+
+[00:01:30] SPEAKER_03
+and then you guys get into it. Like, that's not a lot, right? Like, that's pretty easy.
+
+[00:01:39] SPEAKER_03
+Is the outro, because... And I don't want to say that it's bad. It's that we do the outro,
+
+[00:01:47] SPEAKER_03
+and it doesn't seem to matter, because then we just keep going.
+
+[00:01:52] SPEAKER_01
+Well, nobody... Why would you want to stop making F**kface? It doesn't really make any sense what you're saying.
+
+[00:01:57] SPEAKER_00
+I don't know what to tell you. That is logic right there. That is an excellent point.
+
+[00:02:06] SPEAKER_00
+Because you know, like, think about it, Eric. You have a life outside of this podcast.
+
+[00:02:11] SPEAKER_00
+You know that the second that we power down, life gets shitty again for seven fucking days
+
+[00:02:18] SPEAKER_00
+until you get to turn back on for this podcast. And so it's like, why don't we extend the good a little bit more?
+
+[00:02:26] SPEAKER_00
+I love the idea of the podcast ending, and then a timer for six days and 23 hours begins.
+
+[00:02:33] SPEAKER_02
+Of misery. It's like a soccer match. It's like the time ends, then we go to OT,
+
+[00:02:38] SPEAKER_02
+and nobody really knows how long it's going to go for. There's extra time. It just goes beyond.
+
+[00:02:43] SPEAKER_03
+I don't think we need to clear it. That's the best analogy.
+
+[00:02:45] SPEAKER_03
+The thing that I learned is that Jeff sees this as a triangle with himself, Gavin, and Andrew,
+
+[00:02:52] SPEAKER_03
+where he does not consider him the host, but it's like three hosts.
+
+[00:02:56] SPEAKER_03
+And I think that just given the year we've been doing this, that that's insane.
+
+[00:03:03] SPEAKER_03
+And there just needs to be the one host, Jeff, and then...
+
+[00:03:07] SPEAKER_01
+Why does there need to be a host? It's just three people chatting a few weeks.
+
+[00:03:10] SPEAKER_03
+Because someone will be doing the intro and the outro and the heavy lifting
+
+[00:03:12] SPEAKER_03
+for getting us through the things that we have to get through.
+
+[00:03:15] SPEAKER_02
+I feel like the description of the show lists you as the host, Jeff. Singularly.
+
+[00:03:22] SPEAKER_02
+Yeah, but listen to what Gavin said. Think about that for a minute.
+
+[00:03:25] SPEAKER_00
+Yeah, but it's labeled. I mean, you declared, I feel like, from the beginning.
+
+[00:03:27] SPEAKER_00
+I mean, change that if you want to. Listen, I feel like...
+
+[00:03:31] SPEAKER_00
+And I was just trying to make a point, right?
+
+[00:03:33] SPEAKER_00
+I was just trying to make a point on that other podcast.
+
+[00:03:35] SPEAKER_00
+That we... I consider us, and this isn't to discount Eric or whoever's editing the week,
+
+[00:03:41] SPEAKER_00
+but the three of us to be like a comedy triangle, right?
+
+[00:03:44] SPEAKER_00
+And I feel like it's a perfect triangle.
+
+[00:03:46] SPEAKER_00
+I don't think that there's... I don't think that any point is elongated.
+
+[00:03:51] SPEAKER_00
+And by that token, no point is more important than any other point.
+
+[00:03:55] SPEAKER_00
+And so I was just saying that, like, I think hosting duties, like intros and outros,
+
+[00:04:00] SPEAKER_00
+since we are such a perfect triangle, that we should probably divvy them up as such.
+
+[00:04:08] SPEAKER_00
+You know, you do a third, I do a third, Gavin does a third.
+
+[00:04:10] SPEAKER_00
+I already do all of the ad reads, which I'm happy about.
+
+[00:04:16] SPEAKER_00
+I never make you guys do those, except for the one time Andrew had to do them
+
+[00:04:20] SPEAKER_00
+because I had an emergency.
+
+[00:04:21] SPEAKER_00
+So I feel like... I just feel like...
+
+[00:04:23] SPEAKER_00
+I just feel like we could all share the burden of the intro and the outro,
+
+[00:04:26] SPEAKER_00
+because Eric makes it be more of a thing than it needs to be anyway.
+
+[00:04:29] SPEAKER_01
+Also, we may mess up the outro for a week,
+
+[00:04:30] SPEAKER_01
+but last week we went to the major effort...
+
+[00:04:33] SPEAKER_01
+Or was it two weeks ago?
+
+[00:04:34] SPEAKER_01
+We went to the major effort of bleeping out a word
+
+[00:04:37] SPEAKER_01
+so it didn't spoil the story.
+
+[00:04:39] SPEAKER_01
+We bleeped out Jeff talking about his car,
+
+[00:04:42] SPEAKER_01
+and then Eric names the episode Jeff's Car Wreck.
+
+[00:04:46] SPEAKER_03
+Listen, I don't know how you have time to do this show.
+
+[00:04:49] SPEAKER_03
+Don't you have a halo bet that you're on the clock for right now?
+
+[00:04:52] SPEAKER_03
+I do!
+
+[00:04:53] SPEAKER_03
+Don't you have things to do?
+
+[00:04:54] SPEAKER_02
+I'm wasting time now!
+
+[00:04:57] SPEAKER_02
+That's a great pivot, Eric.
+
+[00:04:58] SPEAKER_02
+That's fantastic.
+
+[00:05:00] SPEAKER_02
+Get the heat off of you.
+
+[00:05:01] SPEAKER_02
+Just before we move on, once again, I'd just like to reiterate
+
+[00:05:03] SPEAKER_02
+the description of this show.
+
+[00:05:06] SPEAKER_02
+F*** Faces Shooting Yourself in the Foot for a Laugh.
+
+[00:05:09] SPEAKER_02
+Host Jeff Ramsey is joined every week by longtime friend Gavin Free.
+
+[00:05:13] SPEAKER_00
+Yeah, but I don't think I wrote that.
+
+[00:05:16] SPEAKER_00
+Also, it says bi-weekly.
+
+[00:05:19] SPEAKER_00
+Yeah.
+
+[00:05:19] SPEAKER_00
+That doesn't sound good either.
+
+[00:05:20] SPEAKER_00
+Everything about this is awful.
+
+[00:05:23] SPEAKER_03
+Yeah, once every two weeks.
+
+[00:05:26] SPEAKER_03
+What?
+
+[00:05:26] SPEAKER_03
+Two every one week?
+
+[00:05:28] SPEAKER_03
+What does my weekly mean?
+
+[00:05:30] SPEAKER_03
+Well, it's neither of them.
+
+[00:05:31] SPEAKER_03
+F*** F*** Faces weekly.
+
+[00:05:32] SPEAKER_01
+It's the point.
+
+[00:05:33] SPEAKER_03
+It's once a week.
+
+[00:05:33] SPEAKER_03
+Yeah.
+
+[00:05:34] SPEAKER_03
+Oh, okay.
+
+[00:05:35] SPEAKER_03
+Now I see what you're saying.
+
+[00:05:37] SPEAKER_03
+Okay.
+
+[00:05:39] SPEAKER_03
+Do you like this intro, Eric?
+
+[00:05:41] SPEAKER_03
+Is this a good one?
+
+[00:05:42] SPEAKER_00
+What I'm...
+
+[00:05:43] SPEAKER_00
+Jeff, take it away.
+
+[00:05:45] SPEAKER_00
+What I...
+
+[00:05:45] SPEAKER_00
+What I...
+
+[00:05:46] SPEAKER_00
+Hey, hello, and welcome to episode 54 of the F*** Face Podcast.
+
+[00:05:51] SPEAKER_00
+What you have been listening to up until this point is a simulation of the difficulty we go
+
+[00:05:56] SPEAKER_00
+through each week trying to start the podcast.
+
+[00:05:59] SPEAKER_00
+We wanted to put on a little...
+
+[00:05:59] SPEAKER_00
+That was actually scripted and seen.
+
+[00:06:02] SPEAKER_00
+Sorry.
+
+[00:06:03] SPEAKER_00
+And so you guys can go ahead and throw those scripts away.
+
+[00:06:06] SPEAKER_00
+We don't need them anymore.
+
+[00:06:06] SPEAKER_00
+All right.
+
+[00:06:06] SPEAKER_00
+I wanted to just give you guys a little taste of what sometimes it's like.
+
+[00:06:10] SPEAKER_00
+I'm Jeff Ramsey.
+
+[00:06:11] SPEAKER_00
+With me always, Andrew Patton and Gavin Free.
+
+[00:06:13] SPEAKER_00
+What's going on in your world this week, guys?
+
+[00:06:15] SPEAKER_01
+I'm miserable.
+
+[00:06:16] SPEAKER_00
+It's great.
+
+[00:06:17] SPEAKER_02
+It's great and awful.
+
+[00:06:19] SPEAKER_02
+It's great and then terrible.
+
+[00:06:19] SPEAKER_01
+We are deep in this Halo bet, which when it started last week, kind of, it was great.
+
+[00:06:26] SPEAKER_01
+I had a pretty open week.
+
+[00:06:28] SPEAKER_01
+This week, I've been shooting every single day, and I've been having to come home, shoot
+
+[00:06:33] SPEAKER_01
+entire days, you know, like 12 plus hours.
+
+[00:06:36] SPEAKER_01
+It's knowing that I'm going to have to come home tired, download all my footage, and then
+
+[00:06:40] SPEAKER_01
+play Halo, the same piece of level over and over again.
+
+[00:06:44] SPEAKER_01
+And somehow, I keep beating Andrew's time.
+
+[00:06:47] SPEAKER_01
+So this has been following me every single night of the week.
+
+[00:06:50] SPEAKER_01
+I have to beat the time by like one second, and I'm so tired, it's dreadful.
+
+[00:06:56] SPEAKER_01
+Andrew, thoughts?
+
+[00:06:57] SPEAKER_02
+I'm going to argue against you saying you're available last week.
+
+[00:07:00] SPEAKER_02
+The reason why we're doing this this week is purely because of you.
+
+[00:07:04] SPEAKER_01
+You kept shifting the start.
+
+[00:07:05] SPEAKER_01
+That's because I didn't want to start and have the 24 hours go on to my birthday.
+
+[00:07:14] SPEAKER_00
+Speaking of, like you talked about how miserable you are this week.
+
+[00:07:16] SPEAKER_00
+I want to hear all about this bet.
+
+[00:07:18] SPEAKER_00
+I'm super invested in it, and I want to get into it, and I think it's probably the meat
+
+[00:07:21] SPEAKER_00
+of this episode.
+
+[00:07:22] SPEAKER_00
+Especially because somehow this goes on every night, and everybody knows about it, but I
+
+[00:07:27] SPEAKER_00
+don't.
+
+[00:07:27] SPEAKER_00
+Like, I don't check Twitter, so I guess I just never know when the streams are happening or
+
+[00:07:32] SPEAKER_00
+anything.
+
+[00:07:32] SPEAKER_00
+I hear Jack's involved at one point.
+
+[00:07:34] SPEAKER_00
+Like, I am ignorant of the whole thing.
+
+[00:07:36] SPEAKER_01
+Even Eric's been watching.
+
+[00:07:37] SPEAKER_01
+There's been hundreds of people watching every night for Andrew's stream.
+
+[00:07:40] SPEAKER_00
+Gavin, after we're done with this, I would like to challenge your idea of a bad week with
+
+[00:07:45] SPEAKER_00
+my life.
+
+[00:07:46] SPEAKER_00
+Oh, I'm sure mine doesn't come close.
+
+[00:07:48] SPEAKER_00
+Mine is just normal work, and I'm tired.
+
+[00:07:51] SPEAKER_00
+So, how are you guys able to keep shaving off time?
+
+[00:07:55] SPEAKER_00
+And how many times have you gone back and forth?
+
+[00:07:57] SPEAKER_02
+Well, this is, I have another, you know what, Jeff, you just remind me of another thing.
+
+[00:08:00] SPEAKER_02
+You are a motherfucker.
+
+[00:08:01] SPEAKER_02
+I fucking, you piece of shit.
+
+[00:08:03] SPEAKER_02
+You've caused another layer to this bet, you son of a bitch.
+
+[00:08:08] SPEAKER_02
+So, you'll find out in a minute.
+
+[00:08:10] SPEAKER_02
+So, we've been going back and forth.
+
+[00:08:13] SPEAKER_02
+I haven't been able to figure out how Gavin has consistently been beating my times.
+
+[00:08:17] SPEAKER_02
+I've been showing how I've been doing it, and as mentioned before, I've been doing it
+
+[00:08:20] SPEAKER_02
+like the speed running method.
+
+[00:08:22] SPEAKER_02
+I'm grenade jumping, I'm hopping over things, like I'm doing everything properly.
+
+[00:08:26] SPEAKER_02
+With zero skulls on.
+
+[00:08:28] SPEAKER_02
+No skulls.
+
+[00:08:29] SPEAKER_02
+I've been doing it cleanly.
+
+[00:08:31] SPEAKER_01
+Jeff, Andrew found my new techniques.
+
+[00:08:34] SPEAKER_01
+He found out what they were.
+
+[00:08:35] SPEAKER_02
+I discovered his new techniques, because I kept doing this thing, and eventually, what,
+
+[00:08:39] SPEAKER_02
+our time started at like 4 minute 20-something, Gavin, when this started?
+
+[00:08:43] SPEAKER_01
+You had to beat 4.22, I think was the first time that I'd left you with, from over, well,
+
+[00:08:48] SPEAKER_01
+like nine months ago.
+
+[00:08:50] SPEAKER_02
+Okay, 4.22.
+
+[00:08:51] SPEAKER_02
+The fastest run I had seen used this, like, pelican.
+
+[00:08:54] SPEAKER_02
+You'd jump and bounce off a pelican in a certain way, and that was for 3 minutes 59 seconds.
+
+[00:08:59] SPEAKER_02
+And I just couldn't figure out how to do it, and I was demoralized, and for the first time,
+
+[00:09:04] SPEAKER_02
+I had a genius idea.
+
+[00:09:05] SPEAKER_02
+I googled the level and put in the word speedrun after it.
+
+[00:09:09] SPEAKER_02
+I just, like, all the research I'd done at that point had just been on YouTube looking
+
+[00:09:13] SPEAKER_02
+at runs.
+
+[00:09:14] SPEAKER_02
+For the first time, I looked it up, and I found a website that was like Halo speedrunning,
+
+[00:09:18] SPEAKER_02
+and they had a bunch of times, and their lowest time was three and a half minutes.
+
+[00:09:24] SPEAKER_02
+And he refused to tell me, for some reason.
+
+[00:09:27] SPEAKER_01
+Well, yeah, you asked me.
+
+[00:09:28] SPEAKER_01
+I have a, I think I had seven skulls on, and you asked me which, yeah, nine, and you asked
+
+[00:09:34] SPEAKER_01
+me which ones, and I just said a bit of this, bit of that.
+
+[00:09:36] SPEAKER_02
+Yeah, but I'd asked you at multiple times throughout this, what skulls are you using?
+
+[00:09:42] SPEAKER_02
+You'd always just say, ah, new techniques.
+
+[00:09:43] SPEAKER_02
+I'm using new techniques.
+
+[00:09:44] SPEAKER_02
+You'd give no details.
+
+[00:09:45] SPEAKER_02
+Then you eventually told me that you would use a ghost, and I was like, oh, now you're willing
+
+[00:09:49] SPEAKER_02
+to talk about what you're doing, because I'm showing you how I'm doing it, and then
+
+[00:09:53] SPEAKER_02
+I asked you the skulls, and you're like, ah, bit of this, bit of that.
+
+[00:09:55] SPEAKER_02
+Completely useless.
+
+[00:09:57] SPEAKER_01
+Well, here's, you missed out the part where you beat my 422, and you got 420.
+
+[00:10:03] SPEAKER_01
+And I thought, oh, I'm going to whip out my new techniques again.
+
+[00:10:05] SPEAKER_01
+And what I was going to do was just get a time, because my new techniques allowed me
+
+[00:10:09] SPEAKER_01
+to smash the world record without skulls.
+
+[00:10:12] SPEAKER_01
+Like, it's way faster than playing normally.
+
+[00:10:15] SPEAKER_01
+But I was just going to wait at the end, and then drive through the finish with, like,
+
+[00:10:20] SPEAKER_01
+one second.
+
+[00:10:21] SPEAKER_01
+You fuck.
+
+[00:10:22] SPEAKER_01
+So I was parked at the end, and I was trying to film it.
+
+[00:10:25] SPEAKER_01
+I was trying to film me waiting at the end, but as I was doing that, I fumbled the controller,
+
+[00:10:28] SPEAKER_01
+and I drove to the end, like, over 10 seconds faster than your time.
+
+[00:10:34] SPEAKER_01
+I think, what did I put it at?
+
+[00:10:35] SPEAKER_02
+It was, it was, like, shockingly low.
+
+[00:10:38] SPEAKER_02
+I thought you couldn't beat 420.
+
+[00:10:40] SPEAKER_01
+I accidentally went from beating your 420, I accidentally put in a 406.
+
+[00:10:45] SPEAKER_01
+And at that point, you were like, wait, what are you doing?
+
+[00:10:49] SPEAKER_01
+And I was like, no!
+
+[00:10:50] SPEAKER_01
+Now he knows that the skulls are definitely my new techniques.
+
+[00:10:54] SPEAKER_00
+I hate you.
+
+[00:10:55] SPEAKER_00
+What was it, what did it feel like the second you saw him beat your time by 14 seconds?
+
+[00:11:01] SPEAKER_00
+Oh, stunned.
+
+[00:11:03] SPEAKER_02
+Like, before you rationalized it, did your heart fall out of your body?
+
+[00:11:07] SPEAKER_02
+It was depressing, Jeff.
+
+[00:11:09] SPEAKER_02
+It was shocking, and it just heightened my sense of, Gavin isn't this good.
+
+[00:11:13] SPEAKER_02
+What the fuck is Gavin doing?
+
+[00:11:15] SPEAKER_02
+What is happening here?
+
+[00:11:16] SPEAKER_02
+He's tenacious, though.
+
+[00:11:17] SPEAKER_02
+He is.
+
+[00:11:17] SPEAKER_02
+He is.
+
+[00:11:17] SPEAKER_02
+He was thinking about Gavin.
+
+[00:11:18] SPEAKER_01
+A huge mistake.
+
+[00:11:19] SPEAKER_01
+So, Andrew then started fumbling around with skulls.
+
+[00:11:22] SPEAKER_01
+I actually have the clip, Andrew, from your stream,
+
+[00:11:24] SPEAKER_01
+of the moment you discovered what happens when you put those skulls on.
+
+[00:11:28] SPEAKER_01
+Shall I play it?
+
+[00:11:28] SPEAKER_02
+Sure.
+
+[00:11:42] SPEAKER_01
+So, Andrew realized, I'm just playing golf.
+
+[00:11:45] SPEAKER_01
+I've got Sputnik, Feather, and Boom on, which combined, you just throw a grenade to the ground
+
+[00:11:53] SPEAKER_01
+and shoot, like, 200 feet in the air.
+
+[00:11:55] SPEAKER_01
+And you can just blow yourself over half the level at the beginning.
+
+[00:11:59] SPEAKER_01
+And that's how I've been, like, by the time he's driving or, like, walking over the rooftops
+
+[00:12:03] SPEAKER_01
+to the hotel in 30 seconds.
+
+[00:12:05] SPEAKER_01
+I've been there in, like, 15 seconds.
+
+[00:12:07] SPEAKER_01
+And, uh, alas, my new techniques have been revealed.
+
+[00:12:12] SPEAKER_02
+But it was so...
+
+[00:12:15] SPEAKER_02
+You make, like, it is easy.
+
+[00:12:16] SPEAKER_02
+Like, it's a lot easier.
+
+[00:12:17] SPEAKER_02
+It is difficult to get those grenade jumps.
+
+[00:12:19] SPEAKER_02
+You have to be so specific because Halo 2 doesn't have fall damage.
+
+[00:12:23] SPEAKER_02
+It has, if you're in the air for a certain amount of time, you just die.
+
+[00:12:27] SPEAKER_02
+What is the Sputnik Skull?
+
+[00:12:29] SPEAKER_02
+What is, like, the description of it?
+
+[00:12:31] SPEAKER_02
+Because there's...
+
+[00:12:32] SPEAKER_02
+I don't know that one.
+
+[00:12:32] SPEAKER_01
+They actually added new skulls to Halo 2, but I think Sputnik is one of the originals.
+
+[00:12:37] SPEAKER_01
+Sputnik Skull.
+
+[00:12:37] SPEAKER_01
+Is it?
+
+[00:12:38] SPEAKER_01
+Halo 2.
+
+[00:12:40] SPEAKER_02
+I think it reduces gravity.
+
+[00:12:42] SPEAKER_02
+But there's a few different, like, there's a grenade modifier.
+
+[00:12:44] SPEAKER_02
+I don't think that's in other Halos.
+
+[00:12:45] SPEAKER_02
+No.
+
+[00:12:46] SPEAKER_02
+Is that just a Halo?
+
+[00:12:46] SPEAKER_02
+Is that one that's only Halo 2?
+
+[00:12:47] SPEAKER_01
+Mass of objects is decreased, making them more easily displaced.
+
+[00:12:52] SPEAKER_00
+Gotcha.
+
+[00:12:53] SPEAKER_01
+Okay.
+
+[00:12:53] SPEAKER_01
+And that applies to you as well.
+
+[00:12:56] SPEAKER_02
+Before, we're getting too far ahead, so I'm still doing...
+
+[00:12:59] SPEAKER_02
+I'm doing the skull-less runs, right?
+
+[00:13:02] SPEAKER_02
+And then I finally, I realize Gavin's been fucking golf-balling it up, flying around, and
+
+[00:13:06] SPEAKER_02
+I beat his time by however many seconds, and I post a screenshot.
+
+[00:13:10] SPEAKER_02
+This is the first time I've used skulls.
+
+[00:13:12] SPEAKER_02
+I've done this, like, as legitimately as you can until this point, and then all of a
+
+[00:13:17] SPEAKER_02
+sudden, this narrative got created of, Gavin's got nine skulls.
+
+[00:13:19] SPEAKER_02
+You only got four?
+
+[00:13:21] SPEAKER_02
+What are you doing?
+
+[00:13:21] SPEAKER_02
+Like, my runs all of a sudden became lessened because people equate more skulls to harder,
+
+[00:13:27] SPEAKER_02
+including you, Jeff.
+
+[00:13:29] SPEAKER_02
+You had a little fucking snarky tweet about, oh, four, like, five skull difference.
+
+[00:13:34] SPEAKER_02
+That's interesting.
+
+[00:13:35] SPEAKER_02
+It is interesting.
+
+[00:13:36] SPEAKER_02
+It's harder.
+
+[00:13:37] SPEAKER_02
+It's harder what I'm doing.
+
+[00:13:39] SPEAKER_02
+But everyone thinks it's easier because I have less skulls.
+
+[00:13:41] SPEAKER_02
+So then, when I took Gavin's time back the following day, I put on fucking ten skulls.
+
+[00:13:50] SPEAKER_02
+Because you can just add, like, the I would have been your daddy's skull, which does nothing.
+
+[00:13:53] SPEAKER_02
+It, like, adds dialogue.
+
+[00:13:55] SPEAKER_01
+That was my original thing.
+
+[00:13:56] SPEAKER_01
+I put on nine or so skulls, but I was really only using three.
+
+[00:14:00] SPEAKER_01
+I was just putting on more to throw them off.
+
+[00:14:01] SPEAKER_01
+But yeah, I had, like, profit birthday party, which there's no profits in that level.
+
+[00:14:05] SPEAKER_01
+It's just a skull to throw on.
+
+[00:14:06] SPEAKER_02
+It's ridiculous.
+
+[00:14:08] SPEAKER_02
+So, in my anger of this, Jeff, I just threw on all these skulls, and one of them is a
+
+[00:14:14] SPEAKER_02
+grunt funeral or something like that.
+
+[00:14:15] SPEAKER_02
+I don't remember the exact wording.
+
+[00:14:16] SPEAKER_02
+Do you know what it is, Gavin?
+
+[00:14:17] SPEAKER_02
+Okay.
+
+[00:14:18] SPEAKER_01
+Yeah, grunt funeral.
+
+[00:14:19] SPEAKER_02
+Okay, it is grunt funeral.
+
+[00:14:20] SPEAKER_02
+And grunt funeral is when you kill a grunt, they explode.
+
+[00:14:24] SPEAKER_02
+And how we're doing this, we average, like, maybe at most, like, one or two kills per run.
+
+[00:14:29] SPEAKER_02
+And so I'm thinking in my head of, like, well, do I kill a grunt at all in this?
+
+[00:14:33] SPEAKER_02
+No, I don't think I do.
+
+[00:14:34] SPEAKER_02
+Like, why would I kill a grunt?
+
+[00:14:36] SPEAKER_02
+There's one fucking grunt that blows up on my path, and it added, like, an additional
+
+[00:14:40] SPEAKER_02
+30 minutes to my run, because every time I tried to go past it, it would explode, and
+
+[00:14:45] SPEAKER_02
+I'd blow up, and I'd have to go over again.
+
+[00:14:46] SPEAKER_02
+All because of this fucking skull narrative.
+
+[00:14:48] SPEAKER_02
+I don't need any of these skulls on, but we're now at 10 skulls, and it has continued to progress.
+
+[00:14:54] SPEAKER_01
+You also are fantastic at getting my exact time.
+
+[00:14:58] SPEAKER_01
+You get all the way to the end, and you land on the exact time I got.
+
+[00:15:01] SPEAKER_01
+So I put in the 406 by accident.
+
+[00:15:04] SPEAKER_01
+Then it was, you know, all of the Mysterium and the mind games are all out the window.
+
+[00:15:08] SPEAKER_01
+Now I just have to rely on skill, which I don't really have much of.
+
+[00:15:11] SPEAKER_01
+You then put in a 354.
+
+[00:15:14] SPEAKER_02
+Was it that low?
+
+[00:15:16] SPEAKER_01
+Yeah.
+
+[00:15:16] SPEAKER_01
+And then, somehow, I sat down last night, after shooting all day, I was like, I'm going
+
+[00:15:21] SPEAKER_01
+to be up until, like, 2 a.m., and then I've got to get up at 6.
+
+[00:15:24] SPEAKER_01
+It's going to be a nightmare.
+
+[00:15:26] SPEAKER_01
+But somehow, in about 45 minutes, I put in a 352.
+
+[00:15:30] SPEAKER_02
+Not only did he put in, we need context also, once again.
+
+[00:15:34] SPEAKER_02
+Every single time Gavin tries to beat my time, there's just a text chain of whining and complaining.
+
+[00:15:41] SPEAKER_02
+Why doesn't your timer work?
+
+[00:15:42] SPEAKER_02
+This sucks.
+
+[00:15:44] SPEAKER_02
+This is terrible.
+
+[00:15:45] SPEAKER_02
+Blink if you can hear me.
+
+[00:15:46] SPEAKER_02
+Yeah, blink if you can hear me, which is, Cortana says, at the beginning, when you load
+
+[00:15:51] SPEAKER_02
+in that level, so when you're trying to do the first part, you just hear blink if you
+
+[00:15:53] SPEAKER_02
+can hear me.
+
+[00:15:54] SPEAKER_02
+Over and over and over.
+
+[00:15:55] SPEAKER_02
+Fucking is awful.
+
+[00:15:57] SPEAKER_02
+Shake it off, Marines.
+
+[00:15:58] SPEAKER_02
+But there's always this text chain I get from Gavin of, like, it's going to be miserable.
+
+[00:16:03] SPEAKER_02
+And we had been talking earlier in the day, and he's like, oh, I've got to shoot all day.
+
+[00:16:06] SPEAKER_02
+I'm not even going to be able to start until 7 your time.
+
+[00:16:10] SPEAKER_02
+This is just, like, I've got no chance.
+
+[00:16:12] SPEAKER_02
+I've got, like, two hours to do this.
+
+[00:16:14] SPEAKER_02
+And so I texted back, you know what?
+
+[00:16:16] SPEAKER_02
+And I've done this a few times, because it's weird.
+
+[00:16:19] SPEAKER_02
+When it's not on you, when you don't have to beat the time, you're, like, kind of cheering
+
+[00:16:24] SPEAKER_02
+for the other person because it's so miserable.
+
+[00:16:26] SPEAKER_02
+And you're just hoping.
+
+[00:16:28] SPEAKER_02
+I'm like, you know what, Gavin?
+
+[00:16:29] SPEAKER_02
+I'll let you, I'll extend your time from, it was, like, 11 p.m. for you.
+
+[00:16:34] SPEAKER_02
+I'll let you go until we record the podcast tomorrow.
+
+[00:16:37] SPEAKER_02
+If you, as long as you beat the time by that, that's, like, 30-something hours.
+
+[00:16:41] SPEAKER_01
+And I was very appreciative, because I needed the time, because I'd wasted so much doing work.
+
+[00:16:45] SPEAKER_02
+Yeah, Gavin sent me this thing of, like, oh, I'm going to have, like, no time to do this.
+
+[00:16:50] SPEAKER_02
+That's, you know what?
+
+[00:16:50] SPEAKER_02
+But, hey, I really appreciate that.
+
+[00:16:52] SPEAKER_02
+That's kind of you.
+
+[00:16:53] SPEAKER_02
+So I'm having dinner.
+
+[00:16:55] SPEAKER_02
+I eat my meal.
+
+[00:16:56] SPEAKER_02
+It's 7 p.m.
+
+[00:16:57] SPEAKER_02
+Gavin should just be starting now.
+
+[00:16:59] SPEAKER_02
+And I decide I'm going to have a bath.
+
+[00:17:01] SPEAKER_02
+I'm going to have a nice bath.
+
+[00:17:02] SPEAKER_02
+I've been streaming every night.
+
+[00:17:04] SPEAKER_02
+This is suck doing this thing.
+
+[00:17:05] SPEAKER_02
+This is the one night where I know for a fact I can just stretch out, relax, enjoy myself,
+
+[00:17:11] SPEAKER_02
+hop in the tub, spend seven minutes in a tub filling with water.
+
+[00:17:16] SPEAKER_02
+It's all nice and warm.
+
+[00:17:18] SPEAKER_02
+I'm just loving life.
+
+[00:17:19] SPEAKER_02
+And then out of nowhere, I get a text from Gavin saying, never mind, with a new time.
+
+[00:17:24] SPEAKER_02
+He beat my time by two seconds.
+
+[00:17:26] SPEAKER_02
+There was no text chain.
+
+[00:17:27] SPEAKER_02
+There was no warning.
+
+[00:17:28] SPEAKER_02
+Just immediately stabbed me in the heart.
+
+[00:17:31] SPEAKER_02
+I'm just devastated.
+
+[00:17:32] SPEAKER_01
+Yeah, so I realized I was still one night behind when I said my last score, which was 3.52 after your 3.54.
+
+[00:17:37] SPEAKER_01
+That was, you put in the previous night a 3.49, and then I sat down and very quickly did a 3.47.
+
+[00:17:43] SPEAKER_01
+Which, at the time, when I said that to you, I looked it up.
+
+[00:17:47] SPEAKER_01
+That was, like, number 62 in the world on that leaderboard in the game.
+
+[00:17:52] SPEAKER_02
+Yeah.
+
+[00:17:53] SPEAKER_02
+Well, like, the times are weird.
+
+[00:17:54] SPEAKER_02
+So we're doing, like, save and quit, so it's not, like, a continuous run.
+
+[00:17:57] SPEAKER_02
+So it's not, like, an officially submittable time.
+
+[00:18:00] SPEAKER_02
+But it was just the fact that every other time there's been, like, some warning or, like, a message of, like, hey, I'm going to start.
+
+[00:18:06] SPEAKER_02
+I have never been more comfortable and, like, I don't need to worry about this right now.
+
+[00:18:10] SPEAKER_02
+And then I just got that text, and I've never been sadder in a bathtub in my life because it was, like, this is ruined now.
+
+[00:18:18] SPEAKER_02
+I need to now go out.
+
+[00:18:19] SPEAKER_02
+I need to do this.
+
+[00:18:20] SPEAKER_02
+I need to stream this.
+
+[00:18:21] SPEAKER_02
+I got out of my bath.
+
+[00:18:22] SPEAKER_02
+It ruined my bath.
+
+[00:18:23] SPEAKER_02
+I ruined his bath.
+
+[00:18:24] SPEAKER_02
+He ruined my bath.
+
+[00:18:26] SPEAKER_02
+It's the angriest I've been in a tub.
+
+[00:18:28] SPEAKER_01
+I couldn't believe it for ruining your bath because I know what a bath means to you.
+
+[00:18:31] SPEAKER_01
+And, you know, you're usually in there for, like, an hour to 90 minutes.
+
+[00:18:34] SPEAKER_02
+Yeah.
+
+[00:18:35] SPEAKER_02
+No, you got it.
+
+[00:18:35] SPEAKER_02
+It's a whole extreme.
+
+[00:18:36] SPEAKER_02
+It's the angriest you've been in a tub.
+
+[00:18:37] SPEAKER_02
+It is, by far.
+
+[00:18:39] SPEAKER_02
+I was irate at having to pull the drain.
+
+[00:18:42] SPEAKER_02
+It was just terrible.
+
+[00:18:44] SPEAKER_02
+I put a tub.
+
+[00:18:44] SPEAKER_00
+You had 24 hours.
+
+[00:18:46] SPEAKER_00
+You could have enjoyed the bath for 15 more minutes.
+
+[00:18:48] SPEAKER_02
+No, it's not how, because I need to put the pressure back on Gavin, and I got to stream it.
+
+[00:18:54] SPEAKER_01
+But honestly, he starts streaming every time, and it is so, so good to watch.
+
+[00:18:58] SPEAKER_01
+There's, like, hundreds of people in there.
+
+[00:18:59] SPEAKER_01
+They're all cheering him on.
+
+[00:19:00] SPEAKER_01
+I'm, you know, I'm taunting him, really, if we're honest.
+
+[00:19:02] SPEAKER_00
+Oh, yeah.
+
+[00:19:03] SPEAKER_00
+So, are you just streaming from your Twitch channel that I used to watch you stream?
+
+[00:19:06] SPEAKER_00
+No.
+
+[00:19:06] SPEAKER_02
+Okay.
+
+[00:19:07] SPEAKER_02
+So, I lost that account I don't have access to at the time.
+
+[00:19:10] SPEAKER_02
+So, I've been using my Andrew the Donkey Kong guy, which was a fake account I made to stream
+
+[00:19:14] SPEAKER_02
+Gavin when I was doing the Donkey Kong thing.
+
+[00:19:16] SPEAKER_02
+So, I've been on that.
+
+[00:19:18] SPEAKER_02
+That's why you probably haven't gotten any notifications.
+
+[00:19:19] SPEAKER_00
+That must be why I probably haven't seen any alerts or anything.
+
+[00:19:21] SPEAKER_00
+Yeah.
+
+[00:19:22] SPEAKER_00
+So, it's been...
+
+[00:19:22] SPEAKER_00
+I got to subscribe to your alt account.
+
+[00:19:25] SPEAKER_02
+It's been a whole process, and just fucking...
+
+[00:19:29] SPEAKER_02
+So, wait, who's currently got the record, Andrew?
+
+[00:19:33] SPEAKER_02
+That's a great question.
+
+[00:19:34] SPEAKER_02
+So, then, I came out of my bath furious, and I was hot initially.
+
+[00:19:39] SPEAKER_02
+I did really good.
+
+[00:19:40] SPEAKER_02
+First few jumps, no problem.
+
+[00:19:42] SPEAKER_02
+It took me one.
+
+[00:19:42] SPEAKER_00
+3.47 to beat.
+
+[00:19:44] SPEAKER_02
+3.47 to beat.
+
+[00:19:44] SPEAKER_00
+Well, you're all steamed up from the back.
+
+[00:19:46] SPEAKER_00
+I'm...
+
+[00:19:46] SPEAKER_02
+Yeah.
+
+[00:19:47] SPEAKER_02
+I've steamed up from the back.
+
+[00:19:48] SPEAKER_02
+You're all lubed up.
+
+[00:19:48] SPEAKER_02
+I put a fucking towel over my head of sadness while the water drained.
+
+[00:19:52] SPEAKER_02
+I was just devastated.
+
+[00:19:54] SPEAKER_02
+Sitting.
+
+[00:19:54] SPEAKER_02
+And so, I came...
+
+[00:19:56] SPEAKER_02
+I had a new level of anger and a wanting to get this done.
+
+[00:19:59] SPEAKER_02
+And for the first time, as Gavin said, what would always happen in my runs is I would tie him.
+
+[00:20:04] SPEAKER_02
+I'd tie his time, and then I'd have to do it again, because a tie, he still wins.
+
+[00:20:08] SPEAKER_02
+I need to pass him.
+
+[00:20:09] SPEAKER_02
+And I beat him in about an hour.
+
+[00:20:11] SPEAKER_02
+It took one hour, and I'm one second...
+
+[00:20:13] SPEAKER_02
+Is it one?
+
+[00:20:14] SPEAKER_02
+Yeah, it's one.
+
+[00:20:14] SPEAKER_02
+I got him by one second.
+
+[00:20:16] SPEAKER_02
+I improved on his time by one second.
+
+[00:20:19] SPEAKER_02
+It's all on Gavin now.
+
+[00:20:20] SPEAKER_01
+So, it's 3.21 p.m.
+
+[00:20:21] SPEAKER_01
+I have until 11 to beat 3.46.
+
+[00:20:26] SPEAKER_01
+You do.
+
+[00:20:27] SPEAKER_02
+And I've never been more confident that you will.
+
+[00:20:30] SPEAKER_02
+I'm fully prepared for that.
+
+[00:20:31] SPEAKER_02
+Why?
+
+[00:20:31] SPEAKER_02
+Really?
+
+[00:20:32] SPEAKER_02
+Yeah, because it's only two seconds, and I feel like I could have shaved...
+
+[00:20:36] SPEAKER_02
+I feel like there are things I could have done better.
+
+[00:20:38] SPEAKER_02
+This is the first time where I feel like you're going to take the time back.
+
+[00:20:41] SPEAKER_01
+It is so bizarre how it works, though.
+
+[00:20:43] SPEAKER_01
+Like, I'm always so excited when I beat you.
+
+[00:20:45] SPEAKER_01
+I'm just like, oh, I'm like hands in the air.
+
+[00:20:47] SPEAKER_01
+I'm like jumping up off the couch.
+
+[00:20:48] SPEAKER_01
+But the moment I'm watching him stream, I'm rooting for him.
+
+[00:20:51] SPEAKER_01
+Like, there's a bit where, like, if you get through this corridor and down to a ghost in a good time, it's like, oh, it's a good run.
+
+[00:20:57] SPEAKER_01
+And I'm like, oh, he's going to do it.
+
+[00:20:59] SPEAKER_01
+I'm cheering him on.
+
+[00:21:00] SPEAKER_01
+And then he actually does it, and I'm just miserable and filled with dread.
+
+[00:21:04] SPEAKER_00
+It's a roller coaster.
+
+[00:21:06] SPEAKER_00
+You have seven and a half hours to do it, and it sounds to me like, what's the current time?
+
+[00:21:12] SPEAKER_00
+What is it?
+
+[00:21:14] SPEAKER_02
+Yeah, I think that's right.
+
+[00:21:15] SPEAKER_02
+I think you need 3.45.
+
+[00:21:15] SPEAKER_00
+3.46.
+
+[00:21:16] SPEAKER_00
+So you only need 3 minutes and 45 seconds to beat the record.
+
+[00:21:20] SPEAKER_02
+That's true.
+
+[00:21:21] SPEAKER_00
+Seven and a half hours is way more time than you need, buddy.
+
+[00:21:24] SPEAKER_00
+Way more time than you need.
+
+[00:21:26] SPEAKER_00
+You only need 3 minutes and 45 seconds.
+
+[00:21:28] SPEAKER_02
+Do you use the same ghost path as I do, Gavin?
+
+[00:21:32] SPEAKER_02
+That's the only part of this that isn't, okay, interesting.
+
+[00:21:35] SPEAKER_01
+Well, you're like, no, I don't.
+
+[00:21:38] SPEAKER_01
+Mine's slightly different.
+
+[00:21:39] SPEAKER_01
+Well, because I didn't ever watch, when I say new techniques, I just figured that out from just farting around with skulls.
+
+[00:21:45] SPEAKER_01
+Because I realized that three hour on legendary achievement, you can still use those skulls as long as I don't have a zero multiplier.
+
+[00:21:51] SPEAKER_01
+So I was just throwing them on back in the day.
+
+[00:21:53] SPEAKER_01
+I was like, wow, you can actually shave so much time off like this.
+
+[00:21:57] SPEAKER_01
+But I just basically carved my own path through that level.
+
+[00:22:00] SPEAKER_01
+And it was actually very similar to that video you sent me in the end.
+
+[00:22:04] SPEAKER_02
+Huh.
+
+[00:22:05] SPEAKER_02
+I can't wait for this to be over.
+
+[00:22:07] SPEAKER_02
+One, for my mental health.
+
+[00:22:08] SPEAKER_02
+And two, I just want to see what your ghost does.
+
+[00:22:11] SPEAKER_02
+Because it is truly, I've never been in a bet before, like Gavin said, where when it's not in your court, when you just the other person has to do it, I'm cheering for him.
+
+[00:22:20] SPEAKER_02
+I kind of hope he does it.
+
+[00:22:21] SPEAKER_02
+But if he does do it, like the moment it happens, nothing but dread and anger at myself.
+
+[00:22:28] SPEAKER_02
+Because when I set one of the times that I passed Gavin on, I said, fuck this.
+
+[00:22:32] SPEAKER_02
+I'm tired of him watching my runs and just figuring out what I'm doing.
+
+[00:22:35] SPEAKER_02
+I'm not going to stream this.
+
+[00:22:36] SPEAKER_02
+So I didn't.
+
+[00:22:37] SPEAKER_02
+I set a new time.
+
+[00:22:38] SPEAKER_02
+And then I sent him the fucking link to the speed run that I was using anyway.
+
+[00:22:42] SPEAKER_02
+So it's like, what am I doing?
+
+[00:22:43] SPEAKER_02
+It's ridiculous.
+
+[00:22:44] SPEAKER_02
+It's a weird up and down emotional roller coaster, and it doesn't seem to want to end.
+
+[00:22:49] SPEAKER_02
+It's been very fun.
+
+[00:22:50] SPEAKER_02
+And I'm terrified.
+
+[00:22:51] SPEAKER_01
+And I like that I'm shaving the total time off that achievement that I'm eventually getting.
+
+[00:22:54] SPEAKER_00
+Yeah, you're actually gaining stuff.
+
+[00:22:56] SPEAKER_00
+Oh, it's actually helping you work towards that.
+
+[00:22:58] SPEAKER_00
+Yeah.
+
+[00:22:58] SPEAKER_00
+That's awesome.
+
+[00:22:59] SPEAKER_00
+So this definitely benefits you.
+
+[00:23:02] SPEAKER_00
+So I just realized this may be the last opportunity we have to discuss this particular conversation while it's still going on.
+
+[00:23:10] SPEAKER_00
+All three of us together being recorded.
+
+[00:23:12] SPEAKER_00
+So could we go over what the punishment and the reward is just so we're all clear?
+
+[00:23:18] SPEAKER_02
+That's a great point.
+
+[00:23:20] SPEAKER_02
+I don't even know what I'm playing for.
+
+[00:23:21] SPEAKER_01
+I don't even really know.
+
+[00:23:23] SPEAKER_01
+Like, why doesn't anyone go back and listen?
+
+[00:23:26] SPEAKER_01
+Why don't you?
+
+[00:23:26] SPEAKER_01
+You're the person that does that.
+
+[00:23:29] SPEAKER_02
+Well, I'm busy tonight.
+
+[00:23:31] SPEAKER_02
+That's fair.
+
+[00:23:32] SPEAKER_02
+That's a great point.
+
+[00:23:34] SPEAKER_00
+Somebody will figure it out.
+
+[00:23:34] SPEAKER_00
+Because I just feel like, you know, I feel like we've had some productive conversations recently about ways to streamline these processes.
+
+[00:23:42] SPEAKER_00
+In the future, right?
+
+[00:23:43] SPEAKER_00
+Yes.
+
+[00:23:43] SPEAKER_00
+Like, we've talked about getting a permanent judge.
+
+[00:23:46] SPEAKER_00
+We even talked about a group, a quorum, if you will.
+
+[00:23:48] SPEAKER_00
+I think Fuck Force, we called it.
+
+[00:23:50] SPEAKER_00
+I feel like we had a lot of good ideas out there to head off any, you know, intransigence when it comes to results.
+
+[00:23:58] SPEAKER_00
+But then I feel like all we've done is throw a lot of good ideas out there.
+
+[00:24:00] SPEAKER_00
+But we haven't actually solidified anything.
+
+[00:24:02] SPEAKER_00
+And we could be, this time next Wednesday or next Thursday while we're recording, I could be trying to play middleman between you two screaming at each other because you disagree about the rules of this bet.
+
+[00:24:14] SPEAKER_00
+And I feel like this is our last opportunity to do something about it before it goes down that dark, angry road.
+
+[00:24:19] SPEAKER_00
+I think if I lose, it's gum.
+
+[00:24:20] SPEAKER_02
+It might be gum.
+
+[00:24:21] SPEAKER_02
+I don't really know.
+
+[00:24:22] SPEAKER_02
+But I feel like this bet has entered a different tier, Jeff.
+
+[00:24:25] SPEAKER_02
+You know what, like the end of like just a fucking gritty boxing fight, like it's like there's a level of respect.
+
+[00:24:33] SPEAKER_02
+It almost doesn't matter what happened, like the result.
+
+[00:24:36] SPEAKER_02
+That's where I feel like Gavin and I are entering that territory.
+
+[00:24:39] SPEAKER_02
+We're seven or eight rounds into this going back and forth.
+
+[00:24:42] SPEAKER_02
+I don't really care.
+
+[00:24:43] SPEAKER_02
+I just want to win.
+
+[00:24:44] SPEAKER_02
+Like whatever the result is, like the prize, doesn't really matter to me at this point.
+
+[00:24:49] SPEAKER_00
+Sometimes winning is all you need and losing is the only punishment.
+
+[00:24:53] SPEAKER_00
+Yeah.
+
+[00:24:53] SPEAKER_00
+That's okay.
+
+[00:24:54] SPEAKER_01
+I have one more audio clip that I want to play from Andrew's stream.
+
+[00:24:59] SPEAKER_01
+What we didn't really discuss on here is the reason I use the ghost and not the warthog is that that Sputnik skull or one of the feather skull, one of them.
+
+[00:25:06] SPEAKER_01
+It just makes driving the warthog impossible.
+
+[00:25:08] SPEAKER_01
+If the warthog gets hit by plasma, it shoots like 60 feet in the air.
+
+[00:25:12] SPEAKER_01
+Like you end up driving on the ceiling and the walls.
+
+[00:25:15] SPEAKER_01
+And this is Andrew's reaction.
+
+[00:25:16] SPEAKER_01
+This is Andrew's reaction to discovering that.
+
+[00:25:19] SPEAKER_02
+Odd, I know, but it does probably explain why they came here with such a small thing.
+
+[00:25:23] SPEAKER_02
+Oh, no.
+
+[00:25:25] SPEAKER_02
+Oh, no.
+
+[00:25:26] SPEAKER_02
+Oh, no.
+
+[00:25:30] SPEAKER_02
+Oh, no.
+
+[00:25:30] SPEAKER_01
+It's just such a – I love these streams so much because I know what you're about to stumble from.
+
+[00:25:37] SPEAKER_01
+The moment you swapped into the warthog, I was like, oh, it's going to be so good when he finds out why you shouldn't do that.
+
+[00:25:41] SPEAKER_00
+It feels like there should be a way we can – I mean, I guess Twitch records the streams.
+
+[00:25:49] SPEAKER_00
+Yeah.
+
+[00:25:49] SPEAKER_00
+It feels like there should be a way we can archive this stuff so that people can go back and watch it later.
+
+[00:25:53] SPEAKER_02
+They should all be – yeah, all of the streams I've done on the Andrew the Donkey Kong guy account are recorded, I believe.
+
+[00:26:01] SPEAKER_02
+Okay, that's cool.
+
+[00:26:02] SPEAKER_02
+Yeah.
+
+[00:26:02] SPEAKER_02
+You can go back and view them if you want.
+
+[00:26:03] SPEAKER_01
+Yeah, maybe we should cut a little compilation from all of them.
+
+[00:26:07] SPEAKER_00
+That'd be interesting.
+
+[00:26:11] SPEAKER_00
+It could work.
+
+[00:26:13] SPEAKER_00
+Explaining the bet.
+
+[00:26:13] SPEAKER_00
+Yeah.
+
+[00:26:14] SPEAKER_00
+Like a little documentary.
+
+[00:26:16] SPEAKER_02
+It's fascinating that this is the bet I'm most invested in but have the least to gain from at this point, I think.
+
+[00:26:21] SPEAKER_02
+Like, I don't – whatever it is, doesn't matter.
+
+[00:26:23] SPEAKER_02
+It's bragging rights, right?
+
+[00:26:24] SPEAKER_02
+I guess bragging rights, yeah.
+
+[00:26:25] SPEAKER_02
+It's just like the pain has been so deep.
+
+[00:26:28] SPEAKER_02
+It has sucked so much to do this.
+
+[00:26:30] SPEAKER_02
+And I hate that we're actually getting good at it.
+
+[00:26:32] SPEAKER_02
+I know.
+
+[00:26:33] SPEAKER_02
+Like, this is a skill that we're developing.
+
+[00:26:41] SPEAKER_01
+It's the same emotions but at different times.
+
+[00:26:44] SPEAKER_02
+Yeah, it's a different – it's like a teeter-totter of fuck you.
+
+[00:26:48] SPEAKER_02
+Like, it goes back and forth.
+
+[00:26:49] SPEAKER_02
+There's nice times but it's mainly just like one of us beating the other's time and then a large text thread of,
+
+[00:26:55] SPEAKER_02
+you're fucking suck.
+
+[00:26:56] SPEAKER_02
+You're the worst.
+
+[00:26:57] SPEAKER_02
+How can you do this?
+
+[00:26:58] SPEAKER_00
+Why?
+
+[00:26:58] SPEAKER_00
+You guys must be so exhausted from talking to each other that that's why every time I text the two of you in our group text exchange,
+
+[00:27:05] SPEAKER_00
+nobody responds to me for 24 hours.
+
+[00:27:06] SPEAKER_00
+I responded to you.
+
+[00:27:08] SPEAKER_00
+At a minimum.
+
+[00:27:09] SPEAKER_00
+Boy, do I have a dental story for you guys.
+
+[00:27:11] SPEAKER_00
+Crickets.
+
+[00:27:12] SPEAKER_00
+Well, what do I have to repair for you guys?
+
+[00:27:15] SPEAKER_00
+Crickets.
+
+[00:27:15] SPEAKER_00
+What do we got to do?
+
+[00:27:16] SPEAKER_00
+Ask about it?
+
+[00:27:16] SPEAKER_00
+I'm just excited for the episode.
+
+[00:27:18] SPEAKER_00
+I'm excited.
+
+[00:27:18] SPEAKER_00
+Yeah, that's the exact same.
+
+[00:27:19] SPEAKER_00
+I hope you're okay.
+
+[00:27:20] SPEAKER_01
+Yeah, I don't want you to suddenly just tell the end of the story without us asking.
+
+[00:27:24] SPEAKER_00
+Thumbs up.
+
+[00:27:25] SPEAKER_00
+I'm not going to spoil the fucking story, but I didn't realize that that was –
+
+[00:27:30] SPEAKER_00
+I said like six things in a row over the course of a week to that before.
+
+[00:27:34] SPEAKER_00
+And eventually the only way I was able to get anybody to respond to me was to ask a pointed question that had a yes or no answer.
+
+[00:27:39] SPEAKER_02
+I didn't know those statements were questions.
+
+[00:27:41] SPEAKER_02
+I thought you were just telling us things.
+
+[00:27:43] SPEAKER_02
+I didn't know –
+
+[00:27:43] SPEAKER_01
+If we replied, there was the risk of A, you telling the whole story right then.
+
+[00:27:47] SPEAKER_01
+How often?
+
+[00:27:47] SPEAKER_01
+Or B, you giving us the origins of dentistry.
+
+[00:27:51] SPEAKER_00
+A, A, A, A, A.
+
+[00:27:54] SPEAKER_00
+I don't know the origins of dentistry.
+
+[00:27:55] SPEAKER_00
+B, don't make me find out because C, I will fucking tell you next week.
+
+[00:28:01] SPEAKER_00
+D, how often do you text somebody a statement of fact and never expect an acknowledgement?
+
+[00:28:07] SPEAKER_00
+Gavin, if you've never – you don't text me and then expect me not to respond to you.
+
+[00:28:11] SPEAKER_02
+It's different when it's like – I view that as like a show text.
+
+[00:28:14] SPEAKER_02
+I don't view that as like a friend group text.
+
+[00:28:17] SPEAKER_00
+Andrew, if you said, boy, do I have a fire extinguisher story to tell you guys next week, I would go, can't wait.
+
+[00:28:22] SPEAKER_00
+Ooh, that's exciting.
+
+[00:28:23] SPEAKER_00
+I'll make sure we cover it.
+
+[00:28:24] SPEAKER_00
+Whatever.
+
+[00:28:25] SPEAKER_00
+Jeff, I do want to apologize.
+
+[00:28:26] SPEAKER_00
+Also, also, also, by the way, I had – I had – the one person that does still talk to me
+
+[00:28:31] SPEAKER_00
+and therefore because that person still talks to me, I'm elevating him back to superfan right now.
+
+[00:28:36] SPEAKER_00
+Superfan Jack.
+
+[00:28:37] SPEAKER_00
+Oh, he's back.
+
+[00:28:38] SPEAKER_00
+I had coffee this morning with fan Jack, but this afternoon, looking back on it, he became – during that coffee, he became superfan Jack again
+
+[00:28:47] SPEAKER_00
+because he fucking showed up and talked to me, which was nice.
+
+[00:28:49] SPEAKER_00
+And is he up to date on f*** face?
+
+[00:28:51] SPEAKER_00
+Superfan Jack is up to date on f*** face.
+
+[00:28:53] SPEAKER_00
+Superfan Jack was very upset and thinks that Andrew is lying about setting off the fire extinguisher at all and demanded photography.
+
+[00:29:03] SPEAKER_01
+Oh, yeah, I only saw a picture of his bag.
+
+[00:29:07] SPEAKER_00
+Yeah, I only saw a picture of a bag either.
+
+[00:29:08] SPEAKER_00
+And I was like, no, Andrew wouldn't do that.
+
+[00:29:09] SPEAKER_00
+My phone was dead.
+
+[00:29:10] SPEAKER_00
+Jack was like, I don't trust his performance.
+
+[00:29:12] SPEAKER_00
+I listened to it a couple times.
+
+[00:29:14] SPEAKER_00
+I think he's lying.
+
+[00:29:14] SPEAKER_00
+I think he made it all up.
+
+[00:29:16] SPEAKER_00
+And I was like, well, you know, the basket thing was great.
+
+[00:29:18] SPEAKER_00
+I thought that was even funnier.
+
+[00:29:19] SPEAKER_00
+And he's like, yeah, yeah, the basket thing was great, but you need to get to the bottom of that because Andrew's lying.
+
+[00:29:23] SPEAKER_00
+And I defended you, Andrew.
+
+[00:29:25] SPEAKER_00
+I defended you, but I don't know why.
+
+[00:29:27] SPEAKER_00
+Okay.
+
+[00:29:27] SPEAKER_02
+Well, I mean, I don't know what you want.
+
+[00:29:29] SPEAKER_02
+That was over two weeks ago.
+
+[00:29:30] SPEAKER_02
+I don't know.
+
+[00:29:31] SPEAKER_02
+Like, it went off.
+
+[00:29:32] SPEAKER_02
+It wasn't as big as I wanted.
+
+[00:29:33] SPEAKER_00
+I'm just letting you know what the people are saying.
+
+[00:29:35] SPEAKER_00
+That's all.
+
+[00:29:36] SPEAKER_00
+I don't want anything.
+
+[00:29:37] SPEAKER_00
+Jack is saying.
+
+[00:29:38] SPEAKER_00
+Not the people.
+
+[00:29:39] SPEAKER_00
+I read some tweets.
+
+[00:29:41] SPEAKER_00
+Okay.
+
+[00:29:41] SPEAKER_99
+The people.
+
+[00:29:43] SPEAKER_02
+Who are these people, Jack?
+
+[00:29:44] SPEAKER_02
+There were a few tweets.
+
+[00:29:44] SPEAKER_02
+Outside of Jack.
+
+[00:29:45] SPEAKER_02
+How did this get Jack back in the super fan status?
+
+[00:29:48] SPEAKER_02
+I already told you.
+
+[00:29:49] SPEAKER_02
+I explained it like three times.
+
+[00:29:50] SPEAKER_02
+Will he talk to you?
+
+[00:29:51] SPEAKER_02
+Is that it?
+
+[00:29:51] SPEAKER_02
+Yeah.
+
+[00:29:52] SPEAKER_02
+I will say.
+
+[00:29:52] SPEAKER_02
+I do apologize.
+
+[00:29:53] SPEAKER_02
+Yeah, he paid attention to me.
+
+[00:29:54] SPEAKER_02
+I was lonely.
+
+[00:29:55] SPEAKER_02
+In your defense, it does look bad when I look back at our group text right now.
+
+[00:29:59] SPEAKER_02
+I remember my thoughts each time I saw these texts.
+
+[00:30:03] SPEAKER_01
+That's the thing.
+
+[00:30:03] SPEAKER_01
+Yeah.
+
+[00:30:04] SPEAKER_01
+I reply in my head.
+
+[00:30:05] SPEAKER_02
+It looks like what it was.
+
+[00:30:06] SPEAKER_02
+Yeah.
+
+[00:30:08] SPEAKER_02
+Thursday, Jeff tweets a photo.
+
+[00:30:10] SPEAKER_02
+This is the thing.
+
+[00:30:11] SPEAKER_02
+You tweeted a photo about a thing you're working on, and it looked like a fucking time machine
+
+[00:30:15] SPEAKER_02
+to me.
+
+[00:30:15] SPEAKER_02
+I didn't know how to process it.
+
+[00:30:17] SPEAKER_02
+Internally, I was like, that's cool.
+
+[00:30:19] SPEAKER_02
+Then Jeff on Friday, boy, do I have a surprise dental story for you guys next week.
+
+[00:30:25] SPEAKER_02
+No reply.
+
+[00:30:26] SPEAKER_02
+Tuesday, boy, do I have a broken house shit story and picture for you guys this week.
+
+[00:30:31] SPEAKER_02
+That did get a reply.
+
+[00:30:32] SPEAKER_02
+You did get something on that.
+
+[00:30:34] SPEAKER_01
+And I also, I replied to Jeff drinking a whole soda without burping.
+
+[00:30:38] SPEAKER_00
+That's true.
+
+[00:30:39] SPEAKER_00
+That's true.
+
+[00:30:40] SPEAKER_00
+That's true.
+
+[00:30:40] SPEAKER_00
+I did do that, and you did do that.
+
+[00:30:42] SPEAKER_00
+That is true.
+
+[00:30:43] SPEAKER_00
+Because I sent you a video.
+
+[00:30:44] SPEAKER_00
+Yeah, it was awesome.
+
+[00:30:45] SPEAKER_00
+Thanks, man.
+
+[00:30:46] SPEAKER_00
+I was surprised at how easy, A, it was not to burp, and then B, how hard it was to burp
+
+[00:30:50] SPEAKER_00
+later.
+
+[00:30:50] SPEAKER_01
+Well, that's why I thought the toucan challenge would be the real challenge.
+
+[00:30:54] SPEAKER_00
+I really did, honestly, up until I burped, I thought that the whole thing was a prank
+
+[00:30:59] SPEAKER_00
+on me, and that drinking a whole soda without burping makes you painfully not be able to
+
+[00:31:04] SPEAKER_00
+burp for a while, because Millie and I were both unable to burp, and we were in agony.
+
+[00:31:08] SPEAKER_01
+It's funny, because I was looking, Millie's on the left, you're on the right.
+
+[00:31:12] SPEAKER_01
+I would look to the left and be like, oh, no.
+
+[00:31:14] SPEAKER_01
+And I'd look to the right and be like, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha,
+
+[00:31:20] SPEAKER_02
+So do you want to tell one of these stories, Jeff?
+
+[00:31:22] SPEAKER_02
+Yeah.
+
+[00:31:22] SPEAKER_02
+I've been waiting.
+
+[00:31:23] SPEAKER_01
+I've been waiting since Friday, I guess so.
+
+[00:31:24] SPEAKER_01
+Yeah, that was a big lump of Halo.
+
+[00:31:25] SPEAKER_01
+That was probably too long, so why don't you save this?
+
+[00:31:27] SPEAKER_01
+All right.
+
+[00:31:27] SPEAKER_00
+Well, okay.
+
+[00:31:28] SPEAKER_00
+So I feel like, I feel like...
+
+[00:31:32] SPEAKER_00
+Save it for the text.
+
+[00:31:32] SPEAKER_00
+Oh, I could do that if you want.
+
+[00:31:34] SPEAKER_00
+Eric says I should just save it for text.
+
+[00:31:35] SPEAKER_00
+No.
+
+[00:31:36] SPEAKER_00
+I'm not totally sure.
+
+[00:31:36] SPEAKER_02
+no you should tell I want to this is going to be a great story
+
+[00:31:39] SPEAKER_00
+both of them so here's I don't know they're gonna be great stories
+
+[00:31:42] SPEAKER_00
+it's just it's just a part of the rich pastiche of
+
+[00:31:46] SPEAKER_00
+dog shit that is my life so you guys know that I usually come in hot
+
+[00:31:51] SPEAKER_00
+I either have a I either have a bike wreck I have a dental story
+
+[00:31:55] SPEAKER_00
+I have a something broke or something related to my house broke right
+
+[00:32:00] SPEAKER_00
+those are like the four tent poles of of feces that that support
+
+[00:32:06] SPEAKER_00
+the structure of the foundation of my life right
+
+[00:32:10] SPEAKER_00
+those are like my shit bricks they're the load-bearing shit bricks
+
+[00:32:15] SPEAKER_00
+they keep me alive right and also suppress me into a life of
+
+[00:32:18] SPEAKER_00
+fly-encrusted doo-doo so I am happy to report
+
+[00:32:23] SPEAKER_00
+I'm happy to report that from last recording until this recording
+
+[00:32:28] SPEAKER_00
+I had zero bike wrecks that's awesome that's great that is all I am happy to
+
+[00:32:33] SPEAKER_00
+report that's all the good news the only reason I am happy to report that I had
+
+[00:32:40] SPEAKER_00
+zero bike wrecks is because I didn't ride my bike for the entire week because there
+
+[00:32:44] SPEAKER_00
+was goddamn constant rain I assume because somebody had a birthday recently
+
+[00:32:50] SPEAKER_01
+and made some plans yeah it was uh it was a wet birthday that's for sure I don't
+
+[00:32:55] SPEAKER_01
+know if I'm to blame but it's continuing oh yeah good I just opened the weather app
+
+[00:33:00] SPEAKER_01
+can you can you see that oh my god I gotta post that the discord please what do you mean
+
+[00:33:06] SPEAKER_00
+uh so let me I'll go canonically uh last time we talked I had did I mention to you guys about
+
+[00:33:14] SPEAKER_00
+having a leak on the outside of my house coming like water streaming out of my no out of my uh
+
+[00:33:20] SPEAKER_00
+I don't think so yeah I don't think I was ready to talk about it yet because of the depression
+
+[00:33:23] SPEAKER_00
+uh oh god that looks rough god damn dude another week that's what thursday to next
+
+[00:33:30] SPEAKER_00
+you know what it is saturday after this saturday is all cloud and lightning it's my fucking birthday
+
+[00:33:36] SPEAKER_01
+coming up oh are we gonna have like a birthday to birthday blackout of weather we're gonna have
+
+[00:33:41] SPEAKER_01
+a birthday to birthday fuck you black and the thing is that will if we if we still power through
+
+[00:33:47] SPEAKER_01
+and make a plan on one of those days it will be good weather but we won't go through with it that's
+
+[00:33:51] SPEAKER_01
+the that's the downside to it because it's just that's the problem it's just lies all right carry
+
+[00:33:55] SPEAKER_00
+we're gonna we're gonna figure this out uh we're gonna spend time together I promise you we're gonna
+
+[00:33:59] SPEAKER_00
+figure it out anyway so all right first thing is I'll go back a little bit why I was walking my
+
+[00:34:04] SPEAKER_00
+bike down the the path to go out to the front of my house the other day uh maybe six weeks ago and I
+
+[00:34:08] SPEAKER_00
+noticed the side of my house the siding some water dripping out from under the siding onto the
+
+[00:34:14] SPEAKER_00
+concrete and I went so I called a plumber uh it took the plumber two weeks to get here because this
+
+[00:34:21] SPEAKER_00
+is austin and uh listen it takes it's really really fucking hard to get anybody in any kind of home
+
+[00:34:31] SPEAKER_00
+service industry to come to your house right now because on for some reason 65 percent of america
+
+[00:34:39] SPEAKER_00
+is moving to austin as we speak and so everybody is stretched thin because there are 150 million new
+
+[00:34:47] SPEAKER_00
+residents in austin and there's nowhere to put them all and they all clog toilets it's just become
+
+[00:34:51] SPEAKER_00
+impossible for us to get you for anybody in austin to get anything done in their house so anyway two
+
+[00:34:55] SPEAKER_00
+weeks later they come out guy looks into it he goes I'm gonna have to cut into the wall uh to fix this
+
+[00:35:01] SPEAKER_00
+thing uh I don't have the right tool for it I'll come back in three weeks all right this is going
+
+[00:35:07] SPEAKER_00
+back further than six weeks now that I'm doing the math in my head three weeks later I'm like where
+
+[00:35:11] SPEAKER_00
+the fuck is this guy so I call them and they're like oops we forgot to schedule it we'll be out
+
+[00:35:15] SPEAKER_00
+next week so then now on five weeks into this if my math is correct maybe six weeks into this
+
+[00:35:20] SPEAKER_00
+this was last last week Friday or Saturday or something they come out and they go hey I got the
+
+[00:35:26] SPEAKER_00
+tools now and they cut out the hole and basically what happened is when uh I'm gonna call them an
+
+[00:35:31] SPEAKER_00
+asshole whoever they were when the asshole put the siding on the side of my house they uh weren't paying
+
+[00:35:35] SPEAKER_00
+attention where they were fucking hammering and they hammered right through a plumbing pipe however
+
+[00:35:39] SPEAKER_00
+it sealed until the nail rusted and then it started to leak slowly so didn't cause any major damage
+
+[00:35:46] SPEAKER_00
+had to have in my laundry room an entire wall cut out right so they could get in to fix it did all that
+
+[00:35:51] SPEAKER_00
+of course of course so that's where I am Friday morning right is I have a I have a fixed plumbing
+
+[00:35:57] SPEAKER_00
+issue now I think or I'm about to get it fixed I have I wake up on Friday morning a little bit of
+
+[00:36:03] SPEAKER_00
+anxiety because I have to go to the dentist I had it's a no big deal I just I have an old silver
+
+[00:36:08] SPEAKER_00
+filling and the dentist was like I'd like to take that out and maybe put a crown there I think it'll
+
+[00:36:13] SPEAKER_00
+just it's not gonna hurt it's not gonna be painful I know we I know we just went through that marathon
+
+[00:36:16] SPEAKER_00
+of shitty root canals this is gonna be a just a minor minor thing so I said yeah sure no problem
+
+[00:36:23] SPEAKER_00
+and then I scheduled it for fucking three months later three months later was last Friday
+
+[00:36:27] SPEAKER_00
+get up I go to the I'm feeling I'm feeling itchy you know getting up going to the dentist because
+
+[00:36:32] SPEAKER_00
+I've had like I had that run I had that like uh five root canal run right and uh so I don't want
+
+[00:36:39] SPEAKER_00
+to go and I like calm myself down and I'm like you being a fucking baby and so I go in and I get in
+
+[00:36:43] SPEAKER_00
+and I'm like and I sit down and we we do the we do the take the filling off and she's like okay
+
+[00:36:49] SPEAKER_00
+and she cleans it up like that and she's like looking good this is fine and I'm feeling really good
+
+[00:36:52] SPEAKER_00
+she's like this is all so easy no pain yet right and I'm like no not at all and she's like
+
+[00:36:55] SPEAKER_00
+all right we're just about wrapping up and you know what here's what I'm gonna do though instead
+
+[00:37:00] SPEAKER_00
+of just putting the crown on right now I'm gonna go ahead and give you another root canal and then
+
+[00:37:04] SPEAKER_00
+uh then a fucking nurse came out and she had an air horn and she went and then they all held their
+
+[00:37:09] SPEAKER_00
+drills up in the air and they went what wait what fuck Jeff you didn't and then they gave me a root
+
+[00:37:15] SPEAKER_00
+canal right there and there yeah yeah and so I had an immediate root canal on the spot
+
+[00:37:20] SPEAKER_02
+right there wait did they know in that fucking moment this or did they realize in the process
+
+[00:37:26] SPEAKER_00
+they discovered they discovered in the process from removing the old silver filling that that
+
+[00:37:30] SPEAKER_00
+the root was a little close to the edge and they just thought it to be safe that's why I had
+
+[00:37:35] SPEAKER_00
+another root canal so anyway that was uh most of Friday uh had that that hurt like hell uh real
+
+[00:37:43] SPEAKER_00
+sore real pain a lot a lot of pain uh misery a lot of misery there so then go and uh and the plumbers
+
+[00:37:49] SPEAKER_00
+come and they're like hey we cut your whole fucking wall out uh but your plumbing's fixed
+
+[00:37:52] SPEAKER_00
+and I'm like cool and then and then I'm like you're not you're not gonna put the wall back are you and
+
+[00:37:57] SPEAKER_00
+they're like yeah we're plumbers asshole we don't do drywall I'm like of course you don't uh how stupid
+
+[00:38:02] SPEAKER_00
+of me so I had to hire somebody to come out and have to patch and replace the whole wall and
+
+[00:38:07] SPEAKER_00
+unfortunately to do this because the uh I'm coming to hate the person that flipped this house before me
+
+[00:38:12] SPEAKER_01
+really really really hate that so the entire time you've lifted it there's been a nail stuck in a pipe
+
+[00:38:18] SPEAKER_00
+that was sealed yeah yeah it was sealed the whole time it's probably honestly gav it had probably
+
+[00:38:23] SPEAKER_00
+been sealed for 10 years it's not new sighting I wonder if that freeze um like nudged it and then
+
+[00:38:28] SPEAKER_00
+it started wet and rusted probably the best thing about it was that it wasn't a busted pipe or
+
+[00:38:32] SPEAKER_00
+anything like it was easy to fix right yeah and and it wasn't expensive to replace the drywall
+
+[00:38:36] SPEAKER_00
+however then I get the drywall done now I have to get it painted so I have to get it all painted
+
+[00:38:41] SPEAKER_00
+and then the last time we fixed the other bathroom when we had to have the drywall done and I had
+
+[00:38:45] SPEAKER_00
+to have it repainted the paint color was wrong yeah do I did I tell you guys that yes well it's
+
+[00:38:52] SPEAKER_00
+been festering and annoying us for a very long time so since we were getting the laundry room
+
+[00:38:56] SPEAKER_00
+repainted we went ahead and had that painted too so I ended up having to have two killed two birds
+
+[00:39:01] SPEAKER_00
+with one stone there uh I thought well this is great I've got uh well oh also another frustrating
+
+[00:39:06] SPEAKER_00
+thing is uh I I they built this really cool pretty wooden structure around um around my washer in the
+
+[00:39:13] SPEAKER_00
+dryer unfortunately I had to rip all that out to get to the where they could replace the wall so I had
+
+[00:39:19] SPEAKER_00
+to put all that back together which was a giant nightmare and I smashed my finger brutally and uh
+
+[00:39:26] SPEAKER_00
+was very very mad and uh so anyway I hate everything um but then it's like okay root canal's done right
+
+[00:39:33] SPEAKER_00
+root canal's down I survived that uh fucking uh got the got the plumbing fixed got the wall repaired
+
+[00:39:39] SPEAKER_00
+you have so many bad paint job painted got the current paint job fixed all good everything's fine
+
+[00:39:45] SPEAKER_00
+then I'm gonna take a second you guys vamp amongst you I'm gonna send you a photo now and then we'll get
+
+[00:39:50] SPEAKER_00
+into the next thing the thing I love about Jeff's on discord is is that you forget what problems are
+
+[00:39:57] SPEAKER_02
+happening in the story there's so many that you forget I forgot that the fucking the dental thing
+
+[00:40:02] SPEAKER_01
+happened yeah I was just listening then with a smile on my face and then I just started laughing
+
+[00:40:06] SPEAKER_01
+just because there was more to come like the way the inflection is like this is halfway through the
+
+[00:40:11] SPEAKER_00
+list of shit and I just started laughing at that here's what we're gonna do we're gonna I'm gonna
+
+[00:40:16] SPEAKER_00
+put this photo up I'm gonna let you guys look at it on discord and then why don't you discuss what
+
+[00:40:20] SPEAKER_01
+you think is going on okay I'm looking at a broom wedged between maybe the dishwasher and the fridge
+
+[00:40:32] SPEAKER_01
+I assume either the fridge door or the dishwasher door uh can't stay shut I'm gonna say that they're
+
+[00:40:38] SPEAKER_02
+maybe getting into high jump they're getting into an olympic mood if you'll if you'll look to your left
+
+[00:40:43] SPEAKER_00
+you'll notice a towel on the ground that's to catch the water leaking from the uh ice chest that is now
+
+[00:40:53] SPEAKER_00
+my refrigerator because uh the next day the next day I wake up and Emily comes in and goes uh
+
+[00:41:04] SPEAKER_00
+I think there's something wrong with the fridge everything is warm and we go look and the fridge
+
+[00:41:10] SPEAKER_00
+isn't cool and so it doesn't feel like it's it's sealing properly you know like maybe the seal like
+
+[00:41:15] SPEAKER_00
+sometimes that's such a nice fridge oh yeah well yeah uh so uh yeah but lose my fucking mind uh so
+
+[00:41:30] SPEAKER_00
+uh so we think like maybe it's not sealing properly because sometimes that fridge is if the door is
+
+[00:41:34] SPEAKER_00
+heavy sometimes it doesn't shut all the way so we try to push it shut and throughout the day we
+
+[00:41:39] SPEAKER_00
+realize it's still not getting cold and then I can't tell if it's sealing so we shove the broom in
+
+[00:41:44] SPEAKER_00
+there freezer freezer's working fine by the way I'd like I should point out that the freezer is
+
+[00:41:49] SPEAKER_00
+working fine so uh at this point most of the stuff in the fridge is bad however uh we we shut it and
+
+[00:41:56] SPEAKER_00
+then we leave it like that for 24 hours get up the next morning to see if it was the seal and oh oh and
+
+[00:42:02] SPEAKER_00
+I call a repairman he's kind of he's like I'm gonna come out this day so this was at this point this
+
+[00:42:06] SPEAKER_00
+was yesterday he's gonna come right so uh so uh he he we leave it like that for 24 hours
+
+[00:42:14] SPEAKER_00
+get up the next morning which is yesterday morning open it deconstruct it open it up and
+
+[00:42:18] SPEAKER_00
+it's hot as hell in there and it's like okay so the ac is just not working open up the freezer
+
+[00:42:22] SPEAKER_00
+freezer still works fine my popsicles are frozen everything's looking good there shut it guy shows
+
+[00:42:27] SPEAKER_00
+up in a fucking toyota prius uh I thought he was an uber driver so like a little angry dude shows up
+
+[00:42:35] SPEAKER_00
+looks at it and you know how like when you see a dude you know how like when you see a dude look at
+
+[00:42:40] SPEAKER_00
+something and and you watch him and you think he doesn't know what he's looking at like he's lost
+
+[00:42:47] SPEAKER_00
+when you see the expert go yeah you're like oh god a lot of hmms you know and like scratching his
+
+[00:42:55] SPEAKER_00
+beard and stuff and I'm like oh this guy is in over his head he's fucking lost but I have to like
+
+[00:43:00] SPEAKER_00
+record and film and stuff so I'm going in and out Emily's handling it uh then I had to leave or
+
+[00:43:04] SPEAKER_00
+something to deal with a Millie thing and uh come back and he's like Emily's like yeah so it was uh
+
+[00:43:11] SPEAKER_00
+he he well first off the freezer is now uh everything in the freezer is now melted because
+
+[00:43:18] SPEAKER_00
+he had the freezer and the fridge open for two and a half hours while he fixed it uh so everything
+
+[00:43:25] SPEAKER_00
+melted uh all the meat and everything it's like you remember the cow yeah yeah we ended up having to
+
+[00:43:30] SPEAKER_00
+we saw the meat was was starting to melt so we gave it away we just put it in a bag and gave it
+
+[00:43:34] SPEAKER_00
+away to people so uh so it didn't go bad uh but uh so he he spends about two hours working on it
+
+[00:43:41] SPEAKER_00
+while I'm not home and then uh then he replaces a fan says all right a-okay problem solved uh shows
+
+[00:43:47] SPEAKER_00
+Emily that the fan is not working everything's looking good shows it feels that it's cold or
+
+[00:43:51] SPEAKER_00
+whatever he leaves um it sure didn't feel like it was getting cold or but you think like it's an
+
+[00:43:58] SPEAKER_00
+cold or fridge and it's a big fridge you know it's one of those deep freezes so maybe it takes
+
+[00:44:01] SPEAKER_00
+some time and uh and uh so then this morning got up and uh not only is the fridge not cold but now
+
+[00:44:11] SPEAKER_00
+the freezer is broken too so I now so I called him at 6 50 in the morning uh because I had his phone
+
+[00:44:20] SPEAKER_00
+number and woke him the fuck up and I was like you didn't fix it he argued with me for a while
+
+[00:44:25] SPEAKER_00
+about whether I whether he fixed it or not uh he kept he kept he kept pointing to me that the
+
+[00:44:33] SPEAKER_00
+freezer was working fine and I kept telling him come to my house and look it is no longer working fine
+
+[00:44:37] SPEAKER_00
+you have you've disrepaired the freezer and uh anyway so uh he just it ended with him yelling at me
+
+[00:44:44] SPEAKER_00
+that he'll cut he'll call me tomorrow so uh I've given up on life I don't care if if it gets fixed
+
+[00:44:54] SPEAKER_00
+it gets I I have a cooler I got my diet kepsis in the cooler uh yeah I got a towel for any drips
+
+[00:45:01] SPEAKER_00
+and uh if he comes tomorrow maybe he'll fix it if he doesn't I don't give a fuck anymore I don't
+
+[00:45:06] SPEAKER_00
+care I just I quit I quit at life dude I fucking quit this is more than a human being should have
+
+[00:45:11] SPEAKER_00
+to deal with in a seven day period not only that but it's every seven day period of my life
+
+[00:45:17] SPEAKER_00
+so anyway I I can't believe it yeah how does so much happen to the same person what kind of karma
+
+[00:45:25] SPEAKER_02
+am I dealing with oh it's I gotta say maybe the greatest thing that's ever happened in my life
+
+[00:45:31] SPEAKER_02
+is you buying that house it's been a complete joy man what a time that is a nice house it looks
+
+[00:45:37] SPEAKER_00
+well cosmetically it's excellent visually beautiful so Friday I'm gonna get up and I'm gonna go
+
+[00:45:45] SPEAKER_00
+fucking fridge shopping of course oh you've given I've already done a little bit of preliminary
+
+[00:45:50] SPEAKER_00
+fridge shopping and because I didn't buy this fridge I didn't put this fridge in the house
+
+[00:45:54] SPEAKER_00
+I I certainly didn't build custom cabinets around it however the person who lived here before me did
+
+[00:46:00] SPEAKER_00
+so what I am left with is a fridge that is a non-standard size there are zero fridges the
+
+[00:46:06] SPEAKER_00
+exact same dimensions at best buy there are zero fridges the exact same dimensions at a lot of places
+
+[00:46:11] SPEAKER_00
+I have to go to a place that sells expensive fridges do you know how much a fridge to fit that space is
+
+[00:46:18] SPEAKER_01
+gonna cost I'm gonna guess seven grand you are a little low nine grand nine grand oh is what those
+
+[00:46:28] SPEAKER_01
+fridges cost fancy like Samsung with a screen you get that for like two grand Gavin I could buy
+
+[00:46:37] SPEAKER_00
+Millie a car so she could wreck that one and not mine there's a lot of things I could do with nine
+
+[00:46:41] SPEAKER_00
+grand I could buy a smaller fridge and live with the live with the misshape live with the weird hole
+
+[00:46:47] SPEAKER_00
+I could get I could get new custom cabinets built around that fridge I don't know I don't want to
+
+[00:46:53] SPEAKER_01
+think about you off there's no way you're gonna live with a big gap around oh Jeff you and I share a
+
+[00:47:01] SPEAKER_02
+love of the movie bottle rocket one of my favorite movies yeah it's I it's well the best movies are made
+
+[00:47:06] SPEAKER_02
+I've seen it probably 50 times I love it now you're you're watching of that seeing it so many times did you
+
+[00:47:12] SPEAKER_02
+immediately recognize the repair guy as an applejack like did it just immediately give you that vibe
+
+[00:47:17] SPEAKER_02
+because it's immediately what I thought of I'm like just looking at a guy he's like doesn't really know I can't do it man
+
+[00:47:22] SPEAKER_00
+I lost it man and he's like you can't you didn't lose it because you never had an applejack yeah yeah
+
+[00:47:27] SPEAKER_00
+it's applejack you hired an applejack and you called him back I hired applejack it's great
+
+[00:47:33] SPEAKER_00
+so I don't know if applejack's gonna come fix it tomorrow or not he I'm gonna cancel I'm not gonna
+
+[00:47:39] SPEAKER_00
+cancel a check but he paid I paid him 600 bucks not to I paid him 600 bucks or rather Emily paid him
+
+[00:47:43] SPEAKER_00
+600 bucks to break the freezer so I'd like to at least get that fixed I could do that for a lot less
+
+[00:47:48] SPEAKER_01
+I yeah I'm gonna come in and fix it god damn it man I just I bet I could fix your freezer I think I
+
+[00:47:53] SPEAKER_00
+could too I think what I I think what I I think what I the last thing I said to you guys which was
+
+[00:47:59] SPEAKER_00
+in a moment of honest to god pain yes was I can pull up the text I never meant anything as much as
+
+[00:48:07] SPEAKER_00
+I meant when I said in all seriousness it's gotta let up eventually right I'm drowning in content
+
+[00:48:13] SPEAKER_00
+I am drowning in content and I would like to not for a little bit
+
+[00:48:19] SPEAKER_02
+I would I mean drowning in content could mean a lot that doesn't necessarily mean negative you're
+
+[00:48:26] SPEAKER_02
+drowning in like just misery content you are the content breadwinner you're yeah you're supporting
+
+[00:48:32] SPEAKER_02
+this triangle you've been doing fantastic with your health problems it's great as I said in the
+
+[00:48:37] SPEAKER_02
+text it's like I get Christmas every three weeks a new disastrous thing happens this week it was like
+
+[00:48:42] SPEAKER_01
+four things this is great I like to think too that whenever something happens to Jeff it means it
+
+[00:48:48] SPEAKER_01
+won't happen to me like it was a chance for my fridge to break but my fridge didn't like it the
+
+[00:48:53] SPEAKER_00
+coin landed the other way and I was like oh I hope that's the case man I hope that's the case I also
+
+[00:48:59] SPEAKER_00
+I got really mad at you two earlier today I calmed down but I got really mad at you two because uh and
+
+[00:49:05] SPEAKER_00
+this is super irrational but I was thinking about how you weren't responding to me on text and then I got
+
+[00:49:09] SPEAKER_00
+it in my head that uh that I was in the middle of being pranked right now and I just haven't figured it
+
+[00:49:14] SPEAKER_00
+out yet and there's some sort of a port-a-potty-esque prank like lingering above me that I
+
+[00:49:19] SPEAKER_00
+hasn't hit yet and I was ready to murder you both so I was like if these motherfuckers are gonna prank
+
+[00:49:24] SPEAKER_00
+me right now in the middle of this and then I had to be like wait wait wait wait that's uh take a step
+
+[00:49:29] SPEAKER_00
+back there are no there's no indication of pranking going on right now you should you should not murder
+
+[00:49:33] SPEAKER_01
+them yet uh and so I I calmed down but god damn dude can you now technically expense your fridge
+
+[00:49:39] SPEAKER_00
+to the show because it's content I wish I could oh I gotta get it fixed I can't buy a new fridge I
+
+[00:49:45] SPEAKER_02
+want to get it fixed you know what yeah I need this I need Applejack fix my fridge he did well yeah
+
+[00:49:51] SPEAKER_02
+he broke it you had a toilet issue I helped you with that I think I could figure out something for this
+
+[00:49:57] SPEAKER_02
+I got you covered don't you worry we'll figure something out somebody did point out that uh when
+
+[00:50:03] SPEAKER_00
+my toilet broke you sent me a new full-size toilet but when my brand new BMW broke you didn't send me
+
+[00:50:08] SPEAKER_02
+anything oh okay I'll do that too I'll add that to the list you could have sent me a new BMW yeah
+
+[00:50:15] SPEAKER_00
+full-size working BMW like the toilet well yeah I don't even care if it's pink okay I'll see what
+
+[00:50:21] SPEAKER_02
+I can do so uh what what what else is going on with y'all I was wondering Andrew have you replaced
+
+[00:50:28] SPEAKER_02
+your fire extinguisher no no I've never I got one fire extinguisher of my life I don't what do you
+
+[00:50:35] SPEAKER_01
+mean replace like wait wait how how long have you had that one I got it when I got the flamethrower
+
+[00:50:40] SPEAKER_00
+that isn't a flamethrower okay so you fired it and now it was useless in the firing and according
+
+[00:50:47] SPEAKER_00
+to some a lie according uh to you not I don't carry the wave to be honest with you because I think the
+
+[00:50:52] SPEAKER_00
+basket more than made up for it but it's now you now have an empty fire extinguisher that I assume is
+
+[00:50:58] SPEAKER_02
+serving as a mic stand still uh it's just next to my desk it feels very full just nothing will come out
+
+[00:51:03] SPEAKER_02
+of it feels very why don't you get it fixed for free I think well I'd have to go to a fire hall
+
+[00:51:10] SPEAKER_02
+to do that I don't like I'm never just at the fire hall what if you have a fire yeah also why do you
+
+[00:51:15] SPEAKER_01
+not like doing anything in a week like are you mad if you leave the house no not at all what do you
+
+[00:51:20] SPEAKER_02
+mean it's just I'm never going to the fire hall also covid pretty bad here right now I limit my trips
+
+[00:51:25] SPEAKER_02
+I get what I need that's fair that's fair that's fair yeah that's fair totally yeah I just uh
+
+[00:51:30] SPEAKER_02
+I've never just happened to be at the fire hall I also never happened to just have my fire
+
+[00:51:35] SPEAKER_00
+extinguisher on me it's not a well I mean it could be a thing that one makes a point of doing uh but
+
+[00:51:40] SPEAKER_00
+you don't have to stumble into it as if like oh how did I end up here at the fire hall and what I have
+
+[00:51:45] SPEAKER_00
+my fire extinguisher on me as well what a happy coincidence um but I gotta say Andrew having never
+
+[00:51:51] SPEAKER_00
+met anybody else who lives in your apartment complex I'm gonna make an assumption that I feel
+
+[00:51:55] SPEAKER_00
+pretty safe in making is that every out of all the people in that apartment complex you're the one
+
+[00:52:01] SPEAKER_00
+who needs a fire extinguisher the most oh you know what I do have fire extinguisher this is a really
+
+[00:52:05] SPEAKER_02
+dangerous thing that I have I have a fire alarm in my unit like that you'd find in a building
+
+[00:52:11] SPEAKER_02
+and I stare at that almost every day and just think I could pull that did I lose you guys
+
+[00:52:15] SPEAKER_02
+I can hear you yeah I can hello what is Jeff gone can you not hear me did he just know us
+
+[00:52:23] SPEAKER_02
+whatever the Jeff did he freeze oh okay is uh I gotcha hey what does he think we're pranking him
+
+[00:52:33] SPEAKER_00
+but we're not I thanks for listening to another episode of what is he doing episode 54 if you
+
+[00:52:43] SPEAKER_00
+like the podcast and you want to give us a review give me give me the old uh five stars whatever it is
+
+[00:52:50] SPEAKER_00
+I want to hear about the fire alarm thing we will appreciate it uh have a good
+
+[00:52:55] SPEAKER_02
+I'm still I'm not done have a good week stop ending the show that's the best out story he's done
+
+[00:53:01] SPEAKER_02
+what's going on I don't understand what Jeff is doing what if why did he do that I don't know
+
+[00:53:07] SPEAKER_02
+what are you doing you can hear us what are you doing what's the point of that can he still
+
+[00:53:13] SPEAKER_00
+I'm not I'm not gonna get pranked by you guys
+
+[00:53:17] SPEAKER_03
+what is happening he can only hear Eric I think what's happening is he paranoid could you
+
+[00:53:26] SPEAKER_03
+can you hear us or not I can hear everybody you can hear me then yeah why did you end the show
+
+[00:53:32] SPEAKER_00
+what's that it went it went silent for like a minute while I was talking no I was talking to
+
+[00:53:38] SPEAKER_02
+you guys I didn't hear anything no it didn't I was still talking I never stopped talking you were
+
+[00:53:43] SPEAKER_01
+just like hello over a story and then he was like hello and then he continued his story you just
+
+[00:53:48] SPEAKER_02
+ended the podcast you just started ending the show no I said something and then I was waiting for
+
+[00:53:53] SPEAKER_00
+Andrew to respond and I didn't hear anything anything anything for a long long time and then I
+
+[00:53:57] SPEAKER_00
+said hello and then Eric's like we hear you fine and I went oh okay uh and I thought Eric was
+
+[00:54:01] SPEAKER_00
+telling me that you guys were hearing me because you were saying you were making time you couldn't
+
+[00:54:04] SPEAKER_02
+hear me we kept being like what Jeff we've been doing this for over a year your instinct is never
+
+[00:54:09] SPEAKER_02
+to end the show why is this suddenly you're now ending the show what was that let me notice
+
+[00:54:15] SPEAKER_00
+why did you do that uh I thought you were pranking me so I ended the show everything is in a prank
+
+[00:54:22] SPEAKER_01
+Jeff I'm gonna be so sad when we do these in real life because this kind of stuff could never
+
+[00:54:26] SPEAKER_01
+happen in real life can you imagine someone just doing that
+
+[00:54:29] SPEAKER_03
+uh I just don't even like we're just in the middle about hearing a fire hearing about a fire
+
+[00:54:36] SPEAKER_03
+alarm and I'm and Andrew's going and I could just pull it and I'm like oh man this is getting
+
+[00:54:41] SPEAKER_03
+dangerous and then all of a sudden well thanks for listening see you dude that is screaming what are
+
+[00:54:48] SPEAKER_00
+you doing that is the opposite of what happened on my end like we were having a conversation I think I
+
+[00:54:55] SPEAKER_00
+said I said I said out of everybody like did you hear the part I said like out of everybody in your
+
+[00:55:00] SPEAKER_00
+apartment complex yes I heard all of the one that needs it you never dropped we heard every hug you
+
+[00:55:07] SPEAKER_00
+the whole time that was there was one that was silent for at least a minute it was oh it was you guys didn't I
+
+[00:55:13] SPEAKER_02
+couldn't hear you guys at all it was like the word fire alarm was like Jeff's activation code like he just went cold how it
+
+[00:55:20] SPEAKER_02
+was closing
+
+[00:55:21] SPEAKER_02
+that I don't know how we know that out and then I don't know what to say that we still hear you what
+
+[00:55:28] SPEAKER_02
+Jeff sometimes people just want to know Christmas music it's not always a prank Greg is real
+
+[00:55:34] SPEAKER_02
+everything isn't a conspiracy what what happened with the fire alarm you just I don't it doesn't
+
+[00:55:40] SPEAKER_03
+even matter now I feel like we've gone long past the fire well here's here's the thing Jeff worked
+
+[00:55:47] SPEAKER_03
+himself into this paranoid space where he thought that you guys were pranking him earlier and now you
+
+[00:55:55] SPEAKER_03
+must be pranking him now there's no other explanation
+
+[00:55:58] SPEAKER_00
+well listen I've never been impressed with your pranks but I don't know that I call him shitty
+
+[00:56:06] SPEAKER_02
+wait okay Jeff's move now makes sense he's like trying to counter the prank by ending the show of like if we're
+
+[00:56:11] SPEAKER_02
+yeah okay well I'm just ending the show to counter the prank what a weird thing that was
+
+[00:56:16] SPEAKER_01
+oh man that was strange Jeff because the editors of the show they do a good job to make sure that we're talking
+
+[00:56:21] SPEAKER_01
+over each other as little as possible like muting and like boost we have to leave all that
+
+[00:56:25] SPEAKER_02
+that has to be exactly how it came yeah wait I thought I thought we're still you guys were just
+
+[00:56:30] SPEAKER_00
+no no you guys were completely silent I didn't hear anything wait wait it just got like I just
+
+[00:56:35] SPEAKER_00
+got silent and I was just like okay it's the podcast over I'm so confused this is still the
+
+[00:56:39] SPEAKER_00
+podcast okay and then I was like well they're fucking I just went on a whole thing about how
+
+[00:56:43] SPEAKER_00
+you guys are gonna prank me and then suddenly everybody's quiet and then Eric's like no no we
+
+[00:56:47] SPEAKER_00
+can hear you and I'm like what if I was like we heard you totally fine
+
+[00:56:50] SPEAKER_01
+if we have to submit this podcast for an award at any point this year we have to use those two minutes
+
+[00:56:58] SPEAKER_02
+can we can we stop now well okay we could yeah do you want to do another outro you seem to really
+
+[00:57:08] SPEAKER_01
+nail this episode is called Jeff ends the podcast should we believe the thing and then just name
+
+[00:57:14] SPEAKER_00
+it just want to go dig a hole under my house and crawl in it well careful don't hit a pipe yeah I've
+
+[00:57:19] SPEAKER_00
+gotta go play Halo just that'll just do that'll just speed up the drowning uh you know see you guys
+
+[00:57:27] SPEAKER_00
+next week if I'm alive still bye
+
+[00:57:29] SPEAKER_00
+bye Jeff
