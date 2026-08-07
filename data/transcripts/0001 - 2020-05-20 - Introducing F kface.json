@@ -1,0 +1,59 @@
+{
+ "index": 1,
+ "title": "Introducing F**kface",
+ "pub_date": "2020-05-20T07:00:00+00:00",
+ "model": "large-v3-turbo",
+ "language": "en",
+ "language_probability": 1,
+ "duration_sec": 32.36575,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.38,
+   "text": "My name is Geoff Ramsey and I am the co-host of the new Rooster Teeth Podcast, F**kface, here with Andrew Panton and Gavin Free.",
+   "words": []
+  },
+  {
+   "start": 6.52,
+   "end": 8.3,
+   "text": "Hello. Andrew, what's a f**kface?",
+   "words": []
+  },
+  {
+   "start": 8.46,
+   "end": 14.66,
+   "text": "A f**kface is an event that happens that makes you look like an idiot and the only way to deal with it is by laughing.",
+   "words": []
+  },
+  {
+   "start": 14.78,
+   "end": 15.84,
+   "text": "And that's the podcast!",
+   "words": []
+  },
+  {
+   "start": 17.94,
+   "end": 19.24,
+   "text": "Do you think you have anything in there?",
+   "words": []
+  },
+  {
+   "start": 19.5,
+   "end": 19.9,
+   "text": "No!",
+   "words": []
+  },
+  {
+   "start": 24.82,
+   "end": 28.5,
+   "text": "This is it! This is the trailer! You're an idiot! This is it!",
+   "words": []
+  },
+  {
+   "start": 28.5,
+   "end": 31.54,
+   "text": "This is the trailer! F**kface! Like and subscribe!",
+   "words": []
+  }
+ ]
+}

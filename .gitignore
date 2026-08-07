@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Downloaded / transient audio (we delete these after transcription)
+data/tmp/
+data/audio/
+*.mp3
+
+# Cached raw feed (regenerable via scripts/fetch_feed.py)
+data/raw/
