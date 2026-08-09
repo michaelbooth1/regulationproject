@@ -3732,3 +3732,61 @@ body {
     line-height: 1.1;
   }
 }
+
+/* Viewport-filling desktop question stage */
+
+@media (min-width: 981px) and (min-height: 760px) {
+  .wsi-playing-shell {
+    display: grid;
+    grid-template-rows: 72px minmax(0, 1fr);
+  }
+
+  .wsi-playing-shell .quiz-topbar {
+    height: 72px;
+  }
+
+  .wsi-playing-shell .wsi-round {
+    display: grid;
+    grid-template-rows: auto minmax(360px, 1fr) auto auto;
+    gap: clamp(14px, 1.7vh, 20px);
+    height: 100%;
+    min-height: 0;
+    padding: clamp(24px, 3vh, 34px) clamp(28px, 4vw, 78px) clamp(22px, 3vh, 34px);
+  }
+
+  .wsi-playing-shell .question-progress,
+  .wsi-playing-shell .wsi-choice-grid,
+  .wsi-playing-shell .wsi-round-controls,
+  .wsi-playing-shell .wsi-reveal {
+    margin: 0;
+  }
+
+  .wsi-playing-shell .wsi-progress-dots {
+    margin-top: 10px;
+  }
+
+  .wsi-playing-shell .wsi-quote-card {
+    height: 100%;
+    min-height: 360px;
+    padding: clamp(54px, 7vh, 86px) clamp(60px, 7vw, 136px);
+  }
+
+  .wsi-playing-shell .wsi-quote-card blockquote {
+    max-width: 980px;
+    font-size: clamp(42px, 4vw, 68px);
+  }
+
+  .wsi-playing-shell .wsi-choice {
+    min-height: 98px;
+    padding: 14px 18px;
+  }
+
+  .wsi-playing-shell .wsi-round-controls {
+    min-height: 54px;
+    align-self: end;
+  }
+
+  .wsi-playing-shell .wsi-reveal + .wsi-round-controls {
+    margin-top: 2px;
+  }
+}
