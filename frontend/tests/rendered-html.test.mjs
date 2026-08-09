@@ -141,8 +141,11 @@ test("keeps the game balanced, varied, and transcript-grounded", async () => {
   assert.match(finalComposition, /\.wsi-intro-content\s*{[^}]*max-width:\s*1440px[^}]*margin:\s*0 auto/s);
   assert.match(finalComposition, /\.regulation-lockup small\s*{[^}]*line-height:\s*1\.05[^}]*white-space:\s*nowrap/s);
   assert.match(finalComposition, /Viewport-filling desktop question stage/);
-  assert.match(finalComposition, /\.wsi-playing-shell \.wsi-round\s*{[^}]*grid-template-rows:\s*auto minmax\(360px, 1fr\) auto auto[^}]*height:\s*100%/s);
-  assert.match(finalComposition, /\.wsi-playing-shell \.wsi-choice\s*{[^}]*min-height:\s*98px/s);
+  assert.match(finalComposition, /\.wsi-playing-shell \.wsi-round\s*{[^}]*grid-template-rows:\s*auto minmax\(320px, 1fr\) auto auto[^}]*height:\s*100%/s);
+  assert.match(finalComposition, /\.wsi-playing-shell \.wsi-quote-card blockquote\s*{[^}]*font-size:\s*clamp\(34px, 3\.25vw, 54px\)/s);
+  assert.match(finalComposition, /\.wsi-playing-shell \.progress-labels\s*{[^}]*font-size:\s*12px/s);
+  assert.match(finalComposition, /\.wsi-playing-shell \.wsi-choice\s*{[^}]*min-height:\s*112px/s);
+  assert.match(finalComposition, /\.wsi-playing-shell \.wsi-round-controls > span\s*{[^}]*font-size:\s*11px/s);
 
   await access(new URL("../public/og.png", import.meta.url));
   await access(new URL("../public/regulation-brand-mark.jpg", import.meta.url));

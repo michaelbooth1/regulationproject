@@ -3747,7 +3747,7 @@ body {
 
   .wsi-playing-shell .wsi-round {
     display: grid;
-    grid-template-rows: auto minmax(360px, 1fr) auto auto;
+    grid-template-rows: auto minmax(320px, 1fr) auto auto;
     gap: clamp(14px, 1.7vh, 20px);
     height: 100%;
     min-height: 0;
@@ -3762,28 +3762,109 @@ body {
   }
 
   .wsi-playing-shell .wsi-progress-dots {
-    margin-top: 10px;
+    gap: 8px;
+    margin-top: 12px;
+  }
+
+  .wsi-playing-shell .progress-labels {
+    margin-bottom: 10px;
+    font-size: 12px;
+  }
+
+  .wsi-playing-shell .progress-track {
+    height: 16px;
+  }
+
+  .wsi-playing-shell .question-progress p {
+    margin-top: 12px;
+    padding: 7px 10px;
+    font-size: 13px;
+  }
+
+  .wsi-playing-shell .wsi-progress-dots li {
+    min-height: 34px;
+    font-size: 10px;
   }
 
   .wsi-playing-shell .wsi-quote-card {
     height: 100%;
-    min-height: 360px;
-    padding: clamp(54px, 7vh, 86px) clamp(60px, 7vw, 136px);
+    min-height: 320px;
+    padding: clamp(48px, 6vh, 74px) clamp(60px, 7vw, 136px);
   }
 
   .wsi-playing-shell .wsi-quote-card blockquote {
-    max-width: 980px;
-    font-size: clamp(42px, 4vw, 68px);
+    max-width: 900px;
+    font-size: clamp(34px, 3.25vw, 54px);
+  }
+
+  .wsi-playing-shell .wsi-quote-card > p {
+    margin-top: 22px;
+    font-size: 11px;
   }
 
   .wsi-playing-shell .wsi-choice {
-    min-height: 98px;
-    padding: 14px 18px;
+    grid-template-columns: 48px minmax(0, 1fr) 30px;
+    gap: 0 12px;
+    min-height: 112px;
+    padding: 16px 20px;
+  }
+
+  .wsi-playing-shell .wsi-choice > span {
+    width: 48px;
+    height: 48px;
+    font-size: 24px;
+  }
+
+  .wsi-playing-shell .wsi-choice strong {
+    font-size: 21px;
+  }
+
+  .wsi-playing-shell .wsi-choice small {
+    font-size: 10px;
+  }
+
+  .wsi-playing-shell .wsi-choice kbd {
+    width: 28px;
+    height: 30px;
+    font-size: 11px;
+  }
+
+  .wsi-playing-shell .wsi-transcript-heading,
+  .wsi-playing-shell .wsi-reveal-verdict span,
+  .wsi-playing-shell .wsi-reveal-context > span,
+  .wsi-playing-shell .wsi-reveal-context small {
+    font-size: 10px;
+  }
+
+  .wsi-playing-shell .wsi-transcript-lead li strong {
+    font-size: 11px;
+  }
+
+  .wsi-playing-shell .wsi-transcript-lead li p {
+    font-size: 15px;
+  }
+
+  .wsi-playing-shell .wsi-reveal-context p {
+    font-size: 16px;
+  }
+
+  .wsi-playing-shell .wsi-reveal-verdict strong {
+    font-size: clamp(27px, 3vw, 38px);
   }
 
   .wsi-playing-shell .wsi-round-controls {
-    min-height: 54px;
+    min-height: 64px;
     align-self: end;
+  }
+
+  .wsi-playing-shell .wsi-round-controls > span {
+    font-size: 11px;
+  }
+
+  .wsi-playing-shell .wsi-round-controls .primary-button.compact {
+    min-width: 230px;
+    min-height: 56px;
+    font-size: 15px;
   }
 
   .wsi-playing-shell .wsi-reveal + .wsi-round-controls {
