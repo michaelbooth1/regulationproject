@@ -150,9 +150,12 @@ export default function QuizApp({ mappedEpisodes }: { mappedEpisodes: number }) 
         <span className="wordmark-r">R</span>
         <span>Regulation<br /><strong>Quiz</strong></span>
       </button>
-      <div className="corpus-stamp">
-        <span aria-hidden="true" />
-        {mappedEpisodes} episodes digested
+      <div className="topbar-tools">
+        <a className="bank-link" href="/questions">Question bank ↗</a>
+        <div className="corpus-stamp">
+          <span aria-hidden="true" />
+          {mappedEpisodes} episodes digested
+        </div>
       </div>
     </header>
   );

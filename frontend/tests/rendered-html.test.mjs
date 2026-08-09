@@ -3,13 +3,13 @@ import { access, readFile } from "node:fs/promises";
 import test from "node:test";
 
 
-async function render() {
+async function render(pathname = "/") {
   const workerUrl = new URL("../dist/server/index.js", import.meta.url);
   workerUrl.searchParams.set("test", `${process.pid}-${Date.now()}`);
   const { default: worker } = await import(workerUrl.href);
 
   return worker.fetch(
-    new Request("http://localhost/", { headers: { accept: "text/html" } }),
+    new Request(`http://localhost${pathname}`, { headers: { accept: "text/html" } }),
     { ASSETS: { fetch: async () => new Response("Not found", { status: 404 }) } },
     { waitUntil() {}, passThroughOnException() {} },
   );
@@ -29,6 +29,7 @@ test("server-renders the Regulation Quiz intro", async () => {
   assert.match(html, /Begin the investigation/i);
   assert.match(html, /415<!-- --> episodes digested/i);
   assert.match(html, /Question bank<\/dt><dd>39<\/dd>/i);
+  assert.match(html, /href="\/questions"[^>]*>Question bank/i);
   for (const host of ["Geoff", "Andrew", "Gavin", "Eric"]) {
     assert.match(html, new RegExp(`<strong>${host}</strong>`));
   }
@@ -36,9 +37,29 @@ test("server-renders the Regulation Quiz intro", async () => {
 });
 
 
+test("server-renders the searchable host-by-host question bank", async () => {
+  const response = await render("/questions");
+  assert.equal(response.status, 200);
+  assert.match(response.headers.get("content-type") ?? "", /^text\/html\b/i);
+
+  const html = await response.text();
+  assert.match(html, /<title>Question Bank \| Regulation Quiz<\/title>/i);
+  assert.match(html, /All <!-- -->39<!-- --> bad decisions/i);
+  assert.match(html, /Search prompts, answers, or traits/i);
+  assert.match(html, /Showing <strong>39<\/strong> of <!-- -->39<!-- --> questions/i);
+  assert.match(html, /A kitchen appliance makes a wet noise/i);
+  for (const host of ["Geoff", "Andrew", "Gavin", "Eric"]) {
+    assert.match(html, new RegExp(`aria-label="${host} answer"`));
+  }
+  assert.match(html, /You transformed a household malfunction into material/i);
+  assert.match(html, /href="\/"[^>]*>← Take the quiz/i);
+});
+
+
 test("keeps a balanced, transcript-grounded question bank", async () => {
-  const [quizSource, bankSource, profileText, design] = await Promise.all([
+  const [quizSource, browserSource, bankSource, profileText, design] = await Promise.all([
     readFile(new URL("../app/QuizApp.tsx", import.meta.url), "utf8"),
+    readFile(new URL("../app/QuestionBankBrowser.tsx", import.meta.url), "utf8"),
     readFile(new URL("../app/quiz-data.ts", import.meta.url), "utf8"),
     readFile(new URL("../app/data/host-language-profiles.json", import.meta.url), "utf8"),
     readFile(new URL("../QUIZ_DESIGN.md", import.meta.url), "utf8"),
@@ -62,6 +83,10 @@ test("keeps a balanced, transcript-grounded question bank", async () => {
   assert.match(quizSource, /slice\(0, QUIZ_LENGTH\)/);
   assert.match(quizSource, /Evidence from your answers/);
   assert.match(quizSource, /option\.insight/);
+  assert.match(browserSource, /primaryAnswer/);
+  assert.match(browserSource, /setCategory/);
+  assert.match(browserSource, /setQuery/);
+  assert.match(browserSource, /HOST_ORDER\.map/);
   assert.match(design, /not a psychological assessment/i);
 
   assert.equal(profiles.mappedEpisodes, 415);
