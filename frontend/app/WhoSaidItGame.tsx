@@ -278,13 +278,12 @@ export default function WhoSaidItGame({ mappedEpisodes }: { mappedEpisodes: numb
           <small>who said it</small>
         </span>
       </Link>
-      <nav className="topbar-tools" aria-label="Game navigation">
-        <Link className="bank-link" href="/who-said-it/bank">Quote bank</Link>
+      <div className="topbar-tools">
         <div className="corpus-stamp">
           <span aria-hidden="true" />
           {mappedEpisodes} episodes digested
         </div>
-      </nav>
+      </div>
     </header>
   );
 
@@ -293,6 +292,7 @@ export default function WhoSaidItGame({ mappedEpisodes }: { mappedEpisodes: numb
       <main className="quiz-shell wsi-shell wsi-intro-shell">
         {topbar}
         <section className="wsi-intro-grid">
+          <div className="wsi-intro-content">
           <div className="wsi-intro-copy">
             <h1><span>regulation</span>who said it?</h1>
             <p className="intro-lede">
@@ -330,10 +330,8 @@ export default function WhoSaidItGame({ mappedEpisodes }: { mappedEpisodes: numb
               {HOST_ORDER.map((host) => <HostBadge host={host} key={host} />)}
             </div>
           </aside>
+          </div>
         </section>
-        <div className="ticker" aria-hidden="true">
-          <span>FRIENDSHIP</span><span>EMBRACING ABSURDITY</span><span>REAL TRANSCRIPTS</span><span>ONE HAM TOWER</span>
-        </div>
       </main>
     );
   }

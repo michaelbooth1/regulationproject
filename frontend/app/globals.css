@@ -3454,15 +3454,26 @@ body {
 }
 
 .wsi-intro-grid {
-  grid-template-columns: minmax(0, 1.4fr) minmax(360px, 0.6fr);
-  gap: clamp(40px, 6vw, 120px);
+  display: block;
   width: 100%;
-  min-height: calc(100svh - 108px);
+  min-height: calc(100svh - 72px);
   margin: 0;
-  padding: clamp(56px, 6vw, 104px) clamp(24px, 6vw, 116px) clamp(72px, 7vw, 124px);
+  padding: 0;
   border: 0;
   background: #b7b7b2;
   color: var(--ink);
+}
+
+.wsi-intro-content {
+  display: grid;
+  grid-template-columns: minmax(0, 1.25fr) minmax(400px, 0.75fr);
+  gap: clamp(52px, 6vw, 104px);
+  align-items: center;
+  width: 100%;
+  max-width: 1440px;
+  min-height: calc(100svh - 72px);
+  margin: 0 auto;
+  padding: clamp(56px, 6vw, 96px) clamp(24px, 4vw, 58px) clamp(68px, 6vw, 104px);
 }
 
 .wsi-intro-copy::after {
@@ -3616,8 +3627,9 @@ body {
 }
 
 @media (max-width: 980px) {
-  .wsi-intro-grid {
+  .wsi-intro-content {
     grid-template-columns: 1fr;
+    min-height: auto;
   }
 
   .wsi-evidence {
@@ -3641,9 +3653,29 @@ body {
     height: 42px;
   }
 
+  .regulation-lockup {
+    min-width: 104px;
+    gap: 2px;
+  }
+
+  .regulation-lockup strong,
+  .wordmark .regulation-lockup strong {
+    font-size: 20px;
+  }
+
+  .regulation-lockup small {
+    font-size: 8.5px;
+    line-height: 1.1;
+  }
+
   .wsi-intro-grid {
     min-height: auto;
     margin: 0;
+    padding: 0;
+  }
+
+  .wsi-intro-content {
+    min-height: auto;
     padding: 48px 20px 58px;
   }
 
@@ -3660,5 +3692,43 @@ body {
     margin: 0;
     padding-right: 20px;
     padding-left: 20px;
+  }
+}
+
+/* Readable Regulation lockup */
+
+.regulation-lockup {
+  min-width: 118px;
+  gap: 3px;
+}
+
+.regulation-lockup strong,
+.wordmark .regulation-lockup strong {
+  font-size: 24px;
+  letter-spacing: -0.045em;
+  line-height: 0.96;
+}
+
+.regulation-lockup small {
+  font-size: 10px;
+  letter-spacing: 0.08em;
+  line-height: 1.05;
+  white-space: nowrap;
+}
+
+@media (max-width: 720px) {
+  .regulation-lockup {
+    min-width: 104px;
+    gap: 2px;
+  }
+
+  .regulation-lockup strong,
+  .wordmark .regulation-lockup strong {
+    font-size: 20px;
+  }
+
+  .regulation-lockup small {
+    font-size: 8.5px;
+    line-height: 1.1;
   }
 }

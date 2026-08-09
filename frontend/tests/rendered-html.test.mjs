@@ -30,7 +30,8 @@ test("makes Who Said It the primary app", async () => {
   assert.match(html, /regulation-brand-mark/i);
   assert.match(html, /415<!-- --> episodes digested/i);
   assert.match(html, /<dt>Quote bank<\/dt><dd>60<\/dd>/i);
-  assert.match(html, /href="\/who-said-it\/bank"[^>]*>Quote bank/i);
+  assert.doesNotMatch(html, /href="\/who-said-it\/bank"[^>]*>Quote bank/i);
+  assert.doesNotMatch(html, /FRIENDSHIP|EMBRACING ABSURDITY|REAL TRANSCRIPTS|ONE HAM TOWER/i);
   for (const host of ["Geoff", "Andrew", "Gavin", "Eric"]) {
     assert.match(html, new RegExp(host));
   }
@@ -137,6 +138,8 @@ test("keeps the game balanced, varied, and transcript-grounded", async () => {
   assert.match(finalComposition, /\.quiz-shell\s*{[^}]*width:\s*100%[^}]*max-width:\s*none[^}]*margin:\s*0[^}]*padding:\s*0/s);
   assert.match(finalComposition, /\.quiz-topbar\s*{[^}]*background:\s*#dededb/s);
   assert.match(finalComposition, /\.wsi-intro-grid\s*{[^}]*width:\s*100%[^}]*margin:\s*0[^}]*background:\s*#b7b7b2/s);
+  assert.match(finalComposition, /\.wsi-intro-content\s*{[^}]*max-width:\s*1440px[^}]*margin:\s*0 auto/s);
+  assert.match(finalComposition, /\.regulation-lockup small\s*{[^}]*line-height:\s*1\.05[^}]*white-space:\s*nowrap/s);
 
   await access(new URL("../public/og.png", import.meta.url));
   await access(new URL("../public/regulation-brand-mark.jpg", import.meta.url));
