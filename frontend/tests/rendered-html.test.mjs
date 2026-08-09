@@ -132,9 +132,11 @@ test("keeps the game balanced, varied, and transcript-grounded", async () => {
   assert.match(bankBrowserSource, /aria-pressed/);
   assert.match(design, /20 easy, 20 medium, and 20 hard/i);
   assert.match(layoutSource, /\/og\.png/);
-  assert.match(styles, /Full-width, softer gray revision/);
-  assert.match(styles, /\.quiz-shell\s*{[^}]*width:\s*100%/s);
-  assert.match(styles, /\.wsi-intro-grid\s*{[^}]*background:\s*#b7b7b2/s);
+  const finalComposition = styles.slice(styles.indexOf("Final full-bleed gray composition"));
+  assert.ok(styles.indexOf("Final full-bleed gray composition") > styles.indexOf("Regulation Podcast brand pass"));
+  assert.match(finalComposition, /\.quiz-shell\s*{[^}]*width:\s*100%[^}]*max-width:\s*none[^}]*margin:\s*0[^}]*padding:\s*0/s);
+  assert.match(finalComposition, /\.quiz-topbar\s*{[^}]*background:\s*#dededb/s);
+  assert.match(finalComposition, /\.wsi-intro-grid\s*{[^}]*width:\s*100%[^}]*margin:\s*0[^}]*background:\s*#b7b7b2/s);
 
   await access(new URL("../public/og.png", import.meta.url));
   await access(new URL("../public/regulation-brand-mark.jpg", import.meta.url));
