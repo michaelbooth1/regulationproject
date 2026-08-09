@@ -406,12 +406,12 @@ export default function WhoSaidItGame({ mappedEpisodes }: { mappedEpisodes: numb
             >
               <div className="wsi-transcript-lead">
                 <div className="wsi-transcript-heading">
-                  <span>Transcript lead-in / names restored</span>
+                  <span>Transcript excerpt / names restored</span>
                   <small>
                     {formatTime(current.leadIn[0].startSec)} → {formatTime(current.startSec)}
                   </small>
                 </div>
-                <ol aria-label="Conversation immediately before the mystery quote">
+                <ol aria-label="Three preceding transcript lines followed by the attributed mystery quote">
                   {current.leadIn.map((line) => (
                     <li
                       key={`${line.startSec}-${line.speaker}`}
@@ -421,6 +421,13 @@ export default function WhoSaidItGame({ mappedEpisodes }: { mappedEpisodes: numb
                       <p>{line.text}</p>
                     </li>
                   ))}
+                  <li
+                    className="wsi-transcript-quote"
+                    style={{ "--speaker-color": correctProfile.color } as React.CSSProperties}
+                  >
+                    <strong>{correctProfile.name}</strong>
+                    <p>{current.quote}</p>
+                  </li>
                 </ol>
               </div>
               <div className="wsi-reveal-answer">

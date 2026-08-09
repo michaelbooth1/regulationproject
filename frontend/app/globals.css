@@ -2131,6 +2131,17 @@ button {
   line-height: 1.45;
 }
 
+.wsi-transcript-lead li.wsi-transcript-quote {
+  margin-top: 3px;
+  padding: 10px;
+  border: 2px solid var(--ink);
+  background: color-mix(in srgb, var(--host-color) 20%, var(--paper-bright));
+}
+
+.wsi-transcript-lead li.wsi-transcript-quote p {
+  font-weight: 850;
+}
+
 .wsi-reveal-answer {
   display: grid;
   grid-template-columns: minmax(170px, 0.35fr) minmax(0, 1fr);

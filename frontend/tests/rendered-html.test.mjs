@@ -128,8 +128,12 @@ test("keeps the game balanced, varied, and transcript-grounded", async () => {
   assert.match(whoSource, /navigator\.share/);
   assert.match(whoSource, /handleShortcut/);
   assert.match(whoSource, /Where the accusations landed/);
-  assert.match(whoSource, /Transcript lead-in \/ names restored/);
-  assert.match(whoSource, /Conversation immediately before the mystery quote/);
+  assert.match(whoSource, /Transcript excerpt \/ names restored/);
+  assert.match(whoSource, /Three preceding transcript lines followed by the attributed mystery quote/);
+  assert.match(whoSource, /className="wsi-transcript-quote"/);
+  assert.match(whoSource, /<strong>{correctProfile\.name}<\/strong>/);
+  assert.match(whoSource, /<p>{current\.quote}<\/p>/);
+  assert.match(styles, /\.wsi-transcript-lead li\.wsi-transcript-quote/);
   assert.match(bankBrowserSource, /aria-pressed/);
   assert.match(design, /20 easy, 20 medium, and 20 hard/i);
   assert.match(layoutSource, /\/og\.png/);
