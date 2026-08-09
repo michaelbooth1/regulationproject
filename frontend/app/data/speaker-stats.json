@@ -1,57 +1,73 @@
 {
-  "generatedAt": "2026-08-07T18:10:25.288123+00:00",
-  "completedEpisodes": 86,
-  "episodeHours": 82.6,
-  "measuredTalkHours": 72.5,
+  "generatedAt": "2026-08-09T02:01:34.185744+00:00",
+  "completedEpisodes": 415,
+  "episodeHours": 433.3,
+  "measuredTalkHours": 369.5,
   "method": "Whisper segment durations assigned to diarized speaker clusters; approximate.",
   "speakers": [
     {
       "name": "Geoff",
-      "seconds": 104354.8,
-      "hours": 29.0,
-      "episodes": 82,
-      "share": 40.0,
+      "seconds": 452131.6,
+      "hours": 125.6,
+      "episodes": 398,
+      "share": 33.99,
       "color": "#ff5a36"
     },
     {
       "name": "Andrew",
-      "seconds": 91071.4,
-      "hours": 25.3,
-      "episodes": 85,
-      "share": 34.9,
+      "seconds": 426353.0,
+      "hours": 118.4,
+      "episodes": 405,
+      "share": 32.05,
       "color": "#ffc93d"
     },
     {
       "name": "Gavin",
-      "seconds": 46266.0,
-      "hours": 12.9,
-      "episodes": 82,
-      "share": 17.7,
+      "seconds": 196360.8,
+      "hours": 54.5,
+      "episodes": 394,
+      "share": 14.76,
       "color": "#70d6ff"
     },
     {
-      "name": "Other voices",
-      "seconds": 8388.3,
-      "hours": 2.3,
-      "episodes": 72,
-      "share": 3.2,
-      "color": "#8891a7"
-    },
-    {
-      "name": "Erik",
-      "seconds": 7898.4,
-      "hours": 2.2,
-      "episodes": 66,
-      "share": 3.0,
+      "name": "Eric",
+      "seconds": 174859.8,
+      "hours": 48.6,
+      "episodes": 373,
+      "share": 13.15,
       "color": "#aa8cff"
     },
     {
+      "name": "Other voices",
+      "seconds": 58221.0,
+      "hours": 16.2,
+      "episodes": 387,
+      "share": 4.38,
+      "color": "#8891a7"
+    },
+    {
+      "name": "Nick",
+      "seconds": 10953.9,
+      "hours": 3.0,
+      "episodes": 114,
+      "share": 0.82,
+      "color": "#ff8bd1"
+    },
+    {
       "name": "Ad",
-      "seconds": 2939.0,
-      "hours": 0.8,
-      "episodes": 54,
-      "share": 1.1,
+      "seconds": 10773.5,
+      "hours": 3.0,
+      "episodes": 232,
+      "share": 0.81,
       "color": "#63e6a7"
+    },
+    {
+      "name": "Graysie",
+      "seconds": 543.8,
+      "hours": 0.2,
+      "episodes": 14,
+      "share": 0.04,
+      "color": "#c8ff66"
     }
   ]
 }

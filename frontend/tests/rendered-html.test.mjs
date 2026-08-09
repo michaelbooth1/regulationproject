@@ -1,11 +1,7 @@
 import assert from "node:assert/strict";
-import { access, readFile, readdir } from "node:fs/promises";
+import { access, readFile } from "node:fs/promises";
 import test from "node:test";
 
-const developmentPreviewMeta =
-  /<meta(?=[^>]*\bname=["']codex-preview["'])(?=[^>]*\bcontent=["']development["'])[^>]*>/i;
-const templateRoot = new URL("../", import.meta.url);
-const previewRoot = new URL("../app/_sites-preview/", import.meta.url);
 
 async function render() {
   const workerUrl = new URL("../dist/server/index.js", import.meta.url);
@@ -13,79 +9,77 @@ async function render() {
   const { default: worker } = await import(workerUrl.href);
 
   return worker.fetch(
-    new Request("http://localhost/", {
-      headers: { accept: "text/html" },
-    }),
-    {
-      ASSETS: {
-        fetch: async () => new Response("Not found", { status: 404 }),
-      },
-    },
-    {
-      waitUntil() {},
-      passThroughOnException() {},
-    },
+    new Request("http://localhost/", { headers: { accept: "text/html" } }),
+    { ASSETS: { fetch: async () => new Response("Not found", { status: 404 }) } },
+    { waitUntil() {}, passThroughOnException() {} },
   );
 }
 
-test("server-renders the starter loading skeleton", async () => {
+
+test("server-renders the Regulation Quiz intro", async () => {
   const response = await render();
   assert.equal(response.status, 200);
   assert.match(response.headers.get("content-type") ?? "", /^text\/html\b/i);
 
   const html = await response.text();
-  assert.match(html, developmentPreviewMeta);
-  assert.match(html, /<title>Your site is taking shape<\/title>/i);
-  assert.match(html, /Building your site/);
-  assert.match(html, /Your site is taking shape/);
-  assert.match(
-    html,
-    /Your first version will appear here automatically when it’s ready\./,
-  );
-  assert.doesNotMatch(html, /Codex/);
-  assert.match(html, /react-loading-skeleton/);
-  assert.match(html, /role="status"/);
+  assert.match(html, /<title>Which Regulation Host Are You\? \| Regulation Quiz<\/title>/i);
+  assert.match(html, /Scientifically unnecessary/i);
+  assert.match(html, /Which mic/i);
+  assert.match(html, /Ten bad decisions/i);
+  assert.match(html, /Begin the investigation/i);
+  assert.match(html, /415<!-- --> episodes digested/i);
+  assert.match(html, /Question bank<\/dt><dd>39<\/dd>/i);
+  for (const host of ["Geoff", "Andrew", "Gavin", "Eric"]) {
+    assert.match(html, new RegExp(`<strong>${host}</strong>`));
+  }
+  assert.doesNotMatch(html, /The talk table|Building your site|react-loading-skeleton/i);
 });
 
-test("keeps the loading skeleton scoped and disposable", async () => {
-  const [preview, css, page, layout, packageJson, files] = await Promise.all([
-    readFile(new URL("SkeletonPreview.tsx", previewRoot), "utf8"),
-    readFile(new URL("preview.css", previewRoot), "utf8"),
-    readFile(new URL("../app/page.tsx", import.meta.url), "utf8"),
-    readFile(new URL("../app/layout.tsx", import.meta.url), "utf8"),
-    readFile(new URL("../package.json", import.meta.url), "utf8"),
-    readdir(previewRoot),
+
+test("keeps a balanced, transcript-grounded question bank", async () => {
+  const [quizSource, bankSource, profileText, design] = await Promise.all([
+    readFile(new URL("../app/QuizApp.tsx", import.meta.url), "utf8"),
+    readFile(new URL("../app/quiz-data.ts", import.meta.url), "utf8"),
+    readFile(new URL("../app/data/host-language-profiles.json", import.meta.url), "utf8"),
+    readFile(new URL("../QUIZ_DESIGN.md", import.meta.url), "utf8"),
   ]);
+  const profiles = JSON.parse(profileText);
+  const categories = [...bankSource.matchAll(/category: "([^"]+)"/g)].map((match) => match[1]);
+  const categoryCounts = new Map();
+  for (const category of categories) {
+    categoryCounts.set(category, (categoryCounts.get(category) ?? 0) + 1);
+  }
 
-  assert.deepEqual(files.sort(), ["SkeletonPreview.tsx", "preview.css"]);
-  assert.match(preview, /from "react-loading-skeleton"/);
-  assert.match(preview, /baseColor="#eceae7"/);
-  assert.match(preview, /highlightColor="#f9f8f6"/);
-  assert.match(preview, /duration=\{2\.8\}/);
-  assert.match(preview, /sites-skeleton-search-placeholder/);
-  assert.match(packageJson, /"react-loading-skeleton": "3\.5\.0"/);
+  assert.equal(categories.length, 39);
+  assert.equal(categoryCounts.size, 13);
+  assert.ok([...categoryCounts.values()].every((count) => count === 3));
+  assert.equal((bankSource.match(/\sanswer\("/g) ?? []).length, categories.length * 4);
+  for (const ingredient of ["bean hole", "pencil", "bog", "sausage", "Cosmic Crisp", "fireplace"]) {
+    assert.match(bankSource, new RegExp(ingredient, "i"));
+  }
 
-  const shellIndex = preview.indexOf('className="sites-skeleton-shell"');
-  const statusIndex = preview.indexOf('className="sites-skeleton-status"');
-  assert.ok(shellIndex >= 0 && statusIndex > shellIndex);
-  assert.match(css, /position:\s*fixed/);
-  assert.match(css, /inset:\s*0/);
-  assert.match(css, /opacity:\s*0\.52/);
-  assert.match(css, /prefers-reduced-motion:\s*reduce/);
-  assert.doesNotMatch(css, /#020617|canvas|pets|progress/i);
-  assert.doesNotMatch(
-    preview,
-    /loading-spinner|status-mark|status-progress|canvas|cookie|random/i,
+  assert.match(quizSource, /const QUIZ_LENGTH = 10/);
+  assert.match(quizSource, /slice\(0, QUIZ_LENGTH\)/);
+  assert.match(quizSource, /Evidence from your answers/);
+  assert.match(quizSource, /option\.insight/);
+  assert.match(design, /not a psychological assessment/i);
+
+  assert.equal(profiles.mappedEpisodes, 415);
+  assert.deepEqual(Object.keys(profiles.profiles), ["Geoff", "Andrew", "Gavin", "Eric"]);
+  assert.ok(profiles.profiles.Geoff.turnWordsMean > profiles.profiles.Gavin.turnWordsMean);
+  assert.ok(
+    profiles.profiles.Gavin.questionSegmentsPerThousand >
+      profiles.profiles.Andrew.questionSegmentsPerThousand,
+  );
+  assert.ok(
+    profiles.profiles.Andrew.markersPerThousandWords.firstPerson >
+      profiles.profiles.Geoff.markersPerThousandWords.firstPerson,
+  );
+  assert.ok(
+    profiles.profiles.Eric.markersPerThousandWords.controlLanguage >
+      profiles.profiles.Geoff.markersPerThousandWords.controlLanguage,
   );
 
-  assert.match(page, /export const metadata:\s*Metadata/);
-  assert.match(page, /"codex-preview": "development"/);
-  assert.match(page, /<SkeletonPreview \/>/);
-  assert.match(layout, /title:\s*"Starter Project"/);
-  assert.doesNotMatch(layout, /codex-preview|_sites-preview|themeColor|\bViewport\b/);
-  assert.doesNotMatch(css, /(^|\s)(html|body)\s*\{/m);
-
-  await assert.rejects(
-    access(new URL("public/_sites-preview", templateRoot)),
-  );
+  await access(new URL("../public/og.png", import.meta.url));
+  await assert.rejects(access(new URL("../app/_sites-preview", import.meta.url)));
 });
