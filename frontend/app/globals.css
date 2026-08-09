@@ -1570,15 +1570,6 @@ button {
   align-items: center;
 }
 
-.wsi-result-actions > span {
-  min-width: 110px;
-  color: var(--soft-ink);
-  font-family: "Courier New", Courier, monospace;
-  font-size: 8px;
-  font-weight: 900;
-  text-transform: uppercase;
-}
-
 .wsi-lifetime-stats {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -3880,5 +3871,134 @@ body {
 
   .wsi-playing-shell .wsi-reveal + .wsi-round-controls {
     margin-top: 2px;
+  }
+}
+
+/* Readable desktop results */
+
+@media (min-width: 1200px) {
+  .wsi-result-shell .wsi-result-hero {
+    grid-template-columns: minmax(0, 1.2fr) minmax(560px, 0.8fr);
+    gap: clamp(60px, 7vw, 140px);
+    padding-right: clamp(40px, 4vw, 82px);
+    padding-left: clamp(40px, 4vw, 82px);
+  }
+
+  .wsi-result-shell .wsi-score-slip {
+    width: 100%;
+    max-width: 760px;
+    justify-self: end;
+    padding: clamp(32px, 3vw, 46px);
+  }
+
+  .wsi-result-shell .wsi-score-slip > span,
+  .wsi-result-shell .wsi-score-slip > small {
+    font-size: 11px;
+    letter-spacing: 0.04em;
+  }
+
+  .wsi-result-shell .wsi-score-slip > strong {
+    margin-top: 28px;
+    font-size: clamp(106px, 7vw, 144px);
+    letter-spacing: -0.08em;
+    line-height: 0.82;
+  }
+
+  .wsi-result-shell .wsi-score-slip > p {
+    margin: 24px 0 17px;
+    font-size: 18px;
+  }
+
+  .wsi-result-shell .wsi-score-slip > div {
+    height: 21px;
+  }
+
+  .wsi-result-shell .wsi-score-slip > small {
+    margin-top: 24px;
+    padding-top: 18px;
+    line-height: 1.55;
+  }
+
+  .wsi-result-shell .wsi-lifetime-stats {
+    margin-top: 25px;
+  }
+
+  .wsi-result-shell .wsi-lifetime-stats dt {
+    font-size: 9px;
+    line-height: 1.25;
+  }
+
+  .wsi-result-shell .wsi-lifetime-stats dd {
+    font-size: 22px;
+  }
+}
+
+@media (min-width: 981px) {
+  .wsi-result-shell .wsi-breakdown-grid article {
+    min-height: 235px;
+    padding: 22px;
+  }
+
+  .wsi-result-shell .wsi-breakdown-grid .wsi-host-badge {
+    gap: 9px;
+    min-height: 42px;
+    padding: 5px 11px 5px 5px;
+    font-size: 12px;
+    letter-spacing: 0.02em;
+  }
+
+  .wsi-result-shell .wsi-breakdown-grid .wsi-host-badge b {
+    width: 29px;
+    height: 29px;
+    font-size: 14px;
+  }
+
+  .wsi-result-shell .wsi-breakdown-grid article > strong {
+    display: flex;
+    gap: 6px;
+    align-items: baseline;
+    width: fit-content;
+    margin-top: 26px;
+    font-size: 64px;
+    letter-spacing: -0.04em;
+    line-height: 0.92;
+  }
+
+  .wsi-result-shell .wsi-breakdown-grid article > strong span {
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 1;
+  }
+
+  .wsi-result-shell .wsi-breakdown-grid article > p {
+    margin: 17px 0 14px;
+    font-size: 11px;
+    letter-spacing: 0.02em;
+    line-height: 1.3;
+  }
+
+  .wsi-result-shell .wsi-review-list article {
+    grid-template-columns: 43px minmax(0, 1fr) minmax(205px, auto);
+    gap: 19px;
+    padding: 17px 18px;
+  }
+
+  .wsi-result-shell .wsi-review-list .wsi-host-badge {
+    gap: 9px;
+    min-height: 44px;
+    padding: 6px 12px 6px 6px;
+    font-size: 13px;
+    letter-spacing: 0.025em;
+  }
+
+  .wsi-result-shell .wsi-review-list .wsi-host-badge b {
+    width: 30px;
+    height: 30px;
+    font-size: 15px;
+  }
+
+  .wsi-result-shell .wsi-review-list article > div > small {
+    font-size: 9px;
+    line-height: 1.35;
   }
 }

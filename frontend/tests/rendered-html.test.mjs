@@ -135,7 +135,7 @@ test("keeps the game balanced, varied, and transcript-grounded", async () => {
   assert.match(whoSource, /hostCounts\[host\] >= 2/);
   assert.match(whoSource, /pickRound\(new Set\(round\.map/);
   assert.match(whoSource, /window\.localStorage/);
-  assert.match(whoSource, /navigator\.share/);
+  assert.doesNotMatch(whoSource, /navigator\.share|shareScore|Share score/);
   assert.match(whoSource, /handleShortcut/);
   assert.match(whoSource, /Where the accusations landed/);
   assert.match(whoSource, /Transcript excerpt \/ names restored/);
@@ -162,6 +162,12 @@ test("keeps the game balanced, varied, and transcript-grounded", async () => {
   assert.match(finalComposition, /\.wsi-playing-shell \.wsi-choice strong\s*{[^}]*font-size:\s*24px/s);
   assert.match(finalComposition, /\.wsi-playing-shell \.wsi-choice small\s*{[^}]*font-size:\s*12px/s);
   assert.match(finalComposition, /\.wsi-playing-shell \.wsi-round-controls > span\s*{[^}]*font-size:\s*11px/s);
+  assert.match(finalComposition, /Readable desktop results/);
+  assert.match(finalComposition, /\.wsi-result-shell \.wsi-result-hero\s*{[^}]*grid-template-columns:\s*minmax\(0, 1\.2fr\) minmax\(560px, 0\.8fr\)/s);
+  assert.match(finalComposition, /\.wsi-result-shell \.wsi-score-slip\s*{[^}]*max-width:\s*760px/s);
+  assert.match(finalComposition, /\.wsi-result-shell \.wsi-score-slip > strong\s*{[^}]*font-size:\s*clamp\(106px, 7vw, 144px\)/s);
+  assert.match(finalComposition, /\.wsi-result-shell \.wsi-breakdown-grid article > strong\s*{[^}]*display:\s*flex[^}]*gap:\s*6px[^}]*letter-spacing:\s*-0\.04em/s);
+  assert.match(finalComposition, /\.wsi-result-shell \.wsi-review-list \.wsi-host-badge\s*{[^}]*font-size:\s*13px/s);
 
   await access(new URL("../public/og.png", import.meta.url));
   await access(new URL("../public/regulation-brand-mark.jpg", import.meta.url));

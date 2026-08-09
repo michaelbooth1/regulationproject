@@ -164,7 +164,6 @@ export default function WhoSaidItGame({ mappedEpisodes }: { mappedEpisodes: numb
   const [selectedHost, setSelectedHost] = useState<HostId | null>(null);
   const [answers, setAnswers] = useState<AnswerRecord[]>([]);
   const [stats, setStats] = useState<LifetimeStats>(loadLifetimeStats);
-  const [shareStatus, setShareStatus] = useState("");
   const nextButtonRef = useRef<HTMLButtonElement>(null);
 
   const current = round[currentIndex];
@@ -200,7 +199,6 @@ export default function WhoSaidItGame({ mappedEpisodes }: { mappedEpisodes: numb
     setCurrentIndex(0);
     setSelectedHost(null);
     setAnswers([]);
-    setShareStatus("");
     setStage("playing");
     scrollToTop();
   }, [round]);
@@ -252,22 +250,6 @@ export default function WhoSaidItGame({ mappedEpisodes }: { mappedEpisodes: numb
     window.addEventListener("keydown", handleShortcut);
     return () => window.removeEventListener("keydown", handleShortcut);
   }, [choose, selectedHost, stage]);
-
-  async function shareScore() {
-    const text = `I got ${score}/${WHO_SAID_IT_LENGTH} on Regulation Who Said It — ${verdict.title}.`;
-    try {
-      if (navigator.share) {
-        await navigator.share({ title: "Regulation Who Said It", text, url: window.location.origin });
-        setShareStatus("Score shared");
-      } else {
-        await navigator.clipboard.writeText(`${text} ${window.location.origin}`);
-        setShareStatus("Score copied");
-      }
-    } catch (error) {
-      if (error instanceof DOMException && error.name === "AbortError") return;
-      setShareStatus("Sharing was unavailable");
-    }
-  }
 
   const topbar = (
     <header className="quiz-topbar">
@@ -472,10 +454,6 @@ export default function WhoSaidItGame({ mappedEpisodes }: { mappedEpisodes: numb
               Draw ten new quotes
               <span aria-hidden="true">↻</span>
             </button>
-            <button className="secondary-button" type="button" onClick={shareScore}>
-              Share score
-            </button>
-            <span role="status" aria-live="polite">{shareStatus}</span>
           </div>
         </div>
         <aside className="wsi-score-slip">
