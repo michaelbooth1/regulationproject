@@ -16,139 +16,82 @@ async function render(pathname = "/") {
 }
 
 
-test("server-renders the Regulation Quiz intro", async () => {
+test("makes Who Said It the primary app", async () => {
   const response = await render();
-  assert.equal(response.status, 200);
-  assert.match(response.headers.get("content-type") ?? "", /^text\/html\b/i);
-
-  const html = await response.text();
-  assert.match(html, /<title>Which Regulation Host Are You\? \| Regulation Quiz<\/title>/i);
-  assert.match(html, /Scientifically unnecessary/i);
-  assert.match(html, /Which mic/i);
-  assert.match(html, /Ten bad decisions/i);
-  assert.match(html, /Begin the investigation/i);
-  assert.match(html, /415<!-- --> episodes digested/i);
-  assert.match(html, /Question bank<\/dt><dd>39<\/dd>/i);
-  assert.match(html, /href="\/questions"[^>]*>Question bank/i);
-  for (const host of ["Geoff", "Andrew", "Gavin", "Eric"]) {
-    assert.match(html, new RegExp(`<strong>${host}</strong>`));
-  }
-  assert.doesNotMatch(html, /The talk table|Building your site|react-loading-skeleton/i);
-});
-
-
-test("server-renders the searchable host-by-host question bank", async () => {
-  const response = await render("/questions");
-  assert.equal(response.status, 200);
-  assert.match(response.headers.get("content-type") ?? "", /^text\/html\b/i);
-
-  const html = await response.text();
-  assert.match(html, /<title>Question Bank \| Regulation Quiz<\/title>/i);
-  assert.match(html, /All <!-- -->39<!-- --> bad decisions/i);
-  assert.match(html, /Search prompts, answers, or traits/i);
-  assert.match(html, /Showing <strong>39<\/strong> of <!-- -->39<!-- --> questions/i);
-  assert.match(html, /A kitchen appliance makes a wet noise/i);
-  for (const host of ["Geoff", "Andrew", "Gavin", "Eric"]) {
-    assert.match(html, new RegExp(`aria-label="${host} answer"`));
-  }
-  assert.match(html, /You transformed a household malfunction into material/i);
-  assert.match(html, /href="\/"[^>]*>← Take the quiz/i);
-});
-
-
-test("server-renders the transcript-based Who Said It game", async () => {
-  const response = await render("/who-said-it");
   assert.equal(response.status, 200);
   assert.match(response.headers.get("content-type") ?? "", /^text\/html\b/i);
 
   const html = await response.text();
   assert.match(html, /<title>Who Said It\? \| Regulation Games<\/title>/i);
   assert.match(html, /Out of context \/ under oath/i);
-  assert.match(html, /Ten real lines\. Four possible hosts/i);
+  assert.match(html, /Ten real lines from a 60-quote archive/i);
   assert.match(html, /Open the transcript file/i);
-  assert.match(html, /<dt>Quote bank<\/dt><dd>30<\/dd>/i);
-  assert.match(html, /<dt>Rounds served<\/dt><dd>10<\/dd>/i);
-  assert.match(html, /I have a 50-foot ham tower/i);
+  assert.match(html, /415<!-- --> episodes digested/i);
+  assert.match(html, /<dt>Quote bank<\/dt><dd>60<\/dd>/i);
   assert.match(html, /href="\/who-said-it\/bank"[^>]*>Quote bank/i);
   for (const host of ["Geoff", "Andrew", "Gavin", "Eric"]) {
     assert.match(html, new RegExp(host));
   }
+  assert.doesNotMatch(html, /Which mic|Begin the investigation|Host quiz|Question bank/i);
 });
 
 
-test("server-renders a searchable, fully attributed quote bank", async () => {
-  const response = await render("/who-said-it/bank");
+test("keeps the old question-bank URL hidden behind the quote bank", async () => {
+  const response = await render("/questions");
   assert.equal(response.status, 200);
-  assert.match(response.headers.get("content-type") ?? "", /^text\/html\b/i);
-
   const html = await response.text();
   assert.match(html, /<title>Who Said It Quote Bank \| Regulation Games<\/title>/i);
-  assert.match(html, /All <!-- -->30<!-- --> absurd lines/i);
+  assert.match(html, /All <!-- -->60<!-- --> absurd lines/i);
   assert.match(html, /Search quotes, episodes, or context/i);
-  assert.match(html, /Showing <strong>30<\/strong> of <!-- -->30<!-- --> quotes/i);
-  assert.match(html, /every toilet on Earth was flushed/i);
-  assert.match(html, /Icy Hot on your dick and balls/i);
-  assert.match(html, /Relax, This Is a Robbery/i);
-  assert.match(html, /href="\/who-said-it"[^>]*>← Play without spoilers/i);
+  assert.doesNotMatch(html, /All <!-- -->39<!-- --> bad decisions|host-by-host question bank/i);
 });
 
 
-test("keeps a balanced, transcript-grounded question bank", async () => {
-  const [quizSource, browserSource, bankSource, profileText, design, whoSource, quoteBankText] = await Promise.all([
-    readFile(new URL("../app/QuizApp.tsx", import.meta.url), "utf8"),
-    readFile(new URL("../app/QuestionBankBrowser.tsx", import.meta.url), "utf8"),
-    readFile(new URL("../app/quiz-data.ts", import.meta.url), "utf8"),
-    readFile(new URL("../app/data/host-language-profiles.json", import.meta.url), "utf8"),
-    readFile(new URL("../QUIZ_DESIGN.md", import.meta.url), "utf8"),
+test("server-renders the dedicated Who Said It route", async () => {
+  const response = await render("/who-said-it");
+  assert.equal(response.status, 200);
+  const html = await response.text();
+  assert.match(html, /<title>Who Said It\? \| Regulation Games<\/title>/i);
+  assert.match(html, /Ten real lines from a 60-quote archive/i);
+  assert.match(html, /<dt>Quote bank<\/dt><dd>60<\/dd>/i);
+  assert.match(html, /<dt>Rounds served<\/dt><dd>10<\/dd>/i);
+  assert.match(html, /I have a 50-foot ham tower/i);
+});
+
+
+test("server-renders the searchable, fully attributed 60-quote bank", async () => {
+  const response = await render("/who-said-it/bank");
+  assert.equal(response.status, 200);
+  const html = await response.text();
+  assert.match(html, /<title>Who Said It Quote Bank \| Regulation Games<\/title>/i);
+  assert.match(html, /All <!-- -->60<!-- --> absurd lines/i);
+  assert.match(html, /Search quotes, episodes, or context/i);
+  assert.match(html, /Showing <strong>60<\/strong> of <!-- -->60<!-- --> quotes/i);
+  assert.match(html, /every toilet on Earth was flushed/i);
+  assert.match(html, /Icy Hot on your dick and balls/i);
+  assert.match(html, /pickle paste is maybe 10 to 15 times better/i);
+  assert.match(html, /href="\/"[^>]*>← Play without spoilers/i);
+  assert.doesNotMatch(html, />Host quiz</i);
+});
+
+
+test("keeps the game balanced, varied, and transcript-grounded", async () => {
+  const [whoSource, bankBrowserSource, quoteBankText, profileText, design, layoutSource] = await Promise.all([
     readFile(new URL("../app/WhoSaidItGame.tsx", import.meta.url), "utf8"),
+    readFile(new URL("../app/WhoSaidItBankBrowser.tsx", import.meta.url), "utf8"),
     readFile(new URL("../app/data/who-said-it-bank.json", import.meta.url), "utf8"),
+    readFile(new URL("../app/data/host-language-profiles.json", import.meta.url), "utf8"),
+    readFile(new URL("../WHO_SAID_IT_DESIGN.md", import.meta.url), "utf8"),
+    readFile(new URL("../app/layout.tsx", import.meta.url), "utf8"),
   ]);
   const profiles = JSON.parse(profileText);
   const quoteBank = JSON.parse(quoteBankText);
-  const categories = [...bankSource.matchAll(/category: "([^"]+)"/g)].map((match) => match[1]);
-  const categoryCounts = new Map();
-  for (const category of categories) {
-    categoryCounts.set(category, (categoryCounts.get(category) ?? 0) + 1);
-  }
-
-  assert.equal(categories.length, 39);
-  assert.equal(categoryCounts.size, 13);
-  assert.ok([...categoryCounts.values()].every((count) => count === 3));
-  assert.equal((bankSource.match(/\sanswer\("/g) ?? []).length, categories.length * 4);
-  for (const ingredient of ["bean hole", "pencil", "bog", "sausage", "Cosmic Crisp", "fireplace"]) {
-    assert.match(bankSource, new RegExp(ingredient, "i"));
-  }
-
-  assert.match(quizSource, /const QUIZ_LENGTH = 10/);
-  assert.match(quizSource, /slice\(0, QUIZ_LENGTH\)/);
-  assert.match(quizSource, /Evidence from your answers/);
-  assert.match(quizSource, /option\.insight/);
-  assert.match(browserSource, /primaryAnswer/);
-  assert.match(browserSource, /setCategory/);
-  assert.match(browserSource, /setQuery/);
-  assert.match(browserSource, /HOST_ORDER\.map/);
-  assert.match(design, /not a psychological assessment/i);
 
   assert.equal(profiles.mappedEpisodes, 415);
-  assert.deepEqual(Object.keys(profiles.profiles), ["Geoff", "Andrew", "Gavin", "Eric"]);
-  assert.ok(profiles.profiles.Geoff.turnWordsMean > profiles.profiles.Gavin.turnWordsMean);
-  assert.ok(
-    profiles.profiles.Gavin.questionSegmentsPerThousand >
-      profiles.profiles.Andrew.questionSegmentsPerThousand,
-  );
-  assert.ok(
-    profiles.profiles.Andrew.markersPerThousandWords.firstPerson >
-      profiles.profiles.Geoff.markersPerThousandWords.firstPerson,
-  );
-  assert.ok(
-    profiles.profiles.Eric.markersPerThousandWords.controlLanguage >
-      profiles.profiles.Geoff.markersPerThousandWords.controlLanguage,
-  );
-
-  assert.equal(quoteBank.length, 30);
-  assert.equal(new Set(quoteBank.map((item) => item.id)).size, 30);
-  assert.equal(new Set(quoteBank.map((item) => item.quote)).size, 30);
-  assert.equal(new Set(quoteBank.map((item) => item.episode)).size, 30);
+  assert.equal(quoteBank.length, 60);
+  assert.equal(new Set(quoteBank.map((item) => item.id)).size, 60);
+  assert.equal(new Set(quoteBank.map((item) => item.quote)).size, 60);
+  assert.equal(new Set(quoteBank.map((item) => item.episode)).size, 60);
   assert.deepEqual(
     Object.fromEntries(
       ["geoff", "andrew", "gavin", "eric"].map((host) => [
@@ -156,15 +99,31 @@ test("keeps a balanced, transcript-grounded question bank", async () => {
         quoteBank.filter((item) => item.speaker === host).length,
       ]),
     ),
-    { geoff: 8, andrew: 8, gavin: 7, eric: 7 },
+    { geoff: 15, andrew: 15, gavin: 15, eric: 15 },
   );
-  assert.ok(quoteBank.every((item) => ["easy", "medium", "hard"].includes(item.difficulty)));
+  assert.deepEqual(
+    Object.fromEntries(
+      ["easy", "medium", "hard"].map((difficulty) => [
+        difficulty,
+        quoteBank.filter((item) => item.difficulty === difficulty).length,
+      ]),
+    ),
+    { easy: 20, medium: 20, hard: 20 },
+  );
   assert.ok(quoteBank.every((item) => item.startSec >= 0 && item.context && item.title));
-  assert.match(whoSource, /WHO_SAID_IT_LENGTH/);
-  assert.match(whoSource, /slice\(0, 2\)/);
-  assert.match(whoSource, /It was \{correctProfile\.name\}/);
-  assert.match(whoSource, /Draw ten new quotes/);
 
-  await access(new URL("../public/og.png", import.meta.url));
+  assert.match(whoSource, /WHO_SAID_IT_LENGTH/);
+  assert.match(whoSource, /ROUND_DIFFICULTY_TARGETS/);
+  assert.match(whoSource, /hostCounts\[host\] >= 2/);
+  assert.match(whoSource, /pickRound\(new Set\(round\.map/);
+  assert.match(whoSource, /window\.localStorage/);
+  assert.match(whoSource, /navigator\.share/);
+  assert.match(whoSource, /handleShortcut/);
+  assert.match(whoSource, /Where the accusations landed/);
+  assert.match(bankBrowserSource, /aria-pressed/);
+  assert.match(design, /20 easy, 20 medium, and 20 hard/i);
+  assert.match(layoutSource, /og-who-said-it\.png/);
+
+  await access(new URL("../public/og-who-said-it.png", import.meta.url));
   await assert.rejects(access(new URL("../app/_sites-preview", import.meta.url)));
 });

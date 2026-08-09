@@ -1,11 +1,12 @@
 "use client";
 
 import Link from "next/link";
-import { useMemo, useState } from "react";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { HOST_ORDER, HOST_PROFILES, type HostId } from "./quiz-data";
 import {
   WHO_SAID_IT_BANK,
   WHO_SAID_IT_LENGTH,
+  type QuoteDifficulty,
   type WhoSaidItQuote,
 } from "./who-said-it-data";
 
@@ -15,6 +16,25 @@ type AnswerRecord = {
   quote: WhoSaidItQuote;
   choice: HostId;
   correct: boolean;
+};
+type LifetimeStats = {
+  games: number;
+  best: number;
+  totalCorrect: number;
+  totalQuestions: number;
+};
+
+const STATS_KEY = "regulation-who-said-it-stats-v1";
+const EMPTY_STATS: LifetimeStats = {
+  games: 0,
+  best: 0,
+  totalCorrect: 0,
+  totalQuestions: 0,
+};
+const ROUND_DIFFICULTY_TARGETS: Record<QuoteDifficulty, number> = {
+  easy: 3,
+  medium: 4,
+  hard: 3,
 };
 
 function shuffle<T>(items: readonly T[]): T[] {
@@ -26,15 +46,60 @@ function shuffle<T>(items: readonly T[]): T[] {
   return copy;
 }
 
-function pickRound(): WhoSaidItQuote[] {
+function isBalancedRound(round: WhoSaidItQuote[]) {
+  const hostCounts = Object.fromEntries(HOST_ORDER.map((host) => [host, 0])) as Record<HostId, number>;
+  const difficultyCounts: Record<QuoteDifficulty, number> = { easy: 0, medium: 0, hard: 0 };
+  for (const quote of round) {
+    hostCounts[quote.speaker] += 1;
+    difficultyCounts[quote.difficulty] += 1;
+  }
+  return (
+    HOST_ORDER.every((host) => hostCounts[host] >= 2) &&
+    (Object.keys(ROUND_DIFFICULTY_TARGETS) as QuoteDifficulty[]).every(
+      (difficulty) => difficultyCounts[difficulty] === ROUND_DIFFICULTY_TARGETS[difficulty],
+    )
+  );
+}
+
+function pickRound(avoidIds: ReadonlySet<string> = new Set()): WhoSaidItQuote[] {
+  const fresh = WHO_SAID_IT_BANK.filter((quote) => !avoidIds.has(quote.id));
+  for (const pool of [fresh, WHO_SAID_IT_BANK]) {
+    if (pool.length < WHO_SAID_IT_LENGTH) continue;
+    for (let attempt = 0; attempt < 600; attempt += 1) {
+      const candidate = shuffle(pool).slice(0, WHO_SAID_IT_LENGTH);
+      if (isBalancedRound(candidate)) return candidate;
+    }
+  }
+
   const guaranteed = HOST_ORDER.flatMap((host) =>
     shuffle(WHO_SAID_IT_BANK.filter((quote) => quote.speaker === host)).slice(0, 2),
   );
   const guaranteedIds = new Set(guaranteed.map((quote) => quote.id));
-  const remaining = shuffle(
-    WHO_SAID_IT_BANK.filter((quote) => !guaranteedIds.has(quote.id)),
-  ).slice(0, WHO_SAID_IT_LENGTH - guaranteed.length);
-  return shuffle([...guaranteed, ...remaining]);
+  return shuffle([
+    ...guaranteed,
+    ...shuffle(WHO_SAID_IT_BANK.filter((quote) => !guaranteedIds.has(quote.id))).slice(0, 2),
+  ]);
+}
+
+function scrollToTop() {
+  window.requestAnimationFrame(() => {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  });
+}
+
+function loadLifetimeStats(): LifetimeStats {
+  if (typeof window === "undefined") return EMPTY_STATS;
+  try {
+    const saved = window.localStorage.getItem(STATS_KEY);
+    if (!saved) return EMPTY_STATS;
+    const parsed = JSON.parse(saved) as Partial<LifetimeStats>;
+    if ([parsed.games, parsed.best, parsed.totalCorrect, parsed.totalQuestions].every(Number.isFinite)) {
+      return parsed as LifetimeStats;
+    }
+  } catch {
+    // Device stats are a bonus; storage restrictions should never block play.
+  }
+  return EMPTY_STATS;
 }
 
 function formatTime(seconds: number) {
@@ -93,7 +158,9 @@ export default function WhoSaidItGame({ mappedEpisodes }: { mappedEpisodes: numb
   const [currentIndex, setCurrentIndex] = useState(0);
   const [selectedHost, setSelectedHost] = useState<HostId | null>(null);
   const [answers, setAnswers] = useState<AnswerRecord[]>([]);
-  const [choiceOrder, setChoiceOrder] = useState<HostId[]>(HOST_ORDER);
+  const [stats, setStats] = useState<LifetimeStats>(loadLifetimeStats);
+  const [shareStatus, setShareStatus] = useState("");
+  const nextButtonRef = useRef<HTMLButtonElement>(null);
 
   const current = round[currentIndex];
   const score = answers.filter((answer) => answer.correct).length;
@@ -107,51 +174,103 @@ export default function WhoSaidItGame({ mappedEpisodes }: { mappedEpisodes: numb
     return streak;
   }, [answers]);
 
-  function scrollToTop() {
-    window.requestAnimationFrame(() => {
-      window.scrollTo({ top: 0, behavior: "smooth" });
-    });
-  }
+  const hostBreakdown = useMemo(
+    () => HOST_ORDER.map((host) => {
+      const hostAnswers = answers.filter((answer) => answer.quote.speaker === host);
+      return {
+        host,
+        correct: hostAnswers.filter((answer) => answer.correct).length,
+        total: hostAnswers.length,
+      };
+    }),
+    [answers],
+  );
 
-  function start() {
-    setRound(pickRound());
+  useEffect(() => {
+    if (selectedHost) nextButtonRef.current?.focus();
+  }, [selectedHost]);
+
+  const start = useCallback(() => {
+    setRound(pickRound(new Set(round.map((quote) => quote.id))));
     setCurrentIndex(0);
     setSelectedHost(null);
     setAnswers([]);
-    setChoiceOrder(shuffle(HOST_ORDER));
+    setShareStatus("");
     setStage("playing");
     scrollToTop();
-  }
+  }, [round]);
 
-  function choose(host: HostId) {
+  const choose = useCallback((host: HostId) => {
     if (!current || selectedHost) return;
     setSelectedHost(host);
     setAnswers((existing) => [
       ...existing,
       { quote: current, choice: host, correct: host === current.speaker },
     ]);
-  }
+  }, [current, selectedHost]);
 
-  function next() {
+  const next = useCallback(() => {
     if (!selectedHost) return;
     if (currentIndex === round.length - 1) {
+      const updated = {
+        games: stats.games + 1,
+        best: Math.max(stats.best, score),
+        totalCorrect: stats.totalCorrect + score,
+        totalQuestions: stats.totalQuestions + WHO_SAID_IT_LENGTH,
+      };
+      setStats(updated);
+      try {
+        window.localStorage.setItem(STATS_KEY, JSON.stringify(updated));
+      } catch {
+        // The completed game still counts for this screen when storage is unavailable.
+      }
       setStage("result");
     } else {
       setCurrentIndex((index) => index + 1);
       setSelectedHost(null);
-      setChoiceOrder(shuffle(HOST_ORDER));
     }
     scrollToTop();
+  }, [currentIndex, round.length, score, selectedHost, stats]);
+
+  useEffect(() => {
+    function handleShortcut(event: KeyboardEvent) {
+      if (stage !== "playing" || selectedHost || event.altKey || event.ctrlKey || event.metaKey) return;
+      const target = event.target as HTMLElement | null;
+      if (target?.closest("input, textarea, select")) return;
+      const choiceIndex = Number(event.key) - 1;
+      if (choiceIndex >= 0 && choiceIndex < HOST_ORDER.length) {
+        event.preventDefault();
+        choose(HOST_ORDER[choiceIndex]);
+      }
+    }
+
+    window.addEventListener("keydown", handleShortcut);
+    return () => window.removeEventListener("keydown", handleShortcut);
+  }, [choose, selectedHost, stage]);
+
+  async function shareScore() {
+    const text = `I got ${score}/${WHO_SAID_IT_LENGTH} on Regulation Who Said It — ${verdict.title}.`;
+    try {
+      if (navigator.share) {
+        await navigator.share({ title: "Regulation Who Said It", text, url: window.location.origin });
+        setShareStatus("Score shared");
+      } else {
+        await navigator.clipboard.writeText(`${text} ${window.location.origin}`);
+        setShareStatus("Score copied");
+      }
+    } catch (error) {
+      if (error instanceof DOMException && error.name === "AbortError") return;
+      setShareStatus("Sharing was unavailable");
+    }
   }
 
   const topbar = (
     <header className="quiz-topbar">
       <Link className="wordmark" href="/" aria-label="Regulation games home">
         <span className="wordmark-r">R</span>
-        <span>Regulation<br /><strong>Games</strong></span>
+        <span>Regulation<br /><strong>Who Said It</strong></span>
       </Link>
       <nav className="topbar-tools" aria-label="Game navigation">
-        <Link className="bank-link" href="/">Host quiz</Link>
         <Link className="bank-link" href="/who-said-it/bank">Quote bank</Link>
         <div className="corpus-stamp">
           <span aria-hidden="true" />
@@ -170,8 +289,8 @@ export default function WhoSaidItGame({ mappedEpisodes }: { mappedEpisodes: numb
             <p className="kicker">Out of context / under oath</p>
             <h1>Who<br /><span>said it?</span></h1>
             <p className="intro-lede">
-              Ten real lines. Four possible hosts. One unsettling realization
-              that all of these sentences entered a microphone on purpose.
+              Ten real lines from a 60-quote archive. Four possible hosts. One
+              unsettling realization that every sentence entered a microphone on purpose.
             </p>
             <button className="primary-button" type="button" onClick={start}>
               Open the transcript file
@@ -194,8 +313,8 @@ export default function WhoSaidItGame({ mappedEpisodes }: { mappedEpisodes: numb
               <div><dt>Suspects</dt><dd>4</dd></div>
             </dl>
             <p>
-              Every run guarantees at least two quotes from each host. Answers
-              reveal the episode, timestamp, and just enough context to make it worse.
+              Every run guarantees at least two quotes from each host and a
+              deliberate mix of easy, medium, and hard files. Back-to-back games avoid repeats.
             </p>
             <div className="wsi-suspects">
               {HOST_ORDER.map((host) => <HostBadge host={host} key={host} />)}
@@ -216,7 +335,7 @@ export default function WhoSaidItGame({ mappedEpisodes }: { mappedEpisodes: numb
     return (
       <main className="quiz-shell wsi-shell wsi-playing-shell">
         {topbar}
-        <section className="wsi-round" aria-live="polite">
+        <section className="wsi-round">
           <div className="question-progress">
             <div className="progress-labels">
               <span>Quote {String(currentIndex + 1).padStart(2, "0")}</span>
@@ -225,7 +344,18 @@ export default function WhoSaidItGame({ mappedEpisodes }: { mappedEpisodes: numb
             <div className="progress-track" aria-hidden="true">
               <span style={{ width: `${progress}%` }} />
             </div>
-            <p>{current.topic}</p>
+            <p>{current.difficulty} file / {current.topic}</p>
+            <ol className="wsi-progress-dots" aria-label={`Round progress: quote ${currentIndex + 1} of ${round.length}`}>
+              {round.map((quote, index) => {
+                const answer = answers[index];
+                const state = answer ? (answer.correct ? "correct" : "wrong") : index === currentIndex ? "current" : "upcoming";
+                return (
+                  <li className={state} key={quote.id} aria-label={`Quote ${index + 1}: ${state}`}>
+                    {index + 1}
+                  </li>
+                );
+              })}
+            </ol>
           </div>
 
           <article className="wsi-quote-card">
@@ -235,7 +365,7 @@ export default function WhoSaidItGame({ mappedEpisodes }: { mappedEpisodes: numb
           </article>
 
           <div className="wsi-choice-grid" aria-label="Choose the speaker">
-            {choiceOrder.map((host) => {
+            {HOST_ORDER.map((host, hostIndex) => {
               const profile = HOST_PROFILES[host];
               const isCorrect = selectedHost !== null && host === current.speaker;
               const isWrongChoice = selectedHost === host && host !== current.speaker;
@@ -248,10 +378,12 @@ export default function WhoSaidItGame({ mappedEpisodes }: { mappedEpisodes: numb
                   style={{ "--host-color": profile.color, "--host-pale": profile.pale } as React.CSSProperties}
                   onClick={() => choose(host)}
                   aria-label={`Choose ${profile.name}`}
+                  aria-pressed={selectedHost === host}
                 >
                   <span>{profile.name.slice(0, 1)}</span>
                   <strong>{profile.name}</strong>
                   <small>{profile.shortTitle}</small>
+                  <kbd aria-hidden="true">{hostIndex + 1}</kbd>
                 </button>
               );
             })}
@@ -261,6 +393,8 @@ export default function WhoSaidItGame({ mappedEpisodes }: { mappedEpisodes: numb
             <aside
               className={`wsi-reveal ${selectedWasCorrect ? "correct" : "wrong"}`}
               style={{ "--host-color": correctProfile.color, "--host-pale": correctProfile.pale } as React.CSSProperties}
+              role="status"
+              aria-live="polite"
             >
               <div className="wsi-reveal-verdict">
                 <span>{selectedWasCorrect ? "Correct" : "Absolutely not"}</span>
@@ -277,7 +411,7 @@ export default function WhoSaidItGame({ mappedEpisodes }: { mappedEpisodes: numb
 
           <div className="wsi-round-controls">
             <span>{selectedHost ? "Attribution unredacted" : "Pick one alleged speaker"}</span>
-            <button className="primary-button compact" type="button" disabled={!selectedHost} onClick={next}>
+            <button ref={nextButtonRef} className="primary-button compact" type="button" disabled={!selectedHost} onClick={next}>
               {currentIndex === round.length - 1 ? "Close the case" : "Next suspicious line"}
               <span aria-hidden="true">→</span>
             </button>
@@ -296,10 +430,16 @@ export default function WhoSaidItGame({ mappedEpisodes }: { mappedEpisodes: numb
           <p className="wsi-score"><strong>{score}</strong><span>/ {WHO_SAID_IT_LENGTH}</span></p>
           <h1>{verdict.title}</h1>
           <p>{verdict.copy}</p>
-          <button className="primary-button dark" type="button" onClick={start}>
-            Draw ten new quotes
-            <span aria-hidden="true">↻</span>
-          </button>
+          <div className="wsi-result-actions">
+            <button className="primary-button dark" type="button" onClick={start}>
+              Draw ten new quotes
+              <span aria-hidden="true">↻</span>
+            </button>
+            <button className="secondary-button" type="button" onClick={shareScore}>
+              Share score
+            </button>
+            <span role="status" aria-live="polite">{shareStatus}</span>
+          </div>
         </div>
         <aside className="wsi-score-slip">
           <span>Official damage</span>
@@ -307,7 +447,37 @@ export default function WhoSaidItGame({ mappedEpisodes }: { mappedEpisodes: numb
           <p>{WHO_SAID_IT_LENGTH - score} false accusations</p>
           <div aria-hidden="true"><span style={{ width: `${score * 10}%` }} /></div>
           <small>Legally meaningless. Spiritually permanent.</small>
+          {stats.games > 0 && (
+            <dl className="wsi-lifetime-stats">
+              <div><dt>Games</dt><dd>{stats.games}</dd></div>
+              <div><dt>Personal best</dt><dd>{stats.best}/10</dd></div>
+              <div>
+                <dt>Lifetime accuracy</dt>
+                <dd>{Math.round((stats.totalCorrect / Math.max(stats.totalQuestions, 1)) * 100)}%</dd>
+              </div>
+            </dl>
+          )}
         </aside>
+      </section>
+
+      <section className="wsi-breakdown" aria-labelledby="wsi-breakdown-title">
+        <div className="section-heading compact-heading">
+          <p>Voice-by-voice</p>
+          <h2 id="wsi-breakdown-title">Where the accusations landed</h2>
+        </div>
+        <div className="wsi-breakdown-grid">
+          {hostBreakdown.map(({ host, correct, total }) => {
+            const profile = HOST_PROFILES[host];
+            return (
+              <article key={host} style={{ "--host-color": profile.color, "--host-pale": profile.pale } as React.CSSProperties}>
+                <HostBadge host={host} />
+                <strong>{correct}<span>/{total}</span></strong>
+                <p>{correct === total ? "No false charges" : `${total - correct} misidentified`}</p>
+                <div aria-hidden="true"><span style={{ width: `${total ? (correct / total) * 100 : 0}%` }} /></div>
+              </article>
+            );
+          })}
+        </div>
       </section>
 
       <section className="wsi-review" aria-labelledby="wsi-review-title">

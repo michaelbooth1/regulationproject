@@ -1,7 +1,7 @@
-import QuizApp from "./QuizApp";
+import WhoSaidItGame from "./WhoSaidItGame";
 import languageProfiles from "./data/host-language-profiles.json";
 
 
 export default function Home() {
-  return <QuizApp mappedEpisodes={languageProfiles.mappedEpisodes} />;
+  return <WhoSaidItGame mappedEpisodes={languageProfiles.mappedEpisodes} />;
 }

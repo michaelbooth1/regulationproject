@@ -162,12 +162,12 @@ def validate_curated_bank() -> None:
     }
     errors: list[str] = []
 
-    if len(bank) != 30:
-        errors.append(f"Expected 30 curated quotes, found {len(bank)}")
+    if len(bank) != 60:
+        errors.append(f"Expected 60 curated quotes, found {len(bank)}")
     if len({item["id"] for item in bank}) != len(bank):
         errors.append("Curated quote IDs are not unique")
     if len({item["episode"] for item in bank}) != len(bank):
-        errors.append("The curated bank should use 30 different episodes")
+        errors.append("The curated bank should use 60 different episodes")
 
     for item in bank:
         episode = int(item["episode"])
@@ -251,7 +251,7 @@ def main() -> None:
         ranked[host] = sorted(
             host_rows,
             key=lambda row: (-row["score"], row["episode"], row["start"]),
-        )[:250]
+        )[:1500]
 
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     with OUTPUT.open("w", encoding="utf-8") as handle:
@@ -283,7 +283,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--validate-only",
         action="store_true",
-        help="Validate the shipped 30-quote bank without regenerating candidates.",
+        help="Validate the shipped 60-quote bank without regenerating candidates.",
     )
     arguments = parser.parse_args()
     if arguments.validate_only:

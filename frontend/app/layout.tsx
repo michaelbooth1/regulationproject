@@ -3,9 +3,9 @@ import { headers } from "next/headers";
 import "./globals.css";
 
 
-const title = "Which Regulation Host Are You? | Regulation Quiz";
+const title = "Who Said It? | Regulation Games";
 const description =
-  "Ten absurd decisions reveal whether your conversational chaos sounds most like Geoff, Andrew, Gavin, or Eric.";
+  "Identify which Regulation host said ten funny, absurd lines from a curated 60-quote transcript archive.";
 
 export async function generateMetadata(): Promise<Metadata> {
   const requestHeaders = await headers();
@@ -29,10 +29,10 @@ export async function generateMetadata(): Promise<Metadata> {
       url: origin,
       images: [
         {
-          url: `${origin}/og.png`,
+          url: `${origin}/og-who-said-it.png`,
           width: 1536,
           height: 1024,
-          alt: "Which Regulation Host Are You? Ten bad decisions, one familiar voice.",
+          alt: "Regulation Who Said It? Ten real quotes and four possible hosts.",
         },
       ],
     },
@@ -40,7 +40,7 @@ export async function generateMetadata(): Promise<Metadata> {
       card: "summary_large_image",
       title,
       description,
-      images: [`${origin}/og.png`],
+      images: [`${origin}/og-who-said-it.png`],
     },
   };
 }

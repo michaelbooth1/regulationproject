@@ -46,11 +46,10 @@ export default function WhoSaidItBankBrowser({ mappedEpisodes }: { mappedEpisode
       <header className="quiz-topbar">
         <Link className="wordmark" href="/" aria-label="Regulation games home">
           <span className="wordmark-r">R</span>
-          <span>Regulation<br /><strong>Games</strong></span>
+          <span>Regulation<br /><strong>Who Said It</strong></span>
         </Link>
         <nav className="topbar-tools" aria-label="Game navigation">
-          <Link className="bank-link" href="/">Host quiz</Link>
-          <Link className="bank-link" href="/who-said-it">Play game</Link>
+          <Link className="bank-link" href="/">Play game</Link>
           <Link className="bank-link active" href="/who-said-it/bank" aria-current="page">Quote bank</Link>
           <div className="corpus-stamp"><span aria-hidden="true" />{mappedEpisodes} episodes digested</div>
         </nav>
@@ -68,7 +67,7 @@ export default function WhoSaidItBankBrowser({ mappedEpisodes }: { mappedEpisode
             quotable length, archive-specific language, absurd premises, and specificity.
             Every card includes its episode and timestamp.
           </p>
-          <Link className="secondary-button bank-home-link" href="/who-said-it">← Play without spoilers</Link>
+          <Link className="secondary-button bank-home-link" href="/">← Play without spoilers</Link>
         </div>
       </section>
 
@@ -84,17 +83,17 @@ export default function WhoSaidItBankBrowser({ mappedEpisodes }: { mappedEpisode
         </label>
         <div className="wsi-bank-filter-row">
           <div className="category-filters" aria-label="Filter by host">
-            <button type="button" className={host === "all" ? "active" : ""} onClick={() => setHost("all")}>All hosts</button>
+            <button type="button" aria-pressed={host === "all"} className={host === "all" ? "active" : ""} onClick={() => setHost("all")}>All hosts</button>
             {HOST_ORDER.map((hostId) => (
-              <button type="button" key={hostId} className={host === hostId ? "active" : ""} onClick={() => setHost(hostId)}>
-                {HOST_PROFILES[hostId].name}
+              <button type="button" aria-pressed={host === hostId} key={hostId} className={host === hostId ? "active" : ""} onClick={() => setHost(hostId)}>
+                {HOST_PROFILES[hostId].name} · 15
               </button>
             ))}
           </div>
           <div className="category-filters" aria-label="Filter by difficulty">
             {(["all", "easy", "medium", "hard"] as const).map((level) => (
-              <button type="button" key={level} className={difficulty === level ? "active" : ""} onClick={() => setDifficulty(level)}>
-                {level === "all" ? "Any difficulty" : level}
+              <button type="button" aria-pressed={difficulty === level} key={level} className={difficulty === level ? "active" : ""} onClick={() => setDifficulty(level)}>
+                {level === "all" ? "Any difficulty" : `${level} · 20`}
               </button>
             ))}
           </div>
@@ -138,7 +137,7 @@ export default function WhoSaidItBankBrowser({ mappedEpisodes }: { mappedEpisode
       </section>
 
       <footer className="quiz-footer bank-footer">
-        <p>{WHO_SAID_IT_BANK.length} quotes / 30 episodes / 4 fully mapped hosts.</p>
+        <p>{WHO_SAID_IT_BANK.length} quotes / 60 episodes / 4 fully mapped hosts.</p>
         <p>Transcript excerpts are lightly trimmed for readability.</p>
       </footer>
     </main>

@@ -1,14 +1,14 @@
 import type { Metadata } from "next";
-import QuestionBankBrowser from "../QuestionBankBrowser";
+import WhoSaidItBankBrowser from "../WhoSaidItBankBrowser";
 import languageProfiles from "../data/host-language-profiles.json";
 
 
 export const metadata: Metadata = {
-  title: "Question Bank | Regulation Quiz",
+  title: "Who Said It Quote Bank | Regulation Games",
   description:
-    "Browse every Regulation Quiz question and compare the Geoff, Andrew, Gavin, and Eric answers.",
+    "Browse the full Who Said It archive with host attribution, episode sources, timestamps, and context.",
 };
 
 export default function QuestionsPage() {
-  return <QuestionBankBrowser mappedEpisodes={languageProfiles.mappedEpisodes} />;
+  return <WhoSaidItBankBrowser mappedEpisodes={languageProfiles.mappedEpisodes} />;
 }
