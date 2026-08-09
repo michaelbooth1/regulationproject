@@ -22,6 +22,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 TRANSCRIPTS = ROOT / "data" / "transcripts"
 SPEAKER_MAP = ROOT / "data" / "speaker_map.json"
+SPEAKER_NAMES = ROOT / "data" / "speaker_names.json"
 OUTPUT = ROOT / "data" / "analysis" / "who-said-it-candidates.json"
 CURATED_BANK = ROOT / "frontend" / "app" / "data" / "who-said-it-bank.json"
 
@@ -92,6 +93,117 @@ def forbidden(text: str) -> bool:
     return any(phrase in lowered for phrase in PROMO_PHRASES | BOILERPLATE_PHRASES)
 
 
+def transcript_index() -> dict[int, dict]:
+    return {
+        int(transcript["index"]): transcript
+        for path in TRANSCRIPTS.glob("*.json")
+        for transcript in [read_json(path)]
+    }
+
+
+def named_speaker(global_id: str | None, speaker_names: dict) -> str | None:
+    name = clean(speaker_names.get(global_id or "", {}).get("name", ""))
+    if not name or name.lower() == "ad":
+        return None
+    return name
+
+
+def find_segment_index(segments: list[dict], timestamp: float) -> tuple[int, float]:
+    index = min(
+        range(len(segments)),
+        key=lambda position: abs(float(segments[position].get("start") or 0) - timestamp),
+    )
+    distance = abs(float(segments[index].get("start") or 0) - timestamp)
+    return index, distance
+
+
+def build_lead_in(
+    item: dict,
+    transcript: dict,
+    assignments: dict[str, str],
+    speaker_names: dict,
+) -> list[dict]:
+    """Return three nearby, named transcript turns immediately before a quote."""
+    segments = transcript.get("segments", [])
+    target_time = float(item["startSec"])
+    target_index, distance = find_segment_index(segments, target_time)
+    if distance > 0.15:
+        raise ValueError(f"no transcript segment begins near {target_time:.2f}s")
+
+    # Whisper often splits a single thought into several short segments. Join
+    # adjacent segments from the same mapped speaker into readable transcript
+    # lines, while capping each line so the reveal stays quick to scan.
+    lines: list[dict] = []
+    last_index = -2
+    last_end = -1.0
+    for index in range(max(0, target_index - 72), target_index):
+        segment = segments[index]
+        start = float(segment.get("start") or 0)
+        if target_time - start > 150:
+            continue
+        text = clean(segment.get("text", ""))
+        speaker = named_speaker(assignments.get(segment.get("speaker")), speaker_names)
+        if not text or not speaker or forbidden(text):
+            last_index = -2
+            last_end = -1.0
+            continue
+
+        can_join = (
+            lines
+            and lines[-1]["speaker"] == speaker
+            and index == last_index + 1
+            and start - last_end <= 2.5
+            and len(lines[-1]["text"]) + len(text) + 1 <= 240
+        )
+        if can_join:
+            lines[-1]["text"] += " " + text
+        else:
+            lines.append({
+                "speaker": speaker,
+                "text": text,
+                "startSec": round(start, 2),
+            })
+        last_index = index
+        last_end = float(segment.get("end") or start)
+
+    meaningful = [line for line in lines if len(words(line["text"])) >= 3]
+    lead_in = meaningful[-3:]
+    if len(lead_in) < 3:
+        lead_in = lines[-3:]
+    if len(lead_in) < 3:
+        raise ValueError("fewer than three usable named lines precede this quote")
+    return lead_in
+
+
+def write_lead_ins() -> None:
+    """Enrich the curated bank with source-backed context for answer reveals."""
+    bank = read_json(CURATED_BANK)
+    episode_map = read_json(SPEAKER_MAP)["episodes"]
+    speaker_names = read_json(SPEAKER_NAMES)
+    transcripts = transcript_index()
+    errors: list[str] = []
+
+    for item in bank:
+        episode = int(item["episode"])
+        try:
+            item["leadIn"] = build_lead_in(
+                item,
+                transcripts[episode],
+                episode_map.get(str(episode), {}),
+                speaker_names,
+            )
+        except (KeyError, ValueError) as error:
+            errors.append(f"{item['id']}: {error}")
+
+    if errors:
+        raise SystemExit("Lead-in enrichment failed:\n- " + "\n- ".join(errors))
+    with CURATED_BANK.open("w", encoding="utf-8", newline="\n") as handle:
+        json.dump(bank, handle, indent=2, ensure_ascii=False)
+        handle.write("\n")
+    print(f"Wrote three transcript lead-in lines for {len(bank)} curated quotes")
+    validate_curated_bank()
+
+
 def score_quote(text: str, title: str, word_counts: Counter) -> tuple[float, list[str]]:
     lowered = text.lower()
     tokens = words(text)
@@ -155,11 +267,8 @@ def validate_curated_bank() -> None:
     """Verify every shipped quote points at a segment mapped to its named host."""
     bank = read_json(CURATED_BANK)
     episode_map = read_json(SPEAKER_MAP)["episodes"]
-    transcripts = {
-        int(transcript["index"]): transcript
-        for path in TRANSCRIPTS.glob("*.json")
-        for transcript in [read_json(path)]
-    }
+    speaker_names = read_json(SPEAKER_NAMES)
+    transcripts = transcript_index()
     errors: list[str] = []
 
     if len(bank) != 60:
@@ -180,11 +289,8 @@ def validate_curated_bank() -> None:
             errors.append(f"{item['id']}: episode {episode} has no segments")
             continue
         timestamp = float(item["startSec"])
-        segment = min(
-            segments,
-            key=lambda row: abs(float(row.get("start") or 0) - timestamp),
-        )
-        distance = abs(float(segment.get("start") or 0) - timestamp)
+        segment_index, distance = find_segment_index(segments, timestamp)
+        segment = segments[segment_index]
         if distance > 0.15:
             errors.append(
                 f"{item['id']}: no segment begins near {timestamp:.2f}s "
@@ -197,6 +303,23 @@ def validate_curated_bank() -> None:
             errors.append(
                 f"{item['id']}: maps to {mapped_id or 'nothing'}, expected {expected_id}"
             )
+
+        lead_in = item.get("leadIn")
+        if not isinstance(lead_in, list) or len(lead_in) != 3:
+            errors.append(f"{item['id']}: expected exactly three transcript lead-in lines")
+            continue
+        try:
+            expected_lead_in = build_lead_in(
+                item,
+                transcript,
+                episode_map.get(str(episode), {}),
+                speaker_names,
+            )
+        except ValueError as error:
+            errors.append(f"{item['id']}: could not rebuild lead-in: {error}")
+            continue
+        if lead_in != expected_lead_in:
+            errors.append(f"{item['id']}: lead-in does not match its mapped transcript window")
 
     if errors:
         raise SystemExit("Curated bank validation failed:\n- " + "\n- ".join(errors))
@@ -285,8 +408,15 @@ if __name__ == "__main__":
         action="store_true",
         help="Validate the shipped 60-quote bank without regenerating candidates.",
     )
+    parser.add_argument(
+        "--write-lead-ins",
+        action="store_true",
+        help="Write three verified, speaker-attributed lines before every curated quote.",
+    )
     arguments = parser.parse_args()
-    if arguments.validate_only:
+    if arguments.write_lead_ins:
+        write_lead_ins()
+    elif arguments.validate_only:
         validate_curated_bank()
     else:
         main()

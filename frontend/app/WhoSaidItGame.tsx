@@ -152,6 +152,11 @@ function HostBadge({ host }: { host: HostId }) {
   );
 }
 
+function transcriptSpeakerColor(speaker: string) {
+  const host = HOST_ORDER.find((hostId) => HOST_PROFILES[hostId].name === speaker);
+  return host ? HOST_PROFILES[host].color : "#c8c2b7";
+}
+
 export default function WhoSaidItGame({ mappedEpisodes }: { mappedEpisodes: number }) {
   const [stage, setStage] = useState<Stage>("intro");
   const [round, setRound] = useState<WhoSaidItQuote[]>([]);
@@ -396,15 +401,37 @@ export default function WhoSaidItGame({ mappedEpisodes }: { mappedEpisodes: numb
               role="status"
               aria-live="polite"
             >
-              <div className="wsi-reveal-verdict">
-                <span>{selectedWasCorrect ? "Correct" : "Absolutely not"}</span>
-                <strong>It was {correctProfile.name}.</strong>
+              <div className="wsi-transcript-lead">
+                <div className="wsi-transcript-heading">
+                  <span>Transcript lead-in / names restored</span>
+                  <small>
+                    {formatTime(current.leadIn[0].startSec)} → {formatTime(current.startSec)}
+                  </small>
+                </div>
+                <ol aria-label="Conversation immediately before the mystery quote">
+                  {current.leadIn.map((line) => (
+                    <li
+                      key={`${line.startSec}-${line.speaker}`}
+                      style={{ "--speaker-color": transcriptSpeakerColor(line.speaker) } as React.CSSProperties}
+                    >
+                      <strong>{line.speaker}</strong>
+                      <p>{line.text}</p>
+                    </li>
+                  ))}
+                </ol>
               </div>
-              <div className="wsi-reveal-context">
-                <p>{current.context}</p>
-                <small>
-                  Episode {current.episode} · {current.title} · {current.published} · {formatTime(current.startSec)}
-                </small>
+              <div className="wsi-reveal-answer">
+                <div className="wsi-reveal-verdict">
+                  <span>{selectedWasCorrect ? "Correct" : "Absolutely not"}</span>
+                  <strong>It was {correctProfile.name}.</strong>
+                </div>
+                <div className="wsi-reveal-context">
+                  <span>Case note</span>
+                  <p>{current.context}</p>
+                  <small>
+                    Episode {current.episode} · {current.title} · {current.published} · {formatTime(current.startSec)}
+                  </small>
+                </div>
               </div>
             </aside>
           )}

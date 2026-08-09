@@ -15,6 +15,11 @@ export type WhoSaidItQuote = {
   difficulty: QuoteDifficulty;
   topic: string;
   context: string;
+  leadIn: Array<{
+    speaker: string;
+    text: string;
+    startSec: number;
+  }>;
 };
 
 export const WHO_SAID_IT_BANK = rawBank as WhoSaidItQuote[];

@@ -111,6 +111,10 @@ test("keeps the game balanced, varied, and transcript-grounded", async () => {
     { easy: 20, medium: 20, hard: 20 },
   );
   assert.ok(quoteBank.every((item) => item.startSec >= 0 && item.context && item.title));
+  assert.ok(quoteBank.every((item) => (
+    item.leadIn.length === 3
+    && item.leadIn.every((line) => line.speaker && line.text && line.startSec < item.startSec)
+  )));
 
   assert.match(whoSource, /WHO_SAID_IT_LENGTH/);
   assert.match(whoSource, /ROUND_DIFFICULTY_TARGETS/);
@@ -120,6 +124,8 @@ test("keeps the game balanced, varied, and transcript-grounded", async () => {
   assert.match(whoSource, /navigator\.share/);
   assert.match(whoSource, /handleShortcut/);
   assert.match(whoSource, /Where the accusations landed/);
+  assert.match(whoSource, /Transcript lead-in \/ names restored/);
+  assert.match(whoSource, /Conversation immediately before the mystery quote/);
   assert.match(bankBrowserSource, /aria-pressed/);
   assert.match(design, /20 easy, 20 medium, and 20 hard/i);
   assert.match(layoutSource, /og-who-said-it\.png/);

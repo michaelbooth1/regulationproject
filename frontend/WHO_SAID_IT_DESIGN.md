@@ -6,8 +6,9 @@
 - Every run guarantees at least two quotes from Geoff, Andrew, Gavin, and Eric.
 - Every run contains three easy, four medium, and three hard quotes.
 - A replay avoids all ten quotes from the immediately previous game.
-- A choice locks immediately. The game reveals the correct host, episode, date,
-  transcript timestamp, and a short context note before continuing.
+- A choice locks immediately. The game first reveals three mapped transcript
+  turns leading into the quote, then the correct host, episode, date, timestamp,
+  and a short editorial context note before continuing.
 - Host choices stay in a consistent order and support the 1–4 keyboard shortcuts.
 - The result screen includes the score, share action, device-local history,
   host-by-host accuracy, and the full accusation/reveal record.
@@ -28,6 +29,11 @@ obvious ad reads and show boilerplate. It ranks 7–34-word segments using:
 The score is only a discovery aid. Every shipped quote was manually checked in
 its surrounding transcript, rejected if it was a fragment or attribution looked
 unclear, and lightly trimmed only for readability.
+
+`--write-lead-ins` rebuilds the three-line reveal context for every quote from
+its preceding transcript window. It joins adjacent diarization fragments from
+the same named speaker, rejects ads and unnamed voices, and validation confirms
+that every shipped excerpt still matches its episode's speaker map.
 
 ## Bank balance
 

@@ -9,7 +9,24 @@
     "startSec": 226.5,
     "difficulty": "medium",
     "topic": "Nutrition, technically",
-    "context": "Geoff was explaining the food skill set he discovered after moving out on his own. It was mostly yellow and frozen."
+    "context": "Geoff was explaining the food skill set he discovered after moving out on his own. It was mostly yellow and frozen.",
+    "leadIn": [
+      {
+        "speaker": "Geoff",
+        "text": "Mine is easily black olives. I thought I could eat a thousand black olives in one minute, and I can't. Are you serious? Yeah, you hit a black olive limit a lot quicker than you think.",
+        "startSec": 204.68
+      },
+      {
+        "speaker": "Andrew",
+        "text": "You just fucking twisted me, because you told me banana popsicles at the time. I did not see that coming at all. That was a massive twist.",
+        "startSec": 214.86
+      },
+      {
+        "speaker": "Geoff",
+        "text": "Oh! Olives? But black olives, well, banana popsicles, I have succeeded in eating.",
+        "startSec": 221.84
+      }
+    ]
   },
   {
     "id": "geoff-sock-forensics",
@@ -21,7 +38,24 @@
     "startSec": 292.8,
     "difficulty": "hard",
     "topic": "Sock forensics",
-    "context": "A completely routine act of getting dressed had produced enough evidence to require a timeline."
+    "context": "A completely routine act of getting dressed had produced enough evidence to require a timeline.",
+    "leadIn": [
+      {
+        "speaker": "Geoff",
+        "text": "in and then try to explain it. You struggling to get it in?",
+        "startSec": 277.16
+      },
+      {
+        "speaker": "Gavin",
+        "text": "Nothing takes longer on this podcast than waiting for it. No.",
+        "startSec": 282.14
+      },
+      {
+        "speaker": "Geoff",
+        "text": "Oh. Than emailing a photo to yourself and then posting it. What do you have there, Gavin? And for the audience, we'll post this at some point.",
+        "startSec": 284.66
+      }
+    ]
   },
   {
     "id": "geoff-twelve-foot-toilet",
@@ -33,7 +67,24 @@
     "startSec": 3448.29,
     "difficulty": "hard",
     "topic": "Oversized plumbing",
-    "context": "The conversation had become a barter system involving Canadian food and a bathroom fixture the size of a room."
+    "context": "The conversation had become a barter system involving Canadian food and a bathroom fixture the size of a room.",
+    "leadIn": [
+      {
+        "speaker": "Gavin",
+        "text": "British food to make you eat, because I'm enjoying it.",
+        "startSec": 3438.47
+      },
+      {
+        "speaker": "Andrew",
+        "text": "I feel like we need to flip this. I feel like I need to come up with a thing for you two to try. I'm the guinea pig.",
+        "startSec": 3440.63
+      },
+      {
+        "speaker": "Gavin",
+        "text": "Yeah, send me a box of poutine or something.",
+        "startSec": 3445.73
+      }
+    ]
   },
   {
     "id": "geoff-global-flush",
@@ -45,7 +96,24 @@
     "startSec": 1158.13,
     "difficulty": "easy",
     "topic": "Global infrastructure",
-    "context": "This became a proposed worldwide event Geoff immediately named a “global shit-in.”"
+    "context": "This became a proposed worldwide event Geoff immediately named a “global shit-in.”",
+    "leadIn": [
+      {
+        "speaker": "Geoff",
+        "text": "Let me ask you guys a question. Okay. When I was in Mexico, on the island, there's a rule in Mexico. It's in every toilet on the island. They said, please don't flush toilet paper. It's flush as little toilet paper as possible.",
+        "startSec": 1124.81
+      },
+      {
+        "speaker": "Geoff",
+        "text": "It's an island, and the plumbing isn't great. And so they want you to throw it in a waste bin. And that got me thinking, what if every person on the island flushed toilet paper at the exact same time? Would it blow up?",
+        "startSec": 1138.45
+      },
+      {
+        "speaker": "Gavin",
+        "text": "I think all the pressure would funnel to one toilet somewhere.",
+        "startSec": 1154.21
+      }
+    ]
   },
   {
     "id": "geoff-gentle-ghost",
@@ -57,7 +125,24 @@
     "startSec": 3588.93,
     "difficulty": "medium",
     "topic": "Paranormal ankle care",
-    "context": "The alleged ghost had returned to the same spot where a previous supernatural encounter caused an injury."
+    "context": "The alleged ghost had returned to the same spot where a previous supernatural encounter caused an injury.",
+    "leadIn": [
+      {
+        "speaker": "Geoff",
+        "text": "That was interesting. I learned that you can get nitrous, like the gas. That makes it go a lot faster and a lot easier. And so that helped. But yeah, my mouth is fine. I got to go back in six months.",
+        "startSec": 3561.93
+      },
+      {
+        "speaker": "Geoff",
+        "text": "The guy said that if I have any pain or discomfort to let him know and he will pull it and then we will burn it or shoot it in his face. But there's no saving it at this point. Like this is it. It's his last chance. This is it.",
+        "startSec": 3574.73
+      },
+      {
+        "speaker": "Geoff",
+        "text": "It's on probation. I got tooth probation on this guy.",
+        "startSec": 3586.09
+      }
+    ]
   },
   {
     "id": "geoff-bovril-empire",
@@ -69,7 +154,24 @@
     "startSec": 122.97,
     "difficulty": "hard",
     "topic": "Beef geopolitics",
-    "context": "An unsolicited Bovril history lesson briefly transformed the show into a documentary about concentrated meat power."
+    "context": "An unsolicited Bovril history lesson briefly transformed the show into a documentary about concentrated meat power.",
+    "leadIn": [
+      {
+        "speaker": "Geoff",
+        "text": "Yeah, like what are the global Bovril sales for 2021? I'm going to Google that real fast. You guys talk. I'm going to Google that. Global Bovril sales for 2021.",
+        "startSec": 93.31
+      },
+      {
+        "speaker": "Andrew",
+        "text": "Higher or lower than salad cream, do you think, Gavin? Oh, lower. Lower, not as popular. Okay.",
+        "startSec": 110.31
+      },
+      {
+        "speaker": "Geoff",
+        "text": "I have no point of reference for these things, so it's interesting to hear. Jesus Christ. Notice what Google returned.",
+        "startSec": 116.67
+      }
+    ]
   },
   {
     "id": "geoff-sleeping-pill-horse",
@@ -81,7 +183,24 @@
     "startSec": 1746.84,
     "difficulty": "medium",
     "topic": "Equine ethics",
-    "context": "The group was pricing increasingly bleak horse-related moral choices and Geoff offered a gentler technicality."
+    "context": "The group was pricing increasingly bleak horse-related moral choices and Geoff offered a gentler technicality.",
+    "leadIn": [
+      {
+        "speaker": "Geoff",
+        "text": "against the forehead. What if it's a goo-less death? Like, what if to kill the animal, you just have to put, like, a trash bag around its head? What animal are we talking about now? Horse.",
+        "startSec": 1717.56
+      },
+      {
+        "speaker": "Gavin",
+        "text": "I'm not going to suffocate a horse. Would you rather shoot it? No, it would take forever. It would take way longer than 80 seconds for a start. And it would be kicking me all around. Yeah, so it's more of a logistics thing with you.",
+        "startSec": 1729.16
+      },
+      {
+        "speaker": "Gavin",
+        "text": "It's going to be quick and painless for the animal if I'm doing it.",
+        "startSec": 1742.94
+      }
+    ]
   },
   {
     "id": "geoff-poop-two-chairs",
@@ -93,7 +212,24 @@
     "startSec": 2242.2,
     "difficulty": "easy",
     "topic": "Mobile catastrophe",
-    "context": "This was the inventory at the end of a bathroom story with a surprisingly large blast radius."
+    "context": "This was the inventory at the end of a bathroom story with a surprisingly large blast radius.",
+    "leadIn": [
+      {
+        "speaker": "Geoff",
+        "text": "No, I don't. But I see what you're saying. It's definitely in the area. But I mean, with folded toilet paper, it's between you and the poop.",
+        "startSec": 2221.16
+      },
+      {
+        "speaker": "Eric",
+        "text": "Like, he's got it all over the ring. I don't trust this at all.",
+        "startSec": 2229.62
+      },
+      {
+        "speaker": "Geoff",
+        "text": "Because my knuckles are out sometimes. I can't think of the last time I got poop on my hands in that way.",
+        "startSec": 2232.54
+      }
+    ]
   },
   {
     "id": "andrew-pepsi-hotline",
@@ -105,7 +241,24 @@
     "startSec": 1316.13,
     "difficulty": "easy",
     "topic": "Corporate riddles",
-    "context": "Andrew was conducting a mysterious phone-number experiment whose main result was confusing Pepsi employees."
+    "context": "Andrew was conducting a mysterious phone-number experiment whose main result was confusing Pepsi employees.",
+    "leadIn": [
+      {
+        "speaker": "Andrew",
+        "text": "The people on Twitter don't necessarily want to be messed with. So I put the Twitter conversations on hold and I focused purely on this discord. And I just posted a link in the discord, no context.",
+        "startSec": 1287.53
+      },
+      {
+        "speaker": "Andrew",
+        "text": "About, I don't know, 20 or so people joined into it. And then it just slowly progressed. So the first stage was I posted the 1-800 number for Dr. Pepper because I had a bottle on my desk. No reason, no explanation. Just posted it.",
+        "startSec": 1298.47
+      },
+      {
+        "speaker": "Andrew",
+        "text": "They called it and then I deleted it to make it seem sort of suspicious.",
+        "startSec": 1312.85
+      }
+    ]
   },
   {
     "id": "andrew-ham-currency",
@@ -117,7 +270,24 @@
     "startSec": 2801.88,
     "difficulty": "medium",
     "topic": "Meat finance",
-    "context": "A beef bracelet startup had reached the inevitable stage where it needed its own ham-backed economy."
+    "context": "A beef bracelet startup had reached the inevitable stage where it needed its own ham-backed economy.",
+    "leadIn": [
+      {
+        "speaker": "Geoff",
+        "text": "I'm going to try really hard not to fall or off of anything or run into anything or electrocute myself or trip or hurt myself in any way for a while going forward.",
+        "startSec": 2781.6
+      },
+      {
+        "speaker": "Geoff",
+        "text": "And so I had to come up with something in some other in some arena that didn't involve me getting an owie. And this is the best I could do.",
+        "startSec": 2793.84
+      },
+      {
+        "speaker": "Andrew",
+        "text": "It's I'm a full supporter of this.",
+        "startSec": 2799.88
+      }
+    ]
   },
   {
     "id": "andrew-seventy-five-sauces",
@@ -129,7 +299,24 @@
     "startSec": 1047.22,
     "difficulty": "easy",
     "topic": "Condiment investing",
-    "context": "No nuggets accompanied the order. The sauces were the asset."
+    "context": "No nuggets accompanied the order. The sauces were the asset.",
+    "leadIn": [
+      {
+        "speaker": "Andrew",
+        "text": "You only get two sauces per thing. I love sauce. I'm a big sauce guy. So then I thought, well, on the app, I've been told apparently in the past, you cannot just buy sauces.",
+        "startSec": 1019.86
+      },
+      {
+        "speaker": "Andrew",
+        "text": "Typically, when it's a specialty sauce, you need to order the meal it comes with. But on the app, on DoorDash, you could, there's a sauce section. I'm sure it's for every delivery app.",
+        "startSec": 1028.78
+      },
+      {
+        "speaker": "Andrew",
+        "text": "There is a condiment section, and they had the nugget sauce in the condiment section. So I did what any reasonable person would do.",
+        "startSec": 1037.3
+      }
+    ]
   },
   {
     "id": "andrew-horse-egg",
@@ -141,7 +328,24 @@
     "startSec": 2245.26,
     "difficulty": "medium",
     "topic": "Horse mechanics",
-    "context": "The group was comparing the practical difficulty of repairing a horse with repairing a cannon."
+    "context": "The group was comparing the practical difficulty of repairing a horse with repairing a cannon.",
+    "leadIn": [
+      {
+        "speaker": "Gavin",
+        "text": "Well, no, it's more unreasonable to fix an egg because a horse could do a lot more damage to a broken egg than a broken cannon.",
+        "startSec": 2236.64
+      },
+      {
+        "speaker": "Andrew",
+        "text": "Yeah, but I feel like-",
+        "startSec": 2243.22
+      },
+      {
+        "speaker": "Gavin",
+        "text": "A horse is just going to make it work.",
+        "startSec": 2244.0
+      }
+    ]
   },
   {
     "id": "andrew-swan-dna",
@@ -153,7 +357,24 @@
     "startSec": 1997.53,
     "difficulty": "easy",
     "topic": "Wildlife genealogy",
-    "context": "Geoff had been attacked by a swan, and Andrew wanted both answers and legally actionable ancestry."
+    "context": "Geoff had been attacked by a swan, and Andrew wanted both answers and legally actionable ancestry.",
+    "leadIn": [
+      {
+        "speaker": "Eric",
+        "text": "At least 30 pounds. Swans are like 30 pounds max.",
+        "startSec": 1975.99
+      },
+      {
+        "speaker": "Geoff",
+        "text": "It was massive. Like 300? What the fuck? It was a, when there's a swan on you in the water, dude, you're not a water guy. You're a water adjacent guy. It would be way worse for you. It was a swan that's like 10 times denser than others.",
+        "startSec": 1980.23
+      },
+      {
+        "speaker": "Geoff",
+        "text": "A swan seemed like a grizzly bear when it was on my back, biting me.",
+        "startSec": 1993.47
+      }
+    ]
   },
   {
     "id": "andrew-egg-measurement",
@@ -165,7 +386,24 @@
     "startSec": 74.16,
     "difficulty": "hard",
     "topic": "Egg ranking",
-    "context": "A discussion of relative podcast popularity had already abandoned normal units of measurement."
+    "context": "A discussion of relative podcast popularity had already abandoned normal units of measurement.",
+    "leadIn": [
+      {
+        "speaker": "Gavin",
+        "text": "All right. Well, I heard the popularity part after I realized I wasn't paying attention to the order of the names.",
+        "startSec": 44.9
+      },
+      {
+        "speaker": "Andrew",
+        "text": "It was you than me. It was just him stating the guy with a huge slow motion YouTube channel on the side is bigger than the piss boy Vancouver child kicker.",
+        "startSec": 49.64
+      },
+      {
+        "speaker": "Andrew",
+        "text": "Who would predict? More popular in every metric. Geoff said that as a dig. It's just a fact. But on this podcast, you're the most popular. I don't think that's true.",
+        "startSec": 62.76
+      }
+    ]
   },
   {
     "id": "andrew-potatoast",
@@ -177,7 +415,24 @@
     "startSec": 2584.98,
     "difficulty": "medium",
     "topic": "Potato architecture",
-    "context": "The goal was potato on potato: a sandwich freed from the burden of containing a second ingredient."
+    "context": "The goal was potato on potato: a sandwich freed from the burden of containing a second ingredient.",
+    "leadIn": [
+      {
+        "speaker": "Andrew",
+        "text": "Of course you could.",
+        "startSec": 2572.04
+      },
+      {
+        "speaker": "Gavin",
+        "text": "You could also, you just want to have a lot of mash. You want me to spread a baked potato?",
+        "startSec": 2573.02
+      },
+      {
+        "speaker": "Geoff",
+        "text": "It's so fucking good. Mmm.",
+        "startSec": 2582.62
+      }
+    ]
   },
   {
     "id": "andrew-ostrich-sandwich",
@@ -189,7 +444,24 @@
     "startSec": 2921.71,
     "difficulty": "hard",
     "topic": "Large-format breakfast",
-    "context": "This was explicitly being considered for content, not as an off-camera lifestyle choice."
+    "context": "This was explicitly being considered for content, not as an off-camera lifestyle choice.",
+    "leadIn": [
+      {
+        "speaker": "Gavin",
+        "text": "A sandwich with a fried ostrich egg in the middle instead of two chicken eggs.",
+        "startSec": 2911.65
+      },
+      {
+        "speaker": "Andrew",
+        "text": "Oh my God.",
+        "startSec": 2914.79
+      },
+      {
+        "speaker": "Geoff",
+        "text": "For content, not, not outside of, not outside of a camera.",
+        "startSec": 2917.33
+      }
+    ]
   },
   {
     "id": "gavin-bed-toilet",
@@ -201,7 +473,24 @@
     "startSec": 989.34,
     "difficulty": "medium",
     "topic": "Bedroom engineering",
-    "context": "Presented with a nocturnal bathroom problem, Gavin naturally supplied both a crude option and a needlessly mechanical one."
+    "context": "Presented with a nocturnal bathroom problem, Gavin naturally supplied both a crude option and a needlessly mechanical one.",
+    "leadIn": [
+      {
+        "speaker": "Geoff",
+        "text": "There's no fun without a little risk. That is fair. There does need to be risk. Anyway, Andrew, I'm looking forward to you aging because I'm excited to see the dumb shit you do to confront it. Oh, the dog found his squeaky toy. Excellent.",
+        "startSec": 956.92
+      },
+      {
+        "speaker": "Geoff",
+        "text": "Hope you guys are ready. Buckle in for the next 30 seconds to four hours. Depending on how...",
+        "startSec": 975.64
+      },
+      {
+        "speaker": "Gavin",
+        "text": "So do you think you would lean towards a urinal in the room,",
+        "startSec": 982.18
+      }
+    ]
   },
   {
     "id": "gavin-puffer-fish",
@@ -213,7 +502,24 @@
     "startSec": 918.16,
     "difficulty": "medium",
     "topic": "Aerial marine biology",
-    "context": "The unresolved physics question involved a bird, a puffer fish, and an unfortunate human target below."
+    "context": "The unresolved physics question involved a bird, a puffer fish, and an unfortunate human target below.",
+    "leadIn": [
+      {
+        "speaker": "Andrew",
+        "text": "I just like the idea of Eric. Like he said, swordfish and ass, pulling her out like you're a bee and just poking all the guys on the crab thing, sending them into the water. That's funny.",
+        "startSec": 896.8
+      },
+      {
+        "speaker": "Geoff",
+        "text": "I, uh, I got to point out. Nick said puffer fish in the chat. And I think that's pretty fucking funny too.",
+        "startSec": 908.22
+      },
+      {
+        "speaker": "Andrew",
+        "text": "Especially if it goes in unpuffed and then puffs your butt out.",
+        "startSec": 915.02
+      }
+    ]
   },
   {
     "id": "gavin-fruit-bagel",
@@ -225,7 +531,24 @@
     "startSec": 1352.48,
     "difficulty": "hard",
     "topic": "Bagel jurisprudence",
-    "context": "A debate about whether the hole or the topping makes the bagel produced this wet legal test."
+    "context": "A debate about whether the hole or the topping makes the bagel produced this wet legal test.",
+    "leadIn": [
+      {
+        "speaker": "Andrew",
+        "text": "Well, I wouldn't say that, but yeah, I like a plain, I'm a pretty plain bagel guy. So I don't think that my bagel preferences would sway you in any way.",
+        "startSec": 1321.76
+      },
+      {
+        "speaker": "Andrew",
+        "text": "But I do think you need to figure out what exactly you think is the ideal spread or topping on a bagel because it might not just be the bagel. It might be you. You just don't, you haven't found that match yet.",
+        "startSec": 1337.18
+      },
+      {
+        "speaker": "Andrew",
+        "text": "The pair between the bagel itself and what is on it.",
+        "startSec": 1348.88
+      }
+    ]
   },
   {
     "id": "gavin-ham-inside-pig",
@@ -237,7 +560,24 @@
     "startSec": 2635.82,
     "difficulty": "hard",
     "topic": "Internal ham",
-    "context": "The group had reached the anatomical revelation that ham is located in the pig's rear end."
+    "context": "The group had reached the anatomical revelation that ham is located in the pig's rear end.",
+    "leadIn": [
+      {
+        "speaker": "Geoff",
+        "text": "Well, it's like a cheek and a leg. Yeah.",
+        "startSec": 2621.62
+      },
+      {
+        "speaker": "Eric",
+        "text": "Yeah. It's just, it's the hawk, right? It's like the, yeah, the hawk's down there. The trot, the foot's called the trotter. That's fun.",
+        "startSec": 2625.1
+      },
+      {
+        "speaker": "Eric",
+        "text": "But yeah, the ham is just like the, yeah, it's the ass.",
+        "startSec": 2632.74
+      }
+    ]
   },
   {
     "id": "gavin-roast-one-fork",
@@ -249,7 +589,24 @@
     "startSec": 329.32,
     "difficulty": "hard",
     "topic": "Fork optimization",
-    "context": "Gavin was designing a single bite capable of carrying an entire roast dinner without paperwork."
+    "context": "Gavin was designing a single bite capable of carrying an entire roast dinner without paperwork.",
+    "leadIn": [
+      {
+        "speaker": "Gavin",
+        "text": "And it could be any type of food, like not dessert or anything? It could be any type of food.",
+        "startSec": 302.22
+      },
+      {
+        "speaker": "Andrew",
+        "text": "Okay, I'm walking, I'm going down the street, I see, oh, this is a new food cart. Oh, wow. When did they open up this paella stand? It's crazy.",
+        "startSec": 304.66
+      },
+      {
+        "speaker": "Gavin",
+        "text": "Yeah, there'd be a little bowl of that. There'd probably be some sort of salmon benedict, like for the breakfast bite. Okay. And then maybe some sort of entire roast beef meal.",
+        "startSec": 313.54
+      }
+    ]
   },
   {
     "id": "gavin-pizza-strip",
@@ -261,7 +618,24 @@
     "startSec": 1783.94,
     "difficulty": "medium",
     "topic": "Pizza geometry",
-    "context": "This immediately became a proposal to strip a pizza and measure the result."
+    "context": "This immediately became a proposal to strip a pizza and measure the result.",
+    "leadIn": [
+      {
+        "speaker": "Andrew",
+        "text": "Maybe it's three where Larry's head gets crushed by a salt lick. That's where my brain goes every time. Oh, God. Ever I think salt lick, I think of a salt lick getting drunk. No, the game. The telltale game. I don't remember that.",
+        "startSec": 1747.66
+      },
+      {
+        "speaker": "Andrew",
+        "text": "You don't remember that? In like a fridge, and one of them was like, ugh, having a heart attack, and they're like, we gotta help him, and then someone's like, he might die and turn into a zombie, so they just drop a salt lick on his head.",
+        "startSec": 1760.22
+      },
+      {
+        "speaker": "Gavin",
+        "text": "Oh, yeah, that kind of rings a bell, yeah. You know how when you peel, you can peel an orange in one go, in like one continuous strip? Yeah. Wouldn't it be cool if it was edible, like the bit you peel?",
+        "startSec": 1771.18
+      }
+    ]
   },
   {
     "id": "gavin-ankle-trousers",
@@ -273,7 +647,24 @@
     "startSec": 1464.34,
     "difficulty": "easy",
     "topic": "Trouser epidemiology",
-    "context": "The room immediately began controlling for activity level, because the pants-to-ankle correlation deserved rigor."
+    "context": "The room immediately began controlling for activity level, because the pants-to-ankle correlation deserved rigor.",
+    "leadIn": [
+      {
+        "speaker": "Andrew",
+        "text": "No matter what, it was like destiny was coming out in a month later, not a month, but it was like two weeks.",
+        "startSec": 1450.74
+      },
+      {
+        "speaker": "Geoff",
+        "text": "And you were probably still bent out of shape over that one day they made you wear pants for the inspection. Oh yeah.",
+        "startSec": 1455.34
+      },
+      {
+        "speaker": "Eric",
+        "text": "The word pants were a little, a hundred percent. Yeah.",
+        "startSec": 1460.38
+      }
+    ]
   },
   {
     "id": "eric-bean-hole-tent",
@@ -285,7 +676,24 @@
     "startSec": 1595.78,
     "difficulty": "medium",
     "topic": "Campsite risk",
-    "context": "A warning to choose the campsite carefully revealed the one sacred patch of ground nobody should cover."
+    "context": "A warning to choose the campsite carefully revealed the one sacred patch of ground nobody should cover.",
+    "leadIn": [
+      {
+        "speaker": "Eric",
+        "text": "You're down to sleep in a tent at the Bean Festival?",
+        "startSec": 1579.68
+      },
+      {
+        "speaker": "Andrew",
+        "text": "It's fucking win and roll, man.",
+        "startSec": 1583.9
+      },
+      {
+        "speaker": "Geoff",
+        "text": "All right. These are simple bean people living a beanie life. Myself and their world. Nick said, be careful where you pitch the tent.",
+        "startSec": 1586.7
+      }
+    ]
   },
   {
     "id": "eric-icy-hot-fastball",
@@ -297,7 +705,24 @@
     "startSec": 3344.64,
     "difficulty": "easy",
     "topic": "Performance enhancement",
-    "context": "A baseball-speed discussion discovered a training method rejected by both medicine and common sense."
+    "context": "A baseball-speed discussion discovered a training method rejected by both medicine and common sense.",
+    "leadIn": [
+      {
+        "speaker": "Geoff",
+        "text": "No, no, I understand that. I understand that. I'm just saying. I'm not saying the guy cheated. I'm saying there were clear benefits to using Icy Hot.",
+        "startSec": 3325.72
+      },
+      {
+        "speaker": "Eric",
+        "text": "Yeah, he's fine. And you can use Icy Hot. It is not a banned substance for a pitcher. So put it all over your dick and balls and go crazy.",
+        "startSec": 3332.58
+      },
+      {
+        "speaker": "Geoff",
+        "text": "Maybe if we Icy Hot our dick and balls, our jokes per minute will go above our average. That's what I'm saying.",
+        "startSec": 3339.36
+      }
+    ]
   },
   {
     "id": "eric-ham-tower",
@@ -309,7 +734,24 @@
     "startSec": 2760.48,
     "difficulty": "medium",
     "topic": "Ham radio, literally",
-    "context": "A discussion of radio range had become a misunderstanding in which the antenna was made entirely of lunch meat."
+    "context": "A discussion of radio range had become a misunderstanding in which the antenna was made entirely of lunch meat.",
+    "leadIn": [
+      {
+        "speaker": "Eric",
+        "text": "Yeah. I believe that.",
+        "startSec": 2751.16
+      },
+      {
+        "speaker": "Geoff",
+        "text": "I don't believe that at all. Unlimited distance, unlimited use nationwide. I think it's just a phone.",
+        "startSec": 2752.28
+      },
+      {
+        "speaker": "Eric",
+        "text": "I have a 50 foot ham.",
+        "startSec": 2757.7
+      }
+    ]
   },
   {
     "id": "eric-wide-angle-head",
@@ -321,7 +763,24 @@
     "startSec": 1732.96,
     "difficulty": "easy",
     "topic": "Optical research",
-    "context": "The offer was declined immediately, proving the podcast still had one functioning safety rail."
+    "context": "The offer was declined immediately, proving the podcast still had one functioning safety rail.",
+    "leadIn": [
+      {
+        "speaker": "Eric",
+        "text": "I just think it's crazy. It's like what you're talking about is like, you're like a step away from like how a dog piss is. I could. You're doing like a bathroom dog piss, dude.",
+        "startSec": 1712.96
+      },
+      {
+        "speaker": "Gavin",
+        "text": "What if I put a GoPro on my chest, filming forwards, and I constantly film my hands the entire time. And I show you the entire process.",
+        "startSec": 1723.26
+      },
+      {
+        "speaker": "Eric",
+        "text": "Hey man. No thank you.",
+        "startSec": 1730.9
+      }
+    ]
   },
   {
     "id": "eric-flip-a-bird",
@@ -333,7 +792,24 @@
     "startSec": 214.18,
     "difficulty": "hard",
     "topic": "Incorrect falconry",
-    "context": "A plan to flip a falcon borrowed its entire safety case from a completely different animal."
+    "context": "A plan to flip a falcon borrowed its entire safety case from a completely different animal.",
+    "leadIn": [
+      {
+        "speaker": "Eric",
+        "text": "Yeah. Now, I I agree with that. And I do want to say Nick is bringing up a great point in the chat.",
+        "startSec": 192.96
+      },
+      {
+        "speaker": "Nick",
+        "text": "Nick, you want to level that at Gavin? Yeah, I would love to. So, Gavin, you're the handler of this coin. The coins are. But if something went awry and a falcon handler had a falcon go nuts,",
+        "startSec": 199.14
+      },
+      {
+        "speaker": "Nick",
+        "text": "would it not be on the falcon handler? You're saying we should flip a falcon.",
+        "startSec": 210.56
+      }
+    ]
   },
   {
     "id": "eric-guitar-egg",
@@ -345,7 +821,24 @@
     "startSec": 968.84,
     "difficulty": "hard",
     "topic": "Egg peripherals",
-    "context": "Andrew's first meaningful relationship with an egg was as a video-game input device."
+    "context": "Andrew's first meaningful relationship with an egg was as a video-game input device.",
+    "leadIn": [
+      {
+        "speaker": "Andrew",
+        "text": "We should absolutely do that. I still have it. Yeah.",
+        "startSec": 951.94
+      },
+      {
+        "speaker": "Eric",
+        "text": "So it, could we call it guitar hero with an egg?",
+        "startSec": 953.5
+      },
+      {
+        "speaker": "Eric",
+        "text": "Thank you. Thank you. Didn't you just make that joke? I did. I, cause I was writing it down and I saw it written and I went, oh my God. And I was excited. Yeah.",
+        "startSec": 959.28
+      }
+    ]
   },
   {
     "id": "eric-bank-floor",
@@ -357,7 +850,24 @@
     "startSec": 111.34,
     "difficulty": "medium",
     "topic": "Stealth crime",
-    "context": "The proposed robbery technique prioritized creating an unrelated mystery over concealing any useful evidence."
+    "context": "The proposed robbery technique prioritized creating an unrelated mystery over concealing any useful evidence.",
+    "leadIn": [
+      {
+        "speaker": "Eric",
+        "text": "Oh yeah. You'd be shitting like crazy, and then there's no way. Put, put, put, put, put.",
+        "startSec": 90.88
+      },
+      {
+        "speaker": "Gavin",
+        "text": "Yeah, I'd be one of those, one of those people who, like, fumbles the gun over the counter, and then I would just shit. And then I'd be trying to quickly, like, clean up my shit, because it might be DNA and turns, and I'd be like, oh.",
+        "startSec": 97.48
+      },
+      {
+        "speaker": "Gavin",
+        "text": "And then you would slip in your own shit.",
+        "startSec": 108.78
+      }
+    ]
   },
   {
     "id": "geoff-potato-ass-chips",
@@ -369,7 +879,24 @@
     "startSec": 1192.3,
     "difficulty": "medium",
     "topic": "Crisp constitutionalism",
-    "context": "Faced with a snack classification exercise, Geoff rejected flavor technology in favor of strict potato purity."
+    "context": "Faced with a snack classification exercise, Geoff rejected flavor technology in favor of strict potato purity.",
+    "leadIn": [
+      {
+        "speaker": "Eric",
+        "text": "Yes. Yes, I did. Okay. There you go. I'm looking at his scores. I can verify that.",
+        "startSec": 1154.5
+      },
+      {
+        "speaker": "Geoff",
+        "text": "But would you say they're crispy? You know what? It's interesting you say that, Becca. Because I was faced with all of the most amazing chip products in America. And I asked, like, is a Cheeto, does a Cheeto count?",
+        "startSec": 1173.08
+      },
+      {
+        "speaker": "Geoff",
+        "text": "And they're like, absolutely. Very split. Cheese puffs, Cheetos. You can do whatever you want. You can have a Frito. That counts. And I thought, no, I'm going to be a purist.",
+        "startSec": 1184.88
+      }
+    ]
   },
   {
     "id": "geoff-gavin-pants-event",
@@ -381,7 +908,24 @@
     "startSec": 1935.47,
     "difficulty": "easy",
     "topic": "First impressions",
-    "context": "Geoff wanted to impress Gavin at their first meeting of the day and selected the least reliable possible opening move."
+    "context": "Geoff wanted to impress Gavin at their first meeting of the day and selected the least reliable possible opening move.",
+    "leadIn": [
+      {
+        "speaker": "Geoff",
+        "text": "i was collecting my notes it started off on a bit of a wrong foot for me in the sense that uh everybody was kind of in town for a couple days before and then the night before the wedding emily and i moved",
+        "startSec": 1904.71
+      },
+      {
+        "speaker": "Geoff",
+        "text": "into a little temporary house with gavin meg sort of a like a i don't know like a hangout spot the night before and before the wedding where we spent time together and i was sitting in the room",
+        "startSec": 1916.21
+      },
+      {
+        "speaker": "Geoff",
+        "text": "trying to get comfortable drinking drinking a little bit of water and gavin walked in and i thought oh i want to impress him because it's the first time i'd seen him so i reached i i i raised up in my chair",
+        "startSec": 1925.89
+      }
+    ]
   },
   {
     "id": "geoff-animal-waste-ranking",
@@ -393,7 +937,24 @@
     "startSec": 660.98,
     "difficulty": "easy",
     "topic": "Taxonomy under pressure",
-    "context": "This was meant to identify a mystery smell. It instead became a rapid-fire tour of the entire waste kingdom."
+    "context": "This was meant to identify a mystery smell. It instead became a rapid-fire tour of the entire waste kingdom.",
+    "leadIn": [
+      {
+        "speaker": "Gavin",
+        "text": "I think dog shit is the worst, because... Yeah. It doesn't necessarily mean anything other than terrible.",
+        "startSec": 631.4
+      },
+      {
+        "speaker": "Andrew",
+        "text": "Yeah, exactly. But I think a bull's literal shit is way worse than a dog's literal shit. It's just like, how are we measuring this? What's the... What animal has the smelliest shit?",
+        "startSec": 639.52
+      },
+      {
+        "speaker": "Geoff",
+        "text": "I have no idea. What animal has the smelliest shit? Let's see. I bet it's a cow patty. What's the name of the... Maybe it's a herring.",
+        "startSec": 650.42
+      }
+    ]
   },
   {
     "id": "geoff-shirt-physics",
@@ -405,7 +966,24 @@
     "startSec": 2378.74,
     "difficulty": "easy",
     "topic": "Textile betrayal",
-    "context": "A garment had positioned itself with impossible precision during what should have been a routine bathroom visit."
+    "context": "A garment had positioned itself with impossible precision during what should have been a routine bathroom visit.",
+    "leadIn": [
+      {
+        "speaker": "Geoff",
+        "text": "And so I immediately start an arc of pissing. Like I can feel it coming out and I'm like, this is going to cut it close because my dick isn't totally free yet. And I'm like, you know, this is like split second decisions you're making.",
+        "startSec": 2355.52
+      },
+      {
+        "speaker": "Geoff",
+        "text": "Uh, but it feels like it's taking an eternity. So I'm like looking at my dick and my shorts and I'm pulling the shorts down and I can see the P start to come out. And then something happened that has never happened to me.",
+        "startSec": 2367.06
+      },
+      {
+        "speaker": "Geoff",
+        "text": "Like I said, I didn't know it was possible for it to happen.",
+        "startSec": 2376.76
+      }
+    ]
   },
   {
     "id": "geoff-display-toilet",
@@ -417,7 +995,24 @@
     "startSec": 1398.03,
     "difficulty": "hard",
     "topic": "Retail plumbing ethics",
-    "context": "The hypothetical emergency took place in a showroom, and the decorative status of the toilet offered no meaningful protection."
+    "context": "The hypothetical emergency took place in a showroom, and the decorative status of the toilet offered no meaningful protection.",
+    "leadIn": [
+      {
+        "speaker": "Andrew",
+        "text": "Yeah, thanks. Would you ever Dave England style it if you had to? Like in a public bathroom? No, no, no, no. No, the, you know, when he took a shit or whatever in the toilet that's just, because Home Depot filled with toilets.",
+        "startSec": 1382.25
+      },
+      {
+        "speaker": "Andrew",
+        "text": "Oh, you mean the display toilet? Yeah, the display.",
+        "startSec": 1393.71
+      },
+      {
+        "speaker": "Geoff",
+        "text": "You really had to pee.",
+        "startSec": 1396.15
+      }
+    ]
   },
   {
     "id": "geoff-rabbit-spaghetti",
@@ -429,7 +1024,24 @@
     "startSec": 181.26,
     "difficulty": "hard",
     "topic": "Rabbit catering",
-    "context": "The guests were rabbits. The revised menu was spaghetti. No qualified veterinarian was part of the discussion."
+    "context": "The guests were rabbits. The revised menu was spaghetti. No qualified veterinarian was part of the discussion.",
+    "leadIn": [
+      {
+        "speaker": "Geoff",
+        "text": "Yeah, they're, like, they're definitely, like, city rabbits, you know? Like, they've seen some s***. One of them had an eyepatch. It was, uh, yeah.",
+        "startSec": 165.74
+      },
+      {
+        "speaker": "Andrew",
+        "text": "Like me and Call of Duty. Yeah, exactly. You ever see a rabbit eat spaghetti in your backyard?",
+        "startSec": 171.92
+      },
+      {
+        "speaker": "Eric",
+        "text": "You gotta. You gotta put spaghetti out for the spaghetti rabbit. Yeah.",
+        "startSec": 177.44
+      }
+    ]
   },
   {
     "id": "geoff-pizza-bones",
@@ -441,7 +1053,24 @@
     "startSec": 728.28,
     "difficulty": "medium",
     "topic": "Pizza anatomy",
-    "context": "A new term for discarded crust caused immediate concern about the speaker's health and the structural biology of pizza."
+    "context": "A new term for discarded crust caused immediate concern about the speaker's health and the structural biology of pizza.",
+    "leadIn": [
+      {
+        "speaker": "Geoff",
+        "text": "pinball to talk about, but one last thing, my wife and I were eating our pizza as we were shopping around, uh, Costco. And maybe this is something that Eric's going to be like,",
+        "startSec": 705.1
+      },
+      {
+        "speaker": "Geoff",
+        "text": "Oh, I thought everybody said this. Uh, but I had never heard her say it. And we've been together over eight years. My wife, when she was done with her pizza, she said, do you want my",
+        "startSec": 713.14
+      },
+      {
+        "speaker": "Geoff",
+        "text": "pizza bones? And she was talking about the crust. I've heard pizza. I've never heard pizza crust",
+        "startSec": 721.9
+      }
+    ]
   },
   {
     "id": "andrew-cosmic-fart-protest",
@@ -453,7 +1082,24 @@
     "startSec": 286.16,
     "difficulty": "easy",
     "topic": "Fruit activism",
-    "context": "Andrew opposed the apple review and attempted to register that dissent through a bodily filibuster."
+    "context": "Andrew opposed the apple review and attempted to register that dissent through a bodily filibuster.",
+    "leadIn": [
+      {
+        "speaker": "Andrew",
+        "text": "Oh, that is a great name. Wheel of Fartune.",
+        "startSec": 282.5
+      },
+      {
+        "speaker": "Geoff",
+        "text": "That is a great name. Wheel of Fartune.",
+        "startSec": 283.82
+      },
+      {
+        "speaker": "Andrew",
+        "text": "That's a fantastic name.",
+        "startSec": 285.4
+      }
+    ]
   },
   {
     "id": "andrew-collapsing-toilet",
@@ -465,7 +1111,24 @@
     "startSec": 2755.9,
     "difficulty": "easy",
     "topic": "Structural failure",
-    "context": "A product-quality discussion was interrupted by the revelation that Andrew's bathroom fixture had disassembled beneath him."
+    "context": "A product-quality discussion was interrupted by the revelation that Andrew's bathroom fixture had disassembled beneath him.",
+    "leadIn": [
+      {
+        "speaker": "Andrew",
+        "text": "No, no, we didn't. Hey, speaking of crazy stuff, you ever sit on a toilet that's falling apart while you're trying to use it? Yes. That's wild.",
+        "startSec": 2741.52
+      },
+      {
+        "speaker": "Gavin",
+        "text": "Yes, I have. Is this a Tushy sponsorship?",
+        "startSec": 2748.68
+      },
+      {
+        "speaker": "Andrew",
+        "text": "No, it's not. I'm sure their product would actually withstand way better than this.",
+        "startSec": 2751.82
+      }
+    ]
   },
   {
     "id": "andrew-egg-window",
@@ -477,7 +1140,24 @@
     "startSec": 3652.07,
     "difficulty": "hard",
     "topic": "Egg destiny",
-    "context": "The possibility of having missed the one correct period of life for trying an egg was described as genuinely haunting."
+    "context": "The possibility of having missed the one correct period of life for trying an egg was described as genuinely haunting.",
+    "leadIn": [
+      {
+        "speaker": "Gavin",
+        "text": "Although, you know, I haven't tried them in probably at least 10 years.",
+        "startSec": 3633.27
+      },
+      {
+        "speaker": "Geoff",
+        "text": "Try some golden raisins. See what you think. Oh. Man, Andrew, you need to try lots of different things right now. You could be, you could completely and change, you could completely and totally change your, your flavor palette overnight.",
+        "startSec": 3636.95
+      },
+      {
+        "speaker": "Geoff",
+        "text": "What if you're an egg guy? I might be.",
+        "startSec": 3649.27
+      }
+    ]
   },
   {
     "id": "andrew-hot-dog-cannon",
@@ -489,7 +1169,24 @@
     "startSec": 3009.78,
     "difficulty": "easy",
     "topic": "Ballpark ballistics",
-    "context": "A woman had been struck by a launched hot dog, and Andrew reconstructed the incident with impressive confidence."
+    "context": "A woman had been struck by a launched hot dog, and Andrew reconstructed the incident with impressive confidence.",
+    "leadIn": [
+      {
+        "speaker": "Andrew",
+        "text": "I definitely prefer hands, I think, than mouth. Yeah, you got the choice. Yeah, I guess choice is never an issue. You want choice.",
+        "startSec": 2996.72
+      },
+      {
+        "speaker": "Geoff",
+        "text": "Eric, what is the photo that Eric just said?",
+        "startSec": 3006.44
+      },
+      {
+        "speaker": "Andrew",
+        "text": "Did that woman get glanced?",
+        "startSec": 3008.6
+      }
+    ]
   },
   {
     "id": "andrew-sixty-four-bananas",
@@ -501,7 +1198,24 @@
     "startSec": 1998.65,
     "difficulty": "medium",
     "topic": "Fruit sentencing",
-    "context": "For a known banana opponent, the wager converted defeat into a two-month potassium-based punishment."
+    "context": "For a known banana opponent, the wager converted defeat into a two-month potassium-based punishment.",
+    "leadIn": [
+      {
+        "speaker": "Gavin",
+        "text": "to cheat somehow. And I'm just trying to think ahead of how you're going to, I'm either going to cheat",
+        "startSec": 1976.21
+      },
+      {
+        "speaker": "Andrew",
+        "text": "or lose. And that's where we come to the stakes of this bet. Cause every, every bet needs stakes. I have a victory thing and we can talk about this cause Gavin doesn't know I had this idea for it.",
+        "startSec": 1980.13
+      },
+      {
+        "speaker": "Andrew",
+        "text": "Uh, if I lose, this is what we came up with. We can, we can workshop this. I'd like to hear your thoughts on it, Jeff. You know, my feelings on bananas.",
+        "startSec": 1990.53
+      }
+    ]
   },
   {
     "id": "andrew-ham-fan-golf",
@@ -513,7 +1227,24 @@
     "startSec": 1908.86,
     "difficulty": "medium",
     "topic": "Golf atmosphere",
-    "context": "A license plate reading HAM FAN became the basis for a new and deeply unhelpful spectator tradition."
+    "context": "A license plate reading HAM FAN became the basis for a new and deeply unhelpful spectator tradition.",
+    "leadIn": [
+      {
+        "speaker": "Geoff",
+        "text": "I barely remember what that means.",
+        "startSec": 1896.36
+      },
+      {
+        "speaker": "Andrew",
+        "text": "Was it a license plate somewhere? Yeah. Jeff loved the license plate.",
+        "startSec": 1900.44
+      },
+      {
+        "speaker": "Andrew",
+        "text": "But he had a ham fan plate.",
+        "startSec": 1905.72
+      }
+    ]
   },
   {
     "id": "andrew-fish-requirements",
@@ -525,7 +1256,24 @@
     "startSec": 2170.62,
     "difficulty": "hard",
     "topic": "Fishing eligibility",
-    "context": "The sole fish of Andrew's career failed an unspecified standard and was returned while he processed the ruling emotionally."
+    "context": "The sole fish of Andrew's career failed an unspecified standard and was returned while he processed the ruling emotionally.",
+    "leadIn": [
+      {
+        "speaker": "Andrew",
+        "text": "I don't think I was tall enough to be even considered keepable. There's no point.",
+        "startSec": 2158.56
+      },
+      {
+        "speaker": "Geoff",
+        "text": "Too small. Meet the minimum requirement.",
+        "startSec": 2165.74
+      },
+      {
+        "speaker": "Andrew",
+        "text": "Yeah, they put me in.",
+        "startSec": 2168.24
+      }
+    ]
   },
   {
     "id": "gavin-upstairs-toilet",
@@ -537,7 +1285,24 @@
     "startSec": 3756.75,
     "difficulty": "easy",
     "topic": "Long-distance plumbing",
-    "context": "The proposed architectural improvement removed pipes and replaced them with aim."
+    "context": "The proposed architectural improvement removed pipes and replaced them with aim.",
+    "leadIn": [
+      {
+        "speaker": "Gavin",
+        "text": "What if we just piss off the top of a parking garage? I think we should have two port-a-potties. Stack them, right? We'll get rid of the actual toilet on the second one. That one goes on top, right? Yeah. Exactly.",
+        "startSec": 3735.16
+      },
+      {
+        "speaker": "Eric",
+        "text": "It's a substance.",
+        "startSec": 3751.31
+      },
+      {
+        "speaker": "Gavin",
+        "text": "Absolutely. Okay. But there isn't one on the top.",
+        "startSec": 3753.09
+      }
+    ]
   },
   {
     "id": "gavin-pickle-paste",
@@ -549,7 +1314,24 @@
     "startSec": 710.54,
     "difficulty": "hard",
     "topic": "Pickle concentration",
-    "context": "A comparison between pickle formats produced an enormous and completely uncalibrated paste advantage."
+    "context": "A comparison between pickle formats produced an enormous and completely uncalibrated paste advantage.",
+    "leadIn": [
+      {
+        "speaker": "Andrew",
+        "text": "I would actually maybe argue it's even more pickled than the average pickle because it's multiply multiple. But no, I'm done. I lost that argument. Never mind. We're going home. That was bad. We just can't talk about this.",
+        "startSec": 683.08
+      },
+      {
+        "speaker": "Andrew",
+        "text": "No, I was going to say that there's multiple pickled items in one thing. Like it's only pickled items, is it not?",
+        "startSec": 696.76
+      },
+      {
+        "speaker": "Gavin",
+        "text": "Yeah, I think it's like the cucumber and it's the the onion. I think we read off the ingredients once. It's like a pickle sector.",
+        "startSec": 703.0
+      }
+    ]
   },
   {
     "id": "gavin-shampoo-bottle-game",
@@ -561,7 +1343,24 @@
     "startSec": 3223.76,
     "difficulty": "easy",
     "topic": "Missing game components",
-    "context": "A hypothetical lifesaving board game contained a very specific extraction mechanic but not the object required to play it."
+    "context": "A hypothetical lifesaving board game contained a very specific extraction mechanic but not the object required to play it.",
+    "leadIn": [
+      {
+        "speaker": "Andrew",
+        "text": "That is like a distant thought. I'm just, we got to, as Jeff said, crawl before we run.",
+        "startSec": 3195.3
+      },
+      {
+        "speaker": "Gavin",
+        "text": "Right. But that was our point when you brought it up in the first place. You were so far from the marathon when it came out of your mouth. It was.",
+        "startSec": 3201.64
+      },
+      {
+        "speaker": "Geoff",
+        "text": "Yeah, you're right. As a burger confidence moment. Remove a shampoo bottle from the butt. Open up Gavin's airway so he doesn't fart to death in his sleep.",
+        "startSec": 3209.16
+      }
+    ]
   },
   {
     "id": "gavin-charity-pencil",
@@ -573,7 +1372,24 @@
     "startSec": 1747.51,
     "difficulty": "medium",
     "topic": "Philanthropic leverage",
-    "context": "The pencil remained uneaten, so Gavin introduced charitable fundraising as a new instrument of pressure."
+    "context": "The pencil remained uneaten, so Gavin introduced charitable fundraising as a new instrument of pressure.",
+    "leadIn": [
+      {
+        "speaker": "Geoff",
+        "text": "I'm going to say in 2025, I predict Andrew eats the pencil.",
+        "startSec": 1720.8
+      },
+      {
+        "speaker": "Andrew",
+        "text": "Wow. Just trying to confirm that. Yeah, I think it's the first one that's already not right. I think it might be the first definitely didn't happen one.",
+        "startSec": 1732.79
+      },
+      {
+        "speaker": "Geoff",
+        "text": "What do you mean?",
+        "startSec": 1745.83
+      }
+    ]
   },
   {
     "id": "gavin-sausage-flag",
@@ -585,7 +1401,24 @@
     "startSec": 201.82,
     "difficulty": "easy",
     "topic": "Sausage officiating",
-    "context": "The supplemental episode had become structured enough to require penalties, reviews, and textile-based intervention."
+    "context": "The supplemental episode had become structured enough to require penalties, reviews, and textile-based intervention.",
+    "leadIn": [
+      {
+        "speaker": "Andrew",
+        "text": "I don't feel like I have a skillet to do steak, but I should look into the ninja thing, I guess, maybe. I don't know.",
+        "startSec": 178.2
+      },
+      {
+        "speaker": "Gavin",
+        "text": "Yeah, steak is good. Ninja doesn't just chop stuff anymore. They do other stuff.",
+        "startSec": 184.34
+      },
+      {
+        "speaker": "Geoff",
+        "text": "Yeah, dude. I bought like the 2025 version of the electric George Foreman grill. What's happening? Ninja. And it's like a grill, it's a smoker, it's an air fryer all in one, and it's outside.",
+        "startSec": 188.48
+      }
+    ]
   },
   {
     "id": "gavin-king-kong-taxonomy",
@@ -597,7 +1430,24 @@
     "startSec": 274.69,
     "difficulty": "hard",
     "topic": "Ape cinema taxonomy",
-    "context": "A monkey-movie discussion paused for the kind of biological classification cinema scholars had apparently neglected."
+    "context": "A monkey-movie discussion paused for the kind of biological classification cinema scholars had apparently neglected.",
+    "leadIn": [
+      {
+        "speaker": "Geoff",
+        "text": "I mean, there's a Planet of the Apes franchise, I guess, and I remember Gorillas in the Mist and Project X. Fuck, there are a lot of monkey movies.",
+        "startSec": 245.05
+      },
+      {
+        "speaker": "Gavin",
+        "text": "I feel like they need to be categorized into played by real monkey movies and Andy Serkis monkey movies.",
+        "startSec": 253.41
+      },
+      {
+        "speaker": "Andrew",
+        "text": "Couldn't agree more. Going Ape, though. I can't believe you guys don't know, but it's a Tony Danza and Danny DeVito monkey movie. From the Apes? Yeah, but an ape isn't a monkey. Oh, it's an orangutan. What is an orangutan? Is that a monkey?",
+        "startSec": 260.61
+      }
+    ]
   },
   {
     "id": "gavin-pencil-ice-pick",
@@ -609,7 +1459,24 @@
     "startSec": 481.39,
     "difficulty": "hard",
     "topic": "Pencil escalation",
-    "context": "A dangerous plan involving the long-promised pencil was deemed insufficiently dangerous and received a sharper revision."
+    "context": "A dangerous plan involving the long-promised pencil was deemed insufficiently dangerous and received a sharper revision.",
+    "leadIn": [
+      {
+        "speaker": "Geoff",
+        "text": "I'm real sorry, but I also, I gotta be honest with you at 46 years old. I don't know that my, I, that my prop icicle up my asshole covered in Tiger Bomb days aren't behind me. It may be a younger man's game.",
+        "startSec": 463.27
+      },
+      {
+        "speaker": "Gavin",
+        "text": "It might be.",
+        "startSec": 479.71
+      },
+      {
+        "speaker": "Geoff",
+        "text": "I could see that.",
+        "startSec": 480.65
+      }
+    ]
   },
   {
     "id": "gavin-stick-on-funnel",
@@ -621,7 +1488,24 @@
     "startSec": 3797.38,
     "difficulty": "easy",
     "topic": "Wearable plumbing",
-    "context": "The product concept aimed to make one-way bathroom logistics possible through adhesive funnel technology."
+    "context": "The product concept aimed to make one-way bathroom logistics possible through adhesive funnel technology.",
+    "leadIn": [
+      {
+        "speaker": "Geoff",
+        "text": "Man, I don't know. I... That's the precision that is... I really like where you're going with this, but I feel like you're going to let as much fart out as you put in every time you open that sucker up. You would need to make a device.",
+        "startSec": 3780.9
+      },
+      {
+        "speaker": "Gavin",
+        "text": "Yeah, we'll make like a one-way valve.",
+        "startSec": 3792.5
+      },
+      {
+        "speaker": "Gavin",
+        "text": "Yeah, if you can valve... If you can one-way it, yeah, I think that's great.",
+        "startSec": 3795.2
+      }
+    ]
   },
   {
     "id": "eric-electric-toilet",
@@ -633,7 +1517,24 @@
     "startSec": 582.71,
     "difficulty": "easy",
     "topic": "Electrified urology",
-    "context": "A bathroom problem received a consumer-electronics solution with no concern for voltage, comfort, or repeat use."
+    "context": "A bathroom problem received a consumer-electronics solution with no concern for voltage, comfort, or repeat use.",
+    "leadIn": [
+      {
+        "speaker": "Gavin",
+        "text": "I think the thing I'm most suspicious of is that Eric is of an age very similar to the amount of podcasts we've done and is still doing all of his squeezing internally, apparently.",
+        "startSec": 557.69
+      },
+      {
+        "speaker": "Andrew",
+        "text": "You just sort of, you know, keep it healthy. You keep it healthy. I feel like a squeezer would agree with my shock method, Eric. How do you feel?",
+        "startSec": 570.83
+      },
+      {
+        "speaker": "Eric",
+        "text": "I don't know. You're insane.",
+        "startSec": 579.19
+      }
+    ]
   },
   {
     "id": "eric-no-ding",
@@ -645,7 +1546,24 @@
     "startSec": 2555.84,
     "difficulty": "easy",
     "topic": "Failure notifications",
-    "context": "The theoretical device was supposed to detect the event. Eric identified the far worse possibility of silent failure."
+    "context": "The theoretical device was supposed to detect the event. Eric identified the far worse possibility of silent failure.",
+    "leadIn": [
+      {
+        "speaker": "Geoff",
+        "text": "a playground, that was the day that was just the last day, you know?",
+        "startSec": 2535.5
+      },
+      {
+        "speaker": "Gavin",
+        "text": "Yeah. It'd be interesting if, if the little chime went off for various different things, because some things couldn't initially be seen as like a positive, like if you shit your pants",
+        "startSec": 2538.2
+      },
+      {
+        "speaker": "Gavin",
+        "text": "and then it went like, boom, like, oh, that's the last time I'm going to shit my pants. But that could also mean, oh shit, that's the last time I'm going to shit my pants. Yeah.",
+        "startSec": 2548.04
+      }
+    ]
   },
   {
     "id": "eric-goat-milk-hot-dog",
@@ -657,7 +1575,24 @@
     "startSec": 97.72,
     "difficulty": "hard",
     "topic": "Ballpark cuisine",
-    "context": "Eric was reading the official description of the Float Your Goat, a menu item apparently designed during a dare."
+    "context": "Eric was reading the official description of the Float Your Goat, a menu item apparently designed during a dare.",
+    "leadIn": [
+      {
+        "speaker": "Geoff",
+        "text": "So instead, you're just going to have to get whatever today's about to be.",
+        "startSec": 63.96
+      },
+      {
+        "speaker": "Eric",
+        "text": "Can I, I don't usually start with stuff. I, you know, kind of like leave it to the talent and not me. But, um, can I float something to you guys real quick? Yeah! Talent.",
+        "startSec": 67.76
+      },
+      {
+        "speaker": "Eric",
+        "text": "Baseball season is back. And, uh, I'm a big fan of, like, AA, AAA, minor league baseball. They do anything they can to get you in. The Hartford Yard Goats, the AA affiliate for the Colorado Rockies, are showing the Float Your Goat.",
+        "startSec": 81.06
+      }
+    ]
   },
   {
     "id": "eric-gooch-dog",
@@ -669,7 +1604,24 @@
     "startSec": 232.53,
     "difficulty": "medium",
     "topic": "Mascot naming",
-    "context": "The group was choosing between several terrible mascot names before discovering that changing dog to pooch solved everything."
+    "context": "The group was choosing between several terrible mascot names before discovering that changing dog to pooch solved everything.",
+    "leadIn": [
+      {
+        "speaker": "Eric",
+        "text": "I mean, that's not what... This exercise is not that, so it doesn't matter.",
+        "startSec": 223.55
+      },
+      {
+        "speaker": "Gavin",
+        "text": "What about a mixture of both? Gooch dog.",
+        "startSec": 226.35
+      },
+      {
+        "speaker": "Eric",
+        "text": "Gooch dog. Big gooch. What about big gooch?",
+        "startSec": 229.35
+      }
+    ]
   },
   {
     "id": "eric-sock-probability",
@@ -681,7 +1633,24 @@
     "startSec": 385.83,
     "difficulty": "hard",
     "topic": "Sock probability",
-    "context": "A coin-flip analogy collided with the fact that socks are not assigned to feet by independent random selection."
+    "context": "A coin-flip analogy collided with the fact that socks are not assigned to feet by independent random selection.",
+    "leadIn": [
+      {
+        "speaker": "Gavin",
+        "text": "It was based around him thinking we wouldn't understand the concept of a 50-50 choice.",
+        "startSec": 367.15
+      },
+      {
+        "speaker": "Andrew",
+        "text": "What does that mean? And the coin story is way cooler than the sock story.",
+        "startSec": 372.11
+      },
+      {
+        "speaker": "Eric",
+        "text": "It's cooler than the sock story. It reversed. It's not a 50-50 chance. Because here's the thing. It's a 50-50 chance if you flip a coin.",
+        "startSec": 376.85
+      }
+    ]
   },
   {
     "id": "eric-sausage-bop",
@@ -693,7 +1662,24 @@
     "startSec": 2824.16,
     "difficulty": "medium",
     "topic": "British sports ritual",
-    "context": "This was Eric's summary of an afternoon plan involving food and the expected accuracy of a Gavin-thrown disc."
+    "context": "This was Eric's summary of an afternoon plan involving food and the expected accuracy of a Gavin-thrown disc.",
+    "leadIn": [
+      {
+        "speaker": "Eric",
+        "text": "And then you use your teeth, Eric, to, uh, sever the connection. Okay. Yep. I never see how it could ever go wrong. Not biting all the way through the casing. You're right. Nevermind. You're right. When given the opportunity,",
+        "startSec": 2799.42
+      },
+      {
+        "speaker": "Eric",
+        "text": "Yeah, I want you, yeah, no, I want you to eat one in front of me. Can we have, I want you to show me.",
+        "startSec": 2813.18
+      },
+      {
+        "speaker": "Geoff",
+        "text": "Can we eat sausage bops on the day that we film Eric throwing a Frisbee? I want it.",
+        "startSec": 2818.64
+      }
+    ]
   },
   {
     "id": "eric-waffle-cone",
@@ -705,7 +1691,24 @@
     "startSec": 1553.09,
     "difficulty": "hard",
     "topic": "Dessert supporting roles",
-    "context": "The cone was evaluated as a self-effacing platform whose only duty was to showcase the ice cream."
+    "context": "The cone was evaluated as a self-effacing platform whose only duty was to showcase the ice cream.",
+    "leadIn": [
+      {
+        "speaker": "Eric",
+        "text": "This is Nick.",
+        "startSec": 1533.23
+      },
+      {
+        "speaker": "Geoff",
+        "text": "See, the cake cone manages to be yummy while allowing the ice cream to be the star, while allowing the ice cream to distribute and deliver all the sugar, whereas the waffle cone is chock full of six grams of sugar. It's its own thing.",
+        "startSec": 1534.99
+      },
+      {
+        "speaker": "Geoff",
+        "text": "The cake cone is like, hey, man, I'm here to showcase your ice cream.",
+        "startSec": 1549.77
+      }
+    ]
   },
   {
     "id": "eric-cherry-spaghetti",
@@ -717,6 +1720,23 @@
     "startSec": 3158.26,
     "difficulty": "medium",
     "topic": "Emergency naming",
-    "context": "Eric was recalling a movie scene where an improvised alias became so unwieldy that the villain simply settled on Miss Spaghetti."
+    "context": "Eric was recalling a movie scene where an improvised alias became so unwieldy that the villain simply settled on Miss Spaghetti.",
+    "leadIn": [
+      {
+        "speaker": "Andrew",
+        "text": "I prefer the original, but it's still very funny.",
+        "startSec": 3134.02
+      },
+      {
+        "speaker": "Eric",
+        "text": "Yeah. I mean, I like, I think Naked Gun 1, Naked Gun 2, and The Naked Gun are probably the top three Naked Gun movies. Yeah.",
+        "startSec": 3137.94
+      },
+      {
+        "speaker": "Gavin",
+        "text": "I agree where I love the style, the iconic style of the first couple. But the scene where he's in the car in this new one was so funny.",
+        "startSec": 3144.8
+      }
+    ]
   }
 ]
