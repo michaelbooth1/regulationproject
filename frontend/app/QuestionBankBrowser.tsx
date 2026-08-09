@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import { useMemo, useState } from "react";
 import {
   HOST_ORDER,
@@ -50,12 +51,13 @@ export default function QuestionBankBrowser({ mappedEpisodes }: { mappedEpisodes
   return (
     <main className="quiz-shell bank-shell">
       <header className="quiz-topbar">
-        <a className="wordmark" href="/" aria-label="Back to Regulation Quiz">
+        <Link className="wordmark" href="/" aria-label="Back to Regulation Quiz">
           <span className="wordmark-r">R</span>
           <span>Regulation<br /><strong>Quiz</strong></span>
-        </a>
+        </Link>
         <div className="topbar-tools">
-          <a className="bank-link active" href="/questions" aria-current="page">Question bank</a>
+          <Link className="bank-link" href="/who-said-it">Who said it?</Link>
+          <Link className="bank-link active" href="/questions" aria-current="page">Question bank</Link>
           <div className="corpus-stamp">
             <span aria-hidden="true" />
             {mappedEpisodes} episodes digested
@@ -75,7 +77,7 @@ export default function QuestionBankBrowser({ mappedEpisodes }: { mappedEpisodes
             Eric. Secondary signals are shown where an answer contains a little
             extra flavor of somebody else&apos;s chaos.
           </p>
-          <a className="secondary-button bank-home-link" href="/">← Take the quiz</a>
+          <Link className="secondary-button bank-home-link" href="/">← Take the quiz</Link>
         </div>
       </section>
 

@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import { useMemo, useState } from "react";
 import {
   HOST_ORDER,
@@ -151,7 +152,8 @@ export default function QuizApp({ mappedEpisodes }: { mappedEpisodes: number }) 
         <span>Regulation<br /><strong>Quiz</strong></span>
       </button>
       <div className="topbar-tools">
-        <a className="bank-link" href="/questions">Question bank ↗</a>
+        <Link className="bank-link" href="/who-said-it">Who said it?</Link>
+        <Link className="bank-link" href="/questions">Question bank ↗</Link>
         <div className="corpus-stamp">
           <span aria-hidden="true" />
           {mappedEpisodes} episodes digested
