@@ -3747,7 +3747,7 @@ body {
 
   .wsi-playing-shell .wsi-round {
     display: grid;
-    grid-template-rows: auto minmax(320px, 1fr) auto auto;
+    grid-template-rows: auto clamp(320px, 47vh, 480px) auto minmax(64px, 1fr);
     gap: clamp(14px, 1.7vh, 20px);
     height: 100%;
     min-height: 0;
@@ -3794,7 +3794,7 @@ body {
 
   .wsi-playing-shell .wsi-quote-card blockquote {
     max-width: 900px;
-    font-size: clamp(34px, 3.25vw, 54px);
+    font-size: clamp(38px, 3.5vw, 58px);
   }
 
   .wsi-playing-shell .wsi-quote-card > p {
@@ -3805,22 +3805,22 @@ body {
   .wsi-playing-shell .wsi-choice {
     grid-template-columns: 48px minmax(0, 1fr) 30px;
     gap: 0 12px;
-    min-height: 112px;
+    min-height: 118px;
     padding: 16px 20px;
   }
 
   .wsi-playing-shell .wsi-choice > span {
     width: 48px;
     height: 48px;
-    font-size: 24px;
+    font-size: 26px;
   }
 
   .wsi-playing-shell .wsi-choice strong {
-    font-size: 21px;
+    font-size: 24px;
   }
 
   .wsi-playing-shell .wsi-choice small {
-    font-size: 10px;
+    font-size: 12px;
   }
 
   .wsi-playing-shell .wsi-choice kbd {
