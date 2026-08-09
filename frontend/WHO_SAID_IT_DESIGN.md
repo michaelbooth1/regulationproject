@@ -1,4 +1,4 @@
-# Who Said It — game and curation notes
+# Regulation Who Said It — game and curation notes
 
 ## Game shape
 

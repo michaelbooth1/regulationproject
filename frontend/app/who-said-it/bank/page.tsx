@@ -4,9 +4,9 @@ import languageProfiles from "../../data/host-language-profiles.json";
 
 
 export const metadata: Metadata = {
-  title: "Who Said It Quote Bank | Regulation Games",
+  title: "Quote Bank | Regulation Who Said It",
   description:
-    "Browse the full 30-quote Who Said It bank with host attribution, episode sources, timestamps, and context.",
+    "Browse the full 60-quote Regulation Who Said It bank with host attribution, episode sources, timestamps, and context.",
 };
 
 export default function WhoSaidItBankPage() {

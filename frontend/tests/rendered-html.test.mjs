@@ -22,10 +22,11 @@ test("makes Who Said It the primary app", async () => {
   assert.match(response.headers.get("content-type") ?? "", /^text\/html\b/i);
 
   const html = await response.text();
-  assert.match(html, /<title>Who Said It\? \| Regulation Games<\/title>/i);
-  assert.match(html, /Out of context \/ under oath/i);
-  assert.match(html, /Ten real lines from a 60-quote archive/i);
-  assert.match(html, /Open the transcript file/i);
+  assert.match(html, /<title>Regulation Who Said It<\/title>/i);
+  assert.match(html, /60 real quotes \/ four possible hosts/i);
+  assert.match(html, /friendship, embracing absurdity/i);
+  assert.match(html, /Start the regulation quiz/i);
+  assert.match(html, /regulation-brand-mark/i);
   assert.match(html, /415<!-- --> episodes digested/i);
   assert.match(html, /<dt>Quote bank<\/dt><dd>60<\/dd>/i);
   assert.match(html, /href="\/who-said-it\/bank"[^>]*>Quote bank/i);
@@ -40,7 +41,7 @@ test("keeps the old question-bank URL hidden behind the quote bank", async () =>
   const response = await render("/questions");
   assert.equal(response.status, 200);
   const html = await response.text();
-  assert.match(html, /<title>Who Said It Quote Bank \| Regulation Games<\/title>/i);
+  assert.match(html, /<title>Quote Bank \| Regulation Who Said It<\/title>/i);
   assert.match(html, /All <!-- -->60<!-- --> absurd lines/i);
   assert.match(html, /Search quotes, episodes, or context/i);
   assert.doesNotMatch(html, /All <!-- -->39<!-- --> bad decisions|host-by-host question bank/i);
@@ -51,8 +52,8 @@ test("server-renders the dedicated Who Said It route", async () => {
   const response = await render("/who-said-it");
   assert.equal(response.status, 200);
   const html = await response.text();
-  assert.match(html, /<title>Who Said It\? \| Regulation Games<\/title>/i);
-  assert.match(html, /Ten real lines from a 60-quote archive/i);
+  assert.match(html, /<title>Regulation Who Said It<\/title>/i);
+  assert.match(html, /friendship, embracing absurdity/i);
   assert.match(html, /<dt>Quote bank<\/dt><dd>60<\/dd>/i);
   assert.match(html, /<dt>Rounds served<\/dt><dd>10<\/dd>/i);
   assert.match(html, /I have a 50-foot ham tower/i);
@@ -63,7 +64,7 @@ test("server-renders the searchable, fully attributed 60-quote bank", async () =
   const response = await render("/who-said-it/bank");
   assert.equal(response.status, 200);
   const html = await response.text();
-  assert.match(html, /<title>Who Said It Quote Bank \| Regulation Games<\/title>/i);
+  assert.match(html, /<title>Quote Bank \| Regulation Who Said It<\/title>/i);
   assert.match(html, /All <!-- -->60<!-- --> absurd lines/i);
   assert.match(html, /Search quotes, episodes, or context/i);
   assert.match(html, /Showing <strong>60<\/strong> of <!-- -->60<!-- --> quotes/i);
@@ -128,8 +129,9 @@ test("keeps the game balanced, varied, and transcript-grounded", async () => {
   assert.match(whoSource, /Conversation immediately before the mystery quote/);
   assert.match(bankBrowserSource, /aria-pressed/);
   assert.match(design, /20 easy, 20 medium, and 20 hard/i);
-  assert.match(layoutSource, /og-who-said-it\.png/);
+  assert.match(layoutSource, /\/og\.png/);
 
-  await access(new URL("../public/og-who-said-it.png", import.meta.url));
+  await access(new URL("../public/og.png", import.meta.url));
+  await access(new URL("../public/regulation-brand-mark.jpg", import.meta.url));
   await assert.rejects(access(new URL("../app/_sites-preview", import.meta.url)));
 });

@@ -4,9 +4,9 @@ import languageProfiles from "../data/host-language-profiles.json";
 
 
 export const metadata: Metadata = {
-  title: "Who Said It? | Regulation Games",
+  title: "Regulation Who Said It",
   description:
-    "Identify which Regulation host said ten funny, absurd lines pulled from a curated 30-quote transcript bank.",
+    "Identify which Regulation Podcast host said ten funny, absurd lines pulled from a curated 60-quote transcript bank.",
 };
 
 export default function WhoSaidItPage() {

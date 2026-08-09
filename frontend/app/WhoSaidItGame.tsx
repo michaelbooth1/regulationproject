@@ -271,9 +271,12 @@ export default function WhoSaidItGame({ mappedEpisodes }: { mappedEpisodes: numb
 
   const topbar = (
     <header className="quiz-topbar">
-      <Link className="wordmark" href="/" aria-label="Regulation games home">
-        <span className="wordmark-r">R</span>
-        <span>Regulation<br /><strong>Who Said It</strong></span>
+      <Link className="wordmark" href="/" aria-label="Regulation Who Said It home">
+        <span className="regulation-brand-mark" aria-hidden="true" />
+        <span className="regulation-lockup">
+          <strong>regulation</strong>
+          <small>who said it</small>
+        </span>
       </Link>
       <nav className="topbar-tools" aria-label="Game navigation">
         <Link className="bank-link" href="/who-said-it/bank">Quote bank</Link>
@@ -291,23 +294,24 @@ export default function WhoSaidItGame({ mappedEpisodes }: { mappedEpisodes: numb
         {topbar}
         <section className="wsi-intro-grid">
           <div className="wsi-intro-copy">
-            <p className="kicker">Out of context / under oath</p>
-            <h1>Who<br /><span>said it?</span></h1>
+            <p className="kicker">60 real quotes / four possible hosts</p>
+            <h1><span>regulation</span>who said it?</h1>
             <p className="intro-lede">
-              Ten real lines from a 60-quote archive. Four possible hosts. One
-              unsettling realization that every sentence entered a microphone on purpose.
+              Ten lines from a show about friendship, embracing absurdity, and
+              saying things no reasonable person should have to attribute.
             </p>
             <button className="primary-button" type="button" onClick={start}>
-              Open the transcript file
+              Start the regulation quiz
               <span aria-hidden="true">→</span>
             </button>
             <p className="fine-print">
-              Real transcript excerpts, lightly trimmed for readability. Contains podcast language.
+              Unofficial fan-made game. Real transcript excerpts, lightly trimmed for readability.
+              Contains podcast language.
             </p>
           </div>
 
-          <aside className="wsi-evidence" aria-label="Who Said It game evidence">
-            <p className="wsi-evidence-label">Exhibit A / no useful context</p>
+          <aside className="wsi-evidence" aria-label="Regulation Who Said It game evidence">
+            <p className="wsi-evidence-label">Regulation evidence / exhibit 001</p>
             <blockquote>“I have a 50-foot ham tower.”</blockquote>
             <div className="wsi-redaction" aria-hidden="true">
               <span /><span /><span />
@@ -327,7 +331,7 @@ export default function WhoSaidItGame({ mappedEpisodes }: { mappedEpisodes: numb
           </aside>
         </section>
         <div className="ticker" aria-hidden="true">
-          <span>REAL QUOTES</span><span>BAD CONTEXT</span><span>FOUR SUSPECTS</span><span>ONE HAM TOWER</span>
+          <span>FRIENDSHIP</span><span>EMBRACING ABSURDITY</span><span>REAL TRANSCRIPTS</span><span>ONE HAM TOWER</span>
         </div>
       </main>
     );
@@ -469,7 +473,7 @@ export default function WhoSaidItGame({ mappedEpisodes }: { mappedEpisodes: numb
           </div>
         </div>
         <aside className="wsi-score-slip">
-          <span>Official damage</span>
+          <span>Regulation damage</span>
           <strong>{score * 10}%</strong>
           <p>{WHO_SAID_IT_LENGTH - score} false accusations</p>
           <div aria-hidden="true"><span style={{ width: `${score * 10}%` }} /></div>
@@ -536,7 +540,11 @@ export default function WhoSaidItGame({ mappedEpisodes }: { mappedEpisodes: numb
 
       <footer className="quiz-footer">
         <p>Ten quotes sampled from {WHO_SAID_IT_BANK.length}. Every run includes all four hosts.</p>
-        <p><Link href="/who-said-it/bank">Inspect the full quote bank →</Link></p>
+        <p>
+          <Link href="/who-said-it/bank">Inspect the full quote bank →</Link>
+          {" · "}
+          <a href="https://www.patreon.com/TheRegulationPod" target="_blank" rel="noreferrer">Official podcast ↗</a>
+        </p>
       </footer>
     </main>
   );

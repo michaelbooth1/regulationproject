@@ -44,9 +44,12 @@ export default function WhoSaidItBankBrowser({ mappedEpisodes }: { mappedEpisode
   return (
     <main className="quiz-shell bank-shell wsi-bank-shell">
       <header className="quiz-topbar">
-        <Link className="wordmark" href="/" aria-label="Regulation games home">
-          <span className="wordmark-r">R</span>
-          <span>Regulation<br /><strong>Who Said It</strong></span>
+        <Link className="wordmark" href="/" aria-label="Regulation Who Said It home">
+          <span className="regulation-brand-mark" aria-hidden="true" />
+          <span className="regulation-lockup">
+            <strong>regulation</strong>
+            <small>who said it</small>
+          </span>
         </Link>
         <nav className="topbar-tools" aria-label="Game navigation">
           <Link className="bank-link" href="/">Play game</Link>
@@ -57,8 +60,8 @@ export default function WhoSaidItBankBrowser({ mappedEpisodes }: { mappedEpisode
 
       <section className="bank-hero wsi-bank-hero">
         <div>
-          <p className="kicker">Spoilers / primary evidence</p>
-          <h1>Quote<br /><span>Bank</span></h1>
+          <p className="kicker">Regulation archive / spoilers ahead</p>
+          <h1>Quote<br /><span>bank</span></h1>
         </div>
         <div className="bank-intro">
           <strong>All {WHO_SAID_IT_BANK.length} absurd lines, fully attributed.</strong>
@@ -101,7 +104,7 @@ export default function WhoSaidItBankBrowser({ mappedEpisodes }: { mappedEpisode
         <p className="bank-count" aria-live="polite">Showing <strong>{visible.length}</strong> of {WHO_SAID_IT_BANK.length} quotes</p>
       </section>
 
-      <section className="wsi-bank-list" aria-label="Who Said It quote bank">
+      <section className="wsi-bank-list" aria-label="Regulation Who Said It quote bank">
         {visible.map((item) => {
           const profile = HOST_PROFILES[item.speaker];
           const bankIndex = WHO_SAID_IT_BANK.findIndex((quote) => quote.id === item.id) + 1;
@@ -138,7 +141,9 @@ export default function WhoSaidItBankBrowser({ mappedEpisodes }: { mappedEpisode
 
       <footer className="quiz-footer bank-footer">
         <p>{WHO_SAID_IT_BANK.length} quotes / 60 episodes / 4 fully mapped hosts.</p>
-        <p>Transcript excerpts are lightly trimmed for readability.</p>
+        <p>
+          Unofficial fan game · <a href="https://www.patreon.com/TheRegulationPod" target="_blank" rel="noreferrer">Visit the official podcast ↗</a>
+        </p>
       </footer>
     </main>
   );
