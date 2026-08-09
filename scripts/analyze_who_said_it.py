@@ -271,12 +271,12 @@ def validate_curated_bank() -> None:
     transcripts = transcript_index()
     errors: list[str] = []
 
-    if len(bank) != 60:
-        errors.append(f"Expected 60 curated quotes, found {len(bank)}")
+    if len(bank) != 100:
+        errors.append(f"Expected 100 curated quotes, found {len(bank)}")
     if len({item["id"] for item in bank}) != len(bank):
         errors.append("Curated quote IDs are not unique")
     if len({item["episode"] for item in bank}) != len(bank):
-        errors.append("The curated bank should use 60 different episodes")
+        errors.append("The curated bank should use 100 different episodes")
 
     for item in bank:
         episode = int(item["episode"])
@@ -406,7 +406,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--validate-only",
         action="store_true",
-        help="Validate the shipped 60-quote bank without regenerating candidates.",
+        help="Validate the shipped 100-quote bank without regenerating candidates.",
     )
     parser.add_argument(
         "--write-lead-ins",

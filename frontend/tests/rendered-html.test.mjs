@@ -29,7 +29,7 @@ test("makes Who Said It the primary app", async () => {
   assert.match(html, /Start the regulation quiz/i);
   assert.match(html, /regulation-brand-mark/i);
   assert.match(html, /415<!-- --> episodes digested/i);
-  assert.match(html, /<dt>Quote bank<\/dt><dd>60<\/dd>/i);
+  assert.match(html, /<dt>Quote bank<\/dt><dd>100<\/dd>/i);
   assert.doesNotMatch(html, /href="\/who-said-it\/bank"[^>]*>Quote bank/i);
   assert.doesNotMatch(html, /FRIENDSHIP|EMBRACING ABSURDITY|REAL TRANSCRIPTS|ONE HAM TOWER/i);
   for (const host of ["Geoff", "Andrew", "Gavin", "Eric"]) {
@@ -44,7 +44,7 @@ test("keeps the old question-bank URL hidden behind the quote bank", async () =>
   assert.equal(response.status, 200);
   const html = await response.text();
   assert.match(html, /<title>Quote Bank \| Regulation Who Said It<\/title>/i);
-  assert.match(html, /All <!-- -->60<!-- --> absurd lines/i);
+  assert.match(html, /All <!-- -->100<!-- --> absurd lines/i);
   assert.match(html, /Search quotes, episodes, or context/i);
   assert.doesNotMatch(html, /All <!-- -->39<!-- --> bad decisions|host-by-host question bank/i);
 });
@@ -56,23 +56,25 @@ test("server-renders the dedicated Who Said It route", async () => {
   const html = await response.text();
   assert.match(html, /<title>Regulation Who Said It<\/title>/i);
   assert.match(html, /Made by community member Michael Booth/i);
-  assert.match(html, /<dt>Quote bank<\/dt><dd>60<\/dd>/i);
+  assert.match(html, /<dt>Quote bank<\/dt><dd>100<\/dd>/i);
   assert.match(html, /<dt>Rounds served<\/dt><dd>10<\/dd>/i);
   assert.match(html, /I have a 50-foot ham tower/i);
 });
 
 
-test("server-renders the searchable, fully attributed 60-quote bank", async () => {
+test("server-renders the searchable, fully attributed 100-quote bank", async () => {
   const response = await render("/who-said-it/bank");
   assert.equal(response.status, 200);
   const html = await response.text();
   assert.match(html, /<title>Quote Bank \| Regulation Who Said It<\/title>/i);
-  assert.match(html, /All <!-- -->60<!-- --> absurd lines/i);
+  assert.match(html, /All <!-- -->100<!-- --> absurd lines/i);
   assert.match(html, /Search quotes, episodes, or context/i);
-  assert.match(html, /Showing <strong>60<\/strong> of <!-- -->60<!-- --> quotes/i);
+  assert.match(html, /Showing <strong>100<\/strong> of <!-- -->100<!-- --> quotes/i);
   assert.match(html, /every toilet on Earth was flushed/i);
   assert.match(html, /Icy Hot on your dick and balls/i);
   assert.match(html, /pickle paste is maybe 10 to 15 times better/i);
+  assert.match(html, /dog doing a butt shimmy across all my stairs/i);
+  assert.match(html, /the news would be on your waffle/i);
   assert.match(html, /href="\/"[^>]*>← Play without spoilers/i);
   assert.doesNotMatch(html, />Host quiz</i);
 });
@@ -92,10 +94,10 @@ test("keeps the game balanced, varied, and transcript-grounded", async () => {
   const quoteBank = JSON.parse(quoteBankText);
 
   assert.equal(profiles.mappedEpisodes, 415);
-  assert.equal(quoteBank.length, 60);
-  assert.equal(new Set(quoteBank.map((item) => item.id)).size, 60);
-  assert.equal(new Set(quoteBank.map((item) => item.quote)).size, 60);
-  assert.equal(new Set(quoteBank.map((item) => item.episode)).size, 60);
+  assert.equal(quoteBank.length, 100);
+  assert.equal(new Set(quoteBank.map((item) => item.id)).size, 100);
+  assert.equal(new Set(quoteBank.map((item) => item.quote)).size, 100);
+  assert.equal(new Set(quoteBank.map((item) => item.episode)).size, 100);
   assert.deepEqual(
     Object.fromEntries(
       ["geoff", "andrew", "gavin", "eric"].map((host) => [
@@ -103,7 +105,7 @@ test("keeps the game balanced, varied, and transcript-grounded", async () => {
         quoteBank.filter((item) => item.speaker === host).length,
       ]),
     ),
-    { geoff: 15, andrew: 15, gavin: 15, eric: 15 },
+    { geoff: 25, andrew: 25, gavin: 25, eric: 25 },
   );
   assert.deepEqual(
     Object.fromEntries(
@@ -112,7 +114,15 @@ test("keeps the game balanced, varied, and transcript-grounded", async () => {
         quoteBank.filter((item) => item.difficulty === difficulty).length,
       ]),
     ),
-    { easy: 20, medium: 20, hard: 20 },
+    { easy: 34, medium: 33, hard: 33 },
+  );
+  assert.deepEqual(
+    {
+      early: quoteBank.filter((item) => item.episode < 100).length,
+      middle: quoteBank.filter((item) => item.episode >= 100 && item.episode <= 250).length,
+      late: quoteBank.filter((item) => item.episode > 250).length,
+    },
+    { early: 35, middle: 36, late: 29 },
   );
   assert.ok(quoteBank.every((item) => item.startSec >= 0 && item.context && item.title));
   assert.ok(quoteBank.every((item) => (
@@ -135,7 +145,7 @@ test("keeps the game balanced, varied, and transcript-grounded", async () => {
   assert.match(whoSource, /<p>{current\.quote}<\/p>/);
   assert.match(styles, /\.wsi-transcript-lead li\.wsi-transcript-quote/);
   assert.match(bankBrowserSource, /aria-pressed/);
-  assert.match(design, /20 easy, 20 medium, and 20 hard/i);
+  assert.match(design, /34 easy, 33 medium, and 33 hard/i);
   assert.match(layoutSource, /\/og\.png/);
   const finalComposition = styles.slice(styles.indexOf("Final full-bleed gray composition"));
   assert.ok(styles.indexOf("Final full-bleed gray composition") > styles.indexOf("Regulation Podcast brand pass"));

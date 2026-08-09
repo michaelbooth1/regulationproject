@@ -5,7 +5,7 @@ import "./globals.css";
 
 const title = "Regulation Who Said It";
 const description =
-  "Identify which Regulation Podcast host said ten absurd lines from a curated 60-quote transcript archive.";
+  "Identify which Regulation Podcast host said ten absurd lines from a curated 100-quote transcript archive.";
 
 export async function generateMetadata(): Promise<Metadata> {
   const requestHeaders = await headers();

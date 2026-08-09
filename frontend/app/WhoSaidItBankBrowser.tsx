@@ -9,6 +9,17 @@ import { WHO_SAID_IT_BANK, type QuoteDifficulty } from "./who-said-it-data";
 type HostFilter = "all" | HostId;
 type DifficultyFilter = "all" | QuoteDifficulty;
 
+const HOST_QUOTE_COUNTS = Object.fromEntries(
+  HOST_ORDER.map((host) => [host, WHO_SAID_IT_BANK.filter((item) => item.speaker === host).length]),
+) as Record<HostId, number>;
+const DIFFICULTY_QUOTE_COUNTS = Object.fromEntries(
+  (["easy", "medium", "hard"] as QuoteDifficulty[]).map((level) => [
+    level,
+    WHO_SAID_IT_BANK.filter((item) => item.difficulty === level).length,
+  ]),
+) as Record<QuoteDifficulty, number>;
+const QUOTED_EPISODE_COUNT = new Set(WHO_SAID_IT_BANK.map((item) => item.episode)).size;
+
 function HostBadge({ host }: { host: HostId }) {
   const profile = HOST_PROFILES[host];
   return (
@@ -89,14 +100,14 @@ export default function WhoSaidItBankBrowser({ mappedEpisodes }: { mappedEpisode
             <button type="button" aria-pressed={host === "all"} className={host === "all" ? "active" : ""} onClick={() => setHost("all")}>All hosts</button>
             {HOST_ORDER.map((hostId) => (
               <button type="button" aria-pressed={host === hostId} key={hostId} className={host === hostId ? "active" : ""} onClick={() => setHost(hostId)}>
-                {HOST_PROFILES[hostId].name} · 15
+                {HOST_PROFILES[hostId].name} · {HOST_QUOTE_COUNTS[hostId]}
               </button>
             ))}
           </div>
           <div className="category-filters" aria-label="Filter by difficulty">
             {(["all", "easy", "medium", "hard"] as const).map((level) => (
               <button type="button" aria-pressed={difficulty === level} key={level} className={difficulty === level ? "active" : ""} onClick={() => setDifficulty(level)}>
-                {level === "all" ? "Any difficulty" : `${level} · 20`}
+                {level === "all" ? "Any difficulty" : `${level} · ${DIFFICULTY_QUOTE_COUNTS[level]}`}
               </button>
             ))}
           </div>
@@ -140,7 +151,7 @@ export default function WhoSaidItBankBrowser({ mappedEpisodes }: { mappedEpisode
       </section>
 
       <footer className="quiz-footer bank-footer">
-        <p>{WHO_SAID_IT_BANK.length} quotes / 60 episodes / 4 fully mapped hosts.</p>
+        <p>{WHO_SAID_IT_BANK.length} quotes / {QUOTED_EPISODE_COUNT} episodes / 4 fully mapped hosts.</p>
         <p>
           Unofficial fan game · <a href="https://www.patreon.com/TheRegulationPod" target="_blank" rel="noreferrer">Visit the official podcast ↗</a>
         </p>

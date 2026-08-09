@@ -2,7 +2,7 @@
 
 ## Game shape
 
-- A run serves 10 quotes sampled from a 60-quote bank.
+- A run serves 10 quotes sampled from a 100-quote bank.
 - Every run guarantees at least two quotes from Geoff, Andrew, Gavin, and Eric.
 - Every run contains three easy, four medium, and three hard quotes.
 - A replay avoids all ten quotes from the immediately previous game.
@@ -37,14 +37,14 @@ that every shipped excerpt still matches its episode's speaker map.
 
 ## Bank balance
 
-The final bank contains 60 unique quotes from 60 different episodes:
+The final bank contains 100 unique quotes from 100 different episodes, with the expansion deliberately emphasizing early and middle-era episodes:
 
-- Geoff: 15
-- Andrew: 15
-- Gavin: 15
-- Eric: 15
+- Geoff: 25
+- Andrew: 25
+- Gavin: 25
+- Eric: 25
 
-Difficulty is balanced across the full bank: 20 easy, 20 medium, and 20 hard.
+Difficulty remains nearly even across the full bank: 34 easy, 33 medium, and 33 hard.
 
 Each record in `app/data/who-said-it-bank.json` has a stable ID, quote, speaker,
 episode number and title, publication date, timestamp, difficulty, topic, and
