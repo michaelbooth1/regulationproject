@@ -2603,6 +2603,274 @@ button {
   }
 }
 
+/* Full-width, softer gray revision */
+
+:root {
+  --paper: #c9c9c5;
+  --paper-bright: #f4f4f1;
+  --ink: #090909;
+  --soft-ink: #4f4f4b;
+  --line: rgba(9, 9, 9, 0.22);
+}
+
+body {
+  background:
+    radial-gradient(circle at 1px 1px, rgba(9, 9, 9, 0.11) 1px, transparent 1.2px),
+    #c9c9c5;
+  background-size: 22px 22px;
+}
+
+.quiz-shell {
+  width: 100%;
+  max-width: none;
+  padding: 14px 18px 38px;
+}
+
+.quiz-topbar {
+  border: 2px solid var(--ink);
+  background: #dededb;
+  color: var(--ink);
+}
+
+.wordmark,
+.regulation-lockup strong,
+.wordmark .regulation-lockup strong,
+.regulation-lockup small {
+  color: var(--ink);
+}
+
+.regulation-brand-mark {
+  position: relative;
+  overflow: hidden;
+  border: 5px solid var(--ink);
+  background: var(--ink);
+}
+
+.regulation-brand-mark::after {
+  position: absolute;
+  inset: -1px;
+  border-radius: 50%;
+  background: #fff url("/regulation-brand-mark.jpg") center / auto 100% no-repeat;
+  content: "";
+  filter: invert(1);
+}
+
+.bank-link {
+  border-color: rgba(9, 9, 9, 0.42);
+  color: var(--ink);
+}
+
+.bank-link:hover,
+.bank-link:focus-visible,
+.bank-link.active {
+  border-color: var(--ink);
+  color: var(--ink);
+}
+
+.corpus-stamp {
+  border-color: var(--ink);
+  background: #ededeb;
+  color: var(--ink);
+}
+
+.corpus-stamp > span {
+  background: #686863;
+  box-shadow: 0 0 0 3px rgba(9, 9, 9, 0.12);
+}
+
+.kicker {
+  background: #777773;
+  color: #fff;
+}
+
+.primary-button,
+.secondary-button,
+.primary-button.dark {
+  border-color: var(--ink);
+  background: #f4f4f1;
+  box-shadow: 5px 5px 0 #8f8f8a;
+  color: var(--ink);
+}
+
+.secondary-button {
+  background: #d8d8d4;
+}
+
+.wsi-intro-grid {
+  min-height: calc(100vh - 112px);
+  background: #b7b7b2;
+  color: var(--ink);
+}
+
+.wsi-intro-copy::after {
+  display: none;
+}
+
+.wsi-intro-copy h1,
+.wsi-intro-copy h1 span {
+  color: var(--ink);
+}
+
+.wsi-intro-copy h1 {
+  margin-top: 0;
+}
+
+.wsi-intro-copy .intro-lede {
+  color: var(--ink);
+  font-size: clamp(20px, 2vw, 27px);
+  font-weight: 800;
+}
+
+.wsi-intro-copy .primary-button {
+  border-color: var(--ink);
+  background: #f4f4f1;
+  box-shadow: 5px 5px 0 #858580;
+  color: var(--ink);
+}
+
+.wsi-intro-copy .fine-print {
+  color: #353532;
+}
+
+.wsi-evidence {
+  background: #e7e7e3;
+}
+
+.wsi-evidence::before {
+  border-color: #fff;
+  background: #fff url("/regulation-brand-mark.jpg") center / auto 100% no-repeat;
+  filter: invert(1);
+}
+
+.wsi-intro-shell .ticker {
+  border-color: var(--ink);
+  background: #deded9;
+  color: var(--ink);
+}
+
+.progress-track > span {
+  background: #676762;
+}
+
+.wsi-round {
+  width: 100%;
+  max-width: none;
+  padding-right: clamp(0px, 2vw, 26px);
+  padding-left: clamp(0px, 2vw, 26px);
+}
+
+.wsi-quote-card {
+  border: 2px solid var(--ink);
+  background: #b7b7b2;
+  box-shadow: 10px 10px 0 #8d8d88;
+  color: var(--ink);
+}
+
+.wsi-quote-card::after {
+  border-color: #fff;
+  background: #fff url("/regulation-brand-mark.jpg") center / auto 100% no-repeat;
+  filter: invert(1);
+}
+
+.wsi-quote-mark {
+  color: var(--ink);
+  opacity: 0.17;
+}
+
+.wsi-quote-card > p {
+  color: #41413d;
+}
+
+.wsi-score-slip {
+  border-color: var(--ink);
+  background: #b5b5b0;
+  box-shadow: 10px 10px 0 #8d8d88;
+  color: var(--ink);
+}
+
+.wsi-score-slip > div {
+  border-color: var(--ink);
+}
+
+.wsi-score-slip > div > span {
+  background: #666662;
+}
+
+.wsi-score-slip > small {
+  border-color: rgba(9, 9, 9, 0.4);
+}
+
+.wsi-bank-hero {
+  background: #b7b7b2;
+  color: var(--ink);
+}
+
+.wsi-bank-hero .kicker {
+  background: #777773;
+  color: #fff;
+}
+
+.wsi-bank-hero h1,
+.wsi-bank-hero h1 span {
+  color: var(--ink);
+}
+
+.wsi-bank-hero .bank-intro p {
+  color: #3f3f3b;
+}
+
+.wsi-bank-hero .secondary-button {
+  border-color: var(--ink);
+  background: #f4f4f1;
+  color: var(--ink);
+}
+
+.bank-controls {
+  background: #dfdfdb;
+}
+
+.category-filters button.active {
+  border-color: var(--ink);
+  background: #686863;
+  color: #fff;
+}
+
+.wsi-bank-card > header {
+  background: #b5b5b0;
+  color: var(--ink);
+}
+
+.wsi-bank-attribution {
+  background: #e5e5e1;
+}
+
+.wsi-breakdown-grid,
+.wsi-review-list article,
+.wsi-bank-card {
+  box-shadow: 6px 6px 0 #8d8d88;
+}
+
+@media (max-width: 720px) {
+  .quiz-shell {
+    width: 100%;
+    padding: 9px 9px 28px;
+  }
+
+  .wsi-intro-grid {
+    min-height: auto;
+    padding: 48px 20px 62px;
+  }
+
+  .wsi-intro-copy h1 {
+    margin-top: 0;
+  }
+
+  .wsi-round {
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
+
 @media (max-width: 640px) {
   .quiz-topbar {
     align-items: flex-start;

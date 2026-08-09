@@ -294,19 +294,19 @@ export default function WhoSaidItGame({ mappedEpisodes }: { mappedEpisodes: numb
         {topbar}
         <section className="wsi-intro-grid">
           <div className="wsi-intro-copy">
-            <p className="kicker">60 real quotes / four possible hosts</p>
             <h1><span>regulation</span>who said it?</h1>
             <p className="intro-lede">
-              Ten lines from a show about friendship, embracing absurdity, and
-              saying things no reasonable person should have to attribute.
+              Made by community member Michael Booth
             </p>
             <button className="primary-button" type="button" onClick={start}>
               Start the regulation quiz
               <span aria-hidden="true">→</span>
             </button>
             <p className="fine-print">
-              Unofficial fan-made game. Real transcript excerpts, lightly trimmed for readability.
-              Contains podcast language.
+              Every run guarantees at least two quotes from each host and a deliberate mix of
+              easy, medium, and hard files. Back-to-back games avoid repeats. Nick isn&apos;t
+              included because he does not talk enough in the mapped transcripts to support a
+              fair question pool.
             </p>
           </div>
 
@@ -322,8 +322,9 @@ export default function WhoSaidItGame({ mappedEpisodes }: { mappedEpisodes: numb
               <div><dt>Suspects</dt><dd>4</dd></div>
             </dl>
             <p>
-              Every run guarantees at least two quotes from each host and a
-              deliberate mix of easy, medium, and hard files. Back-to-back games avoid repeats.
+              The current suspect pool is Geoff, Andrew, Gavin, and Eric. Nick remains an
+              essential Regulation presence; the archive simply does not contain enough mapped
+              Nick dialogue for a balanced set yet.
             </p>
             <div className="wsi-suspects">
               {HOST_ORDER.map((host) => <HostBadge host={host} key={host} />)}

@@ -23,8 +23,9 @@ test("makes Who Said It the primary app", async () => {
 
   const html = await response.text();
   assert.match(html, /<title>Regulation Who Said It<\/title>/i);
-  assert.match(html, /60 real quotes \/ four possible hosts/i);
-  assert.match(html, /friendship, embracing absurdity/i);
+  assert.doesNotMatch(html, /60 real quotes \/ four possible hosts/i);
+  assert.match(html, /Made by community member Michael Booth/i);
+  assert.match(html, /Nick isn(?:&#x27;|')t included because he does not talk enough/i);
   assert.match(html, /Start the regulation quiz/i);
   assert.match(html, /regulation-brand-mark/i);
   assert.match(html, /415<!-- --> episodes digested/i);
@@ -53,7 +54,7 @@ test("server-renders the dedicated Who Said It route", async () => {
   assert.equal(response.status, 200);
   const html = await response.text();
   assert.match(html, /<title>Regulation Who Said It<\/title>/i);
-  assert.match(html, /friendship, embracing absurdity/i);
+  assert.match(html, /Made by community member Michael Booth/i);
   assert.match(html, /<dt>Quote bank<\/dt><dd>60<\/dd>/i);
   assert.match(html, /<dt>Rounds served<\/dt><dd>10<\/dd>/i);
   assert.match(html, /I have a 50-foot ham tower/i);
@@ -77,13 +78,14 @@ test("server-renders the searchable, fully attributed 60-quote bank", async () =
 
 
 test("keeps the game balanced, varied, and transcript-grounded", async () => {
-  const [whoSource, bankBrowserSource, quoteBankText, profileText, design, layoutSource] = await Promise.all([
+  const [whoSource, bankBrowserSource, quoteBankText, profileText, design, layoutSource, styles] = await Promise.all([
     readFile(new URL("../app/WhoSaidItGame.tsx", import.meta.url), "utf8"),
     readFile(new URL("../app/WhoSaidItBankBrowser.tsx", import.meta.url), "utf8"),
     readFile(new URL("../app/data/who-said-it-bank.json", import.meta.url), "utf8"),
     readFile(new URL("../app/data/host-language-profiles.json", import.meta.url), "utf8"),
     readFile(new URL("../WHO_SAID_IT_DESIGN.md", import.meta.url), "utf8"),
     readFile(new URL("../app/layout.tsx", import.meta.url), "utf8"),
+    readFile(new URL("../app/globals.css", import.meta.url), "utf8"),
   ]);
   const profiles = JSON.parse(profileText);
   const quoteBank = JSON.parse(quoteBankText);
@@ -130,6 +132,9 @@ test("keeps the game balanced, varied, and transcript-grounded", async () => {
   assert.match(bankBrowserSource, /aria-pressed/);
   assert.match(design, /20 easy, 20 medium, and 20 hard/i);
   assert.match(layoutSource, /\/og\.png/);
+  assert.match(styles, /Full-width, softer gray revision/);
+  assert.match(styles, /\.quiz-shell\s*{[^}]*width:\s*100%/s);
+  assert.match(styles, /\.wsi-intro-grid\s*{[^}]*background:\s*#b7b7b2/s);
 
   await access(new URL("../public/og.png", import.meta.url));
   await access(new URL("../public/regulation-brand-mark.jpg", import.meta.url));
