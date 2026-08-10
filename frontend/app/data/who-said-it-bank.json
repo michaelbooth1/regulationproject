@@ -784,7 +784,7 @@
   },
   {
     "id": "eric-flip-a-bird",
-    "quote": "We just throw the bird in the air and make it do flips. I heard they always land on their feet.",
+    "quote": "We just throw the bird in the air and make it do flips.",
     "speaker": "eric",
     "episode": 380,
     "title": "Goof Day // Sunny G [95]",
@@ -792,7 +792,7 @@
     "startSec": 214.18,
     "difficulty": "hard",
     "topic": "Incorrect falconry",
-    "context": "A plan to flip a falcon borrowed its entire safety case from a completely different animal.",
+    "context": "The proposed falcon-flipping procedure consisted mostly of throwing the bird upward and trusting the concept of flips.",
     "leadIn": [
       {
         "speaker": "Eric",
@@ -813,30 +813,30 @@
   },
   {
     "id": "eric-guitar-egg",
-    "quote": "I like that you've never eaten an egg, but you play Guitar Hero with one. You'll use it as a controller.",
+    "quote": "Could we call it Guitar Hero with an egg?",
     "speaker": "eric",
     "episode": 382,
     "title": "Guitar Hero with AN EGG // Dillbot to Killbot [96]",
     "published": "2026-03-11",
-    "startSec": 968.84,
+    "startSec": 953.5,
     "difficulty": "hard",
-    "topic": "Egg peripherals",
-    "context": "Andrew's first meaningful relationship with an egg was as a video-game input device.",
+    "topic": "Egg game naming",
+    "context": "An egg-based Guitar Hero controller acquired the only title it could reasonably have.",
     "leadIn": [
       {
+        "speaker": "Gavin",
+        "text": "Didn't you do, like, a Guitar Hero with an egg or something?",
+        "startSec": 936.26
+      },
+      {
         "speaker": "Andrew",
-        "text": "We should absolutely do that. I still have it. Yeah.",
-        "startSec": 951.94
+        "text": "Yeah, I wanted to record a video of that, like calling it From the Vault, where we just do a watch-along with that.",
+        "startSec": 940.04
       },
       {
-        "speaker": "Eric",
-        "text": "So it, could we call it guitar hero with an egg?",
-        "startSec": 953.5
-      },
-      {
-        "speaker": "Eric",
-        "text": "Thank you. Thank you. Didn't you just make that joke? I did. I, cause I was writing it down and I saw it written and I went, oh my God. And I was excited. Yeah.",
-        "startSec": 959.28
+        "speaker": "Andrew",
+        "text": "Oh, that's fun. We should absolutely do that. I still have it. Yeah.",
+        "startSec": 949.94
       }
     ]
   },
@@ -1799,12 +1799,12 @@
   },
   {
     "id": "geoff-egg-economy",
-    "quote": "$8 egg, $40 egg. That one's at the top—one's $1,000 egg, $500 egg. $500 egg. $800 egg.",
+    "quote": "The top one's a $1,000 egg, a $500 egg.",
     "speaker": "geoff",
     "episode": 71,
     "title": "The Most Magical Podcast on Earth // How Do you Scrump an Egg? [68]",
     "published": "2021-09-15",
-    "startSec": 2054.76,
+    "startSec": 2056.46,
     "difficulty": "hard",
     "topic": "Collectible egg economy",
     "context": "An eBay page full of collectible egg cards introduced a market where a single illustrated egg could apparently cost almost anything.",
@@ -1857,7 +1857,7 @@
   },
   {
     "id": "geoff-betty-white-bread",
-    "quote": "She's older than sliced bread. That means sliced bread is the best thing since Betty White.",
+    "quote": "She's older than sliced bread.",
     "speaker": "geoff",
     "episode": 82,
     "title": "Regulation Listeners // Geoff's at 36% [78]",
@@ -1865,7 +1865,7 @@
     "startSec": 2931.37,
     "difficulty": "hard",
     "topic": "Reversed bread history",
-    "context": "While trying to win a fact-shirt contest, Geoff reverse-engineered a Betty White slogan from her age.",
+    "context": "Betty White's age was measured against one of civilization's most important bread milestones.",
     "leadIn": [
       {
         "speaker": "Geoff",
@@ -2089,12 +2089,12 @@
   },
   {
     "id": "gavin-boiled-fish",
-    "quote": "I would argue the fish is the most prepared if the fire happens. You're just going to come back to a boiled fish.",
+    "quote": "You're just going to come back to a boiled fish.",
     "speaker": "gavin",
     "episode": 54,
     "title": "Divided Comment Leavers // All Time Loser [51]",
     "published": "2021-05-19",
-    "startSec": 2955.05,
+    "startSec": 2958.79,
     "difficulty": "medium",
     "topic": "Aquarium fire planning",
     "context": "The problem of rescuing an expensive aquarium fish became a debate over whether the tank was already emergency cookware.",
@@ -2292,7 +2292,7 @@
   },
   {
     "id": "eric-two-headed-bird",
-    "quote": "Mine has two-headed bird tongues. Awesome. Mine is like a tail tongue.",
+    "quote": "Mine has two-headed bird tongues.",
     "speaker": "eric",
     "episode": 97,
     "title": "Pleasantry Differences // A Loose Relationship with the Truth [90]",
@@ -2321,12 +2321,12 @@
   },
   {
     "id": "geoff-third-bread",
-    "quote": "I always pick the third bread. The third bread is always the best bread. No, like, 90% of the time, the third bread's the best bread.",
+    "quote": "No, like, 90% of the time, the third bread's the best bread.",
     "speaker": "geoff",
     "episode": 100,
     "title": "Breakfast with F**kface // Naming a 20,000 Things [92]",
     "published": "2022-03-02",
-    "startSec": 524.17,
+    "startSec": 530.61,
     "difficulty": "medium",
     "topic": "Sandwich-shop statistics",
     "context": "Faced with six bread choices, Geoff disclosed a selection system based entirely on menu position and a claimed 90% success rate.",

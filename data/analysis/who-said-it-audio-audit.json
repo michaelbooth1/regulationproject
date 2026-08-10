@@ -1,0 +1,5127 @@
+{
+  "generatedAt": "2026-08-10T17:37:56.013530-04:00",
+  "complete": true,
+  "models": {
+    "transcription": "large-v3-turbo",
+    "diarization": "pyannote/speaker-diarization-community-1"
+  },
+  "thresholds": {
+    "minimumSimilarity": 0.52,
+    "minimumMargin": 0.08,
+    "minimumEvidenceSeconds": 0.55
+  },
+  "totals": {
+    "requested": 100,
+    "processed": 100,
+    "clean": 91,
+    "mixed_speakers": 8,
+    "wrong_speaker": 1
+  },
+  "entries": [
+    {
+      "id": "geoff-banana-diet",
+      "episode": 9,
+      "expectedSpeaker": "geoff",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 226.5,
+      "matchedStartSec": 241.54,
+      "matchedEndSec": 249.5,
+      "dynamicOffsetSec": 15.04,
+      "matchedText": "i only ate banana popsicles and banana laffy taffy as sustenance for about 14 months and i'd say 30 pounds",
+      "wholeQuote": {
+        "host": "geoff",
+        "bestHost": "geoff",
+        "similarity": 0.9167,
+        "margin": 0.6633
+      },
+      "turnBlocks": [
+        {
+          "text": "i only ate banana popsicles and banana laffy taffy as sustenance for about 14 months and i'd say 30 pounds",
+          "start": 4.0,
+          "end": 11.96,
+          "duration": 7.96,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.9167,
+          "margin": 0.6633
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "i only ate banana popsicles and banana laffy taffy as sustenance for about 14 months and i'd say 30 pounds",
+          "start": 4.0,
+          "end": 11.96,
+          "duration": 7.96,
+          "diarizationLabel": null,
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.9167,
+          "margin": 0.6633
+        }
+      ]
+    },
+    {
+      "id": "geoff-sock-forensics",
+      "episode": 39,
+      "expectedSpeaker": "geoff",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 292.8,
+      "matchedStartSec": 280.08,
+      "matchedEndSec": 291.48,
+      "dynamicOffsetSec": -12.72,
+      "matchedText": "that is approximately i'd say 15 to 45 seconds after i picked up the right sock for the right foot",
+      "wholeQuote": {
+        "host": "geoff",
+        "bestHost": "geoff",
+        "similarity": 0.9092,
+        "margin": 0.5224
+      },
+      "turnBlocks": [
+        {
+          "text": "that is approximately i'd say",
+          "start": 4.0,
+          "end": 7.08,
+          "duration": 3.08,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.7963,
+          "margin": 0.4
+        },
+        {
+          "text": "15",
+          "start": 7.08,
+          "end": 9.26,
+          "duration": 2.18,
+          "diarizationLabel": null,
+          "host": null,
+          "bestHost": "geoff",
+          "similarity": 0.0781,
+          "margin": 0.024
+        },
+        {
+          "text": "to 45 seconds after i picked up the right sock for the right foot",
+          "start": 9.26,
+          "end": 15.4,
+          "duration": 6.14,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.8899,
+          "margin": 0.4622
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "that is approximately i'd say 15 to 45 seconds after i picked up the right sock for the right foot",
+          "start": 4.0,
+          "end": 15.4,
+          "duration": 11.4,
+          "diarizationLabel": null,
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.9092,
+          "margin": 0.5224
+        }
+      ]
+    },
+    {
+      "id": "geoff-twelve-foot-toilet",
+      "episode": 52,
+      "expectedSpeaker": "geoff",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 3448.29,
+      "matchedStartSec": 3448.21,
+      "matchedEndSec": 3451.87,
+      "dynamicOffsetSec": -0.08,
+      "matchedText": "I tell you what, you sent me a 12 -foot toilet.",
+      "wholeQuote": {
+        "host": "geoff",
+        "bestHost": "geoff",
+        "similarity": 0.8107,
+        "margin": 0.5086
+      },
+      "turnBlocks": [
+        {
+          "text": "I tell you what, you sent me a 12 -foot toilet.",
+          "start": 4.0,
+          "end": 7.66,
+          "duration": 3.66,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.8107,
+          "margin": 0.5086
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "I tell you what, you sent me a 12 -foot toilet.",
+          "start": 4.0,
+          "end": 7.66,
+          "duration": 3.66,
+          "diarizationLabel": null,
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.8107,
+          "margin": 0.5086
+        }
+      ]
+    },
+    {
+      "id": "geoff-global-flush",
+      "episode": 67,
+      "expectedSpeaker": "geoff",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 1158.13,
+      "matchedStartSec": 1115.95,
+      "matchedEndSec": 1125.57,
+      "dynamicOffsetSec": -42.18,
+      "matchedText": "which got me thinking what if every toilet on earth was flushed at the exact same time",
+      "wholeQuote": {
+        "host": "geoff",
+        "bestHost": "geoff",
+        "similarity": 0.851,
+        "margin": 0.5174
+      },
+      "turnBlocks": [
+        {
+          "text": "which got me thinking what if every toilet on earth was flushed at the exact same time",
+          "start": 4.0,
+          "end": 13.62,
+          "duration": 9.62,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.851,
+          "margin": 0.5174
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "which got me thinking what if every toilet on earth was flushed at the exact same time",
+          "start": 4.0,
+          "end": 13.62,
+          "duration": 9.62,
+          "diarizationLabel": null,
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.851,
+          "margin": 0.5174
+        }
+      ]
+    },
+    {
+      "id": "geoff-gentle-ghost",
+      "episode": 104,
+      "expectedSpeaker": "geoff",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 3588.93,
+      "matchedStartSec": 3532.35,
+      "matchedEndSec": 3534.81,
+      "dynamicOffsetSec": -56.58,
+      "matchedText": "I was visited by the gentle ghost again.",
+      "wholeQuote": {
+        "host": "geoff",
+        "bestHost": "geoff",
+        "similarity": 0.8493,
+        "margin": 0.5743
+      },
+      "turnBlocks": [
+        {
+          "text": "I was visited by the gentle ghost again.",
+          "start": 4.0,
+          "end": 6.46,
+          "duration": 2.46,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.8493,
+          "margin": 0.5743
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "I was visited by the gentle ghost again.",
+          "start": 4.0,
+          "end": 6.46,
+          "duration": 2.46,
+          "diarizationLabel": null,
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.8493,
+          "margin": 0.5743
+        }
+      ]
+    },
+    {
+      "id": "geoff-bovril-empire",
+      "episode": 107,
+      "expectedSpeaker": "geoff",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 122.97,
+      "matchedStartSec": 109.61,
+      "matchedEndSec": 119.01,
+      "dynamicOffsetSec": -13.36,
+      "matchedText": "by 1968 the bovril empire owned argentinian beef ranches that totaled the equivalent of half the size of england",
+      "wholeQuote": {
+        "host": "geoff",
+        "bestHost": "geoff",
+        "similarity": 0.9214,
+        "margin": 0.5771
+      },
+      "turnBlocks": [
+        {
+          "text": "by 1968 the bovril empire owned argentinian beef ranches that totaled the equivalent of half the size of england",
+          "start": 4.0,
+          "end": 13.4,
+          "duration": 9.4,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.9214,
+          "margin": 0.5771
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "by 1968 the bovril empire owned argentinian beef ranches that totaled the equivalent of half the size of england",
+          "start": 4.0,
+          "end": 13.4,
+          "duration": 9.4,
+          "diarizationLabel": null,
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.9214,
+          "margin": 0.5771
+        }
+      ]
+    },
+    {
+      "id": "geoff-sleeping-pill-horse",
+      "episode": 245,
+      "expectedSpeaker": "geoff",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.9697,
+      "expectedStartSec": 1746.84,
+      "matchedStartSec": 1701.16,
+      "matchedEndSec": 1706.14,
+      "dynamicOffsetSec": -45.68,
+      "matchedText": "what if you could give the uh horse a sleeping pill and then it never woke up",
+      "wholeQuote": {
+        "host": "geoff",
+        "bestHost": "geoff",
+        "similarity": 0.8233,
+        "margin": 0.4342
+      },
+      "turnBlocks": [
+        {
+          "text": "what if you could give the uh horse a sleeping pill and then it never woke up",
+          "start": 4.0,
+          "end": 8.98,
+          "duration": 4.98,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.8233,
+          "margin": 0.4342
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "what if you could give the uh horse a sleeping pill and then it never woke up",
+          "start": 4.0,
+          "end": 8.98,
+          "duration": 4.98,
+          "diarizationLabel": null,
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.8233,
+          "margin": 0.4342
+        }
+      ]
+    },
+    {
+      "id": "geoff-poop-two-chairs",
+      "episode": 251,
+      "expectedSpeaker": "geoff",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.9474,
+      "expectedStartSec": 2242.2,
+      "matchedStartSec": 2241.19,
+      "matchedEndSec": 2248.69,
+      "dynamicOffsetSec": -1.01,
+      "matchedText": "i did get poop all over my pants and my shirt and my shoes and a chair two chairs today",
+      "wholeQuote": {
+        "host": "geoff",
+        "bestHost": "geoff",
+        "similarity": 0.8772,
+        "margin": 0.5222
+      },
+      "turnBlocks": [
+        {
+          "text": "i did get poop all over my pants and my shirt and my shoes and a chair two chairs today",
+          "start": 4.0,
+          "end": 11.5,
+          "duration": 7.5,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.8772,
+          "margin": 0.5222
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "i did get poop all over my pants and my shirt and my shoes and a chair two chairs today",
+          "start": 4.0,
+          "end": 11.5,
+          "duration": 7.5,
+          "diarizationLabel": null,
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.8772,
+          "margin": 0.5222
+        }
+      ]
+    },
+    {
+      "id": "andrew-pepsi-hotline",
+      "episode": 14,
+      "expectedSpeaker": "andrew",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 1316.13,
+      "matchedStartSec": 1225.31,
+      "matchedEndSec": 1232.17,
+      "dynamicOffsetSec": -90.82,
+      "matchedText": "The next day, I posted a random photo of a Donkey Kong character and another number, this time to the Pepsi 1 -800 number.",
+      "wholeQuote": {
+        "host": "andrew",
+        "bestHost": "andrew",
+        "similarity": 0.901,
+        "margin": 0.591
+      },
+      "turnBlocks": [
+        {
+          "text": "The next day, I posted a random photo of a Donkey Kong character and another number, this time to the Pepsi 1 -800 number.",
+          "start": 4.0,
+          "end": 10.86,
+          "duration": 6.86,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.901,
+          "margin": 0.591
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "The next day, I posted a random photo of a Donkey Kong character and another number, this time to the Pepsi 1 -800 number.",
+          "start": 4.0,
+          "end": 10.86,
+          "duration": 6.86,
+          "diarizationLabel": null,
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.901,
+          "margin": 0.591
+        }
+      ]
+    },
+    {
+      "id": "andrew-ham-currency",
+      "episode": 46,
+      "expectedSpeaker": "andrew",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.9143,
+      "expectedStartSec": 2801.88,
+      "matchedStartSec": 2726.62,
+      "matchedEndSec": 2732.52,
+      "dynamicOffsetSec": -75.26,
+      "matchedText": "I hope that the beef bracelet or uniform is willing to take ham coin as a currency.",
+      "wholeQuote": {
+        "host": "andrew",
+        "bestHost": "andrew",
+        "similarity": 0.917,
+        "margin": 0.6358
+      },
+      "turnBlocks": [
+        {
+          "text": "I hope that the beef bracelet or uniform is willing to take ham coin as a currency.",
+          "start": 4.0,
+          "end": 9.9,
+          "duration": 5.9,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.917,
+          "margin": 0.6358
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "I hope that the beef bracelet or uniform is willing to take ham coin as a currency.",
+          "start": 4.0,
+          "end": 9.9,
+          "duration": 5.9,
+          "diarizationLabel": null,
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.917,
+          "margin": 0.6358
+        }
+      ]
+    },
+    {
+      "id": "andrew-seventy-five-sauces",
+      "episode": 58,
+      "expectedSpeaker": "andrew",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.9,
+      "expectedStartSec": 1047.22,
+      "matchedStartSec": 1045.92,
+      "matchedEndSec": 1050.94,
+      "dynamicOffsetSec": -1.3,
+      "matchedText": "i just ordered 75 nugget sauce of the sweet chili",
+      "wholeQuote": {
+        "host": "andrew",
+        "bestHost": "andrew",
+        "similarity": 0.8477,
+        "margin": 0.5353
+      },
+      "turnBlocks": [
+        {
+          "text": "i",
+          "start": 4.0,
+          "end": 5.72,
+          "duration": 1.72,
+          "diarizationLabel": null,
+          "host": null,
+          "bestHost": "andrew",
+          "similarity": 0.3799,
+          "margin": 0.158
+        },
+        {
+          "text": "just ordered 75 nugget sauce of the sweet chili",
+          "start": 5.72,
+          "end": 9.02,
+          "duration": 3.3,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.8559,
+          "margin": 0.5468
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "i just ordered 75 nugget sauce of the sweet chili",
+          "start": 4.0,
+          "end": 9.02,
+          "duration": 5.02,
+          "diarizationLabel": null,
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.8477,
+          "margin": 0.5353
+        }
+      ]
+    },
+    {
+      "id": "andrew-horse-egg",
+      "episode": 63,
+      "expectedSpeaker": "andrew",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.9091,
+      "expectedStartSec": 2245.26,
+      "matchedStartSec": 2215.04,
+      "matchedEndSec": 2217.8,
+      "dynamicOffsetSec": -30.22,
+      "matchedText": "no I feel like a horse you just kind of gotta line the egg up right",
+      "wholeQuote": {
+        "host": "andrew",
+        "bestHost": "andrew",
+        "similarity": 0.7843,
+        "margin": 0.4606
+      },
+      "turnBlocks": [
+        {
+          "text": "no I feel like a horse you just kind of gotta line the egg up right",
+          "start": 4.0,
+          "end": 6.76,
+          "duration": 2.76,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.7843,
+          "margin": 0.4606
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "no I feel like a horse you just kind of gotta line the egg up right",
+          "start": 4.0,
+          "end": 6.76,
+          "duration": 2.76,
+          "diarizationLabel": null,
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.7843,
+          "margin": 0.4606
+        }
+      ]
+    },
+    {
+      "id": "andrew-swan-dna",
+      "episode": 113,
+      "expectedSpeaker": "andrew",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.9796,
+      "expectedStartSec": 1997.53,
+      "matchedStartSec": 1955.57,
+      "matchedEndSec": 1963.07,
+      "dynamicOffsetSec": -41.96,
+      "matchedText": "I really want you to try to get, like, a spit sample from the swan to submit to 23andMe to determine where it came from.",
+      "wholeQuote": {
+        "host": "andrew",
+        "bestHost": "andrew",
+        "similarity": 0.8409,
+        "margin": 0.4632
+      },
+      "turnBlocks": [
+        {
+          "text": "I really want you to try to get, like, a spit sample from the swan to submit to 23andMe to determine where it came from.",
+          "start": 4.0,
+          "end": 11.5,
+          "duration": 7.5,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.8409,
+          "margin": 0.4632
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "I really want you to try to get, like, a spit sample from the swan to submit to 23andMe to determine where it came from.",
+          "start": 4.0,
+          "end": 11.5,
+          "duration": 7.5,
+          "diarizationLabel": null,
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.8409,
+          "margin": 0.4632
+        }
+      ]
+    },
+    {
+      "id": "andrew-egg-measurement",
+      "episode": 249,
+      "expectedSpeaker": "andrew",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 74.16,
+      "matchedStartSec": 63.9,
+      "matchedEndSec": 70.42,
+      "dynamicOffsetSec": -10.26,
+      "matchedText": "well if we go by an egg I'm first but I think that's the only measuring system in which I'm ahead of everybody",
+      "wholeQuote": {
+        "host": "andrew",
+        "bestHost": "andrew",
+        "similarity": 0.8842,
+        "margin": 0.4494
+      },
+      "turnBlocks": [
+        {
+          "text": "well if we go by an egg I'm first but I think that's the only measuring system in which I'm ahead of everybody",
+          "start": 4.0,
+          "end": 10.52,
+          "duration": 6.52,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.8842,
+          "margin": 0.4494
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "well if we go by an egg I'm first but I think that's the only measuring system in which I'm ahead of everybody",
+          "start": 4.0,
+          "end": 10.52,
+          "duration": 6.52,
+          "diarizationLabel": null,
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.8842,
+          "margin": 0.4494
+        }
+      ]
+    },
+    {
+      "id": "andrew-potatoast",
+      "episode": 266,
+      "expectedSpeaker": "andrew",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 2584.98,
+      "matchedStartSec": 2479.15,
+      "matchedEndSec": 2484.67,
+      "dynamicOffsetSec": -105.83,
+      "matchedText": "could you do a baked potato as the bread and mashed potato as the filling",
+      "wholeQuote": {
+        "host": "andrew",
+        "bestHost": "andrew",
+        "similarity": 0.8819,
+        "margin": 0.4499
+      },
+      "turnBlocks": [
+        {
+          "text": "could you do a baked potato as the bread and mashed potato as the filling",
+          "start": 4.0,
+          "end": 9.52,
+          "duration": 5.52,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.8819,
+          "margin": 0.4499
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "could you do a baked potato as the bread and mashed potato as the filling",
+          "start": 4.0,
+          "end": 9.52,
+          "duration": 5.52,
+          "diarizationLabel": null,
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.8819,
+          "margin": 0.4499
+        }
+      ]
+    },
+    {
+      "id": "andrew-ostrich-sandwich",
+      "episode": 377,
+      "expectedSpeaker": "andrew",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.973,
+      "expectedStartSec": 2921.71,
+      "matchedStartSec": 2846.24,
+      "matchedEndSec": 2850.74,
+      "dynamicOffsetSec": -75.47,
+      "matchedText": "I'm imagining an ostrich egg sandwich is just like a foot, like it has to be a foot long.",
+      "wholeQuote": {
+        "host": "andrew",
+        "bestHost": "andrew",
+        "similarity": 0.8548,
+        "margin": 0.5388
+      },
+      "turnBlocks": [
+        {
+          "text": "I'm imagining an ostrich egg sandwich is just like a foot, like it has to be a foot long.",
+          "start": 4.0,
+          "end": 8.5,
+          "duration": 4.5,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.8548,
+          "margin": 0.5388
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "I'm imagining an ostrich egg sandwich is just like a foot, like it has to be a foot long.",
+          "start": 4.0,
+          "end": 8.5,
+          "duration": 4.5,
+          "diarizationLabel": null,
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.8548,
+          "margin": 0.5388
+        }
+      ]
+    },
+    {
+      "id": "gavin-bed-toilet",
+      "episode": 41,
+      "expectedSpeaker": "gavin",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.8986,
+      "expectedStartSec": 989.34,
+      "matchedStartSec": 929.35,
+      "matchedEndSec": 939.77,
+      "dynamicOffsetSec": -59.99,
+      "matchedText": "a piss hole in the mattress, or some sort of levers and pulley system a la Wallace and Gromit that tilts you up in the air and forwards into a toilet that's at the foot of the bed?",
+      "wholeQuote": {
+        "host": "gavin",
+        "bestHost": "gavin",
+        "similarity": 0.9318,
+        "margin": 0.6438
+      },
+      "turnBlocks": [
+        {
+          "text": "a piss hole in the mattress, or some sort of levers and pulley system a la Wallace and Gromit that tilts you up in the air and forwards into a toilet that's at the foot of the bed?",
+          "start": 4.0,
+          "end": 14.42,
+          "duration": 10.42,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.9318,
+          "margin": 0.6438
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "a piss hole in the mattress, or some sort of levers and pulley system a la Wallace and Gromit that tilts you up in the air and forwards into a toilet that's at the foot of the bed?",
+          "start": 4.0,
+          "end": 14.42,
+          "duration": 10.42,
+          "diarizationLabel": null,
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.9318,
+          "margin": 0.6438
+        }
+      ]
+    },
+    {
+      "id": "gavin-puffer-fish",
+      "episode": 270,
+      "expectedSpeaker": "gavin",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 918.16,
+      "matchedStartSec": 904.24,
+      "matchedEndSec": 908.6,
+      "dynamicOffsetSec": -13.92,
+      "matchedText": "You think a puffer fish in the talons of a bird is going to remain unpuffed?",
+      "wholeQuote": {
+        "host": "gavin",
+        "bestHost": "gavin",
+        "similarity": 0.7605,
+        "margin": 0.4316
+      },
+      "turnBlocks": [
+        {
+          "text": "You think a puffer fish in the talons of a bird is going to remain unpuffed?",
+          "start": 4.0,
+          "end": 8.36,
+          "duration": 4.36,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.7605,
+          "margin": 0.4316
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "You think a puffer fish in the talons of a bird is going to remain unpuffed?",
+          "start": 4.0,
+          "end": 8.36,
+          "duration": 4.36,
+          "diarizationLabel": null,
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.7605,
+          "margin": 0.4316
+        }
+      ]
+    },
+    {
+      "id": "gavin-fruit-bagel",
+      "episode": 292,
+      "expectedSpeaker": "gavin",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.9474,
+      "expectedStartSec": 1352.48,
+      "matchedStartSec": 1277.34,
+      "matchedEndSec": 1280.98,
+      "dynamicOffsetSec": -75.14,
+      "matchedText": "if, using sliced pineapple, I made a fruit bagel?",
+      "wholeQuote": {
+        "host": "gavin",
+        "bestHost": "gavin",
+        "similarity": 0.8677,
+        "margin": 0.5591
+      },
+      "turnBlocks": [
+        {
+          "text": "if, using sliced pineapple, I made a fruit bagel?",
+          "start": 4.0,
+          "end": 7.64,
+          "duration": 3.64,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.8677,
+          "margin": 0.5591
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "if, using sliced pineapple, I made a fruit bagel?",
+          "start": 4.0,
+          "end": 7.64,
+          "duration": 3.64,
+          "diarizationLabel": null,
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.8677,
+          "margin": 0.5591
+        }
+      ]
+    },
+    {
+      "id": "gavin-ham-inside-pig",
+      "episode": 311,
+      "expectedSpeaker": "gavin",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 2635.82,
+      "matchedStartSec": 2575.5,
+      "matchedEndSec": 2578.26,
+      "dynamicOffsetSec": -60.32,
+      "matchedText": "I've never seen a picture of a ham inside the pig,",
+      "wholeQuote": {
+        "host": "gavin",
+        "bestHost": "gavin",
+        "similarity": 0.6936,
+        "margin": 0.4139
+      },
+      "turnBlocks": [
+        {
+          "text": "I've never seen a picture of a ham inside the pig,",
+          "start": 4.0,
+          "end": 6.76,
+          "duration": 2.76,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.6936,
+          "margin": 0.4139
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "I've never seen a picture of a ham inside the pig,",
+          "start": 4.0,
+          "end": 6.76,
+          "duration": 2.76,
+          "diarizationLabel": null,
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.6936,
+          "margin": 0.4139
+        }
+      ]
+    },
+    {
+      "id": "gavin-roast-one-fork",
+      "episode": 360,
+      "expectedSpeaker": "gavin",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.8889,
+      "expectedStartSec": 329.32,
+      "matchedStartSec": 284.42,
+      "matchedEndSec": 288.66,
+      "dynamicOffsetSec": -44.9,
+      "matchedText": "imagine a hunk of roast beef through a roast potato with a bit of parsnip on",
+      "wholeQuote": {
+        "host": "gavin",
+        "bestHost": "gavin",
+        "similarity": 0.8368,
+        "margin": 0.6283
+      },
+      "turnBlocks": [
+        {
+          "text": "imagine a hunk of roast beef through a roast potato with a bit of parsnip on",
+          "start": 4.0,
+          "end": 8.24,
+          "duration": 4.24,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.8368,
+          "margin": 0.6283
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "imagine a hunk of roast beef through a roast potato with a bit of parsnip on",
+          "start": 4.0,
+          "end": 8.24,
+          "duration": 4.24,
+          "diarizationLabel": null,
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.8368,
+          "margin": 0.6283
+        }
+      ]
+    },
+    {
+      "id": "gavin-pizza-strip",
+      "episode": 400,
+      "expectedSpeaker": "gavin",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 1783.94,
+      "matchedStartSec": 1753.7,
+      "matchedEndSec": 1759.12,
+      "dynamicOffsetSec": -30.24,
+      "matchedText": "but then i thought if you turned a pizza into a long strip how long would it be",
+      "wholeQuote": {
+        "host": "gavin",
+        "bestHost": "gavin",
+        "similarity": 0.8494,
+        "margin": 0.498
+      },
+      "turnBlocks": [
+        {
+          "text": "but then i thought if you turned a pizza into a long strip how long would it be",
+          "start": 4.0,
+          "end": 9.42,
+          "duration": 5.42,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.8494,
+          "margin": 0.498
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "but then i thought if you turned a pizza into a long strip how long would it be",
+          "start": 4.0,
+          "end": 9.42,
+          "duration": 5.42,
+          "diarizationLabel": null,
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.8494,
+          "margin": 0.498
+        }
+      ]
+    },
+    {
+      "id": "gavin-ankle-trousers",
+      "episode": 413,
+      "expectedSpeaker": "gavin",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 1464.34,
+      "matchedStartSec": 1374.54,
+      "matchedEndSec": 1378.9,
+      "dynamicOffsetSec": -89.8,
+      "matchedText": "i wonder if there's any data on whether people roll their ankle more in shorts or trousers",
+      "wholeQuote": {
+        "host": "gavin",
+        "bestHost": "gavin",
+        "similarity": 0.8951,
+        "margin": 0.6246
+      },
+      "turnBlocks": [
+        {
+          "text": "i wonder if there's any data on whether people roll their ankle more in shorts or trousers",
+          "start": 4.0,
+          "end": 8.36,
+          "duration": 4.36,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.8951,
+          "margin": 0.6246
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "i wonder if there's any data on whether people roll their ankle more in shorts or trousers",
+          "start": 4.0,
+          "end": 8.36,
+          "duration": 4.36,
+          "diarizationLabel": null,
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.8951,
+          "margin": 0.6246
+        }
+      ]
+    },
+    {
+      "id": "eric-bean-hole-tent",
+      "episode": 122,
+      "expectedSpeaker": "eric",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.9286,
+      "expectedStartSec": 1595.78,
+      "matchedStartSec": 1551.36,
+      "matchedEndSec": 1553.96,
+      "dynamicOffsetSec": -44.42,
+      "matchedText": "oh no what if we pitch our tent right on top of the",
+      "wholeQuote": {
+        "host": "eric",
+        "bestHost": "eric",
+        "similarity": 0.5944,
+        "margin": 0.2874
+      },
+      "turnBlocks": [
+        {
+          "text": "oh no what if we pitch our tent right on top of the",
+          "start": 4.0,
+          "end": 6.6,
+          "duration": 2.6,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.5944,
+          "margin": 0.2874
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "oh no what if we pitch our tent right on top of the",
+          "start": 4.0,
+          "end": 6.6,
+          "duration": 2.6,
+          "diarizationLabel": null,
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.5944,
+          "margin": 0.2874
+        }
+      ]
+    },
+    {
+      "id": "eric-icy-hot-fastball",
+      "episode": 138,
+      "expectedSpeaker": "eric",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 3344.64,
+      "matchedStartSec": 3224.44,
+      "matchedEndSec": 3229.3,
+      "dynamicOffsetSec": -120.2,
+      "matchedText": "Do you think that if you put icy hot on your dick and balls, you could throw 80 miles an hour?",
+      "wholeQuote": {
+        "host": "eric",
+        "bestHost": "eric",
+        "similarity": 0.7962,
+        "margin": 0.474
+      },
+      "turnBlocks": [
+        {
+          "text": "Do you think that if you put icy hot on your dick and balls, you could throw 80 miles an hour?",
+          "start": 4.0,
+          "end": 8.86,
+          "duration": 4.86,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.7962,
+          "margin": 0.474
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "Do you think that if you put icy hot on your dick and balls, you could throw 80 miles an hour?",
+          "start": 4.0,
+          "end": 8.86,
+          "duration": 4.86,
+          "diarizationLabel": null,
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.7962,
+          "margin": 0.474
+        }
+      ]
+    },
+    {
+      "id": "eric-ham-tower",
+      "episode": 277,
+      "expectedSpeaker": "eric",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 2760.48,
+      "matchedStartSec": 2759.76,
+      "matchedEndSec": 2766.64,
+      "dynamicOffsetSec": -0.72,
+      "matchedText": "I have a 50 -foot ham tower that gives me about 13 miles of range with these walkie -talkies around the house.",
+      "wholeQuote": {
+        "host": "eric",
+        "bestHost": "eric",
+        "similarity": 0.8746,
+        "margin": 0.5258
+      },
+      "turnBlocks": [
+        {
+          "text": "I have a 50 -foot ham tower that gives me about 13 miles of range with these walkie -talkies around the house.",
+          "start": 4.0,
+          "end": 10.88,
+          "duration": 6.88,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.8746,
+          "margin": 0.5258
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "I have a 50 -foot ham tower that gives me about 13 miles of range with these walkie -talkies around the house.",
+          "start": 4.0,
+          "end": 10.88,
+          "duration": 6.88,
+          "diarizationLabel": null,
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.8746,
+          "margin": 0.5258
+        }
+      ]
+    },
+    {
+      "id": "eric-wide-angle-head",
+      "episode": 302,
+      "expectedSpeaker": "eric",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 1732.96,
+      "matchedStartSec": 1672.76,
+      "matchedEndSec": 1677.52,
+      "dynamicOffsetSec": -60.2,
+      "matchedText": "Hey, what if I put a big wide angle lens on my head and then point it down towards my dick? You guys want to see that?",
+      "wholeQuote": {
+        "host": "eric",
+        "bestHost": "eric",
+        "similarity": 0.8435,
+        "margin": 0.5742
+      },
+      "turnBlocks": [
+        {
+          "text": "Hey, what if I put a big wide angle lens on my head and then point it down towards my dick? You guys want to see that?",
+          "start": 4.0,
+          "end": 8.76,
+          "duration": 4.76,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.8435,
+          "margin": 0.5742
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "Hey, what if I put a big wide angle lens on my head and then point it down towards my dick?",
+          "start": 4.0,
+          "end": 7.68,
+          "duration": 3.68,
+          "diarizationLabel": null,
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.8238,
+          "margin": 0.5646
+        },
+        {
+          "text": "You guys want to see that?",
+          "start": 7.9,
+          "end": 8.76,
+          "duration": 0.86,
+          "diarizationLabel": null,
+          "host": null,
+          "bestHost": "eric",
+          "similarity": 0.3771,
+          "margin": 0.3106
+        }
+      ]
+    },
+    {
+      "id": "eric-flip-a-bird",
+      "episode": 380,
+      "expectedSpeaker": "eric",
+      "status": "mixed_speakers",
+      "reasons": [
+        "multiple turn-level host fingerprints",
+        "multiple sentence-level host fingerprints"
+      ],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 214.18,
+      "matchedStartSec": 185.0,
+      "matchedEndSec": 190.54,
+      "dynamicOffsetSec": -29.18,
+      "matchedText": "We just throw the bird in the air and make it do flips. I heard they always land on their feet.",
+      "wholeQuote": {
+        "host": null,
+        "bestHost": "geoff",
+        "similarity": 0.6331,
+        "margin": 0.0049
+      },
+      "turnBlocks": [
+        {
+          "text": "We just throw the bird in the air and make it do flips.",
+          "start": 4.0,
+          "end": 6.54,
+          "duration": 2.54,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.717,
+          "margin": 0.3164
+        },
+        {
+          "text": "I heard they always land on their feet.",
+          "start": 7.56,
+          "end": 9.54,
+          "duration": 1.98,
+          "diarizationLabel": "SPEAKER_01",
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.7196,
+          "margin": 0.4017
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "We just throw the bird in the air and make it do flips.",
+          "start": 4.0,
+          "end": 6.54,
+          "duration": 2.54,
+          "diarizationLabel": null,
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.717,
+          "margin": 0.3164
+        },
+        {
+          "text": "I heard they always land on their feet.",
+          "start": 7.56,
+          "end": 9.54,
+          "duration": 1.98,
+          "diarizationLabel": null,
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.7196,
+          "margin": 0.4017
+        }
+      ]
+    },
+    {
+      "id": "eric-guitar-egg",
+      "episode": 382,
+      "expectedSpeaker": "eric",
+      "status": "wrong_speaker",
+      "reasons": [
+        "whole quote matches gavin, not eric"
+      ],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 968.84,
+      "matchedStartSec": 938.54,
+      "matchedEndSec": 943.6,
+      "dynamicOffsetSec": -30.3,
+      "matchedText": "i like that you've never eaten an egg but you play guitar hero with one you'll use it as a controller",
+      "wholeQuote": {
+        "host": "gavin",
+        "bestHost": "gavin",
+        "similarity": 0.7647,
+        "margin": 0.3449
+      },
+      "turnBlocks": [
+        {
+          "text": "i like that you've never eaten an egg but you play guitar hero with one you'll use it as a controller",
+          "start": 4.0,
+          "end": 9.06,
+          "duration": 5.06,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.7647,
+          "margin": 0.3449
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "i like that you've never eaten an egg but you play guitar hero with one you'll use it as a controller",
+          "start": 4.0,
+          "end": 9.06,
+          "duration": 5.06,
+          "diarizationLabel": null,
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.7647,
+          "margin": 0.3449
+        }
+      ]
+    },
+    {
+      "id": "eric-bank-floor",
+      "episode": 404,
+      "expectedSpeaker": "eric",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 111.34,
+      "matchedStartSec": 81.3,
+      "matchedEndSec": 85.64,
+      "dynamicOffsetSec": -30.04,
+      "matchedText": "no one knows you're robbing the bank you just go in and shit on the floor",
+      "wholeQuote": {
+        "host": "eric",
+        "bestHost": "eric",
+        "similarity": 0.7344,
+        "margin": 0.2922
+      },
+      "turnBlocks": [
+        {
+          "text": "no one knows you're robbing the bank you just go in and shit on the floor",
+          "start": 4.0,
+          "end": 8.34,
+          "duration": 4.34,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.7344,
+          "margin": 0.2922
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "no one knows you're robbing the bank you just go in and shit on the floor",
+          "start": 4.0,
+          "end": 8.34,
+          "duration": 4.34,
+          "diarizationLabel": null,
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.7344,
+          "margin": 0.2922
+        }
+      ]
+    },
+    {
+      "id": "geoff-potato-ass-chips",
+      "episode": 205,
+      "expectedSpeaker": "geoff",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 1192.3,
+      "matchedStartSec": 1162.22,
+      "matchedEndSec": 1167.14,
+      "dynamicOffsetSec": -30.08,
+      "matchedText": "I'm going to go with only potato chips. Not Doritos, nothing else, just potato -ass chips.",
+      "wholeQuote": {
+        "host": "geoff",
+        "bestHost": "geoff",
+        "similarity": 0.8837,
+        "margin": 0.5546
+      },
+      "turnBlocks": [
+        {
+          "text": "I'm going to go with only potato chips. Not Doritos, nothing else, just potato -ass chips.",
+          "start": 4.0,
+          "end": 8.92,
+          "duration": 4.92,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.8837,
+          "margin": 0.5546
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "I'm going to go with only potato chips.",
+          "start": 4.0,
+          "end": 5.78,
+          "duration": 1.78,
+          "diarizationLabel": null,
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.7962,
+          "margin": 0.4811
+        },
+        {
+          "text": "Not Doritos, nothing else, just potato -ass chips.",
+          "start": 5.9,
+          "end": 8.92,
+          "duration": 3.02,
+          "diarizationLabel": null,
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.8255,
+          "margin": 0.5439
+        }
+      ]
+    },
+    {
+      "id": "geoff-hot-dog-glove-catch",
+      "episode": 273,
+      "expectedSpeaker": "geoff",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.9778,
+      "expectedStartSec": 3210.99,
+      "matchedStartSec": 3210.97,
+      "matchedEndSec": 3215.55,
+      "dynamicOffsetSec": -0.02,
+      "matchedText": "just try to have a game of catch with a bunch of hot dog gloves and baseballs? Like, why wouldn't we do that?",
+      "wholeQuote": {
+        "host": "geoff",
+        "bestHost": "geoff",
+        "similarity": 0.8526,
+        "margin": 0.4203
+      },
+      "turnBlocks": [
+        {
+          "text": "just try to have a game of catch with a bunch of hot dog gloves and baseballs? Like, why wouldn't we do that?",
+          "start": 4.0,
+          "end": 8.58,
+          "duration": 4.58,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.8526,
+          "margin": 0.4203
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "just try to have a game of catch with a bunch of hot dog gloves and baseballs?",
+          "start": 4.0,
+          "end": 7.24,
+          "duration": 3.24,
+          "diarizationLabel": null,
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.8219,
+          "margin": 0.4263
+        },
+        {
+          "text": "Like, why wouldn't we do that?",
+          "start": 7.42,
+          "end": 8.58,
+          "duration": 1.16,
+          "diarizationLabel": null,
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.5403,
+          "margin": 0.1953
+        }
+      ]
+    },
+    {
+      "id": "geoff-animal-waste-ranking",
+      "episode": 210,
+      "expectedSpeaker": "geoff",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 660.98,
+      "matchedStartSec": 659.97,
+      "matchedEndSec": 668.07,
+      "dynamicOffsetSec": -1.01,
+      "matchedText": "horse shit cat shit dog shit human shit cow shit pig shit elephant shit junk shit",
+      "wholeQuote": {
+        "host": "geoff",
+        "bestHost": "geoff",
+        "similarity": 0.8463,
+        "margin": 0.4142
+      },
+      "turnBlocks": [
+        {
+          "text": "horse shit cat shit dog shit human shit cow shit pig shit elephant shit junk shit",
+          "start": 4.0,
+          "end": 12.1,
+          "duration": 8.1,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.8463,
+          "margin": 0.4142
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "horse shit cat shit dog shit human shit cow shit pig shit elephant shit junk shit",
+          "start": 4.0,
+          "end": 12.1,
+          "duration": 8.1,
+          "diarizationLabel": null,
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.8463,
+          "margin": 0.4142
+        }
+      ]
+    },
+    {
+      "id": "geoff-shirt-physics",
+      "episode": 332,
+      "expectedSpeaker": "geoff",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 2378.74,
+      "matchedStartSec": 2303.66,
+      "matchedEndSec": 2311.8,
+      "dynamicOffsetSec": -75.08,
+      "matchedText": "My shirt somehow fell in front and wrapped around my dick. And so I pissed all over myself.",
+      "wholeQuote": {
+        "host": "geoff",
+        "bestHost": "geoff",
+        "similarity": 0.8554,
+        "margin": 0.5238
+      },
+      "turnBlocks": [
+        {
+          "text": "My shirt somehow fell in front and wrapped around my dick. And so I pissed all over myself.",
+          "start": 4.0,
+          "end": 12.14,
+          "duration": 8.14,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.8554,
+          "margin": 0.5238
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "My shirt somehow fell in front and wrapped around my dick.",
+          "start": 4.0,
+          "end": 8.66,
+          "duration": 4.66,
+          "diarizationLabel": null,
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.8573,
+          "margin": 0.573
+        },
+        {
+          "text": "And so I pissed all over myself.",
+          "start": 8.84,
+          "end": 12.14,
+          "duration": 3.3,
+          "diarizationLabel": null,
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.7249,
+          "margin": 0.3781
+        }
+      ]
+    },
+    {
+      "id": "geoff-display-toilet",
+      "episode": 319,
+      "expectedSpeaker": "geoff",
+      "status": "mixed_speakers",
+      "reasons": [
+        "multiple sentence-level host fingerprints"
+      ],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 1398.03,
+      "matchedStartSec": 1337.71,
+      "matchedEndSec": 1342.05,
+      "dynamicOffsetSec": -60.32,
+      "matchedText": "If I really had to pee, would I piss in a display toilet? Yeah, I would use the display toilet.",
+      "wholeQuote": {
+        "host": "geoff",
+        "bestHost": "geoff",
+        "similarity": 0.8458,
+        "margin": 0.3374
+      },
+      "turnBlocks": [
+        {
+          "text": "If I really had to pee, would I piss in a display toilet? Yeah, I would use the display toilet.",
+          "start": 4.0,
+          "end": 8.34,
+          "duration": 4.34,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.8458,
+          "margin": 0.3374
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "If I really had to pee, would I piss in a display toilet?",
+          "start": 4.0,
+          "end": 6.88,
+          "duration": 2.88,
+          "diarizationLabel": null,
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.8633,
+          "margin": 0.4932
+        },
+        {
+          "text": "Yeah, I would use the display toilet.",
+          "start": 7.08,
+          "end": 8.34,
+          "duration": 1.26,
+          "diarizationLabel": null,
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.6605,
+          "margin": 0.3294
+        }
+      ]
+    },
+    {
+      "id": "geoff-rabbit-spaghetti",
+      "episode": 279,
+      "expectedSpeaker": "geoff",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.9143,
+      "expectedStartSec": 181.26,
+      "matchedStartSec": 166.46,
+      "matchedEndSec": 170.06,
+      "dynamicOffsetSec": -14.8,
+      "matchedText": "we were just giving them bird seed but yeah i guess the spaghetti would have been better",
+      "wholeQuote": {
+        "host": "geoff",
+        "bestHost": "geoff",
+        "similarity": 0.7156,
+        "margin": 0.4859
+      },
+      "turnBlocks": [
+        {
+          "text": "we were just giving them bird seed but yeah i guess",
+          "start": 4.0,
+          "end": 6.38,
+          "duration": 2.38,
+          "diarizationLabel": "SPEAKER_01",
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.6662,
+          "margin": 0.4735
+        },
+        {
+          "text": "would have been better",
+          "start": 6.88,
+          "end": 7.6,
+          "duration": 0.72,
+          "diarizationLabel": "SPEAKER_01",
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.5965,
+          "margin": 0.3752
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "we were just giving them bird seed but yeah i guess the spaghetti would have been better",
+          "start": 4.0,
+          "end": 7.6,
+          "duration": 3.6,
+          "diarizationLabel": null,
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.7156,
+          "margin": 0.4859
+        }
+      ]
+    },
+    {
+      "id": "geoff-pizza-bones",
+      "episode": 345,
+      "expectedSpeaker": "geoff",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.9778,
+      "expectedStartSec": 728.28,
+      "matchedStartSec": 726.04,
+      "matchedEndSec": 732.68,
+      "dynamicOffsetSec": -2.24,
+      "matchedText": "I've never heard crust referred to as pizza bones before in my entire life. She's never said it before. Are you okay?",
+      "wholeQuote": {
+        "host": "geoff",
+        "bestHost": "geoff",
+        "similarity": 0.8483,
+        "margin": 0.4151
+      },
+      "turnBlocks": [
+        {
+          "text": "I've never heard crust referred to as pizza bones before in my entire life. She's never said it before.",
+          "start": 4.0,
+          "end": 9.78,
+          "duration": 5.78,
+          "diarizationLabel": "SPEAKER_01",
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.8593,
+          "margin": 0.4395
+        },
+        {
+          "text": "Are you okay?",
+          "start": 10.0,
+          "end": 10.64,
+          "duration": 0.64,
+          "diarizationLabel": "SPEAKER_00",
+          "host": null,
+          "bestHost": "eric",
+          "similarity": 0.5155,
+          "margin": 0.316
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "I've never heard crust referred to as pizza bones before in my entire life.",
+          "start": 4.0,
+          "end": 8.52,
+          "duration": 4.52,
+          "diarizationLabel": null,
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.8347,
+          "margin": 0.4174
+        },
+        {
+          "text": "She's never said it before.",
+          "start": 8.64,
+          "end": 9.78,
+          "duration": 1.14,
+          "diarizationLabel": null,
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.6832,
+          "margin": 0.3577
+        },
+        {
+          "text": "Are you okay?",
+          "start": 10.0,
+          "end": 10.64,
+          "duration": 0.64,
+          "diarizationLabel": null,
+          "host": null,
+          "bestHost": "eric",
+          "similarity": 0.5155,
+          "margin": 0.316
+        }
+      ]
+    },
+    {
+      "id": "andrew-cosmic-fart-protest",
+      "episode": 83,
+      "expectedSpeaker": "andrew",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 286.16,
+      "matchedStartSec": 271.18,
+      "matchedEndSec": 276.46,
+      "dynamicOffsetSec": -14.98,
+      "matchedText": "I was trying to conjure a fart during the Cosmic Crisp review the entire time as a protest move, and I just couldn't.",
+      "wholeQuote": {
+        "host": "andrew",
+        "bestHost": "andrew",
+        "similarity": 0.8902,
+        "margin": 0.6618
+      },
+      "turnBlocks": [
+        {
+          "text": "I was trying to conjure a fart during the Cosmic Crisp review the entire time as a protest move, and I just couldn't.",
+          "start": 4.0,
+          "end": 9.28,
+          "duration": 5.28,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.8902,
+          "margin": 0.6618
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "I was trying to conjure a fart during the Cosmic Crisp review the entire time as a protest move, and I just couldn't.",
+          "start": 4.0,
+          "end": 9.28,
+          "duration": 5.28,
+          "diarizationLabel": null,
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.8902,
+          "margin": 0.6618
+        }
+      ]
+    },
+    {
+      "id": "andrew-collapsing-toilet",
+      "episode": 18,
+      "expectedSpeaker": "andrew",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 2755.9,
+      "matchedStartSec": 2670.56,
+      "matchedEndSec": 2674.86,
+      "dynamicOffsetSec": -85.34,
+      "matchedText": "I was trying to take a shit last night, and the toilet fell apart while I was using it.",
+      "wholeQuote": {
+        "host": "andrew",
+        "bestHost": "andrew",
+        "similarity": 0.8727,
+        "margin": 0.5299
+      },
+      "turnBlocks": [
+        {
+          "text": "I was trying to take a shit last night, and the toilet fell apart while I was using it.",
+          "start": 4.0,
+          "end": 8.3,
+          "duration": 4.3,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.8727,
+          "margin": 0.5299
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "I was trying to take a shit last night, and the toilet fell apart while I was using it.",
+          "start": 4.0,
+          "end": 8.3,
+          "duration": 4.3,
+          "diarizationLabel": null,
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.8727,
+          "margin": 0.5299
+        }
+      ]
+    },
+    {
+      "id": "andrew-egg-window",
+      "episode": 206,
+      "expectedSpeaker": "andrew",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 3652.07,
+      "matchedStartSec": 3562.93,
+      "matchedEndSec": 3566.13,
+      "dynamicOffsetSec": -89.14,
+      "matchedText": "what if the egg window was closed and I never knew I was",
+      "wholeQuote": {
+        "host": "andrew",
+        "bestHost": "andrew",
+        "similarity": 0.8069,
+        "margin": 0.5662
+      },
+      "turnBlocks": [
+        {
+          "text": "what if the egg window was closed and I never knew I was",
+          "start": 4.0,
+          "end": 7.2,
+          "duration": 3.2,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.8069,
+          "margin": 0.5662
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "what if the egg window was closed and I never knew I was",
+          "start": 4.0,
+          "end": 7.2,
+          "duration": 3.2,
+          "diarizationLabel": null,
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.8069,
+          "margin": 0.5662
+        }
+      ]
+    },
+    {
+      "id": "andrew-hot-dog-cannon",
+      "episode": 237,
+      "expectedSpeaker": "andrew",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.9286,
+      "expectedStartSec": 3009.78,
+      "matchedStartSec": 2994.74,
+      "matchedEndSec": 2999.22,
+      "dynamicOffsetSec": -15.04,
+      "matchedText": "Oh, she got t -shirt cannon, I'm assuming, out of a hot dog gun.",
+      "wholeQuote": {
+        "host": "andrew",
+        "bestHost": "andrew",
+        "similarity": 0.8708,
+        "margin": 0.5469
+      },
+      "turnBlocks": [
+        {
+          "text": "Oh, she got t -shirt cannon, I'm assuming, out of a hot dog gun.",
+          "start": 4.0,
+          "end": 8.48,
+          "duration": 4.48,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.8708,
+          "margin": 0.5469
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "Oh, she got t -shirt cannon, I'm assuming, out of a hot dog gun.",
+          "start": 4.0,
+          "end": 8.48,
+          "duration": 4.48,
+          "diarizationLabel": null,
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.8708,
+          "margin": 0.5469
+        }
+      ]
+    },
+    {
+      "id": "andrew-sixty-four-bananas",
+      "episode": 96,
+      "expectedSpeaker": "andrew",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 1998.65,
+      "matchedStartSec": 1938.41,
+      "matchedEndSec": 1943.27,
+      "dynamicOffsetSec": -60.24,
+      "matchedText": "If I lose this bet, I have to eat a banana every day for the next 64 days.",
+      "wholeQuote": {
+        "host": "andrew",
+        "bestHost": "andrew",
+        "similarity": 0.8908,
+        "margin": 0.5344
+      },
+      "turnBlocks": [
+        {
+          "text": "If I lose this bet, I have to eat a banana every day for the next 64 days.",
+          "start": 4.0,
+          "end": 8.86,
+          "duration": 4.86,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.8908,
+          "margin": 0.5344
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "If I lose this bet, I have to eat a banana every day for the next 64 days.",
+          "start": 4.0,
+          "end": 8.86,
+          "duration": 4.86,
+          "diarizationLabel": null,
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.8908,
+          "margin": 0.5344
+        }
+      ]
+    },
+    {
+      "id": "andrew-ham-fan-golf",
+      "episode": 204,
+      "expectedSpeaker": "andrew",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.9545,
+      "expectedStartSec": 1908.86,
+      "matchedStartSec": 1788.26,
+      "matchedEndSec": 1794.34,
+      "dynamicOffsetSec": -120.6,
+      "matchedText": "I just, like, imagine someone getting ready to take a shot in golf, and then the entire crowd just starts chanting, ham fan,",
+      "wholeQuote": {
+        "host": "andrew",
+        "bestHost": "andrew",
+        "similarity": 0.8989,
+        "margin": 0.5962
+      },
+      "turnBlocks": [
+        {
+          "text": "I just, like, imagine someone getting ready to take a shot in golf, and then the entire crowd just starts chanting, ham fan,",
+          "start": 4.0,
+          "end": 10.08,
+          "duration": 6.08,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.8989,
+          "margin": 0.5962
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "I just, like, imagine someone getting ready to take a shot in golf, and then the entire crowd just starts chanting, ham fan,",
+          "start": 4.0,
+          "end": 10.08,
+          "duration": 6.08,
+          "diarizationLabel": null,
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.8989,
+          "margin": 0.5962
+        }
+      ]
+    },
+    {
+      "id": "andrew-fish-requirements",
+      "episode": 366,
+      "expectedSpeaker": "andrew",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 2170.62,
+      "matchedStartSec": 2095.1,
+      "matchedEndSec": 2101.46,
+      "dynamicOffsetSec": -75.52,
+      "matchedText": "I've only ever caught one fish in my life and it didn't fit the requirements and I cried when they threw it back into the sea.",
+      "wholeQuote": {
+        "host": "andrew",
+        "bestHost": "andrew",
+        "similarity": 0.8932,
+        "margin": 0.5535
+      },
+      "turnBlocks": [
+        {
+          "text": "I've only ever caught one fish in my life and it didn't fit the requirements and I cried when they threw it back into the sea.",
+          "start": 4.0,
+          "end": 10.36,
+          "duration": 6.36,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.8932,
+          "margin": 0.5535
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "I've only ever caught one fish in my life and it didn't fit the requirements and I cried when they threw it back into the sea.",
+          "start": 4.0,
+          "end": 10.36,
+          "duration": 6.36,
+          "diarizationLabel": null,
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.8932,
+          "margin": 0.5535
+        }
+      ]
+    },
+    {
+      "id": "gavin-upstairs-toilet",
+      "episode": 217,
+      "expectedSpeaker": "gavin",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 3756.75,
+      "matchedStartSec": 3701.2,
+      "matchedEndSec": 3706.0,
+      "dynamicOffsetSec": -55.55,
+      "matchedText": "It's just a hole straight through, and you just piss from upstairs down into the toilet.",
+      "wholeQuote": {
+        "host": "gavin",
+        "bestHost": "gavin",
+        "similarity": 0.8857,
+        "margin": 0.4899
+      },
+      "turnBlocks": [
+        {
+          "text": "It's just a hole straight through, and you just piss from upstairs down into the toilet.",
+          "start": 4.0,
+          "end": 8.8,
+          "duration": 4.8,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.8857,
+          "margin": 0.4899
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "It's just a hole straight through, and you just piss from upstairs down into the toilet.",
+          "start": 4.0,
+          "end": 8.8,
+          "duration": 4.8,
+          "diarizationLabel": null,
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.8857,
+          "margin": 0.4899
+        }
+      ]
+    },
+    {
+      "id": "gavin-pickle-paste",
+      "episode": 305,
+      "expectedSpeaker": "gavin",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 710.54,
+      "matchedStartSec": 695.58,
+      "matchedEndSec": 700.76,
+      "dynamicOffsetSec": -14.96,
+      "matchedText": "the actual pickle paste is maybe 10 to 15 times better than a pickle cucumber",
+      "wholeQuote": {
+        "host": "gavin",
+        "bestHost": "gavin",
+        "similarity": 0.7983,
+        "margin": 0.5211
+      },
+      "turnBlocks": [
+        {
+          "text": "the actual pickle paste is maybe 10 to 15 times better than a pickle cucumber",
+          "start": 4.0,
+          "end": 9.18,
+          "duration": 5.18,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.7983,
+          "margin": 0.5211
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "the actual pickle paste is maybe 10 to 15 times better than a pickle cucumber",
+          "start": 4.0,
+          "end": 9.18,
+          "duration": 5.18,
+          "diarizationLabel": null,
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.7983,
+          "margin": 0.5211
+        }
+      ]
+    },
+    {
+      "id": "gavin-shampoo-bottle-game",
+      "episode": 126,
+      "expectedSpeaker": "gavin",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.8649,
+      "expectedStartSec": 3223.76,
+      "matchedStartSec": 3193.63,
+      "matchedEndSec": 3198.13,
+      "dynamicOffsetSec": -30.13,
+      "matchedText": "having to remove the shampoo bottle from the butt but every game ships without that piece",
+      "wholeQuote": {
+        "host": "gavin",
+        "bestHost": "gavin",
+        "similarity": 0.7843,
+        "margin": 0.5756
+      },
+      "turnBlocks": [
+        {
+          "text": "having to remove the shampoo bottle from the butt but every game ships without that piece",
+          "start": 4.0,
+          "end": 8.5,
+          "duration": 4.5,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.7843,
+          "margin": 0.5756
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "having to remove the shampoo bottle from the butt but every game ships without that piece",
+          "start": 4.0,
+          "end": 8.5,
+          "duration": 4.5,
+          "diarizationLabel": null,
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.7843,
+          "margin": 0.5756
+        }
+      ]
+    },
+    {
+      "id": "gavin-charity-pencil",
+      "episode": 299,
+      "expectedSpeaker": "gavin",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 1747.51,
+      "matchedStartSec": 1626.08,
+      "matchedEndSec": 1630.38,
+      "dynamicOffsetSec": -121.43,
+      "matchedText": "what if you raised a hundred grand for nick's charity to eat the pencil",
+      "wholeQuote": {
+        "host": "gavin",
+        "bestHost": "gavin",
+        "similarity": 0.8638,
+        "margin": 0.4577
+      },
+      "turnBlocks": [
+        {
+          "text": "what",
+          "start": 4.0,
+          "end": 5.02,
+          "duration": 1.02,
+          "diarizationLabel": null,
+          "host": null,
+          "bestHost": "gavin",
+          "similarity": 0.3321,
+          "margin": 0.0672
+        },
+        {
+          "text": "if you raised a hundred grand for nick's charity to eat the pencil",
+          "start": 5.02,
+          "end": 8.3,
+          "duration": 3.28,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.8664,
+          "margin": 0.4812
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "what if you raised a hundred grand for nick's charity to eat the pencil",
+          "start": 4.0,
+          "end": 8.3,
+          "duration": 4.3,
+          "diarizationLabel": null,
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.8638,
+          "margin": 0.4577
+        }
+      ]
+    },
+    {
+      "id": "gavin-sausage-flag",
+      "episode": 340,
+      "expectedSpeaker": "gavin",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 201.82,
+      "matchedStartSec": 185.8,
+      "matchedEndSec": 189.86,
+      "dynamicOffsetSec": -16.02,
+      "matchedText": "What if we have to throw a regulation flag In the middle of a sausage talk",
+      "wholeQuote": {
+        "host": "gavin",
+        "bestHost": "gavin",
+        "similarity": 0.8119,
+        "margin": 0.489
+      },
+      "turnBlocks": [
+        {
+          "text": "What if we have to throw a regulation flag In the middle of a sausage talk",
+          "start": 4.0,
+          "end": 8.06,
+          "duration": 4.06,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.8119,
+          "margin": 0.489
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "What if we have to throw a regulation flag In the middle of a sausage talk",
+          "start": 4.0,
+          "end": 8.06,
+          "duration": 4.06,
+          "diarizationLabel": null,
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.8119,
+          "margin": 0.489
+        }
+      ]
+    },
+    {
+      "id": "gavin-king-kong-taxonomy",
+      "episode": 6,
+      "expectedSpeaker": "gavin",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.9677,
+      "expectedStartSec": 274.69,
+      "matchedStartSec": 245.69,
+      "matchedEndSec": 250.01,
+      "dynamicOffsetSec": -29.0,
+      "matchedText": "they're all primates, right? But they're not all monkeys. Like, King Kong's not a giant monkey.",
+      "wholeQuote": {
+        "host": "gavin",
+        "bestHost": "gavin",
+        "similarity": 0.8707,
+        "margin": 0.6434
+      },
+      "turnBlocks": [
+        {
+          "text": "they're all primates, right? But they're not all monkeys. Like, King Kong's not a giant monkey.",
+          "start": 4.0,
+          "end": 8.32,
+          "duration": 4.32,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.8707,
+          "margin": 0.6434
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "they're all primates, right?",
+          "start": 4.0,
+          "end": 5.48,
+          "duration": 1.48,
+          "diarizationLabel": null,
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.6998,
+          "margin": 0.4402
+        },
+        {
+          "text": "But they're not all monkeys.",
+          "start": 5.62,
+          "end": 6.44,
+          "duration": 0.82,
+          "diarizationLabel": null,
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.6971,
+          "margin": 0.549
+        },
+        {
+          "text": "Like, King Kong's not a giant monkey.",
+          "start": 6.92,
+          "end": 8.32,
+          "duration": 1.4,
+          "diarizationLabel": null,
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.7791,
+          "margin": 0.5694
+        }
+      ]
+    },
+    {
+      "id": "gavin-pencil-ice-pick",
+      "episode": 75,
+      "expectedSpeaker": "gavin",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.8571,
+      "expectedStartSec": 481.39,
+      "matchedStartSec": 438.67,
+      "matchedEndSec": 441.87,
+      "dynamicOffsetSec": -42.72,
+      "matchedText": "What if we sub the pencil for the ice pick?",
+      "wholeQuote": {
+        "host": "gavin",
+        "bestHost": "gavin",
+        "similarity": 0.8024,
+        "margin": 0.4635
+      },
+      "turnBlocks": [
+        {
+          "text": "What if we sub the pencil for the ice pick?",
+          "start": 4.0,
+          "end": 7.2,
+          "duration": 3.2,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.8024,
+          "margin": 0.4635
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "What if we sub the pencil for the ice pick?",
+          "start": 4.0,
+          "end": 7.2,
+          "duration": 3.2,
+          "diarizationLabel": null,
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.8024,
+          "margin": 0.4635
+        }
+      ]
+    },
+    {
+      "id": "gavin-stick-on-funnel",
+      "episode": 293,
+      "expectedSpeaker": "gavin",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.9231,
+      "expectedStartSec": 3797.38,
+      "matchedStartSec": 3797.38,
+      "matchedEndSec": 3802.12,
+      "dynamicOffsetSec": 0.0,
+      "matchedText": "what it'll look like for you is i guess sort of like a stick -on funnel for your butt",
+      "wholeQuote": {
+        "host": "gavin",
+        "bestHost": "gavin",
+        "similarity": 0.8202,
+        "margin": 0.6281
+      },
+      "turnBlocks": [
+        {
+          "text": "what it'll look like for you is i guess sort of like a stick -on funnel for your butt",
+          "start": 4.0,
+          "end": 8.74,
+          "duration": 4.74,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.8202,
+          "margin": 0.6281
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "what it'll look like for you is i guess sort of like a stick -on funnel for your butt",
+          "start": 4.0,
+          "end": 8.74,
+          "duration": 4.74,
+          "diarizationLabel": null,
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.8202,
+          "margin": 0.6281
+        }
+      ]
+    },
+    {
+      "id": "eric-electric-toilet",
+      "episode": 304,
+      "expectedSpeaker": "eric",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.8571,
+      "expectedStartSec": 582.71,
+      "matchedStartSec": 567.23,
+      "matchedEndSec": 571.81,
+      "dynamicOffsetSec": -15.48,
+      "matchedText": "put an electric toilet seat and then zap your ass to get",
+      "wholeQuote": {
+        "host": "eric",
+        "bestHost": "eric",
+        "similarity": 0.8018,
+        "margin": 0.5339
+      },
+      "turnBlocks": [
+        {
+          "text": "put an electric toilet seat and then zap your ass to get",
+          "start": 4.0,
+          "end": 8.58,
+          "duration": 4.58,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.8018,
+          "margin": 0.5339
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "put an electric toilet seat and then zap your ass to get",
+          "start": 4.0,
+          "end": 8.58,
+          "duration": 4.58,
+          "diarizationLabel": null,
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.8018,
+          "margin": 0.5339
+        }
+      ]
+    },
+    {
+      "id": "eric-no-ding",
+      "episode": 383,
+      "expectedSpeaker": "eric",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 2555.84,
+      "matchedStartSec": 2480.44,
+      "matchedEndSec": 2486.02,
+      "dynamicOffsetSec": -75.4,
+      "matchedText": "but imagine you shit your pants and it doesn't ding.",
+      "wholeQuote": {
+        "host": "eric",
+        "bestHost": "eric",
+        "similarity": 0.8739,
+        "margin": 0.5728
+      },
+      "turnBlocks": [
+        {
+          "text": "but imagine you shit your pants and it doesn't ding.",
+          "start": 4.0,
+          "end": 9.58,
+          "duration": 5.58,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.8739,
+          "margin": 0.5728
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "but imagine you shit your pants and it doesn't ding.",
+          "start": 4.0,
+          "end": 9.58,
+          "duration": 5.58,
+          "diarizationLabel": null,
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.8739,
+          "margin": 0.5728
+        }
+      ]
+    },
+    {
+      "id": "eric-goat-milk-hot-dog",
+      "episode": 313,
+      "expectedSpeaker": "eric",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.9583,
+      "expectedStartSec": 97.72,
+      "matchedStartSec": 82.74,
+      "matchedEndSec": 91.2,
+      "dynamicOffsetSec": -14.98,
+      "matchedText": "a quarter pound all beef hot dog with chopped peppers, onions, bacon, and brown mustage submerged in a glass of 100 whole goat milk.",
+      "wholeQuote": {
+        "host": "eric",
+        "bestHost": "eric",
+        "similarity": 0.8782,
+        "margin": 0.4067
+      },
+      "turnBlocks": [
+        {
+          "text": "a quarter pound all beef hot dog with chopped peppers, onions, bacon, and brown mustage submerged in a glass of 100 whole goat milk.",
+          "start": 4.0,
+          "end": 12.46,
+          "duration": 8.46,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.8782,
+          "margin": 0.4067
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "a quarter pound all beef hot dog with chopped peppers, onions, bacon, and brown mustage submerged in a glass of 100 whole goat milk.",
+          "start": 4.0,
+          "end": 12.46,
+          "duration": 8.46,
+          "diarizationLabel": null,
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.8782,
+          "margin": 0.4067
+        }
+      ]
+    },
+    {
+      "id": "eric-gooch-dog",
+      "episode": 180,
+      "expectedSpeaker": "eric",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 232.53,
+      "matchedStartSec": 202.37,
+      "matchedEndSec": 206.95,
+      "dynamicOffsetSec": -30.16,
+      "matchedText": "Hey, if I had to pick one, I'd pick Gooch Dog, but that's just me.",
+      "wholeQuote": {
+        "host": "eric",
+        "bestHost": "eric",
+        "similarity": 0.7781,
+        "margin": 0.6051
+      },
+      "turnBlocks": [
+        {
+          "text": "Hey, if I had to pick one, I'd pick Gooch Dog, but that's just me.",
+          "start": 4.0,
+          "end": 8.58,
+          "duration": 4.58,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.7781,
+          "margin": 0.6051
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "Hey, if I had to pick one, I'd pick Gooch Dog, but that's just me.",
+          "start": 4.0,
+          "end": 8.58,
+          "duration": 4.58,
+          "diarizationLabel": null,
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.7781,
+          "margin": 0.6051
+        }
+      ]
+    },
+    {
+      "id": "eric-sock-probability",
+      "episode": 33,
+      "expectedSpeaker": "eric",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 385.83,
+      "matchedStartSec": 355.39,
+      "matchedEndSec": 363.29,
+      "dynamicOffsetSec": -30.44,
+      "matchedText": "it's not a 50 50 chance to go into a drawer of socks and grab a sock and then pick a foot for it to go on",
+      "wholeQuote": {
+        "host": "eric",
+        "bestHost": "eric",
+        "similarity": 0.9061,
+        "margin": 0.5397
+      },
+      "turnBlocks": [
+        {
+          "text": "it's not a 50 50 chance to go into a drawer of socks and grab a sock and then pick a foot for it to go on",
+          "start": 4.0,
+          "end": 11.9,
+          "duration": 7.9,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.9061,
+          "margin": 0.5397
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "it's not a 50 50 chance to go into a drawer of socks and grab a sock and then pick a foot for it to go on",
+          "start": 4.0,
+          "end": 11.9,
+          "duration": 7.9,
+          "diarizationLabel": null,
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.9061,
+          "margin": 0.5397
+        }
+      ]
+    },
+    {
+      "id": "eric-sausage-bop",
+      "episode": 148,
+      "expectedSpeaker": "eric",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.95,
+      "expectedStartSec": 2824.16,
+      "matchedStartSec": 2938.94,
+      "matchedEndSec": 2944.92,
+      "dynamicOffsetSec": 114.78,
+      "matchedText": "I'm going to take a bite of a sausage bop and throw a frisbee 30 feet in the wrong direction.",
+      "wholeQuote": {
+        "host": "eric",
+        "bestHost": "eric",
+        "similarity": 0.7493,
+        "margin": 0.3445
+      },
+      "turnBlocks": [
+        {
+          "text": "I'm going to take a bite of a sausage bop and throw a frisbee 30 feet in the wrong direction.",
+          "start": 4.0,
+          "end": 9.98,
+          "duration": 5.98,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.7493,
+          "margin": 0.3445
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "I'm going to take a bite of a sausage bop and throw a frisbee 30 feet in the wrong direction.",
+          "start": 4.0,
+          "end": 9.98,
+          "duration": 5.98,
+          "diarizationLabel": null,
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.7493,
+          "margin": 0.3445
+        }
+      ]
+    },
+    {
+      "id": "eric-waffle-cone",
+      "episode": 386,
+      "expectedSpeaker": "eric",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 1553.09,
+      "matchedStartSec": 1533.13,
+      "matchedEndSec": 1539.25,
+      "dynamicOffsetSec": -19.96,
+      "matchedText": "I've never eaten a waffle cone and thought the waffle cone was the star of what I was eating.",
+      "wholeQuote": {
+        "host": "eric",
+        "bestHost": "eric",
+        "similarity": 0.8569,
+        "margin": 0.4353
+      },
+      "turnBlocks": [
+        {
+          "text": "I've never eaten a waffle cone and thought the waffle cone was the star of what I was eating.",
+          "start": 4.0,
+          "end": 10.12,
+          "duration": 6.12,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.8569,
+          "margin": 0.4353
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "I've never eaten a waffle cone and thought the waffle cone was the star of what I was eating.",
+          "start": 4.0,
+          "end": 10.12,
+          "duration": 6.12,
+          "diarizationLabel": null,
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.8569,
+          "margin": 0.4353
+        }
+      ]
+    },
+    {
+      "id": "eric-cherry-spaghetti",
+      "episode": 376,
+      "expectedSpeaker": "eric",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.9412,
+      "expectedStartSec": 3158.26,
+      "matchedStartSec": 3138.2,
+      "matchedEndSec": 3144.14,
+      "dynamicOffsetSec": -20.06,
+      "matchedText": "to me it's when he's giving her a name and it's cherry roosevelt fat bozo chowing spaghetti",
+      "wholeQuote": {
+        "host": "eric",
+        "bestHost": "eric",
+        "similarity": 0.8248,
+        "margin": 0.5158
+      },
+      "turnBlocks": [
+        {
+          "text": "to me it's when he's giving her a name and it's cherry roosevelt fat bozo chowing spaghetti",
+          "start": 4.0,
+          "end": 9.94,
+          "duration": 5.94,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.8248,
+          "margin": 0.5158
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "to me it's when he's giving her a name and it's cherry roosevelt fat bozo chowing spaghetti",
+          "start": 4.0,
+          "end": 9.94,
+          "duration": 5.94,
+          "diarizationLabel": null,
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.8248,
+          "margin": 0.5158
+        }
+      ]
+    },
+    {
+      "id": "geoff-second-wave-fart",
+      "episode": 3,
+      "expectedSpeaker": "geoff",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.9375,
+      "expectedStartSec": 964.91,
+      "matchedStartSec": 964.52,
+      "matchedEndSec": 975.4,
+      "dynamicOffsetSec": -0.39,
+      "matchedText": "the fart doesn't take itself too seriously and the fart presents itself and then says no no there's more to me than that and then comes back with a second wave of fart",
+      "wholeQuote": {
+        "host": "geoff",
+        "bestHost": "geoff",
+        "similarity": 0.93,
+        "margin": 0.6853
+      },
+      "turnBlocks": [
+        {
+          "text": "the fart doesn't take itself too seriously and the fart presents itself and then says no no there's more to me than that and then comes back with a second wave of fart",
+          "start": 4.0,
+          "end": 14.88,
+          "duration": 10.88,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.93,
+          "margin": 0.6853
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "the fart doesn't take itself too seriously and the fart presents itself and then says no no there's more to me than that and then comes back with a second wave of fart",
+          "start": 4.0,
+          "end": 14.88,
+          "duration": 10.88,
+          "diarizationLabel": null,
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.93,
+          "margin": 0.6853
+        }
+      ]
+    },
+    {
+      "id": "geoff-pickle-bag",
+      "episode": 20,
+      "expectedSpeaker": "geoff",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 1838.86,
+      "matchedStartSec": 1833.82,
+      "matchedEndSec": 1841.12,
+      "dynamicOffsetSec": -5.04,
+      "matchedText": "I want to see you buy a pickle in a pickle bag, a big ass honking giant dill pickle, the size of like a porn star's cock.",
+      "wholeQuote": {
+        "host": "geoff",
+        "bestHost": "geoff",
+        "similarity": 0.8644,
+        "margin": 0.5528
+      },
+      "turnBlocks": [
+        {
+          "text": "I want to see you buy a pickle in a pickle bag, a big ass honking giant dill pickle, the size of like a porn star's cock.",
+          "start": 4.0,
+          "end": 11.3,
+          "duration": 7.3,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.8644,
+          "margin": 0.5528
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "I want to see you buy a pickle in a pickle bag, a big ass honking giant dill pickle, the size of like a porn star's cock.",
+          "start": 4.0,
+          "end": 11.3,
+          "duration": 7.3,
+          "diarizationLabel": null,
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.8644,
+          "margin": 0.5528
+        }
+      ]
+    },
+    {
+      "id": "geoff-egg-economy",
+      "episode": 71,
+      "expectedSpeaker": "geoff",
+      "status": "mixed_speakers",
+      "reasons": [
+        "multiple sentence-level host fingerprints"
+      ],
+      "alignmentScore": 0.9143,
+      "expectedStartSec": 2054.76,
+      "matchedStartSec": 2080.0,
+      "matchedEndSec": 2087.22,
+      "dynamicOffsetSec": 25.24,
+      "matchedText": "$8 egg, $40 egg. The top one's $1 ,000 egg, $500 egg. $500 egg. $800 egg.",
+      "wholeQuote": {
+        "host": "geoff",
+        "bestHost": "geoff",
+        "similarity": 0.7237,
+        "margin": 0.2229
+      },
+      "turnBlocks": [
+        {
+          "text": "$8 egg, $40 egg. The top one's $1 ,000 egg, $500 egg. $500 egg. $800 egg.",
+          "start": 4.0,
+          "end": 11.22,
+          "duration": 7.22,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.7237,
+          "margin": 0.2229
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "$8 egg, $40 egg.",
+          "start": 4.0,
+          "end": 5.62,
+          "duration": 1.62,
+          "diarizationLabel": null,
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.6374,
+          "margin": 0.3749
+        },
+        {
+          "text": "The top one's $1 ,000 egg, $500 egg.",
+          "start": 5.7,
+          "end": 8.62,
+          "duration": 2.92,
+          "diarizationLabel": null,
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.7284,
+          "margin": 0.4459
+        },
+        {
+          "text": "$500 egg.",
+          "start": 8.62,
+          "end": 9.46,
+          "duration": 0.84,
+          "diarizationLabel": null,
+          "host": null,
+          "bestHost": "gavin",
+          "similarity": 0.4853,
+          "margin": 0.1323
+        },
+        {
+          "text": "$800 egg.",
+          "start": 10.5,
+          "end": 11.22,
+          "duration": 0.72,
+          "diarizationLabel": null,
+          "host": null,
+          "bestHost": "gavin",
+          "similarity": 0.1012,
+          "margin": 0.0077
+        }
+      ]
+    },
+    {
+      "id": "geoff-bloopy-trail",
+      "episode": 73,
+      "expectedSpeaker": "geoff",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.9167,
+      "expectedStartSec": 2833.38,
+      "matchedStartSec": 2813.04,
+      "matchedEndSec": 2827.26,
+      "dynamicOffsetSec": -20.34,
+      "matchedText": "and then i went oh god that's not a fart and i turned and i ran from the shower to the toilet and i shit all the way to the toilet a trail a trail of little",
+      "wholeQuote": {
+        "host": "geoff",
+        "bestHost": "geoff",
+        "similarity": 0.8615,
+        "margin": 0.479
+      },
+      "turnBlocks": [
+        {
+          "text": "and then i went oh god that's not a fart and i turned and i ran from the shower to the toilet and i shit all the way to the toilet a trail a trail of little",
+          "start": 4.0,
+          "end": 18.22,
+          "duration": 14.22,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.8615,
+          "margin": 0.479
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "and then i went oh god that's not a fart and i turned and i ran from the shower to the toilet and i shit all the way to the toilet a trail a trail of little",
+          "start": 4.0,
+          "end": 18.22,
+          "duration": 14.22,
+          "diarizationLabel": null,
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.8615,
+          "margin": 0.479
+        }
+      ]
+    },
+    {
+      "id": "geoff-betty-white-bread",
+      "episode": 82,
+      "expectedSpeaker": "geoff",
+      "status": "mixed_speakers",
+      "reasons": [
+        "multiple sentence-level host fingerprints",
+        "whole quote matches gavin, not geoff"
+      ],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 2931.37,
+      "matchedStartSec": 2926.49,
+      "matchedEndSec": 2930.97,
+      "dynamicOffsetSec": -4.88,
+      "matchedText": "She's older than sliced bread. That means sliced bread is the best thing since Betty White.",
+      "wholeQuote": {
+        "host": "gavin",
+        "bestHost": "gavin",
+        "similarity": 0.7231,
+        "margin": 0.2905
+      },
+      "turnBlocks": [
+        {
+          "text": "She's older than sliced bread. That means sliced bread is the best thing since Betty White.",
+          "start": 4.0,
+          "end": 8.48,
+          "duration": 4.48,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.7231,
+          "margin": 0.2905
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "She's older than sliced bread.",
+          "start": 4.0,
+          "end": 5.58,
+          "duration": 1.58,
+          "diarizationLabel": null,
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.6046,
+          "margin": 0.2675
+        },
+        {
+          "text": "That means sliced bread is the best thing since Betty White.",
+          "start": 5.96,
+          "end": 8.48,
+          "duration": 2.52,
+          "diarizationLabel": null,
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.6996,
+          "margin": 0.4297
+        }
+      ]
+    },
+    {
+      "id": "andrew-cat-litter-tail",
+      "episode": 4,
+      "expectedSpeaker": "andrew",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.9211,
+      "expectedStartSec": 442.62,
+      "matchedStartSec": 455.1,
+      "matchedEndSec": 465.48,
+      "dynamicOffsetSec": 12.48,
+      "matchedText": "cat panicked ran into the litter box cat now has a tail of litter because it all stuck to it cat's freaking out and i'm just sitting on a toilet with just my underwear on hoping they don't find me",
+      "wholeQuote": {
+        "host": "andrew",
+        "bestHost": "andrew",
+        "similarity": 0.9188,
+        "margin": 0.5677
+      },
+      "turnBlocks": [
+        {
+          "text": "cat panicked ran into the litter box cat now has a tail of litter because it all stuck to it cat's freaking out and i'm just sitting on a toilet with just my underwear on hoping they don't find me",
+          "start": 4.0,
+          "end": 14.38,
+          "duration": 10.38,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.9188,
+          "margin": 0.5677
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "cat panicked ran into the litter box cat now has a tail of litter because it all stuck to it cat's freaking out and i'm just sitting on a toilet with just my underwear on hoping they don't find me",
+          "start": 4.0,
+          "end": 14.38,
+          "duration": 10.38,
+          "diarizationLabel": null,
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.9188,
+          "margin": 0.5677
+        }
+      ]
+    },
+    {
+      "id": "andrew-inflatable-battle-bus",
+      "episode": 8,
+      "expectedSpeaker": "andrew",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.9333,
+      "expectedStartSec": 903.73,
+      "matchedStartSec": 934.17,
+      "matchedEndSec": 944.97,
+      "dynamicOffsetSec": 30.44,
+      "matchedText": "the most expensive thing they had was a 19 foot or no 19 foot long 18 foot high battle bus that you could inflate which is the dumbest thing nobody needs this",
+      "wholeQuote": {
+        "host": "andrew",
+        "bestHost": "andrew",
+        "similarity": 0.9422,
+        "margin": 0.6539
+      },
+      "turnBlocks": [
+        {
+          "text": "the most expensive thing they had was a 19 foot or no 19 foot long 18 foot high battle bus that you could inflate",
+          "start": 4.0,
+          "end": 11.74,
+          "duration": 7.74,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.9192,
+          "margin": 0.6334
+        },
+        {
+          "text": "which",
+          "start": 11.74,
+          "end": 12.82,
+          "duration": 1.08,
+          "diarizationLabel": null,
+          "host": null,
+          "bestHost": "andrew",
+          "similarity": 0.2988,
+          "margin": 0.0675
+        },
+        {
+          "text": "is the dumbest thing nobody needs this",
+          "start": 12.82,
+          "end": 14.8,
+          "duration": 1.98,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.7573,
+          "margin": 0.5469
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "the most expensive thing they had was a 19 foot or no 19 foot long 18 foot high battle bus that you could inflate which is the dumbest thing nobody needs this",
+          "start": 4.0,
+          "end": 14.8,
+          "duration": 10.8,
+          "diarizationLabel": null,
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.9422,
+          "margin": 0.6539
+        }
+      ]
+    },
+    {
+      "id": "andrew-waffle-identity",
+      "episode": 26,
+      "expectedSpeaker": "andrew",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 1589.42,
+      "matchedStartSec": 1620.1,
+      "matchedEndSec": 1625.4,
+      "dynamicOffsetSec": 30.68,
+      "matchedText": "am i making a waffle or a pancake at that point i'm putting pancake mix in a waffle maker is that a waffle or a pancake",
+      "wholeQuote": {
+        "host": "andrew",
+        "bestHost": "andrew",
+        "similarity": 0.8551,
+        "margin": 0.5257
+      },
+      "turnBlocks": [
+        {
+          "text": "am i making a waffle or a pancake at that point i'm putting pancake mix in a waffle maker is that a waffle or a pancake",
+          "start": 4.0,
+          "end": 9.3,
+          "duration": 5.3,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.8551,
+          "margin": 0.5257
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "am i making a waffle or a pancake at that point i'm putting pancake mix in a waffle maker is that a waffle or a pancake",
+          "start": 4.0,
+          "end": 9.3,
+          "duration": 5.3,
+          "diarizationLabel": null,
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.8551,
+          "margin": 0.5257
+        }
+      ]
+    },
+    {
+      "id": "andrew-foot-unit",
+      "episode": 66,
+      "expectedSpeaker": "andrew",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 824.26,
+      "matchedStartSec": 853.92,
+      "matchedEndSec": 860.74,
+      "dynamicOffsetSec": 29.66,
+      "matchedText": "i used to think a foot was the size of my foot i'd use my foot to measure feet not an accurate representation although it might be",
+      "wholeQuote": {
+        "host": "andrew",
+        "bestHost": "andrew",
+        "similarity": 0.8816,
+        "margin": 0.5221
+      },
+      "turnBlocks": [
+        {
+          "text": "i used to think a foot was the size of my foot i'd use my foot to measure feet not an accurate representation although it might be",
+          "start": 4.0,
+          "end": 10.82,
+          "duration": 6.82,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.8816,
+          "margin": 0.5221
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "i used to think a foot was the size of my foot i'd use my foot to measure feet not an accurate representation although it might be",
+          "start": 4.0,
+          "end": 10.82,
+          "duration": 6.82,
+          "diarizationLabel": null,
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.8816,
+          "margin": 0.5221
+        }
+      ]
+    },
+    {
+      "id": "andrew-stair-butt-shimmy",
+      "episode": 98,
+      "expectedSpeaker": "andrew",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.8205,
+      "expectedStartSec": 836.03,
+      "matchedStartSec": 851.43,
+      "matchedEndSec": 862.87,
+      "dynamicOffsetSec": 15.4,
+      "matchedText": "should i just slide down the stairs and then just wait at the bottom and that would i could i think i could accomplish this yeah like a little butt shimmy like a little butt like a dog doing a butt shimmy across",
+      "wholeQuote": {
+        "host": "andrew",
+        "bestHost": "andrew",
+        "similarity": 0.9072,
+        "margin": 0.3869
+      },
+      "turnBlocks": [
+        {
+          "text": "should i just slide down the stairs and then just wait at the bottom and that would i could i think i could accomplish this yeah like a little butt shimmy like a little butt like a dog doing a butt shimmy across",
+          "start": 4.0,
+          "end": 15.44,
+          "duration": 11.44,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.9072,
+          "margin": 0.3869
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "should i just slide down the stairs and then just wait at the bottom and that would i could i think i could accomplish this yeah like a little butt shimmy like a little butt like a dog doing a butt shimmy across",
+          "start": 4.0,
+          "end": 15.44,
+          "duration": 11.44,
+          "diarizationLabel": null,
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.9072,
+          "margin": 0.3869
+        }
+      ]
+    },
+    {
+      "id": "gavin-flying-hot-dogs",
+      "episode": 27,
+      "expectedSpeaker": "gavin",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.9697,
+      "expectedStartSec": 2547.47,
+      "matchedStartSec": 2522.11,
+      "matchedEndSec": 2535.69,
+      "dynamicOffsetSec": -25.36,
+      "matchedText": "Imagine you biting a hole through your phone, stepping over waffle makers, dog toasters, dodging flying hot dogs. You have everything in your capacity to make your life totally normal. And you refuse",
+      "wholeQuote": {
+        "host": "gavin",
+        "bestHost": "gavin",
+        "similarity": 0.8196,
+        "margin": 0.3926
+      },
+      "turnBlocks": [
+        {
+          "text": "Imagine you biting a hole through your phone, stepping over waffle makers, dog toasters, dodging flying hot dogs. You have everything in your capacity to make your life totally normal. And you refuse",
+          "start": 4.0,
+          "end": 17.58,
+          "duration": 13.58,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.8196,
+          "margin": 0.3926
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "Imagine you biting a hole through your phone, stepping over waffle makers, dog toasters, dodging flying hot dogs.",
+          "start": 4.0,
+          "end": 11.52,
+          "duration": 7.52,
+          "diarizationLabel": null,
+          "host": null,
+          "bestHost": "gavin",
+          "similarity": 0.6156,
+          "margin": 0.0674
+        },
+        {
+          "text": "You have everything in your capacity to make your life totally normal.",
+          "start": 11.86,
+          "end": 16.52,
+          "duration": 4.66,
+          "diarizationLabel": null,
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.8137,
+          "margin": 0.5336
+        },
+        {
+          "text": "And you refuse",
+          "start": 16.52,
+          "end": 17.58,
+          "duration": 1.06,
+          "diarizationLabel": null,
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.6285,
+          "margin": 0.4401
+        }
+      ]
+    },
+    {
+      "id": "gavin-dick-out-sequel",
+      "episode": 36,
+      "expectedSpeaker": "gavin",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.973,
+      "expectedStartSec": 3722.03,
+      "matchedStartSec": 3691.9,
+      "matchedEndSec": 3696.26,
+      "dynamicOffsetSec": -30.13,
+      "matchedText": "It's only January 7th. Do you think Sitting With Your Dick Out is the best sequel to Sitting Normally?",
+      "wholeQuote": {
+        "host": "gavin",
+        "bestHost": "gavin",
+        "similarity": 0.7006,
+        "margin": 0.4236
+      },
+      "turnBlocks": [
+        {
+          "text": "It's only January",
+          "start": 4.0,
+          "end": 4.64,
+          "duration": 0.64,
+          "diarizationLabel": "SPEAKER_00",
+          "host": null,
+          "bestHost": "geoff",
+          "similarity": 0.3901,
+          "margin": 0.0499
+        },
+        {
+          "text": "7th. Do you think Sitting With Your Dick Out is the best sequel to Sitting Normally?",
+          "start": 4.64,
+          "end": 8.36,
+          "duration": 3.72,
+          "diarizationLabel": "SPEAKER_01",
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.6933,
+          "margin": 0.4285
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "It's only January 7th.",
+          "start": 4.0,
+          "end": 5.16,
+          "duration": 1.16,
+          "diarizationLabel": null,
+          "host": null,
+          "bestHost": "geoff",
+          "similarity": 0.4866,
+          "margin": 0.1559
+        },
+        {
+          "text": "Do you think Sitting With Your Dick Out is the best sequel to Sitting Normally?",
+          "start": 5.6,
+          "end": 8.36,
+          "duration": 2.76,
+          "diarizationLabel": null,
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.6656,
+          "margin": 0.5383
+        }
+      ]
+    },
+    {
+      "id": "gavin-boiled-fish",
+      "episode": 54,
+      "expectedSpeaker": "gavin",
+      "status": "mixed_speakers",
+      "reasons": [
+        "multiple sentence-level host fingerprints",
+        "whole quote matches andrew, not gavin"
+      ],
+      "alignmentScore": 0.9388,
+      "expectedStartSec": 2955.05,
+      "matchedStartSec": 2926.25,
+      "matchedEndSec": 2931.93,
+      "dynamicOffsetSec": -28.8,
+      "matchedText": "I would argue the fish is the most prepared if the fire happens. I would argue. You're just going to come back to a boiled fish.",
+      "wholeQuote": {
+        "host": "andrew",
+        "bestHost": "andrew",
+        "similarity": 0.8498,
+        "margin": 0.3475
+      },
+      "turnBlocks": [
+        {
+          "text": "I would argue the fish is the most prepared if the fire happens. I would argue. You're just going to come back to a boiled fish.",
+          "start": 4.0,
+          "end": 9.68,
+          "duration": 5.68,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.8498,
+          "margin": 0.3475
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "I would argue the fish is the most prepared if the fire happens.",
+          "start": 4.0,
+          "end": 7.08,
+          "duration": 3.08,
+          "diarizationLabel": null,
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.8792,
+          "margin": 0.3907
+        },
+        {
+          "text": "I would argue.",
+          "start": 7.16,
+          "end": 7.74,
+          "duration": 0.58,
+          "diarizationLabel": null,
+          "host": null,
+          "bestHost": "geoff",
+          "similarity": 0.466,
+          "margin": 0.3367
+        },
+        {
+          "text": "You're just going to come back to a boiled fish.",
+          "start": 7.74,
+          "end": 9.68,
+          "duration": 1.94,
+          "diarizationLabel": null,
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.5231,
+          "margin": 0.1627
+        }
+      ]
+    },
+    {
+      "id": "gavin-anus-curtain",
+      "episode": 88,
+      "expectedSpeaker": "gavin",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.8333,
+      "expectedStartSec": 1567.98,
+      "matchedStartSec": 1620.24,
+      "matchedEndSec": 1627.66,
+      "dynamicOffsetSec": 52.26,
+      "matchedText": "if you don't want to see your cat's anus don't get a cat like what that's the most what if we sold a face anus curtain",
+      "wholeQuote": {
+        "host": "gavin",
+        "bestHost": "gavin",
+        "similarity": 0.8219,
+        "margin": 0.3871
+      },
+      "turnBlocks": [
+        {
+          "text": "if you don't want to see your cat's anus don't get a cat like what that's the most what if we sold a face anus curtain",
+          "start": 4.0,
+          "end": 11.42,
+          "duration": 7.42,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.8219,
+          "margin": 0.3871
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "if you don't want to see your cat's anus don't get a cat like what that's the most what if we sold a face anus curtain",
+          "start": 4.0,
+          "end": 11.42,
+          "duration": 7.42,
+          "diarizationLabel": null,
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.8219,
+          "margin": 0.3871
+        }
+      ]
+    },
+    {
+      "id": "gavin-nugget-steak",
+      "episode": 95,
+      "expectedSpeaker": "gavin",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.9153,
+      "expectedStartSec": 469.27,
+      "matchedStartSec": 499.65,
+      "matchedEndSec": 508.31,
+      "dynamicOffsetSec": 30.38,
+      "matchedText": "is it nugget only good because of the ratio of the fried part to the internal like if you had a big nugget steak would it be less delicious",
+      "wholeQuote": {
+        "host": "gavin",
+        "bestHost": "gavin",
+        "similarity": 0.8784,
+        "margin": 0.5153
+      },
+      "turnBlocks": [
+        {
+          "text": "is it nugget only good because of the ratio of the fried part to the internal like if you had a big nugget steak would it be less delicious",
+          "start": 4.0,
+          "end": 12.66,
+          "duration": 8.66,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.8784,
+          "margin": 0.5153
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "is it nugget only good because of the ratio of the fried part to the internal like if you had a big nugget steak would it be less delicious",
+          "start": 4.0,
+          "end": 12.66,
+          "duration": 8.66,
+          "diarizationLabel": null,
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.8784,
+          "margin": 0.5153
+        }
+      ]
+    },
+    {
+      "id": "eric-wet-ass-gap",
+      "episode": 37,
+      "expectedSpeaker": "eric",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.8889,
+      "expectedStartSec": 549.74,
+      "matchedStartSec": 548.62,
+      "matchedEndSec": 561.34,
+      "dynamicOffsetSec": -1.12,
+      "matchedText": "it just seems like so insane to dry your entire body and then not dry your ass You forget about the air. I'm just to be like, well, I got my legs. Skip on up. Got my torso.",
+      "wholeQuote": {
+        "host": "eric",
+        "bestHost": "eric",
+        "similarity": 0.8944,
+        "margin": 0.5919
+      },
+      "turnBlocks": [
+        {
+          "text": "it just seems like so insane to dry your entire body and then not dry your ass You forget about the air. I'm just to be like, well, I got my legs. Skip on up. Got my torso.",
+          "start": 4.0,
+          "end": 16.72,
+          "duration": 12.72,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.8944,
+          "margin": 0.5919
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "it just seems like so insane to dry your entire body and then not dry your ass You forget about the air.",
+          "start": 4.0,
+          "end": 11.84,
+          "duration": 7.84,
+          "diarizationLabel": null,
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.8623,
+          "margin": 0.5939
+        },
+        {
+          "text": "I'm just to be like, well, I got my legs.",
+          "start": 11.84,
+          "end": 14.1,
+          "duration": 2.26,
+          "diarizationLabel": null,
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.6372,
+          "margin": 0.3423
+        },
+        {
+          "text": "Skip on up.",
+          "start": 14.98,
+          "end": 15.94,
+          "duration": 0.96,
+          "diarizationLabel": null,
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.5684,
+          "margin": 0.3777
+        },
+        {
+          "text": "Got my torso.",
+          "start": 16.08,
+          "end": 16.72,
+          "duration": 0.64,
+          "diarizationLabel": null,
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.5764,
+          "margin": 0.3118
+        }
+      ]
+    },
+    {
+      "id": "eric-biweekly-math",
+      "episode": 57,
+      "expectedSpeaker": "eric",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.7826,
+      "expectedStartSec": 323.64,
+      "matchedStartSec": 384.08,
+      "matchedEndSec": 387.98,
+      "dynamicOffsetSec": 60.44,
+      "matchedText": "every once every two weeks what two every one week",
+      "wholeQuote": {
+        "host": "eric",
+        "bestHost": "eric",
+        "similarity": 0.7569,
+        "margin": 0.4561
+      },
+      "turnBlocks": [
+        {
+          "text": "every once every two weeks",
+          "start": 4.0,
+          "end": 5.18,
+          "duration": 1.18,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.6137,
+          "margin": 0.4332
+        },
+        {
+          "text": "what",
+          "start": 5.18,
+          "end": 6.46,
+          "duration": 1.28,
+          "diarizationLabel": null,
+          "host": null,
+          "bestHost": "eric",
+          "similarity": 0.1493,
+          "margin": 0.054
+        },
+        {
+          "text": "two every one week",
+          "start": 6.46,
+          "end": 7.9,
+          "duration": 1.44,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.6969,
+          "margin": 0.3881
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "every once every two weeks what two every one week",
+          "start": 4.0,
+          "end": 7.9,
+          "duration": 3.9,
+          "diarizationLabel": null,
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.7569,
+          "margin": 0.4561
+        }
+      ]
+    },
+    {
+      "id": "eric-dbox-break-shit",
+      "episode": 61,
+      "expectedSpeaker": "eric",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.7692,
+      "expectedStartSec": 637.84,
+      "matchedStartSec": 668.24,
+      "matchedEndSec": 682.3,
+      "dynamicOffsetSec": 30.4,
+      "matchedText": "right after we do break shit we are like going and seeing fucking fast and furious with tim g",
+      "wholeQuote": {
+        "host": "eric",
+        "bestHost": "eric",
+        "similarity": 0.872,
+        "margin": 0.5161
+      },
+      "turnBlocks": [
+        {
+          "text": "right after we do break shit we are like going and seeing fucking fast and furious with",
+          "start": 4.0,
+          "end": 14.12,
+          "duration": 10.12,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.8734,
+          "margin": 0.5165
+        },
+        {
+          "text": "tim",
+          "start": 14.12,
+          "end": 17.7,
+          "duration": 3.58,
+          "diarizationLabel": null,
+          "host": null,
+          "bestHost": "eric",
+          "similarity": 0.3563,
+          "margin": 0.1722
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "right after we do break shit we are like going and seeing fucking fast and furious with tim g",
+          "start": 4.0,
+          "end": 18.06,
+          "duration": 14.06,
+          "diarizationLabel": null,
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.872,
+          "margin": 0.5161
+        }
+      ]
+    },
+    {
+      "id": "eric-deer-piss-review",
+      "episode": 93,
+      "expectedSpeaker": "eric",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 5915.53,
+      "matchedStartSec": 5916.01,
+      "matchedEndSec": 5920.49,
+      "dynamicOffsetSec": 0.48,
+      "matchedText": "i'll give it one deer pissing in a river one deer piss",
+      "wholeQuote": {
+        "host": null,
+        "bestHost": "andrew",
+        "similarity": 0.2556,
+        "margin": 0.0768
+      },
+      "turnBlocks": [
+        {
+          "text": "i'll give it one deer pissing in a river",
+          "start": 4.0,
+          "end": 6.18,
+          "duration": 2.18,
+          "diarizationLabel": "SPEAKER_00",
+          "host": null,
+          "bestHost": "andrew",
+          "similarity": 0.1656,
+          "margin": 0.0602
+        },
+        {
+          "text": "one",
+          "start": 6.18,
+          "end": 7.84,
+          "duration": 1.66,
+          "diarizationLabel": null,
+          "host": null,
+          "bestHost": "geoff",
+          "similarity": 0.343,
+          "margin": 0.0915
+        },
+        {
+          "text": "deer piss",
+          "start": 7.84,
+          "end": 8.48,
+          "duration": 0.64,
+          "diarizationLabel": "SPEAKER_00",
+          "host": null,
+          "bestHost": "geoff",
+          "similarity": 0.4765,
+          "margin": 0.2959
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "i'll give it one deer pissing in a river one deer piss",
+          "start": 4.0,
+          "end": 8.48,
+          "duration": 4.48,
+          "diarizationLabel": null,
+          "host": null,
+          "bestHost": "andrew",
+          "similarity": 0.2556,
+          "margin": 0.0768
+        }
+      ]
+    },
+    {
+      "id": "eric-two-headed-bird",
+      "episode": 97,
+      "expectedSpeaker": "eric",
+      "status": "mixed_speakers",
+      "reasons": [
+        "multiple turn-level host fingerprints",
+        "multiple sentence-level host fingerprints"
+      ],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 3044.24,
+      "matchedStartSec": 3074.82,
+      "matchedEndSec": 3078.62,
+      "dynamicOffsetSec": 30.58,
+      "matchedText": "Mine has two -headed bird tongues. Awesome. Mine is like a tail tongue.",
+      "wholeQuote": {
+        "host": null,
+        "bestHost": "eric",
+        "similarity": 0.6013,
+        "margin": 0.0016
+      },
+      "turnBlocks": [
+        {
+          "text": "Mine has two -headed bird tongues.",
+          "start": 4.0,
+          "end": 5.28,
+          "duration": 1.28,
+          "diarizationLabel": "SPEAKER_01",
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.7276,
+          "margin": 0.501
+        },
+        {
+          "text": "Awesome. Mine is like a tail tongue.",
+          "start": 5.8,
+          "end": 7.8,
+          "duration": 2.0,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.6202,
+          "margin": 0.4038
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "Mine has two -headed bird tongues.",
+          "start": 4.0,
+          "end": 5.28,
+          "duration": 1.28,
+          "diarizationLabel": null,
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.7276,
+          "margin": 0.501
+        },
+        {
+          "text": "Mine is like a tail tongue.",
+          "start": 6.22,
+          "end": 7.8,
+          "duration": 1.58,
+          "diarizationLabel": null,
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.6307,
+          "margin": 0.4014
+        }
+      ]
+    },
+    {
+      "id": "geoff-third-bread",
+      "episode": 100,
+      "expectedSpeaker": "geoff",
+      "status": "mixed_speakers",
+      "reasons": [
+        "multiple sentence-level host fingerprints"
+      ],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 524.17,
+      "matchedStartSec": 526.81,
+      "matchedEndSec": 536.17,
+      "dynamicOffsetSec": 2.64,
+      "matchedText": "I always pick the third bread. The third bread is always the best bread. No, like 90 of the time, the third bread's the best bread",
+      "wholeQuote": {
+        "host": null,
+        "bestHost": "geoff",
+        "similarity": 0.7187,
+        "margin": 0.0737
+      },
+      "turnBlocks": [
+        {
+          "text": "I always pick the third bread. The third bread is always the best bread. No, like 90 of the time, the third bread's the best bread",
+          "start": 4.0,
+          "end": 13.36,
+          "duration": 9.36,
+          "diarizationLabel": "SPEAKER_00",
+          "host": null,
+          "bestHost": "geoff",
+          "similarity": 0.7187,
+          "margin": 0.0737
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "I always pick the third bread.",
+          "start": 4.0,
+          "end": 5.82,
+          "duration": 1.82,
+          "diarizationLabel": null,
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.7482,
+          "margin": 0.3582
+        },
+        {
+          "text": "The third bread is always the best bread.",
+          "start": 6.14,
+          "end": 8.1,
+          "duration": 1.96,
+          "diarizationLabel": null,
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.6382,
+          "margin": 0.4148
+        },
+        {
+          "text": "No, like 90 of the time, the third bread's the best bread",
+          "start": 10.44,
+          "end": 13.36,
+          "duration": 2.92,
+          "diarizationLabel": null,
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.7609,
+          "margin": 0.3017
+        }
+      ]
+    },
+    {
+      "id": "geoff-midnight-cowboy-hat",
+      "episode": 164,
+      "expectedSpeaker": "geoff",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.9,
+      "expectedStartSec": 2786.08,
+      "matchedStartSec": 2732.04,
+      "matchedEndSec": 2739.0,
+      "dynamicOffsetSec": -54.04,
+      "matchedText": "it'll be like one in the morning and Emily and I will be trying to go to bed and I'll be screaming, cowboy hat for fuck's sake man come on",
+      "wholeQuote": {
+        "host": "geoff",
+        "bestHost": "geoff",
+        "similarity": 0.8701,
+        "margin": 0.5488
+      },
+      "turnBlocks": [
+        {
+          "text": "it'll be like one in the morning and Emily and I will be trying to go to bed and I'll be screaming, cowboy hat for fuck's sake man come on",
+          "start": 4.0,
+          "end": 10.96,
+          "duration": 6.96,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.8701,
+          "margin": 0.5488
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "it'll be like one in the morning and Emily and I will be trying to go to bed and I'll be screaming, cowboy hat for fuck's sake man come on",
+          "start": 4.0,
+          "end": 10.96,
+          "duration": 6.96,
+          "diarizationLabel": null,
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.8701,
+          "margin": 0.5488
+        }
+      ]
+    },
+    {
+      "id": "geoff-possum-anus",
+      "episode": 169,
+      "expectedSpeaker": "geoff",
+      "status": "mixed_speakers",
+      "reasons": [
+        "multiple sentence-level host fingerprints"
+      ],
+      "alignmentScore": 0.8966,
+      "expectedStartSec": 2974.26,
+      "matchedStartSec": 2918.62,
+      "matchedEndSec": 2931.26,
+      "dynamicOffsetSec": -55.64,
+      "matchedText": "How big is a possum's anus? We do have a possum, but my possum is about the size of a big one. cat and i've never seen a cat close to that like i'm telling you that is that is 50 pound dog shit right there",
+      "wholeQuote": {
+        "host": "geoff",
+        "bestHost": "geoff",
+        "similarity": 0.9221,
+        "margin": 0.4578
+      },
+      "turnBlocks": [
+        {
+          "text": "How big is a possum's anus? We do have a possum, but my possum is about the size of a big one. cat and i've never seen a cat close to that like i'm telling you that is that is 50 pound dog shit right there",
+          "start": 4.0,
+          "end": 16.64,
+          "duration": 12.64,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.9221,
+          "margin": 0.4578
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "How big is a possum's anus?",
+          "start": 4.0,
+          "end": 5.42,
+          "duration": 1.42,
+          "diarizationLabel": null,
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.6268,
+          "margin": 0.3006
+        },
+        {
+          "text": "We do have a possum, but my possum is about the size of a big one.",
+          "start": 5.56,
+          "end": 9.62,
+          "duration": 4.06,
+          "diarizationLabel": null,
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.8439,
+          "margin": 0.4012
+        },
+        {
+          "text": "cat and i've never seen a cat close to that like i'm telling you that is that is 50 pound dog shit right there",
+          "start": 9.64,
+          "end": 16.64,
+          "duration": 7.0,
+          "diarizationLabel": null,
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.9123,
+          "margin": 0.5594
+        }
+      ]
+    },
+    {
+      "id": "geoff-ass-waxing-pact",
+      "episode": 213,
+      "expectedSpeaker": "geoff",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 1727.01,
+      "matchedStartSec": 1685.35,
+      "matchedEndSec": 1690.35,
+      "dynamicOffsetSec": -41.66,
+      "matchedText": "i think it'll hurt a lot to get my asshole waxed but what if we go get our assholes waxed together",
+      "wholeQuote": {
+        "host": "geoff",
+        "bestHost": "geoff",
+        "similarity": 0.88,
+        "margin": 0.5695
+      },
+      "turnBlocks": [
+        {
+          "text": "i think it'll hurt a lot to get my asshole waxed but what if we go get our assholes waxed together",
+          "start": 4.0,
+          "end": 9.0,
+          "duration": 5.0,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.88,
+          "margin": 0.5695
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "i think it'll hurt a lot to get my asshole waxed but what if we go get our assholes waxed together",
+          "start": 4.0,
+          "end": 9.0,
+          "duration": 5.0,
+          "diarizationLabel": null,
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.88,
+          "margin": 0.5695
+        }
+      ]
+    },
+    {
+      "id": "geoff-toilet-clog-race",
+      "episode": 235,
+      "expectedSpeaker": "geoff",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.8358,
+      "expectedStartSec": 986.62,
+      "matchedStartSec": 986.52,
+      "matchedEndSec": 998.06,
+      "dynamicOffsetSec": -0.1,
+      "matchedText": "this may be the best invention in the history of face but how could like if we had a contest do you think we could pull off a contest to see who could clog a toilet first.",
+      "wholeQuote": {
+        "host": "geoff",
+        "bestHost": "geoff",
+        "similarity": 0.8652,
+        "margin": 0.5029
+      },
+      "turnBlocks": [
+        {
+          "text": "this may be the best invention in the history of face but how could like if we had a contest do you think we could pull off a contest to see who could clog a toilet first.",
+          "start": 4.0,
+          "end": 15.54,
+          "duration": 11.54,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.8652,
+          "margin": 0.5029
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "this may be the best invention in the history of face but how could like if we had a contest do you think we could pull off a contest to see who could clog a toilet first.",
+          "start": 4.0,
+          "end": 15.54,
+          "duration": 11.54,
+          "diarizationLabel": null,
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.8652,
+          "margin": 0.5029
+        }
+      ]
+    },
+    {
+      "id": "andrew-meat-slurpee",
+      "episode": 106,
+      "expectedSpeaker": "andrew",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.9565,
+      "expectedStartSec": 484.39,
+      "matchedStartSec": 524.9,
+      "matchedEndSec": 538.84,
+      "dynamicOffsetSec": 40.51,
+      "matchedText": "nice chilled bovril frosted bov summer bov bovril and ice oh like a slurpee can we do like a slurpee bovril meat slurpee",
+      "wholeQuote": {
+        "host": "andrew",
+        "bestHost": "andrew",
+        "similarity": 0.7565,
+        "margin": 0.1822
+      },
+      "turnBlocks": [
+        {
+          "text": "nice",
+          "start": 4.0,
+          "end": 6.6,
+          "duration": 2.6,
+          "diarizationLabel": null,
+          "host": null,
+          "bestHost": "andrew",
+          "similarity": 0.3558,
+          "margin": 0.0218
+        },
+        {
+          "text": "chilled bovril frosted bov summer bov bovril and ice",
+          "start": 6.6,
+          "end": 10.78,
+          "duration": 4.18,
+          "diarizationLabel": "SPEAKER_00",
+          "host": null,
+          "bestHost": "geoff",
+          "similarity": 0.6627,
+          "margin": 0.0519
+        },
+        {
+          "text": "oh",
+          "start": 10.78,
+          "end": 13.2,
+          "duration": 2.42,
+          "diarizationLabel": null,
+          "host": null,
+          "bestHost": "andrew",
+          "similarity": 0.2742,
+          "margin": 0.0027
+        },
+        {
+          "text": "like a slurpee can we do like a slurpee bovril meat slurpee",
+          "start": 13.2,
+          "end": 17.94,
+          "duration": 4.74,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.7526,
+          "margin": 0.3151
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "nice chilled bovril frosted bov summer bov bovril and ice oh like a slurpee can we do like a slurpee bovril meat slurpee",
+          "start": 4.0,
+          "end": 17.94,
+          "duration": 13.94,
+          "diarizationLabel": null,
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.7565,
+          "margin": 0.1822
+        }
+      ]
+    },
+    {
+      "id": "andrew-banana-wipes",
+      "episode": 127,
+      "expectedSpeaker": "andrew",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 2582.34,
+      "matchedStartSec": 2697.66,
+      "matchedEndSec": 2702.2,
+      "dynamicOffsetSec": 115.32,
+      "matchedText": "Banana wipes? What would a banana wipe look like? Banana probably.",
+      "wholeQuote": {
+        "host": "andrew",
+        "bestHost": "andrew",
+        "similarity": 0.8041,
+        "margin": 0.4951
+      },
+      "turnBlocks": [
+        {
+          "text": "Banana wipes? What would a banana wipe look like? Banana probably.",
+          "start": 4.0,
+          "end": 8.54,
+          "duration": 4.54,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.8041,
+          "margin": 0.4951
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "Banana wipes?",
+          "start": 4.0,
+          "end": 4.88,
+          "duration": 0.88,
+          "diarizationLabel": null,
+          "host": null,
+          "bestHost": "eric",
+          "similarity": 0.2508,
+          "margin": 0.0943
+        },
+        {
+          "text": "What would a banana wipe look like?",
+          "start": 5.4,
+          "end": 7.38,
+          "duration": 1.98,
+          "diarizationLabel": null,
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.788,
+          "margin": 0.5368
+        },
+        {
+          "text": "Banana probably.",
+          "start": 7.86,
+          "end": 8.54,
+          "duration": 0.68,
+          "diarizationLabel": null,
+          "host": null,
+          "bestHost": "gavin",
+          "similarity": 0.4046,
+          "margin": 0.0906
+        }
+      ]
+    },
+    {
+      "id": "andrew-italian-pizza-hands",
+      "episode": 147,
+      "expectedSpeaker": "andrew",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.9474,
+      "expectedStartSec": 372.82,
+      "matchedStartSec": 371.04,
+      "matchedEndSec": 375.94,
+      "dynamicOffsetSec": -1.78,
+      "matchedText": "every pizza I made I got like Italian pizza hands because I'd make a pizza and I grow confident.",
+      "wholeQuote": {
+        "host": "andrew",
+        "bestHost": "andrew",
+        "similarity": 0.8845,
+        "margin": 0.4286
+      },
+      "turnBlocks": [
+        {
+          "text": "every pizza I made I got like Italian pizza hands because I'd make a pizza and I grow confident.",
+          "start": 4.0,
+          "end": 8.9,
+          "duration": 4.9,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.8845,
+          "margin": 0.4286
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "every pizza I made I got like Italian pizza hands because I'd make a pizza and I grow confident.",
+          "start": 4.0,
+          "end": 8.9,
+          "duration": 4.9,
+          "diarizationLabel": null,
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.8845,
+          "margin": 0.4286
+        }
+      ]
+    },
+    {
+      "id": "andrew-toeless-socks",
+      "episode": 193,
+      "expectedSpeaker": "andrew",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.9524,
+      "expectedStartSec": 1485.87,
+      "matchedStartSec": 1487.75,
+      "matchedEndSec": 1505.75,
+      "dynamicOffsetSec": 1.88,
+      "matchedText": "socks i realized i hate pants because i feel confined no with my legs so by cutting the toes off of the sock my toes now have a freedom which makes me a sock guy not a sock guy a shocks guy",
+      "wholeQuote": {
+        "host": "andrew",
+        "bestHost": "andrew",
+        "similarity": 0.9254,
+        "margin": 0.5486
+      },
+      "turnBlocks": [
+        {
+          "text": "socks i realized i hate pants because i feel confined no with my legs so by cutting the toes off of the sock my toes now have a freedom which makes me a sock guy not a sock guy a shocks guy",
+          "start": 4.0,
+          "end": 22.0,
+          "duration": 18.0,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.9254,
+          "margin": 0.5486
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "socks i realized i hate pants because i feel confined no with my legs so by cutting the toes off of the sock my toes now have a freedom which makes me a sock guy not a sock guy a shocks guy",
+          "start": 4.0,
+          "end": 22.0,
+          "duration": 18.0,
+          "diarizationLabel": null,
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.9254,
+          "margin": 0.5486
+        }
+      ]
+    },
+    {
+      "id": "andrew-piss-dog",
+      "episode": 231,
+      "expectedSpeaker": "andrew",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.9565,
+      "expectedStartSec": 4813.32,
+      "matchedStartSec": 4838.02,
+      "matchedEndSec": 4840.54,
+      "dynamicOffsetSec": 24.7,
+      "matchedText": "I'd love a piss that can like piss in the toilet",
+      "wholeQuote": {
+        "host": "andrew",
+        "bestHost": "andrew",
+        "similarity": 0.6752,
+        "margin": 0.4609
+      },
+      "turnBlocks": [
+        {
+          "text": "I'd love a piss that can like piss in the toilet",
+          "start": 4.0,
+          "end": 6.52,
+          "duration": 2.52,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.6752,
+          "margin": 0.4609
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "I'd love a piss that can like piss in the toilet",
+          "start": 4.0,
+          "end": 6.52,
+          "duration": 2.52,
+          "diarizationLabel": null,
+          "host": "andrew",
+          "bestHost": "andrew",
+          "similarity": 0.6752,
+          "margin": 0.4609
+        }
+      ]
+    },
+    {
+      "id": "gavin-shampoo-alibi",
+      "episode": 114,
+      "expectedSpeaker": "gavin",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.9388,
+      "expectedStartSec": 1243.5,
+      "matchedStartSec": 1225.58,
+      "matchedEndSec": 1231.96,
+      "dynamicOffsetSec": -17.92,
+      "matchedText": "do you think if it wasn't his ass he tells his partner that shampoo was up his ass or does he just pretend",
+      "wholeQuote": {
+        "host": "gavin",
+        "bestHost": "gavin",
+        "similarity": 0.8659,
+        "margin": 0.5968
+      },
+      "turnBlocks": [
+        {
+          "text": "do you think if it wasn't his ass he tells his partner that shampoo was up his ass or does he just pretend",
+          "start": 4.0,
+          "end": 10.38,
+          "duration": 6.38,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.8659,
+          "margin": 0.5968
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "do you think if it wasn't his ass he tells his partner that shampoo was up his ass or does he just pretend",
+          "start": 4.0,
+          "end": 10.38,
+          "duration": 6.38,
+          "diarizationLabel": null,
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.8659,
+          "margin": 0.5968
+        }
+      ]
+    },
+    {
+      "id": "gavin-surprise-fart",
+      "episode": 161,
+      "expectedSpeaker": "gavin",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.8788,
+      "expectedStartSec": 429.62,
+      "matchedStartSec": 441.68,
+      "matchedEndSec": 453.56,
+      "dynamicOffsetSec": 12.06,
+      "matchedText": "a piss it's only ever piss coffee or asparagus none of which are a surprise because it's like oh yeah but sometimes there's a fart that pops out where it's like what on earth",
+      "wholeQuote": {
+        "host": "gavin",
+        "bestHost": "gavin",
+        "similarity": 0.8684,
+        "margin": 0.5233
+      },
+      "turnBlocks": [
+        {
+          "text": "a piss it's only ever piss coffee or asparagus none of which are a surprise because it's like oh yeah but sometimes there's a fart that pops out where it's like what on earth",
+          "start": 4.0,
+          "end": 15.88,
+          "duration": 11.88,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.8684,
+          "margin": 0.5233
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "a piss it's only ever piss coffee or asparagus none of which are a surprise because it's like oh yeah but sometimes there's a fart that pops out where it's like what on earth",
+          "start": 4.0,
+          "end": 15.88,
+          "duration": 11.88,
+          "diarizationLabel": null,
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.8684,
+          "margin": 0.5233
+        }
+      ]
+    },
+    {
+      "id": "gavin-vanishing-dog",
+      "episode": 211,
+      "expectedSpeaker": "gavin",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 3163.24,
+      "matchedStartSec": 3166.01,
+      "matchedEndSec": 3172.31,
+      "dynamicOffsetSec": 2.77,
+      "matchedText": "It's no one's dog It's a dog that purely exists Only when it's about to be shot And then it vanishes",
+      "wholeQuote": {
+        "host": "gavin",
+        "bestHost": "gavin",
+        "similarity": 0.8915,
+        "margin": 0.5856
+      },
+      "turnBlocks": [
+        {
+          "text": "It's no one's dog It's a dog that purely exists Only when it's about to be shot And then it vanishes",
+          "start": 4.0,
+          "end": 10.3,
+          "duration": 6.3,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.8915,
+          "margin": 0.5856
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "It's no one's dog It's a dog that purely exists Only when it's about to be shot And then it vanishes",
+          "start": 4.0,
+          "end": 10.3,
+          "duration": 6.3,
+          "diarizationLabel": null,
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.8915,
+          "margin": 0.5856
+        }
+      ]
+    },
+    {
+      "id": "gavin-cross-year-turd",
+      "episode": 226,
+      "expectedSpeaker": "gavin",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 1139.86,
+      "matchedStartSec": 1139.49,
+      "matchedEndSec": 1146.13,
+      "dynamicOffsetSec": -0.37,
+      "matchedText": "do you think any of the turds came out of burn dog's anus in 2023 but landed in 2024.",
+      "wholeQuote": {
+        "host": "gavin",
+        "bestHost": "gavin",
+        "similarity": 0.8657,
+        "margin": 0.6293
+      },
+      "turnBlocks": [
+        {
+          "text": "do you think any of the turds came out of burn dog's anus in 2023 but landed in 2024.",
+          "start": 4.0,
+          "end": 10.64,
+          "duration": 6.64,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.8657,
+          "margin": 0.6293
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "do you think any of the turds came out of burn dog's anus in 2023 but landed in 2024.",
+          "start": 4.0,
+          "end": 10.64,
+          "duration": 6.64,
+          "diarizationLabel": null,
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.8657,
+          "margin": 0.6293
+        }
+      ]
+    },
+    {
+      "id": "gavin-news-waffle",
+      "episode": 229,
+      "expectedSpeaker": "gavin",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 3000.16,
+      "matchedStartSec": 2950.68,
+      "matchedEndSec": 2961.3,
+      "dynamicOffsetSec": -49.48,
+      "matchedText": "what if there was a waffle machine that had some sort of way to change the top structure and every morning the news would be on your waffle",
+      "wholeQuote": {
+        "host": "gavin",
+        "bestHost": "gavin",
+        "similarity": 0.8795,
+        "margin": 0.5224
+      },
+      "turnBlocks": [
+        {
+          "text": "what if there was a waffle machine that had some sort of way to change the top structure and every morning the news would be on your waffle",
+          "start": 4.0,
+          "end": 14.62,
+          "duration": 10.62,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.8795,
+          "margin": 0.5224
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "what if there was a waffle machine that had some sort of way to change the top structure and every morning the news would be on your waffle",
+          "start": 4.0,
+          "end": 14.62,
+          "duration": 10.62,
+          "diarizationLabel": null,
+          "host": "gavin",
+          "bestHost": "gavin",
+          "similarity": 0.8795,
+          "margin": 0.5224
+        }
+      ]
+    },
+    {
+      "id": "eric-sneaky-fish-logic",
+      "episode": 142,
+      "expectedSpeaker": "eric",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 200.16,
+      "matchedStartSec": 224.66,
+      "matchedEndSec": 231.1,
+      "dynamicOffsetSec": 24.5,
+      "matchedText": "if you can say a coyote is sneakier than a fish, then a fish isn't going to be the sneakiest animal. And a coyote is definitely sneakier than a fish.",
+      "wholeQuote": {
+        "host": "eric",
+        "bestHost": "eric",
+        "similarity": 0.8101,
+        "margin": 0.5645
+      },
+      "turnBlocks": [
+        {
+          "text": "if you can say a coyote is sneakier than a fish, then a fish isn't going to be the sneakiest animal. And a coyote is definitely sneakier than a fish.",
+          "start": 4.0,
+          "end": 10.44,
+          "duration": 6.44,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.8101,
+          "margin": 0.5645
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "if you can say a coyote is sneakier than a fish, then a fish isn't going to be the sneakiest animal.",
+          "start": 4.0,
+          "end": 8.22,
+          "duration": 4.22,
+          "diarizationLabel": null,
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.7646,
+          "margin": 0.5629
+        },
+        {
+          "text": "And a coyote is definitely sneakier than a fish.",
+          "start": 8.44,
+          "end": 10.44,
+          "duration": 2.0,
+          "diarizationLabel": null,
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.7597,
+          "margin": 0.454
+        }
+      ]
+    },
+    {
+      "id": "eric-rat-boy-trailer",
+      "episode": 184,
+      "expectedSpeaker": "eric",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.8857,
+      "expectedStartSec": 2170.3,
+      "matchedStartSec": 2293.06,
+      "matchedEndSec": 2306.52,
+      "dynamicOffsetSec": 122.76,
+      "matchedText": "there's a video that auto -played right next to it and it's a trailer for a movie called rat boy where it's a yes it's just a very rat looking boy like he looks like a big rat",
+      "wholeQuote": {
+        "host": "eric",
+        "bestHost": "eric",
+        "similarity": 0.8979,
+        "margin": 0.5039
+      },
+      "turnBlocks": [
+        {
+          "text": "there's a video that auto -played right next to it and it's a trailer for a movie called rat boy where it's a yes it's just a very rat looking boy",
+          "start": 4.0,
+          "end": 14.44,
+          "duration": 10.44,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.8898,
+          "margin": 0.5109
+        },
+        {
+          "text": "like",
+          "start": 14.44,
+          "end": 15.78,
+          "duration": 1.34,
+          "diarizationLabel": null,
+          "host": null,
+          "bestHost": "geoff",
+          "similarity": 0.186,
+          "margin": 0.0032
+        },
+        {
+          "text": "he looks like a big rat",
+          "start": 15.78,
+          "end": 17.46,
+          "duration": 1.68,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.6011,
+          "margin": 0.3521
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "there's a video that auto -played right next to it and it's a trailer for a movie called rat boy where it's a yes it's just a very rat looking boy like he looks like a big rat",
+          "start": 4.0,
+          "end": 17.46,
+          "duration": 13.46,
+          "diarizationLabel": null,
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.8979,
+          "margin": 0.5039
+        }
+      ]
+    },
+    {
+      "id": "eric-magnet-butt-monkey",
+      "episode": 194,
+      "expectedSpeaker": "eric",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.9492,
+      "expectedStartSec": 1909.87,
+      "matchedStartSec": 1905.89,
+      "matchedEndSec": 1913.13,
+      "dynamicOffsetSec": -3.98,
+      "matchedText": "we have a little monkey that's gonna sit on your shoulder with a magnet in his butt so you have a little monkey that you can take around everywhere",
+      "wholeQuote": {
+        "host": "eric",
+        "bestHost": "eric",
+        "similarity": 0.9337,
+        "margin": 0.652
+      },
+      "turnBlocks": [
+        {
+          "text": "we have a little monkey that's gonna sit on your shoulder with a magnet in his butt so you have a little monkey that you can take around everywhere",
+          "start": 4.0,
+          "end": 11.24,
+          "duration": 7.24,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.9337,
+          "margin": 0.652
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "we have a little monkey that's gonna sit on your shoulder with a magnet in his butt so you have a little monkey that you can take around everywhere",
+          "start": 4.0,
+          "end": 11.24,
+          "duration": 7.24,
+          "diarizationLabel": null,
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.9337,
+          "margin": 0.652
+        }
+      ]
+    },
+    {
+      "id": "eric-potato-patent",
+      "episode": 201,
+      "expectedSpeaker": "eric",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 65.12,
+      "matchedStartSec": 80.87,
+      "matchedEndSec": 92.73,
+      "dynamicOffsetSec": 15.75,
+      "matchedText": "My potato fact is that PepsiCo sued some Indian farmers for cultivating the FC5 potato variety, accusing growers of infringing on their potato patent.",
+      "wholeQuote": {
+        "host": "eric",
+        "bestHost": "eric",
+        "similarity": 0.9019,
+        "margin": 0.5788
+      },
+      "turnBlocks": [
+        {
+          "text": "My potato fact is that PepsiCo sued some Indian farmers for cultivating the FC5 potato variety, accusing growers of infringing on their potato patent.",
+          "start": 4.0,
+          "end": 15.86,
+          "duration": 11.86,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.9019,
+          "margin": 0.5788
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "My potato fact is that PepsiCo sued some Indian farmers for cultivating the FC5 potato variety, accusing growers of infringing on their potato patent.",
+          "start": 4.0,
+          "end": 15.86,
+          "duration": 11.86,
+          "diarizationLabel": null,
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.9019,
+          "margin": 0.5788
+        }
+      ]
+    },
+    {
+      "id": "eric-crazy-frog",
+      "episode": 215,
+      "expectedSpeaker": "eric",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.9143,
+      "expectedStartSec": 738.06,
+      "matchedStartSec": 718.78,
+      "matchedEndSec": 724.9,
+      "dynamicOffsetSec": -19.28,
+      "matchedText": "did you know that you can see crazy frog's dick his dick just did you know that",
+      "wholeQuote": {
+        "host": "eric",
+        "bestHost": "eric",
+        "similarity": 0.8205,
+        "margin": 0.4778
+      },
+      "turnBlocks": [
+        {
+          "text": "did you know that you can see crazy frog's dick",
+          "start": 4.0,
+          "end": 6.84,
+          "duration": 2.84,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.7971,
+          "margin": 0.4899
+        },
+        {
+          "text": "his",
+          "start": 6.84,
+          "end": 8.36,
+          "duration": 1.52,
+          "diarizationLabel": null,
+          "host": null,
+          "bestHost": "eric",
+          "similarity": 0.2796,
+          "margin": 0.0367
+        },
+        {
+          "text": "dick just did you know that",
+          "start": 8.36,
+          "end": 10.12,
+          "duration": 1.76,
+          "diarizationLabel": "SPEAKER_00",
+          "host": null,
+          "bestHost": "eric",
+          "similarity": 0.4984,
+          "margin": 0.4087
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "did you know that you can see crazy frog's dick his dick just did you know that",
+          "start": 4.0,
+          "end": 10.12,
+          "duration": 6.12,
+          "diarizationLabel": null,
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.8205,
+          "margin": 0.4778
+        }
+      ]
+    }
+  ]
+}
