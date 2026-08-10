@@ -24,3 +24,10 @@ export type WhoSaidItQuote = {
 
 export const WHO_SAID_IT_BANK = rawBank as WhoSaidItQuote[];
 export const WHO_SAID_IT_LENGTH = 10;
+
+/** Format transcript offsets consistently everywhere they are displayed. */
+export function formatTranscriptTime(seconds: number): string {
+  const minutes = Math.floor(seconds / 60);
+  const remainder = Math.floor(seconds % 60);
+  return `${minutes}:${String(remainder).padStart(2, "0")}`;
+}

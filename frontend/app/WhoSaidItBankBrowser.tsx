@@ -1,9 +1,14 @@
 "use client";
 
 import Link from "next/link";
-import { useMemo, useState } from "react";
+import { useMemo, useState, type CSSProperties } from "react";
+import { HostBadge } from "./HostBadge";
 import { HOST_ORDER, HOST_PROFILES, type HostId } from "./quiz-data";
-import { WHO_SAID_IT_BANK, type QuoteDifficulty } from "./who-said-it-data";
+import {
+  formatTranscriptTime,
+  WHO_SAID_IT_BANK,
+  type QuoteDifficulty,
+} from "./who-said-it-data";
 
 
 type HostFilter = "all" | HostId;
@@ -19,15 +24,17 @@ const DIFFICULTY_QUOTE_COUNTS = Object.fromEntries(
   ]),
 ) as Record<QuoteDifficulty, number>;
 const QUOTED_EPISODE_COUNT = new Set(WHO_SAID_IT_BANK.map((item) => item.episode)).size;
-
-function HostBadge({ host }: { host: HostId }) {
-  const profile = HOST_PROFILES[host];
-  return (
-    <span className="wsi-host-badge" style={{ "--host-color": profile.color } as React.CSSProperties}>
-      <b>{profile.name.slice(0, 1)}</b>{profile.name}
-    </span>
-  );
-}
+const QUOTE_NUMBER_BY_ID = new Map(
+  WHO_SAID_IT_BANK.map((item, index) => [item.id, index + 1]),
+);
+const QUOTE_SEARCH_TEXT_BY_ID = new Map(
+  WHO_SAID_IT_BANK.map((item) => [
+    item.id,
+    [item.quote, item.title, item.topic, item.context, HOST_PROFILES[item.speaker].name]
+      .join(" ")
+      .toLowerCase(),
+  ]),
+);
 
 export default function WhoSaidItBankBrowser({ mappedEpisodes }: { mappedEpisodes: number }) {
   const [query, setQuery] = useState("");
@@ -39,9 +46,7 @@ export default function WhoSaidItBankBrowser({ mappedEpisodes }: { mappedEpisode
     return WHO_SAID_IT_BANK.filter((item) => {
       const matchesHost = host === "all" || item.speaker === host;
       const matchesDifficulty = difficulty === "all" || item.difficulty === difficulty;
-      const haystack = [item.quote, item.title, item.topic, item.context, HOST_PROFILES[item.speaker].name]
-        .join(" ")
-        .toLowerCase();
+      const haystack = QUOTE_SEARCH_TEXT_BY_ID.get(item.id) ?? "";
       return matchesHost && matchesDifficulty && (!needle || haystack.includes(needle));
     });
   }, [difficulty, host, query]);
@@ -118,12 +123,12 @@ export default function WhoSaidItBankBrowser({ mappedEpisodes }: { mappedEpisode
       <section className="wsi-bank-list" aria-label="Regulation Who Said It quote bank">
         {visible.map((item) => {
           const profile = HOST_PROFILES[item.speaker];
-          const bankIndex = WHO_SAID_IT_BANK.findIndex((quote) => quote.id === item.id) + 1;
+          const bankIndex = QUOTE_NUMBER_BY_ID.get(item.id) ?? 0;
           return (
             <article
               className="wsi-bank-card"
               key={item.id}
-              style={{ "--host-color": profile.color, "--host-pale": profile.pale } as React.CSSProperties}
+              style={{ "--host-color": profile.color, "--host-pale": profile.pale } as CSSProperties}
             >
               <header>
                 <span>Q{String(bankIndex).padStart(2, "0")}</span>
@@ -137,7 +142,7 @@ export default function WhoSaidItBankBrowser({ mappedEpisodes }: { mappedEpisode
               <footer>
                 <span>Episode {item.episode}</span>
                 <strong>{item.title}</strong>
-                <small>{item.published} · {Math.floor(item.startSec / 60)}:{String(Math.floor(item.startSec % 60)).padStart(2, "0")}</small>
+                <small>{item.published} · {formatTranscriptTime(item.startSec)}</small>
               </footer>
             </article>
           );

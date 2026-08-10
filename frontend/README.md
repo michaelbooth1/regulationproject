@@ -1,49 +1,79 @@
-# Regulation Quiz
+# Regulation Who Said It
 
-A replayable comedy quiz that serves ten absurd scenarios from a larger,
-balanced question bank and reports whether the player's answers most resemble
-Geoff, Andrew, Gavin, or Eric.
+A transcript-powered fan game for identifying which Regulation Podcast host
+said an absurd line. Each game draws ten quotes from a curated 100-quote bank,
+reveals the three preceding transcript lines after an answer, and reports the
+player's results by host.
 
-This is an entertainment classifier, not a psychological personality test. Its
-four scoring dimensions come from descriptive analysis of the locally mapped
-podcast transcripts: story escalation, premise lawyering, experimental
-curiosity, and reality refereeing.
+The app is intentionally self-contained: gameplay, history, and lifetime stats
+run in the browser, while the quote bank and mapped-episode count are bundled at
+build time. It does not require a database or user account.
 
-## Project shape
+## Important files
 
-- `app/QuizApp.tsx` — client-side quiz flow, balanced random draw, scoring, and
-  answer-specific result explanation
-- `app/quiz-data.ts` — host profiles and the editable question bank
-- `app/data/host-language-profiles.json` — generated corpus research used to
-  ground the host profiles
-- `QUIZ_DESIGN.md` — product promise, evidence, comedy rules, and scoring model
-- `../scripts/analyze_host_language.py` — repeatable transcript-analysis script
-- `.openai/hosting.json` — Sites project configuration
+- `app/WhoSaidItGame.tsx` — game stages, answers, keyboard controls, results,
+  and optional browser-persisted statistics
+- `app/who-said-it-round.ts` — balanced round selection and repeat avoidance
+- `app/WhoSaidItBankBrowser.tsx` — searchable, spoiler-filled quote-bank view
+- `app/HostBadge.tsx` — shared host attribution badge
+- `app/data/who-said-it-bank.json` — curated quotes, sources, and reveal context
+- `app/who-said-it-data.ts` — quote types and shared transcript formatting
+- `tests/rendered-html.test.mjs` — rendered-route and quote-bank integrity tests
+- `WHO_SAID_IT_DESIGN.md` — product rules, tone, and selection rationale
+
+## Quote-bank guarantees
+
+The automated tests enforce the assumptions used by the game:
+
+- 100 unique quotes and 100 distinct source episodes
+- 25 quotes for each of Geoff, Andrew, Gavin, and Eric
+- 34 easy, 33 medium, and 33 hard entries
+- every mystery quote is shorter than 200 characters
+- mystery quotes do not contain an eligible host's name
+- every reveal contains exactly three earlier transcript lines
+
+Round selection independently guarantees at least two quotes from every host
+and a `3 easy / 4 medium / 3 hard` difficulty mix. It prefers entries that did
+not appear in the immediately preceding game.
 
 ## Local development
+
+Requires Node.js 22.13 or newer and pnpm.
 
 ```bash
 pnpm install
 pnpm dev
 ```
 
+The primary routes are:
+
+- `/` — game
+- `/who-said-it` — direct game URL
+- `/who-said-it/bank` — fully attributed quote bank
+
 ## Validation
 
 ```bash
+pnpm run lint
 pnpm test
 ```
 
-The test command builds the production worker, verifies the rendered landing
-page, checks the question-bank balance, and validates the expected linguistic
-contrasts in the generated corpus report.
+`pnpm test` creates the production Worker build before checking rendered HTML,
+data balance, quote constraints, transcript context, and key responsive styles.
 
-## Refreshing the research
+## Cloudflare deployment
 
-From the repository root, after transcript or speaker-map changes:
+Wrangler authentication is required once on a new machine:
 
 ```bash
-.venv\Scripts\python.exe scripts\analyze_host_language.py
+pnpm exec wrangler login
 ```
 
-The quiz currently keeps all state in the browser for one play session. No user
-accounts, tracking, or database are required for the initialized version.
+Then build and deploy the existing Cloudflare Worker with:
+
+```bash
+pnpm run deploy:cloudflare
+```
+
+Use `pnpm run deploy:cloudflare:dry-run` to validate the upload bundle without
+changing the live Worker.

@@ -81,8 +81,9 @@ test("server-renders the searchable, fully attributed 100-quote bank", async () 
 
 
 test("keeps the game balanced, varied, and transcript-grounded", async () => {
-  const [whoSource, bankBrowserSource, quoteBankText, profileText, design, layoutSource, styles] = await Promise.all([
+  const [whoSource, roundSource, bankBrowserSource, quoteBankText, profileText, design, layoutSource, styles] = await Promise.all([
     readFile(new URL("../app/WhoSaidItGame.tsx", import.meta.url), "utf8"),
+    readFile(new URL("../app/who-said-it-round.ts", import.meta.url), "utf8"),
     readFile(new URL("../app/WhoSaidItBankBrowser.tsx", import.meta.url), "utf8"),
     readFile(new URL("../app/data/who-said-it-bank.json", import.meta.url), "utf8"),
     readFile(new URL("../app/data/host-language-profiles.json", import.meta.url), "utf8"),
@@ -142,8 +143,10 @@ test("keeps the game balanced, varied, and transcript-grounded", async () => {
   )));
 
   assert.match(whoSource, /WHO_SAID_IT_LENGTH/);
-  assert.match(whoSource, /ROUND_DIFFICULTY_TARGETS/);
-  assert.match(whoSource, /hostCounts\[host\] >= 2/);
+  assert.match(roundSource, /ROUND_DIFFICULTY_TARGETS/);
+  assert.match(roundSource, /MIN_QUOTES_PER_HOST = 2/);
+  assert.match(roundSource, /hostCounts\[host\] >= MIN_QUOTES_PER_HOST/);
+  assert.match(roundSource, /deterministicFallback/);
   assert.match(whoSource, /pickRound\(new Set\(round\.map/);
   assert.match(whoSource, /window\.localStorage/);
   assert.doesNotMatch(whoSource, /navigator\.share|shareScore|Share score/);

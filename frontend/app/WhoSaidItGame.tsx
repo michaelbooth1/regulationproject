@@ -1,14 +1,16 @@
 "use client";
 
 import Link from "next/link";
-import { useCallback, useEffect, useMemo, useRef, useState } from "react";
+import { useCallback, useEffect, useMemo, useRef, useState, type CSSProperties } from "react";
+import { HostBadge } from "./HostBadge";
 import { HOST_ORDER, HOST_PROFILES, type HostId } from "./quiz-data";
 import {
+  formatTranscriptTime,
   WHO_SAID_IT_BANK,
   WHO_SAID_IT_LENGTH,
-  type QuoteDifficulty,
   type WhoSaidItQuote,
 } from "./who-said-it-data";
+import { pickRound } from "./who-said-it-round";
 
 
 type Stage = "intro" | "playing" | "result";
@@ -25,66 +27,26 @@ type LifetimeStats = {
 };
 
 const STATS_KEY = "regulation-who-said-it-stats-v1";
+const LIFETIME_STAT_FIELDS = ["games", "best", "totalCorrect", "totalQuestions"] as const;
+const UNKNOWN_SPEAKER_COLOR = "#c8c2b7";
 const EMPTY_STATS: LifetimeStats = {
   games: 0,
   best: 0,
   totalCorrect: 0,
   totalQuestions: 0,
 };
-const ROUND_DIFFICULTY_TARGETS: Record<QuoteDifficulty, number> = {
-  easy: 3,
-  medium: 4,
-  hard: 3,
-};
-
-function shuffle<T>(items: readonly T[]): T[] {
-  const copy = [...items];
-  for (let index = copy.length - 1; index > 0; index -= 1) {
-    const other = Math.floor(Math.random() * (index + 1));
-    [copy[index], copy[other]] = [copy[other], copy[index]];
-  }
-  return copy;
-}
-
-function isBalancedRound(round: WhoSaidItQuote[]) {
-  const hostCounts = Object.fromEntries(HOST_ORDER.map((host) => [host, 0])) as Record<HostId, number>;
-  const difficultyCounts: Record<QuoteDifficulty, number> = { easy: 0, medium: 0, hard: 0 };
-  for (const quote of round) {
-    hostCounts[quote.speaker] += 1;
-    difficultyCounts[quote.difficulty] += 1;
-  }
-  return (
-    HOST_ORDER.every((host) => hostCounts[host] >= 2) &&
-    (Object.keys(ROUND_DIFFICULTY_TARGETS) as QuoteDifficulty[]).every(
-      (difficulty) => difficultyCounts[difficulty] === ROUND_DIFFICULTY_TARGETS[difficulty],
-    )
-  );
-}
-
-function pickRound(avoidIds: ReadonlySet<string> = new Set()): WhoSaidItQuote[] {
-  const fresh = WHO_SAID_IT_BANK.filter((quote) => !avoidIds.has(quote.id));
-  for (const pool of [fresh, WHO_SAID_IT_BANK]) {
-    if (pool.length < WHO_SAID_IT_LENGTH) continue;
-    for (let attempt = 0; attempt < 600; attempt += 1) {
-      const candidate = shuffle(pool).slice(0, WHO_SAID_IT_LENGTH);
-      if (isBalancedRound(candidate)) return candidate;
-    }
-  }
-
-  const guaranteed = HOST_ORDER.flatMap((host) =>
-    shuffle(WHO_SAID_IT_BANK.filter((quote) => quote.speaker === host)).slice(0, 2),
-  );
-  const guaranteedIds = new Set(guaranteed.map((quote) => quote.id));
-  return shuffle([
-    ...guaranteed,
-    ...shuffle(WHO_SAID_IT_BANK.filter((quote) => !guaranteedIds.has(quote.id))).slice(0, 2),
-  ]);
-}
-
 function scrollToTop() {
   window.requestAnimationFrame(() => {
     window.scrollTo({ top: 0, behavior: "smooth" });
   });
+}
+
+function isLifetimeStats(value: unknown): value is LifetimeStats {
+  if (!value || typeof value !== "object") return false;
+  const candidate = value as Partial<LifetimeStats>;
+  return LIFETIME_STAT_FIELDS.every((field) => (
+    Number.isInteger(candidate[field]) && (candidate[field] ?? -1) >= 0
+  ));
 }
 
 function loadLifetimeStats(): LifetimeStats {
@@ -92,20 +54,12 @@ function loadLifetimeStats(): LifetimeStats {
   try {
     const saved = window.localStorage.getItem(STATS_KEY);
     if (!saved) return EMPTY_STATS;
-    const parsed = JSON.parse(saved) as Partial<LifetimeStats>;
-    if ([parsed.games, parsed.best, parsed.totalCorrect, parsed.totalQuestions].every(Number.isFinite)) {
-      return parsed as LifetimeStats;
-    }
+    const parsed: unknown = JSON.parse(saved);
+    if (isLifetimeStats(parsed)) return parsed;
   } catch {
-    // Device stats are a bonus; storage restrictions should never block play.
+    // Browser storage is untrusted and optional; a bad value should never block play.
   }
   return EMPTY_STATS;
-}
-
-function formatTime(seconds: number) {
-  const minutes = Math.floor(seconds / 60);
-  const remainder = Math.floor(seconds % 60);
-  return `${minutes}:${String(remainder).padStart(2, "0")}`;
 }
 
 function scoreVerdict(score: number) {
@@ -139,22 +93,9 @@ function scoreVerdict(score: number) {
   };
 }
 
-function HostBadge({ host }: { host: HostId }) {
-  const profile = HOST_PROFILES[host];
-  return (
-    <span
-      className="wsi-host-badge"
-      style={{ "--host-color": profile.color } as React.CSSProperties}
-    >
-      <b>{profile.name.slice(0, 1)}</b>
-      {profile.name}
-    </span>
-  );
-}
-
 function transcriptSpeakerColor(speaker: string) {
   const host = HOST_ORDER.find((hostId) => HOST_PROFILES[hostId].name === speaker);
-  return host ? HOST_PROFILES[host].color : "#c8c2b7";
+  return host ? HOST_PROFILES[host].color : UNKNOWN_SPEAKER_COLOR;
 }
 
 export default function WhoSaidItGame({ mappedEpisodes }: { mappedEpisodes: number }) {
@@ -168,6 +109,7 @@ export default function WhoSaidItGame({ mappedEpisodes }: { mappedEpisodes: numb
 
   const current = round[currentIndex];
   const score = answers.filter((answer) => answer.correct).length;
+  const scorePercentage = Math.round((score / WHO_SAID_IT_LENGTH) * 100);
   const verdict = useMemo(() => scoreVerdict(score), [score]);
   const currentStreak = useMemo(() => {
     let streak = 0;
@@ -365,7 +307,7 @@ export default function WhoSaidItGame({ mappedEpisodes }: { mappedEpisodes: numb
                   key={host}
                   disabled={selectedHost !== null}
                   className={`wsi-choice${isCorrect ? " correct" : ""}${isWrongChoice ? " wrong" : ""}`}
-                  style={{ "--host-color": profile.color, "--host-pale": profile.pale } as React.CSSProperties}
+                  style={{ "--host-color": profile.color, "--host-pale": profile.pale } as CSSProperties}
                   onClick={() => choose(host)}
                   aria-label={`Choose ${profile.name}`}
                   aria-pressed={selectedHost === host}
@@ -382,7 +324,7 @@ export default function WhoSaidItGame({ mappedEpisodes }: { mappedEpisodes: numb
           {selectedHost && (
             <aside
               className={`wsi-reveal ${selectedWasCorrect ? "correct" : "wrong"}`}
-              style={{ "--host-color": correctProfile.color, "--host-pale": correctProfile.pale } as React.CSSProperties}
+              style={{ "--host-color": correctProfile.color, "--host-pale": correctProfile.pale } as CSSProperties}
               role="status"
               aria-live="polite"
             >
@@ -390,14 +332,14 @@ export default function WhoSaidItGame({ mappedEpisodes }: { mappedEpisodes: numb
                 <div className="wsi-transcript-heading">
                   <span>Transcript excerpt / names restored</span>
                   <small>
-                    {formatTime(current.leadIn[0].startSec)} → {formatTime(current.startSec)}
+                    {formatTranscriptTime(current.leadIn[0].startSec)} → {formatTranscriptTime(current.startSec)}
                   </small>
                 </div>
                 <ol aria-label="Three preceding transcript lines followed by the attributed mystery quote">
                   {current.leadIn.map((line) => (
                     <li
                       key={`${line.startSec}-${line.speaker}`}
-                      style={{ "--speaker-color": transcriptSpeakerColor(line.speaker) } as React.CSSProperties}
+                      style={{ "--speaker-color": transcriptSpeakerColor(line.speaker) } as CSSProperties}
                     >
                       <strong>{line.speaker}</strong>
                       <p>{line.text}</p>
@@ -405,7 +347,7 @@ export default function WhoSaidItGame({ mappedEpisodes }: { mappedEpisodes: numb
                   ))}
                   <li
                     className="wsi-transcript-quote"
-                    style={{ "--speaker-color": correctProfile.color } as React.CSSProperties}
+                    style={{ "--speaker-color": correctProfile.color } as CSSProperties}
                   >
                     <strong>{correctProfile.name}</strong>
                     <p>{current.quote}</p>
@@ -421,7 +363,7 @@ export default function WhoSaidItGame({ mappedEpisodes }: { mappedEpisodes: numb
                   <span>Case note</span>
                   <p>{current.context}</p>
                   <small>
-                    Episode {current.episode} · {current.title} · {current.published} · {formatTime(current.startSec)}
+                    Episode {current.episode} · {current.title} · {current.published} · {formatTranscriptTime(current.startSec)}
                   </small>
                 </div>
               </div>
@@ -458,14 +400,14 @@ export default function WhoSaidItGame({ mappedEpisodes }: { mappedEpisodes: numb
         </div>
         <aside className="wsi-score-slip">
           <span>Regulation damage</span>
-          <strong>{score * 10}%</strong>
+          <strong>{scorePercentage}%</strong>
           <p>{WHO_SAID_IT_LENGTH - score} false accusations</p>
-          <div aria-hidden="true"><span style={{ width: `${score * 10}%` }} /></div>
+          <div aria-hidden="true"><span style={{ width: `${scorePercentage}%` }} /></div>
           <small>Legally meaningless. Spiritually permanent.</small>
           {stats.games > 0 && (
             <dl className="wsi-lifetime-stats">
               <div><dt>Games</dt><dd>{stats.games}</dd></div>
-              <div><dt>Personal best</dt><dd>{stats.best}/10</dd></div>
+              <div><dt>Personal best</dt><dd>{stats.best}/{WHO_SAID_IT_LENGTH}</dd></div>
               <div>
                 <dt>Lifetime accuracy</dt>
                 <dd>{Math.round((stats.totalCorrect / Math.max(stats.totalQuestions, 1)) * 100)}%</dd>
@@ -484,7 +426,7 @@ export default function WhoSaidItGame({ mappedEpisodes }: { mappedEpisodes: numb
           {hostBreakdown.map(({ host, correct, total }) => {
             const profile = HOST_PROFILES[host];
             return (
-              <article key={host} style={{ "--host-color": profile.color, "--host-pale": profile.pale } as React.CSSProperties}>
+              <article key={host} style={{ "--host-color": profile.color, "--host-pale": profile.pale } as CSSProperties}>
                 <HostBadge host={host} />
                 <strong>{correct}<span>/{total}</span></strong>
                 <p>{correct === total ? "No false charges" : `${total - correct} misidentified`}</p>
@@ -508,7 +450,7 @@ export default function WhoSaidItGame({ mappedEpisodes }: { mappedEpisodes: numb
               <article
                 key={answer.quote.id}
                 className={answer.correct ? "correct" : "wrong"}
-                style={{ "--host-color": correct.color, "--host-pale": correct.pale } as React.CSSProperties}
+                style={{ "--host-color": correct.color, "--host-pale": correct.pale } as CSSProperties}
               >
                 <span>{String(index + 1).padStart(2, "0")}</span>
                 <blockquote>“{answer.quote.quote}”</blockquote>
