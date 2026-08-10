@@ -98,6 +98,12 @@ test("keeps the game balanced, varied, and transcript-grounded", async () => {
   assert.equal(new Set(quoteBank.map((item) => item.id)).size, 100);
   assert.equal(new Set(quoteBank.map((item) => item.quote)).size, 100);
   assert.equal(new Set(quoteBank.map((item) => item.episode)).size, 100);
+  assert.deepEqual(
+    quoteBank
+      .filter((item) => Array.from(item.quote).length >= 200)
+      .map((item) => ({ id: item.id, length: Array.from(item.quote).length })),
+    [],
+  );
   const hostNamePattern = /\b(?:geoff(?:rey)?|jeff|andrew|panton|gavin|gav|eric|ramsey|baudour)\b/i;
   assert.deepEqual(
     quoteBank.filter((item) => hostNamePattern.test(item.quote)).map((item) => item.id),
