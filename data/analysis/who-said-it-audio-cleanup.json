@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T17:55:13.065058-04:00",
+  "generatedAt": "2026-08-10T18:10:12.137363-04:00",
   "complete": true,
   "models": {
     "transcription": "large-v3-turbo",
@@ -13,9 +13,9 @@
     "minimumSentenceEvidenceSeconds": 1.5
   },
   "totals": {
-    "requested": 7,
-    "processed": 7,
-    "clean": 7
+    "requested": 8,
+    "processed": 8,
+    "clean": 8
   },
   "entries": [
     {
@@ -318,6 +318,62 @@
           "bestHost": "geoff",
           "similarity": 0.7577,
           "margin": 0.3039
+        }
+      ]
+    },
+    {
+      "id": "geoff-possum-anus",
+      "episode": 169,
+      "expectedSpeaker": "geoff",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.8919,
+      "expectedStartSec": 2975.82,
+      "matchedStartSec": 2920.1,
+      "matchedEndSec": 2931.32,
+      "dynamicOffsetSec": -55.72,
+      "matchedText": "we do have a possum but my possum is about the size of a big cat and i've never seen a cat close to that like i'm telling you that is that is 50 pound dog shit right there",
+      "wholeQuote": {
+        "host": "geoff",
+        "bestHost": "geoff",
+        "similarity": 0.9265,
+        "margin": 0.487
+      },
+      "turnBlocks": [
+        {
+          "text": "we do have a possum but my possum is about the size of a big cat",
+          "start": 4.0,
+          "end": 8.7,
+          "duration": 4.7,
+          "diarizationLabel": "SPEAKER_01",
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.8644,
+          "margin": 0.3992
+        },
+        {
+          "text": "and i've never seen a cat close to that like i'm telling you that is that is 50 pound dog shit right there",
+          "start": 8.7,
+          "end": 15.22,
+          "duration": 6.52,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.9152,
+          "margin": 0.5737
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "we do have a possum but my possum is about the size of a big cat and i've never seen a cat close to that like i'm telling you that is that is 50 pound dog shit right there",
+          "start": 4.0,
+          "end": 15.22,
+          "duration": 11.22,
+          "diarizationLabel": null,
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.9265,
+          "margin": 0.487
         }
       ]
     }
