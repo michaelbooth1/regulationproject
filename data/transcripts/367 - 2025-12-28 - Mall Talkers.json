@@ -1,0 +1,6884 @@
+{
+ "index": 367,
+ "title": "Mall Talkers",
+ "pub_date": "2025-12-28T14:00:00+00:00",
+ "model": "large-v3-turbo",
+ "diarization_model": "pyannote/speaker-diarization-3.1",
+ "language": "en",
+ "language_probability": 1,
+ "duration_sec": 1834.5524375,
+ "speaker_embeddings": {
+  "SPEAKER_00": [
+   -0.269789,
+   -0.079964,
+   0.09008,
+   -0.088216,
+   0.046592,
+   0.032792,
+   -0.090699,
+   0.074471,
+   0.148196,
+   -0.213638,
+   0.047364,
+   -0.151102,
+   0.0426,
+   -0.16077,
+   -0.109734,
+   -0.082067,
+   0.225357,
+   0.168201,
+   -0.152616,
+   0.006811,
+   -0.096176,
+   -0.079579,
+   0.014456,
+   -0.072003,
+   -0.072246,
+   0.109175,
+   0.164914,
+   -0.179043,
+   -0.03963,
+   0.002875,
+   0.238976,
+   0.233563,
+   -0.074762,
+   0.061981,
+   0.080808,
+   -0.155078,
+   0.271679,
+   -0.068885,
+   -0.165564,
+   0.057101,
+   0.040341,
+   -0.039793,
+   -0.064916,
+   0.091651,
+   0.179657,
+   0.098132,
+   0.253254,
+   -0.070708,
+   0.140591,
+   -0.22359,
+   0.102337,
+   -0.014707,
+   0.109226,
+   -0.001216,
+   0.08284,
+   0.018575,
+   0.041191,
+   0.013324,
+   -0.076331,
+   0.192774,
+   -0.081054,
+   -0.107412,
+   0.376341,
+   -0.301835,
+   0.186309,
+   0.073739,
+   0.123849,
+   -0.037599,
+   0.103561,
+   0.247223,
+   -0.118049,
+   0.201312,
+   -0.011772,
+   -0.003798,
+   0.290889,
+   -0.121928,
+   0.221825,
+   0.11238,
+   -0.200464,
+   -0.094127,
+   0.069627,
+   -0.070658,
+   -0.049533,
+   -0.077706,
+   0.162393,
+   0.02928,
+   -0.119514,
+   -0.083063,
+   -0.021811,
+   -0.085159,
+   0.109865,
+   0.085532,
+   -6e-05,
+   0.073669,
+   -0.061962,
+   0.094694,
+   0.168355,
+   0.327789,
+   -0.204432,
+   0.037337,
+   -0.107297,
+   0.100665,
+   0.194442,
+   0.208453,
+   0.098984,
+   -0.068741,
+   -0.204786,
+   -0.122684,
+   -0.155994,
+   0.011914,
+   -0.145204,
+   0.080835,
+   0.014,
+   0.020709,
+   -0.05188,
+   -0.078696,
+   0.094434,
+   -0.106169,
+   -0.036613,
+   -0.009789,
+   0.04796,
+   0.124657,
+   -0.042005,
+   -0.15623,
+   0.011801,
+   0.103192,
+   0.264012,
+   -0.032356,
+   -0.15051,
+   -0.002854,
+   0.093224,
+   0.012434,
+   0.007402,
+   0.079593,
+   -0.204234,
+   -0.06995,
+   -0.111696,
+   0.022932,
+   0.204579,
+   -0.006125,
+   -0.151778,
+   -0.00352,
+   -0.010704,
+   0.247918,
+   -0.001042,
+   -0.150519,
+   0.17497,
+   -0.048684,
+   0.093341,
+   0.042502,
+   0.02943,
+   0.057148,
+   0.069303,
+   0.108479,
+   -0.182232,
+   0.069498,
+   0.294388,
+   0.11951,
+   0.003148,
+   0.211845,
+   0.038504,
+   0.131818,
+   0.009438,
+   -0.110605,
+   0.203932,
+   0.062326,
+   -0.084925,
+   -0.081139,
+   0.078115,
+   0.115051,
+   0.088758,
+   0.265346,
+   -0.0982,
+   -0.045849,
+   0.122453,
+   0.044778,
+   0.067459,
+   -0.070453,
+   -0.028881,
+   -0.034923,
+   -0.059998,
+   0.331362,
+   -0.115359,
+   0.033581,
+   0.014127,
+   -0.012384,
+   0.019041,
+   0.248101,
+   0.014137,
+   0.143295,
+   -0.208517,
+   -0.122119,
+   0.045122,
+   -0.048032,
+   0.080335,
+   -0.00733,
+   -0.1993,
+   0.018061,
+   -0.003483,
+   -0.037551,
+   0.198641,
+   -0.092555,
+   -0.057979,
+   0.057148,
+   -0.120617,
+   -0.173098,
+   0.036351,
+   -0.022284,
+   0.001745,
+   -0.050573,
+   -0.215394,
+   -0.29386,
+   -0.074999,
+   0.122195,
+   -0.086797,
+   0.17175,
+   -0.020034,
+   0.065565,
+   -0.0312,
+   0.076506,
+   0.126968,
+   -0.038639,
+   0.009474,
+   0.094225,
+   -0.081339,
+   -0.091788,
+   -0.027823,
+   -0.132192,
+   0.144585,
+   0.217715,
+   0.148804,
+   0.040534,
+   0.001254,
+   -0.022188,
+   0.033348,
+   0.271114,
+   -0.105182,
+   -0.033507,
+   0.143666,
+   0.067041,
+   0.135898,
+   0.248919,
+   0.035526,
+   0.036615,
+   -0.003772,
+   0.009725,
+   0.066563,
+   0.086687,
+   -0.049145,
+   0.135517,
+   0.263163,
+   0.26331,
+   0.067467,
+   -0.111738,
+   -0.01776,
+   -0.073423
+  ],
+  "SPEAKER_01": [
+   -0.36151,
+   -0.0185,
+   0.034628,
+   -0.15909,
+   0.180742,
+   0.10127,
+   -0.069291,
+   0.104546,
+   -0.027728,
+   -0.104007,
+   0.24079,
+   0.135198,
+   -0.069275,
+   -0.060125,
+   -0.201016,
+   0.066037,
+   -0.070088,
+   0.262232,
+   -0.006431,
+   0.163987,
+   0.070953,
+   -0.100349,
+   -0.013316,
+   -0.120851,
+   0.177367,
+   0.100727,
+   0.010198,
+   -0.009078,
+   -0.029999,
+   0.060374,
+   0.340141,
+   0.054311,
+   -0.024948,
+   0.031965,
+   0.06627,
+   0.058996,
+   0.182192,
+   -0.010393,
+   -0.101278,
+   -0.134687,
+   -0.013621,
+   0.01535,
+   -0.015543,
+   -0.214714,
+   -0.093235,
+   -0.230311,
+   0.26362,
+   0.061692,
+   0.037697,
+   -0.180624,
+   0.192137,
+   -0.051563,
+   0.09289,
+   0.065551,
+   -0.32094,
+   0.232058,
+   -0.027971,
+   -0.20391,
+   -0.37995,
+   0.131336,
+   0.100308,
+   -0.173749,
+   -0.124227,
+   0.001541,
+   0.030326,
+   0.328752,
+   0.051855,
+   -0.098623,
+   -0.062225,
+   0.143253,
+   -0.049043,
+   -0.138015,
+   0.094281,
+   -0.27228,
+   0.025767,
+   0.086202,
+   0.063719,
+   0.143995,
+   -0.084177,
+   -0.029733,
+   0.043924,
+   -0.059128,
+   0.116127,
+   -0.196576,
+   0.266762,
+   -0.327055,
+   -0.287559,
+   0.089034,
+   0.206472,
+   -0.074857,
+   0.160586,
+   -0.084401,
+   -0.036168,
+   -0.051689,
+   0.191826,
+   0.259929,
+   0.21949,
+   0.384353,
+   -0.263293,
+   -0.243602,
+   -0.139923,
+   -0.051642,
+   0.201369,
+   0.082544,
+   -0.014129,
+   0.15523,
+   0.036199,
+   -0.113572,
+   0.002223,
+   -0.027857,
+   -0.087014,
+   0.103326,
+   0.066742,
+   0.114078,
+   -0.188033,
+   -0.105959,
+   0.190228,
+   -0.105424,
+   0.167982,
+   0.11465,
+   -0.314575,
+   -0.018371,
+   -0.005001,
+   -0.314669,
+   -0.104428,
+   0.346816,
+   0.158517,
+   0.025277,
+   0.032607,
+   0.22489,
+   0.272135,
+   -0.039658,
+   0.057056,
+   -0.032652,
+   0.000191,
+   -0.141905,
+   -0.335686,
+   -0.227134,
+   0.075214,
+   -0.059292,
+   -0.031371,
+   -0.099167,
+   0.076408,
+   -0.050455,
+   0.050816,
+   -0.029236,
+   -0.169208,
+   0.168821,
+   -0.089508,
+   0.168902,
+   0.048058,
+   -0.203035,
+   0.064623,
+   0.001872,
+   -0.116255,
+   -0.124365,
+   0.096028,
+   0.099273,
+   -0.10357,
+   -0.037227,
+   0.134876,
+   0.075884,
+   0.160784,
+   0.132879,
+   0.058888,
+   -0.113882,
+   0.191934,
+   0.171619,
+   0.047518,
+   -0.104885,
+   0.271819,
+   0.082562,
+   -0.105025,
+   0.393777,
+   0.155833,
+   -0.001523,
+   0.081691,
+   -0.064252,
+   -0.007902,
+   -0.152339,
+   -0.137565,
+   -0.141286,
+   -0.218581,
+   0.172306,
+   0.26752,
+   -0.041344,
+   -0.127674,
+   0.152208,
+   0.135204,
+   0.292812,
+   0.096376,
+   -0.241763,
+   0.050654,
+   0.068924,
+   0.082516,
+   0.128091,
+   0.039495,
+   -0.011681,
+   -0.00079,
+   0.205047,
+   0.343947,
+   -0.055831,
+   0.030744,
+   0.127334,
+   0.039304,
+   -0.081662,
+   -0.082252,
+   -0.125768,
+   0.173765,
+   0.154542,
+   -0.006593,
+   0.069517,
+   0.039459,
+   0.018717,
+   0.048879,
+   0.03159,
+   0.061965,
+   0.178497,
+   0.110595,
+   0.157133,
+   -0.074544,
+   0.036139,
+   -0.163289,
+   -0.127466,
+   0.150885,
+   -0.16312,
+   0.064622,
+   -0.152558,
+   -0.118503,
+   -0.25141,
+   -0.078824,
+   0.243481,
+   -0.038873,
+   0.088518,
+   0.101818,
+   0.078448,
+   0.080918,
+   0.025665,
+   0.048704,
+   -0.095907,
+   -0.059054,
+   0.103307,
+   0.104683,
+   0.051464,
+   -0.019253,
+   0.004682,
+   0.069935,
+   0.197163,
+   -0.143458,
+   0.067168,
+   0.268239,
+   0.098264,
+   -0.027069,
+   -0.048501,
+   0.032863,
+   0.061469
+  ],
+  "SPEAKER_02": [
+   -0.203916,
+   0.065801,
+   -0.138071,
+   -0.070208,
+   -0.125282,
+   0.010647,
+   0.151231,
+   0.01803,
+   0.283998,
+   0.031405,
+   0.028668,
+   0.219965,
+   0.153868,
+   -0.141572,
+   0.174651,
+   -0.406124,
+   -0.103792,
+   -0.161397,
+   0.25994,
+   0.103126,
+   -0.104934,
+   -0.004553,
+   -0.110681,
+   0.008148,
+   0.235655,
+   0.069042,
+   -0.024105,
+   0.173908,
+   -0.082841,
+   0.146702,
+   0.001437,
+   0.137115,
+   0.110819,
+   -0.232406,
+   -0.068585,
+   -0.138575,
+   -0.1284,
+   -0.096436,
+   0.141189,
+   0.112113,
+   0.015394,
+   -0.196775,
+   0.130032,
+   -2e-06,
+   -0.108186,
+   0.039003,
+   -0.125277,
+   0.165873,
+   0.050679,
+   0.14129,
+   0.336706,
+   -0.008729,
+   0.205769,
+   -0.001222,
+   -0.040108,
+   0.020848,
+   -0.042736,
+   -0.070549,
+   -0.173375,
+   0.106237,
+   -0.096534,
+   0.07465,
+   0.105428,
+   0.025204,
+   0.078214,
+   0.22416,
+   -0.007181,
+   -0.029761,
+   -0.259531,
+   -0.039961,
+   -0.210812,
+   -0.172231,
+   0.026991,
+   -0.404873,
+   0.074172,
+   0.109971,
+   -0.104114,
+   -0.10225,
+   0.120289,
+   0.191008,
+   -0.051733,
+   -0.12752,
+   -0.081562,
+   0.139714,
+   0.030926,
+   0.010263,
+   -0.015483,
+   -0.026915,
+   0.06087,
+   -0.123597,
+   0.042986,
+   0.079345,
+   -0.030382,
+   -0.025778,
+   0.089813,
+   -0.231776,
+   0.188856,
+   0.275465,
+   -0.071884,
+   0.250376,
+   -0.040176,
+   -0.127156,
+   0.100591,
+   -0.102026,
+   -0.086399,
+   0.056829,
+   -0.023438,
+   -0.091482,
+   -0.040969,
+   -0.222793,
+   0.364374,
+   0.048208,
+   -0.056855,
+   0.194443,
+   -0.141949,
+   -0.008141,
+   -0.057353,
+   -0.054399,
+   -0.255033,
+   -0.177471,
+   0.142515,
+   -0.014298,
+   -0.028596,
+   0.141528,
+   -0.071357,
+   0.175647,
+   -0.077683,
+   0.010032,
+   -0.051415,
+   0.080354,
+   -0.083143,
+   0.180697,
+   0.086774,
+   0.209463,
+   0.102437,
+   -0.093165,
+   -0.311024,
+   0.26532,
+   0.053803,
+   0.01281,
+   -0.016846,
+   -0.040388,
+   0.136411,
+   -0.071895,
+   -0.119764,
+   0.023026,
+   -0.194185,
+   -0.093946,
+   0.127205,
+   0.193887,
+   0.229358,
+   -0.184972,
+   -0.136035,
+   0.022925,
+   -0.148421,
+   0.095463,
+   -0.132481,
+   0.110212,
+   0.21067,
+   -0.052561,
+   0.159797,
+   0.149009,
+   0.110557,
+   0.233698,
+   -0.116504,
+   0.045472,
+   -0.113049,
+   0.053119,
+   -0.28298,
+   -0.130054,
+   -0.011898,
+   0.275012,
+   -0.171987,
+   0.105717,
+   0.102352,
+   -0.118955,
+   0.140168,
+   -0.173127,
+   -0.118325,
+   -0.188838,
+   0.014526,
+   -0.136098,
+   -0.157977,
+   0.163292,
+   -0.019779,
+   0.08044,
+   0.039955,
+   0.011448,
+   -0.281628,
+   0.160942,
+   -0.272651,
+   0.205278,
+   -0.013837,
+   -0.109089,
+   -0.037793,
+   0.130174,
+   -0.031302,
+   0.058007,
+   0.335167,
+   0.08568,
+   0.033303,
+   -0.202857,
+   0.150229,
+   0.235783,
+   0.059766,
+   0.027112,
+   -0.042154,
+   -0.064227,
+   -0.004253,
+   0.045833,
+   -0.025715,
+   -0.198765,
+   0.047615,
+   -0.177009,
+   0.010546,
+   -0.284066,
+   -0.066236,
+   -0.248839,
+   0.159427,
+   0.149574,
+   -0.143092,
+   0.178672,
+   -0.224002,
+   0.187702,
+   -0.045645,
+   -0.066781,
+   0.04595,
+   -0.299072,
+   -0.063467,
+   -0.241273,
+   -0.06941,
+   -0.17898,
+   -0.1917,
+   0.020832,
+   0.214175,
+   0.067254,
+   -0.032149,
+   -0.125047,
+   -0.141668,
+   -0.332594,
+   -0.205,
+   -0.001143,
+   0.236454,
+   -0.156747,
+   -0.042694,
+   0.162172,
+   -0.111176,
+   0.017276,
+   0.092389,
+   0.007175,
+   -0.108491,
+   -0.038641,
+   0.020516,
+   0.124518,
+   -0.154215,
+   0.110327
+  ],
+  "SPEAKER_03": [
+   -0.363546,
+   -0.123269,
+   0.02093,
+   -0.219978,
+   -0.018624,
+   -0.050808,
+   0.237099,
+   0.154262,
+   0.002004,
+   0.206182,
+   0.11517,
+   0.07364,
+   -0.023043,
+   0.105267,
+   -0.061844,
+   -0.411536,
+   -0.164259,
+   -0.151387,
+   0.09453,
+   -0.017152,
+   -0.252034,
+   0.149209,
+   0.076847,
+   -0.010879,
+   0.210407,
+   0.035696,
+   0.169413,
+   0.078937,
+   -0.29941,
+   0.014691,
+   0.160134,
+   0.099722,
+   -0.149131,
+   -0.097562,
+   -0.092065,
+   -0.172457,
+   -0.089858,
+   -0.026065,
+   0.050331,
+   0.193393,
+   0.144927,
+   0.086108,
+   -0.115834,
+   0.230479,
+   0.175239,
+   -0.005175,
+   -0.093871,
+   0.180522,
+   0.261105,
+   -0.068594,
+   0.216345,
+   -0.078053,
+   -0.033155,
+   -0.132729,
+   0.131118,
+   -0.022462,
+   0.142827,
+   -0.140592,
+   -0.182256,
+   -0.064668,
+   -0.023454,
+   0.061238,
+   0.098888,
+   0.196743,
+   -0.000157,
+   -0.017545,
+   -0.07164,
+   0.023625,
+   0.12964,
+   0.14209,
+   -0.240781,
+   0.088354,
+   0.167727,
+   -0.281178,
+   0.091788,
+   0.025198,
+   -0.334936,
+   -0.138345,
+   -0.128671,
+   -0.020447,
+   -0.160882,
+   -0.279967,
+   0.214301,
+   -0.106588,
+   -0.390252,
+   -0.034086,
+   -0.088962,
+   0.064101,
+   0.024256,
+   -0.148564,
+   0.108528,
+   -0.056353,
+   0.238686,
+   0.13126,
+   0.099892,
+   -0.046948,
+   -0.158443,
+   0.041066,
+   0.348404,
+   0.027582,
+   -0.234903,
+   -0.150646,
+   0.165226,
+   -0.060564,
+   -0.102096,
+   0.038527,
+   0.15671,
+   0.018637,
+   -0.06101,
+   -0.365729,
+   0.123296,
+   -0.129068,
+   0.003057,
+   -0.066212,
+   -0.077635,
+   0.048337,
+   -0.13132,
+   0.021287,
+   -0.299322,
+   0.122807,
+   -0.053467,
+   0.055682,
+   0.055318,
+   0.093254,
+   -0.124709,
+   0.315305,
+   -0.180978,
+   -0.124445,
+   -0.156029,
+   0.002657,
+   -0.114877,
+   0.205258,
+   -0.009938,
+   0.163305,
+   -0.108369,
+   -0.184575,
+   -0.062618,
+   -0.116481,
+   0.191662,
+   0.030608,
+   -0.077731,
+   0.130199,
+   0.219865,
+   0.14056,
+   -0.370293,
+   -0.085734,
+   -0.110706,
+   0.000713,
+   0.057316,
+   0.19583,
+   0.020509,
+   -0.204109,
+   -0.054443,
+   0.070439,
+   -0.031185,
+   0.267196,
+   -0.158698,
+   0.070896,
+   0.070252,
+   0.054035,
+   0.161854,
+   -0.089614,
+   -0.007243,
+   -0.145119,
+   -0.060406,
+   0.011076,
+   -0.018242,
+   0.125147,
+   0.054833,
+   -0.007905,
+   -0.021495,
+   0.111126,
+   -0.144808,
+   -0.092526,
+   0.168542,
+   -0.266478,
+   -0.15832,
+   -0.202338,
+   -0.161331,
+   -0.123687,
+   -0.257721,
+   -0.202879,
+   0.056076,
+   0.129369,
+   -0.183,
+   0.298399,
+   -0.093825,
+   0.168951,
+   -0.006244,
+   0.042015,
+   -0.046832,
+   0.241888,
+   -0.26795,
+   -0.079424,
+   -0.079082,
+   0.184047,
+   0.025315,
+   0.262826,
+   0.084262,
+   -0.255884,
+   0.154289,
+   0.122058,
+   -0.170418,
+   0.109957,
+   0.089243,
+   0.110101,
+   -0.058663,
+   0.00445,
+   -0.071548,
+   0.136428,
+   0.116182,
+   0.227201,
+   -0.082347,
+   -0.19847,
+   -0.073448,
+   -0.183574,
+   -0.270064,
+   -0.02066,
+   0.316798,
+   0.520831,
+   0.024765,
+   0.170368,
+   0.029531,
+   0.122455,
+   -0.108332,
+   -0.099834,
+   -0.190374,
+   -0.364226,
+   -0.02268,
+   -0.212151,
+   -0.102905,
+   -0.323642,
+   0.078492,
+   -0.060981,
+   0.215702,
+   0.147507,
+   0.108843,
+   -0.13797,
+   0.043437,
+   -0.289459,
+   -0.056098,
+   0.072058,
+   0.192924,
+   0.009981,
+   -0.035867,
+   0.192724,
+   0.194982,
+   0.08578,
+   -0.08407,
+   -0.051286,
+   -0.297696,
+   0.012331,
+   -0.041667,
+   -0.041943,
+   0.124014,
+   0.083056
+  ]
+ },
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 14.92,
+   "text": "Prime presents Perfect Pairings. What pairs with Reacher on Prime? Reaching for a sparkling punch delivered with Prime. You can enjoy a punch just like Reacher. Entertainment meets fast delivery. It's on Prime.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 14.92,
+   "end": 40.18,
+   "text": "Grey Goose believes in the art of living, in choosing the pleasurable over the practical. It's why we craft our premium vodka in France using pure spring water from Genzac. And why you hear the celebratory bump of our cork reminding us to make every martini cocktail count. So go on and make every moment count because there's no better time than now.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 40.18,
+   "end": 44.9,
+   "text": "Grey Goose. Make. Time. Wait. Sip responsibly.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 70.18,
+   "end": 76.98,
+   "text": "You probably have bad audio. I should flip it around if you want to. I do. Okay. I don't care that it shows. Okay. I mean, that's up to you.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 79.8,
+   "end": 86.74,
+   "text": "I'm most concerned about the quality. I'm not. Or no. For this? For what we make? F**k no.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 90.6,
+   "end": 98.3,
+   "text": "First question. Uh-huh. Do you pay attention to where you enter a mall? Every time. Do you have a mall entrance that you prefer? Yeah, this is it.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 98.3,
+   "end": 107.96,
+   "text": "Why do you pick this entrance? Because this is the easiest one for, uh, for parking to get in. It's the closest to the entrance? Yeah, this is like, there, this, this is it.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 108.02,
+   "end": 114.7,
+   "text": "Because there's, I've, I've done it on like the other side. I've parked on the other side of this mall. Uh-huh. And it's not better. And it's not easier.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 115.5,
+   "end": 121.42,
+   "text": "No. This is, to me, you're also starting at one end. You're not in the middle. You're starting at one end of the mall.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 121.42,
+   "end": 130.96,
+   "text": "So, I completely agree. Uh-huh. I also prefer, and I don't know why this is, I prefer to enter a mall upstairs. Like, we have entered on the second floor.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 131.74,
+   "end": 134.48,
+   "text": "My mall growing up didn't have floors. Oh.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 134.74,
+   "end": 140.58,
+   "text": "We, like, we, there was only one mall in San Diego that had, like, a multi-layer, and it was the rich person mall.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 140.58,
+   "end": 150.02,
+   "text": "Mm-hmm. And so, this is the, now every mall here is, like, two-layer and all this stuff. And that was really, until I moved to, like, Orange County, I'd never, like, really dealt with that.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 150.04,
+   "end": 156.76,
+   "text": "Dude, when you go to a big city, like, uh, Chicago. Yeah. Or L.A., and their malls are, like, six stories. Yeah, yeah, yeah. It's fucking.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 156.94,
+   "end": 163.64,
+   "text": "Have you been to Costa Mesa? Have you been to that mall? I don't think so, no. South Coast Plaza or whatever? It's, like, it's, like, three floors or something. Uh-huh.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 163.64,
+   "end": 169.44,
+   "text": "And then you cross a bridge, and you go to the other one that's, like, four. It's just, it's huge. It's massive.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 170.1,
+   "end": 172.06,
+   "text": "Tell you one thing that I appreciate about this mall. Uh-huh.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 172.12,
+   "end": 175.14,
+   "text": "By the way, we are, uh, this is Jeff and Eric. Yeah. We are at Barton Creek Mall. Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 175.7,
+   "end": 178.16,
+   "text": "Uh, which is the good mall, Barton Creek Square. Yep.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 178.44,
+   "end": 180.2,
+   "text": "It's a Simon Mall, whatever the fuck that means.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 181.22,
+   "end": 184.72,
+   "text": "Directory. We entered by the Great American Cookie Code. Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 185.0,
+   "end": 188.5,
+   "text": "Which has been here the entire time I've been in Austin. Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 188.5,
+   "end": 199.08,
+   "text": "This is one of the few stalwart tentpoles, foundational stores in the mall that is, I don't know that it's always been the Great American Cookies Code, but it's always been a cookie.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 199.38,
+   "end": 200.48,
+   "text": "A cookie company. Store. Yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 200.5,
+   "end": 201.16,
+   "text": "Right there. Yep.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 201.68,
+   "end": 202.66,
+   "text": "That's new. The claw.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 203.2,
+   "end": 203.92,
+   "text": "Oh, yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 203.94,
+   "end": 205.6,
+   "text": "These claw machine places are everywhere now.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 205.6,
+   "end": 208.26,
+   "text": "So, I think Meg was really excited about this place.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 208.4,
+   "end": 213.38,
+   "text": "We, I walked by it, and it wasn't open yet, but they had to sign up, and I sent her a picture, and she was, like, fucking jazzed.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 213.38,
+   "end": 221.66,
+   "text": "The outside of it looks like every mall in Las Vegas, where it's the worst art things you've ever seen that are just characters that you recognize, but ugly.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 223.82,
+   "end": 226.24,
+   "text": "It's like, there's Pinocchio. Yeah, but he's fucked up.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 226.54,
+   "end": 231.36,
+   "text": "Is that a, uh, a Space Marine or a Warhammer guy?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 231.36,
+   "end": 236.14,
+   "text": "Yeah, I'm sure it's for Warhammer. I'm sure it's for Warhammer. This is, like, the only mall that I come to in Austin.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 236.62,
+   "end": 238.2,
+   "text": "Uh, this is the only mall to come to in Austin.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 238.2,
+   "end": 256.42,
+   "text": "North Cross Mall is not really a mall anymore, uh, and it's, like, an education training center, a skating rink, and then, uh, really good, uh, really good, uh, Asian barbecue restaurant there, or fried chicken restaurant there, uh, and, uh, then, uh, what's the other one?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 256.46,
+   "end": 259.4,
+   "text": "Lake Line Mall, which is pretty fucking far northwest Austin.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 259.4,
+   "end": 260.48,
+   "text": "It's really up there.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 260.58,
+   "end": 262.56,
+   "text": "It's, uh, it's the sketchy mall.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 262.7,
+   "end": 265.82,
+   "text": "That's the one that everyone tells me that used to be, like, the mall.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 266.6,
+   "end": 267.26,
+   "text": "It used to be a good mall.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 267.26,
+   "end": 268.62,
+   "text": "Yeah, and, uh, now it's not.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 268.88,
+   "end": 276.24,
+   "text": "No, it's not. It's, uh, it's, like, just a bunch of kiosks and people aggressively trying to get you to buy whatever is in their kiosks.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 276.36,
+   "end": 277.88,
+   "text": "I want to get a drone.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 278.06,
+   "end": 279.42,
+   "text": "A drone and a little foo-foo.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 279.64,
+   "end": 281.64,
+   "text": "I want to get my eyebrows waxed.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 282.82,
+   "end": 284.02,
+   "text": "I want to get lined up.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 284.42,
+   "end": 285.34,
+   "text": "Where do you want to, which way you want to go?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 285.4,
+   "end": 286.36,
+   "text": "I want to go this way first.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 286.52,
+   "end": 287.08,
+   "text": "Let's go left.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 287.16,
+   "end": 287.36,
+   "text": "Okay.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 288.0,
+   "end": 290.62,
+   "text": "Because we're at the, we're at the ass of the mall, right?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 290.7,
+   "end": 291.76,
+   "text": "We're at one of the asses of the mall.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 291.84,
+   "end": 294.56,
+   "text": "Our mall's kind of like a, like a cow trip, I think.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 297.26,
+   "end": 297.74,
+   "text": "What?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 298.64,
+   "end": 299.76,
+   "text": "No, it's not JCPenney.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 299.9,
+   "end": 300.16,
+   "text": "Sears?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 300.82,
+   "end": 301.3,
+   "text": "Dillard's?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 301.3,
+   "end": 302.38,
+   "text": "Is Dillard's still here?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 302.46,
+   "end": 303.18,
+   "text": "Dillard's is still here.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 303.28,
+   "end": 304.36,
+   "text": "Macy's is still here.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 305.54,
+   "end": 308.66,
+   "text": "So was this, this is what I wonder about.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 308.78,
+   "end": 309.64,
+   "text": "Like, our mall's doing well.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 309.8,
+   "end": 311.18,
+   "text": "I've talked a lot about how the mall is back.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 311.18,
+   "end": 315.76,
+   "text": "But when a tent pole, like a JCPenney's or Sears goes away.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 315.94,
+   "end": 316.78,
+   "text": "Yeah, it's exactly what it was.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 316.88,
+   "end": 317.46,
+   "text": "It's something like that.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 317.48,
+   "end": 318.7,
+   "text": "What comes in to fill it?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 318.8,
+   "end": 321.8,
+   "text": "That is two floors of space.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 322.16,
+   "end": 325.56,
+   "text": "It's probably one of the three biggest spots in the mall.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 325.7,
+   "end": 327.26,
+   "text": "Why wouldn't you turn that into like a gym?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 328.04,
+   "end": 328.64,
+   "text": "You know what I mean?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 328.78,
+   "end": 329.46,
+   "text": "That's interesting.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 329.54,
+   "end": 330.44,
+   "text": "To get people here.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 332.0,
+   "end": 335.04,
+   "text": "It's interesting, you know, that malls are having to come up with a lot of different things",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 335.04,
+   "end": 336.04,
+   "text": "to try to survive.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 336.04,
+   "end": 340.74,
+   "text": "I don't know if you've seen the malls in the northeast are putting apartments in.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 341.08,
+   "end": 343.5,
+   "text": "Like turning, converting like floors into apartments.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 343.64,
+   "end": 345.12,
+   "text": "So you have like the third floor is all apartments.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 345.32,
+   "end": 345.4,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 345.66,
+   "end": 349.02,
+   "text": "And then second floor is the van store and Great American Cookie Killer or whatever.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 349.84,
+   "end": 351.54,
+   "text": "That would be, see, here's the thing.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 351.64,
+   "end": 353.6,
+   "text": "The idea of that, I like it.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 353.84,
+   "end": 357.4,
+   "text": "Like the idea of living there for a little while, that's fun.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 357.64,
+   "end": 357.78,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 357.8,
+   "end": 360.4,
+   "text": "And then it gets to a point where you go, I don't want to be here anymore.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 360.52,
+   "end": 361.7,
+   "text": "I don't need to eat.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 362.04,
+   "end": 364.76,
+   "text": "I don't need to eat the pizza again.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 364.76,
+   "end": 366.2,
+   "text": "Can I stop and bitch about something here?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 366.3,
+   "end": 366.42,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 366.76,
+   "end": 367.6,
+   "text": "So we're walking through the mall.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 367.72,
+   "end": 369.04,
+   "text": "We're close to the food court, right?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 369.2,
+   "end": 369.4,
+   "text": "Uh-huh.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 369.9,
+   "end": 374.14,
+   "text": "There's a place here called Twisted Cork that sells beer.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 374.66,
+   "end": 375.78,
+   "text": "Yeah, it's liquor, stuff like that.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 375.88,
+   "end": 376.8,
+   "text": "I don't think, I don't know if they sell liquor.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 376.8,
+   "end": 377.34,
+   "text": "Oh, no, it is.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 377.4,
+   "end": 377.88,
+   "text": "It's beer and wine.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 377.9,
+   "end": 378.62,
+   "text": "I think it's beer and wine.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 378.66,
+   "end": 378.8,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 379.18,
+   "end": 386.08,
+   "text": "But it annoys the piss out of me that stuff like this didn't exist when I was drinking.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 386.62,
+   "end": 391.8,
+   "text": "You know how much fun I could have had in a mall that had a little fucking bar where",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 391.8,
+   "end": 395.68,
+   "text": "I could sit and slam 80 beers at on a Tuesday afternoon?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 395.68,
+   "end": 397.24,
+   "text": "They're doing this in the grocery store.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 397.5,
+   "end": 401.02,
+   "text": "You can go to H-E-B and get a beer and walk around and shop.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 401.16,
+   "end": 402.26,
+   "text": "Are you fucking serious?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 402.38,
+   "end": 402.7,
+   "text": "Yeah, yeah, yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 402.8,
+   "end": 403.48,
+   "text": "Have you not seen that?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 403.68,
+   "end": 404.82,
+   "text": "No, I haven't seen that at all.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 404.92,
+   "end": 405.06,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 405.2,
+   "end": 405.9,
+   "text": "You can get a beer.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 406.9,
+   "end": 409.72,
+   "text": "I'm so far into my-",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 409.72,
+   "end": 410.18,
+   "text": "Sobriety?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 411.18,
+   "end": 415.54,
+   "text": "My journey as an alcoholic.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 415.6,
+   "end": 415.76,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 417.46,
+   "end": 420.78,
+   "text": "That I'm no longer, it's not that I miss booze as much anymore.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 420.78,
+   "end": 424.24,
+   "text": "I miss the improvements.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 424.4,
+   "end": 425.06,
+   "text": "Yeah, I get it.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 425.06,
+   "end": 425.08,
+   "text": "You know?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 425.08,
+   "end": 425.26,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 426.26,
+   "end": 426.86,
+   "text": "No, I understand.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 426.88,
+   "end": 429.0,
+   "text": "They invented White Claw like a year after I quit drinking.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 429.24,
+   "end": 431.0,
+   "text": "I have no idea what it tastes like.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 431.0,
+   "end": 431.38,
+   "text": "A year.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 431.38,
+   "end": 433.5,
+   "text": "I feel like I would have drank those all day long.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 433.6,
+   "end": 433.72,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 434.54,
+   "end": 436.08,
+   "text": "They're pretty cool for like a summer.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 436.52,
+   "end": 439.14,
+   "text": "And then you go, all right, I've had like enough of like this flavor.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 439.4,
+   "end": 439.74,
+   "text": "Yeah, yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 439.74,
+   "end": 441.6,
+   "text": "But it's like Zima.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 442.54,
+   "end": 443.42,
+   "text": "You already had it.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 443.52,
+   "end": 443.72,
+   "text": "It's Zima.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 443.74,
+   "end": 444.44,
+   "text": "It's true, it's true.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 444.54,
+   "end": 444.86,
+   "text": "I did already have Zima.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 444.86,
+   "end": 445.26,
+   "text": "You already did it.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 445.26,
+   "end": 446.48,
+   "text": "You know, it's just repackaged and-",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 446.48,
+   "end": 446.86,
+   "text": "It is.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 447.32,
+   "end": 447.94,
+   "text": "It's exciting.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 448.3,
+   "end": 450.4,
+   "text": "Fucking drinking at the grocery store in the mall, like-",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 450.4,
+   "end": 450.58,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 450.7,
+   "end": 451.06,
+   "text": "Oh, yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 451.46,
+   "end": 455.0,
+   "text": "Also, probably better that those things didn't exist because-",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 455.0,
+   "end": 455.28,
+   "text": "Yeah, no shit.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 455.46,
+   "end": 457.06,
+   "text": "I might have sped up my recovery.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 459.72,
+   "end": 461.0,
+   "text": "What is Miss A?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 461.74,
+   "end": 463.9,
+   "text": "A lot of this stuff is-",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 463.9,
+   "end": 464.18,
+   "text": "Dude.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 465.0,
+   "end": 465.46,
+   "text": "I don't know.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 465.84,
+   "end": 469.08,
+   "text": "We walked by without even noticing Hot Topic.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 469.14,
+   "end": 469.4,
+   "text": "Oh, yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 469.4,
+   "end": 470.46,
+   "text": "Because you don't even see it.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 470.46,
+   "end": 471.08,
+   "text": "No, it's-",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 471.08,
+   "end": 472.1,
+   "text": "It is invisible.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 472.22,
+   "end": 472.36,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 472.56,
+   "end": 474.16,
+   "text": "You walk into that store, what do you think you're going to see?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 475.2,
+   "end": 477.44,
+   "text": "Now it's like, I mean, what do they have on like the outside?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 477.48,
+   "end": 477.88,
+   "text": "Wicked, of course.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 477.88,
+   "end": 478.46,
+   "text": "Wicked and shit.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 478.46,
+   "end": 479.16,
+   "text": "Stranger things.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 479.3,
+   "end": 481.58,
+   "text": "Yeah, a lot of like anime and stuff now.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 481.58,
+   "end": 482.14,
+   "text": "I think it's probably-",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 482.14,
+   "end": 486.44,
+   "text": "I wonder how far you have to go to get to like a Marilyn Manson t-shirt.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 486.44,
+   "end": 486.88,
+   "text": "Oh, yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 487.1,
+   "end": 488.24,
+   "text": "That's not what it is anymore.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 488.54,
+   "end": 488.86,
+   "text": "Crazy.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 489.04,
+   "end": 490.48,
+   "text": "Yeah, it's just not that.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 490.72,
+   "end": 492.2,
+   "text": "It's interesting to see-",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 492.2,
+   "end": 494.06,
+   "text": "This is why I'm partially fascinated by the mall.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 494.2,
+   "end": 497.92,
+   "text": "It's just interesting to see how these businesses evolve to survive, right?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 498.1,
+   "end": 498.26,
+   "text": "Yeah, yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 498.26,
+   "end": 502.14,
+   "text": "And which ones do and don't, like Sears or whatever the fuck was back there.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 502.46,
+   "end": 504.0,
+   "text": "So there's Macy's, so we know that's still here.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 504.08,
+   "end": 504.96,
+   "text": "Dillard's over that way.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 505.06,
+   "end": 505.68,
+   "text": "We know about them.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 507.22,
+   "end": 507.96,
+   "text": "Oh, man.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 509.16,
+   "end": 509.58,
+   "text": "Who's that?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 509.7,
+   "end": 510.54,
+   "text": "Yeah, that's Dillard's.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 511.18,
+   "end": 511.44,
+   "text": "Gap.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 511.5,
+   "end": 512.04,
+   "text": "You big Gap guy?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 513.1,
+   "end": 514.76,
+   "text": "No, man.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 514.92,
+   "end": 515.14,
+   "text": "What?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 515.14,
+   "end": 522.62,
+   "text": "When I was growing up in the 90s, Gap was like the antithesis of punk rock and cool.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 522.76,
+   "end": 523.02,
+   "text": "Absolutely.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 523.32,
+   "end": 524.56,
+   "text": "Yeah, that was what we rebelled.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 524.64,
+   "end": 526.04,
+   "text": "That's what we made fun of, was Gap.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 526.18,
+   "end": 526.54,
+   "text": "Yeah, absolutely.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 527.28,
+   "end": 527.86,
+   "text": "I get it.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 528.28,
+   "end": 530.02,
+   "text": "You're a little boxer puppy.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 531.02,
+   "end": 532.16,
+   "text": "Can you just bring your dog to the mall?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 532.66,
+   "end": 532.9,
+   "text": "No.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 533.34,
+   "end": 534.28,
+   "text": "I don't think so.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 534.28,
+   "end": 536.72,
+   "text": "That wasn't a support anything.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 536.84,
+   "end": 537.54,
+   "text": "No, that was just a dog.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 537.54,
+   "end": 537.96,
+   "text": "That was just a dog.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 538.04,
+   "end": 538.8,
+   "text": "That was just a dog in the mall.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 538.8,
+   "end": 539.42,
+   "text": "That was just a big-ass boxer.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 539.42,
+   "end": 540.44,
+   "text": "That was just a big dog in the mall.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 541.78,
+   "end": 543.58,
+   "text": "It's also Christmas time when we're doing this.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 543.62,
+   "end": 544.0,
+   "text": "Yes, it is.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 544.0,
+   "end": 548.68,
+   "text": "It's just the beginning of December, and you almost wouldn't know it walking around the",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 548.68,
+   "end": 551.92,
+   "text": "mall, but I don't know.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 551.96,
+   "end": 553.38,
+   "text": "It's right after Black Friday, too.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 554.32,
+   "end": 555.02,
+   "text": "It really is.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 555.14,
+   "end": 557.92,
+   "text": "I know it's like a Tuesday morning or whatever, but...",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 557.92,
+   "end": 559.22,
+   "text": "Dude, I'm going to tell you something.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 559.36,
+   "end": 559.54,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 560.7,
+   "end": 563.1,
+   "text": "Because I do think the mall is back, and it doesn't look back today.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 563.46,
+   "end": 565.38,
+   "text": "I don't think it's indicative of the mall.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 565.54,
+   "end": 568.16,
+   "text": "I think it's indicative of the American pocketbook.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 568.38,
+   "end": 569.24,
+   "text": "Oh, yeah, definitely.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 569.24,
+   "end": 575.72,
+   "text": "I think we're going to be shocked at how little people spent on the holidays early next year.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 575.82,
+   "end": 577.84,
+   "text": "Is that a Dr. Pepper jacket?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 578.06,
+   "end": 580.16,
+   "text": "Dr. Pepper windbreaker at Hollister.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 580.6,
+   "end": 584.88,
+   "text": "Hollister's dipping into the real late 90s, early 2000s shit.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 586.22,
+   "end": 589.82,
+   "text": "So when I see that, and I'm like, oh, wow, a Stone Cold Steve Austin t-shirt.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 590.0,
+   "end": 591.7,
+   "text": "It's that, and you go, all right, weird.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 592.16,
+   "end": 592.7,
+   "text": "That's crazy.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 592.82,
+   "end": 594.74,
+   "text": "I guess it made its way from urban outdoors to...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 594.74,
+   "end": 595.02,
+   "text": "Oh, yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 595.38,
+   "end": 595.82,
+   "text": "Yeah, yeah, yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 596.22,
+   "end": 597.3,
+   "text": "It's making its way around.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 597.3,
+   "end": 597.62,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 597.62,
+   "end": 599.84,
+   "text": "I feel like they used to sell skateboards.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 601.28,
+   "end": 602.98,
+   "text": "Paxson's real different from what it used to be.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 603.06,
+   "end": 603.68,
+   "text": "That's all the malls.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 603.7,
+   "end": 605.86,
+   "text": "You were talking about the stuff shifting and changing or whatever.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 606.0,
+   "end": 606.86,
+   "text": "That's all the places here.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 607.48,
+   "end": 608.26,
+   "text": "It's all different.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 611.89,
+   "end": 613.07,
+   "text": "This place simply sells crystals.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 613.47,
+   "end": 614.05,
+   "text": "Well, they have more.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 616.29,
+   "end": 617.17,
+   "text": "That's just crystals.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 617.41,
+   "end": 619.03,
+   "text": "I'm going to send my daughter some money.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 620.59,
+   "end": 620.87,
+   "text": "College.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 623.98,
+   "end": 624.92,
+   "text": "See if she wants to go to...",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 624.92,
+   "end": 626.66,
+   "text": "See if she wants anything from Pokemaniacs.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 630.45,
+   "end": 631.21,
+   "text": "That's a lot of Pokemon.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 632.27,
+   "end": 632.73,
+   "text": "Oh, yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 632.73,
+   "end": 635.09,
+   "text": "There's like four different, like...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 635.09,
+   "end": 637.41,
+   "text": "Yeah, there's Pokemon, which means nothing to me.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 637.55,
+   "end": 637.75,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 637.83,
+   "end": 638.11,
+   "text": "Obviously.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 640.03,
+   "end": 640.39,
+   "text": "Store.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 640.55,
+   "end": 643.09,
+   "text": "And then there's a Press Play store next to it.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 643.15,
+   "end": 643.91,
+   "text": "What is Press Play?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 643.99,
+   "end": 644.79,
+   "text": "I see what's video games.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 644.79,
+   "end": 645.45,
+   "text": "It's just anime and stuff.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 645.45,
+   "end": 647.45,
+   "text": "But I don't know it's that different from this one.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 647.55,
+   "end": 648.95,
+   "text": "No, this one just is Pokemon.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 649.11,
+   "end": 649.81,
+   "text": "This one has Mario.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 650.35,
+   "end": 653.53,
+   "text": "So we're looking at a wall, a display wall, in the front of the store here.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 653.63,
+   "end": 653.87,
+   "text": "Uh-huh.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 654.01,
+   "end": 654.81,
+   "text": "I'm not walking into the store.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 655.27,
+   "end": 657.35,
+   "text": "That has 50...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 657.35,
+   "end": 657.91,
+   "text": "Something like that.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 658.15,
+   "end": 658.61,
+   "text": "Or so.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 658.67,
+   "end": 658.83,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 659.09,
+   "end": 659.35,
+   "text": "Pokemon.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 660.43,
+   "end": 662.11,
+   "text": "Do you know the names of all of them?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 662.51,
+   "end": 662.81,
+   "text": "No.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 663.37,
+   "end": 667.57,
+   "text": "It's Eevee, Jolteon, Flareon, Vaporeon.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 668.03,
+   "end": 668.45,
+   "text": "I don't know.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 668.49,
+   "end": 668.85,
+   "text": "I don't know.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 668.89,
+   "end": 669.21,
+   "text": "I don't know.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 669.27,
+   "end": 669.55,
+   "text": "I don't know.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 669.59,
+   "end": 671.57,
+   "text": "I don't know half of the Eevee things now.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 672.87,
+   "end": 674.13,
+   "text": "I think that one's Piplup.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 674.33,
+   "end": 674.81,
+   "text": "I don't know.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 675.55,
+   "end": 677.03,
+   "text": "I only know, like, see...",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 677.03,
+   "end": 677.61,
+   "text": "Do you know the fish one?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 677.71,
+   "end": 678.59,
+   "text": "See, like, these guys?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 678.83,
+   "end": 678.93,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 678.93,
+   "end": 681.17,
+   "text": "Like, this Squirtle, Charmander, Bulbasaur, Pikachu?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 681.43,
+   "end": 682.15,
+   "text": "That's my shit.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 682.29,
+   "end": 682.49,
+   "text": "Okay.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 682.57,
+   "end": 686.49,
+   "text": "And then we get to, like, single-toothed fire, like, lizard.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 686.51,
+   "end": 687.61,
+   "text": "He looks like one of Bowser's kids.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 687.69,
+   "end": 688.29,
+   "text": "Yeah, I don't like him.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 688.43,
+   "end": 688.99,
+   "text": "I don't know him.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 689.53,
+   "end": 690.29,
+   "text": "Growlithe, know him.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 692.35,
+   "end": 699.53,
+   "text": "Yeah, I know, like, the 150, like, the original 150, but, like, that one looks like Orange",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 699.53,
+   "end": 699.99,
+   "text": "Candy Bar.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 700.21,
+   "end": 700.87,
+   "text": "I don't know what that is.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 701.65,
+   "end": 703.05,
+   "text": "I don't know a lot of these guys.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 703.53,
+   "end": 704.15,
+   "text": "This is not my...",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 704.15,
+   "end": 705.51,
+   "text": "Gavin would, I think.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 705.97,
+   "end": 706.29,
+   "text": "Interesting.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 706.29,
+   "end": 707.85,
+   "text": "Because that's, like, he knows, like, more of this stuff.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 707.85,
+   "end": 708.23,
+   "text": "I don't know.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 708.23,
+   "end": 708.89,
+   "text": "And you know all this anime.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 709.01,
+   "end": 710.17,
+   "text": "Yeah, you know Penguin Mario.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 710.37,
+   "end": 710.95,
+   "text": "That's my shit.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 712.15,
+   "end": 713.53,
+   "text": "Oh, yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 713.61,
+   "end": 713.87,
+   "text": "Oh, yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 713.97,
+   "end": 714.49,
+   "text": "Ugly Sonic.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 715.53,
+   "end": 716.57,
+   "text": "Ugly Sonic's girlfriend.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 717.61,
+   "end": 720.77,
+   "text": "Aren't the sun-bleached anime figures, but there's no sun in them all?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 721.69,
+   "end": 722.53,
+   "text": "That's a good point.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 724.09,
+   "end": 725.77,
+   "text": "Aren't the Mega64 guys into anime?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 726.91,
+   "end": 729.63,
+   "text": "I mean, yeah, you know, what you do with the anime, who can say?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 729.89,
+   "end": 730.49,
+   "text": "But, like...",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 730.49,
+   "end": 732.61,
+   "text": "Okay.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 732.61,
+   "end": 733.11,
+   "text": "Check out.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 733.19,
+   "end": 734.83,
+   "text": "They got a Tenga sponsorship.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 735.05,
+   "end": 735.79,
+   "text": "You can check that out, too.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 735.79,
+   "end": 737.49,
+   "text": "You can do whatever you want.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 738.49,
+   "end": 740.01,
+   "text": "Yeah, this is, like, not my speed.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 740.27,
+   "end": 740.55,
+   "text": "No.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 740.93,
+   "end": 741.17,
+   "text": "I don't.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 741.45,
+   "end": 741.71,
+   "text": "No.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 741.99,
+   "end": 743.85,
+   "text": "Like, here's Nordstrom.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 744.61,
+   "end": 745.31,
+   "text": "Oh, Nordstrom.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 745.31,
+   "end": 746.57,
+   "text": "So it must have been...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 746.57,
+   "end": 747.01,
+   "text": "It...",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 747.01,
+   "end": 748.85,
+   "text": "It must have been JCPenney.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 749.05,
+   "end": 749.35,
+   "text": "No, no.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 749.51,
+   "end": 750.15,
+   "text": "JCPenney's open.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 750.47,
+   "end": 750.79,
+   "text": "Where?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 751.03,
+   "end": 752.07,
+   "text": "I think it's right around the corner here.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 752.07,
+   "end": 753.01,
+   "text": "We're going to have to find out.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 753.09,
+   "end": 753.65,
+   "text": "I think we're going to...",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 753.65,
+   "end": 754.09,
+   "text": "We're going to have to find out.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 754.09,
+   "end": 754.43,
+   "text": "I think we'll get to it.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 754.69,
+   "end": 758.41,
+   "text": "We came and did an ANMA here.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 758.63,
+   "end": 759.25,
+   "text": "We did.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 759.39,
+   "end": 760.23,
+   "text": "You and Gus and I did.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 760.63,
+   "end": 761.85,
+   "text": "And then we got...",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 761.85,
+   "end": 762.47,
+   "text": "We did it.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 762.55,
+   "end": 763.53,
+   "text": "And then there was a...",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 763.53,
+   "end": 764.03,
+   "text": "We met a fan.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 764.11,
+   "end": 766.87,
+   "text": "We drank coffee right down the stairs, right over here.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 766.93,
+   "end": 767.71,
+   "text": "And then we met a fan.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 768.01,
+   "end": 768.35,
+   "text": "That's true.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 768.45,
+   "end": 769.11,
+   "text": "And we'll be getting...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 769.11,
+   "end": 770.53,
+   "text": "At least I'll be getting coffee down there.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 770.63,
+   "end": 771.29,
+   "text": "Oh, yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 771.41,
+   "end": 772.87,
+   "text": "It'll be my third cup today.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 772.97,
+   "end": 774.01,
+   "text": "And it's almost noon.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 775.35,
+   "end": 775.75,
+   "text": "All right.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 775.79,
+   "end": 777.31,
+   "text": "Here's the stuff where we can shop for Nick.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 777.47,
+   "end": 779.71,
+   "text": "This is the official Cowboys Pro Shop.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 779.71,
+   "end": 781.95,
+   "text": "I love watching Nick during the football season.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 782.79,
+   "end": 784.13,
+   "text": "He's a Dallas Cowboys fan.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 784.19,
+   "end": 784.73,
+   "text": "And then he's not.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 784.83,
+   "end": 785.33,
+   "text": "And then he is.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 785.41,
+   "end": 785.99,
+   "text": "And then he's not.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 786.07,
+   "end": 786.63,
+   "text": "And then he is.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 786.73,
+   "end": 787.95,
+   "text": "And then he goes, I don't hate this team.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 788.33,
+   "end": 788.81,
+   "text": "Oh, hey, man.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 788.81,
+   "end": 790.31,
+   "text": "They're looking pretty good all season.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 790.49,
+   "end": 790.85,
+   "text": "It's the best.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 790.85,
+   "end": 792.91,
+   "text": "Can you believe they're like, you know what?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 793.19,
+   "end": 795.61,
+   "text": "I think Dallas won the Micah Parsons trade.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 795.97,
+   "end": 797.17,
+   "text": "It's so...",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 797.17,
+   "end": 799.05,
+   "text": "It's so insane.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 799.95,
+   "end": 800.47,
+   "text": "It's...",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 800.47,
+   "end": 802.31,
+   "text": "It's crazy.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 802.55,
+   "end": 803.71,
+   "text": "It is crazy.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 803.85,
+   "end": 805.09,
+   "text": "It's...",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 805.09,
+   "end": 807.13,
+   "text": "Son of a bitch knows what he's doing.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 807.13,
+   "end": 809.07,
+   "text": "Jerry Jones, master plan, baby.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 810.49,
+   "end": 811.25,
+   "text": "What the fuck?",
+   "speaker": "SPEAKER_99"
+  },
+  {
+   "start": 812.27,
+   "end": 813.17,
+   "text": "Oh, man.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 815.05,
+   "end": 818.13,
+   "text": "I don't remember the last time...",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 818.81,
+   "end": 820.69,
+   "text": "I like went to the Gap.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 821.77,
+   "end": 823.77,
+   "text": "And it looks exactly the same.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 823.91,
+   "end": 824.27,
+   "text": "Oh, yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 824.27,
+   "end": 825.81,
+   "text": "It's like the last time I went to the Gap.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 826.61,
+   "end": 826.81,
+   "text": "I...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 826.81,
+   "end": 828.57,
+   "text": "I'll tell you when I used to go to the Gap.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 828.65,
+   "end": 829.97,
+   "text": "It was when Millie was younger.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 830.73,
+   "end": 832.17,
+   "text": "Gap Kids is pretty affordable.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 832.27,
+   "end": 832.57,
+   "text": "Yeah, yeah, yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 832.57,
+   "end": 833.01,
+   "text": "Kids clothes.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 833.73,
+   "end": 835.03,
+   "text": "And pretty inoffensive, you know?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 835.07,
+   "end": 835.23,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 835.51,
+   "end": 837.99,
+   "text": "Yeah, it's a place for like your basics or whatever.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 838.11,
+   "end": 839.79,
+   "text": "But I just don't remember the last time I went in.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 839.85,
+   "end": 840.69,
+   "text": "And I'm like, I gotta get something.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 840.69,
+   "end": 841.31,
+   "text": "I can't...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 841.31,
+   "end": 842.69,
+   "text": "I don't know that I've ever owned anything from you.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 842.69,
+   "end": 842.83,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 843.07,
+   "end": 843.33,
+   "text": "Oh!",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 843.79,
+   "end": 846.53,
+   "text": "I might have a pair of shorts I got...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 846.53,
+   "end": 846.95,
+   "text": "Hell, yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 846.95,
+   "end": 848.09,
+   "text": "...from Costco...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 848.09,
+   "end": 848.55,
+   "text": "Oh, awesome.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 848.67,
+   "end": 849.09,
+   "text": "...that were Gap.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 849.09,
+   "end": 849.45,
+   "text": "...that were Gap.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 849.63,
+   "end": 849.85,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 850.79,
+   "end": 851.31,
+   "text": "That's funny.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 852.43,
+   "end": 854.09,
+   "text": "Yeah, see, JCPenney is down that way.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 854.19,
+   "end": 854.41,
+   "text": "Oh.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 854.69,
+   "end": 855.25,
+   "text": "Or it was.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 855.25,
+   "end": 855.93,
+   "text": "Oh, but it was.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 855.99,
+   "end": 856.57,
+   "text": "I wonder if that...",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 856.57,
+   "end": 857.57,
+   "text": "Yeah, Macy's, Dillard.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 857.69,
+   "end": 858.35,
+   "text": "Yeah, I think that's it.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 858.35,
+   "end": 858.97,
+   "text": "That must have been it.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 860.43,
+   "end": 861.57,
+   "text": "Yeah, because here's Macy's.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 861.57,
+   "end": 861.77,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 862.21,
+   "end": 862.47,
+   "text": "Huh.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 862.57,
+   "end": 863.51,
+   "text": "And we're...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 863.51,
+   "end": 866.97,
+   "text": "We've done up stairs now, right?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 867.19,
+   "end": 867.43,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 868.15,
+   "end": 869.15,
+   "text": "Yeah, I guess that's what...",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 869.15,
+   "end": 870.17,
+   "text": "I guess it was JCPenney.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 870.45,
+   "end": 872.23,
+   "text": "Man, our mall's smaller than I remember.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 872.45,
+   "end": 874.23,
+   "text": "Uh, it's got another like arm to it.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 874.35,
+   "end": 874.61,
+   "text": "Okay.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 874.89,
+   "end": 875.49,
+   "text": "Yeah, yeah, yeah, yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 875.49,
+   "end": 875.81,
+   "text": "You're right.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 875.91,
+   "end": 876.07,
+   "text": "We do.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 877.35,
+   "end": 878.03,
+   "text": "That's a good point.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 879.47,
+   "end": 881.93,
+   "text": "Prime presents Perfect Pairings.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 881.93,
+   "end": 884.63,
+   "text": "What pairs with Reacher on Prime?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 884.85,
+   "end": 888.55,
+   "text": "Reaching for a sparkling punch delivered with Prime.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 889.27,
+   "end": 891.45,
+   "text": "It's an unbelievable feeling",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 891.45,
+   "end": 893.07,
+   "text": "when you're enjoying a punch.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 894.27,
+   "end": 898.43,
+   "text": "At the same time, Reacher is enjoying punching people.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 899.63,
+   "end": 902.21,
+   "text": "Wow, he's still punching people.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 904.47,
+   "end": 906.89,
+   "text": "Entertainment meets fast delivery.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 907.21,
+   "end": 908.21,
+   "text": "It's on Prime.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 909.59,
+   "end": 912.07,
+   "text": "Grégoose believes in the art of living,",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 912.35,
+   "end": 915.29,
+   "text": "in choosing the pleasurable over the practical.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 915.79,
+   "end": 918.45,
+   "text": "It's why we craft our premium vodka in France",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 918.45,
+   "end": 920.89,
+   "text": "using pure spring water from Genzac.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 920.89,
+   "end": 924.45,
+   "text": "And why you hear the celebratory pub of our cork",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 924.45,
+   "end": 928.11,
+   "text": "reminding us to make every martini cocktail count.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 928.53,
+   "end": 931.81,
+   "text": "So go on and make every moment count",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 931.81,
+   "end": 934.53,
+   "text": "because there's no better time than now.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 935.09,
+   "end": 935.65,
+   "text": "Grégoose.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 936.11,
+   "end": 937.95,
+   "text": "Make time wait.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 937.95,
+   "end": 939.23,
+   "text": "Sip responsibly.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 939.23,
+   "end": 944.21,
+   "text": "Are you a get-a-snack-and-walk-around-the-mall guy?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 948.67,
+   "end": 951.05,
+   "text": "I'm a eat-whenever-I'm-hungry guy.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 951.55,
+   "end": 952.75,
+   "text": "So yes and no.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 952.83,
+   "end": 953.01,
+   "text": "Okay.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 953.09,
+   "end": 953.31,
+   "text": "You know?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 953.73,
+   "end": 955.51,
+   "text": "Like, I'm fucking hungry right now.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 955.59,
+   "end": 956.39,
+   "text": "So I can eat and walk.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 956.41,
+   "end": 956.69,
+   "text": "Me too, yeah, for sure.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 956.95,
+   "end": 957.93,
+   "text": "I haven't eaten anything yet today.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 958.05,
+   "end": 958.89,
+   "text": "Yeah, we should get a burger.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 959.65,
+   "end": 960.43,
+   "text": "We should get a burger.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 960.47,
+   "end": 960.63,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 961.17,
+   "end": 963.77,
+   "text": "Oh, Box Lunch is where they have Snoopy stuff sometimes.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 963.77,
+   "end": 966.65,
+   "text": "I sometimes, uh, Box Lunch?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 966.87,
+   "end": 967.23,
+   "text": "This place?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 967.23,
+   "end": 967.63,
+   "text": "Oh, yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 967.69,
+   "end": 969.55,
+   "text": "They had Snoopy Camp and stuff earlier this year.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 969.55,
+   "end": 969.65,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 969.65,
+   "end": 969.71,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 969.71,
+   "end": 976.39,
+   "text": "They got a, it's where I have that, I have like a little button-up shirt that has Snoopy on it",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 976.39,
+   "end": 978.65,
+   "text": "that, uh, I really like from that place.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 978.71,
+   "end": 982.59,
+   "text": "But you have to like order online because it's all, I don't know, it's such a crapshoot on like what you find there.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 982.83,
+   "end": 984.91,
+   "text": "Every store has blind boxes now.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 985.13,
+   "end": 985.29,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 985.29,
+   "end": 985.97,
+   "text": "Oh, yeah, yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 985.97,
+   "end": 987.29,
+   "text": "I mean, that's, that's like the thing.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 987.89,
+   "end": 989.09,
+   "text": "That's crazy.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 989.13,
+   "end": 989.29,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 990.47,
+   "end": 993.07,
+   "text": "But that's like, that's, that's the hotness.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 993.31,
+   "end": 994.65,
+   "text": "And stores I've never stepped foot in.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 994.77,
+   "end": 996.09,
+   "text": "Buckle would be one of them.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 996.41,
+   "end": 996.75,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 998.11,
+   "end": 1000.39,
+   "text": "Trade home shoes would be another one.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1000.79,
+   "end": 1002.49,
+   "text": "These stores look made up.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1002.79,
+   "end": 1003.81,
+   "text": "It does look made up.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1003.85,
+   "end": 1004.77,
+   "text": "I do like the shoes though.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1005.53,
+   "end": 1006.63,
+   "text": "They have my Nike Vermeeros.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1006.79,
+   "end": 1006.93,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1007.15,
+   "end": 1007.81,
+   "text": "There's JCPenney.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1008.51,
+   "end": 1009.05,
+   "text": "There's JCPenney.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1009.05,
+   "end": 1009.71,
+   "text": "What the?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1010.01,
+   "end": 1011.73,
+   "text": "So what was the store that closed?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1011.73,
+   "end": 1013.37,
+   "text": "It must have been Sears.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1013.87,
+   "end": 1014.73,
+   "text": "Because there's Dillard's.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1015.53,
+   "end": 1016.07,
+   "text": "Yeah, that's the thing.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1016.13,
+   "end": 1021.17,
+   "text": "It's like, there's no more, there's no other department for us to fill that space with.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1021.37,
+   "end": 1022.37,
+   "text": "Montgomery Ward's gone.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1022.55,
+   "end": 1024.37,
+   "text": "Yeah, Montgomery Ward.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1024.37,
+   "end": 1025.21,
+   "text": "Sears is gone.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1025.41,
+   "end": 1025.91,
+   "text": "What else is it?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1026.11,
+   "end": 1026.91,
+   "text": "Woolworth's is gone.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1027.07,
+   "end": 1028.65,
+   "text": "Dude, Montgomery Ward.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1028.79,
+   "end": 1029.63,
+   "text": "Like, what do we got left?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1030.29,
+   "end": 1032.67,
+   "text": "If I was in Alabama, I could be like, Gaffer's is gone.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1033.45,
+   "end": 1034.79,
+   "text": "Yeah, man, where's Anchor Blue?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1035.47,
+   "end": 1037.35,
+   "text": "We had Mervin's in Mervin's, California.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1037.77,
+   "end": 1038.43,
+   "text": "Mervin's, dude.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1038.65,
+   "end": 1040.89,
+   "text": "There's a store called fucking Mervin's that we would shop at.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1041.07,
+   "end": 1041.51,
+   "text": "Mervin's.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1041.51,
+   "end": 1042.33,
+   "text": "Mervin's.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1042.85,
+   "end": 1044.47,
+   "text": "I've never been to Windsor.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1044.85,
+   "end": 1045.21,
+   "text": "No.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1045.69,
+   "end": 1048.37,
+   "text": "Which, everything in that store looks identical.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1048.57,
+   "end": 1048.77,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1048.97,
+   "end": 1049.97,
+   "text": "It's just all the same color.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1050.43,
+   "end": 1050.83,
+   "text": "Aeropostale.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1051.61,
+   "end": 1053.37,
+   "text": "And then we'll go to.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1053.37,
+   "end": 1053.71,
+   "text": "No, thank you.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1054.79,
+   "end": 1055.77,
+   "text": "Appreciate the offer, though.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1056.73,
+   "end": 1060.95,
+   "text": "Yeah, I just want, I don't need to go in, but just glance as we walk by.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1061.57,
+   "end": 1062.81,
+   "text": "Oh, yeah, the foot reflexology.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1062.87,
+   "end": 1064.61,
+   "text": "The reflexology, like, foot diagram.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1064.87,
+   "end": 1065.05,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1065.69,
+   "end": 1066.39,
+   "text": "Looked like pizza.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1066.39,
+   "end": 1067.77,
+   "text": "Yeah, it kind of did.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1067.77,
+   "end": 1068.61,
+   "text": "And look like a slice of pizza.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1069.01,
+   "end": 1072.53,
+   "text": "See if there's any button-ups.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1072.73,
+   "end": 1074.03,
+   "text": "Good place for a...",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1074.03,
+   "end": 1074.77,
+   "text": "Express men?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1075.03,
+   "end": 1078.95,
+   "text": "Yeah, cheap suit and some, like, easy clothes.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1079.13,
+   "end": 1080.07,
+   "text": "That used to be Forever 21.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1080.41,
+   "end": 1080.81,
+   "text": "Now it's gone.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1081.19,
+   "end": 1082.71,
+   "text": "Yeah, it's totally gone.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1082.71,
+   "end": 1083.11,
+   "text": "It's gone, gone.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1083.25,
+   "end": 1083.35,
+   "text": "Gone, gone.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1083.35,
+   "end": 1084.43,
+   "text": "Should we go downstairs?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1084.67,
+   "end": 1085.45,
+   "text": "Yeah, I think we have to.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1085.51,
+   "end": 1085.89,
+   "text": "I think we're done.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1087.47,
+   "end": 1089.65,
+   "text": "Yeah, it's like, gone, gone, gone.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1090.75,
+   "end": 1092.25,
+   "text": "Wait, here's Dillard's, so, like...",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1092.25,
+   "end": 1093.47,
+   "text": "Didn't that used to be Old Navy?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1094.57,
+   "end": 1096.23,
+   "text": "It might have been.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1096.23,
+   "end": 1096.49,
+   "text": "No.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1096.77,
+   "end": 1099.05,
+   "text": "But that's, it was Forever 21 up until a couple months ago.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1099.05,
+   "end": 1099.35,
+   "text": "I think you're right.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1099.43,
+   "end": 1100.17,
+   "text": "It was Forever 21.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1100.71,
+   "end": 1101.53,
+   "text": "They just closed it.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1102.39,
+   "end": 1104.51,
+   "text": "There is, like, a two-story Old Navy in this mall.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1104.51,
+   "end": 1104.71,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1104.77,
+   "end": 1105.25,
+   "text": "There was.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1105.61,
+   "end": 1107.05,
+   "text": "Oh, that would have been a long time ago.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1107.37,
+   "end": 1108.25,
+   "text": "Fan outfits.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1109.81,
+   "end": 1110.39,
+   "text": "What are these?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1110.47,
+   "end": 1112.37,
+   "text": "These are, like, made-up fucking stores.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1113.35,
+   "end": 1114.57,
+   "text": "Hallmark Gold Crown.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1114.81,
+   "end": 1116.33,
+   "text": "That's, like, a special Hallmark store.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1116.53,
+   "end": 1117.57,
+   "text": "Oh, that's the gift solution.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1118.51,
+   "end": 1119.93,
+   "text": "That does not look like a real sign.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1120.21,
+   "end": 1122.13,
+   "text": "I have a gift problem.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1122.33,
+   "end": 1123.27,
+   "text": "I'm going to be honest with you.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1123.31,
+   "end": 1123.45,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1123.77,
+   "end": 1125.79,
+   "text": "I need a gift solution stat.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1128.05,
+   "end": 1129.81,
+   "text": "Why am I going to call from Page, Texas?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1129.93,
+   "end": 1130.77,
+   "text": "Do you think I should answer this?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1131.75,
+   "end": 1132.81,
+   "text": "Like, do you want to be bank-related?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1133.25,
+   "end": 1133.53,
+   "text": "No.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1135.37,
+   "end": 1136.61,
+   "text": "Wait for it to leave a message.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1136.89,
+   "end": 1137.09,
+   "text": "Okay.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1141.29,
+   "end": 1143.25,
+   "text": "That's a men's warehouse where I bought my suit to Gavin's wedding.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1143.37,
+   "end": 1146.17,
+   "text": "I was going to say, this is a place where you get a suit for, uh,",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1146.71,
+   "end": 1147.61,
+   "text": "a wedding quickly.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1147.77,
+   "end": 1148.73,
+   "text": "Here's a Warren Moon jersey.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1149.09,
+   "end": 1150.35,
+   "text": "Pro Image Sports.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1150.49,
+   "end": 1151.19,
+   "text": "Goddamn, dude.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1151.29,
+   "end": 1151.99,
+   "text": "So, the mall.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1152.23,
+   "end": 1153.03,
+   "text": "Oh, there's a mini-show.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1153.35,
+   "end": 1153.97,
+   "text": "Oh, that's cool.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1154.11,
+   "end": 1154.83,
+   "text": "Is Snoopy in there?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1154.93,
+   "end": 1156.77,
+   "text": "I can buy some stuff for the break show.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1156.81,
+   "end": 1157.25,
+   "text": "Do you want to look?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1157.51,
+   "end": 1157.73,
+   "text": "Sure.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1157.91,
+   "end": 1158.09,
+   "text": "Okay.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1160.64,
+   "end": 1161.34,
+   "text": "Well, it is.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1163.45,
+   "end": 1166.93,
+   "text": "I only would come to these places with Emily, like, when she was into it,",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1166.97,
+   "end": 1169.13,
+   "text": "which was when, like, the mad dash was.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1169.33,
+   "end": 1169.45,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1169.45,
+   "end": 1173.25,
+   "text": "So, I'm not used to, like, you have to stand outside behind a velvet rope like it's a Gucci store.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1174.31,
+   "end": 1175.29,
+   "text": "Wait to get let in.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1176.87,
+   "end": 1178.05,
+   "text": "Well, oh, boy.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1179.09,
+   "end": 1180.31,
+   "text": "This is, like, a different world for me.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1181.09,
+   "end": 1181.71,
+   "text": "Smells good in here.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1181.89,
+   "end": 1183.69,
+   "text": "I'm not around stuff like this very much.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1183.69,
+   "end": 1186.95,
+   "text": "It's because you don't hang out with Vanessa and...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1186.95,
+   "end": 1188.17,
+   "text": "Yeah, that's true.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1188.55,
+   "end": 1189.41,
+   "text": "Meg and Emily.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1191.31,
+   "end": 1192.39,
+   "text": "Dude, you'd be fucking...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1192.39,
+   "end": 1194.05,
+   "text": "Yeah, I don't hang out with any of my friends' wives, right?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1194.29,
+   "end": 1196.49,
+   "text": "You'd be balls deep in this stuff if you did.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1199.02,
+   "end": 1199.78,
+   "text": "This one's mushrooms.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1200.06,
+   "end": 1201.0,
+   "text": "I don't even know what I'm looking at.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1201.64,
+   "end": 1202.5,
+   "text": "This one's mushrooms?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1202.84,
+   "end": 1203.42,
+   "text": "I just...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1203.42,
+   "end": 1204.52,
+   "text": "I hate this music.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1206.32,
+   "end": 1207.3,
+   "text": "Let's fix what I'll eat.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1208.3,
+   "end": 1210.12,
+   "text": "I was looking for Snoopy, but I don't see anything.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1210.12,
+   "end": 1211.34,
+   "text": "I don't see any Snoopy.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1211.82,
+   "end": 1212.06,
+   "text": "I don't...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1212.06,
+   "end": 1212.66,
+   "text": "They might not have them.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1212.8,
+   "end": 1213.58,
+   "text": "It might be the other one.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1213.58,
+   "end": 1214.62,
+   "text": "There's, like, a...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1214.62,
+   "end": 1216.6,
+   "text": "There's, like, Miniso and the other one.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1216.78,
+   "end": 1217.52,
+   "text": "It's all the same to me.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1218.32,
+   "end": 1220.48,
+   "text": "Some of them have some Disney, and then some of them have some other.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1220.48,
+   "end": 1220.98,
+   "text": "There's Baby Yoda.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1221.4,
+   "end": 1221.9,
+   "text": "Oh, yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1222.08,
+   "end": 1222.6,
+   "text": "You like that?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1223.06,
+   "end": 1223.6,
+   "text": "Here's Pokemon.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1224.22,
+   "end": 1224.68,
+   "text": "You like that?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1224.88,
+   "end": 1225.54,
+   "text": "Uh, I do not.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1225.74,
+   "end": 1225.96,
+   "text": "Okay.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1226.56,
+   "end": 1229.18,
+   "text": "Here's Head in the Cloud's, uh, Mickey Mouse.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1229.36,
+   "end": 1229.8,
+   "text": "Mickey Mouse.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1229.94,
+   "end": 1230.08,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1230.8,
+   "end": 1231.22,
+   "text": "Look at that.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1231.3,
+   "end": 1232.88,
+   "text": "That's got Baby...",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1232.88,
+   "end": 1234.14,
+   "text": "That's Nomi?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1234.44,
+   "end": 1235.0,
+   "text": "I don't know.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1236.0,
+   "end": 1236.68,
+   "text": "That was...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1236.68,
+   "end": 1237.92,
+   "text": "Snatched shapewear.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1238.12,
+   "end": 1238.72,
+   "text": "Oh, hell yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1239.14,
+   "end": 1239.3,
+   "text": "Nice.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1239.5,
+   "end": 1240.14,
+   "text": "Look at that dude.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1240.24,
+   "end": 1241.8,
+   "text": "It's just pictures of dudes with their packages.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1242.26,
+   "end": 1242.8,
+   "text": "Yeah, hell yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1245.18,
+   "end": 1247.9,
+   "text": "Addict Salt is the worst fucking name.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1248.1,
+   "end": 1249.0,
+   "text": "I've seen this place a couple times.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1249.18,
+   "end": 1249.48,
+   "text": "Addict...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1249.48,
+   "end": 1250.6,
+   "text": "It's the worst name.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1250.6,
+   "end": 1251.44,
+   "text": "Addict Salt?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1251.88,
+   "end": 1252.28,
+   "text": "Addict...",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1252.28,
+   "end": 1252.5,
+   "text": "Do it all right.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1252.64,
+   "end": 1253.36,
+   "text": "Addict Salt?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1253.88,
+   "end": 1254.7,
+   "text": "Addict Salt?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1255.24,
+   "end": 1255.6,
+   "text": "Don't...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1255.6,
+   "end": 1256.22,
+   "text": "Addict...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1256.22,
+   "end": 1258.16,
+   "text": "Don't know where they got the...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1258.16,
+   "end": 1259.08,
+   "text": "Addict Salt.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1259.32,
+   "end": 1260.7,
+   "text": "What is it trying to say?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1261.44,
+   "end": 1261.7,
+   "text": "Addict Salt?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1261.7,
+   "end": 1262.46,
+   "text": "Maybe it's a...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1262.46,
+   "end": 1264.08,
+   "text": "Maybe it's like an adage or something.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1264.44,
+   "end": 1264.78,
+   "text": "You know what I mean?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1264.78,
+   "end": 1265.54,
+   "text": "Addict Salt?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1266.48,
+   "end": 1267.3,
+   "text": "I mean, maybe it's like...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1267.3,
+   "end": 1269.32,
+   "text": "A-T-T-I-C-S-A-L-T.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1269.32,
+   "end": 1269.44,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1269.44,
+   "end": 1270.04,
+   "text": "Addict Salt.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1272.37,
+   "end": 1273.73,
+   "text": "And it appears to be, like, one word.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1273.89,
+   "end": 1274.99,
+   "text": "No, maybe it's two.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1274.99,
+   "end": 1276.29,
+   "text": "Okay, it's two words.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1277.29,
+   "end": 1277.87,
+   "text": "Addict...",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1277.87,
+   "end": 1278.71,
+   "text": "Addict...",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1278.71,
+   "end": 1279.55,
+   "text": "Salt.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1280.55,
+   "end": 1281.77,
+   "text": "Well, they have 60 locations.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1281.95,
+   "end": 1282.19,
+   "text": "Okay.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1282.71,
+   "end": 1283.79,
+   "text": "What does Addict Salt mean?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1283.93,
+   "end": 1284.09,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1284.31,
+   "end": 1287.47,
+   "text": "Addict Salt refers to witty, refined, and delicate humor.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1287.47,
+   "end": 1291.13,
+   "text": "The term originated from the Greek region of Africa.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1291.13,
+   "end": 1291.45,
+   "text": "Okay.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1292.09,
+   "end": 1292.95,
+   "text": "No, I read that wrong.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1293.19,
+   "end": 1298.63,
+   "text": "From the Greek region of Attica, whose creators were known for their sharp and graceful wit.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1298.75,
+   "end": 1305.17,
+   "text": "It can also be used to describe a repartee that brings water into someone's eyes.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1305.43,
+   "end": 1306.33,
+   "text": "Let's go to Tilly's real quick.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1307.19,
+   "end": 1307.63,
+   "text": "Tilly's?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1307.71,
+   "end": 1307.87,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1308.83,
+   "end": 1309.47,
+   "text": "Do you know this story?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1309.47,
+   "end": 1310.29,
+   "text": "Uh, yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1310.37,
+   "end": 1312.19,
+   "text": "This is, like, this is where I grew up.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1312.29,
+   "end": 1315.75,
+   "text": "This was, like, everything that I liked.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1315.87,
+   "end": 1316.11,
+   "text": "How's it going?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1316.51,
+   "end": 1318.95,
+   "text": "See, this is what I thought they were going to have, which is a lot of Snoopy.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1319.07,
+   "end": 1319.45,
+   "text": "A lot of Snoopy.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1319.51,
+   "end": 1321.85,
+   "text": "Snoopy baseball clubs, Snoopy fighting clubs, gym clubs.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1321.93,
+   "end": 1322.63,
+   "text": "That Snoopy gym club.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1322.77,
+   "end": 1323.49,
+   "text": "That's when he's at the gym.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1323.57,
+   "end": 1324.83,
+   "text": "Do you wear that when you work out with Blaine?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1324.99,
+   "end": 1325.41,
+   "text": "Yeah, yeah, yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1325.53,
+   "end": 1328.47,
+   "text": "I wear, like, an XL, and I'm just, like...",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1329.05,
+   "end": 1329.87,
+   "text": "He cuts sleeves off.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1330.05,
+   "end": 1331.19,
+   "text": "It's my pump hider, you know?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1331.41,
+   "end": 1332.13,
+   "text": "Here's a Frankenstein shirt.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1332.29,
+   "end": 1333.05,
+   "text": "It's got Frankenstein on it.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1333.33,
+   "end": 1334.37,
+   "text": "It does have Frankenstein.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1334.53,
+   "end": 1334.67,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1334.77,
+   "end": 1335.83,
+   "text": "There's a Virgin Mary.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1335.83,
+   "end": 1339.71,
+   "text": "This is, like, where my wife will still shop sometimes, because we're from East County,",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1339.79,
+   "end": 1340.97,
+   "text": "San Diego, so we're, like, kind of trash.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1341.35,
+   "end": 1344.01,
+   "text": "And, uh, that is, like, what a lot of this stuff is.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1344.09,
+   "end": 1346.69,
+   "text": "Like, here's cheetah print Reeboks.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1346.73,
+   "end": 1347.85,
+   "text": "Cheetah print Reeboks, yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1347.85,
+   "end": 1347.97,
+   "text": "You know what I mean?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1348.33,
+   "end": 1352.55,
+   "text": "There's a dog with a Doberman Pinscher on it.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1352.63,
+   "end": 1354.77,
+   "text": "I'll never...",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1354.77,
+   "end": 1355.77,
+   "text": "Stone Cold Steve Austin, there he is.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1355.77,
+   "end": 1356.13,
+   "text": "Exactly.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1356.21,
+   "end": 1360.19,
+   "text": "There will never be a part of me that escapes liking the way that this looks.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1360.31,
+   "end": 1360.53,
+   "text": "Oh, yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1360.53,
+   "end": 1365.67,
+   "text": "It's the praying hands, like, here's a rose and a spider web.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1365.67,
+   "end": 1367.09,
+   "text": "Like, all, like, the tattoo shit.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1367.27,
+   "end": 1368.79,
+   "text": "Like, uh, old American tattoo.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1368.93,
+   "end": 1369.21,
+   "text": "Oh, yeah, yeah, yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1369.23,
+   "end": 1370.85,
+   "text": "There's a part of me that will never escape that.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1370.91,
+   "end": 1371.93,
+   "text": "I'm right there with you, dude.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1371.97,
+   "end": 1372.17,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1372.49,
+   "end": 1372.85,
+   "text": "It's...",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1372.85,
+   "end": 1373.81,
+   "text": "You know, he's one of those.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1373.93,
+   "end": 1374.11,
+   "text": "All right.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1374.19,
+   "end": 1375.59,
+   "text": "Oh, well, hang on.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1375.67,
+   "end": 1376.45,
+   "text": "I thought they had surfboards.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1379.65,
+   "end": 1381.19,
+   "text": "Are you a member of the Salty Chris?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1382.69,
+   "end": 1383.39,
+   "text": "Here's Snoopy.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1383.51,
+   "end": 1384.15,
+   "text": "He's in a fight club.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1385.53,
+   "end": 1387.17,
+   "text": "Oh, Snoopy.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1387.83,
+   "end": 1390.59,
+   "text": "Riot Society Japan Konnichiwa Snoopy.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1394.59,
+   "end": 1396.31,
+   "text": "Oh, Snoopy Desu.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1396.31,
+   "end": 1397.93,
+   "text": "Snoopy is bigger than ever.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1398.09,
+   "end": 1398.47,
+   "text": "Oh, dude.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1398.57,
+   "end": 1399.11,
+   "text": "Snoopy's hot.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1400.71,
+   "end": 1401.35,
+   "text": "Get out of here.",
+   "speaker": "SPEAKER_99"
+  },
+  {
+   "start": 1401.89,
+   "end": 1403.21,
+   "text": "Ski Club Snoopy.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1403.45,
+   "end": 1403.97,
+   "text": "Damn, dude.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1404.09,
+   "end": 1404.65,
+   "text": "He's everywhere.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1405.39,
+   "end": 1408.09,
+   "text": "Imagine getting that and then cutting the sleeves off and being fucking jacked.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1408.57,
+   "end": 1411.35,
+   "text": "And then everyone goes, like, damn, there goes big Snoopy guy.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1411.71,
+   "end": 1417.39,
+   "text": "Or I could get a hat with deep embossed letters that say Holy Grail on it.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1417.39,
+   "end": 1421.25,
+   "text": "What's with the trend?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1421.49,
+   "end": 1422.41,
+   "text": "I don't see it here.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1422.49,
+   "end": 1423.21,
+   "text": "Just made me think of it.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1423.29,
+   "end": 1425.01,
+   "text": "Of, like, here's my baseball team.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1425.17,
+   "end": 1426.49,
+   "text": "The logo's upside down.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1426.79,
+   "end": 1427.61,
+   "text": "I hate that.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1427.97,
+   "end": 1428.85,
+   "text": "I think that is...",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1428.85,
+   "end": 1430.73,
+   "text": "It's like your baseball team's in distress.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1431.81,
+   "end": 1432.57,
+   "text": "Yeah, right?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1432.65,
+   "end": 1434.31,
+   "text": "It's like your baseball team's in distress.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1434.45,
+   "end": 1434.69,
+   "text": "I hate it.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1434.69,
+   "end": 1435.71,
+   "text": "I'm right there with you.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1435.71,
+   "end": 1436.37,
+   "text": "Yeah, I hate it.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1437.13,
+   "end": 1437.61,
+   "text": "I don't know.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1438.17,
+   "end": 1440.11,
+   "text": "I feel like that trend's on its way out already.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1440.33,
+   "end": 1440.45,
+   "text": "Definitely.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1440.85,
+   "end": 1442.67,
+   "text": "But, like, yeah, it came out of nowhere a couple...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1442.67,
+   "end": 1443.31,
+   "text": "Maybe a year ago?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1443.51,
+   "end": 1443.73,
+   "text": "Yep.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1444.37,
+   "end": 1444.87,
+   "text": "A little longer?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1444.97,
+   "end": 1445.31,
+   "text": "Two years ago?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1445.31,
+   "end": 1445.45,
+   "text": "Yep.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1445.77,
+   "end": 1447.25,
+   "text": "A bunch of Spider-Man and Venom shit.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1447.25,
+   "end": 1447.71,
+   "text": "Dennis Rodman.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1449.23,
+   "end": 1451.09,
+   "text": "See, it's like the right amount of throwback for me.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1451.41,
+   "end": 1453.17,
+   "text": "But, like, I can't actually spend money on it.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1453.39,
+   "end": 1454.47,
+   "text": "But, yeah, like, I don't get it.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1454.57,
+   "end": 1455.83,
+   "text": "It's the...",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1455.83,
+   "end": 1457.97,
+   "text": "It's like, yeah, here's the L.A. and it's upside down.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1458.17,
+   "end": 1459.35,
+   "text": "It's like, okay.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1459.83,
+   "end": 1460.63,
+   "text": "Dodgers are in distress.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1461.99,
+   "end": 1463.51,
+   "text": "Is that where we are?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1463.59,
+   "end": 1465.45,
+   "text": "We're having to relive the early 2000s right now?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1465.45,
+   "end": 1465.69,
+   "text": "Yes.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1470.11,
+   "end": 1473.01,
+   "text": "It was a pretty uninteresting time for fashion.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1473.17,
+   "end": 1473.81,
+   "text": "Oh, I agree.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1474.13,
+   "end": 1477.11,
+   "text": "But, you know, people pick and choose different parts.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1477.77,
+   "end": 1479.27,
+   "text": "There's this book called Manic Theater.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1480.57,
+   "end": 1481.31,
+   "text": "There's Banana Republic.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1481.63,
+   "end": 1482.81,
+   "text": "Banana Republic really changed.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1483.09,
+   "end": 1483.45,
+   "text": "Fossil.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1483.57,
+   "end": 1484.17,
+   "text": "Dude, Banana Republic.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1484.37,
+   "end": 1487.29,
+   "text": "I watched a TikTok about the demise of that company.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1487.35,
+   "end": 1487.55,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1487.83,
+   "end": 1489.31,
+   "text": "I mean, it's The Gap, I think, bought it.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1489.55,
+   "end": 1489.73,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1489.81,
+   "end": 1490.15,
+   "text": "That was it.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1490.39,
+   "end": 1491.13,
+   "text": "Got rid of the owners.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1491.21,
+   "end": 1491.39,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1491.51,
+   "end": 1492.51,
+   "text": "It was like a...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1492.51,
+   "end": 1495.01,
+   "text": "When I was a kid, it was like a Jay Peterman catalog.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1495.01,
+   "end": 1495.13,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1495.13,
+   "end": 1495.81,
+   "text": "Kind of, you know?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1495.91,
+   "end": 1496.05,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1499.2,
+   "end": 1500.86,
+   "text": "All military and fucking...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1500.86,
+   "end": 1501.4,
+   "text": "Real different.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1502.64,
+   "end": 1503.38,
+   "text": "You're Zoomies.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1503.5,
+   "end": 1505.42,
+   "text": "You want to see if we can get a shirt in Zoomies again?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1505.84,
+   "end": 1507.18,
+   "text": "Get an Achievement Hunter style?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1507.42,
+   "end": 1507.54,
+   "text": "No?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1507.74,
+   "end": 1508.0,
+   "text": "All right.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1508.38,
+   "end": 1509.82,
+   "text": "You know what?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1509.82,
+   "end": 1511.4,
+   "text": "Our profit margin...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1511.4,
+   "end": 1512.44,
+   "text": "We weren't in Zoomies.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1512.56,
+   "end": 1513.38,
+   "text": "We were in Hot Topic.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1513.54,
+   "end": 1514.92,
+   "text": "And our profit margin...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1514.92,
+   "end": 1515.14,
+   "text": "Really?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1515.74,
+   "end": 1516.8,
+   "text": "Was something...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1516.8,
+   "end": 1517.86,
+   "text": "We might have been in Zoomies as well.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1517.9,
+   "end": 1518.26,
+   "text": "I don't remember.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1518.92,
+   "end": 1521.64,
+   "text": "I think our profit margin was something like...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1521.64,
+   "end": 1524.0,
+   "text": "7%.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1524.0,
+   "end": 1527.44,
+   "text": "And I just, after like a year, I was just like,",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1527.5,
+   "end": 1528.88,
+   "text": "it was a lot of work.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1529.48,
+   "end": 1530.5,
+   "text": "It's like, what's the point?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1531.24,
+   "end": 1532.0,
+   "text": "For pennies?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1532.08,
+   "end": 1532.58,
+   "text": "For pennies.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1532.58,
+   "end": 1532.88,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1533.24,
+   "end": 1533.9,
+   "text": "Like, what's the point?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1536.97,
+   "end": 1538.73,
+   "text": "And they were constantly like...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1538.73,
+   "end": 1539.95,
+   "text": "They were not fun to work with.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1539.95,
+   "end": 1540.15,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1540.37,
+   "end": 1541.11,
+   "text": "No, I don't doubt it.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1541.51,
+   "end": 1545.17,
+   "text": "And we just walked by a Journey's and that just had like a bunch of turnstile playing or whatever.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1545.31,
+   "end": 1545.85,
+   "text": "Ooh, Spencer's.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1545.85,
+   "end": 1547.45,
+   "text": "Spencer's is all Christmas sweaters.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1549.05,
+   "end": 1551.09,
+   "text": "Well, there's where you go get your Marilyn Manson shirt.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1553.97,
+   "end": 1555.39,
+   "text": "Matt one time explained to me...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1555.39,
+   "end": 1555.97,
+   "text": "That's crazy.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1555.97,
+   "end": 1561.57,
+   "text": "That the way the hierarchy of merchandising works is you go from like...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1561.57,
+   "end": 1565.55,
+   "text": "And you just go down levels with your merchandise until it loses value.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1565.69,
+   "end": 1567.15,
+   "text": "And Spencer's is the floor.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1567.47,
+   "end": 1567.67,
+   "text": "Oh.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1567.67,
+   "end": 1572.09,
+   "text": "It's like when you see something in Spencer's, you know it's been in like five other stores",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1572.09,
+   "end": 1573.57,
+   "text": "before and didn't sell.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1573.67,
+   "end": 1573.77,
+   "text": "Oh, wow.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1573.93,
+   "end": 1574.93,
+   "text": "And it's just like where...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1575.93,
+   "end": 1581.91,
+   "text": "It's not like a dirt cheap or one of those places, but it's like the floor of pop culture",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1581.91,
+   "end": 1582.99,
+   "text": "ephemera.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1583.13,
+   "end": 1583.57,
+   "text": "That's brutal.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1583.89,
+   "end": 1584.27,
+   "text": "Here's Santa.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1585.27,
+   "end": 1585.77,
+   "text": "Santa...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1585.77,
+   "end": 1586.77,
+   "text": "Oh, he looks like Santa.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1586.77,
+   "end": 1590.05,
+   "text": "The Santa the other day, Emily and I were here, he had a cowboy hat on.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1590.19,
+   "end": 1590.29,
+   "text": "Oh.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1590.35,
+   "end": 1590.81,
+   "text": "There it is.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1591.63,
+   "end": 1591.95,
+   "text": "Cool.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1592.13,
+   "end": 1592.91,
+   "text": "Got the Santa cowboy hat on you.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1592.97,
+   "end": 1593.63,
+   "text": "All right, yee-haw.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1595.03,
+   "end": 1595.83,
+   "text": "There's the lids.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1595.87,
+   "end": 1597.79,
+   "text": "It's lids, which is fine, whatever.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1597.93,
+   "end": 1601.79,
+   "text": "I just figured out the kind of hat that I like, which is the...",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1601.79,
+   "end": 1606.83,
+   "text": "They're not just going to have it or whatever, but they have like this A-frame style hat where",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1606.83,
+   "end": 1610.03,
+   "text": "it's like that bigger in the front or whatever, and I just figured that out.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1610.03,
+   "end": 1611.43,
+   "text": "I think it's the...",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1611.43,
+   "end": 1612.43,
+   "text": "What is it?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1612.49,
+   "end": 1616.17,
+   "text": "Like 490 or whatever, like the A-frame, where it's like real big.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1616.49,
+   "end": 1617.33,
+   "text": "I love that shit.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1617.69,
+   "end": 1620.27,
+   "text": "When they're like real flat like dad hats or whatever, I can just...",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1620.29,
+   "end": 1621.03,
+   "text": "I just can't get into it.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1621.13,
+   "end": 1622.81,
+   "text": "This is all I wear for my head.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1622.93,
+   "end": 1624.71,
+   "text": "I have an odd-shaped head.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1625.49,
+   "end": 1626.53,
+   "text": "You think like, no, you don't.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1626.89,
+   "end": 1629.03,
+   "text": "I had this conversation with Emily, and I'm like, here, let me put a normal hat on.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1629.09,
+   "end": 1630.81,
+   "text": "She goes, oh, oh, you do.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1631.21,
+   "end": 1632.67,
+   "text": "So I have to wear these dad hats now?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1632.77,
+   "end": 1633.19,
+   "text": "That's funny.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1633.19,
+   "end": 1637.27,
+   "text": "I like this 47 brand, but I hate the number 47 currently.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1637.43,
+   "end": 1640.05,
+   "text": "So I've been having Emily pick the 7 off.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1640.15,
+   "end": 1640.67,
+   "text": "Oh, that's funny.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1640.69,
+   "end": 1641.39,
+   "text": "With a...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1641.39,
+   "end": 1642.33,
+   "text": "The oval seam ripper?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1642.49,
+   "end": 1642.67,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1644.01,
+   "end": 1645.31,
+   "text": "Let me see what cards they have at...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1645.31,
+   "end": 1646.25,
+   "text": "All right, yeah, let's have a look.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1649.05,
+   "end": 1649.75,
+   "text": "That's pretty funny.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1650.15,
+   "end": 1650.55,
+   "text": "What's that?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1650.71,
+   "end": 1651.57,
+   "text": "Using a seam ripper.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1651.57,
+   "end": 1652.43,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1652.81,
+   "end": 1653.37,
+   "text": "Is this a poker?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1653.37,
+   "end": 1653.97,
+   "text": "I got a...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1653.97,
+   "end": 1655.63,
+   "text": "We were in Detroit.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1655.91,
+   "end": 1657.93,
+   "text": "I got a...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1657.93,
+   "end": 1660.77,
+   "text": "We're just looking at the cards in GameStop here.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1660.99,
+   "end": 1663.99,
+   "text": "We were in Detroit at the Red Wings game.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1664.03,
+   "end": 1665.75,
+   "text": "I got a red Red Wings hat.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1665.83,
+   "end": 1666.01,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1666.03,
+   "end": 1666.95,
+   "text": "Just like the logo on the front.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1667.05,
+   "end": 1669.59,
+   "text": "And the second I left the store, it hit me.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1669.69,
+   "end": 1670.65,
+   "text": "I was like, oh, fuck.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1670.89,
+   "end": 1671.41,
+   "text": "You should have got a white one.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1671.43,
+   "end": 1672.87,
+   "text": "So that's when we did the seam ripping.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1673.05,
+   "end": 1673.39,
+   "text": "That's funny.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1673.43,
+   "end": 1675.11,
+   "text": "So I feel like I can wear it a little bit.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1675.21,
+   "end": 1675.61,
+   "text": "Yeah, I get it.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1676.73,
+   "end": 1677.05,
+   "text": "All right.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1677.05,
+   "end": 1677.51,
+   "text": "I don't know nothing.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1677.73,
+   "end": 1678.53,
+   "text": "You know what original Squishmell is?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1678.53,
+   "end": 1682.29,
+   "text": "The Panini Squishmell, because who knew?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1688.64,
+   "end": 1689.08,
+   "text": "Weird.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1693.34,
+   "end": 1694.14,
+   "text": "Cheesecake Factory.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1695.14,
+   "end": 1697.42,
+   "text": "There was a shooting at that Cheesecake Factory last year, right?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1697.56,
+   "end": 1697.8,
+   "text": "Jesus.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1698.0,
+   "end": 1698.82,
+   "text": "Hey, here's the Old Navy.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1699.18,
+   "end": 1700.08,
+   "text": "Oh, there's the Old Navy.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1700.22,
+   "end": 1700.36,
+   "text": "Okay.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1700.56,
+   "end": 1704.9,
+   "text": "And the Aim Star, which is like carnival games?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1704.9,
+   "end": 1709.32,
+   "text": "It appears to be a carnival game store next to the barbershop.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1710.12,
+   "end": 1711.4,
+   "text": "Three Kings barbershop.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1713.39,
+   "end": 1717.23,
+   "text": "There are a lot of chairs in that barbershop for two people being in there.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1717.75,
+   "end": 1719.77,
+   "text": "Dude, that is a lot.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1720.15,
+   "end": 1720.93,
+   "text": "There's claw and fun.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1721.05,
+   "end": 1722.03,
+   "text": "So we made it a full lap.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1722.13,
+   "end": 1722.57,
+   "text": "We did it.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1722.87,
+   "end": 1723.11,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1723.89,
+   "end": 1724.65,
+   "text": "That's the mall.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1725.45,
+   "end": 1726.25,
+   "text": "That's the mall.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1726.91,
+   "end": 1730.83,
+   "text": "We didn't make it back around downstairs to get our coffee, though.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1731.43,
+   "end": 1734.75,
+   "text": "No, we'll have to go get a hamburger and a cup of coffee.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1735.11,
+   "end": 1735.31,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1735.41,
+   "end": 1737.51,
+   "text": "Because, I don't know.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1738.15,
+   "end": 1739.33,
+   "text": "See the claw machine stuff?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1739.37,
+   "end": 1742.17,
+   "text": "I'm so bad at it that I don't find enjoyment in it.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1742.17,
+   "end": 1742.35,
+   "text": "Same.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1742.71,
+   "end": 1743.61,
+   "text": "It doesn't do anything for me.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1743.81,
+   "end": 1744.15,
+   "text": "It's fine.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1744.37,
+   "end": 1745.25,
+   "text": "I like an arcade game.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1745.35,
+   "end": 1746.67,
+   "text": "I enjoy that other people enjoy it.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1746.73,
+   "end": 1746.93,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1747.89,
+   "end": 1749.87,
+   "text": "But, yeah, it doesn't really do much for me.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1751.77,
+   "end": 1752.09,
+   "text": "Huh.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1754.26,
+   "end": 1755.18,
+   "text": "Well, that's the mall.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1755.58,
+   "end": 1758.08,
+   "text": "This was just walking and talking and doing something at the mall.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1758.52,
+   "end": 1760.28,
+   "text": "What we call a little supplemental.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1760.28,
+   "end": 1760.92,
+   "text": "Yeah, yeah, yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1760.94,
+   "end": 1764.28,
+   "text": "We went to the bank and we got some stuff done and then we went, oh, let's just go to the mall.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1764.42,
+   "end": 1765.58,
+   "text": "So we did it.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1765.92,
+   "end": 1766.44,
+   "text": "And that was it.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1766.9,
+   "end": 1767.54,
+   "text": "That was the whole thing.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1767.66,
+   "end": 1773.24,
+   "text": "I got to say, the mall's not looking especially back at the moment.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1773.4,
+   "end": 1774.4,
+   "text": "Listen, it is.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1775.56,
+   "end": 1777.14,
+   "text": "But I don't think America's back.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1777.18,
+   "end": 1777.4,
+   "text": "No.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1777.58,
+   "end": 1778.06,
+   "text": "That's the problem.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1778.06,
+   "end": 1779.16,
+   "text": "It's 1130 on a Tuesday.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1779.9,
+   "end": 1780.24,
+   "text": "You know?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1780.74,
+   "end": 1781.48,
+   "text": "In December.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1781.92,
+   "end": 1782.58,
+   "text": "Just not going to be.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1783.34,
+   "end": 1783.9,
+   "text": "It's not a ton.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1784.28,
+   "end": 1789.06,
+   "text": "Oh, I got 100 views on my review of my barber on Google.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1790.28,
+   "end": 1793.5,
+   "text": "Dude, that's awesome.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1793.6,
+   "end": 1794.16,
+   "text": "Right on, man.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1794.32,
+   "end": 1794.76,
+   "text": "Hell yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1795.24,
+   "end": 1796.24,
+   "text": "Well, thanks for listening.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1798.5,
+   "end": 1799.42,
+   "text": "This was the mall.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1800.06,
+   "end": 1802.6,
+   "text": "This has been Barton Creek Square.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1802.66,
+   "end": 1803.26,
+   "text": "Yeah, yeah, yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1803.3,
+   "end": 1806.02,
+   "text": "We should check out other malls maybe around and see if there's anything.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1806.3,
+   "end": 1808.74,
+   "text": "We should do this every time we're anywhere.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1809.42,
+   "end": 1810.14,
+   "text": "Like if we go to...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1810.14,
+   "end": 1810.78,
+   "text": "It's not a bad idea.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1811.06,
+   "end": 1811.38,
+   "text": "Wherever.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1811.6,
+   "end": 1812.22,
+   "text": "Yeah, yeah, yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1812.22,
+   "end": 1812.56,
+   "text": "Yeah, yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1812.94,
+   "end": 1813.96,
+   "text": "Eat a hamburger somewhere.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1814.04,
+   "end": 1814.22,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1814.22,
+   "end": 1815.26,
+   "text": "Or go back to Vegas.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1815.26,
+   "end": 1818.28,
+   "text": "And then go to a mall and just walk around and talk to the mall.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1818.6,
+   "end": 1821.24,
+   "text": "We have to tour every mall in every city we go to.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1821.34,
+   "end": 1821.84,
+   "text": "Not every mall.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1822.0,
+   "end": 1823.88,
+   "text": "We have to tour a mall everywhere we go.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1823.92,
+   "end": 1824.66,
+   "text": "I kind of like that idea.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1824.74,
+   "end": 1825.1,
+   "text": "I do too.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1825.18,
+   "end": 1825.66,
+   "text": "I like that idea.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1825.66,
+   "end": 1826.52,
+   "text": "Look at the full vibe.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1826.98,
+   "end": 1827.66,
+   "text": "Well, thanks for listening.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1828.0,
+   "end": 1829.18,
+   "text": "Nick, did you enjoy editing this?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1829.24,
+   "end": 1829.76,
+   "text": "I hope you did.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1829.78,
+   "end": 1830.38,
+   "text": "I bet you did.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1830.4,
+   "end": 1831.0,
+   "text": "Yeah, baby.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1831.24,
+   "end": 1831.5,
+   "text": "All right.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1831.56,
+   "end": 1832.2,
+   "text": "We'll see you again soon.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1832.26,
+   "end": 1832.5,
+   "text": "Bye.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1832.5,
+   "end": 1832.9,
+   "text": "Bye.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1832.9,
+   "end": 1832.98,
+   "text": "Bye.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1832.98,
+   "end": 1833.08,
+   "text": "Bye.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1833.08,
+   "end": 1833.1,
+   "text": "Bye.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1833.1,
+   "end": 1833.14,
+   "text": "Bye.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1833.14,
+   "end": 1833.2,
+   "text": "Bye.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1833.2,
+   "end": 1833.22,
+   "text": "Bye.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1833.22,
+   "end": 1833.24,
+   "text": "Bye.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1833.24,
+   "end": 1833.26,
+   "text": "Bye.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1833.26,
+   "end": 1833.32,
+   "text": "Bye.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1833.32,
+   "end": 1833.4,
+   "text": "Bye.",
+   "speaker": "SPEAKER_03"
+  }
+ ]
+}

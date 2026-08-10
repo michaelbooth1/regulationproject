@@ -1,0 +1,5799 @@
+# Episode 398: Sausage Talk 5
+published: 2026-05-15T13:00:00+00:00  |  duration: 01:14:00
+source: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/REGULATIONCOMPANYLLC6666373894.mp3?updated=1778790714
+transcribed: 2026-08-08T19:14:41.778838-04:00  |  model: large-v3-turbo
+diarization: pyannote/speaker-diarization-3.1
+
+
+[00:00:00] SPEAKER_03
+Prime presents Perfect Pairings. What pairs with Reacher on Prime? Reaching for a sparkling punch delivered with Prime. You can enjoy a punch just like Reacher. Entertainment meets fast delivery. It's on Prime.
+
+[00:00:14] SPEAKER_02
+Welcome aboard Via Rail. Please sit and enjoy. Please sit and stretch. Steep. Flip. Or that. And enjoy. Via Rail. Love the way.
+
+[00:00:30] SPEAKER_09
+Hello and welcome to another piece of Regulation Supplemental content. Today, we're dusting off the old sausage talk.
+
+[00:00:39] SPEAKER_09
+Oh, it's been a minute since we've done one. I don't even think we've done one in our hamburger era.
+
+[00:00:44] SPEAKER_09
+My name is Geoff Ramsey. With me, as always, Andrew Panton, Gavin Free, Nick Schwartz, Eric Baudour.
+
+[00:00:48] SPEAKER_09
+If you're not familiar with Sausage Talk, this is where we give you a peer behind the sausage casing at the sausage inside the tube.
+
+[00:00:57] SPEAKER_07
+If you had to eat a dusty sausage, what would the dust be? What would the dust be? Cheeto dust? Yeah, cheeto dust.
+
+[00:01:02] SPEAKER_07
+You want a dust blood? Dust of a cheeto? I'll learn a dust of a cheeto.
+
+[00:01:06] SPEAKER_06
+That play. How about you? Paprika. Is paprika dust?
+
+[00:01:10] SPEAKER_06
+Dust? No, but I think he's in a bad mood, so we have to just let him have it.
+
+[00:01:14] SPEAKER_06
+What do you mean? No, it's not dust. Paprika's a dust?
+
+[00:01:17] SPEAKER_06
+You say it wasn't a dust? Why is it Eric?
+
+[00:01:18] SPEAKER_07
+It can be dusted with it. It's a dust. Paprika?
+
+[00:01:23] SPEAKER_07
+Yeah. Yeah. What's the cocaine dust? What format do you buy it? In paste?
+
+[00:01:26] SPEAKER_09
+It's a cocaine. I've never had paprika paste. How is that?
+
+[00:01:32] SPEAKER_09
+Paprika paste? I didn't even know it came in a paste.
+
+[00:01:34] SPEAKER_09
+Toothpaste? And by sausage, obviously, we mean the inner workings of the business of the regulation company.
+
+[00:01:41] SPEAKER_09
+It's where we talk about the things that go on behind the scenes.
+
+[00:01:45] SPEAKER_09
+How stuff gets made. Why stuff doesn't get made.
+
+[00:01:50] SPEAKER_09
+Foibles and difficulties and successes and failures at the business level.
+
+[00:01:55] SPEAKER_09
+People ask questions from time to time and we like to elucidate.
+
+[00:02:00] SPEAKER_09
+And I honestly give a peer behind the curtain, as they say, not just through the lens of the sausage tubing.
+
+[00:02:08] SPEAKER_09
+Curtain talk. Curtain talk. There you go.
+
+[00:02:10] SPEAKER_09
+Sausage dust.
+
+[00:02:11] SPEAKER_09
+So, it's been a minute. Does anybody know when the last time we did a sausage talk was?
+
+[00:02:16] SPEAKER_09
+I feel like it's got to be at least a year.
+
+[00:02:18] SPEAKER_09
+I have no idea.
+
+[00:02:19] SPEAKER_09
+Was it for the first anniversary?
+
+[00:02:19] SPEAKER_06
+Any guesses?
+
+[00:02:20] SPEAKER_09
+I have no clue.
+
+[00:02:22] SPEAKER_09
+I just guessed a year.
+
+[00:02:23] SPEAKER_04
+I would say last anniversary.
+
+[00:02:25] SPEAKER_04
+Eight months ago.
+
+[00:02:26] SPEAKER_06
+Gavin?
+
+[00:02:27] SPEAKER_06
+Twelve months.
+
+[00:02:31] SPEAKER_06
+He's in rabbit mode today. It's crazy. We haven't even done anything.
+
+[00:02:35] SPEAKER_06
+August 15th, 2025 is when we got together as Gavin called the last sausage talk.
+
+[00:02:41] SPEAKER_06
+He did?
+
+[00:02:41] SPEAKER_06
+Yeah.
+
+[00:02:42] SPEAKER_06
+Interesting.
+
+[00:02:43] SPEAKER_06
+Yep.
+
+[00:02:43] SPEAKER_06
+Wow.
+
+[00:02:44] SPEAKER_06
+It was a Gavin called sausage talk.
+
+[00:02:46] SPEAKER_06
+So, now this time, we're doing it just, this is coming out right after our anniversary or two-year anniversary.
+
+[00:02:52] SPEAKER_06
+And I think that Andrew had a really good idea of sort of like, there's like the looking back, like the retrospective, like what we've been in the middle of and everything.
+
+[00:03:01] SPEAKER_06
+But really, he wants to sort of like, look ahead at what we're maybe looking forward to.
+
+[00:03:06] SPEAKER_06
+Is that right, Andrew?
+
+[00:03:07] SPEAKER_05
+Yeah, maybe like, kind of think about the stuff we made in the past year and like, what we liked and like, things maybe we'd like to explore more of.
+
+[00:03:12] SPEAKER_05
+And then, maybe like, things to shoot for content-wise in the next year.
+
+[00:03:17] SPEAKER_07
+I have a question for the group.
+
+[00:03:19] SPEAKER_07
+Was there anything in the last year that we didn't make that you wanted to make?
+
+[00:03:24] SPEAKER_07
+Because I feel like we got to almost everything by the end of it.
+
+[00:03:27] SPEAKER_07
+Oh, so much.
+
+[00:03:28] SPEAKER_07
+So much stuff.
+
+[00:03:29] SPEAKER_05
+Yeah, I don't, I mean, we did like the road trip thing.
+
+[00:03:33] SPEAKER_05
+Respectfully, we have so much that we created a barrel for it this year.
+
+[00:03:36] SPEAKER_05
+Yeah.
+
+[00:03:37] SPEAKER_05
+Yeah.
+
+[00:03:37] SPEAKER_06
+And we did face off season two.
+
+[00:03:40] SPEAKER_06
+So, at this point, those are coming out.
+
+[00:03:42] SPEAKER_06
+Yeah.
+
+[00:03:42] SPEAKER_06
+So, I'm happy with that.
+
+[00:03:45] SPEAKER_06
+I don't know that there's anything that we haven't really done.
+
+[00:03:49] SPEAKER_09
+I think the thing about the bit barrel is once an idea goes into it, it gets erased from my memory.
+
+[00:03:54] SPEAKER_09
+Yeah, I feel the same way, dude.
+
+[00:03:55] SPEAKER_09
+So, there's probably some stuff in there that I'm, if I saw, I would lament we haven't made yet, but I assume we'll get to it eventually.
+
+[00:04:02] SPEAKER_06
+Oh, oh, oh, oh, oh, oh, oh.
+
+[00:04:04] SPEAKER_06
+What number am I thinking of live stream?
+
+[00:04:06] SPEAKER_06
+That's a great one.
+
+[00:04:07] SPEAKER_09
+I saw the audience ask about that the other day.
+
+[00:04:09] SPEAKER_09
+We really should get back to it.
+
+[00:04:10] SPEAKER_04
+Also, the 20,000 things, still not done.
+
+[00:04:12] SPEAKER_04
+Yeah, I agree with that.
+
+[00:04:13] SPEAKER_09
+That's still, that's a pending thing on the list.
+
+[00:04:15] SPEAKER_09
+That's a moon, not moon draft, right?
+
+[00:04:18] SPEAKER_09
+I don't think we can do that.
+
+[00:04:19] SPEAKER_09
+It's cursed.
+
+[00:04:20] SPEAKER_09
+We're never going to make that video.
+
+[00:04:21] SPEAKER_05
+It's cursed.
+
+[00:04:22] SPEAKER_09
+We can't do it.
+
+[00:04:22] SPEAKER_05
+It's a cursed idea.
+
+[00:04:23] SPEAKER_05
+We tried three times.
+
+[00:04:24] SPEAKER_05
+Yeah.
+
+[00:04:25] SPEAKER_05
+Still waiting on the Nick and Gavin show.
+
+[00:04:27] SPEAKER_06
+Yeah.
+
+[00:04:27] SPEAKER_06
+We haven't seen that in the next year.
+
+[00:04:29] SPEAKER_06
+That's got to be coming soon, right?
+
+[00:04:31] SPEAKER_04
+Yeah, that's in development.
+
+[00:04:33] SPEAKER_04
+When does Halo drop?
+
+[00:04:35] SPEAKER_04
+The new one?
+
+[00:04:36] SPEAKER_05
+Oh, I got it.
+
+[00:04:37] SPEAKER_05
+They haven't dated it, but the rumor is July.
+
+[00:04:41] SPEAKER_04
+Gavin.
+
+[00:04:42] SPEAKER_04
+A little bit lesser.
+
+[00:04:43] SPEAKER_05
+Yeah, I guess I can't claim Lasso as the Nick and Gavin show.
+
+[00:04:49] SPEAKER_05
+I think he can.
+
+[00:04:50] SPEAKER_05
+That's fine.
+
+[00:04:52] SPEAKER_09
+Back to the drawing board.
+
+[00:04:53] SPEAKER_09
+I think we probably should have done a pinball live stream in the office by now.
+
+[00:04:58] SPEAKER_09
+Well, I mean, it's gritted.
+
+[00:04:59] SPEAKER_09
+Eric broke the pinball machine, so.
+
+[00:05:01] SPEAKER_06
+I got the high score and all of a sudden we had to take it apart.
+
+[00:05:03] SPEAKER_06
+Actually, I mean, by the time this is out, we'll know what we probably hopefully need
+
+[00:05:07] SPEAKER_06
+to do to fix it or whatever.
+
+[00:05:09] SPEAKER_09
+Gavin doesn't look so sure.
+
+[00:05:10] SPEAKER_06
+The guy that's coming to the live switch for us today, Gavin, is one of the guys that fixes
+
+[00:05:16] SPEAKER_06
+pinball machines at pinballs.
+
+[00:05:18] SPEAKER_07
+Yeah, I feel like you found the most convenient guy ever for this specific week.
+
+[00:05:21] SPEAKER_06
+It seems to be working, so I'm excited.
+
+[00:05:24] SPEAKER_06
+He told me he's going to bring tools.
+
+[00:05:25] SPEAKER_06
+Oh, nice.
+
+[00:05:26] SPEAKER_06
+Oh, wow.
+
+[00:05:27] SPEAKER_06
+I have a feeling whatever's broken on it is not going to be fixable by him, but we'll
+
+[00:05:30] SPEAKER_06
+see.
+
+[00:05:31] SPEAKER_06
+I mean, maybe.
+
+[00:05:31] SPEAKER_05
+How many pinball machines have you repaired, Gavin?
+
+[00:05:34] SPEAKER_05
+Oh, good question.
+
+[00:05:36] SPEAKER_05
+Oh, like tiny little repairs?
+
+[00:05:37] SPEAKER_05
+Maybe three.
+
+[00:05:37] SPEAKER_05
+You've never done like a big repair on a pinball?
+
+[00:05:40] SPEAKER_07
+I did like a whole flipper rebuild on a Twilight Zone.
+
+[00:05:43] SPEAKER_07
+That was probably my biggest repair.
+
+[00:05:44] SPEAKER_07
+I don't know what that means, but that sounds complex.
+
+[00:05:47] SPEAKER_07
+Circuit board like we just tried to?
+
+[00:05:48] SPEAKER_07
+Yeah, I've done that before.
+
+[00:05:49] SPEAKER_07
+Okay.
+
+[00:05:50] SPEAKER_07
+Well, like the flippers get a bit gammy over time and they get a bit weak and sometimes
+
+[00:05:54] SPEAKER_07
+you've got to replace them.
+
+[00:05:55] SPEAKER_05
+If you're going to get a doctor classification as pinball doctor, the closest you think you
+
+[00:05:59] SPEAKER_05
+could get?
+
+[00:06:00] SPEAKER_05
+I think you'd have to get a wizard classification.
+
+[00:06:03] SPEAKER_05
+Oh.
+
+[00:06:07] SPEAKER_09
+Do you like yourself a pinball wizard?
+
+[00:06:08] SPEAKER_05
+I think pinball wizard is like the equivalent of Super Bowl.
+
+[00:06:12] SPEAKER_05
+Like we have to, it's like pinball sorcerer.
+
+[00:06:14] SPEAKER_05
+We got to call it the big game.
+
+[00:06:16] SPEAKER_07
+What is the wizard version of a PhD?
+
+[00:06:19] SPEAKER_07
+I would have wizards studied for a long time before getting there.
+
+[00:06:22] SPEAKER_07
+Spells?
+
+[00:06:23] SPEAKER_07
+Yeah.
+
+[00:06:23] SPEAKER_07
+Potions?
+
+[00:06:24] SPEAKER_09
+Alchemies?
+
+[00:06:25] SPEAKER_09
+Yeah.
+
+[00:06:25] SPEAKER_09
+Herbs?
+
+[00:06:26] SPEAKER_09
+Yeah.
+
+[00:06:26] SPEAKER_09
+Plants?
+
+[00:06:27] SPEAKER_09
+Yeah.
+
+[00:06:28] SPEAKER_09
+Demonology?
+
+[00:06:29] SPEAKER_09
+Animals?
+
+[00:06:30] SPEAKER_09
+Yeah.
+
+[00:06:31] SPEAKER_09
+Yeah.
+
+[00:06:31] SPEAKER_09
+Yeah.
+
+[00:06:31] SPEAKER_09
+A lot of animal husbandry.
+
+[00:06:33] SPEAKER_09
+A lot of making different animals have sex probably.
+
+[00:06:35] SPEAKER_09
+Oh my God.
+
+[00:06:35] SPEAKER_09
+Looking at like.
+
+[00:06:35] SPEAKER_09
+That's classic wizard stuff.
+
+[00:06:37] SPEAKER_09
+Zoo tycoon.
+
+[00:06:37] SPEAKER_09
+Zoo tycoon.
+
+[00:06:37] SPEAKER_09
+Zoo tycoon.
+
+[00:06:39] SPEAKER_09
+You asked the question, Gavin.
+
+[00:06:40] SPEAKER_09
+Was there something in mind when you asked it?
+
+[00:06:43] SPEAKER_09
+You don't remember the question, do you?
+
+[00:06:45] SPEAKER_07
+No, I thought, I felt like we really got to it.
+
+[00:06:47] SPEAKER_07
+I was worried that we wouldn't get to face off too.
+
+[00:06:50] SPEAKER_07
+Yeah.
+
+[00:06:50] SPEAKER_07
+It just seemed like it was the thing that we would always talk about and never make.
+
+[00:06:53] SPEAKER_07
+And I'm really glad we got to it.
+
+[00:06:54] SPEAKER_09
+So we're coming up for air from that right now.
+
+[00:06:58] SPEAKER_08
+Yeah.
+
+[00:06:58] SPEAKER_09
+And I would say one, I know we're going to look toward the future, but one lesson learned
+
+[00:07:03] SPEAKER_09
+taking into year three, I think would be not to run three multi-episode high production
+
+[00:07:10] SPEAKER_09
+value for us, at least concurrent series running face off season two, the spring golf
+
+[00:07:17] SPEAKER_09
+league and the Mario party March in April at the exact same fucking time.
+
+[00:07:23] SPEAKER_09
+Turns out not ideal.
+
+[00:07:25] SPEAKER_09
+A lot.
+
+[00:07:26] SPEAKER_09
+Probably could have, probably could have, probably could have planned that one a little
+
+[00:07:28] SPEAKER_09
+bit better, but, but we've made it work and we've made the best of it.
+
+[00:07:31] SPEAKER_09
+And I'm not complaining.
+
+[00:07:32] SPEAKER_07
+Didn't throw in the craziest wrench, which was that Andrew had to leave his home in the
+
+[00:07:37] SPEAKER_07
+middle of all three of them.
+
+[00:07:38] SPEAKER_07
+That's true.
+
+[00:07:39] SPEAKER_07
+Which is why we had to put golf on pull us for a bit.
+
+[00:07:41] SPEAKER_06
+Yep.
+
+[00:07:42] SPEAKER_07
+Golf and Mario party.
+
+[00:07:43] SPEAKER_07
+Yeah.
+
+[00:07:44] SPEAKER_07
+And Mario party.
+
+[00:07:44] SPEAKER_09
+That's why it wasn't in March.
+
+[00:07:47] SPEAKER_06
+Can I suggest one that we drop?
+
+[00:07:50] SPEAKER_06
+Sure.
+
+[00:07:51] SPEAKER_06
+Of course.
+
+[00:07:51] SPEAKER_06
+Uh, can we just never do wheel of decades?
+
+[00:07:55] SPEAKER_06
+Let's talk about that.
+
+[00:07:57] SPEAKER_06
+Okay.
+
+[00:07:58] SPEAKER_06
+Hey, can we stop doing wheel of decades?
+
+[00:08:00] SPEAKER_06
+What is it you don't like about wheel of decades?
+
+[00:08:03] SPEAKER_06
+Everything we have to watch.
+
+[00:08:05] SPEAKER_06
+You didn't like charmed?
+
+[00:08:06] SPEAKER_06
+I, there hasn't been, there hasn't been the, there has been one shining moment in wheel
+
+[00:08:13] SPEAKER_06
+of decades and it's when the guy was in the wheelchair and then stands up.
+
+[00:08:16] SPEAKER_06
+That is, that is the funniest thing I've ever seen in like a TV setting.
+
+[00:08:22] SPEAKER_06
+Like that's so hilarious, but dude, it, this is like brutal.
+
+[00:08:27] SPEAKER_09
+We had some good laughs in the final episode.
+
+[00:08:30] SPEAKER_09
+Here's what I'll say about wheel of decades.
+
+[00:08:31] SPEAKER_09
+That was a, that was a me idea.
+
+[00:08:33] SPEAKER_09
+And therefore I'm really into it.
+
+[00:08:34] SPEAKER_09
+I feel the entropy of Andrew and Eric at times.
+
+[00:08:39] SPEAKER_09
+And so if the group isn't in the wheel of decades, as much as I love doing it, I'm cool
+
+[00:08:44] SPEAKER_09
+with killing it.
+
+[00:08:45] SPEAKER_09
+I disagree.
+
+[00:08:46] SPEAKER_05
+Decades.
+
+[00:08:46] SPEAKER_05
+I don't like doing nine episodes of Quark.
+
+[00:08:50] SPEAKER_06
+Well, that's the problem.
+
+[00:08:52] SPEAKER_06
+It's the Gavin issue of the whole thing.
+
+[00:08:54] SPEAKER_06
+I think is, is maybe like what the issue was.
+
+[00:08:57] SPEAKER_07
+I don't think all five of us have to be in every show.
+
+[00:09:00] SPEAKER_07
+If, if there's a show you don't like, you don't need to brute force in and then sulk
+
+[00:09:05] SPEAKER_07
+about it.
+
+[00:09:06] SPEAKER_07
+You could just not be in it.
+
+[00:09:07] SPEAKER_05
+I don't think there is any.
+
+[00:09:07] SPEAKER_05
+I think the, the whole point of the show is suffering now, right?
+
+[00:09:11] SPEAKER_09
+Well, I mean, that's what the point of it is for me is I find beauty.
+
+[00:09:16] SPEAKER_09
+And comedy in the suffering.
+
+[00:09:19] SPEAKER_09
+And so Quark go in nine episodes, honestly, from like producer Jeff, that was the best
+
+[00:09:27] SPEAKER_09
+outcome to me.
+
+[00:09:28] SPEAKER_05
+I also feel like this is a wild statement from producer Gavin, because most of what Gavin
+
+[00:09:34] SPEAKER_05
+pitches enthusiastically are things of mass inconvenience.
+
+[00:09:38] SPEAKER_05
+Yeah.
+
+[00:09:39] SPEAKER_05
+Sort of your favorite thing.
+
+[00:09:41] SPEAKER_05
+Yes.
+
+[00:09:42] SPEAKER_05
+Are you agreeing with me?
+
+[00:09:43] SPEAKER_05
+No, I'm saying that like, it's funny that you want to also introduce an opt out when
+
+[00:09:48] SPEAKER_05
+you're leading.
+
+[00:09:49] SPEAKER_05
+Yeah, but he's not, he's not, he's not opting out.
+
+[00:09:51] SPEAKER_09
+He's not opting out.
+
+[00:09:52] SPEAKER_09
+No, but no, he was trying to give Eric an opt out there.
+
+[00:09:54] SPEAKER_09
+That's a lot of, that's fair.
+
+[00:09:56] SPEAKER_07
+Yes.
+
+[00:09:56] SPEAKER_06
+I just think there's a bet.
+
+[00:09:57] SPEAKER_06
+I think there's better uses of our time when we're talking about like doing these three
+
+[00:10:01] SPEAKER_06
+concurrent things and then dropping the ball on wheel of decades for a very long time.
+
+[00:10:05] SPEAKER_09
+We only dropped the ball on wheel of decades because it was so bad.
+
+[00:10:10] SPEAKER_06
+Yeah.
+
+[00:10:10] SPEAKER_09
+Because you guys couldn't get your fucking pull your big boy pants up and spend 30 minutes
+
+[00:10:14] SPEAKER_09
+watching bad television.
+
+[00:10:15] SPEAKER_06
+I keep getting agreed with and it doesn't feel like it, Andrew.
+
+[00:10:18] SPEAKER_06
+I loved it.
+
+[00:10:20] SPEAKER_04
+I'm having a great time.
+
+[00:10:21] SPEAKER_04
+No matter how bad the show.
+
+[00:10:22] SPEAKER_04
+I want to at least go through all the decades.
+
+[00:10:25] SPEAKER_04
+I think we have to.
+
+[00:10:26] SPEAKER_05
+Yeah, like I don't think we should ever do a full series thing again.
+
+[00:10:30] SPEAKER_05
+I think appropriate natural rip cords are maybe a thing to keep in the show.
+
+[00:10:35] SPEAKER_09
+Well, I mean, that's up to the wheel and how we design the wheel.
+
+[00:10:39] SPEAKER_05
+That's up to how we design the wheel.
+
+[00:10:41] SPEAKER_09
+And we could just put on every spot of the wheel three episodes.
+
+[00:10:44] SPEAKER_09
+We can certainly rebalance it.
+
+[00:10:48] SPEAKER_09
+But I feel like there needs to be some real fear there.
+
+[00:10:52] SPEAKER_09
+The fear?
+
+[00:10:52] SPEAKER_07
+I feel like there are certain situations that drew where you want to avoid the wheel.
+
+[00:10:56] SPEAKER_07
+A little bit.
+
+[00:10:57] SPEAKER_07
+I'm all for spinning the wheel.
+
+[00:10:59] SPEAKER_07
+Well.
+
+[00:11:00] SPEAKER_05
+I'm pro wheel.
+
+[00:11:01] SPEAKER_05
+Pro what?
+
+[00:11:02] SPEAKER_05
+Love the wheel.
+
+[00:11:03] SPEAKER_05
+I just said we should have the wheel but fill it with good options.
+
+[00:11:07] SPEAKER_07
+The whole point of the wheel is that sometimes there's terrible shit on there.
+
+[00:11:11] SPEAKER_07
+You don't know what the wheel is going to give you.
+
+[00:11:12] SPEAKER_05
+I would argue most things that have a wheel, generally speaking, it's just positive outcomes.
+
+[00:11:18] SPEAKER_09
+Tell that to Vegas.
+
+[00:11:20] SPEAKER_05
+Yeah.
+
+[00:11:21] SPEAKER_05
+To Vegas?
+
+[00:11:22] SPEAKER_05
+Vegas known for their wheel.
+
+[00:11:23] SPEAKER_05
+I guess what?
+
+[00:11:23] SPEAKER_05
+Like a wheel of roulette?
+
+[00:11:24] SPEAKER_05
+A roulette wheel?
+
+[00:11:25] SPEAKER_05
+Yeah, it's a whole thing.
+
+[00:11:26] SPEAKER_05
+Yeah.
+
+[00:11:26] SPEAKER_05
+It is a whole thing but like none of those are.
+
+[00:11:28] SPEAKER_05
+It's a whole thing.
+
+[00:11:29] SPEAKER_05
+None of those are inherently bad.
+
+[00:11:31] SPEAKER_05
+It's the choices.
+
+[00:11:33] SPEAKER_05
+I agree.
+
+[00:11:34] SPEAKER_05
+I agree with the same to be said for our wheel.
+
+[00:11:36] SPEAKER_05
+No, I think they're bad.
+
+[00:11:38] SPEAKER_05
+They're just straight up bad options.
+
+[00:11:40] SPEAKER_05
+Like six isn't inherently bad.
+
+[00:11:43] SPEAKER_05
+Every episode of Quark is bad.
+
+[00:11:45] SPEAKER_05
+It's just bad.
+
+[00:11:46] SPEAKER_09
+If Quark had ended up being a good show, you wouldn't have minded watching nine episodes
+
+[00:11:50] SPEAKER_09
+of it.
+
+[00:11:51] SPEAKER_09
+No.
+
+[00:11:51] SPEAKER_09
+I wouldn't have.
+
+[00:11:52] SPEAKER_09
+But it wasn't.
+
+[00:11:53] SPEAKER_09
+It was terrible.
+
+[00:11:54] SPEAKER_09
+That's just how the cookies crumbled in that particular season.
+
+[00:11:58] SPEAKER_09
+We might end up with a fucking banger in the next season.
+
+[00:11:59] SPEAKER_05
+This is where I go with Eric and maybe we just don't make the cookies if that's how the
+
+[00:12:02] SPEAKER_09
+cookie could crumble.
+
+[00:12:03] SPEAKER_09
+Well, then maybe Wheel of Decades is just Jeff, Gavin, and Nick.
+
+[00:12:08] SPEAKER_07
+I mean, I enjoy watching stuff that I would never usually watch.
+
+[00:12:11] SPEAKER_07
+Yes.
+
+[00:12:11] SPEAKER_07
+And there's something quite funny about sharing the suffering with a bunch of opt-in audience.
+
+[00:12:16] SPEAKER_06
+I completely agree.
+
+[00:12:17] SPEAKER_06
+I think my issue with it is what Jeff was saying before this, where it was, we are doing all
+
+[00:12:25] SPEAKER_06
+of these concurrent series and all of these pieces, and then Andrew also having to be out
+
+[00:12:29] SPEAKER_06
+of the house, and it's not necessarily the watching the Quark, which was very bad, by
+
+[00:12:34] SPEAKER_06
+the way.
+
+[00:12:35] SPEAKER_06
+I did not like.
+
+[00:12:36] SPEAKER_06
+So bad.
+
+[00:12:36] SPEAKER_06
+It was also that it was like the start stop of it, and then the amount of time we had to
+
+[00:12:44] SPEAKER_06
+put into it was just like, oh, dude, ugh, come on.
+
+[00:12:47] SPEAKER_09
+It ended up landing in the middle of all that other shit we were doing this month.
+
+[00:12:52] SPEAKER_09
+That's our fault.
+
+[00:12:53] SPEAKER_09
+We started that thing a billion years ago, and then we sat on it for three or four months,
+
+[00:12:58] SPEAKER_09
+and then decided to do it in the middle of all the melee and chaos.
+
+[00:13:01] SPEAKER_09
+We didn't need to do that.
+
+[00:13:03] SPEAKER_09
+We never should have stopped filming it in the first place.
+
+[00:13:05] SPEAKER_07
+Yeah.
+
+[00:13:06] SPEAKER_07
+It wasn't an issue with us starting stuff, because we started it all at different times.
+
+[00:13:09] SPEAKER_07
+It all just converged at the end.
+
+[00:13:11] SPEAKER_07
+Yeah.
+
+[00:13:11] SPEAKER_06
+I think the convergence was my issue with it.
+
+[00:13:13] SPEAKER_06
+I will say I was wrong about the summer movie draft.
+
+[00:13:18] SPEAKER_06
+Before we did the summer movie draft this year, I pitched that we didn't do it.
+
+[00:13:22] SPEAKER_06
+I just went, let's just skip it.
+
+[00:13:24] SPEAKER_06
+Let's do something else.
+
+[00:13:25] SPEAKER_06
+Because I didn't like the way that we handled it last year, where we just didn't follow
+
+[00:13:30] SPEAKER_06
+up on it soon enough, and it just felt like a hanging thread for a really long time.
+
+[00:13:35] SPEAKER_06
+But I think we all just had the conversation of, let's just really be on top of it.
+
+[00:13:39] SPEAKER_06
+Let's pick these dates and end it at certain times, so that way there's no big question
+
+[00:13:44] SPEAKER_06
+mark, and we can come back to it later, so that way people aren't just hanging, waiting
+
+[00:13:49] SPEAKER_06
+for us to circle back on something that we forgot about.
+
+[00:13:52] SPEAKER_06
+Yeah.
+
+[00:13:52] SPEAKER_06
+I'm very okay with that.
+
+[00:13:53] SPEAKER_09
+I think you nailed that, Eric.
+
+[00:13:56] SPEAKER_09
+And the problem there is, it's not the content, it's us.
+
+[00:13:59] SPEAKER_09
+And we just have to be better about wrapping up stuff.
+
+[00:14:02] SPEAKER_09
+And I think that we should just put pressure on ourselves to do that in the future.
+
+[00:14:07] SPEAKER_05
+I'm already having regrets about the summer movie.
+
+[00:14:09] SPEAKER_04
+Like, oh, really?
+
+[00:14:10] SPEAKER_04
+Why?
+
+[00:14:11] SPEAKER_05
+Why's that?
+
+[00:14:13] SPEAKER_05
+Devil's Worse Proditude should have went for more.
+
+[00:14:15] SPEAKER_05
+Everything I'm seeing since we did that draft is it's going to make like a billion dollars.
+
+[00:14:20] SPEAKER_05
+It's going to be huge.
+
+[00:14:21] SPEAKER_05
+It's going to be one of the six billion dollars.
+
+[00:14:22] SPEAKER_05
+People are going crazy for the Devil's Worse Proditude.
+
+[00:14:24] SPEAKER_05
+Interesting.
+
+[00:14:25] SPEAKER_05
+It's a great bye-bye you, Jeff.
+
+[00:14:26] SPEAKER_09
+Who won?
+
+[00:14:27] SPEAKER_05
+Great bye-bye you.
+
+[00:14:28] SPEAKER_05
+What'd it go for, like 13 or something?
+
+[00:14:29] SPEAKER_05
+16.
+
+[00:14:30] SPEAKER_05
+I just pulled it up to look at it.
+
+[00:14:31] SPEAKER_05
+16?
+
+[00:14:32] SPEAKER_06
+Yeah, but how much was Spider-Man?
+
+[00:14:34] SPEAKER_06
+Like, you know what I...
+
+[00:14:35] SPEAKER_06
+Wasn't it 12?
+
+[00:14:35] SPEAKER_06
+Yeah.
+
+[00:14:36] SPEAKER_06
+It was Spider-Man.
+
+[00:14:36] SPEAKER_06
+Yeah.
+
+[00:14:37] SPEAKER_05
+It's got a little wacky.
+
+[00:14:38] SPEAKER_09
+Because everybody was broke at the end, though.
+
+[00:14:39] SPEAKER_09
+Yeah.
+
+[00:14:40] SPEAKER_09
+That was just because of me.
+
+[00:14:40] SPEAKER_05
+That was everyone had money.
+
+[00:14:42] SPEAKER_05
+It was the first movie?
+
+[00:14:43] SPEAKER_05
+Okay, well, yeah, I had to confirm.
+
+[00:14:46] SPEAKER_05
+I guess Horizon and American Saga Chapter 2 technically first movie, but the first real
+
+[00:14:50] SPEAKER_05
+movie.
+
+[00:14:50] SPEAKER_05
+Got it again, baby.
+
+[00:14:51] SPEAKER_05
+What do you mean?
+
+[00:14:52] SPEAKER_05
+You know.
+
+[00:14:54] SPEAKER_07
+It could come out.
+
+[00:14:55] SPEAKER_05
+It could.
+
+[00:14:56] SPEAKER_07
+It could.
+
+[00:14:57] SPEAKER_07
+It could.
+
+[00:14:58] SPEAKER_07
+And that's the fun of it.
+
+[00:14:59] SPEAKER_07
+What I like about doing these things every year, or at least like multiple years, is that
+
+[00:15:04] SPEAKER_07
+it gives you the opportunity to play differently.
+
+[00:15:07] SPEAKER_07
+I couldn't have done this Summer League more differently than I did last time.
+
+[00:15:11] SPEAKER_07
+Yeah.
+
+[00:15:11] SPEAKER_07
+How about you, Nick?
+
+[00:15:12] SPEAKER_04
+Uh, I'm following a similar trajectory to previous years.
+
+[00:15:16] SPEAKER_09
+Nick is following the kid to, or dad to small kid ratio of movie selections, and it's working
+
+[00:15:22] SPEAKER_09
+out well for you.
+
+[00:15:23] SPEAKER_05
+Yeah, we'll see.
+
+[00:15:25] SPEAKER_05
+We'll see.
+
+[00:15:26] SPEAKER_05
+We will see.
+
+[00:15:27] SPEAKER_05
+And I'm excited to see that.
+
+[00:15:28] SPEAKER_05
+It just, it was a thing.
+
+[00:15:29] SPEAKER_05
+I'm excited this whole summer to see how some of these movies play out.
+
+[00:15:34] SPEAKER_05
+Are some of these movies even real?
+
+[00:15:35] SPEAKER_05
+There's allegedly a cliffhanger reboot at the end of the summer.
+
+[00:15:38] SPEAKER_05
+Is that actually a thing?
+
+[00:15:39] SPEAKER_05
+Is that happening?
+
+[00:15:40] SPEAKER_05
+Yeah.
+
+[00:15:41] SPEAKER_06
+Apparently there is, yeah.
+
+[00:15:42] SPEAKER_05
+Like, I had.
+
+[00:15:42] SPEAKER_07
+It also creates great discussion when there's not any content out.
+
+[00:15:46] SPEAKER_07
+Yes.
+
+[00:15:46] SPEAKER_07
+Like, if there's a day that goes by where there's nothing released.
+
+[00:15:50] SPEAKER_07
+Which is pretty rare, I feel like.
+
+[00:15:51] SPEAKER_07
+Like, but at least there's discussion in the community about, like, who's winning, or like,
+
+[00:15:55] SPEAKER_07
+what's happening at the box office.
+
+[00:15:56] SPEAKER_06
+Yeah.
+
+[00:15:56] SPEAKER_06
+Yeah.
+
+[00:15:57] SPEAKER_06
+And the fan stuff with that is phenomenal.
+
+[00:16:01] SPEAKER_06
+People doing their own leagues and whatnot.
+
+[00:16:03] SPEAKER_06
+Yeah.
+
+[00:16:04] SPEAKER_06
+Like, people keeping track of it.
+
+[00:16:07] SPEAKER_06
+Uh, I think it's regulationfan.com.
+
+[00:16:10] SPEAKER_06
+And, uh, being able to do that stuff is so cool.
+
+[00:16:14] SPEAKER_06
+Like, staying up to date on the regulation collection for cards and staying up to date
+
+[00:16:20] SPEAKER_06
+on the regulation gerbil jacket, uh, the spring golf league and the summer movie auction and
+
+[00:16:26] SPEAKER_06
+all that stuff.
+
+[00:16:27] SPEAKER_06
+And then also being able to, like, create your own draft board and everything.
+
+[00:16:31] SPEAKER_06
+I, it's just so cool.
+
+[00:16:32] SPEAKER_06
+Like, this community is so, so awesome.
+
+[00:16:35] SPEAKER_09
+Regulation collection website.
+
+[00:16:37] SPEAKER_09
+I bet I use it personally more than everybody else.
+
+[00:16:40] SPEAKER_09
+Do you really?
+
+[00:16:41] SPEAKER_09
+It is up, it is up on my laptop and my desktop at home 24 hours a day.
+
+[00:16:46] SPEAKER_09
+That's so funny.
+
+[00:16:47] SPEAKER_09
+I consult it constantly.
+
+[00:16:48] SPEAKER_06
+That's it.
+
+[00:16:48] SPEAKER_06
+Uh, regulationfan.com.
+
+[00:16:50] SPEAKER_06
+Yeah.
+
+[00:16:50] SPEAKER_06
+If you guys want to check it out.
+
+[00:16:51] SPEAKER_06
+It, it, I mean, it sort of has a little bit of everything.
+
+[00:16:56] SPEAKER_06
+It's really impressive.
+
+[00:16:57] SPEAKER_06
+It's, it's very, very, very cool.
+
+[00:16:59] SPEAKER_06
+So, uh, check it out.
+
+[00:17:01] SPEAKER_06
+It's, it's a good way to keep track of stuff and, and stay informed if you don't, if you
+
+[00:17:05] SPEAKER_06
+miss some pieces of content, which that is okay, by the way, if you miss some things and
+
+[00:17:11] SPEAKER_06
+don't get to buy all the merch and all that stuff, the 100% idea of like, I have to watch
+
+[00:17:18] SPEAKER_06
+all this stuff and buy all this stuff and everything.
+
+[00:17:19] SPEAKER_06
+I, I worry that people are going to burn out on what we're doing because of the want
+
+[00:17:24] SPEAKER_06
+to consume all.
+
+[00:17:25] SPEAKER_06
+And I do hope that people take breaks where they need and don't feel the need to consume
+
+[00:17:31] SPEAKER_06
+100% of literally everything we do all the time.
+
+[00:17:33] SPEAKER_06
+You know what I mean?
+
+[00:17:34] SPEAKER_06
+Yeah.
+
+[00:17:35] SPEAKER_05
+I think there's sort of a natural progression too.
+
+[00:17:37] SPEAKER_05
+I like the stuff I like.
+
+[00:17:38] SPEAKER_05
+I'll be all in for a few months and then I'll probably like drift off for a little bit and
+
+[00:17:41] SPEAKER_05
+then I'll come back around onto it.
+
+[00:17:43] SPEAKER_05
+Sort of just.
+
+[00:17:44] SPEAKER_05
+All to our stuff?
+
+[00:17:45] SPEAKER_05
+No, just like in the, in the stuff that I have fandoms of.
+
+[00:17:48] SPEAKER_05
+Oh, I see.
+
+[00:17:49] SPEAKER_05
+No, I'm with Andrew.
+
+[00:17:50] SPEAKER_05
+I don't listen to this shit at all.
+
+[00:17:51] SPEAKER_05
+I skip the fuck out of this stuff, dude.
+
+[00:17:53] SPEAKER_05
+I'll listen to this.
+
+[00:17:54] SPEAKER_04
+Not a chance.
+
+[00:17:56] SPEAKER_05
+I was going to say like, even like as somebody who often falls into that, I want to experience
+
+[00:18:00] SPEAKER_05
+everything or whatever I'm engaging with.
+
+[00:18:02] SPEAKER_05
+Like it's totally, I think, natural process to like be all in for a period of time and
+
+[00:18:08] SPEAKER_05
+then drift away for a little bit and then you circle back around on it.
+
+[00:18:11] SPEAKER_09
+Like it's all good.
+
+[00:18:13] SPEAKER_09
+So we've talked about a few of our series that all kind of converged right now around the
+
+[00:18:18] SPEAKER_09
+anniversary and Andrew was mentioning wanting to talk about what we want to do go forward.
+
+[00:18:23] SPEAKER_09
+Let's talk about some of those series going forward.
+
+[00:18:25] SPEAKER_09
+Are we going to do a season three of face off?
+
+[00:18:28] SPEAKER_09
+I think the answer is definitively.
+
+[00:18:30] SPEAKER_09
+Yes.
+
+[00:18:30] SPEAKER_09
+Oh yeah.
+
+[00:18:31] SPEAKER_09
+I 100%.
+
+[00:18:32] SPEAKER_06
+I think before we got to season two and actually sat down to do it to me, it was in question
+
+[00:18:38] SPEAKER_06
+because it was such a like hanging Chad for us of like, I don't know.
+
+[00:18:42] SPEAKER_06
+We talked about it for so long.
+
+[00:18:43] SPEAKER_06
+Is this worth doing?
+
+[00:18:45] SPEAKER_06
+As soon as we started doing the videos, I just went, can't wait for next.
+
+[00:18:48] SPEAKER_06
+Season cannot wait for season three.
+
+[00:18:51] SPEAKER_06
+It's so good.
+
+[00:18:52] SPEAKER_05
+A thing to note about season two, it just like technically so much harder.
+
+[00:18:56] SPEAKER_05
+Like I had to make around 200 custom creative characters that are all, you know, like the
+
+[00:19:02] SPEAKER_05
+amount of doing that background work that went into face off season two.
+
+[00:19:06] SPEAKER_05
+Like it was, it's very extensive compared to what we believe face off season three will
+
+[00:19:10] SPEAKER_05
+be.
+
+[00:19:11] SPEAKER_05
+It's a thing that I've been doing prep for in the background, but like it is going to be
+
+[00:19:15] SPEAKER_05
+so much more, uh, simple when it comes time to actually putting it together.
+
+[00:19:20] SPEAKER_07
+Yeah.
+
+[00:19:21] SPEAKER_07
+I might want to, is it all right if I use the Patreon to do a poll for my team?
+
+[00:19:25] SPEAKER_07
+I want to see who the audience wants from my team on a season three.
+
+[00:19:29] SPEAKER_06
+Oh, I'm jumping in and I'm voting.
+
+[00:19:31] SPEAKER_06
+I want, I want the Presbyterian.
+
+[00:19:33] SPEAKER_07
+Yeah, I was about to say, Presbyterian's a lock.
+
+[00:19:36] SPEAKER_06
+Presbyterian has to be in it, dude.
+
+[00:19:37] SPEAKER_07
+I feel like, yeah, I mean, Shelly Miskavage obviously has to go through.
+
+[00:19:41] SPEAKER_06
+Well, if you can find her, I don't know.
+
+[00:19:43] SPEAKER_05
+You could do like a poll that people could vote on and maybe they could pick like three
+
+[00:19:46] SPEAKER_05
+or however many you want.
+
+[00:19:48] SPEAKER_05
+Yeah, see if there's like a multiple choice thing.
+
+[00:19:49] SPEAKER_09
+Oh, that's such a good idea.
+
+[00:19:50] SPEAKER_05
+Really easy to just get averages.
+
+[00:19:52] SPEAKER_09
+So we're a lock there.
+
+[00:19:53] SPEAKER_09
+That's obvious.
+
+[00:19:54] SPEAKER_09
+Yes.
+
+[00:19:54] SPEAKER_09
+Yeah.
+
+[00:19:55] SPEAKER_09
+Spring Golf League is something that we, that just kind of came out of a conversation
+
+[00:19:59] SPEAKER_09
+and blossomed into a league.
+
+[00:20:03] SPEAKER_09
+Is that something that you guys see continuing now that we've created a purple, a purple jacket
+
+[00:20:08] SPEAKER_09
+rather, and we've awarded it by the time this comes out?
+
+[00:20:11] SPEAKER_09
+I feel like I didn't see it being golf again necessarily.
+
+[00:20:14] SPEAKER_04
+Yeah, I really enjoyed it.
+
+[00:20:16] SPEAKER_04
+I think we could do it in multiple sports, but I think it also has the ability to do,
+
+[00:20:20] SPEAKER_04
+we have the ability to do golf again.
+
+[00:20:21] SPEAKER_04
+And now that we've also solidified our stream setup, it's also easier to do like on a live
+
+[00:20:28] SPEAKER_04
+Friday as opposed to like having to do all this.
+
+[00:20:30] SPEAKER_04
+And that's an issue we ran into.
+
+[00:20:32] SPEAKER_04
+We put out one video that was recorded as opposed to when we did a live stream.
+
+[00:20:35] SPEAKER_04
+Yeah.
+
+[00:20:35] SPEAKER_04
+And we kind of had to balance the timetable around that so we didn't undo scores here
+
+[00:20:41] SPEAKER_04
+and there just to make sure everything was still above board.
+
+[00:20:44] SPEAKER_09
+Yeah, it was, it was difficult to schedule, it became difficult to schedule when you're
+
+[00:20:47] SPEAKER_09
+dealing with pre-recorded and live streams and all that stuff.
+
+[00:20:50] SPEAKER_06
+Um, I think we will do it again.
+
+[00:20:53] SPEAKER_06
+I like it.
+
+[00:20:54] SPEAKER_06
+I think it will be later this year.
+
+[00:20:56] SPEAKER_06
+I don't think it will be spring golf league.
+
+[00:20:58] SPEAKER_06
+I think it might be fall golf league.
+
+[00:20:59] SPEAKER_06
+And I think it will be golf with your friends too, which at the time of this recording, they
+
+[00:21:05] SPEAKER_06
+dropped a trailer, said it's going to be out this fall.
+
+[00:21:08] SPEAKER_06
+Uh, they have a revamped level editor.
+
+[00:21:11] SPEAKER_06
+And to me, being able to do eight weeks or whatever of live streams on Fridays that are
+
+[00:21:21] SPEAKER_06
+just golf focused and using audience created maps, or as Jeff told me earlier, Jeff and
+
+[00:21:28] SPEAKER_06
+Gavin created maps, uh, in this would be a lot of fun and definitely where I would want
+
+[00:21:35] SPEAKER_06
+to go with it.
+
+[00:21:36] SPEAKER_06
+I agree because to me, that's more focused the jumping around at different golf games
+
+[00:21:39] SPEAKER_06
+is fun, but I'm really finding that like there are games that I like in games that are conducive
+
+[00:21:43] SPEAKER_06
+to this and then games that are like, Oh yeah, this is all right.
+
+[00:21:46] SPEAKER_05
+Uh, I think it would just be nice to like have it more fleshed out before we started where
+
+[00:21:51] SPEAKER_05
+this, I feel like we started it without building the car and we've been building the car as it
+
+[00:21:55] SPEAKER_09
+goes down the hill a hundred percent, a hundred percent.
+
+[00:21:58] SPEAKER_09
+And I think that if we return to it, we will, we'll have a more structured for sure.
+
+[00:22:02] SPEAKER_09
+And, and better laid out plan.
+
+[00:22:03] SPEAKER_09
+I agree.
+
+[00:22:04] SPEAKER_09
+I'd like to continue that one as well.
+
+[00:22:06] SPEAKER_09
+It feels, it feels evergreen to me.
+
+[00:22:08] SPEAKER_09
+It feels easy.
+
+[00:22:08] SPEAKER_09
+Yeah.
+
+[00:22:09] SPEAKER_06
+What, what other sport would you want to see Gavin or what's like a different thing that
+
+[00:22:12] SPEAKER_06
+you would want to see if it wasn't golf?
+
+[00:22:14] SPEAKER_07
+Uh, I just was thinking it didn't even need to be a sport necessarily.
+
+[00:22:17] SPEAKER_07
+It could just be any game league.
+
+[00:22:18] SPEAKER_07
+Oh, interesting.
+
+[00:22:21] SPEAKER_07
+Interesting.
+
+[00:22:22] SPEAKER_07
+That is interesting.
+
+[00:22:23] SPEAKER_07
+I, I didn't have anything specific.
+
+[00:22:25] SPEAKER_07
+I just thought, you know, we, we rarely do competitive stuff.
+
+[00:22:28] SPEAKER_07
+Yeah.
+
+[00:22:28] SPEAKER_07
+So if there was something in the future that we're interested in, we could always give that
+
+[00:22:32] SPEAKER_07
+a go.
+
+[00:22:32] SPEAKER_05
+Elden ring, night rain, competitive for regulation.
+
+[00:22:37] SPEAKER_03
+Prime presents perfect pairings.
+
+[00:22:40] SPEAKER_03
+What pairs with Reacher on Prime?
+
+[00:22:43] SPEAKER_03
+Reaching for a sparkling punch delivered with Prime.
+
+[00:22:47] SPEAKER_03
+It's an unbelievable feeling when you're enjoying a punch.
+
+[00:22:52] SPEAKER_03
+At the same time, Reacher is enjoying punching people.
+
+[00:22:58] SPEAKER_03
+Wow.
+
+[00:22:58] SPEAKER_03
+He's still punching people.
+
+[00:23:02] SPEAKER_03
+Entertainment meets fast delivery.
+
+[00:23:05] SPEAKER_03
+It's on Prime.
+
+[00:23:07] SPEAKER_02
+Welcome aboard V-A-Rail.
+
+[00:23:09] SPEAKER_02
+Please sit and enjoy.
+
+[00:23:12] SPEAKER_02
+Please sit and sip.
+
+[00:23:14] SPEAKER_02
+Play.
+
+[00:23:14] SPEAKER_02
+Post.
+
+[00:23:15] SPEAKER_02
+Taste.
+
+[00:23:17] SPEAKER_02
+View.
+
+[00:23:19] SPEAKER_02
+And enjoy.
+
+[00:23:20] SPEAKER_02
+V-A-Rail.
+
+[00:23:21] SPEAKER_09
+Love the way.
+
+[00:23:23] SPEAKER_09
+Speaking of competitive gaming, we are, we just came up for air from doing a month of
+
+[00:23:30] SPEAKER_09
+Mario daily again.
+
+[00:23:32] SPEAKER_09
+And that's the third series I mentioned in this, in this little triangle.
+
+[00:23:37] SPEAKER_09
+Do we see ourselves, because I want to put it on fucking, I want to get it down on the
+
+[00:23:41] SPEAKER_09
+record right here.
+
+[00:23:41] SPEAKER_09
+Do we see ourselves doing another month of Mario in the year 2020?
+
+[00:23:45] SPEAKER_09
+No.
+
+[00:23:45] SPEAKER_09
+Seven?
+
+[00:23:46] SPEAKER_06
+Is that next year?
+
+[00:23:46] SPEAKER_06
+Not, yeah, yeah, yeah.
+
+[00:23:48] SPEAKER_06
+Not, not Mario.
+
+[00:23:49] SPEAKER_06
+No.
+
+[00:23:49] SPEAKER_06
+I think I'm fine with the timing of it, and I'm fine with doing the daily stuff, like the
+
+[00:23:54] SPEAKER_06
+content of it.
+
+[00:23:55] SPEAKER_06
+I love doing it earlier in the day of waking up and then being able to just like do this
+
+[00:23:59] SPEAKER_06
+thing to bang it out so we can get on with our days.
+
+[00:24:01] SPEAKER_06
+I don't love that we had to do it at 1030 in the morning or whatever, but I do think
+
+[00:24:04] SPEAKER_06
+that we can find a game that we can do a turn of or something like that, a timed piece
+
+[00:24:13] SPEAKER_06
+of every day and keep coming back to it, because it's fun.
+
+[00:24:17] SPEAKER_06
+It, like, just when you think you're getting into it, you just go, all right, we'll see
+
+[00:24:21] SPEAKER_06
+you tomorrow.
+
+[00:24:21] SPEAKER_06
+I just think Mario Party just happens to be so conducive to it.
+
+[00:24:24] SPEAKER_06
+Oh, yeah.
+
+[00:24:24] SPEAKER_06
+I don't know what else is like that.
+
+[00:24:26] SPEAKER_06
+Same.
+
+[00:24:26] SPEAKER_06
+Same.
+
+[00:24:27] SPEAKER_06
+I'd love to hear from the audience and see what it is, like, what other things do they
+
+[00:24:31] SPEAKER_06
+think we could do that aren't Mario Party?
+
+[00:24:34] SPEAKER_09
+Yeah, because I don't think any of us wants to play Mario Party again in that way for 30
+
+[00:24:39] SPEAKER_09
+straight days.
+
+[00:24:40] SPEAKER_09
+What?
+
+[00:24:40] SPEAKER_09
+Especially not Nick.
+
+[00:24:41] SPEAKER_09
+No, I'm fine.
+
+[00:24:42] SPEAKER_09
+I'm okay with the idea of, like, the container around Mario Party that is the daily, monthly
+
+[00:24:47] SPEAKER_09
+content, but I would like to see it reinvented in another game.
+
+[00:24:51] SPEAKER_09
+Sure.
+
+[00:24:51] SPEAKER_09
+Or, because it's going to get, it just feels like it's already in danger of getting repetitive.
+
+[00:24:56] SPEAKER_07
+Custom game of Halo, right?
+
+[00:24:58] SPEAKER_07
+You have to leave it on for a month.
+
+[00:24:59] SPEAKER_07
+As soon as there's a kill, everyone puts their controller down until tomorrow.
+
+[00:25:04] SPEAKER_08
+What if power goes out?
+
+[00:25:05] SPEAKER_07
+The internet's lost.
+
+[00:25:07] SPEAKER_06
+There's a lot of ways that this could go wrong.
+
+[00:25:08] SPEAKER_06
+Can you keep a game on for 30 days?
+
+[00:25:11] SPEAKER_06
+I don't know.
+
+[00:25:12] SPEAKER_09
+Theoretically, you could.
+
+[00:25:13] SPEAKER_09
+I think you could, yeah.
+
+[00:25:15] SPEAKER_09
+Not with other stuff we're going to record.
+
+[00:25:16] SPEAKER_05
+Can you imagine, though, just be like, oh, stop!
+
+[00:25:18] SPEAKER_05
+You need to have second setups specifically just for that.
+
+[00:25:23] SPEAKER_09
+There'd be server maintenance at some point in there, probably, right?
+
+[00:25:26] SPEAKER_05
+Yeah, probably.
+
+[00:25:28] SPEAKER_09
+Like, maybe?
+
+[00:25:29] SPEAKER_09
+Every time I load Call of Duty, it's got three updates.
+
+[00:25:32] SPEAKER_09
+Yeah.
+
+[00:25:32] SPEAKER_05
+It's true.
+
+[00:25:33] SPEAKER_05
+It's like Master Chief Collection, right, would be the only way to play the old ones.
+
+[00:25:35] SPEAKER_05
+It's not like we could, I don't think any of the old ones exist anymore, right?
+
+[00:25:39] SPEAKER_05
+Like, the servers are down for three and four.
+
+[00:25:42] SPEAKER_06
+Yeah, I mean, I like this idea, and I'm really excited to like an audience member's idea even
+
+[00:25:46] SPEAKER_06
+more.
+
+[00:25:46] SPEAKER_06
+So, let us know in the comments what we should be doing, because I think there's a...
+
+[00:25:50] SPEAKER_06
+Yeah.
+
+[00:25:51] SPEAKER_07
+If someone got a double kill, would you just not play for two days?
+
+[00:25:54] SPEAKER_06
+Oh, you guys, please, guys, get a fucking quad kill.
+
+[00:25:57] SPEAKER_06
+Like, let me have a weekend off.
+
+[00:26:00] SPEAKER_09
+30 kills in however many days it takes to get there.
+
+[00:26:03] SPEAKER_07
+With Mario Party, Saturday, for some reason, is the hardest one for me to remember.
+
+[00:26:06] SPEAKER_07
+Sunday for me.
+
+[00:26:07] SPEAKER_07
+I just feel like after the stream on Friday, I sort of let my work guard down, and then it's
+
+[00:26:11] SPEAKER_07
+like, oh, we're still going.
+
+[00:26:13] SPEAKER_04
+Oh, yeah, yeah, yeah, yeah.
+
+[00:26:14] SPEAKER_07
+Yeah, that's fair.
+
+[00:26:16] SPEAKER_09
+Okay.
+
+[00:26:17] SPEAKER_09
+Well, I'm glad that we, I hopefully definitively answered some of those, and then we actually
+
+[00:26:21] SPEAKER_09
+also put a request out to the audience for some better or more clever ideas.
+
+[00:26:26] SPEAKER_09
+Andrew said he wanted to focus on going forward.
+
+[00:26:30] SPEAKER_09
+What are some things that we want to focus on going forward?
+
+[00:26:34] SPEAKER_09
+Anything that we, you feel like we didn't do enough in the last year that you'd like to
+
+[00:26:37] SPEAKER_09
+put more time or effort into?
+
+[00:26:38] SPEAKER_09
+I have a few, but I'd like to open up.
+
+[00:26:39] SPEAKER_05
+I have one that I think we haven't done a lot of, necessarily, in our regulation era
+
+[00:26:44] SPEAKER_05
+that I'd love for us to get back to, and that's more lab work.
+
+[00:26:47] SPEAKER_05
+I want to see us more in the lab this upcoming year.
+
+[00:26:50] SPEAKER_05
+I feel like we haven't had.
+
+[00:26:52] SPEAKER_05
+We're doing wrist pockets.
+
+[00:26:53] SPEAKER_05
+We're doing all sorts of, like, goofy stuff.
+
+[00:26:56] SPEAKER_05
+Thrice to meet you.
+
+[00:26:57] SPEAKER_07
+Yeah, I feel like we've had a few lab projects that I never got stuck into.
+
+[00:27:01] SPEAKER_07
+Yeah, I never made the fruit gloves.
+
+[00:27:03] SPEAKER_99
+The fruit gloves?
+
+[00:27:05] SPEAKER_05
+Like, that's the thing that's so old that, like, I sort of in my brain just assumed it
+
+[00:27:08] SPEAKER_05
+came out, or you did it at some point.
+
+[00:27:10] SPEAKER_05
+Like, I forgot that the fruit gloves are still not done.
+
+[00:27:13] SPEAKER_09
+I've never put it together.
+
+[00:27:14] SPEAKER_09
+Well, again, you...
+
+[00:27:15] SPEAKER_09
+They're gloves that are designed to cut and open and do everything you need to do to fruit.
+
+[00:27:23] SPEAKER_09
+Like, they had, like, tahini in it, and, like, one of the fingers to pour onto the fruit.
+
+[00:27:28] SPEAKER_09
+Salt, they had, like, a grater on one hand.
+
+[00:27:31] SPEAKER_09
+They had paring knives, and it was all just so that you could really just dissect and
+
+[00:27:35] SPEAKER_09
+eat fruit, and you had every tool available in your hands all at once.
+
+[00:27:38] SPEAKER_05
+I just always get excited when we're in the lab doing something, and I think that that's
+
+[00:27:42] SPEAKER_05
+a thing we could get back to.
+
+[00:27:44] SPEAKER_07
+Do you think the lab remains a part of the episodes, or does it eventually break out into
+
+[00:27:49] SPEAKER_07
+a very occasional lab show?
+
+[00:27:51] SPEAKER_07
+Oh, that's interesting.
+
+[00:27:52] SPEAKER_07
+That's interesting.
+
+[00:27:53] SPEAKER_06
+I think if we find something that is in the lab that is so, we have to show people this
+
+[00:27:59] SPEAKER_06
+thing, a lab show would be a lot of fun.
+
+[00:28:03] SPEAKER_06
+I agree.
+
+[00:28:03] SPEAKER_07
+Because I feel like what's happened with some of our gauntlets, like the cheese and chocolate
+
+[00:28:07] SPEAKER_07
+and stuff, is that that's lab-adjacent in my head.
+
+[00:28:09] SPEAKER_06
+I agree.
+
+[00:28:10] SPEAKER_06
+I agree with that.
+
+[00:28:11] SPEAKER_07
+But it's not like we're inventing.
+
+[00:28:13] SPEAKER_07
+We're just in the lab testing.
+
+[00:28:15] SPEAKER_07
+We're in the kitchen.
+
+[00:28:16] SPEAKER_05
+Like, all the lab talk stays in, like, podcasts and stuff, and then we do a thing called,
+
+[00:28:19] SPEAKER_05
+like, field work.
+
+[00:28:20] SPEAKER_06
+I like that.
+
+[00:28:24] SPEAKER_06
+It's field testing off of the lab.
+
+[00:28:27] SPEAKER_09
+It's final product.
+
+[00:28:29] SPEAKER_09
+I don't like the idea of taking stuff that used to be heavily featured in the podcast
+
+[00:28:33] SPEAKER_09
+and removing it from the podcast, you know?
+
+[00:28:35] SPEAKER_09
+So I like the idea of field testing.
+
+[00:28:37] SPEAKER_09
+I think that's great.
+
+[00:28:37] SPEAKER_09
+Yeah.
+
+[00:28:37] SPEAKER_09
+I think that's a great way to do it.
+
+[00:28:39] SPEAKER_04
+Focus it in the lab.
+
+[00:28:41] SPEAKER_04
+That's a good way to handle it.
+
+[00:28:42] SPEAKER_09
+That's a great, and that's a great one, Andrew.
+
+[00:28:43] SPEAKER_09
+I wasn't on my list, and I hadn't even thought about it, to be honest with you.
+
+[00:28:46] SPEAKER_09
+And I think you're dead on with that.
+
+[00:28:48] SPEAKER_09
+Anybody else?
+
+[00:28:49] SPEAKER_09
+For upcoming stuff?
+
+[00:28:50] SPEAKER_09
+Yeah, just things you want to focus on in 2026 and 2027.
+
+[00:28:53] SPEAKER_06
+Yeah, I mean, we talked about it yesterday.
+
+[00:28:54] SPEAKER_06
+I want to go on this road trip.
+
+[00:28:55] SPEAKER_06
+I want to get back on my notes, guys.
+
+[00:28:57] SPEAKER_06
+Big time.
+
+[00:28:57] SPEAKER_06
+Big time.
+
+[00:28:58] SPEAKER_06
+I want to, we've talked about it, and me and Jeff went to lunch yesterday and talked about,
+
+[00:29:03] SPEAKER_06
+like, what would it be and where would we go or whatever.
+
+[00:29:06] SPEAKER_06
+And to me, it's Route 66.
+
+[00:29:08] SPEAKER_06
+Like, I think it's the 100th anniversary.
+
+[00:29:11] SPEAKER_06
+I think it's the 100th anniversary of Route 66.
+
+[00:29:13] SPEAKER_09
+It's the ultimate American road trip.
+
+[00:29:15] SPEAKER_09
+Yeah.
+
+[00:29:15] SPEAKER_09
+It's iconic.
+
+[00:29:16] SPEAKER_09
+I've never done it.
+
+[00:29:17] SPEAKER_09
+I don't think any of us have.
+
+[00:29:19] SPEAKER_06
+No.
+
+[00:29:19] SPEAKER_06
+I think it would be really, I think it would be really fun.
+
+[00:29:24] SPEAKER_06
+It's long.
+
+[00:29:25] SPEAKER_06
+I mean, it's long.
+
+[00:29:26] SPEAKER_06
+But it is, like, I would love to do it.
+
+[00:29:30] SPEAKER_06
+I think it would be so much fun to get in the car, find these things, could have a couple
+
+[00:29:35] SPEAKER_06
+ideas about where we could stop, but to just kind of, like, do this stretch of road that
+
+[00:29:42] SPEAKER_06
+I've never done but heard about since Bugs Bunny, like, I think would be really cool.
+
+[00:29:47] SPEAKER_09
+If we do it, can we all make mixtapes for the trip?
+
+[00:29:52] SPEAKER_09
+Oh, that's great.
+
+[00:29:52] SPEAKER_09
+We have to listen to everybody's mixtape.
+
+[00:29:54] SPEAKER_09
+Road trip playlists?
+
+[00:29:55] SPEAKER_09
+Yeah.
+
+[00:29:56] SPEAKER_08
+That's a great idea.
+
+[00:29:57] SPEAKER_06
+That is a good idea.
+
+[00:29:58] SPEAKER_06
+Yep.
+
+[00:29:58] SPEAKER_06
+When you go to the website, it gives you top 10 cities and stops along Route 66, and I
+
+[00:30:04] SPEAKER_06
+think that would be fun to see if that's a stop.
+
+[00:30:07] SPEAKER_06
+Unfortunately, one of those stops is Amarillo, Texas, which is maybe the worst American city
+
+[00:30:11] SPEAKER_06
+I've ever been to in my life.
+
+[00:30:13] SPEAKER_06
+Oh, I want to go there.
+
+[00:30:14] SPEAKER_04
+We can see Cadillac Ranch again.
+
+[00:30:15] SPEAKER_06
+Yeah, I love Cadillac Ranch.
+
+[00:30:16] SPEAKER_06
+It is legitimately the worst city.
+
+[00:30:18] SPEAKER_06
+It's like, Gavin, it's like if they built a prison in the desert and then they forgot about
+
+[00:30:24] SPEAKER_06
+it, the prisoners escaped, and they're like, we're free.
+
+[00:30:27] SPEAKER_06
+And they settled.
+
+[00:30:28] SPEAKER_06
+And they just got right outside the prison gates and went, and this is our city, Amarillo.
+
+[00:30:32] SPEAKER_06
+It is, it's miserable.
+
+[00:30:34] SPEAKER_04
+But we can do the steak challenge.
+
+[00:30:35] SPEAKER_04
+We can go to Palo Duro Canyon.
+
+[00:30:37] SPEAKER_09
+Palo Duro Canyon is so fucking cool.
+
+[00:30:39] SPEAKER_09
+It's so beautiful.
+
+[00:30:40] SPEAKER_09
+And I went there one time.
+
+[00:30:41] SPEAKER_09
+It was 114 degrees.
+
+[00:30:43] SPEAKER_09
+Oh, Jesus.
+
+[00:30:43] SPEAKER_09
+And I went to the little checkout, the check-in area where the, you know, the park ranger.
+
+[00:30:49] SPEAKER_09
+And he was like, listen, two things.
+
+[00:30:51] SPEAKER_09
+One, it's too hot to go down.
+
+[00:30:53] SPEAKER_09
+It wouldn't be safe.
+
+[00:30:53] SPEAKER_09
+And also love a face.
+
+[00:30:56] SPEAKER_09
+I was like, thank you so much.
+
+[00:30:57] SPEAKER_09
+It was awesome.
+
+[00:30:59] SPEAKER_09
+How long would you live?
+
+[00:31:00] SPEAKER_07
+I think a road trip this year would be a blast.
+
+[00:31:02] SPEAKER_07
+Not long.
+
+[00:31:03] SPEAKER_07
+Does Route 66 go anywhere near that point where all the states meet?
+
+[00:31:07] SPEAKER_07
+Those four states?
+
+[00:31:08] SPEAKER_07
+Four corners?
+
+[00:31:09] SPEAKER_07
+Yeah.
+
+[00:31:09] SPEAKER_07
+I don't know.
+
+[00:31:10] SPEAKER_07
+I don't know.
+
+[00:31:11] SPEAKER_06
+I dropped a photo, but it doesn't look like it does.
+
+[00:31:13] SPEAKER_06
+I don't think so.
+
+[00:31:14] SPEAKER_09
+That could be a future trip, though.
+
+[00:31:15] SPEAKER_09
+A future trip idea.
+
+[00:31:16] SPEAKER_09
+I know that somebody, when I was doing Saul Wright, mentioned to me that there is a festival,
+
+[00:31:20] SPEAKER_09
+like a music festival in their town in Oklahoma, I believe, on Route 66 that they have
+
+[00:31:26] SPEAKER_09
+every year where they shut down Route 66 and have bands play on Route 66.
+
+[00:31:29] SPEAKER_09
+Oh, wow.
+
+[00:31:30] SPEAKER_09
+That's cool.
+
+[00:31:30] SPEAKER_09
+So maybe it would line up where we could attend.
+
+[00:31:32] SPEAKER_09
+I think it's probably country music, but maybe we could attend something like that
+
+[00:31:35] SPEAKER_09
+even.
+
+[00:31:35] SPEAKER_09
+I feel like there's a lot.
+
+[00:31:36] SPEAKER_09
+And to commemorate it on the 100th year of its existence, I think, is very cool.
+
+[00:31:41] SPEAKER_05
+Yeah, that's fun.
+
+[00:31:41] SPEAKER_07
+I just think it'd be interesting to make a video where we're all in a different state.
+
+[00:31:45] SPEAKER_05
+Oh, yeah.
+
+[00:31:45] SPEAKER_07
+That would be cool.
+
+[00:31:47] SPEAKER_09
+Also, pretty easy to do in the summer when we're all on vacation.
+
+[00:31:51] SPEAKER_09
+In addition to road trips.
+
+[00:31:53] SPEAKER_09
+What vacation?
+
+[00:31:55] SPEAKER_06
+What's that?
+
+[00:31:57] SPEAKER_06
+When we're all on vacation.
+
+[00:31:58] SPEAKER_09
+Like we're all on vacations.
+
+[00:31:59] SPEAKER_09
+Like when Gavin's in England and I'm in, I don't know.
+
+[00:32:02] SPEAKER_09
+Oh, yeah.
+
+[00:32:03] SPEAKER_09
+But we can't see each other.
+
+[00:32:04] SPEAKER_09
+No, I know.
+
+[00:32:04] SPEAKER_09
+I was just making a joke.
+
+[00:32:05] SPEAKER_09
+It's pretty often that we're all in different places.
+
+[00:32:08] SPEAKER_09
+That's true.
+
+[00:32:09] SPEAKER_09
+I agree.
+
+[00:32:09] SPEAKER_09
+It's not a rarity that we're not all in different places.
+
+[00:32:12] SPEAKER_09
+Gavin mentioned to me yesterday in a way that makes me scared to bring it up because
+
+[00:32:17] SPEAKER_09
+he's going to deny it or say that it was my idea and that I told him.
+
+[00:32:20] SPEAKER_04
+And it'll get all jumbled.
+
+[00:32:22] SPEAKER_09
+But he mentioned, I swear, yesterday or the day before, because I wrote it down, he mentioned
+
+[00:32:26] SPEAKER_09
+wanting to go back to Vegas for some reason.
+
+[00:32:28] SPEAKER_04
+Finding a reason to go back to Vegas.
+
+[00:32:29] SPEAKER_04
+Why is that?
+
+[00:32:30] SPEAKER_04
+Why?
+
+[00:32:30] SPEAKER_09
+Dunno.
+
+[00:32:31] SPEAKER_07
+I was just there.
+
+[00:32:32] SPEAKER_07
+It was just a good place to hang out, wasn't it?
+
+[00:32:34] SPEAKER_07
+He was safe.
+
+[00:32:34] SPEAKER_09
+He had a lot of fun.
+
+[00:32:35] SPEAKER_09
+Was it?
+
+[00:32:36] SPEAKER_09
+And we had fun last time.
+
+[00:32:37] SPEAKER_09
+We did.
+
+[00:32:37] SPEAKER_09
+And he's like, we should come up with a reason to go back someday.
+
+[00:32:40] SPEAKER_07
+You threw a first pitch.
+
+[00:32:41] SPEAKER_07
+It was pretty fun.
+
+[00:32:41] SPEAKER_07
+That was fun.
+
+[00:32:42] SPEAKER_05
+Do you think Vegas was the thing with that?
+
+[00:32:46] SPEAKER_05
+Or was it the group?
+
+[00:32:48] SPEAKER_05
+Does that make sense?
+
+[00:32:48] SPEAKER_07
+It definitely makes sense.
+
+[00:32:51] SPEAKER_07
+I think it's both just good.
+
+[00:32:52] SPEAKER_07
+Vegas is just so weird.
+
+[00:32:53] SPEAKER_07
+It's just such a freak show.
+
+[00:32:54] SPEAKER_04
+Yeah.
+
+[00:32:55] SPEAKER_06
+It is.
+
+[00:32:55] SPEAKER_06
+And no one's going right now anyway, so we could have the whole city to our city.
+
+[00:32:58] SPEAKER_06
+That is true.
+
+[00:32:59] SPEAKER_09
+We had such a weird variety of things we did on that trip, too, that was kind of cool.
+
+[00:33:04] SPEAKER_09
+Vegas offers that.
+
+[00:33:05] SPEAKER_09
+But I would much rather go to Route 66 this year.
+
+[00:33:07] SPEAKER_05
+What if you did reverse Vegas and went to Dolly World?
+
+[00:33:12] SPEAKER_09
+Don't say that out loud.
+
+[00:33:13] SPEAKER_09
+My wife is going to be here in 30 seconds.
+
+[00:33:16] SPEAKER_09
+Let's go to Branson.
+
+[00:33:17] SPEAKER_09
+Her ears just perked up.
+
+[00:33:18] SPEAKER_09
+I would rather go to Dollywood than Branson just because I just went to Branson.
+
+[00:33:23] SPEAKER_09
+Oh.
+
+[00:33:23] SPEAKER_09
+But I think both of those are solid ideas and that we could do either.
+
+[00:33:26] SPEAKER_09
+And that's a fucking slice of Americana for Gavin right there.
+
+[00:33:29] SPEAKER_09
+Let me tell you.
+
+[00:33:30] SPEAKER_09
+Oh, Gavin.
+
+[00:33:31] SPEAKER_06
+You're going to be set.
+
+[00:33:31] SPEAKER_06
+But that's the thing I'm looking forward to is just a road trip.
+
+[00:33:34] SPEAKER_06
+Yeah.
+
+[00:33:34] SPEAKER_06
+Just getting out there with you guys again after we did the last one.
+
+[00:33:36] SPEAKER_06
+I'd love to do that again.
+
+[00:33:38] SPEAKER_06
+Is there any other stuff you guys are looking forward to?
+
+[00:33:39] SPEAKER_09
+Yeah.
+
+[00:33:40] SPEAKER_09
+I have a couple I'd like to throw in.
+
+[00:33:41] SPEAKER_09
+And this could be road trip adjacent as well.
+
+[00:33:43] SPEAKER_09
+I would love to in 2020, later in 2026 and 2027, I'd love to recommit in some larger way
+
+[00:33:50] SPEAKER_09
+to Sloppy Joe's.
+
+[00:33:52] SPEAKER_09
+I miss doing Sloppy Joe's bingo.
+
+[00:33:54] SPEAKER_09
+I feel like we don't do it enough.
+
+[00:33:56] SPEAKER_09
+And I would like to.
+
+[00:33:57] SPEAKER_09
+And it may just be one of those things where it's just me and nobody else is really into
+
+[00:34:00] SPEAKER_09
+it still.
+
+[00:34:00] SPEAKER_09
+But I would love to do a more occasionally more Sloppy Joe's.
+
+[00:34:06] SPEAKER_09
+And if we ever found our way back to Key West, that'd be a fun road trip, too.
+
+[00:34:09] SPEAKER_04
+You know, Jeff piggybacking off of that, I was going to say live streams in general.
+
+[00:34:13] SPEAKER_04
+Like, I know we do our Friday one.
+
+[00:34:14] SPEAKER_04
+It's a big one.
+
+[00:34:15] SPEAKER_04
+But we've talked about in the past doing like random streams here and there and then making
+
+[00:34:19] SPEAKER_04
+like a playlist on YouTube.
+
+[00:34:22] SPEAKER_04
+So it's just unlisted.
+
+[00:34:24] SPEAKER_04
+It doesn't affect the algorithm, all that stuff.
+
+[00:34:25] SPEAKER_04
+And just having like a video available just there for folks later.
+
+[00:34:30] SPEAKER_04
+Right.
+
+[00:34:31] SPEAKER_04
+I think we didn't really utilize that.
+
+[00:34:32] SPEAKER_04
+And since we've talked about it on the last one.
+
+[00:34:35] SPEAKER_04
+So I think I think that's something we could do for sure.
+
+[00:34:37] SPEAKER_04
+And I'd like to do, too.
+
+[00:34:38] SPEAKER_05
+I think it could be even, you know, like when we think about how things worked at the previous
+
+[00:34:42] SPEAKER_05
+place, we worked at the joy of what we do now.
+
+[00:34:45] SPEAKER_05
+If you feel like Jeff at like a random 9 p.m., you could just hop on Twitch and deal with
+
+[00:34:52] SPEAKER_05
+Sloppy Joe.
+
+[00:34:53] SPEAKER_05
+Like you could just.
+
+[00:34:53] SPEAKER_05
+It's true.
+
+[00:34:54] SPEAKER_09
+The community is fucking crazy for that.
+
+[00:34:56] SPEAKER_09
+It is true.
+
+[00:34:57] SPEAKER_09
+And I should utilize that more often.
+
+[00:34:59] SPEAKER_09
+But I love any any kind of live event we do that has lots of community interaction.
+
+[00:35:04] SPEAKER_09
+Yes.
+
+[00:35:04] SPEAKER_09
+We're all playing along together and enjoying it at the same time.
+
+[00:35:07] SPEAKER_09
+Those are my favorite things that we do.
+
+[00:35:09] SPEAKER_09
+And I feel like Sloppy Joe's gets at that better than any other live thing we do.
+
+[00:35:14] SPEAKER_09
+But in addition to in addition to that, I would also like to see us expand our wrestling more.
+
+[00:35:21] SPEAKER_09
+I'm really into the idea of us doing the wrestling, the few wrestling videos we've done already
+
+[00:35:28] SPEAKER_09
+where Eric lets them sim and we watch characters from our universe fight.
+
+[00:35:33] SPEAKER_09
+And I just feel like characters come up kind of often and we can just constantly be throwing
+
+[00:35:38] SPEAKER_09
+new stuff in.
+
+[00:35:39] SPEAKER_09
+And I would like if we did, it could even be a live stream, Nick.
+
+[00:35:42] SPEAKER_09
+But if we did a more regular wrestling event, maybe our own like SummerSlam or whatever
+
+[00:35:48] SPEAKER_09
+that we kind of eventize.
+
+[00:35:50] SPEAKER_09
+I think that could be a lot of fun there because, you know, you're expecting Greg from finance
+
+[00:35:54] SPEAKER_09
+to show up.
+
+[00:35:55] SPEAKER_09
+But then when Belvis shows up, you're like, holy fuck, he's only three weeks old.
+
+[00:35:59] SPEAKER_09
+That was a brand new joke, you know?
+
+[00:36:01] SPEAKER_09
+That's awesome.
+
+[00:36:01] SPEAKER_09
+And I like, I think there's a lot of power for us to use current day, like up to the
+
+[00:36:06] SPEAKER_09
+minute jokes and bits in the podcast in something like that.
+
+[00:36:09] SPEAKER_06
+So I was talking to Joseph D about this, who did a lot of our regulation wrestling creation
+
+[00:36:14] SPEAKER_06
+stuff.
+
+[00:36:15] SPEAKER_06
+And he's created some stuff.
+
+[00:36:16] SPEAKER_06
+And then I talked to him about like, oh, you know, if we have ideas like to keep it current
+
+[00:36:20] SPEAKER_06
+or whatever, he's like, I'm so down for this.
+
+[00:36:22] SPEAKER_06
+I would love to create these things that are so sudden and then have them be in like this
+
+[00:36:28] SPEAKER_06
+regulation wrestling.
+
+[00:36:29] SPEAKER_06
+I think it's such a fun idea.
+
+[00:36:30] SPEAKER_06
+As long as you guys are into, I absolutely, I never approach it because I never know how
+
+[00:36:34] SPEAKER_06
+into it you guys are.
+
+[00:36:35] SPEAKER_06
+Because it's your thing, right?
+
+[00:36:36] SPEAKER_09
+That's how I feel about sloppy Joes.
+
+[00:36:37] SPEAKER_09
+Yeah.
+
+[00:36:37] SPEAKER_06
+It's like, I just never know how into it everyone is.
+
+[00:36:40] SPEAKER_06
+And I don't want to force this wrestling thing that not everyone's into, into content.
+
+[00:36:44] SPEAKER_06
+Very into it.
+
+[00:36:50] SPEAKER_06
+Games is playing the games when people ask like, why don't you guys play them?
+
+[00:36:53] SPEAKER_06
+Because they're not fun.
+
+[00:36:54] SPEAKER_06
+They're not, they're not fun.
+
+[00:36:56] SPEAKER_06
+They're not engaging.
+
+[00:36:57] SPEAKER_06
+When you watch it and everything, all hell can break loose or whatever.
+
+[00:37:01] SPEAKER_06
+And you don't know what's coming and somebody runs in and it's all, it's the fruit demon
+
+[00:37:04] SPEAKER_06
+and Wilford Brimley in a parking lot brawl.
+
+[00:37:06] SPEAKER_06
+That to me is worth more than, oh, let's just pick some guys.
+
+[00:37:10] SPEAKER_07
+And similar to Face Off, it's, it's nice to remove all skill from a series.
+
+[00:37:14] SPEAKER_06
+Yes, absolutely.
+
+[00:37:15] SPEAKER_09
+Yeah, yeah, yeah.
+
+[00:37:16] SPEAKER_09
+Also, I just think it's, it's good for, uh, it's good for the health of us.
+
+[00:37:20] SPEAKER_09
+As an entity, when we embrace somebody's genuine passion, like we've embracing Eric's
+
+[00:37:25] SPEAKER_09
+passion for wrestling, like he has enough enthusiasm to carry us through that.
+
+[00:37:29] SPEAKER_09
+Embracing Gavin's passion for pinball has turned into something really awesome, right?
+
+[00:37:34] SPEAKER_09
+And we would have never landed there if it weren't for Gavin and his genuine fandom
+
+[00:37:38] SPEAKER_09
+and love of pinball.
+
+[00:37:40] SPEAKER_09
+And I, anytime we can leverage those things, uh, I think we should.
+
+[00:37:44] SPEAKER_04
+It's contagious too, by the way.
+
+[00:37:45] SPEAKER_04
+It is contagious.
+
+[00:37:46] SPEAKER_05
+Like raw enthusiasm is just purely contagious.
+
+[00:37:48] SPEAKER_05
+I was feeling the exact same thing yesterday at Stardew Valley.
+
+[00:37:52] SPEAKER_04
+I had so much fun.
+
+[00:37:53] SPEAKER_04
+I was fishing and having a great time.
+
+[00:37:55] SPEAKER_04
+Jeff, were you having fun fishing?
+
+[00:37:57] SPEAKER_04
+After I got the baby rod, yeah.
+
+[00:38:00] SPEAKER_07
+Don't, don't have to be in every video.
+
+[00:38:03] SPEAKER_07
+Eight player co-op.
+
+[00:38:04] SPEAKER_07
+And eight players.
+
+[00:38:06] SPEAKER_05
+Eric, eight players.
+
+[00:38:07] SPEAKER_05
+Eight incredible players all at once.
+
+[00:38:09] SPEAKER_07
+Wait, who's getting the blame for this?
+
+[00:38:10] SPEAKER_05
+Nobody was blaming anyone.
+
+[00:38:12] SPEAKER_09
+I don't think there was any blame.
+
+[00:38:13] SPEAKER_09
+There was no blame.
+
+[00:38:14] SPEAKER_09
+Stay eight players.
+
+[00:38:15] SPEAKER_09
+Uh, if, uh, in addition to that, something that we've started that I don't even know
+
+[00:38:21] SPEAKER_09
+that I need to bring up, but I, cause I think we're already headed down that road, but the
+
+[00:38:25] SPEAKER_09
+fuck, these gauntlets with the food rating system in the back, I think we can only, only
+
+[00:38:31] SPEAKER_07
+stand to benefit from continuing to do those.
+
+[00:38:33] SPEAKER_07
+And the more we continue it, the more angry Eric gets of the way I've drawn the grid.
+
+[00:38:37] SPEAKER_06
+It's so, you had all this board.
+
+[00:38:40] SPEAKER_09
+Yeah, but we can expand.
+
+[00:38:42] SPEAKER_09
+It can loop around.
+
+[00:38:43] SPEAKER_09
+I think it was Nick's idea in the cheese video that we should, I don't know if it's in the
+
+[00:38:48] SPEAKER_09
+video or after, but that when it's all done, we should spin a wheel of, from S to F.
+
+[00:38:53] SPEAKER_09
+Uh-huh.
+
+[00:38:53] SPEAKER_09
+And whenever we land on, we have to make a charcuterie board of those items.
+
+[00:38:56] SPEAKER_09
+Yeah.
+
+[00:38:57] SPEAKER_06
+I think, I think not doing, cause you guys are like, yeah, let's do the S tier charcuterie
+
+[00:39:00] SPEAKER_06
+board.
+
+[00:39:03] SPEAKER_06
+And see what the wheel wants the charcuterie board to be.
+
+[00:39:06] SPEAKER_09
+I love that.
+
+[00:39:07] SPEAKER_09
+I would, uh, so we need to fill it up with a ton of stuff.
+
+[00:39:10] SPEAKER_09
+Like I was thinking I could do some sort of a blind, make you guys do like a blind soda
+
+[00:39:13] SPEAKER_09
+taste test thing.
+
+[00:39:14] SPEAKER_09
+That would be a lot of fun, right?
+
+[00:39:15] SPEAKER_09
+Interest you, introduce you to a lot of different drinks and we give drink ratings.
+
+[00:39:19] SPEAKER_09
+Dangerous.
+
+[00:39:20] SPEAKER_09
+I got some other ideas.
+
+[00:39:20] SPEAKER_04
+We also need Andrew's followup on, uh, our gauntlet ratings and what he thinks.
+
+[00:39:25] SPEAKER_04
+Oh, that's true.
+
+[00:39:26] SPEAKER_04
+That's true.
+
+[00:39:27] SPEAKER_04
+That's true.
+
+[00:39:27] SPEAKER_07
+I do like the idea of each person bringing a gauntlet to the table.
+
+[00:39:31] SPEAKER_07
+So you've done chocolate.
+
+[00:39:32] SPEAKER_07
+Yeah.
+
+[00:39:32] SPEAKER_07
+You've done cheese.
+
+[00:39:34] SPEAKER_07
+Did you pick cheese or did we just assign you cheese?
+
+[00:39:36] SPEAKER_08
+Is that a mean album?
+
+[00:39:40] SPEAKER_04
+It was, it was a, it was a face off.
+
+[00:39:44] SPEAKER_04
+We were talking about cheese.
+
+[00:39:48] SPEAKER_08
+Oh Christ.
+
+[00:39:49] SPEAKER_06
+And just rolled.
+
+[00:39:50] SPEAKER_06
+Uh, I would love to do like probably chips, some kind of chip.
+
+[00:39:54] SPEAKER_06
+Cause I think we could get pretty weird with chips, but not trying to get super, super weird.
+
+[00:39:58] SPEAKER_06
+I just think that the, uh, the palettes.
+
+[00:40:00] SPEAKER_04
+Someone could do dust.
+
+[00:40:02] SPEAKER_04
+We did a chip variation and we did do, we did do a chip taste test.
+
+[00:40:06] SPEAKER_04
+That was fun.
+
+[00:40:07] SPEAKER_09
+We could reincorporate that in 2026 into the board.
+
+[00:40:09] SPEAKER_09
+Yeah.
+
+[00:40:10] SPEAKER_09
+Uh, anything, anything else?
+
+[00:40:11] SPEAKER_05
+Anything else?
+
+[00:40:12] SPEAKER_05
+Anybody wants to, I have a few things.
+
+[00:40:14] SPEAKER_05
+Oh, uh, I want to follow through on regulation.
+
+[00:40:18] SPEAKER_05
+Best thing.
+
+[00:40:19] SPEAKER_05
+We've been, we've done a few episodes.
+
+[00:40:20] SPEAKER_05
+Oh yeah.
+
+[00:40:21] SPEAKER_05
+Like we're building a board of like potential best things.
+
+[00:40:24] SPEAKER_05
+And I just, I, that's something I'd really like to see the end of by, by the time of next year.
+
+[00:40:29] SPEAKER_06
+I really want us to, it's the, it's the random Wikipedia thing where we put the things against each other and we go back and forth.
+
+[00:40:37] SPEAKER_05
+But at the end of the episode, we end up with what is the best thing of that episode.
+
+[00:40:40] SPEAKER_05
+And then we put it to a larger board and eventually we'll do a full graphic or a breakdown of determining what is the best thing of all the best things.
+
+[00:40:48] SPEAKER_07
+Yeah.
+
+[00:40:48] SPEAKER_07
+I do like the idea of building a list of all the best things and then putting them against.
+
+[00:40:52] SPEAKER_07
+Yes.
+
+[00:40:52] SPEAKER_09
+Speaking, speaking of lists, Andrew, if you will get, or rather when you get your list of 20,000 things completed, I'm going to turn that into a publishable novel, a book.
+
+[00:41:06] SPEAKER_09
+And so I, I'm, I want that, like, that's something I've been wanting to work on in the background for a very long time.
+
+[00:41:10] SPEAKER_09
+I want to, I want to take your 20,000 things and turn it into something.
+
+[00:41:14] SPEAKER_09
+Keep on.
+
+[00:41:14] SPEAKER_09
+That's, that's a piece of merch I would like to focus on in the undefined future.
+
+[00:41:18] SPEAKER_07
+We also have to incorporate the things from the, what's the, what's the name of the highest tier?
+
+[00:41:24] SPEAKER_07
+Uh, last great tier.
+
+[00:41:25] SPEAKER_07
+Yeah.
+
+[00:41:26] SPEAKER_07
+Oh yeah.
+
+[00:41:26] SPEAKER_07
+Because one of their benefits, right, is that they can submit one thing.
+
+[00:41:29] SPEAKER_07
+They can submit a thing.
+
+[00:41:30] SPEAKER_07
+That's true.
+
+[00:41:31] SPEAKER_07
+So really, Andrew, you just need to do 19,990.
+
+[00:41:34] SPEAKER_05
+Yeah, exactly.
+
+[00:41:35] SPEAKER_05
+Um, I also want us to find the next act in our keys to the city.
+
+[00:41:42] SPEAKER_05
+I feel like we're, we're accumulating these keys.
+
+[00:41:44] SPEAKER_05
+We got the map.
+
+[00:41:45] SPEAKER_05
+I feel like there's another escalation to what we do with these keys in some way.
+
+[00:41:50] SPEAKER_05
+I don't know if that ties into the road trip in some capacity.
+
+[00:41:54] SPEAKER_05
+I just feel like there is mileage there that we haven't found yet.
+
+[00:41:58] SPEAKER_09
+Couldn't agree with you more.
+
+[00:42:00] SPEAKER_09
+And I, and I had actually written something similar down and I missed it when I was going
+
+[00:42:04] SPEAKER_09
+through my notes, but figuring out what to do with all the shit that we've bought from
+
+[00:42:07] SPEAKER_09
+auctions in a more salient way.
+
+[00:42:09] SPEAKER_09
+Yeah.
+
+[00:42:09] SPEAKER_09
+We like, I know we, we're going to use, I mean, we're saying we're going to, because we
+
+[00:42:13] SPEAKER_09
+haven't recorded it yet, but it'll have already come out by the time this episode does.
+
+[00:42:16] SPEAKER_09
+But you know, we're using the guillotine to cut our anniversary cake like that.
+
+[00:42:20] SPEAKER_09
+I think that's, that's great.
+
+[00:42:21] SPEAKER_09
+There's a show around smashing stuff with that guillotine.
+
+[00:42:24] SPEAKER_09
+We just have to do it for sure.
+
+[00:42:26] SPEAKER_07
+Did we, did we talk about using that to sign stuff or was that a dream I had?
+
+[00:42:31] SPEAKER_04
+We were going to sign stuff.
+
+[00:42:34] SPEAKER_09
+We were going to sign stuff years ago with a giant boot print, the VCK boot print.
+
+[00:42:39] SPEAKER_09
+And I still have that.
+
+[00:42:41] SPEAKER_09
+Tony made that for us and I still have it.
+
+[00:42:42] SPEAKER_09
+Could we just attach that to the guillotine and just slam those remaining baseballs with
+
+[00:42:47] SPEAKER_09
+that?
+
+[00:42:48] SPEAKER_06
+Interesting.
+
+[00:42:49] SPEAKER_05
+We could.
+
+[00:42:49] SPEAKER_05
+I never thought about using that as an attachment.
+
+[00:42:51] SPEAKER_05
+We just talked about a bunch of different goofy ways to like autograph things in the past
+
+[00:42:57] SPEAKER_05
+for sure.
+
+[00:42:57] SPEAKER_05
+That could have been one.
+
+[00:42:59] SPEAKER_05
+I like trying it with the guillotine.
+
+[00:43:01] SPEAKER_07
+The keys is great though.
+
+[00:43:01] SPEAKER_07
+And I do, I do love the idea of just grabbing all the keys before we leave on a road trip
+
+[00:43:05] SPEAKER_07
+of all the places we're going to end up and just having them on a key chain.
+
+[00:43:09] SPEAKER_04
+Oh, key chain in cities?
+
+[00:43:11] SPEAKER_07
+Yeah.
+
+[00:43:12] SPEAKER_04
+What?
+
+[00:43:13] SPEAKER_04
+Explain that to TSA on the way back.
+
+[00:43:15] SPEAKER_09
+Maybe that's, maybe that's what we do when we get enough keys.
+
+[00:43:17] SPEAKER_09
+Maybe when we have like 12 keys, 10, 12 keys, we're not four, one, two, three, four, five,
+
+[00:43:22] SPEAKER_09
+six.
+
+[00:43:24] SPEAKER_09
+I think we're going on number seven is in the mail.
+
+[00:43:26] SPEAKER_09
+Maybe we, we put them all on a wheel.
+
+[00:43:27] SPEAKER_09
+We spin a wheel and then we have to go to that city.
+
+[00:43:29] SPEAKER_07
+Yeah.
+
+[00:43:30] SPEAKER_07
+Use the key.
+
+[00:43:30] SPEAKER_07
+What if we're not allowed in a, in a state unless we have a key in that city?
+
+[00:43:34] SPEAKER_09
+Oh, interesting.
+
+[00:43:35] SPEAKER_09
+We can only go where we have keys to enter.
+
+[00:43:40] SPEAKER_07
+How many states are along Route 66?
+
+[00:43:43] SPEAKER_08
+Six.
+
+[00:43:44] SPEAKER_08
+Ooh, five.
+
+[00:43:45] SPEAKER_08
+Yeah.
+
+[00:43:47] SPEAKER_08
+Yeah.
+
+[00:43:48] SPEAKER_08
+Yeah.
+
+[00:43:48] SPEAKER_08
+It's a lot.
+
+[00:43:49] SPEAKER_06
+Oklahoma, Arkansas, New Mexico, Arizona, California.
+
+[00:43:53] SPEAKER_06
+It's like Missouri, part of Kentucky, maybe.
+
+[00:43:56] SPEAKER_06
+Missouri.
+
+[00:43:56] SPEAKER_06
+Yeah.
+
+[00:43:57] SPEAKER_06
+Missouri.
+
+[00:43:57] SPEAKER_06
+And then Illinois.
+
+[00:43:58] SPEAKER_06
+So it's, it's a lot.
+
+[00:43:59] SPEAKER_06
+That's a bunch.
+
+[00:44:00] SPEAKER_06
+Wow.
+
+[00:44:01] SPEAKER_05
+The other kind of like thing I have main thing on my list before, because we also have
+
+[00:44:04] SPEAKER_05
+questions from the community.
+
+[00:44:05] SPEAKER_05
+Yeah.
+
+[00:44:05] SPEAKER_05
+We need to get to the questions too.
+
+[00:44:07] SPEAKER_05
+Is I'd like us to do more draft lists.
+
+[00:44:09] SPEAKER_05
+We did the determining what the greatest game of all time was via draft format.
+
+[00:44:13] SPEAKER_05
+I want us to do more.
+
+[00:44:14] SPEAKER_05
+Oh, that's right.
+
+[00:44:17] SPEAKER_05
+And we did a poll of the audience submitting their top 20.
+
+[00:44:22] SPEAKER_05
+And so I have all the data for that of the regulation, what, what the audience thinks
+
+[00:44:26] SPEAKER_05
+are the 20 greatest games, which I'd love to share in the next one we do.
+
+[00:44:31] SPEAKER_05
+But I just expanding more on that and doing the community suggestion, I think would be
+
+[00:44:35] SPEAKER_05
+a lot of fun of instead of starting at one, starting at 20 and building.
+
+[00:44:38] SPEAKER_07
+It would be interesting to do cross references of those lists too.
+
+[00:44:42] SPEAKER_07
+Like maybe have the Falcons build a list and then we do it and we see if we were of similar
+
+[00:44:47] SPEAKER_07
+mind.
+
+[00:44:48] SPEAKER_05
+I like that.
+
+[00:44:49] SPEAKER_05
+I will say with the community poll I've done of the top 20 games, I don't think so.
+
+[00:44:54] SPEAKER_05
+I wouldn't say similar.
+
+[00:44:57] SPEAKER_06
+That sounds right.
+
+[00:44:59] SPEAKER_06
+But I think that's a great idea, Andrew.
+
+[00:45:01] SPEAKER_06
+We should do that.
+
+[00:45:01] SPEAKER_06
+Absolutely.
+
+[00:45:02] SPEAKER_06
+That was really fun.
+
+[00:45:03] SPEAKER_03
+Prime presents Perfect Pairings.
+
+[00:45:06] SPEAKER_03
+What pairs with Reacher on Prime?
+
+[00:45:09] SPEAKER_03
+Reaching for a sparkling punch delivered with Prime.
+
+[00:45:13] SPEAKER_03
+It's an unbelievable feeling when you're enjoying a punch.
+
+[00:45:18] SPEAKER_03
+At the same time Reacher is enjoying punching people.
+
+[00:45:23] SPEAKER_03
+Wow, he's still punching people.
+
+[00:45:28] SPEAKER_03
+Entertainment meets fast delivery.
+
+[00:45:31] SPEAKER_03
+It's on Prime.
+
+[00:45:33] SPEAKER_02
+Welcome aboard, V-A-Rail.
+
+[00:45:35] SPEAKER_02
+Please sit and enjoy.
+
+[00:45:37] SPEAKER_02
+Please sit and sip.
+
+[00:45:39] SPEAKER_02
+Play.
+
+[00:45:40] SPEAKER_02
+Post.
+
+[00:45:41] SPEAKER_02
+Taste.
+
+[00:45:43] SPEAKER_02
+View.
+
+[00:45:44] SPEAKER_02
+And enjoy.
+
+[00:45:46] SPEAKER_02
+V-A-Rail.
+
+[00:45:47] SPEAKER_02
+Love the way.
+
+[00:45:48] SPEAKER_03
+Another set from Coors Light's DJ, Beer Wolf.
+
+[00:45:52] SPEAKER_03
+Well, you know how to howl, don't you?
+
+[00:45:53] SPEAKER_03
+You just put your lips together and...
+
+[00:45:55] SPEAKER_01
+Coors Light's iconic Beer Wolf is back.
+
+[00:46:01] SPEAKER_01
+And he'll be DJing some of Canada's biggest music festivals this summer.
+
+[00:46:06] SPEAKER_01
+Follow Coors Light Canada on Instagram and TikTok to track DJ Beer Wolf and stay locked
+
+[00:46:12] SPEAKER_01
+in for his Feral Summer 26 tour.
+
+[00:46:15] SPEAKER_01
+Must be legal drinking age.
+
+[00:46:16] SPEAKER_01
+Celebrate responsibly.
+
+[00:46:17] SPEAKER_06
+But we should also get to some of these questions.
+
+[00:46:20] SPEAKER_06
+Yeah, let's do that.
+
+[00:46:20] SPEAKER_07
+Let's get to the questions.
+
+[00:46:22] SPEAKER_07
+I had a thing before questions.
+
+[00:46:24] SPEAKER_07
+A brief thing.
+
+[00:46:26] SPEAKER_07
+Please.
+
+[00:46:27] SPEAKER_07
+I thought it'd be fun to find a place to incorporate...
+
+[00:46:30] SPEAKER_07
+Like, because a lot of the time on the podcast we'll tell a story.
+
+[00:46:33] SPEAKER_07
+But some of the time we have footage of it.
+
+[00:46:35] SPEAKER_07
+Yeah.
+
+[00:46:35] SPEAKER_07
+I was thinking the other day about how we were talking about how when I sat down and
+
+[00:46:39] SPEAKER_07
+just started rolling and Jeff gave me the funniest look and I basically forced him to
+
+[00:46:43] SPEAKER_07
+start rolling when he didn't have time.
+
+[00:46:45] SPEAKER_08
+Yeah.
+
+[00:46:45] SPEAKER_07
+But we have footage of that and it was pretty funny from the camera.
+
+[00:46:48] SPEAKER_07
+So we could just throw it up on social.
+
+[00:46:49] SPEAKER_07
+Put it on social maybe.
+
+[00:46:50] SPEAKER_07
+Yeah.
+
+[00:46:51] SPEAKER_07
+But then I was just worried about is it bad if there's content that's only on social
+
+[00:46:55] SPEAKER_07
+and away from the main Patreon and all that stuff.
+
+[00:46:59] SPEAKER_06
+That's interesting.
+
+[00:47:00] SPEAKER_06
+Just put it out there.
+
+[00:47:02] SPEAKER_06
+I think it's probably...
+
+[00:47:03] SPEAKER_06
+I would rather have it go out there and people...
+
+[00:47:06] SPEAKER_06
+It's just out there than go...
+
+[00:47:09] SPEAKER_06
+Is this the best use of format for this thing?
+
+[00:47:12] SPEAKER_06
+I don't work at Rooster Teeth anymore so I think I kind of just want to put stuff out
+
+[00:47:14] SPEAKER_06
+there.
+
+[00:47:15] SPEAKER_05
+Just for like findability we could easily make a collection that is just that type of footage
+
+[00:47:21] SPEAKER_05
+on the Patreon and it just all ends up in their moments.
+
+[00:47:24] SPEAKER_07
+Like we recently did it with the rat trap and we just like stuck it on the end of a podcast.
+
+[00:47:28] SPEAKER_07
+Yes.
+
+[00:47:28] SPEAKER_09
+This would be a really funny time to let Eric know that Rooster Teeth purchased us yesterday
+
+[00:47:33] SPEAKER_09
+and he does in fact work for Rooster Teeth.
+
+[00:47:34] SPEAKER_06
+I'm fine with that.
+
+[00:47:36] SPEAKER_06
+Bernie, I'm coming home.
+
+[00:47:38] SPEAKER_06
+Warm up those podcast seats, baby.
+
+[00:47:39] SPEAKER_06
+Let's do this thing.
+
+[00:47:40] SPEAKER_06
+Just for the...
+
+[00:47:42] SPEAKER_09
+Google or Gavin.
+
+[00:47:43] SPEAKER_09
+Gavin or Google.
+
+[00:47:45] SPEAKER_09
+All right.
+
+[00:47:46] SPEAKER_09
+That's a joke.
+
+[00:47:46] SPEAKER_09
+We're not.
+
+[00:47:47] SPEAKER_09
+That's not.
+
+[00:47:47] SPEAKER_09
+We're not.
+
+[00:47:48] SPEAKER_09
+That is just a joke.
+
+[00:47:49] SPEAKER_09
+Just don't misread that.
+
+[00:47:50] SPEAKER_09
+That was just a joke.
+
+[00:47:52] SPEAKER_09
+Do you know what isn't a joke?
+
+[00:47:53] SPEAKER_05
+Heavily expressed that that was just a joke.
+
+[00:47:55] SPEAKER_05
+This question by E-Teddy.
+
+[00:47:57] SPEAKER_05
+Okay.
+
+[00:47:58] SPEAKER_05
+Now that the idol has been found, will there be an anti-idol hidden at the office?
+
+[00:48:03] SPEAKER_05
+I want Jeff's field on this.
+
+[00:48:05] SPEAKER_05
+His views.
+
+[00:48:05] SPEAKER_05
+The fuck is an anti-idol?
+
+[00:48:06] SPEAKER_05
+What is an anti-idol?
+
+[00:48:08] SPEAKER_04
+They're already going to cancel it?
+
+[00:48:09] SPEAKER_04
+Yeah.
+
+[00:48:10] SPEAKER_04
+Like you cancel out the idol?
+
+[00:48:11] SPEAKER_04
+Is that a thing in Survivor?
+
+[00:48:12] SPEAKER_09
+Like a nullifier?
+
+[00:48:13] SPEAKER_09
+Yeah.
+
+[00:48:13] SPEAKER_09
+Yeah.
+
+[00:48:13] SPEAKER_09
+There are idol nullifiers.
+
+[00:48:15] SPEAKER_09
+No, I don't think so.
+
+[00:48:16] SPEAKER_09
+Is that a Survivor thing?
+
+[00:48:17] SPEAKER_09
+You can steal idols.
+
+[00:48:18] SPEAKER_09
+Not in current Survivor.
+
+[00:48:19] SPEAKER_09
+They may have done it in like season 32 or something, but not now.
+
+[00:48:22] SPEAKER_05
+I feel like they have had idol nullifiers in like the last 10 seasons.
+
+[00:48:25] SPEAKER_09
+No, I don't think in the last 10, but maybe.
+
+[00:48:29] SPEAKER_09
+They've got some weird stuff going on this season.
+
+[00:48:31] SPEAKER_09
+This week's episode was crazy.
+
+[00:48:33] SPEAKER_05
+They definitely have things where you could steal an idol if you know somebody has it.
+
+[00:48:37] SPEAKER_05
+Like you can say, hey, do you have this?
+
+[00:48:38] SPEAKER_05
+And if they have it, they have to give it to you.
+
+[00:48:41] SPEAKER_05
+Hey, do you have this?
+
+[00:48:42] SPEAKER_06
+I know Gavin has it, so give it to me.
+
+[00:48:44] SPEAKER_09
+But I think we should get through the first implementation and use of the idol before
+
+[00:48:49] SPEAKER_09
+we start screwing around with the mechanics.
+
+[00:48:51] SPEAKER_06
+Yeah, I will say that that's a great question from this fan because it would be the most
+
+[00:48:55] SPEAKER_06
+us thing is to fuck it before we even do it one time.
+
+[00:49:00] SPEAKER_05
+I kind of like going like season 20 Survivor to season 50 of Survivor where the first go
+
+[00:49:06] SPEAKER_05
+around there's like one idol and the next time of this iteration there's like 16.
+
+[00:49:11] SPEAKER_05
+There are too many idols.
+
+[00:49:12] SPEAKER_05
+There's an excessive amount.
+
+[00:49:14] SPEAKER_09
+That is a funny idea.
+
+[00:49:15] SPEAKER_09
+Like a steal, a reverse steal.
+
+[00:49:17] SPEAKER_09
+That's how you end up with somebody going home at Tribal Council who nobody voted for.
+
+[00:49:23] SPEAKER_05
+Awesome.
+
+[00:49:24] SPEAKER_05
+Get a great card if five idols have been played in one area when they can be deployed.
+
+[00:49:31] SPEAKER_05
+Moving on now to Jack McCall's question.
+
+[00:49:35] SPEAKER_05
+If you could adopt one real world IP into the regulation universe at no cost, what would
+
+[00:49:40] SPEAKER_05
+it be and why is it Ratty Boy?
+
+[00:49:42] SPEAKER_05
+Oh, it's Smashing Sportsman.
+
+[00:49:43] SPEAKER_05
+Smashing Sportsman, sure.
+
+[00:49:44] SPEAKER_05
+Smashing Sportsman, yeah.
+
+[00:49:45] SPEAKER_05
+That's a good one.
+
+[00:49:47] SPEAKER_05
+Yeah, being able to get him in a while.
+
+[00:49:49] SPEAKER_09
+Yeah, being able to get him would be really cool.
+
+[00:49:51] SPEAKER_09
+Really?
+
+[00:49:51] SPEAKER_09
+Condor Man I'd be into.
+
+[00:49:53] SPEAKER_09
+Oh, Condor Man.
+
+[00:49:55] SPEAKER_09
+Especially if we can get that ice cream back, right, Jeff?
+
+[00:49:56] SPEAKER_09
+Mmm, Condor Man Crunch.
+
+[00:49:58] SPEAKER_06
+Yum, yum, yum.
+
+[00:49:59] SPEAKER_06
+If we could get Snake Eyes.
+
+[00:50:00] SPEAKER_06
+Snake Eyes?
+
+[00:50:01] SPEAKER_06
+If we could get Snake Eyes.
+
+[00:50:02] SPEAKER_06
+Yeah.
+
+[00:50:02] SPEAKER_06
+Snake Eyes.
+
+[00:50:02] SPEAKER_06
+We could do Snake Eyes screenings and everyone would watch Snake Eyes with us.
+
+[00:50:05] SPEAKER_06
+You could come out in the suit.
+
+[00:50:06] SPEAKER_06
+We could wear the suit and go, hey, I think that'd be cool.
+
+[00:50:09] SPEAKER_06
+Tuxedo.
+
+[00:50:09] SPEAKER_06
+Yep.
+
+[00:50:10] SPEAKER_05
+I don't want to own MVP.
+
+[00:50:12] SPEAKER_06
+Oh.
+
+[00:50:17] SPEAKER_06
+Talk about it.
+
+[00:50:18] SPEAKER_06
+You reboot MVP.
+
+[00:50:19] SPEAKER_06
+Okay.
+
+[00:50:19] SPEAKER_06
+Is the monkey dead?
+
+[00:50:21] SPEAKER_06
+No.
+
+[00:50:23] SPEAKER_06
+Absolutely not.
+
+[00:50:24] SPEAKER_06
+I'm just asking.
+
+[00:50:25] SPEAKER_06
+Why would the monkey be dead?
+
+[00:50:26] SPEAKER_06
+I mean, you have the ability.
+
+[00:50:28] SPEAKER_06
+You just kill the monkey if you want to.
+
+[00:50:29] SPEAKER_06
+You kill him right now.
+
+[00:50:30] SPEAKER_06
+You make that decision.
+
+[00:50:31] SPEAKER_06
+Andrew, kill the monkey.
+
+[00:50:32] SPEAKER_06
+Andrew, kill the monkey.
+
+[00:50:33] SPEAKER_05
+Oh, I'm going to keep the monkey alive.
+
+[00:50:34] SPEAKER_05
+The monkey is in the KHL.
+
+[00:50:37] SPEAKER_05
+Monkey's in the KHL right now.
+
+[00:50:38] SPEAKER_05
+He's overseas.
+
+[00:50:40] SPEAKER_05
+He's making money there.
+
+[00:50:40] SPEAKER_07
+What if it took a bullet for someone and that's why it's dead?
+
+[00:50:44] SPEAKER_07
+Oh.
+
+[00:50:44] SPEAKER_05
+What if it's a secret service agent?
+
+[00:50:46] SPEAKER_05
+For who?
+
+[00:50:46] SPEAKER_05
+I mean, you can take a bullet and not die.
+
+[00:50:47] SPEAKER_05
+For the president.
+
+[00:50:49] SPEAKER_99
+What?
+
+[00:50:50] SPEAKER_09
+Well, it's probably Canadian, I'm assuming, because it's Andrew.
+
+[00:50:52] SPEAKER_09
+So maybe Justin Trudeau.
+
+[00:50:54] SPEAKER_06
+Yeah, the current prime minister.
+
+[00:50:56] SPEAKER_06
+Yeah, the very, very relevant Canadian.
+
+[00:50:57] SPEAKER_06
+Currently a prime minister.
+
+[00:50:58] SPEAKER_06
+Well, then he took a bullet for Katy Perry.
+
+[00:51:01] SPEAKER_06
+There you go.
+
+[00:51:01] SPEAKER_05
+I'm trying to think of, like, the most beloved.
+
+[00:51:05] SPEAKER_06
+MVP died taking a bullet for Katy Perry?
+
+[00:51:07] SPEAKER_06
+Oh, my God.
+
+[00:51:08] SPEAKER_06
+Ryan Reynolds?
+
+[00:51:11] SPEAKER_09
+Ryan Reynolds was the bullet.
+
+[00:51:12] SPEAKER_05
+Yeah.
+
+[00:51:13] SPEAKER_05
+There was a time where, like, it would be hockey-themed and it would be, like, Wayne Gretzky,
+
+[00:51:16] SPEAKER_05
+but Wayne Gretzky's stock very much down.
+
+[00:51:18] SPEAKER_06
+Yeah.
+
+[00:51:18] SPEAKER_06
+Oh, yeah.
+
+[00:51:18] SPEAKER_06
+Way, way, way, way, way down.
+
+[00:51:20] SPEAKER_06
+MVP, good IP to get, though.
+
+[00:51:22] SPEAKER_06
+Oh, yeah.
+
+[00:51:22] SPEAKER_06
+VIP.
+
+[00:51:23] SPEAKER_05
+I just want, I want to force Criterion to make an edition of the MVP movies.
+
+[00:51:27] SPEAKER_05
+I want the Criterion collection of MVP.
+
+[00:51:30] SPEAKER_05
+Why not?
+
+[00:51:31] SPEAKER_05
+All the behind the scenes.
+
+[00:51:33] SPEAKER_05
+This sort of ties in to what we talked about before, but Hayden Cole asks, are there any
+
+[00:51:39] SPEAKER_05
+road trips in the works?
+
+[00:51:41] SPEAKER_05
+Are there any you would like to do slash film?
+
+[00:51:44] SPEAKER_05
+Hey, hey.
+
+[00:51:45] SPEAKER_05
+Route 66.
+
+[00:51:45] SPEAKER_05
+Yeah, Route 66 seems to be a leading contender.
+
+[00:51:48] SPEAKER_05
+Yeah.
+
+[00:51:49] SPEAKER_05
+We're going to get our kick.
+
+[00:51:50] SPEAKER_05
+This is, next question by Michael Fairley.
+
+[00:51:54] SPEAKER_05
+Is the thing that I meant to touch on.
+
+[00:51:55] SPEAKER_05
+The Fairley Brothers?
+
+[00:51:55] SPEAKER_05
+Of course.
+
+[00:51:56] SPEAKER_05
+Yeah.
+
+[00:51:57] SPEAKER_05
+Yeah.
+
+[00:51:57] SPEAKER_05
+He's a big fan of slapstick comedy and regulation.
+
+[00:52:04] SPEAKER_05
+His question is, do you all plan on taking Dilbot on any more hotspot adventures?
+
+[00:52:10] SPEAKER_05
+Would love to see him with y'all on Mall Talkers.
+
+[00:52:12] SPEAKER_05
+If any more of these come up.
+
+[00:52:13] SPEAKER_05
+Have you seen it go up slash down escalators?
+
+[00:52:16] SPEAKER_05
+Imagine how fantastically you could go.
+
+[00:52:18] SPEAKER_05
+You could put a leash on him and everything.
+
+[00:52:20] SPEAKER_05
+We've actually been talking, Andrew, haven't we?
+
+[00:52:22] SPEAKER_05
+Gavin and I have been talking about doing more Dil, making sure that Dil can go in the
+
+[00:52:26] SPEAKER_05
+wild more.
+
+[00:52:27] SPEAKER_05
+Maybe some expansions.
+
+[00:52:29] SPEAKER_05
+But I had never considered Dil as part of Mall Talkers, and I really like that idea.
+
+[00:52:33] SPEAKER_05
+I like that idea, too.
+
+[00:52:34] SPEAKER_06
+I don't know how we would hear you, but yes.
+
+[00:52:37] SPEAKER_05
+That's the, like, yeah, I don't think it would be a thing where I'm talking.
+
+[00:52:40] SPEAKER_05
+I think I'd leave the mall talking to you guys, but I'm mall walking.
+
+[00:52:43] SPEAKER_07
+Well, you could just have an airport in with Discord open.
+
+[00:52:45] SPEAKER_05
+That's true.
+
+[00:52:46] SPEAKER_05
+I just, like, the mic setup, and I guess I'd just be howling.
+
+[00:52:51] SPEAKER_05
+I could howl.
+
+[00:52:52] SPEAKER_05
+The howls would be good.
+
+[00:52:52] SPEAKER_05
+The howls would be good.
+
+[00:52:54] SPEAKER_05
+I think that'd be a fun thing.
+
+[00:52:54] SPEAKER_07
+Yeah, I think it'd be pretty easy to glue a little hotspot to your back, so you could
+
+[00:52:57] SPEAKER_07
+just Wi-Fi to yourself and then be free to go wherever you want.
+
+[00:53:01] SPEAKER_07
+Wi-Fi to yourself.
+
+[00:53:02] SPEAKER_07
+I would be interested to see how far you could get in a single night.
+
+[00:53:07] SPEAKER_04
+Oh, wow.
+
+[00:53:08] SPEAKER_04
+I would love that.
+
+[00:53:09] SPEAKER_07
+When there's less people about.
+
+[00:53:10] SPEAKER_07
+Like, could we just start you at the Capitol and just see where you go?
+
+[00:53:14] SPEAKER_07
+You are very trusting of the public.
+
+[00:53:17] SPEAKER_07
+Well, at, like, 3 a.m., he'll be able to dodge most people, probably.
+
+[00:53:20] SPEAKER_07
+Yeah, and we'll be watching.
+
+[00:53:21] SPEAKER_04
+Maybe, yeah, maybe if we're close by.
+
+[00:53:22] SPEAKER_07
+I think in the morning, I'd rather start early in the morning and see how far I can get.
+
+[00:53:26] SPEAKER_07
+Or we could play Dilbot Bingo, where we've all got little cards and you have to find stuff.
+
+[00:53:31] SPEAKER_07
+If we, that's a good idea.
+
+[00:53:33] SPEAKER_09
+If we do it in the morning, can we glue a little tie and, like, a briefcase on him and it'll
+
+[00:53:37] SPEAKER_09
+just look like he's going to work?
+
+[00:53:38] SPEAKER_09
+Yeah.
+
+[00:53:38] SPEAKER_09
+Oh, yeah.
+
+[00:53:39] SPEAKER_05
+Absolutely.
+
+[00:53:40] SPEAKER_05
+The Dilbot commute?
+
+[00:53:41] SPEAKER_05
+I love this idea.
+
+[00:53:42] SPEAKER_05
+Great.
+
+[00:53:43] SPEAKER_05
+Dil goes to work.
+
+[00:53:45] SPEAKER_05
+To the next question.
+
+[00:53:47] SPEAKER_05
+From Bilbo Baggins, Jeff.
+
+[00:53:49] SPEAKER_05
+Bilbo Baggins and a Ferelli brother.
+
+[00:53:52] SPEAKER_05
+Fairly.
+
+[00:53:52] SPEAKER_05
+Whatever this is.
+
+[00:53:53] SPEAKER_06
+Wow.
+
+[00:53:54] SPEAKER_06
+He's trying.
+
+[00:53:55] SPEAKER_06
+He's trying, guys.
+
+[00:53:56] SPEAKER_06
+I'm doing great, Andrew.
+
+[00:53:57] SPEAKER_05
+I slept for, like, one hour last night.
+
+[00:53:59] SPEAKER_05
+I'm going to Dilbots on Fubes.
+
+[00:54:01] SPEAKER_05
+What happened to the idea, Ott?
+
+[00:54:04] SPEAKER_05
+I don't remember the name of this.
+
+[00:54:05] SPEAKER_05
+That's how they wrote it.
+
+[00:54:07] SPEAKER_05
+Seemed like an alternative to the blind side.
+
+[00:54:09] SPEAKER_05
+What did happen to that?
+
+[00:54:10] SPEAKER_05
+Remember there was the premise where Gavin has it in his hands a gauntlet for over a
+
+[00:54:15] SPEAKER_05
+year now?
+
+[00:54:16] SPEAKER_05
+Oh, and I was going to unleash it on Nick?
+
+[00:54:19] SPEAKER_05
+You can unleash it on anybody, I think.
+
+[00:54:21] SPEAKER_05
+You can unleash it on anybody.
+
+[00:54:22] SPEAKER_05
+What was it called?
+
+[00:54:23] SPEAKER_05
+It was an idiot something?
+
+[00:54:24] SPEAKER_05
+I de-idiot or something like that, I think.
+
+[00:54:28] SPEAKER_06
+Oh, this is like, oh, I forgot about that.
+
+[00:54:30] SPEAKER_06
+Idiot.
+
+[00:54:31] SPEAKER_06
+Let me look back and see if we wrote it down.
+
+[00:54:33] SPEAKER_09
+I don't remember how we said it, but, yeah, Gavin has a power that he can put on the Nick,
+
+[00:54:39] SPEAKER_09
+and then within 24 hours.
+
+[00:54:41] SPEAKER_09
+You have to, like, do, it's like a reverse blind side.
+
+[00:54:44] SPEAKER_09
+He has to come up with a show and present it, and we have to film it within 24 hours.
+
+[00:54:48] SPEAKER_06
+That was, that's what it was.
+
+[00:54:49] SPEAKER_06
+Oh, right.
+
+[00:54:50] SPEAKER_05
+And once it's done, Nick would then hold the power, and he could deploy it whenever he
+
+[00:54:53] SPEAKER_05
+wanted to, I think, on anybody.
+
+[00:54:55] SPEAKER_09
+Oh, wow.
+
+[00:54:56] SPEAKER_09
+It was called Idiot or something like that, but it was an acronym or something.
+
+[00:54:59] SPEAKER_09
+Yeah, like I-id-idiot or something.
+
+[00:55:01] SPEAKER_09
+But it wasn't that.
+
+[00:55:02] SPEAKER_06
+It was Idea Idiot, but it was, like, I-did-iet.
+
+[00:55:05] SPEAKER_06
+We talked about it.
+
+[00:55:06] SPEAKER_05
+We all were like, this is fun, and then there was a sense of, well, since Gavin has to
+
+[00:55:10] SPEAKER_05
+initiate it, this is, we're not, this isn't happening.
+
+[00:55:13] SPEAKER_05
+And so I just wanted to resurface it.
+
+[00:55:15] SPEAKER_07
+All right, it's become a new note in the top of my phone.
+
+[00:55:19] SPEAKER_07
+Okay, I'm putting it into the-
+
+[00:55:21] SPEAKER_07
+And I can do this at any point, like a blind side, right?
+
+[00:55:23] SPEAKER_07
+Yeah.
+
+[00:55:23] SPEAKER_07
+I believe so, yeah.
+
+[00:55:24] SPEAKER_07
+I think that's a good idea.
+
+[00:55:26] SPEAKER_09
+I mean, if you do it on a Saturday, then we all have to get together and film on Sunday,
+
+[00:55:29] SPEAKER_09
+so just keep that in mind, but yeah.
+
+[00:55:32] SPEAKER_09
+Interesting.
+
+[00:55:32] SPEAKER_09
+All right, it's in progress.
+
+[00:55:33] SPEAKER_05
+Idea Idiot.
+
+[00:55:34] SPEAKER_05
+Next question by Will Hawley.
+
+[00:55:36] SPEAKER_05
+What's the latest Gerpler update?
+
+[00:55:37] SPEAKER_05
+Last year, remember the Gerpler colorway.
+
+[00:55:39] SPEAKER_05
+Green, purple was due for spring and summer.
+
+[00:55:41] SPEAKER_06
+Just came out.
+
+[00:55:45] SPEAKER_06
+Like the next quarter, maybe, maybe like later in like the fall, but you just missed it.
+
+[00:55:49] SPEAKER_09
+This is a great point, though.
+
+[00:55:51] SPEAKER_09
+It did just come out, but we have to plan these things three to four to five months in advance,
+
+[00:55:57] SPEAKER_09
+and that's a good reminder that we should probably figure out what the next Gerpler is if we're
+
+[00:56:02] SPEAKER_09
+going to make another one, because if we want it by September, we need to order it now.
+
+[00:56:06] SPEAKER_09
+That's a great point.
+
+[00:56:07] SPEAKER_09
+Yeah.
+
+[00:56:08] SPEAKER_05
+Have to get in the lab.
+
+[00:56:09] SPEAKER_09
+Figure that out.
+
+[00:56:10] SPEAKER_05
+We need to get in the Gerpler lab.
+
+[00:56:12] SPEAKER_05
+Gerpler lab.
+
+[00:56:13] SPEAKER_05
+Next question by Joey King.
+
+[00:56:14] SPEAKER_05
+Andrew's computer course slash walkthrough coming when we need it.
+
+[00:56:18] SPEAKER_05
+I added this because Gavin and I, it's possible soon.
+
+[00:56:22] SPEAKER_05
+I'm looking at a situation.
+
+[00:56:24] SPEAKER_05
+Yeah.
+
+[00:56:25] SPEAKER_05
+Potentially.
+
+[00:56:26] SPEAKER_07
+I felt like you didn't want to do it anymore.
+
+[00:56:28] SPEAKER_05
+We talked to you.
+
+[00:56:29] SPEAKER_05
+I messaged you about a scenario in which I might have a computer that I would like to go through
+
+[00:56:34] SPEAKER_05
+a setup with you.
+
+[00:56:35] SPEAKER_05
+Oh.
+
+[00:56:35] SPEAKER_05
+Optimizing it.
+
+[00:56:36] SPEAKER_05
+So we'll see.
+
+[00:56:38] SPEAKER_06
+It's a possibility.
+
+[00:56:38] SPEAKER_06
+Is it a computer that you have that you possibly want to optimize maybe?
+
+[00:56:43] SPEAKER_06
+Yeah.
+
+[00:56:44] SPEAKER_05
+It's not definitive if I'll get it or not, but there is a scenario in which I end up with
+
+[00:56:48] SPEAKER_05
+a goofy computer, and I think I would love to go through with Gavin and have him try
+
+[00:56:54] SPEAKER_05
+to help me set it up in a current context.
+
+[00:56:57] SPEAKER_09
+Is this a computer you're getting from a celebrity or a famous person?
+
+[00:57:02] SPEAKER_05
+Potentially.
+
+[00:57:02] SPEAKER_09
+Okay.
+
+[00:57:02] SPEAKER_09
+This is insane.
+
+[00:57:05] SPEAKER_09
+I'm very excited.
+
+[00:57:05] SPEAKER_06
+This is crazy.
+
+[00:57:07] SPEAKER_09
+He's been a little menace on a fucking cameo trying to convince celebrities to give him
+
+[00:57:11] SPEAKER_09
+Game Boys and stuff.
+
+[00:57:12] SPEAKER_06
+This is also, I want to say, I guess putting Andrew on blast, this is the best way where
+
+[00:57:19] SPEAKER_06
+Andrew can get this thing done so he's off the hook for it without actually having to
+
+[00:57:24] SPEAKER_06
+do the thing that was originally pitched.
+
+[00:57:26] SPEAKER_07
+Because I feel like we would get a four-part series from me just watching you use your computer
+
+[00:57:33] SPEAKER_07
+for 10 minutes.
+
+[00:57:34] SPEAKER_06
+But now we're going to go through, like, we're going to go through, like, Jean-Luc Picard's
+
+[00:57:39] SPEAKER_06
+like, 486.
+
+[00:57:41] SPEAKER_06
+Yeah, right?
+
+[00:57:42] SPEAKER_06
+Like, I mean, congratulations, Andrew.
+
+[00:57:45] SPEAKER_06
+You figured it out.
+
+[00:57:46] SPEAKER_05
+Yeah.
+
+[00:57:46] SPEAKER_05
+Oh, I mean, you know, to be honest, the evolution of the problem of the idea originally was realizing
+
+[00:57:50] SPEAKER_05
+that I have, like, all of my personal information on my computer just blindly looking around
+
+[00:57:55] SPEAKER_05
+felt like a data and or security risk for multiple reasons.
+
+[00:57:59] SPEAKER_05
+Do you have all your personal stuff on the work computer?
+
+[00:58:02] SPEAKER_05
+This was before, it was just, I was using the computer I had.
+
+[00:58:06] SPEAKER_05
+This was the Mac I had from, like, 2012.
+
+[00:58:09] SPEAKER_05
+Oh, I see.
+
+[00:58:09] SPEAKER_05
+So now I don't on my current work computer, but the one that we wanted to do on, I absolutely
+
+[00:58:14] SPEAKER_05
+did.
+
+[00:58:15] SPEAKER_09
+I don't even, I don't even, I don't know if I've ever opened a browser on my work computer
+
+[00:58:19] SPEAKER_09
+at home.
+
+[00:58:19] SPEAKER_05
+Next question is from Will, of all the lore the show has created, which is your favorite?
+
+[00:58:27] SPEAKER_05
+Oh, I really like the time machine.
+
+[00:58:30] SPEAKER_05
+I'm a big fan of the time machine.
+
+[00:58:32] SPEAKER_05
+Yeah.
+
+[00:58:32] SPEAKER_05
+But we still don't use it right.
+
+[00:58:34] SPEAKER_05
+What do you mean?
+
+[00:58:34] SPEAKER_05
+No, but I still, I just, I really like the idea that we have it.
+
+[00:58:37] SPEAKER_05
+I think there's so many other uses we could have with it.
+
+[00:58:40] SPEAKER_05
+Like, I think we could expand on it in a lot of interesting ways.
+
+[00:58:43] SPEAKER_05
+I just get a lot of joy out of the time machine.
+
+[00:58:45] SPEAKER_05
+And I think as, even though maybe we haven't used it to its fullest, it has a lot of possibility.
+
+[00:58:52] SPEAKER_05
+That makes me excited.
+
+[00:58:53] SPEAKER_05
+Huh.
+
+[00:58:54] SPEAKER_05
+What about you guys?
+
+[00:58:55] SPEAKER_06
+I can't believe somebody likes the time machine that much.
+
+[00:58:57] SPEAKER_06
+Yeah.
+
+[00:58:57] SPEAKER_06
+I'd love to say of all the lore, that's the lore they got.
+
+[00:58:59] SPEAKER_05
+We talked about doing like a fun thing of like a 1960s style regulation episode, like
+
+[00:59:04] SPEAKER_05
+going in the past.
+
+[00:59:05] SPEAKER_05
+I think if we wanted to sell old merch, that would be a fun like way to do it.
+
+[00:59:09] SPEAKER_05
+Like, it just leads to so many things.
+
+[00:59:12] SPEAKER_09
+For me, I think it's got to be Deputy Indiana and triangulating the center of the regulation
+
+[00:59:18] SPEAKER_09
+universe.
+
+[00:59:19] SPEAKER_09
+And I still would like to, at some point, just ideas for the undefined future, have a
+
+[00:59:24] SPEAKER_09
+concrete obelisk made and then buy a plot of land and erect it there.
+
+[00:59:28] SPEAKER_06
+The dog's going to piss on it.
+
+[00:59:30] SPEAKER_09
+I know.
+
+[00:59:30] SPEAKER_09
+That's what I'm hoping to happen.
+
+[00:59:31] SPEAKER_09
+The point?
+
+[00:59:32] SPEAKER_06
+Oh, no.
+
+[00:59:32] SPEAKER_09
+Maybe that's the thing.
+
+[00:59:33] SPEAKER_07
+Like, people will come from around the world to piss on our statue.
+
+[00:59:35] SPEAKER_07
+I think one of my favorite parts of that trip to Deputy in the video was when Eric
+
+[00:59:40] SPEAKER_07
+put the ball down by the sign and then he gets in the car and goes, get me out of here.
+
+[00:59:51] SPEAKER_07
+Yeah.
+
+[00:59:52] SPEAKER_07
+It was an absolutely terrifying little place.
+
+[00:59:55] SPEAKER_07
+Yeah.
+
+[00:59:57] SPEAKER_06
+We're just not from like small towns and it's been a long time since I've been in a small
+
+[01:00:02] SPEAKER_06
+town.
+
+[01:00:03] SPEAKER_06
+You know what I mean?
+
+[01:00:04] SPEAKER_06
+Yeah.
+
+[01:00:04] SPEAKER_06
+Like, Jeff, you might be from a small town, but you're not fram a small town.
+
+[01:00:08] SPEAKER_06
+Yeah.
+
+[01:00:08] SPEAKER_06
+I'm not fram a small town.
+
+[01:00:09] SPEAKER_06
+You're right about that.
+
+[01:00:10] SPEAKER_06
+Like, that's, that's what I mean.
+
+[01:00:11] SPEAKER_09
+I'm of a small town, but I'm not fram one.
+
+[01:00:13] SPEAKER_09
+Yeah.
+
+[01:00:15] SPEAKER_06
+To me, that's, that's the thing that I just like, I just don't need to be there anymore.
+
+[01:00:21] SPEAKER_09
+The, there is nothing more dangerous than small town people.
+
+[01:00:26] SPEAKER_09
+They're curious and you're in their space.
+
+[01:00:29] SPEAKER_06
+They're, they're, it's not a good combination.
+
+[01:00:33] SPEAKER_06
+Curious is a positive spin on it.
+
+[01:00:35] SPEAKER_06
+Yes, it is.
+
+[01:00:36] SPEAKER_06
+A hundred percent.
+
+[01:00:37] SPEAKER_06
+They all lost.
+
+[01:00:38] SPEAKER_06
+I think my favorite, some of my favorite pieces of regulation, I'm thinking about it
+
+[01:00:45] SPEAKER_06
+and it makes me laugh, is Andrew's fucking Umi Digi.
+
+[01:00:49] SPEAKER_06
+Yes.
+
+[01:00:49] SPEAKER_06
+Yes.
+
+[01:00:50] SPEAKER_06
+And then when he gets fucked up internet, he tells Umi Digi about his bits.
+
+[01:00:57] SPEAKER_06
+And I don't, it's been years of doing this show.
+
+[01:01:02] SPEAKER_06
+I still don't fully understand what it means, but I just have to like, go along with bits.
+
+[01:01:10] SPEAKER_06
+Yeah.
+
+[01:01:11] SPEAKER_06
+I'm out of bits.
+
+[01:01:12] SPEAKER_06
+I'm low on bits.
+
+[01:01:13] SPEAKER_06
+I'm using my bits.
+
+[01:01:14] SPEAKER_06
+What are your bits?
+
+[01:01:15] SPEAKER_06
+Is it just data?
+
+[01:01:17] SPEAKER_06
+Yeah, it's data.
+
+[01:01:17] SPEAKER_06
+It's the bits.
+
+[01:01:18] SPEAKER_05
+The BTS, BTS, right?
+
+[01:01:20] SPEAKER_05
+BTS.
+
+[01:01:21] SPEAKER_05
+Oh no.
+
+[01:01:24] SPEAKER_05
+I just got a text yesterday saying I was out of bits.
+
+[01:01:27] SPEAKER_05
+What's the current situation?
+
+[01:01:29] SPEAKER_05
+How did they send it to you?
+
+[01:01:29] SPEAKER_05
+You didn't have any bits right?
+
+[01:01:31] SPEAKER_05
+You know what's crazy is I was on Wi-Fi.
+
+[01:01:33] SPEAKER_05
+It was like 1 a.m.
+
+[01:01:34] SPEAKER_05
+And they said, hey, you're out of bits.
+
+[01:01:35] SPEAKER_05
+And I was like, what?
+
+[01:01:37] SPEAKER_05
+Are you on the, yeah.
+
+[01:01:38] SPEAKER_05
+What's the status of the BTS sauce?
+
+[01:01:40] SPEAKER_05
+I had to get rid of it.
+
+[01:01:42] SPEAKER_05
+It's gone.
+
+[01:01:42] SPEAKER_05
+Oh no.
+
+[01:01:43] SPEAKER_05
+It's gone.
+
+[01:01:43] SPEAKER_05
+It's gone.
+
+[01:01:45] SPEAKER_05
+That is sad.
+
+[01:01:45] SPEAKER_07
+That is a shame.
+
+[01:01:46] SPEAKER_07
+I think my favorite lore is the stuff that ends up in discussion in the community where
+
+[01:01:52] SPEAKER_07
+people are trying to use it with each other.
+
+[01:01:55] SPEAKER_07
+So they're like, oh, does this thing mean he's like from here, but from here?
+
+[01:01:59] SPEAKER_07
+And then there's a whole argument about it.
+
+[01:02:01] SPEAKER_07
+Yeah.
+
+[01:02:01] SPEAKER_07
+And then they, and then the audience starts to look to us as the authority.
+
+[01:02:04] SPEAKER_07
+And even we don't truly know what's going on.
+
+[01:02:07] SPEAKER_06
+Especially, I think the, I think the hardest part of that is when we have to batch record
+
+[01:02:12] SPEAKER_06
+episodes.
+
+[01:02:12] SPEAKER_06
+So we're two weeks out from something and I don't remember a conversation.
+
+[01:02:16] SPEAKER_06
+I'm just like, what are these people talking about, about what we're talking about?
+
+[01:02:20] SPEAKER_06
+Like I dude, so removed from it.
+
+[01:02:23] SPEAKER_06
+It's so hard.
+
+[01:02:23] SPEAKER_09
+Oh, another great one is somehow Goof World existed, but somehow Andrew mentioning the
+
+[01:02:30] SPEAKER_09
+phrase Valley of Interest.
+
+[01:02:31] SPEAKER_09
+Yeah.
+
+[01:02:32] SPEAKER_09
+I feel like turned Goof World into a tangible navigable place in my mind.
+
+[01:02:37] SPEAKER_09
+Yeah.
+
+[01:02:37] SPEAKER_09
+Yeah.
+
+[01:02:37] SPEAKER_09
+Like because of that one phrase, it forced a flushing out of Goof World into something
+
+[01:02:43] SPEAKER_09
+so much greater than it started as.
+
+[01:02:45] SPEAKER_07
+It added like four physical walls to a 3D space.
+
+[01:02:47] SPEAKER_09
+Yeah.
+
+[01:02:47] SPEAKER_04
+Absolutely.
+
+[01:02:48] SPEAKER_04
+Yeah.
+
+[01:02:48] SPEAKER_04
+I'm a big fan of the lore of technical difficulties.
+
+[01:02:51] SPEAKER_04
+And it used to, I feel like apply to Andrew in particular, I always loved his setup and
+
+[01:02:57] SPEAKER_04
+like figuring that out and like how to work certain things, but it's happened with all
+
+[01:03:00] SPEAKER_04
+of us now, especially in episode 100.
+
+[01:03:02] SPEAKER_04
+And so I just love that it's kind of, again, contagious and has spread to the rest of us
+
+[01:03:07] SPEAKER_04
+on some level at some point.
+
+[01:03:09] SPEAKER_04
+And it's just like a funny thing that we can turn into amusement at least and not lose
+
+[01:03:14] SPEAKER_04
+a video or an audio piece.
+
+[01:03:15] SPEAKER_09
+This is more of a behind the scenes lore, but I'm a big fan of the starter pistol.
+
+[01:03:19] SPEAKER_09
+Oh, starter pistol has been really good, Jeff.
+
+[01:03:20] SPEAKER_09
+That's a great, that's a great gun has been a lot of fun.
+
+[01:03:23] SPEAKER_06
+It's a good purchase, man.
+
+[01:03:24] SPEAKER_07
+It's a good smell every time you fire it.
+
+[01:03:25] SPEAKER_07
+Nick did have it this morning, which is why I used it.
+
+[01:03:29] SPEAKER_06
+It's for everybody.
+
+[01:03:30] SPEAKER_06
+It's not my gun.
+
+[01:03:30] SPEAKER_06
+Why are you so concerned about having the starter pistol?
+
+[01:03:33] SPEAKER_06
+It's not loaded.
+
+[01:03:34] SPEAKER_07
+I don't know.
+
+[01:03:34] SPEAKER_06
+And it's a hundred percent loaded with caps.
+
+[01:03:38] SPEAKER_06
+Gavin's just so worried about it.
+
+[01:03:40] SPEAKER_06
+Gavin, why don't you do the next one?
+
+[01:03:40] SPEAKER_07
+No, it just made me jealous.
+
+[01:03:41] SPEAKER_07
+And I feel like maybe we should all have our own sinking gun.
+
+[01:03:43] SPEAKER_06
+Can we all, can we pick one?
+
+[01:03:44] SPEAKER_06
+Cause I think I just picked mine.
+
+[01:03:46] SPEAKER_06
+I just looked and I think I want it.
+
+[01:03:47] SPEAKER_09
+Yeah.
+
+[01:03:47] SPEAKER_09
+Uh, they're about 40 bucks each, but they go, that's what you think.
+
+[01:03:51] SPEAKER_09
+But you can spend more.
+
+[01:03:52] SPEAKER_06
+This one's 400.
+
+[01:03:53] SPEAKER_06
+I think I found one that is a rifle and it's a mini cap gun from Cabela.
+
+[01:03:59] SPEAKER_06
+And it's a little carbine repeater.
+
+[01:04:01] SPEAKER_06
+It's eight bucks.
+
+[01:04:02] SPEAKER_06
+Oh, hell yeah.
+
+[01:04:03] SPEAKER_06
+You bought the Cabela's.
+
+[01:04:04] SPEAKER_07
+What's the legality of firing a blank?
+
+[01:04:08] SPEAKER_06
+I don't, I don't know that you can.
+
+[01:04:11] SPEAKER_06
+Okay.
+
+[01:04:12] SPEAKER_05
+Good to know.
+
+[01:04:13] SPEAKER_05
+Are you thinking like a Yosemite Sam situation or like, what's the context of you firing
+
+[01:04:17] SPEAKER_05
+these blanks?
+
+[01:04:18] SPEAKER_05
+I just wanted a sinking gun that was louder than Jeff's.
+
+[01:04:20] SPEAKER_06
+Oh, that would be louder.
+
+[01:04:23] SPEAKER_06
+That would definitely be louder.
+
+[01:04:24] SPEAKER_06
+Definitely be louder.
+
+[01:04:25] SPEAKER_09
+Uh, hold on.
+
+[01:04:26] SPEAKER_09
+Let me put my earplugs in.
+
+[01:04:27] SPEAKER_09
+We got to sink.
+
+[01:04:30] SPEAKER_05
+Next question from Richard.
+
+[01:04:33] SPEAKER_05
+Any ideas of merch you would like to do in the future?
+
+[01:04:35] SPEAKER_05
+I have one.
+
+[01:04:37] SPEAKER_05
+Okay.
+
+[01:04:38] SPEAKER_05
+This is, this is a Gavin annoyance or not Gavin is Andrew friction.
+
+[01:04:41] SPEAKER_05
+I was going to talk to Gavin about, Oh, I have a problem with my Gerpler.
+
+[01:04:47] SPEAKER_05
+I love my Gerplers, my main cup, but it's so big and I want to get the maximum amount
+
+[01:04:51] SPEAKER_05
+of water every time I use it, but I also have shaky hands.
+
+[01:04:57] SPEAKER_05
+And so I'll, I'll refill it up in the bathroom.
+
+[01:05:00] SPEAKER_05
+And by the time I get back to my desk, it feels like I've dropped the liter of water on
+
+[01:05:04] SPEAKER_05
+the floor and like the six feet, but then I'll look at the cup and like barely any water
+
+[01:05:08] SPEAKER_05
+has come out.
+
+[01:05:09] SPEAKER_05
+I'd love a Gerpler lid of some kind.
+
+[01:05:12] SPEAKER_09
+So it's been discussed in the past.
+
+[01:05:14] SPEAKER_09
+It would be called a Liddler and I think you could do it.
+
+[01:05:18] SPEAKER_09
+I also hear that like a lot of the, like a fast food, Wendy's large goes on top.
+
+[01:05:24] SPEAKER_09
+Yeah, we'll go on.
+
+[01:05:25] SPEAKER_09
+We could, we could do that if there's genuine demand for it, but I don't, I worry like I
+
+[01:05:30] SPEAKER_06
+like the Gerpler.
+
+[01:05:32] SPEAKER_06
+I think it's great.
+
+[01:05:33] SPEAKER_06
+I worry that selling a lid is maybe a little bit too much.
+
+[01:05:37] SPEAKER_06
+Like what the fuck are we doing here?
+
+[01:05:39] SPEAKER_06
+A little cash grabby?
+
+[01:05:40] SPEAKER_06
+Yeah.
+
+[01:05:40] SPEAKER_06
+Yeah.
+
+[01:05:40] SPEAKER_06
+Because we're selling a lid.
+
+[01:05:42] SPEAKER_06
+Because I'm selling water all the time.
+
+[01:05:44] SPEAKER_06
+I would like have a legitimate use for it.
+
+[01:05:46] SPEAKER_06
+Yeah.
+
+[01:05:46] SPEAKER_06
+I mean, it just makes me kind of like, I don't really know, man.
+
+[01:05:49] SPEAKER_09
+If enough people honestly wanted it, I'd be okay with it, but it does feel a little,
+
+[01:05:53] SPEAKER_09
+I don't know, like, like people making backpacks for a Stanley.
+
+[01:05:56] SPEAKER_09
+You know, I understand it has a personal, it has an absolute use.
+
+[01:05:59] SPEAKER_09
+I agree.
+
+[01:06:00] SPEAKER_09
+But it just feels like, I don't know, it's like trying to resell the Gerpler to people
+
+[01:06:03] SPEAKER_07
+in some way.
+
+[01:06:04] SPEAKER_07
+What if the lid was also a coaster?
+
+[01:06:07] SPEAKER_05
+Oh, I don't need a coaster.
+
+[01:06:09] SPEAKER_05
+I just need something that prevents me from spilling water when I'm trying to walk with
+
+[01:06:12] SPEAKER_05
+my Gerpler.
+
+[01:06:13] SPEAKER_09
+How would that work?
+
+[01:06:14] SPEAKER_09
+In that vein, a piece of merchandise that I would someday like to revisit, but I don't
+
+[01:06:19] SPEAKER_09
+think there's any traction or any desire on anyone else.
+
+[01:06:23] SPEAKER_09
+And I don't think any of you even know this, maybe, but we made a straw many years
+
+[01:06:27] SPEAKER_09
+ago at F*** Face, and it was a F*** Face Silly Straw, right?
+
+[01:06:30] SPEAKER_09
+Oh, yeah.
+
+[01:06:31] SPEAKER_09
+The initial idea when I pitched it, and somehow it got twisted, but I wanted it to be called
+
+[01:06:36] SPEAKER_09
+the Slurpler, and I wanted it to just say Slurp, or Slurpler, not F*** Face.
+
+[01:06:42] SPEAKER_09
+And somehow that got contorted into being a F*** Face Straw, and I thought that was funny
+
+[01:06:46] SPEAKER_09
+enough that I didn't say anything about it.
+
+[01:06:47] SPEAKER_09
+But I would love to someday still make a Slurpler.
+
+[01:06:51] SPEAKER_09
+Yeah, I think it should be a wider, a wider straw.
+
+[01:06:53] SPEAKER_09
+So, could do a wider straw.
+
+[01:06:55] SPEAKER_09
+What if the straw is almost as wide as the cup?
+
+[01:06:57] SPEAKER_09
+Has anybody ever made a straw that just fits in the cup, the mouth of a cup?
+
+[01:07:02] SPEAKER_06
+So how would you drink that?
+
+[01:07:03] SPEAKER_06
+Just get your mouth that?
+
+[01:07:04] SPEAKER_06
+Carefully.
+
+[01:07:05] SPEAKER_04
+Carefully.
+
+[01:07:06] SPEAKER_04
+Fat straw.
+
+[01:07:07] SPEAKER_04
+What about a regulation alarm clock?
+
+[01:07:09] SPEAKER_06
+Well, we've done clocks once before, and nobody bought them, and when they were gone, everyone
+
+[01:07:14] SPEAKER_06
+wanted them.
+
+[01:07:15] SPEAKER_06
+So I don't really know how I feel about it, but if you guys are into it, I can do it.
+
+[01:07:18] SPEAKER_04
+What if it's a pinball game that's an alarm clock?
+
+[01:07:23] SPEAKER_09
+You have to score a threshold to go back to sleep?
+
+[01:07:25] SPEAKER_09
+Yeah.
+
+[01:07:26] SPEAKER_09
+I'm never snoozing.
+
+[01:07:28] SPEAKER_09
+Neither will Gavin.
+
+[01:07:30] SPEAKER_09
+But there's nothing that comes to mind outside of that that's like a burning desire.
+
+[01:07:34] SPEAKER_06
+I feel like we do a good amount of merch without overdoing it.
+
+[01:07:37] SPEAKER_06
+I do worry that we're going to get, again, it's the thing of the 100% completion that
+
+[01:07:44] SPEAKER_06
+people have.
+
+[01:07:44] SPEAKER_06
+I just worry about them specifically.
+
+[01:07:46] SPEAKER_09
+Yeah.
+
+[01:07:46] SPEAKER_09
+When it comes to the merch, and we've talked about this a lot in the past, but it has to
+
+[01:07:51] SPEAKER_09
+make sense within the context of what we're doing, or there's no point in making it.
+
+[01:07:55] SPEAKER_09
+And it has to, I think, enhance what we're doing in some way.
+
+[01:07:59] SPEAKER_09
+So that's why you don't see a bunch of just regulation t-shirts with different colorways,
+
+[01:08:03] SPEAKER_09
+or you know what I mean?
+
+[01:08:04] SPEAKER_09
+That kind of stuff.
+
+[01:08:05] SPEAKER_09
+Yeah.
+
+[01:08:05] SPEAKER_09
+And so I just want to continue to be intentional.
+
+[01:08:07] SPEAKER_09
+And there's nothing that's presented itself as an idea in the last few months, at least
+
+[01:08:14] SPEAKER_09
+to me, that is screaming to be turned into some sort of clever piece of merchandise.
+
+[01:08:18] SPEAKER_07
+I guess I'm slightly curious as to what happens with the next coin.
+
+[01:08:24] SPEAKER_07
+Because obviously, once we sell out, we have to flip the coins again.
+
+[01:08:26] SPEAKER_07
+That's true.
+
+[01:08:27] SPEAKER_06
+Honestly, at this rate, we may never know.
+
+[01:08:29] SPEAKER_09
+We probably flipped the coin already this week, because I'm assuming it's sold out hopefully
+
+[01:08:33] SPEAKER_07
+during the anniversary.
+
+[01:08:35] SPEAKER_07
+Yeah.
+
+[01:08:35] SPEAKER_07
+Maybe people stuck them in with their bigger orders.
+
+[01:08:37] SPEAKER_07
+I think it's quite difficult to sell a coin on its own, because shipping will be more than
+
+[01:08:41] SPEAKER_07
+the coin.
+
+[01:08:41] SPEAKER_07
+Oh, yeah.
+
+[01:08:41] SPEAKER_07
+For sure.
+
+[01:08:42] SPEAKER_06
+Which, again, I want to make clear, we don't control.
+
+[01:08:44] SPEAKER_06
+Just letting you know.
+
+[01:08:45] SPEAKER_06
+I'm just saying it.
+
+[01:08:46] SPEAKER_06
+But also, Jeff's Never Learn shirt is totally sold out.
+
+[01:08:48] SPEAKER_06
+That's ridiculous.
+
+[01:08:49] SPEAKER_06
+Yeah.
+
+[01:08:50] SPEAKER_06
+Plenty of Ratty Boy shirts still in the store.
+
+[01:08:53] SPEAKER_06
+If you get any size you want, literally any size on the Ratty Boy shirts, any size, any
+
+[01:08:59] SPEAKER_06
+of them, any size that you want, grab it now.
+
+[01:09:01] SPEAKER_09
+Never Learn is a great example.
+
+[01:09:04] SPEAKER_09
+Give Dumb a Try was a funny joke.
+
+[01:09:06] SPEAKER_09
+Never Learn was stretching that funny joke as far as I thought I could.
+
+[01:09:09] SPEAKER_09
+And now we're done.
+
+[01:09:10] SPEAKER_09
+There's not going to be another shirt behind it to get you to buy a third shirt.
+
+[01:09:13] SPEAKER_05
+Like, we're not going to do that.
+
+[01:09:15] SPEAKER_05
+Yeah.
+
+[01:09:16] SPEAKER_05
+And the last question by Perharderis.
+
+[01:09:19] SPEAKER_05
+This is a serious sports question for Gavin, of all people.
+
+[01:09:23] SPEAKER_05
+Oh, shit.
+
+[01:09:23] SPEAKER_05
+I'm excited about it.
+
+[01:09:24] SPEAKER_05
+I just want to ask Gavin what he thinks of his Spurs getting relegated.
+
+[01:09:28] SPEAKER_06
+I had a feeling someone was going to ask this.
+
+[01:09:30] SPEAKER_06
+Oh, wow.
+
+[01:09:31] SPEAKER_07
+Yeah, I watched them play, what did they play?
+
+[01:09:34] SPEAKER_07
+They were like Bournemouth or something.
+
+[01:09:35] SPEAKER_07
+They lost.
+
+[01:09:37] SPEAKER_07
+Or they were winning.
+
+[01:09:38] SPEAKER_07
+It happens a lot to Kings that are relegating.
+
+[01:09:40] SPEAKER_07
+It was like a 95th minute tie, which would have got them out of relegation or something.
+
+[01:09:45] SPEAKER_07
+But then they didn't.
+
+[01:09:46] SPEAKER_07
+It was tragic.
+
+[01:09:47] SPEAKER_07
+What's happened to the team, Gavin?
+
+[01:09:49] SPEAKER_07
+Well, I don't know.
+
+[01:09:50] SPEAKER_07
+I've not really been to a Spurs game since like 2012.
+
+[01:09:54] SPEAKER_07
+So it's evolved a lot.
+
+[01:09:55] SPEAKER_07
+I had a picture that I took of me watching, actually.
+
+[01:09:58] SPEAKER_07
+Does it become more affordable to get a games if they get relegated?
+
+[01:10:01] SPEAKER_07
+I don't know what happens.
+
+[01:10:02] SPEAKER_07
+It's such a big team.
+
+[01:10:03] SPEAKER_07
+I can't imagine how you operate a team with so much less money.
+
+[01:10:06] SPEAKER_09
+Do you also, do you buy season tickets at a price and then your team gets relegated?
+
+[01:10:11] SPEAKER_09
+And you're like, well, I'd like a partial fucking discount.
+
+[01:10:15] SPEAKER_07
+Like half the waitlist disappears.
+
+[01:10:16] SPEAKER_07
+I don't know.
+
+[01:10:17] SPEAKER_07
+I don't know how it works.
+
+[01:10:18] SPEAKER_07
+I've never seen such a big team get relegated.
+
+[01:10:20] SPEAKER_07
+And I don't think they've ever not been in the top league.
+
+[01:10:23] SPEAKER_06
+Well, hopefully they can fight back and get back to it next year, you know?
+
+[01:10:26] SPEAKER_06
+One day.
+
+[01:10:27] SPEAKER_05
+Yeah.
+
+[01:10:27] SPEAKER_06
+Good luck to them.
+
+[01:10:28] SPEAKER_05
+Good luck to them.
+
+[01:10:30] SPEAKER_05
+And good saucer talk by us, I'd say.
+
+[01:10:33] SPEAKER_05
+We dusted it off.
+
+[01:10:34] SPEAKER_05
+I feel really good.
+
+[01:10:35] SPEAKER_05
+And we covered a lot.
+
+[01:10:37] SPEAKER_06
+Dusty sausage.
+
+[01:10:38] SPEAKER_09
+These sausage talks are coming at you less frequently as the company continues to grow.
+
+[01:10:44] SPEAKER_09
+And that's just a function of, I think, us figuring stuff out and having less to discuss.
+
+[01:10:50] SPEAKER_09
+Because believe it or not, I feel like here too, we were close to a well-oiled machine in a lot of ways.
+
+[01:10:56] SPEAKER_09
+It's surprising.
+
+[01:10:57] SPEAKER_06
+I don't know that I'd say that, but I do think that we've been more on top of things.
+
+[01:11:01] SPEAKER_06
+I don't know that I, listen, I don't think I'd call us a well-oiled machine.
+
+[01:11:04] SPEAKER_06
+It's getting closer.
+
+[01:11:07] SPEAKER_06
+You know, but hey, we are getting closer.
+
+[01:11:09] SPEAKER_06
+You're right.
+
+[01:11:09] SPEAKER_06
+I will agree with that, Nick.
+
+[01:11:10] SPEAKER_05
+I feel like we're going fast enough now that the car is no longer on fire, but it's still, the vehicle's still figuring it out.
+
+[01:11:17] SPEAKER_06
+Yeah.
+
+[01:11:18] SPEAKER_09
+That's got a roof.
+
+[01:11:19] SPEAKER_09
+There's air conditioning.
+
+[01:11:20] SPEAKER_09
+We're listening to music.
+
+[01:11:21] SPEAKER_09
+We might not have doors yet, but I feel safe.
+
+[01:11:25] SPEAKER_06
+We're in a Jeep.
+
+[01:11:26] SPEAKER_06
+We're in a Jeep, boys.
+
+[01:11:27] SPEAKER_06
+I do like where we're at, and I'm excited to keep doing this for, you know.
+
+[01:11:32] SPEAKER_06
+The rest of your life.
+
+[01:11:33] SPEAKER_06
+Yeah, hopefully.
+
+[01:11:34] SPEAKER_06
+I mean.
+
+[01:11:34] SPEAKER_06
+Ideally.
+
+[01:11:35] SPEAKER_06
+Yeah, fingers crossed.
+
+[01:11:36] SPEAKER_06
+That's what I'm hoping for.
+
+[01:11:38] SPEAKER_06
+But it is, it's been a lot of fun.
+
+[01:11:41] SPEAKER_06
+I'm excited to keep doing it, and I do hope we can get to more sausage talks again, because the.
+
+[01:11:45] SPEAKER_06
+Absolutely.
+
+[01:11:46] SPEAKER_06
+Sausage talks have been good.
+
+[01:11:47] SPEAKER_06
+Totally.
+
+[01:11:47] SPEAKER_07
+It is a lot of fun.
+
+[01:11:48] SPEAKER_07
+Yeah.
+
+[01:11:48] SPEAKER_07
+If instead of counting up each year, we were counting down, what do you think, what would you hope the number is?
+
+[01:11:52] SPEAKER_06
+Jeff.
+
+[01:11:53] SPEAKER_07
+Jeff.
+
+[01:11:54] SPEAKER_07
+72.
+
+[01:11:55] SPEAKER_07
+Okay.
+
+[01:11:57] SPEAKER_07
+Next year, it'll be 71.
+
+[01:11:58] SPEAKER_07
+Yeah.
+
+[01:11:58] SPEAKER_07
+Okay.
+
+[01:11:59] SPEAKER_06
+Okay.
+
+[01:12:00] SPEAKER_06
+Easy as that.
+
+[01:12:01] SPEAKER_06
+So, I'm going to keep counting up, but if you guys want to count down from there, go for it.
+
+[01:12:04] SPEAKER_08
+What do you think you're counting down from, Jeff?
+
+[01:12:07] SPEAKER_08
+Oh, at least nine.
+
+[01:12:09] SPEAKER_08
+That's defeatist.
+
+[01:12:10] SPEAKER_08
+That'd be a great run, wouldn't it?
+
+[01:12:12] SPEAKER_08
+No.
+
+[01:12:13] SPEAKER_08
+I would want to do at least as long as Rooster Teeth.
+
+[01:12:15] SPEAKER_08
+I'll try to beat that.
+
+[01:12:16] SPEAKER_08
+There's 19 left.
+
+[01:12:17] SPEAKER_04
+No kidding.
+
+[01:12:17] SPEAKER_04
+Isn't 72 past all of our life?
+
+[01:12:20] SPEAKER_04
+Yeah.
+
+[01:12:21] SPEAKER_06
+We know that Archie can do Let's Plays.
+
+[01:12:23] SPEAKER_06
+He's better than you are.
+
+[01:12:25] SPEAKER_06
+He can get on there, and he's going to get fired up, dude.
+
+[01:12:27] SPEAKER_04
+He's better at the game.
+
+[01:12:28] SPEAKER_04
+He's not.
+
+[01:12:31] SPEAKER_06
+Well, thanks for listening, guys.
+
+[01:12:33] SPEAKER_06
+Thank you so much.
+
+[01:12:33] SPEAKER_06
+Thank you for another great anniversary.
+
+[01:12:34] SPEAKER_06
+Thank you so much for year two.
+
+[01:12:35] SPEAKER_06
+This has been a lot of fun.
+
+[01:12:36] SPEAKER_06
+Thanks, y'all.
+
+[01:12:37] SPEAKER_06
+Couldn't do it without you.
+
+[01:12:38] SPEAKER_06
+Gavin is going to leave us with words of wisdom that we're going to hang on to for the next year.
+
+[01:12:46] SPEAKER_06
+Nice.
+
+[01:12:48] SPEAKER_06
+Go, Toddy.
+
+[01:12:48] SPEAKER_08
+He fired the gun.
+
+[01:12:50] SPEAKER_08
+I fired the gun.
+
+[01:12:51] SPEAKER_08
+You feel better?
+
+[01:12:51] SPEAKER_08
+I've never done that before.
+
+[01:12:52] SPEAKER_08
+That was fun.
+
+[01:12:52] SPEAKER_06
+But we don't have to do a tail sink.
+
+[01:12:53] SPEAKER_06
+You can just count down for Andrew.
+
+[01:12:55] SPEAKER_06
+Yeah.
+
+[01:12:56] SPEAKER_06
+Bye, meeting.
+
+[01:12:57] SPEAKER_06
+Bye.
+
+[01:12:57] SPEAKER_06
+Bye.
+
+[01:13:00] SPEAKER_10
+Before you knew what a stock was, you traded snacks, cards, turns.
+
+[01:13:06] SPEAKER_10
+You knew what something was worth because you felt it.
+
+[01:13:09] SPEAKER_10
+That instinct to trade didn't disappear.
+
+[01:13:12] SPEAKER_10
+It just grew up.
+
+[01:13:14] SPEAKER_10
+TD Easy Trade taps into that instinct so you can build something real for the future.
+
+[01:13:18] SPEAKER_10
+With no minimums, no monthly fees, and 100 free trades.
+
+[01:13:22] SPEAKER_10
+You already got this.
+
+[01:13:24] SPEAKER_10
+Because you are made to trade.
+
+[01:13:26] SPEAKER_10
+And TD Easy Trade is made to help.
+
+[01:13:29] SPEAKER_10
+Download it now.
+
+[01:13:30] SPEAKER_00
+Want to see your rewards go further?
+
+[01:13:33] SPEAKER_00
+Now at Shell, Scene Plus members can fill up on points at the pump, on snacks, car wash, and more.
+
+[01:13:40] SPEAKER_00
+Plus, Scotiabank and Tangerine cardholders can get up to 10 cents per liter in value with a linked card.
+
+[01:13:46] SPEAKER_00
+New rewards partners.
+
+[01:13:47] SPEAKER_00
+New ways to save and earn at Shell.
+
+[01:13:50] SPEAKER_00
+Get more, go further.
+
+[01:13:52] SPEAKER_00
+At participating Shell locations, conditions and limits apply.
+
+[01:13:55] SPEAKER_00
+Actual value may be lower.
+
+[01:13:57] SPEAKER_00
+Visit shell.ca slash loyalty for full details.

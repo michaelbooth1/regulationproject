@@ -7,5 +7,6 @@ nvidia-cudnn-cu12
 # Note: install torch/torchaudio first from the CUDA index, e.g.
 #   pip install torch torchaudio --index-url https://download.pytorch.org/whl/cu128
 pyannote.audio>=4.0
+scipy>=1.10
 torch>=2.10
 torchaudio>=2.10

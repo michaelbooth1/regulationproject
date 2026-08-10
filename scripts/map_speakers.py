@@ -1,19 +1,20 @@
 """Map per-episode diarization clusters (SPEAKER_xx) to global people.
 
 Uses the saved `speaker_embeddings` (one 256-d vector per SPEAKER_xx per
-episode). Two clusters from different episodes are the same person when their
-normalized embeddings are similar (cosine >= threshold). Global identities
-collapse the whole archive to a handful of people you name once.
+episode). Clusters from different episodes are grouped by the cosine distance
+between their normalized embeddings. Global identities collapse the whole
+archive to a set of recurring voices you name once.
 
-Algorithm: single-linkage (union-find) on the cosine-similarity matrix, keeping
-clusters whose centroid is at least `threshold` apart (agglomerative).
+Algorithm: average-linkage agglomerative clustering. Unlike single linkage,
+average linkage does not merge two people merely because a chain of noisy
+embeddings connects them across a large archive.
 
 Outputs:
     data/speaker_map.json      {episodes: {<idx>: {<label>: <gid>}}}
     data/speaker_summary.json  {globals: {<gid>: {name, talk_sec, episodes, members}}}
 
 Usage:
-    python scripts/map_speakers.py [--threshold 0.85] [--output-dir data] [--report]
+    python scripts/map_speakers.py [--threshold 0.80] [--output-dir data] [--report]
 """
 import argparse
 import glob
@@ -22,6 +23,7 @@ import os
 from collections import defaultdict
 
 import numpy as np
+from scipy.cluster.hierarchy import fcluster, linkage as hierarchical_linkage
 
 
 def load_done_transcripts():
@@ -45,26 +47,12 @@ def norm(u):
     return u / n if n > 0 else u
 
 
-class DSU:
-    def __init__(self, n):
-        self.p = list(range(n))
-
-    def find(self, x):
-        while self.p[x] != x:
-            self.p[x] = self.p[self.p[x]]
-            x = self.p[x]
-        return x
-
-    def union(self, a, b):
-        ra, rb = self.find(a), self.find(b)
-        if ra != rb:
-            self.p[ra] = rb
-
-
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--threshold", type=float, default=0.85,
-                    help="minimum cosine similarity to link clusters as the same person")
+    ap.add_argument("--threshold", type=float, default=0.80,
+                    help="minimum average cosine similarity to merge speaker groups")
+    ap.add_argument("--linkage", choices=("average", "complete"), default="average",
+                    help="agglomerative linkage method (average avoids single-link chaining)")
     ap.add_argument("--min-talk", type=float, default=5.0,
                     help="drop clusters with fewer than this many seconds of speech")
     ap.add_argument("--output-dir", default="data",
@@ -83,9 +71,8 @@ def main():
         return
 
     X = np.stack([norm(u["vec"]) for u in units])
-    sim = X @ X.T
-
     if args.report:
+        sim = X @ X.T
         for i in range(0, len(units), max(1, len(units) // 40)):
             u = units[i]
             row = sorted(
@@ -96,43 +83,12 @@ def main():
             print(f"{u['episode']:>3}:{u['label']:10s} {u['talk_sec']:7.0f}s -> {top}")
         return
 
-    # single-linkage: union any pair above threshold, then require centroids apart
-    dsu = DSU(n)
     thr = args.threshold
-    for i in range(n):
-        for j in range(i + 1, n):
-            if sim[i, j] >= thr:
-                dsu.union(i, j)
-
-    # centroid refinement: iteratively merge groups whose centroid cosine >= thr
-    def centroid(idxs):
-        return norm(np.mean(np.stack([X[i] for i in idxs]), axis=0))
-
+    tree = hierarchical_linkage(X, method=args.linkage, metric="cosine")
+    cluster_labels = fcluster(tree, t=1.0 - thr, criterion="distance")
     groups = defaultdict(list)
-    for i in range(n):
-        groups[dsu.find(i)].append(i)
-    for _ in range(8):
-        gs = list(groups.values())
-        merged_any = False
-        for a in range(len(gs)):
-            if a >= len(gs):
-                break
-            for b in range(a + 1, len(gs)):
-                if b >= len(gs):
-                    break
-                if float(centroid(gs[a]) @ centroid(gs[b])) >= thr:
-                    dsu.union(gs[a][0], gs[b][0])
-                    gs[a] = gs[a] + gs[b]
-                    del gs[b]
-                    merged_any = True
-                    break
-            if merged_any:
-                break
-        groups = defaultdict(list)
-        for i in range(n):
-            groups[dsu.find(i)].append(i)
-        if not merged_any:
-            break
+    for i, label in enumerate(cluster_labels):
+        groups[int(label)].append(i)
 
     order = sorted(groups.values(), key=lambda g: -sum(units[i]["talk_sec"] for i in g))
     assignments = defaultdict(dict)
@@ -155,7 +111,10 @@ def main():
     with open(summary_path, "w", encoding="utf-8") as f:
         json.dump({"globals": speakers}, f, indent=2)
 
-    print(f"{len(units)} clusters -> {len(speakers)} global speakers")
+    print(
+        f"{len(units)} clusters -> {len(speakers)} global speakers "
+        f"({args.linkage} linkage, threshold {thr:.2f})"
+    )
     print(f"{'gid':6s} {'talk':>9s} {'eps':>3s}  members")
     for gid, sp in speakers.items():
         cols = sp["members"][:5]

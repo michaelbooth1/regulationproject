@@ -1,0 +1,7677 @@
+# Episode 279: Gavin the Spaghetti Rabbit // Do You Want to Break the Server? [26]
+published: 2024-11-06T08:00:00+00:00  |  duration: 01:10:47
+source: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/REGULATIONCOMPANYLLC3728166077.mp3?updated=1730847461
+transcribed: 2026-08-08T13:44:49.035702-04:00  |  model: large-v3-turbo
+diarization: pyannote/speaker-diarization-3.1
+
+
+[00:00:00] SPEAKER_02
+You know that moment when everything feels in sync? That's Bacardi's vibe. Canada's number one white rum. A rum born from rhythm. Set to a soundtrack of laughs, loud music, and looks that say stay a little longer. Because whether pouring an ice-cold mojito or a classic Bacardi and Coke, you're opening the door to the party that lives in everyone. So, consider this your invite.
+
+[00:00:22] SPEAKER_02
+Bienvenido a la fiesta. Bacardi. Do what moves you. Tap the banner to shop now. Live passionately. Drink responsibly.
+
+[00:00:30] SPEAKER_06
+Hello, and welcome to another episode of The Regulation Podcast. This is episode 26. My name is Geoff Ramsey. With me, as always, Eric Baudour, Andrew Panton, Nick Schwartz, Gavin Free. Happy Halloween, fellas.
+
+[00:00:44] SPEAKER_06
+Happy Halloween.
+
+[00:00:46] SPEAKER_06
+Hello.
+
+[00:00:47] SPEAKER_04
+I need to make a retraction right off the start of this episode. I called Gavin a weasel last episode.
+
+[00:00:55] SPEAKER_04
+Yeah, I think we all really liked that.
+
+[00:00:57] SPEAKER_04
+Wrong woodland creature. I've been thinking a lot about it. I don't think you're a weasel, Gavin. I think you're more of a rabbit. You're joyfully antagonistic. You've got that Bugs Bunny in you a little bit.
+
+[00:01:08] SPEAKER_05
+Oh, cartoon rabbit. I was like, when have I been antagonized by a real rabbit?
+
+[00:01:12] SPEAKER_04
+No, yeah, I find very rare. I don't think I've ever been antagonized by a real rabbit. But then Bugs Bunny, I think, is the mascot of all rabbits.
+
+[00:01:20] SPEAKER_06
+You know who does get antagonized by rabbits? Farmers.
+
+[00:01:25] SPEAKER_06
+Oh.
+
+[00:01:25] SPEAKER_06
+Yeah, because they're always eating their carrots or their greens. They're always trying to keep them out of their gardens.
+
+[00:01:31] SPEAKER_06
+Is the rabbit the cutest animal that regularly gets bipped?
+
+[00:01:34] SPEAKER_05
+Raccoon and rabbit, probably, yeah.
+
+[00:01:37] SPEAKER_05
+Oh, people shoot raccoons?
+
+[00:01:38] SPEAKER_05
+What do you mean by bipped?
+
+[00:01:40] SPEAKER_05
+Like, what do you mean by bipped?
+
+[00:01:43] SPEAKER_04
+I thought I knew what you meant, and then Geoff said raccoons, and that really threw me.
+
+[00:01:47] SPEAKER_04
+Shot. Shot in the head.
+
+[00:01:49] SPEAKER_04
+I assume you meant in a hunting capacity.
+
+[00:01:53] SPEAKER_04
+Like, I went deer.
+
+[00:01:54] SPEAKER_04
+Like, a Bambi situation, maybe?
+
+[00:01:56] SPEAKER_04
+Oh, yeah.
+
+[00:01:58] SPEAKER_05
+Deer aren't as cute as a rabbit.
+
+[00:01:59] SPEAKER_03
+Yeah, rabbits get annihilated a lot.
+
+[00:02:02] SPEAKER_03
+I've been following this spaghetti rabbit on TikTok.
+
+[00:02:04] SPEAKER_03
+He's just eating spaghetti every day.
+
+[00:02:06] SPEAKER_03
+Oh, no.
+
+[00:02:07] SPEAKER_03
+So this could maybe be Gavin.
+
+[00:02:08] SPEAKER_03
+I mean, if we're going, like, sort of, you know, with his background and everything.
+
+[00:02:11] SPEAKER_05
+I like spaghetti.
+
+[00:02:13] SPEAKER_03
+Yeah.
+
+[00:02:13] SPEAKER_03
+Oh, nice.
+
+[00:02:14] SPEAKER_03
+Got that Italian blood?
+
+[00:02:17] SPEAKER_03
+Halfway there.
+
+[00:02:18] SPEAKER_03
+Yeah, just sort of going right on the nose with it, huh?
+
+[00:02:20] SPEAKER_03
+All right.
+
+[00:02:22] SPEAKER_06
+We always had rabbits in our yard at the old house, you know, the f***ing face house.
+
+[00:02:27] SPEAKER_06
+And I was always surprised, because you'd watch them, they'd be babies fucking around in the backyard at the beginning of the year, and then by the end of the day, they'd be full-grown-ass rabbits.
+
+[00:02:34] SPEAKER_06
+And I was always surprised at how, like, lean and kind of patchy a wild rabbit is.
+
+[00:02:39] SPEAKER_06
+They're not like the rabbits you see on TV.
+
+[00:02:42] SPEAKER_06
+Well, this is also the middle of a city.
+
+[00:02:44] SPEAKER_06
+They're pretty ragged-looking.
+
+[00:02:45] SPEAKER_06
+Yeah, they're, like, they're definitely, like, city rabbits, you know?
+
+[00:02:48] SPEAKER_06
+Like, they've seen some s***.
+
+[00:02:49] SPEAKER_06
+One of them had an eyepatch.
+
+[00:02:50] SPEAKER_06
+It was, uh, yeah.
+
+[00:02:51] SPEAKER_04
+Like me and Call of Duty.
+
+[00:02:53] SPEAKER_04
+Yeah, exactly.
+
+[00:02:54] SPEAKER_04
+You ever see a rabbit eat spaghetti in your backyard?
+
+[00:02:57] SPEAKER_03
+You gotta.
+
+[00:02:58] SPEAKER_03
+You gotta put spaghetti out for the spaghetti rabbit.
+
+[00:03:00] SPEAKER_03
+Yeah.
+
+[00:03:01] SPEAKER_06
+We were just giving them bird seed, but, you know, I guess the spaghetti would have been better.
+
+[00:03:05] SPEAKER_05
+I want to see if, is there a great, like, can rabbits eat spaghetti?
+
+[00:03:08] SPEAKER_05
+I was thinking, because there's all these things that dogs can't eat, right?
+
+[00:03:12] SPEAKER_05
+Well, you're looking at it.
+
+[00:03:13] SPEAKER_05
+Yeah, I guess it's fine.
+
+[00:03:14] SPEAKER_05
+I wouldn't have known.
+
+[00:03:15] SPEAKER_05
+But, like, a dog can't eat onions or dark chocolate and stuff.
+
+[00:03:19] SPEAKER_05
+Like, there needs to be an info diagram of, like, lines from animals to food that will kill them.
+
+[00:03:26] SPEAKER_04
+The spaghetti rabbit, I'd like to imagine, is, like, the fairy tale the founder of Olive Garden was told as a child.
+
+[00:03:32] SPEAKER_03
+I'm gonna put out spaghetti for the spaghetti rabbit.
+
+[00:03:35] SPEAKER_03
+Yeah, you gotta put it out.
+
+[00:03:36] SPEAKER_03
+Well, one day I'm gonna have my own restaurant, and I'm gonna feed all the rabbits I want.
+
+[00:03:40] SPEAKER_03
+Never-ending pasta.
+
+[00:03:41] SPEAKER_03
+Never-ending pasta for these rabbits.
+
+[00:03:43] SPEAKER_05
+I'm glad you said it was spaghetti, though, because it looks like, if you don't know what it is, it looks like maybe the rabbit's lungs came out.
+
+[00:03:49] SPEAKER_03
+Yeah, it looks like he might be sick, but no, he just sits, there's, like, three or four videos of this rabbit just eating spaghetti.
+
+[00:03:56] SPEAKER_03
+I'm pretty, I'm pretty into it.
+
+[00:03:58] SPEAKER_03
+Also been seeing a lot of jackrabbits.
+
+[00:04:00] SPEAKER_03
+Have you seen, like, the size of jackrabbits?
+
+[00:04:02] SPEAKER_03
+Yeah.
+
+[00:04:03] SPEAKER_03
+They're huge.
+
+[00:04:05] SPEAKER_03
+They're big dudes.
+
+[00:04:06] SPEAKER_03
+Jackrabbits are so big, it's weird.
+
+[00:04:10] SPEAKER_04
+Is spaghetti red sauce and marinara sauce, is that the same thing?
+
+[00:04:16] SPEAKER_04
+Or are those different?
+
+[00:04:18] SPEAKER_03
+I don't, I'm not sure what you mean by spaghetti red sauce.
+
+[00:04:22] SPEAKER_04
+Are you just thinking about, like, a bolognese type sauce?
+
+[00:04:26] SPEAKER_06
+Well, that's a bolognese sauce, that's different.
+
+[00:04:28] SPEAKER_04
+Yeah, that is different.
+
+[00:04:30] SPEAKER_04
+Okay.
+
+[00:04:31] SPEAKER_04
+Bolognese has meat in it, doesn't it?
+
+[00:04:33] SPEAKER_04
+Yeah.
+
+[00:04:33] SPEAKER_04
+That's what makes it different?
+
+[00:04:34] SPEAKER_04
+But the base, the red sauce in the bolognese is the same as marinara.
+
+[00:04:39] SPEAKER_04
+Or is marinara a different thing?
+
+[00:04:41] SPEAKER_04
+I view marinara as, like, the, the, what do you call it?
+
+[00:04:46] SPEAKER_04
+The mozzarella sticks dipping sauce.
+
+[00:04:49] SPEAKER_04
+Is that the same as pasta sauce?
+
+[00:04:53] SPEAKER_04
+That's how you view marinara?
+
+[00:04:54] SPEAKER_04
+When I hear, yeah, that's my main association with marinara is for dipping or mozzarella sticks.
+
+[00:05:00] SPEAKER_05
+What was the most regulation pasta sauce?
+
+[00:05:04] SPEAKER_99
+Marinara?
+
+[00:05:05] SPEAKER_04
+Yeah, probably.
+
+[00:05:05] SPEAKER_06
+I think it's gotta be marinara.
+
+[00:05:08] SPEAKER_04
+Yeah.
+
+[00:05:08] SPEAKER_04
+Okay, so that, it is marinara.
+
+[00:05:10] SPEAKER_04
+I was just, I was gonna say marinara, but I wasn't sure what the red sauce was called.
+
+[00:05:13] SPEAKER_04
+It would be tough to find marinara in the wild.
+
+[00:05:16] SPEAKER_04
+I don't know where I'd go.
+
+[00:05:17] SPEAKER_05
+It says that it's brighter and thick.
+
+[00:05:19] SPEAKER_05
+I don't, I'm not, I don't know how to equate some of these words to tastes and stuff.
+
+[00:05:23] SPEAKER_05
+Like when, or sounds.
+
+[00:05:24] SPEAKER_05
+Like when someone says it's a bright sound or a bright taste.
+
+[00:05:27] SPEAKER_05
+What the Christ does that mean?
+
+[00:05:29] SPEAKER_05
+What do you mean?
+
+[00:05:30] SPEAKER_05
+Uh, oh.
+
+[00:05:32] SPEAKER_04
+While the two sauces share many ingredients, the main difference is in the consistency and
+
+[00:05:36] SPEAKER_04
+depth of flavor.
+
+[00:05:38] SPEAKER_04
+Marinara is a brighter, thinner, and more tomato forward than tomato sauce.
+
+[00:05:43] SPEAKER_03
+I, I think of bright as something like, like with like acidity, like a, like a lemony or
+
+[00:05:49] SPEAKER_03
+like a, not, not even lemon, but just like a sharpness.
+
+[00:05:51] SPEAKER_03
+Something that goes, like cuts through a little bit.
+
+[00:05:54] SPEAKER_03
+Is that what that means?
+
+[00:05:54] SPEAKER_03
+Oh, that's a, I don't know.
+
+[00:05:55] SPEAKER_03
+Like a tang almost.
+
+[00:05:56] SPEAKER_04
+I take it literally that it's literally a brighter sauce.
+
+[00:05:59] SPEAKER_04
+Oh, is that what they mean?
+
+[00:06:02] SPEAKER_04
+Oh, that's how I interpreted it.
+
+[00:06:04] SPEAKER_03
+I think, I think the way it's written here, it does mean in look, it is brighter and thinner
+
+[00:06:09] SPEAKER_03
+looking.
+
+[00:06:12] SPEAKER_04
+Tomato sauce is thicker, creamier, and bears some similarity with gravy.
+
+[00:06:17] SPEAKER_04
+Yeah.
+
+[00:06:18] SPEAKER_04
+Hence why some Italians call it Sunday gravy.
+
+[00:06:21] SPEAKER_05
+Yeah.
+
+[00:06:22] SPEAKER_05
+Literally brighter.
+
+[00:06:24] SPEAKER_05
+I'm dumb guys.
+
+[00:06:25] SPEAKER_05
+I don't know.
+
+[00:06:25] SPEAKER_03
+I think, I think you're doing great, buddy.
+
+[00:06:29] SPEAKER_03
+You're hanging out with, you're hanging out with Adam and Savage and stuff.
+
+[00:06:32] SPEAKER_03
+Maybe he doesn't know this stuff either.
+
+[00:06:34] SPEAKER_03
+Adam and Savage.
+
+[00:06:35] SPEAKER_03
+Adam and Savage.
+
+[00:06:36] SPEAKER_03
+Yeah.
+
+[00:06:36] SPEAKER_03
+Adam and Savage.
+
+[00:06:37] SPEAKER_03
+The two guys, Adam and his friend Savage.
+
+[00:06:40] SPEAKER_04
+Adam and Savage, the carnival you go to, to see the pasta eating rabbit.
+
+[00:06:45] SPEAKER_04
+The two guys from Mythbusters.
+
+[00:06:48] SPEAKER_04
+Adam and Savage.
+
+[00:06:49] SPEAKER_04
+My favorite tag team of all time.
+
+[00:06:55] SPEAKER_04
+Love me some Adam and Savage.
+
+[00:06:57] SPEAKER_04
+Myth busted was a hell of a finisher.
+
+[00:07:02] SPEAKER_04
+Oh shit.
+
+[00:07:03] SPEAKER_04
+There's UFOs all over the map.
+
+[00:07:04] SPEAKER_05
+Oh shit.
+
+[00:07:06] SPEAKER_05
+Why are you playing GTA?
+
+[00:07:07] SPEAKER_05
+Are you playing GTA?
+
+[00:07:08] SPEAKER_03
+We're doing the podcast.
+
+[00:07:10] SPEAKER_05
+Turn it off.
+
+[00:07:10] SPEAKER_05
+Turn it off.
+
+[00:07:10] SPEAKER_05
+It's on my screen.
+
+[00:07:11] SPEAKER_05
+But shit just appeared.
+
+[00:07:12] SPEAKER_05
+Okay.
+
+[00:07:13] SPEAKER_06
+Turn it off.
+
+[00:07:16] SPEAKER_06
+Spoilers.
+
+[00:07:17] SPEAKER_06
+Hey, I had a couple of things I wanted to go over today.
+
+[00:07:19] SPEAKER_06
+If you guys didn't mind, go for it.
+
+[00:07:21] SPEAKER_06
+Yeah.
+
+[00:07:21] SPEAKER_06
+Let me address my notes.
+
+[00:07:23] SPEAKER_06
+One of these things is, let me grab this.
+
+[00:07:26] SPEAKER_06
+Why can't I click on this?
+
+[00:07:29] SPEAKER_06
+You ever had that thing where you can't click on a thing?
+
+[00:07:31] SPEAKER_06
+Open link.
+
+[00:07:32] SPEAKER_06
+There you go.
+
+[00:07:36] SPEAKER_06
+One of the things I wanted to share with you guys was a list I found.
+
+[00:07:43] SPEAKER_06
+Do you remember recently I was talking to y'all about Baskin Robbins and the 31 flavors?
+
+[00:07:47] SPEAKER_06
+Yeah.
+
+[00:07:47] SPEAKER_06
+The original 31 flavors.
+
+[00:07:49] SPEAKER_06
+Yeah.
+
+[00:07:49] SPEAKER_06
+Uh, well, I just stumbled upon a list on Reddit the other day that this is the list
+
+[00:07:55] SPEAKER_06
+of the 31 regional hot dogs of the United States from classic to Coney Island to Kansas
+
+[00:08:03] SPEAKER_06
+City to Carolina style, uh, Troy mini, whatever the fuck that is.
+
+[00:08:08] SPEAKER_06
+Everything bagel dog.
+
+[00:08:09] SPEAKER_06
+There just happened to be 31 regional hot dogs and coincidentally 31 original ice cream flavors.
+
+[00:08:18] SPEAKER_06
+I wanted to eat the 31 flavors of original ice cream together.
+
+[00:08:23] SPEAKER_06
+What if we try to figure out a way to pair the appropriate regional hot dog with one of the original 31 flavors and we try to find the perfect match for each one?
+
+[00:08:33] SPEAKER_03
+I don't know that just by nature, the hot dog goes with ice cream.
+
+[00:08:41] SPEAKER_03
+Well, you get dinner and a dessert.
+
+[00:08:43] SPEAKER_03
+Oh, so not really paired just one after the other.
+
+[00:08:47] SPEAKER_06
+Yeah, but you want like the, you want the ice cream flavor out of the 31 that's going to be the most complimentary to the Coney Island dog.
+
+[00:08:56] SPEAKER_99
+Yeah.
+
+[00:08:56] SPEAKER_99
+Themed.
+
+[00:08:57] SPEAKER_06
+Yeah.
+
+[00:08:57] SPEAKER_06
+See, there you go, Eric.
+
+[00:08:58] SPEAKER_06
+Uh, Nick.
+
+[00:08:58] SPEAKER_06
+Thank you.
+
+[00:08:59] SPEAKER_99
+Yeah, you're welcome.
+
+[00:09:01] SPEAKER_06
+Nick's mad about one of them.
+
+[00:09:03] SPEAKER_99
+Yeah.
+
+[00:09:04] SPEAKER_06
+What are you mad about, Nick?
+
+[00:09:04] SPEAKER_05
+I'm, it's called a Texas Tommy, but it's from Pennsylvania.
+
+[00:09:08] SPEAKER_04
+Get out of here.
+
+[00:09:10] SPEAKER_03
+It's pretty funny.
+
+[00:09:11] SPEAKER_03
+Do you guys have a favorite looking at this?
+
+[00:09:13] SPEAKER_03
+Uh, I'm scrolling through.
+
+[00:09:15] SPEAKER_03
+I know mine like off the rip, like no hesitation.
+
+[00:09:19] SPEAKER_05
+There's some weird shit.
+
+[00:09:21] SPEAKER_05
+White hots.
+
+[00:09:22] SPEAKER_03
+What the hell is that?
+
+[00:09:23] SPEAKER_03
+You guys ever had a Seattle dog?
+
+[00:09:26] SPEAKER_03
+Uh, no.
+
+[00:09:29] SPEAKER_03
+In all the years at PAX, you never had a Seattle dog, Jeff?
+
+[00:09:32] SPEAKER_03
+With cream cheese and sriracha sauce.
+
+[00:09:34] SPEAKER_03
+Oh, that's like, yeah, that's your, yeah, you're right.
+
+[00:09:36] SPEAKER_03
+That's like your thing.
+
+[00:09:37] SPEAKER_03
+Sorry.
+
+[00:09:38] SPEAKER_03
+Uh, Seattle dog is so good.
+
+[00:09:42] SPEAKER_03
+It is so, oh, I love, I love the Seattle dog so much.
+
+[00:09:46] SPEAKER_03
+I think that's like a number one for me, honestly.
+
+[00:09:50] SPEAKER_06
+I think my favorite is probably a Chicago dog, but this red snapper looks pretty good.
+
+[00:09:55] SPEAKER_06
+This, uh, scrambled dog doesn't look bad.
+
+[00:09:58] SPEAKER_06
+Fenway Frank looks pretty nice.
+
+[00:10:00] SPEAKER_06
+They all look good, minus a few weird ingredients like fish cakes and the Philly combo, but.
+
+[00:10:05] SPEAKER_04
+Yeah, I'm scrolling through to determine how many of these I like.
+
+[00:10:08] SPEAKER_04
+I have five.
+
+[00:10:09] SPEAKER_04
+I have five of these that I would order.
+
+[00:10:11] SPEAKER_04
+Wow.
+
+[00:10:11] SPEAKER_06
+Too, too coincidental that there's 31 hot dogs and 31 flavors of ice cream.
+
+[00:10:15] SPEAKER_06
+Like that just, it lines up too well.
+
+[00:10:18] SPEAKER_06
+It feels like it was meant to be.
+
+[00:10:20] SPEAKER_06
+And then we could have one for every day of a long month.
+
+[00:10:23] SPEAKER_06
+That's true.
+
+[00:10:23] SPEAKER_06
+The 31 flavors of December or whatever.
+
+[00:10:27] SPEAKER_06
+What's the most hot doggy month?
+
+[00:10:29] SPEAKER_06
+July.
+
+[00:10:30] SPEAKER_06
+Probably.
+
+[00:10:30] SPEAKER_06
+Yeah, I think it might be July.
+
+[00:10:33] SPEAKER_05
+It's probably the most ice cream-y month as well.
+
+[00:10:36] SPEAKER_03
+Yeah.
+
+[00:10:36] SPEAKER_05
+So we'll have to bin off one of the dogs and one of the flavors.
+
+[00:10:39] SPEAKER_99
+Mm-hmm.
+
+[00:10:40] SPEAKER_03
+Well, we could just do two in one day.
+
+[00:10:44] SPEAKER_03
+That's true.
+
+[00:10:45] SPEAKER_03
+You know what I mean?
+
+[00:10:45] SPEAKER_03
+Like really get those numbers up.
+
+[00:10:47] SPEAKER_05
+And then by August, we're all dead.
+
+[00:10:50] SPEAKER_03
+We will.
+
+[00:10:51] SPEAKER_03
+But if we do it before August 1st, we're really getting those 80 hot dogs up.
+
+[00:10:54] SPEAKER_03
+You know what I mean?
+
+[00:10:55] SPEAKER_03
+Like Jeff will definitely go over the 80 just at the pace he's at.
+
+[00:10:58] SPEAKER_06
+We'll see.
+
+[00:10:59] SPEAKER_04
+Not a race.
+
+[00:11:00] SPEAKER_06
+It's not a competition.
+
+[00:11:02] SPEAKER_06
+It's slowed down.
+
+[00:11:03] SPEAKER_06
+Listen, we don't have to do this.
+
+[00:11:05] SPEAKER_06
+I'm just saying.
+
+[00:11:06] SPEAKER_06
+I think it's wild that there's 31 hot dogs and there's 31 flavors of ice cream.
+
+[00:11:10] SPEAKER_04
+Yeah, that is a really funny combination of two things.
+
+[00:11:14] SPEAKER_04
+I think there's eight of these I would order.
+
+[00:11:19] SPEAKER_04
+The fish one sounds terrible.
+
+[00:11:21] SPEAKER_04
+What if we have to draft them?
+
+[00:11:23] SPEAKER_06
+Yeah.
+
+[00:11:25] SPEAKER_06
+Dude.
+
+[00:11:26] SPEAKER_06
+Hot dog draft is pretty good.
+
+[00:11:28] SPEAKER_06
+What if we have to draft our ice cream as well?
+
+[00:11:32] SPEAKER_06
+Maybe that's how we handle this.
+
+[00:11:34] SPEAKER_06
+The first regulation double draft?
+
+[00:11:36] SPEAKER_06
+A double draft.
+
+[00:11:37] SPEAKER_03
+Hang on.
+
+[00:11:38] SPEAKER_03
+I'm looking at the calendar.
+
+[00:11:39] SPEAKER_03
+When can we do this?
+
+[00:11:41] SPEAKER_05
+Then we only have to have one hot dog ice cream pairing per week.
+
+[00:11:45] SPEAKER_03
+Yeah.
+
+[00:11:46] SPEAKER_06
+Dude, I want a ripper.
+
+[00:11:48] SPEAKER_06
+Sweet relish mustard deep fried hot dog in a bun.
+
+[00:11:52] SPEAKER_06
+New Jersey.
+
+[00:11:53] SPEAKER_03
+What do you guys, how's Monday looking for you guys?
+
+[00:11:57] SPEAKER_06
+It's looking like a draft day to me.
+
+[00:11:59] SPEAKER_03
+Yeah.
+
+[00:11:59] SPEAKER_03
+Dog and cream draft.
+
+[00:12:03] SPEAKER_03
+Oh, this Monday?
+
+[00:12:03] SPEAKER_03
+I hate the combination of those words.
+
+[00:12:06] SPEAKER_03
+Yeah.
+
+[00:12:06] SPEAKER_03
+What Monday did you think I was talking about when I said, what does Monday look like?
+
+[00:12:09] SPEAKER_03
+Doesn't matter.
+
+[00:12:10] SPEAKER_03
+I'm free on all of them.
+
+[00:12:11] SPEAKER_03
+That's great.
+
+[00:12:12] SPEAKER_03
+See what I mean?
+
+[00:12:13] SPEAKER_03
+I love it.
+
+[00:12:13] SPEAKER_03
+See what I mean?
+
+[00:12:14] SPEAKER_03
+Fantastic.
+
+[00:12:14] SPEAKER_03
+He's a rabbit.
+
+[00:12:15] SPEAKER_03
+Classic rabbit.
+
+[00:12:18] SPEAKER_04
+Antagonistic just for the love of it.
+
+[00:12:19] SPEAKER_04
+Yep.
+
+[00:12:20] SPEAKER_04
+Yep.
+
+[00:12:20] SPEAKER_04
+Have you ever seen a weasel?
+
+[00:12:22] SPEAKER_05
+I don't think so.
+
+[00:12:23] SPEAKER_05
+I don't think I've ever seen one.
+
+[00:12:25] SPEAKER_03
+Do they got weasels at the zoo?
+
+[00:12:27] SPEAKER_99
+Oh, they might.
+
+[00:12:28] SPEAKER_03
+They got zoo weasels?
+
+[00:12:32] SPEAKER_03
+I think weasels might be cute.
+
+[00:12:35] SPEAKER_03
+Yeah.
+
+[00:12:35] SPEAKER_03
+I feel like the weasel.
+
+[00:12:37] SPEAKER_03
+They look kind of like ferrets, don't they?
+
+[00:12:39] SPEAKER_03
+Oh, yeah.
+
+[00:12:39] SPEAKER_03
+Yeah.
+
+[00:12:40] SPEAKER_05
+Oh, that just looks like a stubby ferret.
+
+[00:12:42] SPEAKER_05
+Yeah, it's like a ferret.
+
+[00:12:43] SPEAKER_05
+Yeah, they look a lot.
+
+[00:12:43] SPEAKER_03
+Yeah, I think when you're thinking of weasels, you're thinking of Roger Rabbit or Mr. Toad or
+
+[00:12:55] SPEAKER_03
+whatever.
+
+[00:12:55] SPEAKER_06
+And isn't a mink essentially the same thing as well?
+
+[00:13:01] SPEAKER_03
+I think so.
+
+[00:13:02] SPEAKER_06
+And like a snow.
+
+[00:13:03] SPEAKER_03
+See, when you think weasel, I think you think these guys with hats and cigars.
+
+[00:13:08] SPEAKER_03
+Oh, yeah.
+
+[00:13:09] SPEAKER_03
+And that's not weasels.
+
+[00:13:10] SPEAKER_05
+Do weasels die if they laugh too much?
+
+[00:13:12] SPEAKER_04
+I don't know.
+
+[00:13:16] SPEAKER_04
+I see.
+
+[00:13:17] SPEAKER_04
+Whenever I see a photo of a weasel, my brain does a weird thing where, in my mind, that's
+
+[00:13:21] SPEAKER_04
+where they started with Pokemon.
+
+[00:13:23] SPEAKER_04
+That was on the board.
+
+[00:13:24] SPEAKER_04
+The weasel?
+
+[00:13:25] SPEAKER_03
+Yeah.
+
+[00:13:26] SPEAKER_03
+Yeah.
+
+[00:13:27] SPEAKER_03
+It kind of looks Pokemon-ish.
+
+[00:13:28] SPEAKER_03
+I think it probably started with rat.
+
+[00:13:30] SPEAKER_03
+I think Pokemon probably started with rat.
+
+[00:13:32] SPEAKER_03
+He's like, well, what if I collect a rat?
+
+[00:13:33] SPEAKER_03
+And his name is Rat Tat.
+
+[00:13:35] SPEAKER_03
+And everyone went, oh, this might be a good idea.
+
+[00:13:38] SPEAKER_03
+Do 150 of these.
+
+[00:13:42] SPEAKER_04
+How do you catch the rat?
+
+[00:13:44] SPEAKER_04
+Well, you throw a ball.
+
+[00:13:46] SPEAKER_04
+Throw the ball at the rat-a-tat.
+
+[00:13:48] SPEAKER_04
+It really does sound like somebody just like tap dancing.
+
+[00:13:51] SPEAKER_03
+Yeah.
+
+[00:13:51] SPEAKER_03
+It's a guy just kind of like vamping in an elevator pitch.
+
+[00:13:54] SPEAKER_03
+And they're like, well, where do you find the rat?
+
+[00:13:56] SPEAKER_03
+And he's like, well, you walk out of town and it's in the grass.
+
+[00:13:59] SPEAKER_03
+Oh, are they hard to catch?
+
+[00:14:00] SPEAKER_03
+No, they're everywhere.
+
+[00:14:01] SPEAKER_03
+There's so many.
+
+[00:14:02] SPEAKER_03
+There's like so many.
+
+[00:14:05] SPEAKER_04
+No, you don't, but there's a Pikachu.
+
+[00:14:08] SPEAKER_04
+There's a Pikachu.
+
+[00:14:08] SPEAKER_04
+It's another rat thing.
+
+[00:14:12] SPEAKER_03
+There's a guy.
+
+[00:14:13] SPEAKER_03
+He's like a lizard.
+
+[00:14:18] SPEAKER_03
+Fire lizard Charmander.
+
+[00:14:20] SPEAKER_03
+He spits fire.
+
+[00:14:22] SPEAKER_03
+You can pick him.
+
+[00:14:25] SPEAKER_04
+That'd be fun to go through.
+
+[00:14:27] SPEAKER_04
+The original 150.
+
+[00:14:28] SPEAKER_05
+I was thinking about Pokemon the other day and thinking probably the biggest destruction of wealth that I've ever been a part of,
+
+[00:14:34] SPEAKER_05
+was like the most money I've ever lost, was just opening my Pokemon cards as a kid.
+
+[00:14:38] SPEAKER_05
+Absolutely.
+
+[00:14:39] SPEAKER_05
+Like if I just for some reason accidentally forgot to open them, they sell for like hundreds of thousands of dollars,
+
+[00:14:45] SPEAKER_05
+like an unopened original starter pack or whatever, booster pack.
+
+[00:14:50] SPEAKER_05
+Holy shit.
+
+[00:14:51] SPEAKER_05
+It makes me want to just buy one of everything and keep it and never use it.
+
+[00:14:55] SPEAKER_04
+I remember for my birthday when I was like maybe, I don't know, six or seven, probably younger.
+
+[00:15:02] SPEAKER_04
+I have no idea.
+
+[00:15:03] SPEAKER_04
+But I just remember getting a Charizard card from like the original set.
+
+[00:15:07] SPEAKER_04
+It was like $70 and that was my big gift.
+
+[00:15:10] SPEAKER_04
+And just thinking about like the value of that now.
+
+[00:15:12] SPEAKER_04
+It's so funny to me.
+
+[00:15:13] SPEAKER_04
+I have no idea where it is.
+
+[00:15:15] SPEAKER_04
+Oh, no.
+
+[00:15:16] SPEAKER_04
+Probably ruined it.
+
+[00:15:16] SPEAKER_04
+Absolutely ruined it as a child.
+
+[00:15:18] SPEAKER_04
+I was like, oh, it's a cool card as a kid looking through the thing.
+
+[00:15:21] SPEAKER_04
+Like those sell for so much now, those old ones.
+
+[00:15:25] SPEAKER_04
+I saw the other day that they are.
+
+[00:15:28] SPEAKER_04
+They just I don't know if it's new.
+
+[00:15:30] SPEAKER_04
+I the way the ad was presented made it seem new that there is a Neopets trading card game now,
+
+[00:15:35] SPEAKER_04
+which I think is so funny.
+
+[00:15:37] SPEAKER_99
+What?
+
+[00:15:38] SPEAKER_04
+What is a Neopet again?
+
+[00:15:39] SPEAKER_04
+You know you never had a Neopet.
+
+[00:15:41] SPEAKER_04
+It was imagine like the web based version of Pokemon like Pokemon was big and they're like,
+
+[00:15:47] SPEAKER_04
+what if we do virtual pets that are like not exactly?
+
+[00:15:51] SPEAKER_04
+It's the exact same Eric was describing of like, it's doggo.
+
+[00:15:54] SPEAKER_04
+It's doggo man.
+
+[00:15:56] SPEAKER_04
+Doggo.
+
+[00:15:56] SPEAKER_04
+And it's it shoots fire.
+
+[00:15:58] SPEAKER_04
+Doggo fire guy.
+
+[00:15:59] SPEAKER_04
+Like it just it's made up tap dancing.
+
+[00:16:03] SPEAKER_03
+So, so made up like just and it is.
+
+[00:16:06] SPEAKER_03
+They look like shit.
+
+[00:16:08] SPEAKER_03
+They're so stupid.
+
+[00:16:10] SPEAKER_03
+It is like web art of the early late 90s.
+
+[00:16:15] SPEAKER_03
+Yeah, that's what people went crazy for.
+
+[00:16:18] SPEAKER_03
+And they look like these are terrible.
+
+[00:16:20] SPEAKER_03
+But there's so much nostalgia based in these.
+
+[00:16:24] SPEAKER_04
+Thanks.
+
+[00:16:24] SPEAKER_04
+Walkie.
+
+[00:16:25] SPEAKER_04
+Yeah, they all sound offensive for some reason.
+
+[00:16:28] SPEAKER_04
+Yeah.
+
+[00:16:29] SPEAKER_04
+Um, suck.
+
+[00:16:30] SPEAKER_04
+I just love the idea of somebody buying cases of the first run of Neopets trading cards.
+
+[00:16:36] SPEAKER_04
+Being like, this is going to be the next Pokemon.
+
+[00:16:38] SPEAKER_03
+Could be us.
+
+[00:16:39] SPEAKER_03
+Jeff, you could hang on to some Neopets cards.
+
+[00:16:40] SPEAKER_06
+Uh, if only I had back when I was so into Neopets back in the day, big Neopet guy, Jeff, whenever
+
+[00:16:49] SPEAKER_04
+I think of Neopets, I think it's Jeff.
+
+[00:16:51] SPEAKER_04
+Yeah, it's a, it was my passion.
+
+[00:16:54] SPEAKER_04
+He has an Akara tattooed on his left arm.
+
+[00:16:57] SPEAKER_04
+And very few people know that.
+
+[00:16:59] SPEAKER_06
+If you asked me to pick a Neopet out of a lineup or I'd get a bullet in between my eyes, I'd
+
+[00:17:07] SPEAKER_06
+fucking, I just, I'd pull the trigger.
+
+[00:17:10] SPEAKER_04
+Like I, the, the premise that a crime was committed and all the suspects were Neopets
+
+[00:17:17] SPEAKER_04
+is so funny to me.
+
+[00:17:18] SPEAKER_04
+Imagining an actual lineup of Neopets.
+
+[00:17:21] SPEAKER_04
+Who stole this purse?
+
+[00:17:22] SPEAKER_04
+Was it Akara?
+
+[00:17:24] SPEAKER_04
+Was it possibly Corbat?
+
+[00:17:27] SPEAKER_04
+Who could say?
+
+[00:17:29] SPEAKER_04
+I didn't get a good view of the perk.
+
+[00:17:32] SPEAKER_04
+Perp?
+
+[00:17:33] SPEAKER_04
+Perp?
+
+[00:17:33] SPEAKER_04
+What's the, what's the, what's the, what's the, what's the, what's the perpetrator?
+
+[00:17:38] SPEAKER_04
+So it'd be perp.
+
+[00:17:38] SPEAKER_04
+Okay.
+
+[00:17:39] SPEAKER_04
+I worked it out.
+
+[00:17:39] SPEAKER_04
+I got there.
+
+[00:17:40] SPEAKER_04
+Um, Jeff opened Alan and Ginter cards recently.
+
+[00:17:44] SPEAKER_04
+There's a new, new pack.
+
+[00:17:45] SPEAKER_04
+We're talking about it.
+
+[00:17:46] SPEAKER_04
+They have dog show.
+
+[00:17:48] SPEAKER_04
+Uh, what chase carts.
+
+[00:17:51] SPEAKER_04
+That's the word I was looking for.
+
+[00:17:52] SPEAKER_04
+I'd love to get that.
+
+[00:17:53] SPEAKER_04
+That'd be a fun thing to chase.
+
+[00:17:55] SPEAKER_06
+Where were you opening this?
+
+[00:17:57] SPEAKER_06
+In my office by myself.
+
+[00:17:59] SPEAKER_06
+Yeah.
+
+[00:18:00] SPEAKER_06
+I wasn't like streaming it or anything.
+
+[00:18:02] SPEAKER_06
+I just bought a couple of the new Alan and Ginter cards came out.
+
+[00:18:04] SPEAKER_06
+And so I bought a couple of hobby boxes and I actually got a relic of, uh, let me
+
+[00:18:09] SPEAKER_06
+see if I can find it.
+
+[00:18:09] SPEAKER_06
+Hold on.
+
+[00:18:10] SPEAKER_04
+Yeah.
+
+[00:18:10] SPEAKER_04
+You need to share the, it's fucking crazy.
+
+[00:18:12] SPEAKER_04
+The relic that Jeff got, but they're doing Westminster dog cards and the, the chase
+
+[00:18:17] SPEAKER_04
+for it is, uh, ribbons of best in show that the dog has won as part of the card.
+
+[00:18:23] SPEAKER_04
+I think that's awesome.
+
+[00:18:24] SPEAKER_04
+I'd love to get part of a best show.
+
+[00:18:26] SPEAKER_06
+I didn't get that, but I did get a relic piece of Mickey pseudo's outfit, which she wore when
+
+[00:18:35] SPEAKER_06
+she broke the world, the female hot dog eating, uh, record recently.
+
+[00:18:42] SPEAKER_04
+Jeff got a hot dog card and I got a hot dog champion.
+
+[00:18:45] SPEAKER_06
+It's not autographed.
+
+[00:18:46] SPEAKER_06
+It's just a relic of, I guess the, the uniform, uh, this lady Mika pseudo one when she became
+
+[00:18:52] SPEAKER_06
+the hot dog eating champion of the world.
+
+[00:18:54] SPEAKER_06
+That's still really cool.
+
+[00:18:55] SPEAKER_06
+Not bad.
+
+[00:18:57] SPEAKER_04
+Not complaining about it for being in a hot dog year where you're counting dogs.
+
+[00:19:01] SPEAKER_04
+I don't think you get better than that.
+
+[00:19:03] SPEAKER_06
+It was the first hit I pulled too.
+
+[00:19:04] SPEAKER_06
+When I opened them up, which I, it's pretty cool considering here.
+
+[00:19:07] SPEAKER_06
+I'm going to send a photo to you.
+
+[00:19:09] SPEAKER_04
+Oh, there's a photo, uh, that was posted.
+
+[00:19:11] SPEAKER_04
+I never considered the concept of championship belts for hot dog eating.
+
+[00:19:15] SPEAKER_04
+And I liked that a lot.
+
+[00:19:16] SPEAKER_03
+Oh, a champ dude.
+
+[00:19:18] SPEAKER_03
+Championship belts for everything, dude.
+
+[00:19:20] SPEAKER_03
+You just hold them up.
+
+[00:19:21] SPEAKER_03
+You can do anything to them.
+
+[00:19:23] SPEAKER_03
+It's great.
+
+[00:19:23] SPEAKER_03
+That's you got to have championship belts for stuff.
+
+[00:19:25] SPEAKER_04
+You are.
+
+[00:19:26] SPEAKER_04
+You're so right.
+
+[00:19:27] SPEAKER_04
+There should, the championship belt should be the standard for any accomplishment in life.
+
+[00:19:31] SPEAKER_06
+There you go.
+
+[00:19:32] SPEAKER_04
+If you get a raise at your job, it should come with a championship belt representative of
+
+[00:19:36] SPEAKER_04
+the race.
+
+[00:19:36] SPEAKER_04
+Oh, that's cool.
+
+[00:19:37] SPEAKER_06
+It is close on your house.
+
+[00:19:39] SPEAKER_06
+So do you get a belt for it?
+
+[00:19:40] SPEAKER_06
+Yeah.
+
+[00:19:40] SPEAKER_06
+Yeah.
+
+[00:19:40] SPEAKER_06
+I got a little piece of her shoulder, I guess.
+
+[00:19:45] SPEAKER_03
+Andrew, you're talking about championship belts for everything.
+
+[00:19:47] SPEAKER_03
+There was a crossover.
+
+[00:19:49] SPEAKER_03
+I think it was last Halloween.
+
+[00:19:51] SPEAKER_03
+And I don't remember what the purpose of it was or what the point was, but AEW wrestling
+
+[00:19:57] SPEAKER_03
+had a championship.
+
+[00:19:59] SPEAKER_03
+This, they did it one and only time.
+
+[00:20:01] SPEAKER_03
+The Texas Chainsaw Massacre leather face title.
+
+[00:20:04] SPEAKER_03
+That's so cool.
+
+[00:20:06] SPEAKER_03
+It was, it was so awesome.
+
+[00:20:08] SPEAKER_03
+And then it was like a Texas death match and Jeff Jarrett won it and he's all bloody.
+
+[00:20:13] SPEAKER_03
+And it was like, oh, fuck yeah.
+
+[00:20:15] SPEAKER_05
+It's so awesome.
+
+[00:20:17] SPEAKER_05
+Do you think they changed to that theme after they clearly messed up the face of whoever
+
+[00:20:20] SPEAKER_05
+they were originally trying to put on that belt?
+
+[00:20:22] SPEAKER_03
+It was supposed to be someone else and they just went, sand it down, sand it down.
+
+[00:20:25] SPEAKER_01
+Whether life serves you an ace or an unexpected backhand, the high protein yogurt Oikos Pro
+
+[00:20:38] SPEAKER_01
+is there to feed your strength and help you turn every challenge into a smash.
+
+[00:20:42] SPEAKER_01
+Oikos Pro helps build strong muscles and support muscle recovery with high protein and contains
+
+[00:20:47] SPEAKER_01
+no added sugar.
+
+[00:20:49] SPEAKER_01
+Because true strength isn't about being able to take the hits.
+
+[00:20:52] SPEAKER_01
+It's about being able to bounce back.
+
+[00:20:55] SPEAKER_01
+Oikos Pro.
+
+[00:20:56] SPEAKER_01
+Feed your strength.
+
+[00:20:57] SPEAKER_01
+Visit oikos.ca for more details.
+
+[00:21:01] SPEAKER_00
+When you're a mid-sized business, you need every competitive advantage you can get.
+
+[00:21:05] SPEAKER_00
+Like an AI solution that works for you, not against you.
+
+[00:21:09] SPEAKER_00
+SAP Grow is built with AI embedded at its core, working across every system.
+
+[00:21:14] SPEAKER_00
+And it's ready to go from day one.
+
+[00:21:16] SPEAKER_00
+So you can hit the ground running.
+
+[00:21:18] SPEAKER_00
+Bring it with SAP Grow.
+
+[00:21:20] SPEAKER_00
+AI cloud ERP for any size business.
+
+[00:21:23] SPEAKER_05
+I had to, uh, I had a new, uh, old time dumb moment for my dumb era that I'm still in.
+
+[00:21:30] SPEAKER_05
+Ooh, I got one too.
+
+[00:21:31] SPEAKER_05
+What's yours?
+
+[00:21:32] SPEAKER_05
+I had a realization.
+
+[00:21:34] SPEAKER_05
+Um, the mouse holes.
+
+[00:21:37] SPEAKER_05
+They're made by the mice.
+
+[00:21:39] SPEAKER_05
+The mouse holes are made by the mice.
+
+[00:21:42] SPEAKER_05
+Who did you think made them?
+
+[00:21:43] SPEAKER_05
+I don't know.
+
+[00:21:44] SPEAKER_05
+I just thought, in cartoons, I just thought it was like a feature of the house.
+
+[00:21:47] SPEAKER_05
+Like, oh, I just thought it was something that the mice used.
+
+[00:21:53] SPEAKER_06
+Wait, like the, like the architect goes around and is like, no, ma'am, where would you like
+
+[00:21:58] SPEAKER_06
+the kitchen mouse hole to be?
+
+[00:22:00] SPEAKER_06
+I thought it was like, I thought it was put there for a reason.
+
+[00:22:05] SPEAKER_04
+I didn't realize it was just chewed out.
+
+[00:22:07] SPEAKER_04
+So how did you realize that the mouse hole was made by the mouse?
+
+[00:22:10] SPEAKER_04
+What was the moment where it clicked?
+
+[00:22:12] SPEAKER_05
+I was watching Mr. Bean.
+
+[00:22:14] SPEAKER_05
+It's a Christmas episode where he, he, he gets, uh, socks for Christmas and then he gets
+
+[00:22:19] SPEAKER_05
+a bit of cheese for them, for the mouse.
+
+[00:22:21] SPEAKER_04
+And, uh, I was like, oh, I get, that is an insane thing to realize at this stage.
+
+[00:22:29] SPEAKER_04
+I was so baffled by what you're saying by that.
+
+[00:22:32] SPEAKER_04
+The mouse hole was made by the mouse.
+
+[00:22:34] SPEAKER_04
+I picked up the mouse on my desk and flipped it over and looked at the hole at the bottom.
+
+[00:22:39] SPEAKER_04
+It was like, what are you, what is he talking about?
+
+[00:22:42] SPEAKER_04
+Like it, it was the fact the house hole being mouse made is so like that.
+
+[00:22:49] SPEAKER_04
+They did not cross because it's a given in my brain.
+
+[00:22:51] SPEAKER_05
+Yeah.
+
+[00:22:52] SPEAKER_05
+I just never really thought about the origins of it when I was eight.
+
+[00:22:55] SPEAKER_05
+That's fair.
+
+[00:22:57] SPEAKER_05
+So you always knew as a kid that, that Jerry's hole, he made it.
+
+[00:23:01] SPEAKER_05
+Yeah.
+
+[00:23:01] SPEAKER_05
+You never see him making it.
+
+[00:23:02] SPEAKER_06
+He's a pest.
+
+[00:23:04] SPEAKER_06
+They don't, they don't, anytime they see him, they're trying to get rid of him.
+
+[00:23:07] SPEAKER_06
+They don't want him to be there.
+
+[00:23:08] SPEAKER_06
+He's hiding from them in the hole.
+
+[00:23:10] SPEAKER_06
+Why would they put a hole for him to hide in the house?
+
+[00:23:13] SPEAKER_06
+Yeah.
+
+[00:23:13] SPEAKER_06
+I just don't know why they didn't just plug the hole.
+
+[00:23:16] SPEAKER_05
+Yep.
+
+[00:23:16] SPEAKER_05
+Cause he'd make a new one.
+
+[00:23:17] SPEAKER_05
+I remember there was one where he used to, he used to saw once I think to make a new
+
+[00:23:21] SPEAKER_05
+one.
+
+[00:23:21] SPEAKER_06
+Oh yeah.
+
+[00:23:22] SPEAKER_06
+I'm pretty sure that there have been episodes where Tom tries to plug the hole or like,
+
+[00:23:26] SPEAKER_06
+you know, he's got a little, yeah.
+
+[00:23:27] SPEAKER_06
+No, I mean, why didn't the humans plug the hole?
+
+[00:23:30] SPEAKER_04
+Well, I think the idea would be just make another one.
+
+[00:23:32] SPEAKER_04
+I never thought about it really either.
+
+[00:23:34] SPEAKER_06
+The human solution to plugging the hole was getting a cat representative of it being their
+
+[00:23:40] SPEAKER_04
+home.
+
+[00:23:41] SPEAKER_04
+So I associated it with the mouse.
+
+[00:23:43] SPEAKER_04
+The mouse did that.
+
+[00:23:44] SPEAKER_04
+It's their house.
+
+[00:23:45] SPEAKER_04
+They're responsible for it.
+
+[00:23:46] SPEAKER_03
+I, I can kind of see where you're coming from because with some of this stuff, I'm
+
+[00:23:51] SPEAKER_03
+The mouse hole is so nice.
+
+[00:23:54] SPEAKER_03
+And then, you know, nicely done.
+
+[00:23:56] SPEAKER_06
+Yeah.
+
+[00:23:56] SPEAKER_06
+But the mouse house on the inside is nice too.
+
+[00:23:58] SPEAKER_06
+It's got a little furniture and a little lamp.
+
+[00:24:00] SPEAKER_03
+It's got electricity.
+
+[00:24:02] SPEAKER_03
+Sometimes he would, sometimes he would decorate the mouse hole and put like a door with the
+
+[00:24:06] SPEAKER_03
+mouse hole.
+
+[00:24:06] SPEAKER_03
+I think that's what ruined my, my understanding of it.
+
+[00:24:10] SPEAKER_05
+Because a lot of the time as well, especially here, houses have weird shit in them.
+
+[00:24:14] SPEAKER_05
+Like a, like a whole house vacuum hole.
+
+[00:24:17] SPEAKER_06
+Like some houses just have plugs for vacuum.
+
+[00:24:22] SPEAKER_06
+Dig out that in America too, Nick, in older houses.
+
+[00:24:25] SPEAKER_03
+Some houses just have plug for vacuum.
+
+[00:24:29] SPEAKER_03
+Yeah.
+
+[00:24:30] SPEAKER_06
+It's like built in.
+
+[00:24:31] SPEAKER_06
+Yeah.
+
+[00:24:32] SPEAKER_06
+Like every, there are houses that they have it in America too, especially on the East coast
+
+[00:24:36] SPEAKER_06
+where there's like a central vacuuming system under the house.
+
+[00:24:39] SPEAKER_06
+And then where you have like floor registers for floor vents, you'll have just like a, a
+
+[00:24:44] SPEAKER_06
+little metal thing where you can plug a, like a vacuum cleaner, like cable.
+
+[00:24:50] SPEAKER_03
+I've never seen.
+
+[00:24:52] SPEAKER_03
+What?
+
+[00:24:52] SPEAKER_03
+Yeah.
+
+[00:24:53] SPEAKER_03
+How come my house doesn't have this?
+
+[00:24:55] SPEAKER_05
+I think it's an old thing.
+
+[00:24:56] SPEAKER_05
+I think it's like a, yeah.
+
+[00:24:57] SPEAKER_05
+Yeah.
+
+[00:24:57] SPEAKER_05
+You just have to chew and you just plug it into these ports.
+
+[00:25:00] SPEAKER_05
+Yeah.
+
+[00:25:00] SPEAKER_03
+Why don't I have this?
+
+[00:25:01] SPEAKER_03
+This seems so much better.
+
+[00:25:04] SPEAKER_06
+Probably because it doesn't work worth a shit and it's expensive and hard to maintain
+
+[00:25:07] SPEAKER_06
+or something.
+
+[00:25:08] SPEAKER_03
+Oh, I didn't consider those things.
+
+[00:25:09] SPEAKER_03
+I just saw it and I got excited.
+
+[00:25:10] SPEAKER_05
+It's old, old, old stuff.
+
+[00:25:13] SPEAKER_05
+I assume like if you have a clog, it's a pain in the ass.
+
+[00:25:16] SPEAKER_05
+Like where is it?
+
+[00:25:17] SPEAKER_05
+Is it in the walls?
+
+[00:25:18] SPEAKER_05
+Is it in the tube?
+
+[00:25:18] SPEAKER_05
+Is it in the main unit?
+
+[00:25:20] SPEAKER_04
+I've lived in a place that had one and I never understood where it went and it always
+
+[00:25:24] SPEAKER_04
+concerns me.
+
+[00:25:26] SPEAKER_04
+It just seemed like if something went wrong, yeah, like where did, where does the stuff
+
+[00:25:30] SPEAKER_04
+go?
+
+[00:25:30] SPEAKER_04
+Does it shoot outside?
+
+[00:25:32] SPEAKER_04
+Where is it going?
+
+[00:25:33] SPEAKER_05
+Well, I assume there's a, there's a closet somewhere with the actual Hoover in it.
+
+[00:25:36] SPEAKER_05
+I don't know.
+
+[00:25:37] SPEAKER_05
+What if Dyson just read, like reinvented it?
+
+[00:25:40] SPEAKER_05
+Yeah.
+
+[00:25:41] SPEAKER_05
+Just ports all through your, your wall.
+
+[00:25:44] SPEAKER_04
+I think it'd be exciting.
+
+[00:25:46] SPEAKER_04
+That could be fun.
+
+[00:25:47] SPEAKER_04
+Oh, what is it?
+
+[00:25:48] SPEAKER_03
+It's a whole, it's a whole system that is tubing that goes down into your basement.
+
+[00:25:53] SPEAKER_03
+And I guess that's why I've never seen this.
+
+[00:25:54] SPEAKER_03
+Cause I don't think in my life I've been in more than two basements.
+
+[00:25:59] SPEAKER_03
+It's got a collection canister and everything.
+
+[00:26:01] SPEAKER_03
+And then a vent, but I don't know.
+
+[00:26:05] SPEAKER_03
+Do you have to empty the collection canister?
+
+[00:26:07] SPEAKER_03
+Because then I'm like, never I'm out because I'm already doing, I'm already emptying a canister.
+
+[00:26:13] SPEAKER_03
+I'm trying to get away from canisters.
+
+[00:26:15] SPEAKER_06
+I think you just empty it a hell of a lot less often than you would empty a vacuum cleaner bag.
+
+[00:26:20] SPEAKER_04
+I don't think we ever emptied the canister.
+
+[00:26:23] SPEAKER_06
+What?
+
+[00:26:23] SPEAKER_04
+I'm going to ask you this.
+
+[00:26:25] SPEAKER_06
+You probably didn't, but I guarantee you the grownups probably did.
+
+[00:26:28] SPEAKER_04
+I don't think the grownups did.
+
+[00:26:31] SPEAKER_03
+I'm going to ask some questions.
+
+[00:26:32] SPEAKER_03
+I just, I, there's no way they didn't.
+
+[00:26:35] SPEAKER_04
+I think it just shot out the side of the house.
+
+[00:26:37] SPEAKER_05
+Yeah.
+
+[00:26:38] SPEAKER_05
+I'm pretty sure.
+
+[00:26:39] SPEAKER_05
+You back up for five or six years and then you move.
+
+[00:26:42] SPEAKER_06
+Yeah, that would, yeah.
+
+[00:26:44] SPEAKER_06
+Now here's the question.
+
+[00:26:45] SPEAKER_06
+Can you get one of these installed in 2024?
+
+[00:26:47] SPEAKER_06
+Like, is it a still an, it's an existing technology and that exists in old houses, but is it still
+
+[00:26:53] SPEAKER_06
+a purchasable thing?
+
+[00:26:55] SPEAKER_03
+It is.
+
+[00:26:56] SPEAKER_03
+And you can find a lot of stuff like whole stores for it and Home Depot sells full systems.
+
+[00:27:03] SPEAKER_03
+Oh yeah.
+
+[00:27:04] SPEAKER_03
+Here we go.
+
+[00:27:04] SPEAKER_06
+The OVO central vacuum.
+
+[00:27:07] SPEAKER_03
+Yeah.
+
+[00:27:07] SPEAKER_03
+Wow.
+
+[00:27:08] SPEAKER_03
+It's not, it doesn't look like the parts are necessarily expensive, but like having
+
+[00:27:11] SPEAKER_03
+to run everything seems like it probably would be.
+
+[00:27:15] SPEAKER_05
+Yeah.
+
+[00:27:16] SPEAKER_05
+Dang.
+
+[00:27:17] SPEAKER_05
+Oh, 3,200 bucks to have one installed.
+
+[00:27:20] SPEAKER_05
+I don't, I don't see any benefit in doing this.
+
+[00:27:23] SPEAKER_03
+No, if I have to empty a canister still, no, no dice, baby.
+
+[00:27:27] SPEAKER_06
+Well, so I'm still trailing around a big hose.
+
+[00:27:29] SPEAKER_06
+Yeah.
+
+[00:27:29] SPEAKER_06
+The thing that kills it for me is you got to put another hole in your wall.
+
+[00:27:31] SPEAKER_06
+That's fucking noticeable.
+
+[00:27:32] SPEAKER_06
+I hate all the plugs and shit that hang out of a wall.
+
+[00:27:35] SPEAKER_06
+Yeah.
+
+[00:27:36] SPEAKER_06
+And then a mouse might live in it.
+
+[00:27:37] SPEAKER_06
+Yeah.
+
+[00:27:37] SPEAKER_06
+Yeah.
+
+[00:27:38] SPEAKER_03
+Yeah.
+
+[00:27:38] SPEAKER_03
+But then he has his own little vacuum that hooks into your central vacuum and you got
+
+[00:27:42] SPEAKER_03
+mouse crumbs everywhere.
+
+[00:27:44] SPEAKER_04
+Okay.
+
+[00:27:44] SPEAKER_04
+Now imagine that it just depletes outside your house.
+
+[00:27:48] SPEAKER_04
+It just shoots it out.
+
+[00:27:49] SPEAKER_04
+And you're just launching your mouse out the house constantly.
+
+[00:27:54] SPEAKER_05
+Now that's an interesting idea.
+
+[00:27:55] SPEAKER_04
+Shooting him out the side.
+
+[00:27:56] SPEAKER_05
+Sounds like a euphemism.
+
+[00:27:58] SPEAKER_03
+Yeah.
+
+[00:28:00] SPEAKER_03
+Dude, I was shooting the mouse out of the house last night.
+
+[00:28:03] SPEAKER_06
+It becomes six flags for all the mice in the neighborhood.
+
+[00:28:10] SPEAKER_04
+I, the premise of, I'm going to post a photo.
+
+[00:28:14] SPEAKER_04
+I Googled real life mouse hole.
+
+[00:28:15] SPEAKER_04
+The idea that Gavin, like, buys a house and then sees one and is like, wait, we got to talk
+
+[00:28:21] SPEAKER_04
+to the realtor.
+
+[00:28:22] SPEAKER_04
+They did not tell me that there is a mouse hole in this house.
+
+[00:28:25] SPEAKER_04
+Where's the ornate metal?
+
+[00:28:26] SPEAKER_04
+Where's the little lamp?
+
+[00:28:27] SPEAKER_04
+Yeah.
+
+[00:28:28] SPEAKER_04
+The mouse hole feature is lacking.
+
+[00:28:31] SPEAKER_04
+Gavin would be like, oh shit, I don't have permits for being a landlord.
+
+[00:28:34] SPEAKER_05
+We got to, we got to adjust this.
+
+[00:28:37] SPEAKER_05
+If it was, oh, imagine if we could sell a regulation mouse hole plug.
+
+[00:28:42] SPEAKER_05
+Oh.
+
+[00:28:43] SPEAKER_05
+The problem is, I don't think there is a regulation mouse hole.
+
+[00:28:46] SPEAKER_05
+There's no, there's no regulation size.
+
+[00:28:47] SPEAKER_06
+I would say Jerry's mouse hole would be the regulation mouse hole.
+
+[00:28:51] SPEAKER_04
+Do we know how big it is?
+
+[00:28:52] SPEAKER_04
+Has anyone ever done the math to determine the size?
+
+[00:28:56] SPEAKER_06
+I'm sure somebody has.
+
+[00:28:57] SPEAKER_04
+I bet you there is in like some of the video games, like detailed information about the height.
+
+[00:29:02] SPEAKER_06
+Was there ever a live action Tom and Jerry?
+
+[00:29:09] SPEAKER_04
+Live action, like Homewood Bound style, like with real animals.
+
+[00:29:13] SPEAKER_04
+There was a Tom and Jerry movie a few years ago.
+
+[00:29:16] SPEAKER_04
+Yeah, but.
+
+[00:29:18] SPEAKER_04
+A live action Tom and Jerry movie feels like something that Warner Brothers would have kept
+
+[00:29:22] SPEAKER_04
+locked away for tax reasons.
+
+[00:29:25] SPEAKER_05
+Yeah, it sounds like something that would only be on LiveLeak.
+
+[00:29:28] SPEAKER_06
+I bet you there's a real mouse hole in this that we could get the sizing from.
+
+[00:29:32] SPEAKER_03
+Here are some of the characteristics of mouse holes.
+
+[00:29:36] SPEAKER_03
+Size.
+
+[00:29:38] SPEAKER_03
+Nod.
+
+[00:29:38] SPEAKER_03
+Mouse holes are usually about the size of a dime.
+
+[00:29:43] SPEAKER_05
+Whoa.
+
+[00:29:44] SPEAKER_06
+That's too small.
+
+[00:29:45] SPEAKER_06
+I don't see how Tom could have fit his head through a dime hole.
+
+[00:29:48] SPEAKER_06
+There's no way.
+
+[00:29:48] SPEAKER_06
+It's gotta be at least Tom sized.
+
+[00:29:50] SPEAKER_06
+Yeah.
+
+[00:29:51] SPEAKER_06
+I want Tom to be able to walk through and not hit his head.
+
+[00:29:54] SPEAKER_06
+You mean Jerry?
+
+[00:29:55] SPEAKER_06
+I'm sorry, Jerry.
+
+[00:29:56] SPEAKER_06
+Yeah.
+
+[00:29:56] SPEAKER_05
+Because sometimes Tom would get his head stuck in the mouse hole.
+
+[00:29:59] SPEAKER_05
+It is true.
+
+[00:29:59] SPEAKER_03
+I found a YouTube video called cat TV, mice in the Jerry mouse hole, eight hours, videos
+
+[00:30:08] SPEAKER_03
+for cats.
+
+[00:30:10] SPEAKER_03
+And look at, you have to see, there's a perfectly cut mouse hole.
+
+[00:30:21] SPEAKER_03
+Oh my God.
+
+[00:30:23] SPEAKER_06
+Oh, that's great.
+
+[00:30:24] SPEAKER_06
+That's amazing.
+
+[00:30:25] SPEAKER_06
+There you go.
+
+[00:30:26] SPEAKER_06
+That's a regulation mouse hole right there.
+
+[00:30:27] SPEAKER_06
+I'm going to, I'm going to snip a picture so that we Shelby can post it because it's
+
+[00:30:31] SPEAKER_03
+fucking great.
+
+[00:30:31] SPEAKER_04
+I just found on Etsy, somebody sells decorative mouse holes.
+
+[00:30:35] SPEAKER_04
+What?
+
+[00:30:36] SPEAKER_04
+Can you imagine walking into somebody's house and they just have that?
+
+[00:30:39] SPEAKER_04
+It's the cartoon.
+
+[00:30:41] SPEAKER_05
+See, that's what I thought it was like.
+
+[00:30:42] SPEAKER_05
+That's what you need.
+
+[00:30:43] SPEAKER_05
+That's pretty cute.
+
+[00:30:45] SPEAKER_05
+Oh.
+
+[00:30:46] SPEAKER_04
+Oh, man.
+
+[00:30:47] SPEAKER_04
+That's wild.
+
+[00:30:48] SPEAKER_04
+Decorative.
+
+[00:30:49] SPEAKER_04
+I never even considered a decorative mouse hole.
+
+[00:30:51] SPEAKER_04
+That really opens things up.
+
+[00:30:53] SPEAKER_04
+Are there any other iconic mice that use mouse holes?
+
+[00:30:58] SPEAKER_04
+Jerry's thing, right?
+
+[00:30:59] SPEAKER_04
+We're getting so many minutes out of mouse holes right now.
+
+[00:31:02] SPEAKER_04
+I'm just like Mighty Mouse didn't have a mouse hole to my knowledge.
+
+[00:31:06] SPEAKER_05
+What about the three blind ones?
+
+[00:31:08] SPEAKER_03
+I don't know about them.
+
+[00:31:09] SPEAKER_03
+I think their thing is that they couldn't find it.
+
+[00:31:13] SPEAKER_06
+Mickey Mouse doesn't have one.
+
+[00:31:15] SPEAKER_03
+Yeah.
+
+[00:31:16] SPEAKER_03
+No, he just has a house.
+
+[00:31:17] SPEAKER_03
+I Googled iconic mouse holes and it's not really giving me anything.
+
+[00:31:22] SPEAKER_03
+Does Stuart Little have one?
+
+[00:31:24] SPEAKER_03
+Oh, that's pretty good.
+
+[00:31:27] SPEAKER_04
+Okay.
+
+[00:31:28] SPEAKER_04
+This is not to.
+
+[00:31:30] SPEAKER_04
+How does the fox hole relate to the mouse hole?
+
+[00:31:33] SPEAKER_04
+Oh, my God.
+
+[00:31:33] SPEAKER_04
+And is there anything between those two?
+
+[00:31:38] SPEAKER_04
+Should we have an animal hole draft?
+
+[00:31:40] SPEAKER_04
+Animal holes.
+
+[00:31:42] SPEAKER_03
+Where did the term fox hole come from?
+
+[00:31:45] SPEAKER_03
+Jesus.
+
+[00:31:46] SPEAKER_03
+Because it's not.
+
+[00:31:47] SPEAKER_03
+Well, foxes live in like a den and I think they dig a hole, right?
+
+[00:31:50] SPEAKER_03
+Oh, do they also?
+
+[00:31:52] SPEAKER_03
+Yeah, I think so.
+
+[00:31:54] SPEAKER_03
+Moles.
+
+[00:31:55] SPEAKER_03
+Moles are a good one.
+
+[00:31:56] SPEAKER_03
+I would say groundhogs.
+
+[00:31:58] SPEAKER_06
+The first recorded use was in a U.S. Army report
+
+[00:32:03] SPEAKER_06
+from, I don't know, 19-0-something.
+
+[00:32:07] SPEAKER_06
+Describing German soldiers building a hole in the ground
+
+[00:32:10] SPEAKER_06
+sufficient to give shelter to one or two soldiers.
+
+[00:32:14] SPEAKER_06
+They called it, they just called it a fox's den or a fox hole.
+
+[00:32:18] SPEAKER_04
+There you go.
+
+[00:32:18] SPEAKER_04
+I'm so dumb where I Googled fox home
+
+[00:32:21] SPEAKER_04
+thinking I would find a house of a fox
+
+[00:32:24] SPEAKER_04
+and it's just a chain of stores called Fox Home.
+
+[00:32:27] SPEAKER_04
+And all the images are just fox home stores.
+
+[00:32:30] SPEAKER_03
+That looks AI.
+
+[00:32:31] SPEAKER_06
+That doesn't even look like a real store.
+
+[00:32:34] SPEAKER_03
+Dude, I found rabbits living in holes.
+
+[00:32:36] SPEAKER_03
+So that's bringing it back around to classic Gavin stuff.
+
+[00:32:39] SPEAKER_06
+Rabbits live in holes?
+
+[00:32:41] SPEAKER_99
+Yeah, burrow.
+
+[00:32:42] SPEAKER_06
+Yeah, and piles of trash and stuff.
+
+[00:32:44] SPEAKER_03
+Yeah, and they don't necessarily,
+
+[00:32:47] SPEAKER_03
+like usually it's like just a thing they dig in.
+
+[00:32:49] SPEAKER_03
+Oh, it didn't send.
+
+[00:32:50] SPEAKER_03
+It's just a lot of stuff where it's Gavin style
+
+[00:32:55] SPEAKER_03
+where you go, oh, it has a little lamp that they go in light
+
+[00:32:58] SPEAKER_04
+and they live underground in a fairy tunnel.
+
+[00:33:02] SPEAKER_04
+So I have a question,
+
+[00:33:03] SPEAKER_04
+and this is probably in the same line of Dom as Gavin's.
+
+[00:33:06] SPEAKER_04
+Do ants build the hill
+
+[00:33:07] SPEAKER_04
+or do they just dig into the earth from a hill?
+
+[00:33:15] SPEAKER_04
+Because ants do the ant hill thing.
+
+[00:33:18] SPEAKER_05
+It's the mud removed from the ground.
+
+[00:33:19] SPEAKER_03
+Yes.
+
+[00:33:21] SPEAKER_03
+It has to go somewhere.
+
+[00:33:22] SPEAKER_03
+It's being displaced.
+
+[00:33:23] SPEAKER_03
+So it go up.
+
+[00:33:25] SPEAKER_06
+Like a molehill.
+
+[00:33:25] SPEAKER_06
+So the answer is yes to both.
+
+[00:33:28] SPEAKER_05
+So you're asking, do they find the hill,
+
+[00:33:31] SPEAKER_05
+the little mound and then move into it?
+
+[00:33:33] SPEAKER_04
+Yeah, I wasn't sure if it was.
+
+[00:33:35] SPEAKER_05
+How would the mound get there?
+
+[00:33:39] SPEAKER_04
+Nature finds a way.
+
+[00:33:42] SPEAKER_04
+Stuff like you just, I don't know,
+
+[00:33:44] SPEAKER_04
+you come across things in the wild and it happens.
+
+[00:33:48] SPEAKER_04
+I don't know how it happens.
+
+[00:33:48] SPEAKER_05
+So was that your dumb thing that you were going to say?
+
+[00:33:51] SPEAKER_04
+I just, no, no, it wasn't.
+
+[00:33:53] SPEAKER_04
+It wasn't about ant hill.
+
+[00:33:54] SPEAKER_04
+My dumb thing was, I'm a known Android phone user,
+
+[00:33:59] SPEAKER_04
+as you know, Gavin loves it.
+
+[00:34:01] SPEAKER_04
+He's a big fan of it.
+
+[00:34:04] SPEAKER_04
+I, my mom uses an iPhone and I got her,
+
+[00:34:07] SPEAKER_04
+she was using an iPhone six.
+
+[00:34:09] SPEAKER_04
+The battery was fucked on it at this point
+
+[00:34:11] SPEAKER_04
+because that is a very old phone.
+
+[00:34:13] SPEAKER_04
+So it's a gift.
+
+[00:34:14] SPEAKER_04
+I got her a new phone and she is not as tech incompetent as I am.
+
+[00:34:22] SPEAKER_04
+She is a further down the line scale of that.
+
+[00:34:26] SPEAKER_04
+So I was setting it up to give to her.
+
+[00:34:28] SPEAKER_04
+And the primary thing for her is that she likes the ringer to be loud.
+
+[00:34:33] SPEAKER_04
+And so I was like, I need to make sure it's not on vibrate.
+
+[00:34:36] SPEAKER_04
+I need to figure out how to switch from vibrate to ringing.
+
+[00:34:39] SPEAKER_04
+Cause in the iPhone six, it's the flip thing.
+
+[00:34:42] SPEAKER_04
+And she'd constantly flip it.
+
+[00:34:44] SPEAKER_04
+So I need to make sure I understand how this works.
+
+[00:34:46] SPEAKER_04
+And then I need to make sure the volume is loud.
+
+[00:34:48] SPEAKER_04
+So I'm holding my phone and I'm holding the iPhone in the other hand.
+
+[00:34:54] SPEAKER_04
+And I'm going into settings and I crank the volume.
+
+[00:34:57] SPEAKER_04
+And I'm like, okay, I'll just test this.
+
+[00:34:59] SPEAKER_04
+And so I call the iPhone and it is very quiet, the ringer.
+
+[00:35:04] SPEAKER_04
+And I can't figure out why.
+
+[00:35:06] SPEAKER_04
+So I test it several times.
+
+[00:35:08] SPEAKER_04
+Doesn't work.
+
+[00:35:09] SPEAKER_04
+I then think, well, maybe the speaker on this just is broken.
+
+[00:35:13] SPEAKER_04
+So I go into a YouTube video.
+
+[00:35:14] SPEAKER_04
+I set up the Wi-Fi and when I'm watching something, it's super loud.
+
+[00:35:18] SPEAKER_04
+I was like, okay, so it's not that.
+
+[00:35:19] SPEAKER_04
+So I call again, still quiet, go into the settings, crank it.
+
+[00:35:23] SPEAKER_04
+And it's so loud in the settings.
+
+[00:35:25] SPEAKER_04
+It's perfect.
+
+[00:35:26] SPEAKER_04
+But whenever I call it, it is quiet and I can't figure out why.
+
+[00:35:30] SPEAKER_04
+So then I go into a YouTube.
+
+[00:35:32] SPEAKER_04
+How to, why is the phone quiet?
+
+[00:35:34] SPEAKER_04
+And I never knew this.
+
+[00:35:37] SPEAKER_04
+Apparently, if you stare at an iPhone, it knows you're looking at it and it deafens the ring because you're looking at it.
+
+[00:35:45] SPEAKER_04
+Oh, that is not a feature that I ever realized.
+
+[00:35:49] SPEAKER_04
+So there was nothing wrong.
+
+[00:35:50] SPEAKER_04
+I spent like 30 minutes trying to troubleshoot this thing.
+
+[00:35:53] SPEAKER_04
+The problem was.
+
+[00:35:54] SPEAKER_04
+Is that true?
+
+[00:35:57] SPEAKER_04
+For the iPhone, the one I got, it is.
+
+[00:36:00] SPEAKER_06
+Never heard that before.
+
+[00:36:02] SPEAKER_04
+It's like the iPhone, whatever the last mini iPhone was, like iPhone 12 or something.
+
+[00:36:07] SPEAKER_03
+Yeah, 12 was like the last mini.
+
+[00:36:09] SPEAKER_03
+So it's shy.
+
+[00:36:11] SPEAKER_03
+What?
+
+[00:36:14] SPEAKER_03
+What are you saying?
+
+[00:36:15] SPEAKER_03
+Oh my gosh, don't look at me.
+
+[00:36:16] SPEAKER_04
+Stop.
+
+[00:36:17] SPEAKER_04
+I'm shy.
+
+[00:36:18] SPEAKER_04
+Yeah, it is shy.
+
+[00:36:19] SPEAKER_04
+I'm ringing.
+
+[00:36:20] SPEAKER_04
+I just had never heard that before.
+
+[00:36:21] SPEAKER_04
+I assume that was just a dumb thing I didn't know and that iPhone users all are like, yeah, that's how that works.
+
+[00:36:26] SPEAKER_06
+No, I don't think you're dumb for that.
+
+[00:36:27] SPEAKER_06
+No, I don't think you're dumb for that either.
+
+[00:36:29] SPEAKER_03
+I spent so much time.
+
+[00:36:30] SPEAKER_03
+I think going on YouTube and searching why is the phone quiet is a very funny thing to type.
+
+[00:36:36] SPEAKER_03
+Why is the phone quiet?
+
+[00:36:38] SPEAKER_04
+And let me tell you, the video was not helpful.
+
+[00:36:41] SPEAKER_04
+It was seven comments down.
+
+[00:36:43] SPEAKER_04
+Somebody just wrote, you're looking at it.
+
+[00:36:45] SPEAKER_04
+And I put it down and I tried it and then it was perfect.
+
+[00:36:49] SPEAKER_05
+Oh, wow.
+
+[00:36:50] SPEAKER_05
+Why does it ring a tool if you're looking at it?
+
+[00:36:52] SPEAKER_04
+I don't.
+
+[00:36:53] SPEAKER_04
+It's very muffled.
+
+[00:36:54] SPEAKER_04
+Like they reduce the volume.
+
+[00:36:55] SPEAKER_04
+I don't know if it still works that way.
+
+[00:36:57] SPEAKER_05
+Hmm.
+
+[00:36:58] SPEAKER_06
+Hmm.
+
+[00:36:58] SPEAKER_04
+Um, but yeah, I didn't know that.
+
+[00:37:01] SPEAKER_04
+And so that's if you're setting up an iPhone 12 mini and you're worried about the ring you're looking at.
+
+[00:37:08] SPEAKER_04
+Just put it down.
+
+[00:37:09] SPEAKER_04
+It was just so funny to me that my problem was this.
+
+[00:37:12] SPEAKER_04
+I was staring at it.
+
+[00:37:13] SPEAKER_04
+That was the issue.
+
+[00:37:15] SPEAKER_06
+I would think it'd be the weirdest thing about that would be.
+
+[00:37:18] SPEAKER_06
+My phone is watching me look at it and then making decisions based on my eye contact with it.
+
+[00:37:24] SPEAKER_05
+Well, it's just like face ID only works with your eyes open.
+
+[00:37:26] SPEAKER_05
+Yeah.
+
+[00:37:27] SPEAKER_05
+Weird.
+
+[00:37:28] SPEAKER_04
+I have a problem with the teriyaki phone that Gavin sent me.
+
+[00:37:33] SPEAKER_04
+The soy phone?
+
+[00:37:33] SPEAKER_04
+Where it has a anti soy phone.
+
+[00:37:36] SPEAKER_04
+Yeah, not teriyaki.
+
+[00:37:37] SPEAKER_04
+I don't know why.
+
+[00:37:38] SPEAKER_04
+I flipped that.
+
+[00:37:38] SPEAKER_04
+Um, it has a anti butt dial thing where if you block the camera, it just won't let you unlock the phone.
+
+[00:37:49] SPEAKER_04
+Oh, really?
+
+[00:37:51] SPEAKER_04
+Yeah.
+
+[00:37:51] SPEAKER_04
+Unless you click like now, I'm fine with it.
+
+[00:37:54] SPEAKER_04
+So there will be times I'm laying in bed and my face will be blocked or something by a blanket or there's just some barrier.
+
+[00:38:01] SPEAKER_04
+If there's any barrier, I'm trying to unlock my phone and it just will not let me.
+
+[00:38:06] SPEAKER_04
+That's so annoying.
+
+[00:38:07] SPEAKER_04
+It is an annoying, but like I'm sure you can just turn it off.
+
+[00:38:11] SPEAKER_04
+No problem.
+
+[00:38:12] SPEAKER_04
+But why?
+
+[00:38:13] SPEAKER_04
+How are you going to unlock your phone in your pocket anyway?
+
+[00:38:16] SPEAKER_04
+Well, yeah, I guess.
+
+[00:38:17] SPEAKER_04
+I don't know.
+
+[00:38:17] SPEAKER_04
+They tried to solve butt dialing, I guess, and that's a solution.
+
+[00:38:23] SPEAKER_05
+But if it's locked, how could you butt?
+
+[00:38:25] SPEAKER_05
+I'm so confused by that feature.
+
+[00:38:28] SPEAKER_04
+You've never accidentally sent stuff from a locked phone?
+
+[00:38:32] SPEAKER_04
+No.
+
+[00:38:32] SPEAKER_04
+How do you do it from a locked phone?
+
+[00:38:34] SPEAKER_04
+Does my ass know the code?
+
+[00:38:36] SPEAKER_04
+Yeah, I guess that's a good point.
+
+[00:38:39] SPEAKER_04
+I send things all the time to people whenever I'm getting up or whatever and I'm just holding the phone.
+
+[00:38:43] SPEAKER_04
+I need to lock my phone more.
+
+[00:38:47] SPEAKER_04
+I'll make posts sometimes.
+
+[00:38:49] SPEAKER_04
+Are you putting the phone in your pocket while it's unlocked?
+
+[00:38:53] SPEAKER_04
+Let's say like I'm getting out of bed or whatever.
+
+[00:38:56] SPEAKER_04
+I'll just grab, I'll put the phone in my palm and it'll be unlocked and I'll get up and I'll definitely back.
+
+[00:39:03] SPEAKER_04
+Sometimes I'll end up on a thing.
+
+[00:39:04] SPEAKER_04
+I don't even know how I got there.
+
+[00:39:06] SPEAKER_04
+It'll be like a random video.
+
+[00:39:07] SPEAKER_05
+So it's unlocked in your hand when you're not looking at it.
+
+[00:39:09] SPEAKER_05
+But when you are looking at it, it won't let you do anything because it wants it to be locked.
+
+[00:39:12] SPEAKER_04
+That's yeah, exactly.
+
+[00:39:13] SPEAKER_04
+I have a weird issue.
+
+[00:39:18] SPEAKER_04
+It's almost like a commitment issue, but it's not commitment.
+
+[00:39:22] SPEAKER_04
+Whenever you guys send something on a phone and it says like, let's say you're opening YouTube and it'll give you a prompt.
+
+[00:39:30] SPEAKER_04
+You're going to watch this video.
+
+[00:39:31] SPEAKER_04
+You're going to go on this link.
+
+[00:39:32] SPEAKER_04
+It's going to take you somewhere.
+
+[00:39:34] SPEAKER_04
+Do you want to open it this way?
+
+[00:39:36] SPEAKER_04
+Yes, this time, always or no.
+
+[00:39:40] SPEAKER_04
+I never do always.
+
+[00:39:41] SPEAKER_04
+I'm scared to do always on anything.
+
+[00:39:43] SPEAKER_04
+Not scared.
+
+[00:39:44] SPEAKER_04
+I just don't.
+
+[00:39:45] SPEAKER_04
+I don't trust it.
+
+[00:39:46] SPEAKER_05
+So I say you log into your bank and it's like, hey, do you want to like have this be your main browser so we don't have to do two factor all the time?
+
+[00:39:55] SPEAKER_05
+Would you press no?
+
+[00:39:56] SPEAKER_05
+You still want to go through every step?
+
+[00:39:58] SPEAKER_04
+No, I would do it for the two factor.
+
+[00:40:00] SPEAKER_04
+It's where it's like an app based thing.
+
+[00:40:03] SPEAKER_04
+OK, so for an example, any time.
+
+[00:40:06] SPEAKER_04
+Any time.
+
+[00:40:06] SPEAKER_04
+And we post Google Drive links all the time in our Slack.
+
+[00:40:10] SPEAKER_04
+I will get a pop up as the person who created the Slack.
+
+[00:40:13] SPEAKER_04
+I don't know if it pops up for you guys.
+
+[00:40:15] SPEAKER_04
+I assume no.
+
+[00:40:16] SPEAKER_04
+That says, hey, do you want to integrate Google Drive within this Slack channel?
+
+[00:40:23] SPEAKER_04
+Yes.
+
+[00:40:24] SPEAKER_04
+No.
+
+[00:40:25] SPEAKER_04
+Ask me later.
+
+[00:40:26] SPEAKER_04
+I always click ask me later because if I click yes and I don't want it to or if I click yes.
+
+[00:40:35] SPEAKER_04
+And it does something I don't want.
+
+[00:40:37] SPEAKER_04
+I then have to try to figure out how to disconnect it.
+
+[00:40:40] SPEAKER_05
+So you want the commitment to be after you know what happens.
+
+[00:40:44] SPEAKER_05
+What is it going to do that you don't want?
+
+[00:40:46] SPEAKER_05
+I don't know.
+
+[00:40:47] SPEAKER_99
+OK.
+
+[00:40:49] SPEAKER_06
+That's the problem.
+
+[00:40:49] SPEAKER_06
+But it gives you that option every time.
+
+[00:40:51] SPEAKER_06
+So surely after the second time, you know it's safe to go ahead and hit yes.
+
+[00:40:56] SPEAKER_04
+No, no.
+
+[00:40:56] SPEAKER_04
+Well, because I don't know how it will change things.
+
+[00:40:59] SPEAKER_05
+But this is also coming from the guy who lost your access to your own documents because you hid the sidebar.
+
+[00:41:07] SPEAKER_05
+I did what now?
+
+[00:41:08] SPEAKER_04
+Oh, yeah.
+
+[00:41:09] SPEAKER_04
+Yeah.
+
+[00:41:09] SPEAKER_04
+I just didn't click that.
+
+[00:41:11] SPEAKER_04
+It's like the three dots.
+
+[00:41:12] SPEAKER_04
+I don't click the thing.
+
+[00:41:13] SPEAKER_04
+See, that's the thing.
+
+[00:41:14] SPEAKER_04
+I'm concerned if I hit yes, it will in some way.
+
+[00:41:19] SPEAKER_04
+I think in my head, it's always like it'll break the server or something will go wrong.
+
+[00:41:25] SPEAKER_04
+It is a disaster.
+
+[00:41:27] SPEAKER_04
+It's going to break.
+
+[00:41:28] SPEAKER_06
+It's giving you an option to break itself.
+
+[00:41:32] SPEAKER_03
+Yeah.
+
+[00:41:33] SPEAKER_03
+Hey, what's up?
+
+[00:41:33] SPEAKER_03
+Do you want to break the server?
+
+[00:41:35] SPEAKER_03
+Yes.
+
+[00:41:35] SPEAKER_03
+No.
+
+[00:41:35] SPEAKER_03
+Maybe later.
+
+[00:41:37] SPEAKER_06
+It's OK if you say no.
+
+[00:41:39] SPEAKER_06
+We'll ask again next time you load this app.
+
+[00:41:42] SPEAKER_04
+I mean, yeah, let me let me get a visual example.
+
+[00:41:47] SPEAKER_04
+But I do it for everything.
+
+[00:41:48] SPEAKER_04
+So it'll be like if I if I or like, OK, I open a PDF of something.
+
+[00:41:55] SPEAKER_04
+It'll have seven apps that'll say, which one of these do you want to open with?
+
+[00:41:59] SPEAKER_04
+I will click one and I'll say, do you want to always open it via this?
+
+[00:42:02] SPEAKER_04
+And I will never say yes.
+
+[00:42:04] SPEAKER_05
+But what if that's your favorite way to view the PDF?
+
+[00:42:07] SPEAKER_04
+Well, it's like, what if something happens to that app is where I bring us?
+
+[00:42:11] SPEAKER_04
+And then it doesn't work.
+
+[00:42:13] SPEAKER_04
+So I always click just this time, every time, every single time.
+
+[00:42:19] SPEAKER_04
+I never lock.
+
+[00:42:20] SPEAKER_04
+I have an issue of commitment with apps.
+
+[00:42:23] SPEAKER_04
+I will not lock in.
+
+[00:42:24] SPEAKER_06
+Then just right click on it.
+
+[00:42:25] SPEAKER_06
+The next time you go to open it and go to open with and then every app on Earth that
+
+[00:42:29] SPEAKER_06
+you can open it with will be on my phone.
+
+[00:42:31] SPEAKER_06
+How do I right click on my phone?
+
+[00:42:35] SPEAKER_03
+Yeah.
+
+[00:42:36] SPEAKER_03
+Take, take, take that, Jeff.
+
+[00:42:39] SPEAKER_03
+It's not, that wasn't a take that.
+
+[00:42:41] SPEAKER_04
+I'm just saying, no, I'm not saying that.
+
+[00:42:43] SPEAKER_04
+I'm just saying I'm on my phone when I'm doing this 99% of the time.
+
+[00:42:47] SPEAKER_04
+This isn't a thing that outside of Slack happens on the browser.
+
+[00:42:50] SPEAKER_04
+I'm going to just ignore this.
+
+[00:42:55] SPEAKER_04
+I can send it to myself, actually.
+
+[00:42:59] SPEAKER_04
+So I'm sending it.
+
+[00:43:00] SPEAKER_04
+OK.
+
+[00:43:02] SPEAKER_03
+I can't wait for whatever is about to happen.
+
+[00:43:05] SPEAKER_04
+This is great.
+
+[00:43:06] SPEAKER_04
+I'm screenshotting.
+
+[00:43:07] SPEAKER_04
+So this is a visual example of what I'm explaining.
+
+[00:43:12] SPEAKER_04
+So it says, this looks like a Google Drive link.
+
+[00:43:16] SPEAKER_04
+Do you want to connect to Google Drive to Slack?
+
+[00:43:17] SPEAKER_04
+You'll be able to preview files, manage access to documents, get notified about, reply to
+
+[00:43:21] SPEAKER_04
+comments to see what new files are shared with you, connect, not now, don't ask again.
+
+[00:43:27] SPEAKER_04
+I've clicked not now every single time I've posted a file.
+
+[00:43:31] SPEAKER_06
+Just hit don't ask again.
+
+[00:43:32] SPEAKER_06
+And then you never have to click it again.
+
+[00:43:33] SPEAKER_06
+But what if I actually want it connected?
+
+[00:43:35] SPEAKER_06
+That's the problem.
+
+[00:43:37] SPEAKER_05
+Do you think that the option for that disappears as well?
+
+[00:43:40] SPEAKER_06
+Just hit not now every time and live that way.
+
+[00:43:43] SPEAKER_06
+Exactly.
+
+[00:43:44] SPEAKER_06
+I was just curious if anyone else does that.
+
+[00:43:46] SPEAKER_06
+Nobody else on Earth has commitment issues with prompts like you.
+
+[00:43:50] SPEAKER_06
+Absolutely.
+
+[00:43:51] SPEAKER_06
+I disagree.
+
+[00:43:52] SPEAKER_06
+You are the only person out of seven and a half billion people on Earth that goes through
+
+[00:43:57] SPEAKER_06
+this mental trauma and struggle every time you do it.
+
+[00:44:00] SPEAKER_06
+But you seem comfortable with it, so just roll with it and it's not a big deal.
+
+[00:44:05] SPEAKER_04
+It's not that it's traumatic.
+
+[00:44:06] SPEAKER_04
+It's just like I don't want to lock into a choice.
+
+[00:44:09] SPEAKER_03
+Because if it goes wrong, it's not making you.
+
+[00:44:12] SPEAKER_03
+It's giving you the option every time.
+
+[00:44:14] SPEAKER_03
+You can disconnect it if you want to.
+
+[00:44:17] SPEAKER_03
+After you connect it, you can disconnect it.
+
+[00:44:20] SPEAKER_04
+But then I'd have to figure out how to disconnect it.
+
+[00:44:22] SPEAKER_04
+And that would become a whole thing.
+
+[00:44:23] SPEAKER_03
+You Googled how to make it real loud.
+
+[00:44:25] SPEAKER_03
+You can Google anything.
+
+[00:44:26] SPEAKER_03
+You Googled.
+
+[00:44:27] SPEAKER_03
+You searched YouTube.
+
+[00:44:29] SPEAKER_03
+Why is the phone quiet?
+
+[00:44:31] SPEAKER_03
+I believe in you.
+
+[00:44:32] SPEAKER_03
+Also, there's a whole thing on the left side in Slack that says connected apps.
+
+[00:44:39] SPEAKER_04
+Where?
+
+[00:44:40] SPEAKER_03
+And then it's manage.
+
+[00:44:42] SPEAKER_03
+You can set it up that way.
+
+[00:44:44] SPEAKER_04
+Where?
+
+[00:44:45] SPEAKER_04
+Okay.
+
+[00:44:46] SPEAKER_04
+So let's go through this as a group right now.
+
+[00:44:48] SPEAKER_04
+Let's just deal with this problem.
+
+[00:44:50] SPEAKER_03
+It's not a problem.
+
+[00:44:50] SPEAKER_03
+It's not a deal with the problem.
+
+[00:44:53] SPEAKER_04
+Oh, it went away.
+
+[00:44:53] SPEAKER_04
+I got to send it again to myself.
+
+[00:44:54] SPEAKER_04
+What's the problem?
+
+[00:44:55] SPEAKER_04
+Just say yes.
+
+[00:44:57] SPEAKER_04
+No, okay.
+
+[00:44:57] SPEAKER_04
+Just connect it.
+
+[00:44:58] SPEAKER_04
+Okay, but here's the thing.
+
+[00:45:00] SPEAKER_04
+I click connect, right?
+
+[00:45:01] SPEAKER_04
+So I do that.
+
+[00:45:02] SPEAKER_04
+Okay.
+
+[00:45:03] SPEAKER_04
+And then it says choose an account.
+
+[00:45:05] SPEAKER_04
+Do I want to connect my personal account?
+
+[00:45:06] SPEAKER_04
+Or do I want to connect the regulation pod Gmail?
+
+[00:45:09] SPEAKER_05
+Where does most of our stuff get posted from?
+
+[00:45:12] SPEAKER_05
+Like who owns the QC stuff?
+
+[00:45:14] SPEAKER_04
+I don't even know how to.
+
+[00:45:17] SPEAKER_04
+Technically you, right?
+
+[00:45:20] SPEAKER_04
+It's your account.
+
+[00:45:22] SPEAKER_04
+I think it's whoever posts to the QC channel.
+
+[00:45:24] SPEAKER_05
+So we would all connect to our own accounts.
+
+[00:45:26] SPEAKER_04
+Okay.
+
+[00:45:29] SPEAKER_04
+Jeff, how you doing?
+
+[00:45:29] SPEAKER_04
+Slack wants access to your Google account.
+
+[00:45:31] SPEAKER_06
+Andrew makes me want to take a nap sometimes.
+
+[00:45:35] SPEAKER_06
+And right now, I just really want to take a nap.
+
+[00:45:37] SPEAKER_04
+I think you'll be surprised.
+
+[00:45:38] SPEAKER_04
+I'm not going to say it's the majority.
+
+[00:45:40] SPEAKER_04
+But I bet you there are more people than you think when asked,
+
+[00:45:43] SPEAKER_04
+do you want to permanently lock in yes, no, or ask me later?
+
+[00:45:47] SPEAKER_05
+I bet there are more than you think.
+
+[00:45:48] SPEAKER_05
+But I don't think any of them would think,
+
+[00:45:50] SPEAKER_05
+well, I'm not going to have it always open with this app
+
+[00:45:52] SPEAKER_05
+because something could happen to the app.
+
+[00:45:55] SPEAKER_04
+Well, it's going to break the server, Gavin.
+
+[00:45:58] SPEAKER_99
+Yeah.
+
+[00:45:59] SPEAKER_04
+It's just, it's a thing.
+
+[00:46:02] SPEAKER_04
+I click ask me later, but I'm always asking.
+
+[00:46:05] SPEAKER_05
+Is there anything in real life that everyone uses just fine,
+
+[00:46:09] SPEAKER_05
+but you don't trust?
+
+[00:46:11] SPEAKER_05
+Chicken wings.
+
+[00:46:14] SPEAKER_04
+Jeff, I want to take a nap.
+
+[00:46:17] SPEAKER_04
+I don't feel like I know how to eat chicken wings.
+
+[00:46:19] SPEAKER_04
+What the fuck are you talking about?
+
+[00:46:21] SPEAKER_04
+Well, because whenever you see people eat chicken wings,
+
+[00:46:24] SPEAKER_04
+they've got like, I see people do like,
+
+[00:46:26] SPEAKER_04
+oh, you twist the bone and the bone comes right out,
+
+[00:46:29] SPEAKER_04
+or you bite this.
+
+[00:46:30] SPEAKER_04
+Like there are all these different techniques to eating chicken wings.
+
+[00:46:33] SPEAKER_06
+There's a bunch of different techniques to eating a banana too,
+
+[00:46:37] SPEAKER_06
+but most people just do it the normal way.
+
+[00:46:39] SPEAKER_06
+But there aren't bones in a banana.
+
+[00:46:41] SPEAKER_06
+Put it in your mouth and fucking eat.
+
+[00:46:44] SPEAKER_04
+I can absolutely eat a chicken wing,
+
+[00:46:46] SPEAKER_04
+but I feel like I'm missing out.
+
+[00:46:48] SPEAKER_04
+Yeah, but I don't feel like I'm doing it right when I do it.
+
+[00:46:51] SPEAKER_06
+There's no wrong way to eat.
+
+[00:46:53] SPEAKER_06
+I don't think.
+
+[00:46:54] SPEAKER_06
+I just said that.
+
+[00:46:55] SPEAKER_06
+Now I don't know that that's true because of you,
+
+[00:46:58] SPEAKER_06
+but I can't.
+
+[00:46:59] SPEAKER_05
+I think that's how you choking is the wrong way to eat.
+
+[00:47:01] SPEAKER_05
+Yeah, that would be the wrong way.
+
+[00:47:04] SPEAKER_04
+But do you know what I mean?
+
+[00:47:05] SPEAKER_04
+Like you see these videos of people being like,
+
+[00:47:06] SPEAKER_04
+oh, you twist the thing and then the bone slides right out.
+
+[00:47:09] SPEAKER_04
+Or you bite this way and then you pull.
+
+[00:47:12] SPEAKER_04
+That's how you eat a chicken wing.
+
+[00:47:13] SPEAKER_04
+And I just don't.
+
+[00:47:14] SPEAKER_06
+That's how those people eat a chicken wing.
+
+[00:47:17] SPEAKER_06
+But that doesn't mean it's how you have to eat a chicken.
+
+[00:47:19] SPEAKER_06
+There's people that do different shit on a bicycle than I can do too,
+
+[00:47:22] SPEAKER_06
+but we're totally.
+
+[00:47:23] SPEAKER_06
+I still ride.
+
+[00:47:24] SPEAKER_05
+So why don't we get you three chicken wings on a plate
+
+[00:47:28] SPEAKER_05
+and you have to eat each wing in a different way.
+
+[00:47:30] SPEAKER_05
+Maybe we, yeah.
+
+[00:47:31] SPEAKER_04
+And we determine the most comfortable way for you.
+
+[00:47:34] SPEAKER_04
+It's not even a comfort.
+
+[00:47:35] SPEAKER_04
+Like I don't, I eat chicken wings.
+
+[00:47:36] SPEAKER_04
+I have no problem eating them.
+
+[00:47:38] SPEAKER_04
+I just feel like I'm not doing it the right way.
+
+[00:47:40] SPEAKER_04
+I feel like there's a more optimal way to eat these that I don't understand.
+
+[00:47:44] SPEAKER_04
+Do you do that with anything else?
+
+[00:47:45] SPEAKER_04
+Like shaving?
+
+[00:47:47] SPEAKER_04
+Yeah, shaving.
+
+[00:47:48] SPEAKER_04
+I have no idea what I'm doing.
+
+[00:47:48] SPEAKER_06
+Let me ask you a follow-up question.
+
+[00:47:52] SPEAKER_06
+Have you ever made an effort to figure this way out,
+
+[00:47:55] SPEAKER_06
+an improved way to eat chicken wings?
+
+[00:47:57] SPEAKER_06
+Or are you just comfortable being uncomfortable?
+
+[00:48:00] SPEAKER_04
+I've seen videos of like you do the twist thing and the bite thing.
+
+[00:48:04] SPEAKER_04
+Have you ever attempted it?
+
+[00:48:05] SPEAKER_04
+No, I haven't.
+
+[00:48:06] SPEAKER_04
+I need to.
+
+[00:48:07] SPEAKER_04
+Okay.
+
+[00:48:07] SPEAKER_04
+I really should.
+
+[00:48:08] SPEAKER_04
+And it's not that like I never,
+
+[00:48:10] SPEAKER_04
+it's not that I'm avoiding these experiences because of it.
+
+[00:48:13] SPEAKER_04
+I just, whenever I'm eating chicken wings,
+
+[00:48:15] SPEAKER_04
+I feel like there's a better way to do this.
+
+[00:48:17] SPEAKER_04
+I feel like I'm missing out on a process.
+
+[00:48:20] SPEAKER_05
+What about wiping your ass?
+
+[00:48:21] SPEAKER_05
+Do you think you have that down?
+
+[00:48:22] SPEAKER_04
+Oh yeah.
+
+[00:48:22] SPEAKER_06
+We covered that in such detail.
+
+[00:48:26] SPEAKER_06
+With Andrew's ass?
+
+[00:48:27] SPEAKER_06
+Yeah, he's a vertical wiper, remember?
+
+[00:48:29] SPEAKER_06
+Yeah, we've done this whole thing before.
+
+[00:48:30] SPEAKER_06
+Yeah, yeah, yeah, yeah.
+
+[00:48:32] SPEAKER_06
+I feel like that was the first two years of f***ing face.
+
+[00:48:36] SPEAKER_04
+Shaving was another one where I feel like you go against the grain,
+
+[00:48:39] SPEAKER_04
+but you're not supposed to go against the grain.
+
+[00:48:42] SPEAKER_04
+I don't know.
+
+[00:48:43] SPEAKER_05
+What do you shave with?
+
+[00:48:44] SPEAKER_05
+Electric shaver?
+
+[00:48:46] SPEAKER_05
+I don't, I have a beard.
+
+[00:48:48] SPEAKER_06
+See, you, are you on TikTok, Andrew?
+
+[00:48:51] SPEAKER_06
+Are you TikTok-ing?
+
+[00:48:52] SPEAKER_06
+Well, yeah.
+
+[00:48:53] SPEAKER_06
+Okay, this is why.
+
+[00:48:54] SPEAKER_06
+TikTok tells you you've done everything you've ever done wrong.
+
+[00:48:57] SPEAKER_06
+TikTok's like, no, you've been putting trash bags in the wrong way your entire life.
+
+[00:49:01] SPEAKER_06
+You've been parking wrong the entire, the wrong way.
+
+[00:49:04] SPEAKER_06
+You've been flossing the wrong way your entire life.
+
+[00:49:06] SPEAKER_06
+TikTok is nothing but people showing you a different way to do s***
+
+[00:49:08] SPEAKER_06
+you've been doing just fine for 49 years.
+
+[00:49:13] SPEAKER_06
+They're convincing you you're doing it wrong.
+
+[00:49:15] SPEAKER_06
+They're convincing you you're eating your chicken wings wrong.
+
+[00:49:16] SPEAKER_06
+But as long as the chicken wing gets in your tummy
+
+[00:49:19] SPEAKER_06
+and there's a smile on your heart, you're doing it right.
+
+[00:49:22] SPEAKER_04
+That's, I, the smile on your heart is really good.
+
+[00:49:25] SPEAKER_04
+I like that a lot.
+
+[00:49:26] SPEAKER_04
+There is a smile on my heart when I'm eating chicken wings.
+
+[00:49:28] SPEAKER_04
+Chicken wings are delicious.
+
+[00:49:29] SPEAKER_05
+I don't think one of those videos has ever made me change anything about what I do, though.
+
+[00:49:33] SPEAKER_05
+Like, you always see, like, oh, here's a hack.
+
+[00:49:35] SPEAKER_05
+You can tape a piece of paper to the wall under your drill
+
+[00:49:38] SPEAKER_05
+so it catches all the wall dust.
+
+[00:49:41] SPEAKER_05
+Or you can just let it fall on the floor and just,
+
+[00:49:43] SPEAKER_04
+just back it up.
+
+[00:49:45] SPEAKER_04
+That is actually an interesting question of what are, like, internet,
+
+[00:49:48] SPEAKER_04
+have you ever used, have you adopted an internet life hack?
+
+[00:49:52] SPEAKER_04
+I'm trying to think of if there is one for me.
+
+[00:49:55] SPEAKER_06
+Oh, I definitely have.
+
+[00:49:59] SPEAKER_06
+God, I had one when we first moved into this house
+
+[00:50:00] SPEAKER_06
+that I thought was a life hack and then I realized it wasn't.
+
+[00:50:03] SPEAKER_06
+We, uh, our front door wasn't,
+
+[00:50:05] SPEAKER_06
+the key to go in was getting stuck.
+
+[00:50:07] SPEAKER_06
+And Emily's like, oh, I saw this on TikTok the other day.
+
+[00:50:08] SPEAKER_06
+And she went and she sprayed some WD-40 in it.
+
+[00:50:10] SPEAKER_06
+And I was like, oh, that's a cool life hack.
+
+[00:50:11] SPEAKER_06
+And then I thought, oh, no, that's just how you use WD-40.
+
+[00:50:14] SPEAKER_06
+It's just what it's fucking for.
+
+[00:50:16] SPEAKER_06
+That's just using it for its prescribed fucking purpose.
+
+[00:50:21] SPEAKER_06
+You look at the can and it's a picture of the can
+
+[00:50:23] SPEAKER_06
+spraying in a hole.
+
+[00:50:25] SPEAKER_06
+Yeah, a lot of those life hacks are just that.
+
+[00:50:27] SPEAKER_06
+I will say one that I've seen that I have used
+
+[00:50:29] SPEAKER_06
+and I use continued, uh, continuously is
+
+[00:50:32] SPEAKER_06
+when you get a roll of, like, saran wrap or aluminum foil,
+
+[00:50:36] SPEAKER_06
+there's little tabs on the sides you can poke in
+
+[00:50:38] SPEAKER_06
+that lock it into place so that always slides right.
+
+[00:50:41] SPEAKER_06
+And I never knew about those until I saw TikTok.
+
+[00:50:44] SPEAKER_04
+Oh.
+
+[00:50:44] SPEAKER_04
+Interesting.
+
+[00:50:45] SPEAKER_04
+Maybe everyone should be in the lookout
+
+[00:50:47] SPEAKER_04
+for, like, an actual life hack that they think is.
+
+[00:50:50] SPEAKER_05
+I mean, we're past our life hack era,
+
+[00:50:51] SPEAKER_05
+but maybe it's time to go back.
+
+[00:50:52] SPEAKER_04
+But I don't think we're ever past the life hack era.
+
+[00:50:55] SPEAKER_06
+We just haven't had one in a while.
+
+[00:50:56] SPEAKER_06
+I have one I've been holding on to for weeks.
+
+[00:50:58] SPEAKER_06
+I've been wanting to tell you guys.
+
+[00:50:59] SPEAKER_06
+Oh, hell yeah.
+
+[00:51:00] SPEAKER_06
+If you don't mind, I'll do it right now.
+
+[00:51:01] SPEAKER_06
+Yeah.
+
+[00:51:02] SPEAKER_06
+Please.
+
+[00:51:03] SPEAKER_06
+I am, as time goes on,
+
+[00:51:06] SPEAKER_06
+becoming less and less, uh,
+
+[00:51:09] SPEAKER_06
+satisfied with Google and Google searching.
+
+[00:51:12] SPEAKER_06
+Between the AI overviews and sponsored links and stuff,
+
+[00:51:16] SPEAKER_06
+it's just getting annoying to find information.
+
+[00:51:18] SPEAKER_06
+And I've realized that most of what I Google now
+
+[00:51:21] SPEAKER_06
+is just local shit.
+
+[00:51:22] SPEAKER_06
+Like, when does the dry cleaner close?
+
+[00:51:25] SPEAKER_06
+Or what's the menu for this Chinese restaurant
+
+[00:51:28] SPEAKER_06
+I want to eat at tonight?
+
+[00:51:29] SPEAKER_06
+And I stumbled upon this a while back.
+
+[00:51:32] SPEAKER_06
+Then I didn't realize I was doing it.
+
+[00:51:33] SPEAKER_06
+Then it struck me.
+
+[00:51:34] SPEAKER_06
+This is, I'm using it for this purpose.
+
+[00:51:36] SPEAKER_06
+This is a great life hack.
+
+[00:51:37] SPEAKER_06
+I have stopped using Google for anything Austin-related,
+
+[00:51:40] SPEAKER_06
+and I just use Google Maps.
+
+[00:51:43] SPEAKER_06
+Google Maps will give you all the same information
+
+[00:51:45] SPEAKER_06
+as a Google search,
+
+[00:51:46] SPEAKER_06
+but without any sponsored links
+
+[00:51:48] SPEAKER_06
+or any AI bullshit or anything.
+
+[00:51:50] SPEAKER_06
+It'll tell you 99% of what you want to know.
+
+[00:51:53] SPEAKER_06
+You can even Google, like, lunch,
+
+[00:51:55] SPEAKER_06
+and it's like, or Google Map lunch,
+
+[00:51:56] SPEAKER_06
+and you're like, here's every restaurant,
+
+[00:51:58] SPEAKER_06
+here's their hours,
+
+[00:51:59] SPEAKER_06
+here's if they're busy or not right now,
+
+[00:52:01] SPEAKER_06
+here's the, everything I want locally,
+
+[00:52:03] SPEAKER_06
+I get from Google Maps now.
+
+[00:52:05] SPEAKER_06
+Does it even give star ratings within the app?
+
+[00:52:07] SPEAKER_06
+Yes, and reviews and stuff sometimes.
+
+[00:52:09] SPEAKER_04
+Yeah, that's awesome.
+
+[00:52:10] SPEAKER_04
+Yeah, that's a great idea.
+
+[00:52:11] SPEAKER_04
+That is a great hack.
+
+[00:52:12] SPEAKER_06
+You'd be amazed at how much,
+
+[00:52:14] SPEAKER_06
+it's just local specific,
+
+[00:52:16] SPEAKER_06
+but how much,
+
+[00:52:16] SPEAKER_06
+anytime you want to do something locally
+
+[00:52:18] SPEAKER_06
+and you feel a need to go to Google or TikTok,
+
+[00:52:21] SPEAKER_06
+just try to get the information from Google Maps,
+
+[00:52:23] SPEAKER_06
+and you may be surprised at how easy it is.
+
+[00:52:26] SPEAKER_04
+IP addresses are, like, regional.
+
+[00:52:29] SPEAKER_04
+Like, they're within areas, right?
+
+[00:52:30] SPEAKER_04
+Like, that's how they determine those?
+
+[00:52:33] SPEAKER_04
+Yeah.
+
+[00:52:34] SPEAKER_04
+I would, yeah,
+
+[00:52:35] SPEAKER_04
+I'd love to be able to just, like, turn on,
+
+[00:52:37] SPEAKER_04
+you can only see the internet
+
+[00:52:39] SPEAKER_04
+within your IP address area.
+
+[00:52:42] SPEAKER_04
+Like, no outside news or information,
+
+[00:52:45] SPEAKER_04
+or, I think that'd be fun to just be, like,
+
+[00:52:47] SPEAKER_05
+Like, subnet only.
+
+[00:52:49] SPEAKER_04
+Yeah.
+
+[00:52:50] SPEAKER_04
+And I guess, obviously,
+
+[00:52:51] SPEAKER_04
+people within your area are reporting on other areas,
+
+[00:52:53] SPEAKER_04
+but just the idea of, like,
+
+[00:52:54] SPEAKER_04
+this is the perspective of those around my area,
+
+[00:52:57] SPEAKER_04
+I think is interesting.
+
+[00:52:58] SPEAKER_04
+You'd want access to a Nanaimo intranet.
+
+[00:53:03] SPEAKER_04
+No, I don't, actually.
+
+[00:53:05] SPEAKER_04
+Now that you phrase it like that,
+
+[00:53:06] SPEAKER_04
+I really don't.
+
+[00:53:06] SPEAKER_04
+That sounds terrible.
+
+[00:53:08] SPEAKER_04
+You think it'd be pretty boring?
+
+[00:53:09] SPEAKER_04
+Oh, yeah.
+
+[00:53:11] SPEAKER_04
+It'd be pretty boring and weird
+
+[00:53:12] SPEAKER_04
+and just not great as a whole.
+
+[00:53:16] SPEAKER_04
+I have a little bit of a game.
+
+[00:53:17] SPEAKER_04
+You guys want to play a quick game
+
+[00:53:18] SPEAKER_04
+before we wrap up?
+
+[00:53:20] SPEAKER_06
+Yeah.
+
+[00:53:20] SPEAKER_06
+After we play a game,
+
+[00:53:21] SPEAKER_06
+I want to pitch you guys on some merch,
+
+[00:53:22] SPEAKER_06
+and then we can wrap up.
+
+[00:53:24] SPEAKER_04
+Okay.
+
+[00:53:25] SPEAKER_04
+My game is,
+
+[00:53:27] SPEAKER_04
+I get, you know,
+
+[00:53:29] SPEAKER_04
+I'll scroll the Google News things or whatever,
+
+[00:53:32] SPEAKER_04
+and I get clickbait.
+
+[00:53:33] SPEAKER_04
+They love to post clickbait articles in those bars,
+
+[00:53:37] SPEAKER_04
+and I rarely click them,
+
+[00:53:40] SPEAKER_04
+but I always answer in my head
+
+[00:53:42] SPEAKER_04
+what the answer would be,
+
+[00:53:44] SPEAKER_04
+typically to make myself laugh.
+
+[00:53:45] SPEAKER_04
+I've read a few of these,
+
+[00:53:47] SPEAKER_04
+so I have the answer,
+
+[00:53:48] SPEAKER_04
+but I was going to post these,
+
+[00:53:51] SPEAKER_04
+and I wanted to hear what you guys think
+
+[00:53:52] SPEAKER_04
+the answer would be.
+
+[00:53:54] SPEAKER_04
+Okay.
+
+[00:53:55] SPEAKER_04
+The first one is,
+
+[00:53:58] SPEAKER_04
+Ninja's portable air fryer
+
+[00:54:00] SPEAKER_04
+lets you cook full meals from anywhere,
+
+[00:54:03] SPEAKER_04
+but there's a catch.
+
+[00:54:05] SPEAKER_04
+What's the catch?
+
+[00:54:10] SPEAKER_03
+This game,
+
+[00:54:11] SPEAKER_03
+this game is awesome.
+
+[00:54:13] SPEAKER_03
+This is,
+
+[00:54:14] SPEAKER_04
+my brain,
+
+[00:54:15] SPEAKER_04
+whenever I read these,
+
+[00:54:16] SPEAKER_04
+I just insert my own dumb thing
+
+[00:54:18] SPEAKER_04
+and move on.
+
+[00:54:19] SPEAKER_04
+I want to hear your guys' thing,
+
+[00:54:21] SPEAKER_03
+but I've clicked these.
+
+[00:54:21] SPEAKER_03
+I do have the answers.
+
+[00:54:23] SPEAKER_03
+Okay.
+
+[00:54:23] SPEAKER_03
+I think it poisons your food.
+
+[00:54:25] SPEAKER_03
+Like,
+
+[00:54:26] SPEAKER_03
+it's injecting microplastics into it.
+
+[00:54:28] SPEAKER_05
+Yeah,
+
+[00:54:28] SPEAKER_06
+like a lead contamination.
+
+[00:54:30] SPEAKER_06
+Yeah,
+
+[00:54:30] SPEAKER_06
+yeah,
+
+[00:54:30] SPEAKER_06
+yeah,
+
+[00:54:30] SPEAKER_03
+yeah.
+
+[00:54:31] SPEAKER_06
+It doesn't have enough battery life.
+
+[00:54:35] SPEAKER_06
+Doesn't have enough battery.
+
+[00:54:36] SPEAKER_06
+Nick,
+
+[00:54:36] SPEAKER_06
+do you have one?
+
+[00:54:36] SPEAKER_03
+It needs a plug.
+
+[00:54:37] SPEAKER_06
+It needs a plug.
+
+[00:54:38] SPEAKER_03
+Oh,
+
+[00:54:39] SPEAKER_03
+I think it melts the container
+
+[00:54:40] SPEAKER_03
+your food is in.
+
+[00:54:42] SPEAKER_03
+Yeah,
+
+[00:54:42] SPEAKER_03
+it doesn't work with plastic.
+
+[00:54:45] SPEAKER_05
+I think the catch is that
+
+[00:54:46] SPEAKER_05
+it's once assembled
+
+[00:54:47] SPEAKER_05
+is bigger than a regular air fryer.
+
+[00:54:49] SPEAKER_99
+I bet,
+
+[00:54:50] SPEAKER_06
+I bet the catch is,
+
+[00:54:52] SPEAKER_06
+it's like,
+
+[00:54:53] SPEAKER_06
+but be warned,
+
+[00:54:55] SPEAKER_06
+the food is so good,
+
+[00:54:56] SPEAKER_06
+you'll never want to eat
+
+[00:54:57] SPEAKER_06
+anyway ever again.
+
+[00:54:58] SPEAKER_04
+Oh.
+
+[00:54:58] SPEAKER_04
+Oh.
+
+[00:55:00] SPEAKER_04
+Okay,
+
+[00:55:00] SPEAKER_04
+what is it,
+
+[00:55:01] SPEAKER_04
+Andrew?
+
+[00:55:01] SPEAKER_04
+I like that.
+
+[00:55:02] SPEAKER_04
+The twist is,
+
+[00:55:03] SPEAKER_04
+is that this was written
+
+[00:55:05] SPEAKER_04
+on a British website
+
+[00:55:07] SPEAKER_04
+and you can't buy it there.
+
+[00:55:08] SPEAKER_04
+There's no,
+
+[00:55:09] SPEAKER_04
+it's only available in the US.
+
+[00:55:12] SPEAKER_04
+It's a pretty lame twist.
+
+[00:55:16] SPEAKER_04
+The catch is,
+
+[00:55:17] SPEAKER_04
+not available in this market.
+
+[00:55:18] SPEAKER_04
+The catch is not for you.
+
+[00:55:20] SPEAKER_06
+Fuck off.
+
+[00:55:21] SPEAKER_04
+Yup.
+
+[00:55:22] SPEAKER_04
+Males from anywhere.
+
+[00:55:23] SPEAKER_04
+Fair.
+
+[00:55:24] SPEAKER_04
+Okay,
+
+[00:55:25] SPEAKER_04
+the next one is,
+
+[00:55:26] SPEAKER_04
+Butt here.
+
+[00:55:29] SPEAKER_04
+Why Tom Cruise regrets
+
+[00:55:30] SPEAKER_04
+starring in Ridley Scott's
+
+[00:55:32] SPEAKER_04
+1985 dark fantasy epic legend?
+
+[00:55:35] SPEAKER_04
+What,
+
+[00:55:36] SPEAKER_04
+is that like a list?
+
+[00:55:37] SPEAKER_04
+Uh,
+
+[00:55:37] SPEAKER_04
+no,
+
+[00:55:37] SPEAKER_04
+not a list.
+
+[00:55:38] SPEAKER_04
+He has a reason.
+
+[00:55:39] SPEAKER_05
+One,
+
+[00:55:39] SPEAKER_05
+one reason.
+
+[00:55:41] SPEAKER_04
+Why does Tom Cruise regret
+
+[00:55:42] SPEAKER_04
+starring in 1985's legend?
+
+[00:55:45] SPEAKER_05
+Maybe it's the most prevalent
+
+[00:55:46] SPEAKER_05
+shots of his middle tooth.
+
+[00:55:48] SPEAKER_03
+Oh man.
+
+[00:55:52] SPEAKER_03
+What else came out in 1985?
+
+[00:55:54] SPEAKER_03
+Could he have been in
+
+[00:55:55] SPEAKER_03
+Back to the Future?
+
+[00:55:55] SPEAKER_03
+Yeah,
+
+[00:55:56] SPEAKER_06
+because he had to turn down
+
+[00:55:57] SPEAKER_06
+something else.
+
+[00:55:58] SPEAKER_06
+Yeah,
+
+[00:55:58] SPEAKER_06
+yeah,
+
+[00:55:58] SPEAKER_03
+that's going to be my guess
+
+[00:55:59] SPEAKER_03
+is that he could have been
+
+[00:56:00] SPEAKER_03
+in Back to the Future.
+
+[00:56:01] SPEAKER_06
+Yeah.
+
+[00:56:02] SPEAKER_06
+I was going to say
+
+[00:56:02] SPEAKER_06
+it led to him being cast
+
+[00:56:03] SPEAKER_06
+in Interview with the Vampire.
+
+[00:56:06] SPEAKER_06
+He would have been,
+
+[00:56:07] SPEAKER_06
+he would have played
+
+[00:56:08] SPEAKER_06
+Paul Atreyu
+
+[00:56:09] SPEAKER_06
+or whatever in Dune.
+
+[00:56:10] SPEAKER_06
+Yeah.
+
+[00:56:11] SPEAKER_06
+Comic-Cloth and got it instead.
+
+[00:56:13] SPEAKER_06
+Atreides,
+
+[00:56:13] SPEAKER_06
+not Atreides.
+
+[00:56:14] SPEAKER_06
+Sorry,
+
+[00:56:14] SPEAKER_06
+Atreides.
+
+[00:56:14] SPEAKER_04
+The reason,
+
+[00:56:15] SPEAKER_04
+it was lack of creative control.
+
+[00:56:17] SPEAKER_04
+It was the last film
+
+[00:56:19] SPEAKER_04
+he said that he agreed to do
+
+[00:56:20] SPEAKER_04
+despite having creative
+
+[00:56:22] SPEAKER_04
+issues with it,
+
+[00:56:23] SPEAKER_04
+but he just trusted
+
+[00:56:24] SPEAKER_04
+the process
+
+[00:56:24] SPEAKER_04
+and he would never
+
+[00:56:25] SPEAKER_04
+do that again.
+
+[00:56:27] SPEAKER_04
+I guess when he worked on,
+
+[00:56:28] SPEAKER_04
+he followed that up
+
+[00:56:29] SPEAKER_04
+with Top Gun
+
+[00:56:30] SPEAKER_04
+and he wrote,
+
+[00:56:31] SPEAKER_04
+he worked on the script
+
+[00:56:33] SPEAKER_04
+before agreeing to make it
+
+[00:56:35] SPEAKER_04
+and said that
+
+[00:56:36] SPEAKER_04
+if they didn't come to a place
+
+[00:56:37] SPEAKER_04
+where they liked it
+
+[00:56:37] SPEAKER_04
+even after working on it,
+
+[00:56:38] SPEAKER_04
+he would just back out
+
+[00:56:39] SPEAKER_04
+and that they could then
+
+[00:56:41] SPEAKER_04
+have a more finalized idea
+
+[00:56:42] SPEAKER_04
+of what that movie would be.
+
+[00:56:44] SPEAKER_04
+So that's the last time
+
+[00:56:45] SPEAKER_04
+he didn't have creative
+
+[00:56:46] SPEAKER_04
+in some capacity.
+
+[00:56:48] SPEAKER_04
+Huh.
+
+[00:56:49] SPEAKER_04
+Up until Eyes Wide Shut,
+
+[00:56:50] SPEAKER_04
+I highly doubt that
+
+[00:56:52] SPEAKER_03
+he would have much creative control.
+
+[00:56:54] SPEAKER_03
+I think it would be so cool
+
+[00:56:56] SPEAKER_03
+to see him give input
+
+[00:56:57] SPEAKER_03
+in that movie.
+
+[00:56:59] SPEAKER_03
+Here's what I think.
+
+[00:57:00] SPEAKER_04
+Oh, yeah.
+
+[00:57:04] SPEAKER_04
+Last one.
+
+[00:57:05] SPEAKER_05
+Okay.
+
+[00:57:07] SPEAKER_04
+Canadians split
+
+[00:57:08] SPEAKER_04
+on handing out
+
+[00:57:09] SPEAKER_04
+Halloween candy this year
+
+[00:57:10] SPEAKER_04
+and there's a poll as to why.
+
+[00:57:12] SPEAKER_04
+What is the leading reason
+
+[00:57:13] SPEAKER_04
+as to why Canadians
+
+[00:57:15] SPEAKER_04
+are not giving out
+
+[00:57:16] SPEAKER_04
+Halloween candy?
+
+[00:57:17] SPEAKER_04
+Ooh.
+
+[00:57:19] SPEAKER_04
+Candy cane shortage.
+
+[00:57:20] SPEAKER_04
+Candy cane?
+
+[00:57:21] SPEAKER_04
+You give it a lot of
+
+[00:57:22] SPEAKER_04
+candy cane shortage.
+
+[00:57:23] SPEAKER_04
+Candy corn.
+
+[00:57:25] SPEAKER_04
+The peanut butter guy
+
+[00:57:26] SPEAKER_04
+saying a candy cane
+
+[00:57:27] SPEAKER_04
+is weird.
+
+[00:57:28] SPEAKER_06
+Because the rise
+
+[00:57:28] SPEAKER_06
+of Canadian obesity.
+
+[00:57:30] SPEAKER_06
+It's like a health thing.
+
+[00:57:32] SPEAKER_03
+I'm going to say
+
+[00:57:33] SPEAKER_03
+because of the American election.
+
+[00:57:35] SPEAKER_05
+Oh.
+
+[00:57:37] SPEAKER_05
+I'm going to say
+
+[00:57:38] SPEAKER_05
+a Jif peanut butter shortage.
+
+[00:57:41] SPEAKER_04
+Jif peanut butter shortage.
+
+[00:57:42] SPEAKER_04
+The answer is just
+
+[00:57:44] SPEAKER_04
+it's too expensive.
+
+[00:57:45] SPEAKER_06
+Oh, it's economy.
+
+[00:57:47] SPEAKER_04
+It's economy.
+
+[00:57:48] SPEAKER_04
+Oh.
+
+[00:57:49] SPEAKER_04
+Don't want to spend
+
+[00:57:50] SPEAKER_04
+the money on it.
+
+[00:57:51] SPEAKER_04
+Andrew, this is a very good game.
+
+[00:57:53] SPEAKER_06
+Yeah, this is a great game.
+
+[00:57:54] SPEAKER_04
+I'll continue to
+
+[00:57:55] SPEAKER_04
+actually read
+
+[00:57:57] SPEAKER_04
+these reasons.
+
+[00:57:58] SPEAKER_04
+The funniest one
+
+[00:57:58] SPEAKER_04
+I think by far is
+
+[00:57:59] SPEAKER_04
+you can't buy it here.
+
+[00:58:01] SPEAKER_04
+That's the guy.
+
+[00:58:01] SPEAKER_03
+Uh, there's one catch
+
+[00:58:03] SPEAKER_03
+to this crazy new invention.
+
+[00:58:07] SPEAKER_03
+You can't use it here.
+
+[00:58:09] SPEAKER_04
+Crazy.
+
+[00:58:09] SPEAKER_04
+The audience that
+
+[00:58:10] SPEAKER_04
+we're writing this for
+
+[00:58:11] SPEAKER_04
+that I'm telling you
+
+[00:58:12] SPEAKER_04
+about the existence
+
+[00:58:12] SPEAKER_04
+of this product
+
+[00:58:13] SPEAKER_04
+can't use it.
+
+[00:58:14] SPEAKER_04
+Don't even bother.
+
+[00:58:15] SPEAKER_04
+Don't try it.
+
+[00:58:15] SPEAKER_05
+I wonder if you could put
+
+[00:58:16] SPEAKER_05
+like a full English breakfast
+
+[00:58:17] SPEAKER_05
+in there in raw form
+
+[00:58:18] SPEAKER_05
+and fry the entire thing
+
+[00:58:20] SPEAKER_05
+at once.
+
+[00:58:21] SPEAKER_04
+Sounds like you have
+
+[00:58:21] SPEAKER_04
+a thing to test.
+
+[00:58:23] SPEAKER_04
+Yeah.
+
+[00:58:23] SPEAKER_04
+I mean, you can get it here.
+
+[00:58:24] SPEAKER_06
+Luckily, we can get one here.
+
+[00:58:25] SPEAKER_03
+Oh, yeah, that's true.
+
+[00:58:27] SPEAKER_03
+Well, that was a fun game
+
+[00:58:29] SPEAKER_03
+but I want to hear about
+
+[00:58:30] SPEAKER_03
+Jeff's merch pitches
+
+[00:58:32] SPEAKER_03
+to round us out
+
+[00:58:33] SPEAKER_03
+for the day.
+
+[00:58:33] SPEAKER_06
+Oh, right.
+
+[00:58:34] SPEAKER_06
+And then maybe
+
+[00:58:35] SPEAKER_06
+one little supplemental idea
+
+[00:58:36] SPEAKER_06
+that I had as well.
+
+[00:58:38] SPEAKER_06
+I, uh, last week
+
+[00:58:39] SPEAKER_06
+I was enamored
+
+[00:58:40] SPEAKER_06
+by the idea
+
+[00:58:41] SPEAKER_06
+of the idiot flag.
+
+[00:58:42] SPEAKER_06
+I thought that was so fun.
+
+[00:58:43] SPEAKER_06
+So I went ahead
+
+[00:58:43] SPEAKER_06
+and made one
+
+[00:58:44] SPEAKER_06
+just to give you guys
+
+[00:58:45] SPEAKER_06
+an idea of what
+
+[00:58:46] SPEAKER_06
+it might look like.
+
+[00:58:47] SPEAKER_06
+And then I thought
+
+[00:58:48] SPEAKER_06
+that that was pretty cool
+
+[00:58:49] SPEAKER_06
+but I thought maybe
+
+[00:58:50] SPEAKER_06
+if you want to class it up
+
+[00:58:52] SPEAKER_06
+a little bit
+
+[00:58:52] SPEAKER_06
+we could have
+
+[00:58:52] SPEAKER_06
+an idiot pennant
+
+[00:58:53] SPEAKER_06
+which I think
+
+[00:58:54] SPEAKER_06
+is very nice too.
+
+[00:58:55] SPEAKER_04
+I love an idiot pennant.
+
+[00:58:57] SPEAKER_04
+I love the idiot pennant
+
+[00:58:58] SPEAKER_04
+as well.
+
+[00:59:00] SPEAKER_04
+It just says idiot.
+
+[00:59:01] SPEAKER_03
+Yeah, it's just
+
+[00:59:02] SPEAKER_03
+yeah, go to the YouTube version.
+
+[00:59:05] SPEAKER_03
+I'm sure it'll be in there
+
+[00:59:05] SPEAKER_03
+but God
+
+[00:59:06] SPEAKER_03
+that idiot pennant
+
+[00:59:07] SPEAKER_03
+is really, really good.
+
+[00:59:09] SPEAKER_06
+Would that be
+
+[00:59:09] SPEAKER_06
+on the side of a building?
+
+[00:59:11] SPEAKER_06
+Or your bedroom
+
+[00:59:12] SPEAKER_06
+or behind your head
+
+[00:59:13] SPEAKER_06
+when you're playing video games?
+
+[00:59:14] SPEAKER_03
+Wait, wait, wait.
+
+[00:59:15] SPEAKER_03
+Are you talking about
+
+[00:59:15] SPEAKER_03
+the flag or the pennant, Gavin?
+
+[00:59:17] SPEAKER_05
+The second one.
+
+[00:59:19] SPEAKER_03
+The pennants
+
+[00:59:20] SPEAKER_03
+don't have to be very big.
+
+[00:59:22] SPEAKER_05
+They just go on a wall?
+
+[00:59:23] SPEAKER_03
+Yeah, yeah, yeah.
+
+[00:59:24] SPEAKER_05
+Yeah, you can just put them
+
+[00:59:25] SPEAKER_04
+on a wall.
+
+[00:59:26] SPEAKER_04
+I'll show you right now.
+
+[00:59:26] SPEAKER_04
+That would look great
+
+[00:59:27] SPEAKER_04
+on a plane wing.
+
+[00:59:30] SPEAKER_06
+Here, Gavin.
+
+[00:59:32] SPEAKER_06
+I'm going to send you
+
+[00:59:32] SPEAKER_06
+a pennant.
+
+[00:59:34] SPEAKER_06
+I have one on my wall
+
+[00:59:35] SPEAKER_06
+right now
+
+[00:59:36] SPEAKER_06
+so you can see
+
+[00:59:36] SPEAKER_06
+what it looks like.
+
+[00:59:37] SPEAKER_03
+Yeah, usually
+
+[00:59:38] SPEAKER_03
+they're not too, too big.
+
+[00:59:40] SPEAKER_03
+So that was
+
+[00:59:41] SPEAKER_06
+that was that idea.
+
+[00:59:44] SPEAKER_06
+That's such a good idea.
+
+[00:59:45] SPEAKER_06
+Then this is what
+
+[00:59:46] SPEAKER_06
+I've been chewing on
+
+[00:59:47] SPEAKER_06
+for a while
+
+[00:59:48] SPEAKER_06
+and I thought
+
+[00:59:48] SPEAKER_06
+it would be better
+
+[00:59:49] SPEAKER_06
+just to present you guys
+
+[00:59:50] SPEAKER_06
+with a cover of it
+
+[00:59:52] SPEAKER_06
+to see what it would look like.
+
+[00:59:54] SPEAKER_06
+We've been talking
+
+[00:59:55] SPEAKER_06
+for a long time
+
+[00:59:55] SPEAKER_06
+about Andrew's
+
+[00:59:56] SPEAKER_06
+20,000 Things.
+
+[00:59:58] SPEAKER_06
+We joked around
+
+[00:59:59] SPEAKER_06
+about wanting to make it
+
+[01:00:00] SPEAKER_06
+a 20,000 page book
+
+[01:00:02] SPEAKER_06
+on Amazon, right?
+
+[01:00:05] SPEAKER_06
+Because you get paid
+
+[01:00:05] SPEAKER_06
+by the page.
+
+[01:00:07] SPEAKER_06
+And now we have
+
+[01:00:08] SPEAKER_06
+self-published.
+
+[01:00:09] SPEAKER_06
+We made
+
+[01:00:09] SPEAKER_06
+Celestial Glorbosis
+
+[01:00:10] SPEAKER_06
+of Peace and Poimals
+
+[01:00:11] SPEAKER_06
+and have self-published
+
+[01:00:13] SPEAKER_06
+that through
+
+[01:00:14] SPEAKER_06
+Amazon Unlimited.
+
+[01:00:15] SPEAKER_06
+I know the process.
+
+[01:00:16] SPEAKER_06
+I know how to do it now.
+
+[01:00:17] SPEAKER_06
+I feel like
+
+[01:00:18] SPEAKER_06
+that's an ability
+
+[01:00:18] SPEAKER_06
+we have.
+
+[01:00:20] SPEAKER_06
+What if we
+
+[01:00:20] SPEAKER_06
+said fuck it
+
+[01:00:22] SPEAKER_06
+and we finally
+
+[01:00:23] SPEAKER_06
+got serious about it
+
+[01:00:24] SPEAKER_06
+and we made
+
+[01:00:25] SPEAKER_06
+this book
+
+[01:00:25] SPEAKER_06
+20,000 Things
+
+[01:00:27] SPEAKER_06
+a regulation collection
+
+[01:00:28] SPEAKER_06
+and on one page
+
+[01:00:30] SPEAKER_06
+is one of Andrew's
+
+[01:00:31] SPEAKER_06
+20,000 Things
+
+[01:00:32] SPEAKER_06
+and on the page
+
+[01:00:33] SPEAKER_06
+facing it
+
+[01:00:34] SPEAKER_06
+is one of us
+
+[01:00:35] SPEAKER_06
+drawing it from memory
+
+[01:00:37] SPEAKER_06
+and between
+
+[01:00:38] SPEAKER_06
+the five of us
+
+[01:00:39] SPEAKER_06
+we draw 20,000 Things
+
+[01:00:40] SPEAKER_06
+and it's just
+
+[01:00:42] SPEAKER_06
+like a coffee table
+
+[01:00:43] SPEAKER_06
+picture book.
+
+[01:00:44] SPEAKER_03
+I think that's funny
+
+[01:00:45] SPEAKER_03
+but it's so much work.
+
+[01:00:46] SPEAKER_03
+Okay, here's the thing.
+
+[01:00:48] SPEAKER_03
+I think that's a lot of fun.
+
+[01:00:49] SPEAKER_03
+I think it's really good.
+
+[01:00:51] SPEAKER_03
+What I think
+
+[01:00:52] SPEAKER_03
+you're counting on
+
+[01:00:53] SPEAKER_03
+Jeff
+
+[01:00:53] SPEAKER_03
+unfortunately
+
+[01:00:54] SPEAKER_03
+and this isn't you
+
+[01:00:55] SPEAKER_03
+overthinking it
+
+[01:00:56] SPEAKER_03
+or anything
+
+[01:00:56] SPEAKER_03
+I think you're thinking
+
+[01:00:58] SPEAKER_03
+of it like
+
+[01:00:58] SPEAKER_03
+he's a normal man
+
+[01:00:59] SPEAKER_03
+who listed like
+
+[01:01:00] SPEAKER_03
+cat
+
+[01:01:01] SPEAKER_03
+flag
+
+[01:01:02] SPEAKER_03
+house
+
+[01:01:03] SPEAKER_03
+he listed
+
+[01:01:04] SPEAKER_03
+Tony Hawk
+
+[01:01:04] SPEAKER_03
+Pro Skater 1
+
+[01:01:05] SPEAKER_03
+Tony Hawk
+
+[01:01:06] SPEAKER_03
+Pro Skater 2
+
+[01:01:07] SPEAKER_03
+and you're gonna have
+
+[01:01:09] SPEAKER_03
+to draw that
+
+[01:01:09] SPEAKER_06
+from memory
+
+[01:01:10] SPEAKER_06
+and I think
+
+[01:01:11] SPEAKER_06
+that's gonna be
+
+[01:01:12] SPEAKER_06
+really funny
+
+[01:01:12] SPEAKER_05
+and then after that
+
+[01:01:14] SPEAKER_05
+it's gonna be
+
+[01:01:14] SPEAKER_05
+Tony Hawk
+
+[01:01:15] SPEAKER_05
+Pro Skater 2
+
+[01:01:15] SPEAKER_05
+the disc
+
+[01:01:16] SPEAKER_05
+Tony Hawk
+
+[01:01:16] SPEAKER_05
+Pro Skater
+
+[01:01:17] SPEAKER_05
+the cover
+
+[01:01:17] SPEAKER_05
+yeah
+
+[01:01:18] SPEAKER_06
+potentially
+
+[01:01:18] SPEAKER_06
+yeah
+
+[01:01:19] SPEAKER_06
+but we'll split it up
+
+[01:01:20] SPEAKER_06
+so you're not
+
+[01:01:21] SPEAKER_06
+drawing too much
+
+[01:01:21] SPEAKER_06
+Tony Hawk yourself
+
+[01:01:22] SPEAKER_06
+each person
+
+[01:01:23] SPEAKER_06
+would have to draw
+
+[01:01:23] SPEAKER_06
+5,000 things
+
+[01:01:24] SPEAKER_05
+I wonder if we can
+
+[01:01:25] SPEAKER_05
+get some regulation
+
+[01:01:27] SPEAKER_05
+listeners to become
+
+[01:01:27] SPEAKER_05
+regulation illustrators
+
+[01:01:28] SPEAKER_05
+for the book
+
+[01:01:29] SPEAKER_06
+we could potentially
+
+[01:01:30] SPEAKER_06
+do that too
+
+[01:01:31] SPEAKER_06
+we'd have to worry
+
+[01:01:31] SPEAKER_06
+about licensing
+
+[01:01:32] SPEAKER_06
+and rights and stuff
+
+[01:01:33] SPEAKER_06
+and work all that out
+
+[01:01:35] SPEAKER_06
+like hell actually
+
+[01:01:36] SPEAKER_06
+but yeah
+
+[01:01:36] SPEAKER_03
+it's the thing
+
+[01:01:37] SPEAKER_03
+that happens
+
+[01:01:37] SPEAKER_03
+in four years
+
+[01:01:38] SPEAKER_03
+where they go
+
+[01:01:38] SPEAKER_03
+I drew this thing
+
+[01:01:39] SPEAKER_03
+for the book
+
+[01:01:40] SPEAKER_03
+and now I'm
+
+[01:01:41] SPEAKER_03
+suing them
+
+[01:01:42] SPEAKER_03
+and it's like
+
+[01:01:42] SPEAKER_03
+why didn't we
+
+[01:01:43] SPEAKER_03
+just draw
+
+[01:01:44] SPEAKER_03
+Tony Hawk
+
+[01:01:45] SPEAKER_03
+American Wasteland
+
+[01:01:46] SPEAKER_03
+ourselves
+
+[01:01:46] SPEAKER_03
+exactly
+
+[01:01:47] SPEAKER_05
+we could just be
+
+[01:01:48] SPEAKER_05
+a little waiver
+
+[01:01:48] SPEAKER_05
+a little PDF
+
+[01:01:49] SPEAKER_05
+open it up
+
+[01:01:50] SPEAKER_05
+in whatever app
+
+[01:01:51] SPEAKER_05
+you prefer
+
+[01:01:51] SPEAKER_04
+do you want
+
+[01:01:52] SPEAKER_04
+a little
+
+[01:01:53] SPEAKER_04
+preview of the
+
+[01:01:54] SPEAKER_04
+last six things
+
+[01:01:55] SPEAKER_04
+I've written
+
+[01:01:55] SPEAKER_04
+on my list
+
+[01:01:56] SPEAKER_04
+I do
+
+[01:01:57] SPEAKER_04
+I think that's
+
+[01:01:57] SPEAKER_04
+a great idea
+
+[01:01:58] SPEAKER_04
+and when was this
+
+[01:01:59] SPEAKER_04
+can you tell us
+
+[01:02:00] SPEAKER_04
+what numbers
+
+[01:02:00] SPEAKER_04
+they are
+
+[01:02:01] SPEAKER_04
+I'm not gonna
+
+[01:02:02] SPEAKER_04
+say numbers
+
+[01:02:03] SPEAKER_04
+I'm just gonna
+
+[01:02:04] SPEAKER_04
+tell you what
+
+[01:02:05] SPEAKER_04
+it is
+
+[01:02:06] SPEAKER_04
+Willy Wonka
+
+[01:02:07] SPEAKER_04
+hemorrhoids
+
+[01:02:09] SPEAKER_04
+Tums
+
+[01:02:11] SPEAKER_04
+stomach ache
+
+[01:02:13] SPEAKER_04
+juicy fruit
+
+[01:02:15] SPEAKER_04
+poisoning
+
+[01:02:17] SPEAKER_06
+this
+
+[01:02:18] SPEAKER_04
+three last
+
+[01:02:19] SPEAKER_04
+six things
+
+[01:02:19] SPEAKER_04
+those are
+
+[01:02:20] SPEAKER_04
+amazing
+
+[01:02:21] SPEAKER_06
+amazing
+
+[01:02:22] SPEAKER_03
+now
+
+[01:02:23] SPEAKER_03
+I'm gonna
+
+[01:02:24] SPEAKER_03
+say egg
+
+[01:02:25] SPEAKER_03
+on my face
+
+[01:02:25] SPEAKER_03
+I was
+
+[01:02:26] SPEAKER_03
+thinking of
+
+[01:02:27] SPEAKER_03
+physical objects
+
+[01:02:28] SPEAKER_03
+and not
+
+[01:02:29] SPEAKER_03
+concepts
+
+[01:02:30] SPEAKER_03
+such as
+
+[01:02:31] SPEAKER_03
+poisoning
+
+[01:02:32] SPEAKER_04
+or
+
+[01:02:32] SPEAKER_04
+Jay Batista
+
+[01:02:33] SPEAKER_04
+the concept
+
+[01:02:34] SPEAKER_04
+which is like
+
+[01:02:35] SPEAKER_04
+10 up
+
+[01:02:35] SPEAKER_04
+from
+
+[01:02:36] SPEAKER_04
+Willy Wonka
+
+[01:02:37] SPEAKER_06
+should we
+
+[01:02:38] SPEAKER_06
+draw one
+
+[01:02:39] SPEAKER_06
+and paint
+
+[01:02:39] SPEAKER_03
+yeah
+
+[01:02:40] SPEAKER_06
+Andrew
+
+[01:02:41] SPEAKER_06
+assign each
+
+[01:02:42] SPEAKER_06
+of us
+
+[01:02:43] SPEAKER_06
+one of those
+
+[01:02:43] SPEAKER_06
+six
+
+[01:02:44] SPEAKER_03
+assign it
+
+[01:02:44] SPEAKER_03
+right now
+
+[01:02:45] SPEAKER_03
+we'll edit
+
+[01:02:46] SPEAKER_03
+out the
+
+[01:02:46] SPEAKER_03
+we should
+
+[01:02:47] SPEAKER_03
+have like
+
+[01:02:47] SPEAKER_03
+a timer
+
+[01:02:48] SPEAKER_03
+hang on
+
+[01:02:49] SPEAKER_03
+hang on
+
+[01:02:50] SPEAKER_03
+I can
+
+[01:02:52] SPEAKER_03
+I'll get a
+
+[01:02:52] SPEAKER_03
+timer going
+
+[01:02:53] SPEAKER_03
+how long
+
+[01:02:53] SPEAKER_03
+should the
+
+[01:02:54] SPEAKER_03
+timer be
+
+[01:02:54] SPEAKER_03
+how long
+
+[01:02:54] SPEAKER_03
+should we
+
+[01:02:55] SPEAKER_03
+have
+
+[01:02:55] SPEAKER_03
+should we
+
+[01:02:56] SPEAKER_03
+just have
+
+[01:02:56] SPEAKER_03
+two minutes
+
+[01:02:56] SPEAKER_03
+to do
+
+[01:02:57] SPEAKER_03
+this
+
+[01:02:57] SPEAKER_03
+yeah
+
+[01:02:58] SPEAKER_03
+okay
+
+[01:02:58] SPEAKER_03
+and I'm
+
+[01:02:59] SPEAKER_03
+assigning
+
+[01:02:59] SPEAKER_03
+you each
+
+[01:03:00] SPEAKER_03
+one
+
+[01:03:00] SPEAKER_03
+yeah
+
+[01:03:00] SPEAKER_03
+yeah
+
+[01:03:01] SPEAKER_03
+yeah
+
+[01:03:01] SPEAKER_03
+so assign
+
+[01:03:02] SPEAKER_03
+it to
+
+[01:03:02] SPEAKER_03
+us
+
+[01:03:02] SPEAKER_03
+but don't
+
+[01:03:02] SPEAKER_03
+start
+
+[01:03:03] SPEAKER_03
+until
+
+[01:03:03] SPEAKER_03
+the timer
+
+[01:03:04] SPEAKER_03
+starts
+
+[01:03:05] SPEAKER_03
+and I
+
+[01:03:05] SPEAKER_03
+guess
+
+[01:03:05] SPEAKER_03
+I can
+
+[01:03:05] SPEAKER_03
+share my
+
+[01:03:06] SPEAKER_03
+screen
+
+[01:03:06] SPEAKER_03
+for it
+
+[01:03:07] SPEAKER_03
+if you
+
+[01:03:07] SPEAKER_03
+want me
+
+[01:03:07] SPEAKER_03
+to
+
+[01:03:07] SPEAKER_03
+okay
+
+[01:03:07] SPEAKER_03
+okay
+
+[01:03:08] SPEAKER_03
+Andrew
+
+[01:03:09] SPEAKER_03
+who is
+
+[01:03:11] SPEAKER_03
+doing
+
+[01:03:11] SPEAKER_03
+what
+
+[01:03:11] SPEAKER_03
+uh
+
+[01:03:12] SPEAKER_04
+let's
+
+[01:03:13] SPEAKER_04
+do
+
+[01:03:13] SPEAKER_04
+uh
+
+[01:03:15] SPEAKER_04
+let's
+
+[01:03:15] SPEAKER_04
+do
+
+[01:03:15] SPEAKER_04
+Eric
+
+[01:03:16] SPEAKER_04
+you're
+
+[01:03:16] SPEAKER_04
+doing
+
+[01:03:16] SPEAKER_04
+poisoning
+
+[01:03:17] SPEAKER_04
+okay
+
+[01:03:17] SPEAKER_04
+okay
+
+[01:03:19] SPEAKER_04
+uh
+
+[01:03:19] SPEAKER_04
+Gavin
+
+[01:03:20] SPEAKER_04
+you're
+
+[01:03:21] SPEAKER_04
+doing
+
+[01:03:21] SPEAKER_04
+juicy
+
+[01:03:21] SPEAKER_04
+fruit
+
+[01:03:22] SPEAKER_04
+Jeff
+
+[01:03:23] SPEAKER_04
+you're
+
+[01:03:23] SPEAKER_04
+doing
+
+[01:03:24] SPEAKER_04
+stomach
+
+[01:03:24] SPEAKER_04
+ache
+
+[01:03:25] SPEAKER_04
+okay
+
+[01:03:25] SPEAKER_04
+Nick
+
+[01:03:26] SPEAKER_04
+you're
+
+[01:03:27] SPEAKER_04
+doing
+
+[01:03:27] SPEAKER_04
+Tums
+
+[01:03:27] SPEAKER_04
+and what
+
+[01:03:28] SPEAKER_04
+are you
+
+[01:03:28] SPEAKER_04
+doing
+
+[01:03:29] SPEAKER_04
+I'm
+
+[01:03:30] SPEAKER_04
+doing
+
+[01:03:30] SPEAKER_04
+I didn't
+
+[01:03:30] SPEAKER_04
+know I
+
+[01:03:30] SPEAKER_04
+was
+
+[01:03:31] SPEAKER_04
+doing
+
+[01:03:31] SPEAKER_04
+one
+
+[01:03:31] SPEAKER_04
+of
+
+[01:03:31] SPEAKER_04
+these
+
+[01:03:31] SPEAKER_04
+there's
+
+[01:03:32] SPEAKER_04
+five
+
+[01:03:32] SPEAKER_04
+of
+
+[01:03:32] SPEAKER_04
+us
+
+[01:03:33] SPEAKER_04
+we're
+
+[01:03:33] SPEAKER_04
+all
+
+[01:03:34] SPEAKER_04
+doing
+
+[01:03:34] SPEAKER_04
+one
+
+[01:03:34] SPEAKER_04
+how
+
+[01:03:35] SPEAKER_04
+do
+
+[01:03:35] SPEAKER_04
+I
+
+[01:03:35] SPEAKER_04
+what
+
+[01:03:35] SPEAKER_04
+do
+
+[01:03:36] SPEAKER_04
+I
+
+[01:03:36] SPEAKER_04
+use
+
+[01:03:36] SPEAKER_04
+to
+
+[01:03:37] SPEAKER_03
+I'm
+
+[01:03:38] SPEAKER_03
+using
+
+[01:03:39] SPEAKER_03
+jspaint.app
+
+[01:03:40] SPEAKER_03
+okay
+
+[01:03:41] SPEAKER_03
+you guys
+
+[01:03:42] SPEAKER_03
+let me know
+
+[01:03:42] SPEAKER_03
+when you're
+
+[01:03:43] SPEAKER_03
+ready
+
+[01:03:43] SPEAKER_03
+and then we
+
+[01:03:44] SPEAKER_03
+will have
+
+[01:03:44] SPEAKER_03
+two minutes
+
+[01:03:45] SPEAKER_03
+I have a
+
+[01:03:45] SPEAKER_03
+timer
+
+[01:03:46] SPEAKER_03
+that I'm
+
+[01:03:46] SPEAKER_03
+sharing my
+
+[01:03:47] SPEAKER_03
+screen on
+
+[01:03:47] SPEAKER_03
+right now
+
+[01:03:48] SPEAKER_03
+so everyone
+
+[01:03:48] SPEAKER_03
+keep an eye
+
+[01:03:49] SPEAKER_03
+on it
+
+[01:03:49] SPEAKER_03
+I will
+
+[01:03:50] SPEAKER_03
+be doing
+
+[01:03:51] SPEAKER_03
+uh
+
+[01:03:52] SPEAKER_03
+hemorrhoids
+
+[01:03:53] SPEAKER_03
+I guess
+
+[01:03:53] SPEAKER_04
+based on
+
+[01:03:54] SPEAKER_04
+the order
+
+[01:03:55] SPEAKER_04
+is that right
+
+[01:03:57] SPEAKER_04
+yeah it's
+
+[01:03:58] SPEAKER_04
+unfortunate
+
+[01:03:58] SPEAKER_04
+I didn't realize
+
+[01:03:59] SPEAKER_04
+that's part
+
+[01:04:00] SPEAKER_04
+of this
+
+[01:04:00] SPEAKER_04
+I thought
+
+[01:04:00] SPEAKER_04
+you guys
+
+[01:04:00] SPEAKER_04
+were just
+
+[01:04:01] SPEAKER_04
+doing it
+
+[01:04:01] SPEAKER_04
+okay
+
+[01:04:01] SPEAKER_04
+we were
+
+[01:04:02] SPEAKER_04
+all
+
+[01:04:02] SPEAKER_04
+I thought
+
+[01:04:02] SPEAKER_04
+the whole
+
+[01:04:03] SPEAKER_04
+thing
+
+[01:04:03] SPEAKER_04
+was
+
+[01:04:03] SPEAKER_04
+you
+
+[01:04:04] SPEAKER_04
+clearly
+
+[01:04:05] SPEAKER_04
+like
+
+[01:04:05] SPEAKER_04
+I
+
+[01:04:05] SPEAKER_04
+100%
+
+[01:04:06] SPEAKER_04
+I'm
+
+[01:04:06] SPEAKER_04
+not
+
+[01:04:06] SPEAKER_04
+saying
+
+[01:04:07] SPEAKER_04
+you
+
+[01:04:07] SPEAKER_04
+didn't
+
+[01:04:07] SPEAKER_04
+describe
+
+[01:04:07] SPEAKER_04
+it
+
+[01:04:07] SPEAKER_04
+I was
+
+[01:04:07] SPEAKER_04
+just
+
+[01:04:08] SPEAKER_04
+taken
+
+[01:04:08] SPEAKER_04
+aback
+
+[01:04:08] SPEAKER_04
+by my
+
+[01:04:09] SPEAKER_04
+list
+
+[01:04:09] SPEAKER_04
+I was
+
+[01:04:31] SPEAKER_03
+what was
+
+[01:04:31] SPEAKER_03
+your
+
+[01:04:32] SPEAKER_03
+thing
+
+[01:04:32] SPEAKER_05
+juicy
+
+[01:04:34] SPEAKER_05
+fruit
+
+[01:04:34] SPEAKER_03
+okay
+
+[01:04:35] SPEAKER_03
+juicy
+
+[01:04:35] SPEAKER_03
+fruit
+
+[01:04:35] SPEAKER_03
+and
+
+[01:04:35] SPEAKER_03
+Gavin
+
+[01:04:36] SPEAKER_03
+show
+
+[01:04:36] SPEAKER_03
+us
+
+[01:04:36] SPEAKER_03
+juicy
+
+[01:04:36] SPEAKER_03
+fruit
+
+[01:04:37] SPEAKER_03
+that's
+
+[01:04:41] SPEAKER_03
+great
+
+[01:04:41] SPEAKER_03
+that belongs
+
+[01:04:43] SPEAKER_03
+in a book
+
+[01:04:44] SPEAKER_03
+yeah that's
+
+[01:04:45] SPEAKER_03
+pretty good
+
+[01:04:45] SPEAKER_04
+that's
+
+[01:04:46] SPEAKER_04
+what I'm
+
+[01:04:47] SPEAKER_04
+talking
+
+[01:04:47] SPEAKER_04
+about
+
+[01:04:48] SPEAKER_04
+so it
+
+[01:04:49] SPEAKER_04
+looks
+
+[01:04:49] SPEAKER_04
+it's like
+
+[01:04:50] SPEAKER_04
+a canister
+
+[01:04:51] SPEAKER_04
+like
+
+[01:04:51] SPEAKER_04
+a fruit
+
+[01:04:53] SPEAKER_04
+juice
+
+[01:04:54] SPEAKER_04
+dispenser
+
+[01:04:54] SPEAKER_04
+with fruit
+
+[01:04:56] SPEAKER_04
+in it
+
+[01:04:56] SPEAKER_04
+a fruit
+
+[01:04:58] SPEAKER_04
+crushing
+
+[01:04:58] SPEAKER_04
+machine
+
+[01:04:58] SPEAKER_04
+or gum
+
+[01:05:00] SPEAKER_04
+yeah
+
+[01:05:01] SPEAKER_04
+he wrote
+
+[01:05:02] SPEAKER_04
+or gum
+
+[01:05:02] SPEAKER_04
+below
+
+[01:05:02] SPEAKER_04
+you got
+
+[01:05:03] SPEAKER_04
+a green
+
+[01:05:03] SPEAKER_04
+apple
+
+[01:05:04] SPEAKER_04
+in there
+
+[01:05:04] SPEAKER_05
+I could
+
+[01:05:06] SPEAKER_05
+fill the
+
+[01:05:06] SPEAKER_05
+lemon
+
+[01:05:06] SPEAKER_05
+and the
+
+[01:05:07] SPEAKER_05
+and the
+
+[01:05:08] SPEAKER_05
+orange
+
+[01:05:08] SPEAKER_05
+but then
+
+[01:05:08] SPEAKER_05
+it wouldn't
+
+[01:05:09] SPEAKER_05
+let me
+
+[01:05:09] SPEAKER_05
+fill
+
+[01:05:09] SPEAKER_05
+anymore
+
+[01:05:10] SPEAKER_04
+oh that's
+
+[01:05:11] SPEAKER_04
+I will
+
+[01:05:11] SPEAKER_04
+I will
+
+[01:05:11] SPEAKER_04
+say this
+
+[01:05:12] SPEAKER_04
+I'm not
+
+[01:05:12] SPEAKER_04
+feeling
+
+[01:05:13] SPEAKER_04
+seeing Gavin
+
+[01:05:14] SPEAKER_04
+this makes
+
+[01:05:14] SPEAKER_04
+me feel
+
+[01:05:15] SPEAKER_04
+even worse
+
+[01:05:15] SPEAKER_04
+about mine
+
+[01:05:16] SPEAKER_04
+so let's
+
+[01:05:16] SPEAKER_04
+do somebody
+
+[01:05:17] SPEAKER_04
+else
+
+[01:05:17] SPEAKER_04
+let's
+
+[01:05:17] SPEAKER_04
+make me
+
+[01:05:18] SPEAKER_04
+feel
+
+[01:05:18] SPEAKER_04
+a little
+
+[01:05:18] SPEAKER_04
+bit
+
+[01:05:19] SPEAKER_04
+better
+
+[01:05:19] SPEAKER_03
+okay
+
+[01:05:20] SPEAKER_03
+what was
+
+[01:05:21] SPEAKER_03
+your
+
+[01:05:21] SPEAKER_03
+concept
+
+[01:05:21] SPEAKER_03
+Nick
+
+[01:05:22] SPEAKER_03
+oh no
+
+[01:05:23] SPEAKER_03
+that's
+
+[01:05:24] SPEAKER_03
+great
+
+[01:05:24] SPEAKER_03
+that's
+
+[01:05:25] SPEAKER_03
+really
+
+[01:05:25] SPEAKER_03
+great
+
+[01:05:26] SPEAKER_03
+Nick
+
+[01:05:26] SPEAKER_03
+that's
+
+[01:05:26] SPEAKER_04
+like a
+
+[01:05:27] SPEAKER_06
+sack
+
+[01:05:28] SPEAKER_06
+of
+
+[01:05:28] SPEAKER_06
+Tums
+
+[01:05:29] SPEAKER_06
+perfect
+
+[01:05:29] SPEAKER_05
+one of
+
+[01:05:30] SPEAKER_05
+the
+
+[01:05:30] SPEAKER_05
+Tums
+
+[01:05:31] SPEAKER_05
+is
+
+[01:05:31] SPEAKER_05
+hollow
+
+[01:05:31] SPEAKER_05
+yeah
+
+[01:05:32] SPEAKER_03
+that one
+
+[01:05:33] SPEAKER_03
+fell apart
+
+[01:05:34] SPEAKER_03
+in the
+
+[01:05:34] SPEAKER_03
+box
+
+[01:05:34] SPEAKER_03
+that makes
+
+[01:05:37] SPEAKER_03
+sense
+
+[01:05:38] SPEAKER_03
+I got
+
+[01:05:39] SPEAKER_03
+I got
+
+[01:05:40] SPEAKER_03
+poisoning
+
+[01:05:41] SPEAKER_03
+which again
+
+[01:05:42] SPEAKER_03
+is difficult
+
+[01:05:42] SPEAKER_03
+for me to
+
+[01:05:43] SPEAKER_03
+understand as a
+
+[01:05:44] SPEAKER_03
+concept of
+
+[01:05:44] SPEAKER_03
+how like
+
+[01:05:45] SPEAKER_03
+but I
+
+[01:05:46] SPEAKER_03
+just I
+
+[01:05:46] SPEAKER_03
+had to go
+
+[01:05:47] SPEAKER_03
+with poison
+
+[01:05:47] SPEAKER_05
+but very
+
+[01:05:49] SPEAKER_05
+good but
+
+[01:05:49] SPEAKER_03
+that looks
+
+[01:05:50] SPEAKER_03
+great
+
+[01:05:50] SPEAKER_03
+thank you
+
+[01:05:51] SPEAKER_03
+thank you
+
+[01:05:52] SPEAKER_03
+so much
+
+[01:05:52] SPEAKER_03
+yeah what
+
+[01:05:54] SPEAKER_03
+what I'd
+
+[01:05:54] SPEAKER_03
+like to
+
+[01:05:55] SPEAKER_03
+do is
+
+[01:05:55] SPEAKER_03
+figure out
+
+[01:05:56] SPEAKER_03
+a way
+
+[01:05:56] SPEAKER_03
+to turn
+
+[01:05:57] SPEAKER_03
+it sideways
+
+[01:05:58] SPEAKER_03
+like if I
+
+[01:05:59] SPEAKER_03
+could rotate
+
+[01:05:59] SPEAKER_03
+it I feel
+
+[01:06:00] SPEAKER_03
+like that
+
+[01:06:01] SPEAKER_03
+would because
+
+[01:06:01] SPEAKER_03
+then it's
+
+[01:06:02] SPEAKER_03
+like oh
+
+[01:06:02] SPEAKER_03
+the poison
+
+[01:06:03] SPEAKER_03
+is being
+
+[01:06:03] SPEAKER_03
+dumped
+
+[01:06:03] SPEAKER_03
+but I
+
+[01:06:04] SPEAKER_03
+don't know
+
+[01:06:04] SPEAKER_03
+how oh
+
+[01:06:05] SPEAKER_03
+actually
+
+[01:06:05] SPEAKER_03
+wait
+
+[01:06:06] SPEAKER_03
+oh my
+
+[01:06:08] SPEAKER_03
+god
+
+[01:06:08] SPEAKER_03
+oh
+
+[01:06:09] SPEAKER_03
+boys
+
+[01:06:10] SPEAKER_03
+guys
+
+[01:06:12] SPEAKER_03
+guys
+
+[01:06:13] SPEAKER_03
+the concept
+
+[01:06:15] SPEAKER_03
+active
+
+[01:06:17] SPEAKER_03
+poisoning
+
+[01:06:18] SPEAKER_03
+active
+
+[01:06:20] SPEAKER_03
+poisoning
+
+[01:06:21] SPEAKER_03
+it's coming
+
+[01:06:24] SPEAKER_03
+it's coming
+
+[01:06:25] SPEAKER_03
+out at you
+
+[01:06:26] SPEAKER_03
+active
+
+[01:06:26] SPEAKER_03
+poisoning
+
+[01:06:27] SPEAKER_03
+is occurring
+
+[01:06:28] SPEAKER_05
+so it
+
+[01:06:28] SPEAKER_05
+is like
+
+[01:06:29] SPEAKER_05
+a squeeze
+
+[01:06:30] SPEAKER_05
+bottle
+
+[01:06:30] SPEAKER_05
+of poison
+
+[01:06:31] SPEAKER_04
+yeah
+
+[01:06:31] SPEAKER_04
+it's a
+
+[01:06:32] SPEAKER_04
+squeeze
+
+[01:06:32] SPEAKER_04
+bottle
+
+[01:06:32] SPEAKER_04
+with
+
+[01:06:33] SPEAKER_04
+x's
+
+[01:06:33] SPEAKER_04
+and a
+
+[01:06:34] SPEAKER_04
+skull
+
+[01:06:34] SPEAKER_04
+and green
+
+[01:06:35] SPEAKER_04
+on the
+
+[01:06:35] SPEAKER_04
+bottom
+
+[01:06:35] SPEAKER_04
+yeah
+
+[01:06:36] SPEAKER_04
+yeah
+
+[01:06:36] SPEAKER_04
+yeah
+
+[01:06:36] SPEAKER_04
+yeah
+
+[01:06:36] SPEAKER_04
+it looks
+
+[01:06:36] SPEAKER_06
+like poison
+
+[01:06:37] SPEAKER_06
+to me
+
+[01:06:37] SPEAKER_06
+looks like
+
+[01:06:38] SPEAKER_06
+poison
+
+[01:06:38] SPEAKER_06
+Jeff
+
+[01:06:39] SPEAKER_06
+some
+
+[01:06:39] SPEAKER_06
+pretty good
+
+[01:06:39] SPEAKER_06
+poison
+
+[01:06:40] SPEAKER_06
+I got
+
+[01:06:40] SPEAKER_06
+stomach
+
+[01:06:41] SPEAKER_06
+ache
+
+[01:06:42] SPEAKER_06
+now I
+
+[01:06:42] SPEAKER_06
+would say
+
+[01:06:42] SPEAKER_06
+I will
+
+[01:06:43] SPEAKER_06
+say I
+
+[01:06:44] SPEAKER_06
+would like
+
+[01:06:45] SPEAKER_06
+to have
+
+[01:06:45] SPEAKER_06
+made my
+
+[01:06:46] SPEAKER_06
+line a little
+
+[01:06:46] SPEAKER_06
+thicker
+
+[01:06:47] SPEAKER_06
+but I
+
+[01:06:47] SPEAKER_06
+didn't have
+
+[01:06:47] SPEAKER_06
+the time
+
+[01:06:48] SPEAKER_06
+to understand
+
+[01:06:49] SPEAKER_06
+the program
+
+[01:06:49] SPEAKER_06
+so I have
+
+[01:06:50] SPEAKER_06
+a man
+
+[01:06:51] SPEAKER_06
+he's going
+
+[01:06:51] SPEAKER_06
+and he's
+
+[01:06:52] SPEAKER_06
+clearly holding
+
+[01:06:53] SPEAKER_06
+his tummy
+
+[01:06:53] SPEAKER_06
+with his
+
+[01:06:54] SPEAKER_06
+hands
+
+[01:06:54] SPEAKER_06
+and there's
+
+[01:06:54] SPEAKER_06
+stink lines
+
+[01:06:55] SPEAKER_06
+all over
+
+[01:06:56] SPEAKER_06
+to illustrate
+
+[01:06:57] SPEAKER_06
+the stress
+
+[01:06:58] SPEAKER_06
+that he's
+
+[01:06:58] SPEAKER_06
+feeling in
+
+[01:06:58] SPEAKER_06
+his stomach
+
+[01:06:59] SPEAKER_06
+region
+
+[01:06:59] SPEAKER_03
+I think
+
+[01:07:00] SPEAKER_03
+that is
+
+[01:07:01] SPEAKER_03
+great
+
+[01:07:02] SPEAKER_06
+thank you
+
+[01:07:02] SPEAKER_06
+and he's
+
+[01:07:03] SPEAKER_06
+got a
+
+[01:07:03] SPEAKER_06
+he's got
+
+[01:07:03] SPEAKER_06
+a camel toe
+
+[01:07:04] SPEAKER_06
+as well
+
+[01:07:04] SPEAKER_06
+for some
+
+[01:07:05] SPEAKER_06
+reason
+
+[01:07:05] SPEAKER_06
+good for him
+
+[01:07:09] SPEAKER_04
+oh my god
+
+[01:07:10] SPEAKER_04
+uh
+
+[01:07:11] SPEAKER_04
+okay
+
+[01:07:12] SPEAKER_04
+well
+
+[01:07:12] SPEAKER_04
+I would like
+
+[01:07:13] SPEAKER_04
+to note
+
+[01:07:14] SPEAKER_04
+that I
+
+[01:07:14] SPEAKER_04
+did not
+
+[01:07:15] SPEAKER_04
+use a
+
+[01:07:15] SPEAKER_04
+mouse
+
+[01:07:15] SPEAKER_04
+I used
+
+[01:07:16] SPEAKER_04
+a trackpad
+
+[01:07:17] SPEAKER_04
+which made
+
+[01:07:18] SPEAKER_04
+this
+
+[01:07:18] SPEAKER_04
+what
+
+[01:07:19] SPEAKER_04
+I don't
+
+[01:07:20] SPEAKER_04
+have a
+
+[01:07:20] SPEAKER_04
+mouse
+
+[01:07:21] SPEAKER_04
+on my
+
+[01:07:22] SPEAKER_04
+laptop
+
+[01:07:22] SPEAKER_04
+but you
+
+[01:07:23] SPEAKER_04
+have a
+
+[01:07:23] SPEAKER_04
+separate
+
+[01:07:24] SPEAKER_04
+keyboard
+
+[01:07:24] SPEAKER_04
+for your
+
+[01:07:24] SPEAKER_04
+laptop
+
+[01:07:25] SPEAKER_04
+but you
+
+[01:07:25] SPEAKER_04
+don't have
+
+[01:07:25] SPEAKER_04
+a mouse
+
+[01:07:26] SPEAKER_04
+well the
+
+[01:07:27] SPEAKER_04
+keyboard is
+
+[01:07:28] SPEAKER_04
+built into
+
+[01:07:28] SPEAKER_04
+the laptop
+
+[01:07:29] SPEAKER_04
+my other
+
+[01:07:29] SPEAKER_04
+keyboard is
+
+[01:07:30] SPEAKER_04
+connected to
+
+[01:07:31] SPEAKER_04
+my other
+
+[01:07:31] SPEAKER_04
+mac that
+
+[01:07:32] SPEAKER_04
+is next
+
+[01:07:32] SPEAKER_04
+to it
+
+[01:07:32] SPEAKER_04
+and my
+
+[01:07:33] SPEAKER_04
+mouse
+
+[01:07:33] SPEAKER_04
+is with
+
+[01:07:34] SPEAKER_04
+that
+
+[01:07:34] SPEAKER_04
+mac
+
+[01:07:34] SPEAKER_04
+so I
+
+[01:07:37] SPEAKER_04
+had to
+
+[01:07:37] SPEAKER_04
+do
+
+[01:07:37] SPEAKER_04
+hemorrhoid
+
+[01:07:38] SPEAKER_04
+using a
+
+[01:07:39] SPEAKER_04
+trackpad
+
+[01:07:40] SPEAKER_04
+so this
+
+[01:07:42] SPEAKER_04
+is
+
+[01:07:43] SPEAKER_04
+hemi
+
+[01:07:43] SPEAKER_04
+there's a
+
+[01:07:44] SPEAKER_04
+little bit
+
+[01:07:45] SPEAKER_04
+of a
+
+[01:07:45] SPEAKER_04
+drop off
+
+[01:07:46] SPEAKER_04
+with the
+
+[01:07:46] SPEAKER_04
+trackpad
+
+[01:07:46] SPEAKER_04
+there we
+
+[01:07:48] SPEAKER_04
+go
+
+[01:07:48] SPEAKER_04
+so
+
+[01:07:49] SPEAKER_04
+so that
+
+[01:07:54] SPEAKER_04
+as Jeff
+
+[01:07:55] SPEAKER_04
+said
+
+[01:07:55] SPEAKER_04
+not familiar
+
+[01:07:56] SPEAKER_04
+with the
+
+[01:07:56] SPEAKER_04
+app
+
+[01:07:57] SPEAKER_04
+so there
+
+[01:07:57] SPEAKER_04
+was some
+
+[01:07:57] SPEAKER_04
+panicking
+
+[01:07:58] SPEAKER_04
+in thickness
+
+[01:07:59] SPEAKER_04
+and trying
+
+[01:07:59] SPEAKER_04
+to make
+
+[01:08:01] SPEAKER_04
+a certain
+
+[01:08:01] SPEAKER_04
+shade
+
+[01:08:01] SPEAKER_04
+there also
+
+[01:08:02] SPEAKER_04
+wasn't
+
+[01:08:02] SPEAKER_04
+necessarily
+
+[01:08:02] SPEAKER_04
+a good
+
+[01:08:03] SPEAKER_04
+flesh
+
+[01:08:03] SPEAKER_04
+color
+
+[01:08:03] SPEAKER_04
+of the
+
+[01:08:04] SPEAKER_04
+default
+
+[01:08:04] SPEAKER_04
+wheel
+
+[01:08:04] SPEAKER_04
+and I
+
+[01:08:05] SPEAKER_04
+couldn't
+
+[01:08:05] SPEAKER_04
+figure out
+
+[01:08:05] SPEAKER_04
+how to
+
+[01:08:05] SPEAKER_04
+open the
+
+[01:08:06] SPEAKER_04
+range
+
+[01:08:06] SPEAKER_04
+of
+
+[01:08:06] SPEAKER_04
+colors
+
+[01:08:07] SPEAKER_04
+so we
+
+[01:08:08] SPEAKER_04
+went with
+
+[01:08:08] SPEAKER_04
+what was
+
+[01:08:08] SPEAKER_04
+available
+
+[01:08:09] SPEAKER_04
+that looks
+
+[01:08:10] SPEAKER_04
+more like a
+
+[01:08:10] SPEAKER_04
+juicy fruit
+
+[01:08:11] SPEAKER_04
+than mine
+
+[01:08:11] SPEAKER_04
+it is
+
+[01:08:14] SPEAKER_04
+clearly a
+
+[01:08:15] SPEAKER_04
+butt as
+
+[01:08:15] SPEAKER_04
+the word
+
+[01:08:16] SPEAKER_04
+in the
+
+[01:08:16] SPEAKER_04
+arrow
+
+[01:08:17] SPEAKER_04
+pointing to
+
+[01:08:17] SPEAKER_04
+it
+
+[01:08:17] SPEAKER_04
+indicates
+
+[01:08:18] SPEAKER_04
+I did
+
+[01:08:19] SPEAKER_04
+not know
+
+[01:08:20] SPEAKER_04
+what shade
+
+[01:08:20] SPEAKER_04
+to do
+
+[01:08:21] SPEAKER_04
+for a
+
+[01:08:21] SPEAKER_04
+butthole
+
+[01:08:22] SPEAKER_04
+so I
+
+[01:08:22] SPEAKER_04
+made it
+
+[01:08:22] SPEAKER_04
+black
+
+[01:08:23] SPEAKER_04
+I also
+
+[01:08:23] SPEAKER_04
+didn't know
+
+[01:08:24] SPEAKER_04
+what to
+
+[01:08:25] SPEAKER_04
+do for
+
+[01:08:25] SPEAKER_04
+a hemorrhoid
+
+[01:08:25] SPEAKER_04
+I assume
+
+[01:08:26] SPEAKER_04
+it's the
+
+[01:08:26] SPEAKER_04
+same color
+
+[01:08:27] SPEAKER_04
+as the
+
+[01:08:28] SPEAKER_04
+butt
+
+[01:08:28] SPEAKER_04
+but then
+
+[01:08:28] SPEAKER_04
+how do
+
+[01:08:28] SPEAKER_04
+you represent
+
+[01:08:29] SPEAKER_04
+it should
+
+[01:08:29] SPEAKER_04
+probably
+
+[01:08:30] SPEAKER_04
+be a
+
+[01:08:30] SPEAKER_04
+slightly
+
+[01:08:30] SPEAKER_04
+different
+
+[01:08:31] SPEAKER_04
+shade
+
+[01:08:31] SPEAKER_04
+so I
+
+[01:08:31] SPEAKER_04
+went
+
+[01:08:32] SPEAKER_04
+with
+
+[01:08:32] SPEAKER_04
+red
+
+[01:08:32] SPEAKER_04
+yeah
+
+[01:08:33] SPEAKER_06
+that's
+
+[01:08:33] SPEAKER_06
+good
+
+[01:08:33] SPEAKER_06
+it's
+
+[01:08:33] SPEAKER_06
+inflamed
+
+[01:08:34] SPEAKER_06
+typically
+
+[01:08:34] SPEAKER_06
+yeah
+
+[01:08:35] SPEAKER_06
+it's an
+
+[01:08:36] SPEAKER_06
+angry
+
+[01:08:36] SPEAKER_06
+black
+
+[01:08:36] SPEAKER_06
+for a
+
+[01:08:37] SPEAKER_06
+butthole
+
+[01:08:37] SPEAKER_04
+real grumpy
+
+[01:08:38] SPEAKER_04
+yeah I
+
+[01:08:39] SPEAKER_04
+didn't know
+
+[01:08:39] SPEAKER_04
+what else
+
+[01:08:39] SPEAKER_04
+to do
+
+[01:08:40] SPEAKER_04
+what color
+
+[01:08:40] SPEAKER_04
+is a
+
+[01:08:41] SPEAKER_04
+butthole
+
+[01:08:41] SPEAKER_05
+pinkish
+
+[01:08:42] SPEAKER_05
+brown
+
+[01:08:43] SPEAKER_05
+brownish
+
+[01:08:43] SPEAKER_06
+pink
+
+[01:08:44] SPEAKER_04
+I only
+
+[01:08:44] SPEAKER_04
+had like
+
+[01:08:45] SPEAKER_04
+bright
+
+[01:08:45] SPEAKER_04
+it's a
+
+[01:08:46] SPEAKER_04
+scary
+
+[01:08:46] SPEAKER_06
+confusing
+
+[01:08:47] SPEAKER_06
+program
+
+[01:08:47] SPEAKER_06
+he'd never
+
+[01:08:47] SPEAKER_06
+used
+
+[01:09:04] SPEAKER_05
+all
+
+[01:09:05] SPEAKER_05
+related
+
+[01:09:05] SPEAKER_05
+you can
+
+[01:09:05] SPEAKER_05
+tell a
+
+[01:09:06] SPEAKER_05
+story
+
+[01:09:06] SPEAKER_05
+with
+
+[01:09:06] SPEAKER_05
+these
+
+[01:09:06] SPEAKER_05
+it's
+
+[01:09:06] SPEAKER_05
+like
+
+[01:09:07] SPEAKER_05
+he
+
+[01:09:07] SPEAKER_05
+poisoned
+
+[01:09:07] SPEAKER_05
+himself
+
+[01:09:08] SPEAKER_05
+with
+
+[01:09:08] SPEAKER_05
+juicy
+
+[01:09:08] SPEAKER_05
+fruits
+
+[01:09:09] SPEAKER_05
+and
+
+[01:09:09] SPEAKER_05
+had
+
+[01:09:09] SPEAKER_05
+a
+
+[01:09:09] SPEAKER_05
+stomach
+
+[01:09:09] SPEAKER_05
+ache
+
+[01:09:10] SPEAKER_05
+so
+
+[01:09:10] SPEAKER_05
+he
+
+[01:09:10] SPEAKER_05
+took
+
+[01:09:10] SPEAKER_05
+some
+
+[01:09:34] SPEAKER_06
+and
+
+[01:09:35] SPEAKER_06
+then
+
+[01:09:35] SPEAKER_06
+when
+
+[01:09:35] SPEAKER_06
+it's
+
+[01:09:35] SPEAKER_06
+done
+
+[01:09:36] SPEAKER_06
+we
+
+[01:09:36] SPEAKER_06
+could
+
+[01:09:36] SPEAKER_06
+have
+
+[01:09:36] SPEAKER_06
+a
+
+[01:09:36] SPEAKER_06
+magnum
+
+[01:09:37] SPEAKER_06
+opus
+
+[01:09:37] SPEAKER_06
+to
+
+[01:09:38] SPEAKER_06
+sell
+
+[01:09:38] SPEAKER_06
+that
+
+[01:09:39] SPEAKER_06
+I
+
+[01:09:39] SPEAKER_06
+think
+
+[01:09:39] SPEAKER_06
+would
+
+[01:09:39] SPEAKER_06
+delight
+
+[01:09:42] SPEAKER_06
+not
+
+[01:09:42] SPEAKER_06
+only
+
+[01:09:42] SPEAKER_06
+the
+
+[01:09:43] SPEAKER_06
+lover
+
+[01:09:43] SPEAKER_06
+of
+
+[01:09:43] SPEAKER_06
+word
+
+[01:09:44] SPEAKER_06
+but
+
+[01:09:44] SPEAKER_06
+also
+
+[01:09:44] SPEAKER_06
+of
+
+[01:09:44] SPEAKER_06
+picture
+
+[01:09:45] SPEAKER_06
+we
+
+[01:09:46] SPEAKER_05
+also
+
+[01:09:46] SPEAKER_05
+have
+
+[01:09:46] SPEAKER_05
+some
+
+[01:09:46] SPEAKER_05
+patreon
+
+[01:09:47] SPEAKER_05
+members
+
+[01:09:47] SPEAKER_05
+who
+
+[01:09:47] SPEAKER_05
+have
+
+[01:09:48] SPEAKER_05
+contributed
+
+[01:09:48] SPEAKER_05
+right
+
+[01:09:49] SPEAKER_05
+that's
+
+[01:09:49] SPEAKER_05
+true
+
+[01:09:49] SPEAKER_04
+yep
+
+[01:09:50] SPEAKER_04
+that's
+
+[01:09:50] SPEAKER_04
+true
+
+[01:09:50] SPEAKER_04
+that's
+
+[01:09:51] SPEAKER_04
+accurate
+
+[01:09:52] SPEAKER_05
+this is
+
+[01:09:53] SPEAKER_05
+fun
+
+[01:09:53] SPEAKER_04
+yeah
+
+[01:09:54] SPEAKER_04
+great
+
+[01:09:55] SPEAKER_04
+idea
+
+[01:09:55] SPEAKER_04
+Jeff
+
+[01:09:55] SPEAKER_03
+we
+
+[01:10:04] SPEAKER_06
+guess
+
+[01:10:04] SPEAKER_06
+we'll
+
+[01:10:05] SPEAKER_06
+do
+
+[01:10:05] SPEAKER_06
+it
+
+[01:10:05] SPEAKER_06
+next
+
+[01:10:05] SPEAKER_06
+week
+
+[01:10:05] SPEAKER_06
+just
+
+[01:10:06] SPEAKER_06
+don't
+
+[01:10:06] SPEAKER_06
+don't
+
+[01:10:06] SPEAKER_06
+let
+
+[01:10:06] SPEAKER_06
+me
+
+[01:10:06] SPEAKER_06
+forget
+
+[01:10:07] SPEAKER_06
+to
+
+[01:10:07] SPEAKER_06
+pitch
+
+[01:10:07] SPEAKER_06
+you
+
+[01:10:07] SPEAKER_06
+guys
+
+[01:10:07] SPEAKER_06
+on
+
+[01:10:07] SPEAKER_06
+a
+
+[01:10:07] SPEAKER_06
+new
+
+[01:10:08] SPEAKER_06
+supplemental
+
+[01:10:08] SPEAKER_06
+game
+
+[01:10:08] SPEAKER_06
+idea
+
+[01:10:09] SPEAKER_06
+I
+
+[01:10:09] SPEAKER_06
+have
+
+[01:10:09] SPEAKER_06
+for
+
+[01:10:09] SPEAKER_06
+us
+
+[01:10:09] SPEAKER_06
+you
+
+[01:10:12] SPEAKER_06
+audience
+
+[01:10:12] SPEAKER_06
+you'll
+
+[01:10:12] SPEAKER_06
+have
+
+[01:10:12] SPEAKER_06
+to
+
+[01:10:13] SPEAKER_06
+come
+
+[01:10:13] SPEAKER_06
+back
+
+[01:10:13] SPEAKER_06
+next
+
+[01:10:13] SPEAKER_06
+week
+
+[01:10:13] SPEAKER_06
+to
+
+[01:10:13] SPEAKER_06
+find
+
+[01:10:13] SPEAKER_06
+out
+
+[01:10:14] SPEAKER_06
+what
+
+[01:10:14] SPEAKER_06
+we're
+
+[01:10:14] SPEAKER_06
+talking
+
+[01:10:34] SPEAKER_06
+regulation
+
+[01:10:35] SPEAKER_06
+dot com
+
+[01:10:36] SPEAKER_06
+is
+
+[01:10:36] SPEAKER_06
+the
+
+[01:10:36] SPEAKER_06
+website
+
+[01:10:37] SPEAKER_06
+to
+
+[01:10:37] SPEAKER_06
+answer
+
+[01:10:37] SPEAKER_06
+any
+
+[01:10:38] SPEAKER_06
+and
+
+[01:10:38] SPEAKER_06
+all
+
+[01:10:38] SPEAKER_06
+questions
+
+[01:10:39] SPEAKER_06
+you
+
+[01:10:39] SPEAKER_06
+may
+
+[01:10:39] SPEAKER_06
+have
+
+[01:10:40] SPEAKER_06
+globally
+
+[01:10:41] SPEAKER_06
+locally
+
+[01:10:41] SPEAKER_06
+get
+
+[01:10:42] SPEAKER_06
+those
+
+[01:10:42] SPEAKER_06
+answers
+
+[01:10:42] SPEAKER_06
+from
+
+[01:10:43] SPEAKER_06
+google
+
+[01:10:43] SPEAKER_06
+maps
+
+[01:10:43] SPEAKER_06
+bye
+
+[01:10:44] SPEAKER_06
+bye
+
+[01:10:44] SPEAKER_06
+bye
+
+[01:10:46] SPEAKER_06
+bye

@@ -1,0 +1,4539 @@
+# Episode 196: In the Lab with Andrew // Fruit Fusions [167]
+published: 2023-08-16T07:00:00+00:00  |  duration: 01:03:00
+source: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER4540672793.mp3?updated=1774389573
+transcribed: 2026-08-07T18:19:16.044808-04:00  |  model: large-v3-turbo
+diarization: pyannote/speaker-diarization-3.1
+
+
+[00:00:00] SPEAKER_00
+Grégousse believes in the art of living, in choosing the pleasurable over the practical.
+
+[00:00:06] SPEAKER_00
+It's why we craft our premium vodka in France using pure spring water from Genzac.
+
+[00:00:11] SPEAKER_00
+And why you hear the celebratory pop of our cork reminding us to make every martini cocktail count.
+
+[00:00:18] SPEAKER_00
+So go on and make every moment count because there's no better time than now.
+
+[00:00:25] SPEAKER_00
+Grégousse. Make. Time. Wait. Sip responsibly.
+
+[00:00:30] SPEAKER_03
+From the producers of Super Troopers, and Super Troopers 2, comes, you guessed it.
+
+[00:00:41] SPEAKER_03
+Broken Lizard and their rowdy patrol squad return to the scene of the crime in Super Troopers 3.
+
+[00:00:46] SPEAKER_03
+The mustaches are thicker, the maple syrup stickier, and the pranks crazier than ever.
+
+[00:00:53] SPEAKER_03
+Buckle up for the funniest comedy of the summer.
+
+[00:00:55] SPEAKER_03
+Super Troopers 3, now playing only in theaters. Get tickets now.
+
+[00:00:59] SPEAKER_06
+Hello and welcome to another episode of the F**kface podcast.
+
+[00:01:14] SPEAKER_06
+My name is Jeff Ramsey, and with me as always, Andrew Panton and Gavin Free.
+
+[00:01:18] SPEAKER_06
+Hello.
+
+[00:01:20] SPEAKER_06
+Hello, Gavin.
+
+[00:01:21] SPEAKER_06
+Hello.
+
+[00:01:21] SPEAKER_06
+Eric, you said something that might help.
+
+[00:01:24] SPEAKER_06
+I have a mystery.
+
+[00:01:25] SPEAKER_06
+A small, tiny mystery.
+
+[00:01:26] SPEAKER_06
+It's not a big mystery.
+
+[00:01:27] SPEAKER_06
+It's just a little baby mystery.
+
+[00:01:28] SPEAKER_06
+Okay.
+
+[00:01:28] SPEAKER_06
+And I think you might have just given me a clue to help answer it.
+
+[00:01:32] SPEAKER_06
+When you were reading through what we talked about last recording, which was two weeks ago, I guess?
+
+[00:01:39] SPEAKER_06
+Three weeks ago?
+
+[00:01:40] SPEAKER_06
+Because I went out of town.
+
+[00:01:41] SPEAKER_07
+Was it two weeks ago?
+
+[00:01:41] SPEAKER_06
+I think it was two.
+
+[00:01:42] SPEAKER_06
+It was two.
+
+[00:01:43] SPEAKER_06
+Yeah, it was two.
+
+[00:01:45] SPEAKER_05
+Two weeks ago.
+
+[00:01:46] SPEAKER_05
+You said poop brain?
+
+[00:01:47] SPEAKER_05
+What is that?
+
+[00:01:48] SPEAKER_05
+I think I remember.
+
+[00:01:49] SPEAKER_05
+I think that's when you were talking about how people who shit more get less dumb.
+
+[00:01:53] SPEAKER_05
+Oh, yeah.
+
+[00:01:53] SPEAKER_07
+Have a higher intelligence.
+
+[00:01:54] SPEAKER_05
+So you were like, oh, you're Einstein because you shit so much.
+
+[00:01:57] SPEAKER_05
+That would be correct, yes.
+
+[00:01:58] SPEAKER_07
+But all the alcohol fucked you, so it brought you.
+
+[00:02:02] SPEAKER_05
+Yeah, you've evened out.
+
+[00:02:03] SPEAKER_05
+You've canceled out copious booze with copious shitting, and you've sort of landed right in the middle.
+
+[00:02:08] SPEAKER_06
+Well, I don't know that that helps.
+
+[00:02:10] SPEAKER_06
+I was looking over at my notes, and I have a note that I, the old note you don't recognize.
+
+[00:02:14] SPEAKER_06
+I wrote down sometime between that recording and when I got back from Michigan, I wrote down poop game.
+
+[00:02:22] SPEAKER_06
+Oh.
+
+[00:02:22] SPEAKER_06
+Oh.
+
+[00:02:23] SPEAKER_06
+And I don't know what that means.
+
+[00:02:25] SPEAKER_06
+And I was hoping that would help, but that doesn't.
+
+[00:02:27] SPEAKER_06
+I don't think that had anything to do with that poop game.
+
+[00:02:28] SPEAKER_07
+No.
+
+[00:02:29] SPEAKER_07
+Was that the sequel to Reindeer Games?
+
+[00:02:32] SPEAKER_06
+Or like, maybe I was trying to step up my poop game, but I got a pretty strong poop game as it is.
+
+[00:02:37] SPEAKER_07
+Yeah, I can't imagine it getting better.
+
+[00:02:39] SPEAKER_05
+Were you trying to incorporate shitting into some classic games?
+
+[00:02:42] SPEAKER_05
+Like Twister?
+
+[00:02:43] SPEAKER_05
+Like, this is like a new color?
+
+[00:02:45] SPEAKER_04
+Oh, fuck.
+
+[00:02:47] SPEAKER_05
+You just have to shit right there?
+
+[00:02:48] SPEAKER_04
+I think you're taking, like, performance-enhancing drugs if there's, like, a poop game.
+
+[00:02:54] SPEAKER_06
+Shits and ladders.
+
+[00:02:56] SPEAKER_06
+Oh, maybe it was something about, maybe somebody recently pooped in a famous game.
+
+[00:03:02] SPEAKER_06
+God, I don't know.
+
+[00:03:03] SPEAKER_06
+Well, anyway, if anybody has any ideas for, or, or, sounds like Gavin already has a bunch,
+
+[00:03:07] SPEAKER_06
+but if, uh, if anybody has any additional poop game ideas, send them my way.
+
+[00:03:11] SPEAKER_06
+I have no fucking clue what I was getting at.
+
+[00:03:13] SPEAKER_06
+Do you think you could have written it on the toilet in your shitshades?
+
+[00:03:16] SPEAKER_06
+Yeah, probably.
+
+[00:03:17] SPEAKER_06
+Ooh.
+
+[00:03:17] SPEAKER_06
+Which, by the way, just so we're clear, I want you guys to know, I do wear those almost
+
+[00:03:22] SPEAKER_06
+every time I shit, still.
+
+[00:03:23] SPEAKER_06
+Like, I'm keeping it.
+
+[00:03:24] SPEAKER_06
+That was the assumption.
+
+[00:03:25] SPEAKER_07
+I don't think either of us thought anything else than that.
+
+[00:03:28] SPEAKER_07
+It wasn't a fad.
+
+[00:03:29] SPEAKER_06
+No.
+
+[00:03:30] SPEAKER_06
+I didn't want you guys to think that it was, like, I'm some sort of a fly-by-night
+
+[00:03:33] SPEAKER_06
+cool shitter.
+
+[00:03:34] SPEAKER_06
+I'm not.
+
+[00:03:34] SPEAKER_06
+I'm in it for the long haul.
+
+[00:03:35] SPEAKER_06
+Can you do me a favor and never lend me those?
+
+[00:03:39] SPEAKER_05
+Yeah, of course, man.
+
+[00:03:40] SPEAKER_05
+Thanks.
+
+[00:03:40] SPEAKER_04
+Oh, what a move that is.
+
+[00:03:43] SPEAKER_04
+What if I already have?
+
+[00:03:45] SPEAKER_04
+It's, like, a way bigger rate of getting pink eye from those, or do you think it's, like,
+
+[00:03:50] SPEAKER_04
+the same?
+
+[00:03:50] SPEAKER_07
+I think it's the same.
+
+[00:03:53] SPEAKER_07
+Or do you think he's immune to pink eye?
+
+[00:03:55] SPEAKER_07
+I've never had it.
+
+[00:03:56] SPEAKER_07
+Because of he's constantly, wow, nose flaps and pink eye resistance.
+
+[00:04:01] SPEAKER_07
+You're quite the superhero.
+
+[00:04:03] SPEAKER_06
+Oh, no, I've had pink eye.
+
+[00:04:04] SPEAKER_06
+Shit.
+
+[00:04:06] SPEAKER_06
+Yeah, I definitely had pink eye once when I was, like, 15 or 16.
+
+[00:04:10] SPEAKER_06
+I remember it hurt like a motherfucker.
+
+[00:04:12] SPEAKER_06
+It itched.
+
+[00:04:13] SPEAKER_06
+Yeah, it sucked.
+
+[00:04:14] SPEAKER_06
+Huh.
+
+[00:04:15] SPEAKER_07
+Well, maybe you're immune since then.
+
+[00:04:16] SPEAKER_07
+Like, you're so much, I would say you have more shit near your eyes than most people with
+
+[00:04:22] SPEAKER_07
+your shit shades.
+
+[00:04:23] SPEAKER_07
+So I think they're building.
+
+[00:04:24] SPEAKER_06
+No, I think the shades protect me from the, I think they act as, like, poop particle blockers.
+
+[00:04:30] SPEAKER_06
+Yeah, I mean, they're definitely getting it from the front end.
+
+[00:04:32] SPEAKER_05
+They're blocking all that.
+
+[00:04:33] SPEAKER_05
+Yeah.
+
+[00:04:34] SPEAKER_05
+But I feel like most of the shit particles, if you're a normal anatomy, would be coming
+
+[00:04:38] SPEAKER_05
+from behind you, though.
+
+[00:04:39] SPEAKER_06
+Oh, that's a good point.
+
+[00:04:44] SPEAKER_06
+I hadn't considered that.
+
+[00:04:45] SPEAKER_06
+It might actually be funneling it all into your eyes.
+
+[00:04:48] SPEAKER_06
+This is a weird episode already.
+
+[00:04:49] SPEAKER_06
+I feel weird.
+
+[00:04:50] SPEAKER_06
+We are recording late.
+
+[00:04:52] SPEAKER_06
+We don't ever really record this kind of late when we do the standard recording on a Thursday.
+
+[00:04:57] SPEAKER_06
+We're starting about 18 minutes late.
+
+[00:04:59] SPEAKER_06
+But not for any reason, but because we were recording, I mean, for a reason, we were recording
+
+[00:05:04] SPEAKER_06
+a test episode of something else earlier, and then we had to go run through some business.
+
+[00:05:08] SPEAKER_06
+But I wondered if starting 7 or 8 or 9 or 15 minutes or whatever off would affect me in
+
+[00:05:14] SPEAKER_06
+some way.
+
+[00:05:14] SPEAKER_06
+And I think it has.
+
+[00:05:15] SPEAKER_04
+You think it has?
+
+[00:05:16] SPEAKER_04
+Well, you also had to wait for Andrew, who I ran through some, like, stuff that we had
+
+[00:05:21] SPEAKER_04
+to talk about for, like, business.
+
+[00:05:23] SPEAKER_04
+And then Andrew was like, I need 10 minutes, and then disappeared and kept unmuting so fast
+
+[00:05:29] SPEAKER_04
+I didn't know he was unmuting.
+
+[00:05:31] SPEAKER_05
+I feel like he's been in the lab.
+
+[00:05:34] SPEAKER_07
+Okay.
+
+[00:05:34] SPEAKER_07
+Well, here's the thing.
+
+[00:05:36] SPEAKER_07
+Okay.
+
+[00:05:36] SPEAKER_07
+I'm juicing a watermelon right now, so if I'm a little off, that's why.
+
+[00:05:42] SPEAKER_07
+We've been talking a lot about the lab recently.
+
+[00:05:46] SPEAKER_07
+Yeah.
+
+[00:05:46] SPEAKER_07
+And I've brought the lab to the podcast, so I'm preparing.
+
+[00:05:50] SPEAKER_07
+As you may remember, we talked about different fruit combinations that are not common, that
+
+[00:05:57] SPEAKER_07
+we've never seen compared.
+
+[00:05:59] SPEAKER_07
+So I went to the store, and I bought all the fruit that we have, and I got a little hand
+
+[00:06:06] SPEAKER_07
+juicer, and I didn't want it to go bad ahead of time.
+
+[00:06:10] SPEAKER_07
+So I thought, oh, I'll just juice this fruit, put the lab on the show while we're recording.
+
+[00:06:15] SPEAKER_07
+I already run into a massive issue with the watermelon.
+
+[00:06:19] SPEAKER_07
+Juices everywhere.
+
+[00:06:20] SPEAKER_07
+I'm glad that I put a plate down, but I'm going to have to clean that.
+
+[00:06:25] SPEAKER_07
+I don't, hang on.
+
+[00:06:25] SPEAKER_04
+We got...
+
+[00:06:26] SPEAKER_04
+Are you just using a lime juicer?
+
+[00:06:29] SPEAKER_07
+Like...
+
+[00:06:29] SPEAKER_04
+Oh, yeah.
+
+[00:06:30] SPEAKER_04
+For watermelon?
+
+[00:06:33] SPEAKER_07
+Yeah.
+
+[00:06:34] SPEAKER_05
+Well, because that's the best juicing tool I have.
+
+[00:06:37] SPEAKER_05
+Imagine the size of a lime, and then imagine something slightly smaller than that.
+
+[00:06:41] SPEAKER_05
+That is what he's juicing with.
+
+[00:06:42] SPEAKER_04
+Well, the point is to separate the pulp from the juice, but watermelon is mostly just, like,
+
+[00:06:52] SPEAKER_04
+slightly firmer juice, where a lime is not.
+
+[00:06:54] SPEAKER_07
+So this is what I'm doing.
+
+[00:06:55] SPEAKER_07
+Okay.
+
+[00:06:56] SPEAKER_07
+I'm going to juice everything.
+
+[00:06:58] SPEAKER_07
+I have little plastic shot glasses all on my desk.
+
+[00:07:02] SPEAKER_07
+I'm going to juice them half and half, then I'm going to mix them, then I'm going to try
+
+[00:07:06] SPEAKER_07
+it.
+
+[00:07:06] SPEAKER_07
+We'll see if the combination is good or not.
+
+[00:07:08] SPEAKER_05
+So we're currently in the lab with you right now.
+
+[00:07:11] SPEAKER_07
+We are in the lab as we speak, and I even have other lab work to share.
+
+[00:07:15] SPEAKER_07
+This is amazing.
+
+[00:07:16] SPEAKER_07
+But this is the current lab situation.
+
+[00:07:19] SPEAKER_07
+I need to unclog the thing of watermelon, and then I'm going to move on to...
+
+[00:07:23] SPEAKER_07
+What's the next thing?
+
+[00:07:24] SPEAKER_07
+What did I combine?
+
+[00:07:25] SPEAKER_07
+Grapes.
+
+[00:07:26] SPEAKER_07
+Oh, that'll be an easy one.
+
+[00:07:27] SPEAKER_05
+So you...
+
+[00:07:28] SPEAKER_05
+That sounds delicious.
+
+[00:07:28] SPEAKER_05
+Are you cutting chunks from the watermelon first, or are you just...
+
+[00:07:31] SPEAKER_07
+I'm slicing chunks in, and then transferring it to, I guess, the lime juicer, or whatever
+
+[00:07:37] SPEAKER_07
+Eric said, that I'm squishing it into a shot glass.
+
+[00:07:40] SPEAKER_07
+Okay.
+
+[00:07:40] SPEAKER_07
+So I'm going to continue on with this process.
+
+[00:07:44] SPEAKER_07
+Are you a big shots guy, typically?
+
+[00:07:47] SPEAKER_07
+No.
+
+[00:07:47] SPEAKER_07
+Not at all.
+
+[00:07:49] SPEAKER_07
+I just went to the dollar store once again and secured some plastic.
+
+[00:07:54] SPEAKER_06
+I feel like shot cups make sense for what you're doing here, though.
+
+[00:07:58] SPEAKER_06
+I think that's the appropriate vessel.
+
+[00:08:00] SPEAKER_07
+That might be the only appropriate thing that I've grabbed.
+
+[00:08:03] SPEAKER_06
+And also, can I just say, tons of respect and admiration.
+
+[00:08:05] SPEAKER_06
+I think it's awesome what you're doing.
+
+[00:08:07] SPEAKER_06
+I'm amazed that you've brought us into the lab to watch you work.
+
+[00:08:11] SPEAKER_06
+I think that's incredibly cool.
+
+[00:08:12] SPEAKER_06
+I need to apologize.
+
+[00:08:14] SPEAKER_06
+I had promised to present you guys with some grape, lemon-specific flavors from my lab
+
+[00:08:21] SPEAKER_06
+work this episode, and I just haven't been able to make my way to the lab because I was
+
+[00:08:25] SPEAKER_06
+out of town and stuff.
+
+[00:08:26] SPEAKER_06
+So you're kind of a lifesaver for me, Andrew.
+
+[00:08:29] SPEAKER_06
+I really appreciate it.
+
+[00:08:30] SPEAKER_07
+Yeah, I was worried I was stepping on your toes.
+
+[00:08:31] SPEAKER_06
+No, not at all.
+
+[00:08:32] SPEAKER_06
+My toes are so fucking stupid right now.
+
+[00:08:34] SPEAKER_06
+Just stomp on them.
+
+[00:08:35] SPEAKER_07
+I like how I'm basically taking it in shifts to go into the lab.
+
+[00:08:41] SPEAKER_07
+Well, while I do this, do you want to see the other lab work I got?
+
+[00:08:43] SPEAKER_07
+Yeah, because I had homework.
+
+[00:08:45] SPEAKER_07
+You gave me an assignment.
+
+[00:08:46] SPEAKER_07
+Oh.
+
+[00:08:46] SPEAKER_07
+You said that my sleep spaghetti.
+
+[00:08:49] SPEAKER_07
+Sorry, I'm trying to get rid of this watermelon.
+
+[00:08:51] SPEAKER_07
+But you said that my sleep spaghetti was al dente.
+
+[00:08:55] SPEAKER_07
+You said it wasn't cooked.
+
+[00:08:56] SPEAKER_07
+It wasn't cooked enough.
+
+[00:08:57] SPEAKER_07
+Al dente?
+
+[00:08:59] SPEAKER_07
+Is that al dente?
+
+[00:09:00] SPEAKER_07
+Is that al dente?
+
+[00:09:03] SPEAKER_07
+Oh, come on.
+
+[00:09:03] SPEAKER_07
+Al dente is better.
+
+[00:09:05] SPEAKER_06
+Give me al dente.
+
+[00:09:06] SPEAKER_06
+This is more fun.
+
+[00:09:07] SPEAKER_06
+Can we lobby right here and now to change it officially to al dente from here on out?
+
+[00:09:13] SPEAKER_06
+Orang-a-tang and al dente.
+
+[00:09:15] SPEAKER_06
+That sounds way more religious than al dente.
+
+[00:09:18] SPEAKER_06
+And rubbish over trash.
+
+[00:09:19] SPEAKER_06
+We can't remember.
+
+[00:09:20] SPEAKER_06
+True.
+
+[00:09:20] SPEAKER_06
+You can't say trash.
+
+[00:09:21] SPEAKER_07
+Oh, yeah.
+
+[00:09:21] SPEAKER_07
+I'll never remember that one.
+
+[00:09:23] SPEAKER_07
+But anyway, al dente, you gave notes.
+
+[00:09:25] SPEAKER_07
+You wanted it to be bent.
+
+[00:09:27] SPEAKER_07
+You wanted it adjusted.
+
+[00:09:28] SPEAKER_07
+You thought it needed more curve.
+
+[00:09:30] SPEAKER_07
+It needed to cook more, boil more, you may say.
+
+[00:09:34] SPEAKER_07
+So I, in my great wisdom, bought a staple gun.
+
+[00:09:38] SPEAKER_07
+And my idea was that I would cut them into pieces, like you suggested,
+
+[00:09:42] SPEAKER_07
+and then staple gun them together.
+
+[00:09:45] SPEAKER_07
+Staples, though?
+
+[00:09:47] SPEAKER_07
+Yeah, well.
+
+[00:09:48] SPEAKER_07
+Are they kept together in the socks?
+
+[00:09:50] SPEAKER_07
+Yeah, so I would layer the socks over each other and then shoot a staple through.
+
+[00:09:55] SPEAKER_07
+Was my idea.
+
+[00:09:56] SPEAKER_07
+That was my thought.
+
+[00:09:57] SPEAKER_07
+Sleep staples sound less inviting to me.
+
+[00:10:02] SPEAKER_05
+I'm less inclined to dive into the spaghetti now and catch my earlobe on a staple.
+
+[00:10:07] SPEAKER_05
+Catch an edge.
+
+[00:10:08] SPEAKER_07
+No, it's all locked in.
+
+[00:10:10] SPEAKER_07
+Okay.
+
+[00:10:11] SPEAKER_07
+Okay.
+
+[00:10:11] SPEAKER_07
+I was advised after I bought this that this probably wouldn't work, and that was correct.
+
+[00:10:16] SPEAKER_07
+That was a correct assumption.
+
+[00:10:18] SPEAKER_07
+Staples do not stick into foam noodles is just a fun fact for people at home.
+
+[00:10:24] SPEAKER_07
+I tried a variety of ways.
+
+[00:10:26] SPEAKER_07
+I jammed the gun.
+
+[00:10:26] SPEAKER_07
+I accidentally shot a staple across the room.
+
+[00:10:28] SPEAKER_07
+It was very chaotic, but did not work, unfortunately.
+
+[00:10:33] SPEAKER_07
+However, I did get it to work.
+
+[00:10:35] SPEAKER_07
+I'm not going to reveal lab secrets of how we got this done, but may I present to you
+
+[00:10:40] SPEAKER_07
+an updated, more noodle-filled, more cooked sleep spaghetti.
+
+[00:10:45] SPEAKER_07
+Look at how comfortable that looks.
+
+[00:10:47] SPEAKER_07
+Oh, yeah.
+
+[00:10:48] SPEAKER_07
+Look at that right there.
+
+[00:10:51] SPEAKER_05
+He's done it.
+
+[00:10:52] SPEAKER_05
+That's looking good.
+
+[00:10:54] SPEAKER_07
+You got bends.
+
+[00:10:55] SPEAKER_07
+You got twists.
+
+[00:10:57] SPEAKER_07
+Nick says they look like cigarette butts.
+
+[00:10:59] SPEAKER_07
+They do.
+
+[00:11:00] SPEAKER_07
+They definitely do.
+
+[00:11:01] SPEAKER_07
+Not necessarily wrong.
+
+[00:11:02] SPEAKER_07
+They're bendy.
+
+[00:11:04] SPEAKER_07
+There's also a product I'd like to introduce called the Sleep Macaroni, where it's just
+
+[00:11:08] SPEAKER_07
+a singular strand.
+
+[00:11:10] SPEAKER_07
+Pretty good for sleeping.
+
+[00:11:12] SPEAKER_07
+Will you get a bruised neck from it?
+
+[00:11:14] SPEAKER_07
+Yes.
+
+[00:11:14] SPEAKER_07
+Sleepy Mac.
+
+[00:11:15] SPEAKER_07
+But, until that point, it is very comfy.
+
+[00:11:20] SPEAKER_06
+You know, I think I see what you've done, just kind of looking at it, and it seems to
+
+[00:11:26] SPEAKER_06
+have worked really well.
+
+[00:11:26] SPEAKER_06
+One of the, I saw one of the comment leavers made a suggestion that I thought was pretty
+
+[00:11:32] SPEAKER_06
+brilliant.
+
+[00:11:32] SPEAKER_06
+They said, you should just take one of the long pool noodles and then just cut along
+
+[00:11:37] SPEAKER_06
+it, almost in a spiral as you go up, almost like a telephone cord, and that might allow
+
+[00:11:45] SPEAKER_06
+some maximum flexibility while maintaining the structure, maintaining it as one solid
+
+[00:11:49] SPEAKER_06
+piece.
+
+[00:11:50] SPEAKER_06
+But, clearly, you've come to a different solution that seems to work just as well.
+
+[00:11:56] SPEAKER_07
+Oh, it works great.
+
+[00:11:57] SPEAKER_07
+I will say it's better than just bending an uncut one.
+
+[00:12:01] SPEAKER_07
+Definite problems with that, I have slapped my lamp, because you bend it, and then you
+
+[00:12:07] SPEAKER_07
+lay on it, and then I have a tendency to move in my sleep.
+
+[00:12:11] SPEAKER_07
+I woke myself up last night trying to use it, because it slapped the wall.
+
+[00:12:15] SPEAKER_07
+I was, like, holding it down, and it hit the wall, and it spooked me.
+
+[00:12:20] SPEAKER_07
+I guess the main question is, is this any more comfy?
+
+[00:12:23] SPEAKER_07
+And the answer to that is absolutely not.
+
+[00:12:25] SPEAKER_07
+It's terrible.
+
+[00:12:26] SPEAKER_07
+Do not use this.
+
+[00:12:28] SPEAKER_07
+So, it is not a great product.
+
+[00:12:30] SPEAKER_06
+Well, let's not throw shade at Sleep Spaghetti.
+
+[00:12:35] SPEAKER_06
+It clearly doesn't work.
+
+[00:12:36] SPEAKER_06
+I don't know that it's Sleep Spaghetti's fault.
+
+[00:12:38] SPEAKER_06
+I think it might be the pool noodle's fault.
+
+[00:12:40] SPEAKER_06
+I don't look at a pool noodle and think, I want to cuddle up with that in a bed.
+
+[00:12:44] SPEAKER_06
+I look at a pillow and think that, and so I would think that the consistency would be
+
+[00:12:48] SPEAKER_06
+somewhere less than pool noodle, but more than pillow, maybe.
+
+[00:12:52] SPEAKER_06
+So, like, long pillows.
+
+[00:12:54] SPEAKER_05
+I love the idea of it being full, because you slapped your lamp.
+
+[00:12:58] SPEAKER_07
+Oh, yeah.
+
+[00:13:00] SPEAKER_07
+I was terrified that it, I mean, if you're sharing a bed with someone, it is a dangerous
+
+[00:13:04] SPEAKER_07
+thing.
+
+[00:13:06] SPEAKER_05
+Oh.
+
+[00:13:07] SPEAKER_05
+Oh, that cracked me up.
+
+[00:13:08] SPEAKER_05
+That's so funny.
+
+[00:13:09] SPEAKER_05
+Yeah, so you're telling Andrew to replace the, well, change everything about it, basically.
+
+[00:13:14] SPEAKER_06
+Well, no, I think you could take the filling out and just stuff it with, like, batting or
+
+[00:13:19] SPEAKER_06
+something and achieve a much comfier result.
+
+[00:13:23] SPEAKER_06
+But I also don't want to, listen, this is Andrew's process, and I don't want to get in
+
+[00:13:28] SPEAKER_06
+the way of Andrew's process.
+
+[00:13:29] SPEAKER_06
+Everybody creates differently.
+
+[00:13:31] SPEAKER_06
+The road to the final product is forked many times over, and everybody takes a different
+
+[00:13:38] SPEAKER_06
+fork at different points.
+
+[00:13:39] SPEAKER_06
+So, the important thing is that we get there at the end, and I think we will.
+
+[00:13:45] SPEAKER_06
+So, I've just been, I've been reticent to throw too much suggestion towards Andrew, because
+
+[00:13:51] SPEAKER_06
+I don't want to get in the way of his creative process.
+
+[00:13:53] SPEAKER_06
+What was that convention that had the ball pit?
+
+[00:13:58] SPEAKER_04
+Dash Con.
+
+[00:13:59] SPEAKER_05
+Dash Con, yeah.
+
+[00:14:00] SPEAKER_05
+Because I'm thinking, next RTX, we could potentially have a big spaghetti pit, a big sleep spaghetti
+
+[00:14:05] SPEAKER_05
+pit.
+
+[00:14:05] SPEAKER_04
+You think we could do a sleep spaghetti pit?
+
+[00:14:07] SPEAKER_06
+I think so.
+
+[00:14:09] SPEAKER_06
+Didn't that, uh, didn't that adult actress, uh, jump in that ball pit recently and break
+
+[00:14:14] SPEAKER_06
+her back?
+
+[00:14:14] SPEAKER_04
+Yes, that was at Twitch Con.
+
+[00:14:16] SPEAKER_06
+Twitch Con, yeah.
+
+[00:14:17] SPEAKER_06
+Wait, what happened?
+
+[00:14:18] SPEAKER_04
+Uh, uh, she, what's her name?
+
+[00:14:21] SPEAKER_06
+Adriana Chechnik, I think.
+
+[00:14:23] SPEAKER_06
+They always talk about her on the YMH podcast.
+
+[00:14:25] SPEAKER_04
+She jumped into a foam pit, and broke, literally broke her back.
+
+[00:14:32] SPEAKER_06
+Oh, God.
+
+[00:14:33] SPEAKER_06
+I think, I think I heard about that.
+
+[00:14:34] SPEAKER_06
+Yeah.
+
+[00:14:34] SPEAKER_06
+Yeah.
+
+[00:14:35] SPEAKER_06
+Yeah.
+
+[00:14:35] SPEAKER_06
+Had to have surgery and stuff, like emergency surgery and stuff.
+
+[00:14:37] SPEAKER_06
+Terrible.
+
+[00:14:38] SPEAKER_06
+Awful.
+
+[00:14:39] SPEAKER_04
+Just terrible.
+
+[00:14:41] SPEAKER_04
+Um, if we're shifting gears out of the lab, unless we're still in the lab for the juice,
+
+[00:14:45] SPEAKER_04
+I don't know where the juice lands.
+
+[00:14:47] SPEAKER_07
+I'm, I'm juicing grapes as we speak, so feel free to, to take us out.
+
+[00:14:51] SPEAKER_07
+Um, I just.
+
+[00:14:52] SPEAKER_07
+I'll have a shot ready.
+
+[00:14:53] SPEAKER_04
+I wanted to, I wanted to bring up that the Pantan Collection comes out.
+
+[00:14:58] SPEAKER_04
+Oh, no.
+
+[00:14:59] SPEAKER_04
+On, uh, 825, uh, which is just a couple of weeks away.
+
+[00:15:03] SPEAKER_04
+It'll be, uh, Friday the 25th at 10, at 10 a.m.
+
+[00:15:06] SPEAKER_04
+And the Pantan Collection is something that we've waited on for a long time.
+
+[00:15:10] SPEAKER_06
+Yes.
+
+[00:15:10] SPEAKER_04
+Uh, and I just sort of want to give.
+
+[00:15:14] SPEAKER_07
+No!
+
+[00:15:15] SPEAKER_07
+So, I have stopped going to merch meetings, because it felt awkward, them saying the Pantan Collection.
+
+[00:15:23] SPEAKER_07
+I didn't really know what it is.
+
+[00:15:25] SPEAKER_07
+That's horrendous.
+
+[00:15:27] SPEAKER_07
+Why did, why was this?
+
+[00:15:29] SPEAKER_07
+We have your face on a balaclava that you can buy.
+
+[00:15:32] SPEAKER_07
+No!
+
+[00:15:32] SPEAKER_07
+Yeah.
+
+[00:15:33] SPEAKER_04
+Um, no!
+
+[00:15:34] SPEAKER_04
+We also have, uh.
+
+[00:15:36] SPEAKER_04
+That looks so bad!
+
+[00:15:37] SPEAKER_04
+It's, it's, it's also a sunshade for your car, but it's also.
+
+[00:15:41] SPEAKER_05
+Yeah, a koozie down there.
+
+[00:15:42] SPEAKER_04
+But it's also a koozie.
+
+[00:15:44] SPEAKER_04
+Oh!
+
+[00:15:45] SPEAKER_05
+No!
+
+[00:15:46] SPEAKER_05
+Um.
+
+[00:15:47] SPEAKER_04
+Oh, no!
+
+[00:15:47] SPEAKER_05
+It's basically anything that needs to have, like, a wraparound design.
+
+[00:15:52] SPEAKER_04
+How do you.
+
+[00:15:54] SPEAKER_04
+It is, you have, and I will say, that is true.
+
+[00:15:56] SPEAKER_04
+You, you, you have stopped coming to these meetings, uh, and that's fine.
+
+[00:16:01] SPEAKER_04
+That's, you cannot come to the meetings, it's okay.
+
+[00:16:03] SPEAKER_04
+But then this happens.
+
+[00:16:05] SPEAKER_07
+Oh, I like going to them.
+
+[00:16:06] SPEAKER_04
+Um, on the one side of the sunshade is Andrew's giant face.
+
+[00:16:10] SPEAKER_04
+Oh, no!
+
+[00:16:11] SPEAKER_04
+And then on the other side, um, of this, of this sunshade, I'm a really big fan of,
+
+[00:16:17] SPEAKER_04
+if I can get this thing to paste, uh, there we go.
+
+[00:16:20] SPEAKER_04
+It says, so this, that way, it's, uh, facing the inside of your car.
+
+[00:16:23] SPEAKER_04
+It's this regulation of the stir.
+
+[00:16:25] SPEAKER_04
+Oh!
+
+[00:16:25] SPEAKER_04
+That's awesome!
+
+[00:16:26] SPEAKER_04
+That's great!
+
+[00:16:27] SPEAKER_04
+Um, I will say that we have gone through a few iterations of Andrew-faced balaclavas,
+
+[00:16:34] SPEAKER_04
+and, uh, uh, Guvicon, who helped us with the, uh, Sloppy Joe's bingo site, actually received
+
+[00:16:42] SPEAKER_04
+one of these because these were all test samples of Andrew's face.
+
+[00:16:47] SPEAKER_05
+Oh, it's a nightmare!
+
+[00:16:50] SPEAKER_05
+It looks like the end result of a rip-off Mission Impossible movie.
+
+[00:16:56] SPEAKER_04
+Um, there are different, so you can see that there's different ways of Andrew's face being
+
+[00:17:02] SPEAKER_04
+interpreted here, where there's like a mouth hole, there's no mouth hole, there's bunch
+
+[00:17:05] SPEAKER_04
+in, they're double-layered, whatever.
+
+[00:17:07] SPEAKER_04
+But Guvicon has a one and only, he has one of these that's signed by Jeff, uh, that I
+
+[00:17:12] SPEAKER_04
+asked him not to share, but he can share it now, because it is fucking insane looking.
+
+[00:17:17] SPEAKER_06
+You know what that picture looks like to me?
+
+[00:17:19] SPEAKER_06
+It looks like Anthony Hopkins laid his clothes out for the day, and he's trying to figure out
+
+[00:17:23] SPEAKER_06
+what he wants to wear in Silence of the Lambs.
+
+[00:17:26] SPEAKER_06
+It's like when the Mrs. Doubtfire mask lands in the street and gets run over.
+
+[00:17:33] SPEAKER_05
+It's so bad.
+
+[00:17:34] SPEAKER_05
+I love the fact that, especially in the, in the first one you posted, Eric, I can't
+
+[00:17:38] SPEAKER_05
+help but notice that the seam, the join, is on the front, it's right in the chin and
+
+[00:17:44] SPEAKER_05
+between the, why is it on the back?
+
+[00:17:48] SPEAKER_05
+It's so horrendous.
+
+[00:17:50] SPEAKER_05
+I, I love it.
+
+[00:17:52] SPEAKER_05
+The neck looks awful.
+
+[00:17:54] SPEAKER_04
+It's so, it's so fucked, but we will have these on sale on the 25th, which is just a
+
+[00:17:59] SPEAKER_04
+couple of weeks away.
+
+[00:18:00] SPEAKER_04
+Store.roosterteeth.com is where you can grab them, or a sunshade for your car.
+
+[00:18:04] SPEAKER_04
+Where it looks like that's how you make a skin for Andrew's face for The Sims 2.
+
+[00:18:10] SPEAKER_06
+And, and you may be saying to yourself, why would we make a balaclava of Andrew's face?
+
+[00:18:15] SPEAKER_06
+And I'll tell you right now, because Gavin gets cold in the winter, and he wants to
+
+[00:18:19] SPEAKER_06
+wear a balaclava around outside, but he doesn't want to look like a criminal.
+
+[00:18:23] SPEAKER_06
+So now he just looks like another dude.
+
+[00:18:27] SPEAKER_04
+He wanted a nice, that's where this all started, is Gavin wanted a nice balaclava that people
+
+[00:18:31] SPEAKER_04
+wouldn't be like intimidated by him wearing.
+
+[00:18:33] SPEAKER_04
+Yeah.
+
+[00:18:34] SPEAKER_04
+So we skinned Andrew's face and we put it on.
+
+[00:18:39] SPEAKER_05
+I also had the idea that potentially if we ever do in-person stuff, Andrew should only
+
+[00:18:45] SPEAKER_05
+appear in his own balaclava mask.
+
+[00:18:47] SPEAKER_07
+Oh, well, the nice thing about it is if you wear it, nobody will think you kick children.
+
+[00:18:53] SPEAKER_07
+So that's just a plus.
+
+[00:18:55] SPEAKER_07
+There'll be no accusations of that.
+
+[00:18:57] SPEAKER_06
+The, uh, so behind the scenes talk, these have been in, uh, this, the e-comm office
+
+[00:19:05] SPEAKER_06
+since April, maybe March or April for a while.
+
+[00:19:08] SPEAKER_06
+Yeah.
+
+[00:19:09] SPEAKER_06
+And, uh, Tony and that crew have been wearing them around the building for, uh, off and
+
+[00:19:16] SPEAKER_06
+on for months, scaring the shit out of people.
+
+[00:19:18] SPEAKER_06
+It is, it's become a thing over there.
+
+[00:19:20] SPEAKER_05
+It's, it's, it's the worst thing we've ever made and therefore my favorite.
+
+[00:19:25] SPEAKER_99
+Yeah.
+
+[00:19:25] SPEAKER_04
+Awful.
+
+[00:19:26] SPEAKER_04
+It's pretty great.
+
+[00:19:27] SPEAKER_04
+I'm really excited.
+
+[00:19:28] SPEAKER_04
+I think, I think having a koozie with your face while wearing your face, like I'll be
+
+[00:19:33] SPEAKER_04
+like drinking a soda with your face on the koozie, sitting in my car, wearing your face
+
+[00:19:38] SPEAKER_04
+on my face while my sunshade with your face is up.
+
+[00:19:41] SPEAKER_04
+And it's, it's pretty exciting.
+
+[00:19:44] SPEAKER_04
+One of my collection, going to be good stuff.
+
+[00:19:46] SPEAKER_06
+One of my favorite conversations I've had in, in the history of working for the company,
+
+[00:19:51] SPEAKER_06
+uh, was the conversation about whether it should have a mouth hole or not.
+
+[00:19:55] SPEAKER_06
+And just like how seriously we took it, trying on the mask, which is creepy, which is creepier,
+
+[00:20:01] SPEAKER_06
+which is just creepy enough.
+
+[00:20:02] SPEAKER_06
+Like there were a lot, the audience doesn't know this, but a whole lot of conversation and
+
+[00:20:07] SPEAKER_06
+work and debate went into whether that thing has a mouth hole or not.
+
+[00:20:10] SPEAKER_06
+It's so bad.
+
+[00:20:13] SPEAKER_07
+It's so bad.
+
+[00:20:16] SPEAKER_07
+I will be at the next meeting.
+
+[00:20:22] SPEAKER_05
+Someone's got some notes.
+
+[00:20:23] SPEAKER_05
+I think that, um, you know, the, the face RTX break show had all the, uh, the grown tubes.
+
+[00:20:30] SPEAKER_05
+The next one's going to like the weirdest cult in the world.
+
+[00:20:34] SPEAKER_05
+Freaks.
+
+[00:20:34] SPEAKER_05
+Can't wait.
+
+[00:20:35] SPEAKER_04
+It's just really like, man, I can't wait for people to have this.
+
+[00:20:39] SPEAKER_04
+And the image, like the pictures that we're going to get from people is going to be so
+
+[00:20:42] SPEAKER_04
+exciting.
+
+[00:20:43] SPEAKER_04
+Oh, why, why in, why in summer are we getting this?
+
+[00:20:47] SPEAKER_04
+So that way you have it for winter and you're used to wearing it all day, every day.
+
+[00:20:51] SPEAKER_04
+And you can stay warm.
+
+[00:20:53] SPEAKER_05
+It's perfect.
+
+[00:20:54] SPEAKER_05
+And if you, if you're in a group that has an evil plan, you don't have to wear mask
+
+[00:20:58] SPEAKER_05
+outfits.
+
+[00:20:58] SPEAKER_05
+Now you can just all wear these.
+
+[00:21:00] SPEAKER_06
+Oh man.
+
+[00:21:03] SPEAKER_06
+It's like the beginning of point break.
+
+[00:21:06] SPEAKER_06
+Gavin, uh, congratulations, man.
+
+[00:21:10] SPEAKER_06
+You're going to be so toasty warm this winter.
+
+[00:21:12] SPEAKER_06
+I'm going to be so warm.
+
+[00:21:14] SPEAKER_06
+Oh, that's great.
+
+[00:21:15] SPEAKER_06
+Thank you for giving that update, Eric.
+
+[00:21:17] SPEAKER_06
+I can't believe we've managed to go this long without Andrew.
+
+[00:21:19] SPEAKER_06
+Yeah, I'm going to be seeing that.
+
+[00:21:21] SPEAKER_04
+It's pretty cool.
+
+[00:21:22] SPEAKER_04
+Oh, what's wrong?
+
+[00:21:23] SPEAKER_07
+How's your juice?
+
+[00:21:25] SPEAKER_07
+I got grape all down my leg.
+
+[00:21:27] SPEAKER_07
+It slid down the handle.
+
+[00:21:29] SPEAKER_07
+Oh, were you wearing the shocks?
+
+[00:21:32] SPEAKER_07
+Oh, I'm not.
+
+[00:21:33] SPEAKER_07
+I should have.
+
+[00:21:34] SPEAKER_07
+You know, you got to get safety shocks on.
+
+[00:21:36] SPEAKER_07
+I got to get my safety shocks on.
+
+[00:21:39] SPEAKER_07
+I don't know how it happened.
+
+[00:21:40] SPEAKER_07
+It poured down the handle.
+
+[00:21:42] SPEAKER_07
+I put too many grapes in, I guess.
+
+[00:21:43] SPEAKER_07
+And it overflowed.
+
+[00:21:45] SPEAKER_07
+And it went down the handle.
+
+[00:21:46] SPEAKER_07
+Oh, the juicer handle?
+
+[00:21:46] SPEAKER_07
+Down my leg.
+
+[00:21:47] SPEAKER_07
+Yeah, it went down the juicer handle.
+
+[00:21:49] SPEAKER_07
+Poured down my leg like a fucking spout.
+
+[00:21:51] SPEAKER_06
+Oh my God.
+
+[00:21:52] SPEAKER_07
+Oh my God.
+
+[00:21:53] SPEAKER_07
+Okay, well, I'm going to have a shower after this.
+
+[00:21:56] SPEAKER_07
+I'm sticky already.
+
+[00:21:57] SPEAKER_07
+I'm covered in fucking grape juice.
+
+[00:21:59] SPEAKER_07
+Hey, I, uh.
+
+[00:22:00] SPEAKER_07
+We're getting there.
+
+[00:22:01] SPEAKER_07
+So did you end up putting the grape with the lemon or what?
+
+[00:22:05] SPEAKER_07
+Not yet.
+
+[00:22:05] SPEAKER_07
+I'm juicing my second set of juice.
+
+[00:22:07] SPEAKER_07
+I got the grape watermelon mixed.
+
+[00:22:09] SPEAKER_07
+I'm getting the grape and the lemon.
+
+[00:22:11] SPEAKER_05
+Are you going to juice everything first?
+
+[00:22:13] SPEAKER_07
+Do you want me to?
+
+[00:22:14] SPEAKER_07
+Or do you want me to just take the shot of the grape?
+
+[00:22:16] SPEAKER_05
+I think you should get everything ready and then we'll go down the line.
+
+[00:22:18] SPEAKER_05
+Yeah.
+
+[00:22:19] SPEAKER_07
+Okay.
+
+[00:22:19] SPEAKER_07
+Yeah, so that's what I'm doing.
+
+[00:22:20] SPEAKER_07
+I'm in the process of doing that.
+
+[00:22:22] SPEAKER_05
+I was thinking the other day about the time where I got hit in the face with a piece of
+
+[00:22:25] SPEAKER_05
+tree while I was lying out in the sun and I thought it was Jeff.
+
+[00:22:29] SPEAKER_05
+I was thinking of other times.
+
+[00:22:31] SPEAKER_05
+Have you ever been injured but you don't know what did it?
+
+[00:22:34] SPEAKER_05
+Just like that moment.
+
+[00:22:35] SPEAKER_07
+Yeah.
+
+[00:22:36] SPEAKER_07
+Constantly, like when waking up.
+
+[00:22:38] SPEAKER_07
+Oh, you get hurt in the night.
+
+[00:22:39] SPEAKER_05
+I've been followed by a gentle ghost for a few years now who's constantly, invisibly pushing
+
+[00:22:43] SPEAKER_05
+me into shit.
+
+[00:22:44] SPEAKER_05
+I was once in the woods with a bunch of friends and there was this area where like a bunch
+
+[00:22:49] SPEAKER_05
+of trees next to each other had been cut down and all the stumps were the same height.
+
+[00:22:53] SPEAKER_05
+So I was just lying on my back on all these stumps.
+
+[00:22:56] SPEAKER_05
+And some girl who I had a little bit of a crush on at the time, she just walked over to me
+
+[00:23:02] SPEAKER_05
+and was looking down at me while, while we're having a conversation.
+
+[00:23:06] SPEAKER_05
+And at one point I shut my eyes and then I got such a impact in my kidneys.
+
+[00:23:14] SPEAKER_05
+I think she kicked me really hard in the kidneys, but it was so painful.
+
+[00:23:19] SPEAKER_05
+I just rolled off the stump and my eyes were shut.
+
+[00:23:21] SPEAKER_05
+And when I looked back around, she was like with other people and I couldn't figure out
+
+[00:23:26] SPEAKER_05
+what happened.
+
+[00:23:27] SPEAKER_05
+And I'm pretty sure someone just, it might've been her, just booted me right in the side
+
+[00:23:32] SPEAKER_05
+really hard.
+
+[00:23:33] SPEAKER_05
+And I almost blacked out, but I still don't know what happened.
+
+[00:23:36] SPEAKER_05
+And I was, I didn't want to go over to everyone and be like, Hey, did someone kick?
+
+[00:23:43] SPEAKER_05
+So I just like sucked up the pain and I was just quiet for a bit, but I just really don't
+
+[00:23:48] SPEAKER_05
+know what happened.
+
+[00:23:48] SPEAKER_05
+I would love to, if I could see my life from alternate angles, that would be one of the
+
+[00:23:53] SPEAKER_05
+moments.
+
+[00:23:53] SPEAKER_05
+I just, I don't know what happened.
+
+[00:23:55] SPEAKER_05
+Have you ever had that?
+
+[00:23:56] SPEAKER_07
+Not in that way.
+
+[00:23:57] SPEAKER_07
+I think it's hilarious.
+
+[00:23:58] SPEAKER_07
+The idea of like, there's so many unsolved mysteries.
+
+[00:24:02] SPEAKER_07
+And if you had the ability to go back in time and witness what really occurred, yours is
+
+[00:24:07] SPEAKER_07
+what happened to you on the stump.
+
+[00:24:09] SPEAKER_07
+Yeah.
+
+[00:24:09] SPEAKER_07
+You can see all the great, yo, an absolute waste.
+
+[00:24:13] SPEAKER_07
+She definitely kicked you in the kidney.
+
+[00:24:15] SPEAKER_07
+You're just going to get confirmation of what you already know.
+
+[00:24:18] SPEAKER_05
+That was also one.
+
+[00:24:19] SPEAKER_05
+There was a different one where I was walking home with one of my friends and sometimes we'd
+
+[00:24:22] SPEAKER_05
+have a little scrap.
+
+[00:24:23] SPEAKER_05
+We'd like try and, uh, like trip each other up and shit.
+
+[00:24:26] SPEAKER_05
+And we're having a scrap.
+
+[00:24:27] SPEAKER_05
+And I, I accidentally like grabbed him and tripped him, but he banged his face on the floor when
+
+[00:24:32] SPEAKER_05
+we fell over.
+
+[00:24:33] SPEAKER_05
+I was like, Oh, you're right.
+
+[00:24:35] SPEAKER_05
+Cause it was like friendly fighting.
+
+[00:24:36] SPEAKER_05
+And he was like, Oh shit.
+
+[00:24:38] SPEAKER_05
+And, uh, I was like picking up my backpack, which had fallen off.
+
+[00:24:42] SPEAKER_05
+And he was like, you know, in a little bit of pain.
+
+[00:24:44] SPEAKER_05
+He was probably like 10 feet away further up.
+
+[00:24:46] SPEAKER_05
+And then all of a sudden I had a tremendous pain in the side of my knee and it like dropped
+
+[00:24:51] SPEAKER_05
+me.
+
+[00:24:51] SPEAKER_05
+Like it, you know, when he hit like the side of your knee and your leg just collapses.
+
+[00:24:55] SPEAKER_05
+Yeah.
+
+[00:24:55] SPEAKER_05
+I just went down and I couldn't figure out what happened.
+
+[00:24:58] SPEAKER_05
+I don't know if he threw something or, but he just kept going.
+
+[00:25:01] SPEAKER_05
+And I was just on the floor rolling around for about a minute.
+
+[00:25:03] SPEAKER_05
+Just like, Oh, and I can barely stand up.
+
+[00:25:05] SPEAKER_05
+And I would also need to know what happened to me there.
+
+[00:25:08] SPEAKER_05
+Like, did he throw a stone at my knee?
+
+[00:25:10] SPEAKER_05
+I never asked him.
+
+[00:25:11] SPEAKER_07
+Is it at all possible that you are the reason why Jeff has a gentle ghost in his life?
+
+[00:25:16] SPEAKER_07
+That the gentle ghost has been fucking with you for a long time.
+
+[00:25:19] SPEAKER_07
+Oh, and I shook him.
+
+[00:25:19] SPEAKER_07
+Then when you went to America, you shook him off and it picked up on Jeff.
+
+[00:25:24] SPEAKER_07
+You son of a bitch.
+
+[00:25:26] SPEAKER_05
+You little, you little prick.
+
+[00:25:28] SPEAKER_05
+Did you get gentle ghost before we met?
+
+[00:25:31] SPEAKER_05
+No.
+
+[00:25:31] SPEAKER_05
+Never.
+
+[00:25:32] SPEAKER_05
+Because I haven't been hurt since the tree thing.
+
+[00:25:35] SPEAKER_05
+Like I've been hurt, but not by, you know, unknowns.
+
+[00:25:39] SPEAKER_05
+Huh?
+
+[00:25:39] SPEAKER_05
+You motherfucker.
+
+[00:25:40] SPEAKER_05
+You, you, you, that's not cool.
+
+[00:25:44] SPEAKER_06
+I'm sorry.
+
+[00:25:45] SPEAKER_06
+I, I, that's what I appreciate.
+
+[00:25:45] SPEAKER_06
+It's like, uh, it's like it follows.
+
+[00:25:47] SPEAKER_06
+Now I got to figure out how to give the, give the curse to Nick or something.
+
+[00:25:51] SPEAKER_06
+Sorry.
+
+[00:25:51] SPEAKER_05
+I think you have to get hit by something coming for you.
+
+[00:25:54] SPEAKER_05
+Like a piece of tree and then it transfers to the person you think through it.
+
+[00:25:57] SPEAKER_07
+Oh.
+
+[00:25:57] SPEAKER_07
+Oh, there you go.
+
+[00:25:58] SPEAKER_07
+I really like the idea of it follows, but not knowing how to pass it on to the next person.
+
+[00:26:02] SPEAKER_07
+It's like you have to keep trying things.
+
+[00:26:03] SPEAKER_05
+You're like trying shit.
+
+[00:26:04] SPEAKER_05
+You have sex with him.
+
+[00:26:05] SPEAKER_05
+It doesn't work.
+
+[00:26:10] SPEAKER_07
+It tries.
+
+[00:26:11] SPEAKER_07
+It tries.
+
+[00:26:19] SPEAKER_06
+Oh, man.
+
+[00:26:21] SPEAKER_06
+Hey, I got a couple of little like house cleaning things if you guys don't mind.
+
+[00:26:24] SPEAKER_06
+I'd love to hear that.
+
+[00:26:25] SPEAKER_06
+One, uh, recently it's come, uh, we've talked about it.
+
+[00:26:29] SPEAKER_06
+I, I got my gems of war achievement after all those years.
+
+[00:26:32] SPEAKER_06
+Congratulations.
+
+[00:26:33] SPEAKER_06
+Thanks.
+
+[00:26:33] SPEAKER_06
+And then I decided to just go ahead and get the rest of the achievements.
+
+[00:26:36] SPEAKER_06
+And like the day I was wrapping it up, they released new achievements, which is fucking annoying.
+
+[00:26:40] SPEAKER_06
+So I have, I have one more to go again.
+
+[00:26:42] SPEAKER_06
+I have, yeah, it gets worse.
+
+[00:26:45] SPEAKER_06
+It gets worse.
+
+[00:26:46] SPEAKER_06
+I have one more to go.
+
+[00:26:47] SPEAKER_06
+It's called fuck you, Jeff.
+
+[00:26:48] SPEAKER_06
+No, I have one.
+
+[00:26:49] SPEAKER_06
+It's not related to me in any way, but it's, I have one more to get that's going to take me a couple months.
+
+[00:26:54] SPEAKER_06
+Uh, but then, uh, you know, I don't, I, I got DM'd by somebody at the gyms of war company and they were like,
+
+[00:27:02] SPEAKER_06
+congratulating me on getting the achievement.
+
+[00:27:03] SPEAKER_06
+And they were like, Hey, we're, we're glad you finally got it.
+
+[00:27:05] SPEAKER_06
+I think they were like, probably like took you fucking long enough, you know, but they were polite about it.
+
+[00:27:09] SPEAKER_06
+And, uh, and then they go, you know, we've been kicking around ideas in the office.
+
+[00:27:12] SPEAKER_06
+And I think, uh, I think we might have another achievement coming, headed your way.
+
+[00:27:15] SPEAKER_06
+And I was like, God damn it.
+
+[00:27:16] SPEAKER_06
+So I guess there may, they, they, I don't know.
+
+[00:27:20] SPEAKER_06
+There may be a fuck you, Jeff coming.
+
+[00:27:22] SPEAKER_06
+Do you think it'd be like a lifetime one?
+
+[00:27:24] SPEAKER_06
+It'd be like 10 times the amount.
+
+[00:27:25] SPEAKER_06
+I don't know.
+
+[00:27:26] SPEAKER_06
+I don't know that I have it in me.
+
+[00:27:27] SPEAKER_06
+Honestly.
+
+[00:27:28] SPEAKER_06
+Like I'm, I'm, I don't, I don't think I'm on my back nine yet, but I'm pretty close.
+
+[00:27:34] SPEAKER_06
+You know, like at some point you gotta, you gotta look at how much life you have left and determine where you want to spend it.
+
+[00:27:40] SPEAKER_07
+Um, the funniest part is your opinion on this doesn't matter, but what will happen is in, you'll enrage an entire community of gyms of war players.
+
+[00:27:49] SPEAKER_06
+Yeah.
+
+[00:27:50] SPEAKER_07
+And you have no say in the matter, but people are going to be so pissed when another insane achievement gets added.
+
+[00:27:54] SPEAKER_06
+And if it had my name on it, I don't know that it'd be any way I could physically not get it, you know?
+
+[00:27:59] SPEAKER_07
+Yeah.
+
+[00:27:59] SPEAKER_06
+It just feels like a, it feels like a requirement.
+
+[00:28:01] SPEAKER_06
+Um, another thing is, you know, those Allen and Ginter baseball cards that we open up sometimes that they have like, that's where the egg was.
+
+[00:28:08] SPEAKER_06
+Remember the egg that I got you, Jeff?
+
+[00:28:10] SPEAKER_06
+It was a baseball card with an egg.
+
+[00:28:11] SPEAKER_06
+Yes.
+
+[00:28:12] SPEAKER_06
+Uh, and they have like sandwiches and stuff.
+
+[00:28:14] SPEAKER_06
+Well, the new cards are coming out in a couple of weeks and they haven't released the full card list.
+
+[00:28:18] SPEAKER_06
+So I don't know, but they have released like what the different inserts and stuff are.
+
+[00:28:22] SPEAKER_06
+And they have one called Talented.
+
+[00:28:25] SPEAKER_06
+And it says it's a bird based insert focusing on formidable claws.
+
+[00:28:30] SPEAKER_06
+So I think there's a really good chance there might be a Falcon card about to hit the market.
+
+[00:28:35] SPEAKER_06
+Oh, so we should keep our eyes open for that.
+
+[00:28:37] SPEAKER_06
+And, uh, one other little thing, uh, yeah, we can open on the break show if I can get them.
+
+[00:28:42] SPEAKER_06
+Uh, do you remember the Hamburglar?
+
+[00:28:44] SPEAKER_06
+We had that conversation about the Hamburglar.
+
+[00:28:46] SPEAKER_06
+Yeah.
+
+[00:28:46] SPEAKER_06
+Oh yeah.
+
+[00:28:47] SPEAKER_06
+And that guy, Grady Dick.
+
+[00:28:48] SPEAKER_06
+He had Grady Dick.
+
+[00:28:49] SPEAKER_06
+I got a Grady Dick baseball card or basketball card.
+
+[00:28:51] SPEAKER_06
+I have to share with you guys.
+
+[00:28:53] SPEAKER_06
+It's so funny.
+
+[00:28:53] SPEAKER_06
+Oh, uh, I see it.
+
+[00:28:55] SPEAKER_06
+I really want you guys to see it.
+
+[00:28:56] SPEAKER_04
+Let me, uh, anyway, the break shows on 4 PM on Mondays on rooster teeth and our YouTube channel.
+
+[00:29:01] SPEAKER_04
+And then you can watch the VOD, the recorded show later.
+
+[00:29:05] SPEAKER_04
+Well, Jeff is looking for this thing.
+
+[00:29:07] SPEAKER_04
+Yeah.
+
+[00:29:07] SPEAKER_04
+I figured that might be a good place to plug it since you were talking about cards.
+
+[00:29:11] SPEAKER_04
+Cut all this out.
+
+[00:29:12] SPEAKER_06
+All right, here we go.
+
+[00:29:13] SPEAKER_04
+Great.
+
+[00:29:13] SPEAKER_04
+Thanks, man.
+
+[00:29:17] SPEAKER_06
+Here you go.
+
+[00:29:19] SPEAKER_06
+Look at this fucking card.
+
+[00:29:20] SPEAKER_06
+If, uh, if for the audience, uh, he's, he's wearing it.
+
+[00:29:25] SPEAKER_06
+It's, it's Grady Dick.
+
+[00:29:27] SPEAKER_07
+He looks like the little kid from Soul Plane.
+
+[00:29:29] SPEAKER_06
+Yeah.
+
+[00:29:30] SPEAKER_06
+A lot of people are saying, I know you guys don't watch the show, but a lot of people are saying
+
+[00:29:33] SPEAKER_06
+he looks like BJ on Righteous Gymstones.
+
+[00:29:37] SPEAKER_06
+Uh, it looks like what he would look like if, if the burglary went well.
+
+[00:29:42] SPEAKER_06
+Anyway, you can check it out on the Instagram.
+
+[00:29:44] SPEAKER_06
+It's his, uh, it's, it's, it's like a tops now baseball or card they released, but it's
+
+[00:29:48] SPEAKER_06
+his outfit on draft night and he's wearing black sunglasses.
+
+[00:29:51] SPEAKER_06
+Actually, Andrew, you nailed it with the, with Soul Man.
+
+[00:29:54] SPEAKER_06
+I think it's exactly what it looks like.
+
+[00:29:56] SPEAKER_06
+And now he's wearing this red suit that looks like it's made out of sparkle.
+
+[00:30:01] SPEAKER_06
+Yeah.
+
+[00:30:02] SPEAKER_06
+There you go.
+
+[00:30:03] SPEAKER_06
+There's BJ.
+
+[00:30:04] SPEAKER_05
+He looks like Ruby Rod.
+
+[00:30:06] SPEAKER_05
+I don't know who that is.
+
+[00:30:07] SPEAKER_05
+Who is Ruby Rod?
+
+[00:30:08] SPEAKER_05
+Well, from this Chris Tucker of Fifth Element.
+
+[00:30:10] SPEAKER_05
+Oh.
+
+[00:30:10] SPEAKER_07
+It's just like something he'll wear in there.
+
+[00:30:12] SPEAKER_05
+Yeah.
+
+[00:30:13] SPEAKER_07
+Yeah.
+
+[00:30:14] SPEAKER_07
+I could see that.
+
+[00:30:14] SPEAKER_07
+Yeah.
+
+[00:30:15] SPEAKER_07
+That's a great card.
+
+[00:30:16] SPEAKER_07
+Thanks.
+
+[00:30:16] SPEAKER_07
+Are you going to get that card graded?
+
+[00:30:17] SPEAKER_07
+Are you going to try to get a 10 gem mint of that?
+
+[00:30:20] SPEAKER_06
+Yeah.
+
+[00:30:20] SPEAKER_06
+Maybe.
+
+[00:30:21] SPEAKER_06
+I'll see if I can get it graded.
+
+[00:30:21] SPEAKER_00
+Grey Goose believes in the art of living, in choosing the pleasurable over the practical.
+
+[00:30:28] SPEAKER_00
+It's why we craft our premium vodka in France using pure spring water from Genzac.
+
+[00:30:33] SPEAKER_00
+And why you hear the celebratory pop of our cork reminding us to make every martini cocktail count.
+
+[00:30:41] SPEAKER_00
+So go on and make every moment count because there's no better time than now.
+
+[00:30:47] SPEAKER_00
+Grey Goose.
+
+[00:30:48] SPEAKER_00
+Make.
+
+[00:30:49] SPEAKER_00
+Time.
+
+[00:30:50] SPEAKER_00
+Wait.
+
+[00:30:50] SPEAKER_00
+C'est responsable.
+
+[00:30:53] SPEAKER_01
+This checkout line is not moving.
+
+[00:30:56] SPEAKER_01
+But hey, maybe that's not so bad.
+
+[00:30:59] SPEAKER_01
+You've got a little extra time to remember that thing you forgot.
+
+[00:31:02] SPEAKER_01
+And that small win feels kind of huge.
+
+[00:31:05] SPEAKER_01
+Just like the surprisingly incredible taste of Minute Maid Zero Sugar.
+
+[00:31:09] SPEAKER_01
+Bring the juice with Minute Maid Zero Sugar.
+
+[00:31:11] SPEAKER_01
+Visit the chill juice aisle in your local grocery store today.
+
+[00:31:14] SPEAKER_05
+I have a CPAP update.
+
+[00:31:19] SPEAKER_05
+Oh.
+
+[00:31:20] SPEAKER_07
+Oh, you're farting nonstop, right?
+
+[00:31:22] SPEAKER_07
+Oh, yeah.
+
+[00:31:22] SPEAKER_05
+Filling me with air.
+
+[00:31:23] SPEAKER_05
+It still does that.
+
+[00:31:24] SPEAKER_05
+So I'm sort of trying to use it and try a different shit.
+
+[00:31:26] SPEAKER_05
+I tried having the CPAP up my nose and taping my mouth shut.
+
+[00:31:30] SPEAKER_05
+Still fill me with air.
+
+[00:31:31] SPEAKER_05
+Then I just tried the mouth tape alone.
+
+[00:31:33] SPEAKER_05
+I tried it the night before last.
+
+[00:31:36] SPEAKER_05
+Taping my mouth shut.
+
+[00:31:37] SPEAKER_05
+And then coincidentally, at the same time, food poisoning.
+
+[00:31:41] SPEAKER_05
+Oh, no.
+
+[00:31:43] SPEAKER_05
+Now, the mouth tape has a little sort of, I think, an emergency breathing hole.
+
+[00:31:47] SPEAKER_05
+What the fuck?
+
+[00:31:48] SPEAKER_05
+It was a pressure hose.
+
+[00:31:49] SPEAKER_05
+I threw up in the night and it came out jetting through that slit.
+
+[00:31:56] SPEAKER_05
+And then, which caused some sort of back flow through my sinuses, shot out of my nose.
+
+[00:32:00] SPEAKER_05
+And it was just all bile.
+
+[00:32:03] SPEAKER_05
+And it made my whole head spicy and tingly.
+
+[00:32:07] SPEAKER_05
+It was probably the worst experience.
+
+[00:32:09] SPEAKER_05
+And then after that, I just shat myself for about 24 hours.
+
+[00:32:12] SPEAKER_05
+Just shitting liquid again.
+
+[00:32:13] SPEAKER_05
+Awful.
+
+[00:32:14] SPEAKER_05
+Probably the worst combination of things to happen at the same time.
+
+[00:32:17] SPEAKER_05
+Yeah, so...
+
+[00:32:18] SPEAKER_05
+The second time I tried taping my mouth shut, I threw up through it.
+
+[00:32:23] SPEAKER_06
+Let's...
+
+[00:32:23] SPEAKER_06
+Oh, my God.
+
+[00:32:24] SPEAKER_06
+That's so gross.
+
+[00:32:25] SPEAKER_06
+Let's go through this step by step.
+
+[00:32:27] SPEAKER_06
+So, you went to bed normal.
+
+[00:32:29] SPEAKER_06
+You felt fine.
+
+[00:32:30] SPEAKER_06
+Yeah.
+
+[00:32:31] SPEAKER_06
+And you put that thing on your mouth.
+
+[00:32:33] SPEAKER_06
+Yep.
+
+[00:32:34] SPEAKER_06
+And then, in the middle of the night, you woke up nauseous?
+
+[00:32:37] SPEAKER_06
+I woke up throwing up.
+
+[00:32:38] SPEAKER_06
+So, you woke up in the act of throwing up.
+
+[00:32:41] SPEAKER_05
+Oh, no.
+
+[00:32:41] SPEAKER_05
+I woke up with my...
+
+[00:32:43] SPEAKER_05
+It honestly felt like I woke up with someone's fist in my mouth.
+
+[00:32:47] SPEAKER_06
+Oh, my God.
+
+[00:32:49] SPEAKER_06
+Did you throw up all over your bed and all your sheets and stuff?
+
+[00:32:53] SPEAKER_06
+Yep.
+
+[00:32:53] SPEAKER_06
+And a bit of the wall.
+
+[00:32:54] SPEAKER_05
+Oh, my God.
+
+[00:32:55] SPEAKER_05
+Because it just shot out.
+
+[00:32:56] SPEAKER_05
+It, like, blew through that, blew out of my nose, and then blew out, and then, like,
+
+[00:33:00] SPEAKER_05
+kind of blew the tape off.
+
+[00:33:01] SPEAKER_05
+Because it was forceful.
+
+[00:33:02] SPEAKER_05
+It's like, uh...
+
+[00:33:03] SPEAKER_05
+So, like, in The Exorcist, kind of.
+
+[00:33:06] SPEAKER_05
+Yeah.
+
+[00:33:07] SPEAKER_05
+I wouldn't wish that on anyone.
+
+[00:33:09] SPEAKER_05
+And to get the feeling out of my face, to get it to, like, stop being all, like, stomach
+
+[00:33:15] SPEAKER_05
+acid-y.
+
+[00:33:16] SPEAKER_06
+Yeah.
+
+[00:33:17] SPEAKER_05
+It took, like, over a day.
+
+[00:33:18] SPEAKER_06
+Yeah.
+
+[00:33:19] SPEAKER_06
+Once that gets up in your nostrils and shit, it's, like, it's there for a while.
+
+[00:33:23] SPEAKER_06
+Yeah.
+
+[00:33:23] SPEAKER_06
+Like, burns.
+
+[00:33:24] SPEAKER_07
+Are you done with taping your mouth, or is that...
+
+[00:33:26] SPEAKER_07
+Yeah, forever.
+
+[00:33:27] SPEAKER_07
+Are you gonna...
+
+[00:33:27] SPEAKER_07
+Yeah, you can't...
+
+[00:33:29] SPEAKER_07
+You can't.
+
+[00:33:29] SPEAKER_07
+That's not viable anymore.
+
+[00:33:32] SPEAKER_07
+Oh, my God.
+
+[00:33:32] SPEAKER_07
+I'm so sorry that happened to you.
+
+[00:33:34] SPEAKER_07
+That's terrible.
+
+[00:33:35] SPEAKER_07
+Yeah.
+
+[00:33:36] SPEAKER_07
+What are the odds?
+
+[00:33:37] SPEAKER_07
+What are the odds?
+
+[00:33:38] SPEAKER_07
+Do you feel different as a human?
+
+[00:33:39] SPEAKER_07
+Like, has this experience changed you?
+
+[00:33:41] SPEAKER_07
+I would be disturbed by this.
+
+[00:33:43] SPEAKER_07
+Do you think this was your Vietnam?
+
+[00:33:47] SPEAKER_05
+Well, it means that, basically, any time I throw up after this, it's never gonna be
+
+[00:33:50] SPEAKER_05
+that worse.
+
+[00:33:51] SPEAKER_05
+Oh.
+
+[00:33:51] SPEAKER_07
+That's a great point.
+
+[00:33:52] SPEAKER_07
+Well, you'd hope.
+
+[00:33:54] SPEAKER_07
+I'm trying to think of, like...
+
+[00:33:56] SPEAKER_07
+I don't know why.
+
+[00:33:56] SPEAKER_06
+I don't know if I tempt fate like that.
+
+[00:33:58] SPEAKER_07
+Yeah, not to get too gross, but I'm imagining, like, you're snorkeling, and you puked in a
+
+[00:34:03] SPEAKER_07
+snorkel.
+
+[00:34:03] SPEAKER_07
+That'd be pretty bad.
+
+[00:34:04] SPEAKER_07
+Yeah.
+
+[00:34:05] SPEAKER_05
+Outside of that...
+
+[00:34:08] SPEAKER_05
+From the surface of the water, just a load of food come flying out.
+
+[00:34:13] SPEAKER_06
+Like a whale blowhole, but it's vomit.
+
+[00:34:17] SPEAKER_06
+And then a shark would probably eat you, because they wouldn't get this chump.
+
+[00:34:22] SPEAKER_06
+So, how many...
+
+[00:34:23] SPEAKER_06
+Curry got you.
+
+[00:34:24] SPEAKER_06
+Let's talk about the shitting.
+
+[00:34:26] SPEAKER_06
+What was that like?
+
+[00:34:27] SPEAKER_06
+How was that?
+
+[00:34:29] SPEAKER_05
+It was bad.
+
+[00:34:29] SPEAKER_05
+I was holding my ass closed again, because it was just in that, you know, it's in that
+
+[00:34:33] SPEAKER_05
+water phase, where if you're not actively closing your ass, something could leak out.
+
+[00:34:38] SPEAKER_05
+Something that feels like a fart, or even just a bubble, could be liquid.
+
+[00:34:41] SPEAKER_05
+Jesus.
+
+[00:34:41] SPEAKER_05
+I sat through all of Always Open yesterday, just with my hands pressing my bum cheeks
+
+[00:34:46] SPEAKER_05
+closed.
+
+[00:34:47] SPEAKER_06
+How does it compare to when you were dating Meg that time, and you shit on the plane seven
+
+[00:34:53] SPEAKER_06
+times?
+
+[00:34:54] SPEAKER_05
+It was maybe 80% of the way towards that.
+
+[00:34:58] SPEAKER_05
+But that was even more uncontrollable.
+
+[00:35:00] SPEAKER_05
+That was the point where any time I lost consciousness, my underwear would be soaking wet.
+
+[00:35:06] SPEAKER_07
+Oh my god.
+
+[00:35:08] SPEAKER_05
+Which is bum water.
+
+[00:35:10] SPEAKER_07
+I need to drink stuff later, okay?
+
+[00:35:12] SPEAKER_07
+Sorry.
+
+[00:35:12] SPEAKER_07
+Can we calm down?
+
+[00:35:16] SPEAKER_06
+One last question, then I'm off of it.
+
+[00:35:20] SPEAKER_06
+What do you think gave you food poisoning?
+
+[00:35:23] SPEAKER_06
+Do you have any idea?
+
+[00:35:24] SPEAKER_06
+I mean, I could name the establishment.
+
+[00:35:27] SPEAKER_07
+Yeah, please do.
+
+[00:35:28] SPEAKER_07
+So he has an idea.
+
+[00:35:29] SPEAKER_05
+A lovely place, a little underground place called s**t.
+
+[00:35:33] SPEAKER_05
+Oh.
+
+[00:35:34] SPEAKER_05
+I had, get this, I had the poo-poo platter, and it was not good.
+
+[00:35:40] SPEAKER_05
+That's sort of on you.
+
+[00:35:42] SPEAKER_05
+That's on me.
+
+[00:35:42] SPEAKER_05
+That's your fault.
+
+[00:35:43] SPEAKER_05
+Yeah.
+
+[00:35:43] SPEAKER_05
+I will say, the food was good.
+
+[00:35:46] SPEAKER_05
+The experience afterwards was not good.
+
+[00:35:48] SPEAKER_05
+And maybe, even more annoyingly, the person I was with, absolutely fine.
+
+[00:35:53] SPEAKER_05
+And we shared it.
+
+[00:35:54] SPEAKER_05
+So, sod knows what one single piece of bad meat I ate.
+
+[00:35:59] SPEAKER_05
+But that is always the icing on the cake.
+
+[00:36:01] SPEAKER_06
+Is that the place that's like behind a place and underground, and then there's like, it's
+
+[00:36:04] SPEAKER_06
+like all pirate-themed kind of?
+
+[00:36:06] SPEAKER_05
+Yeah.
+
+[00:36:06] SPEAKER_05
+And if you spend like $99 on a shared drink, you get a light show and explosions and stuff.
+
+[00:36:12] SPEAKER_05
+Yes.
+
+[00:36:12] SPEAKER_06
+Yes.
+
+[00:36:13] SPEAKER_06
+Yeah.
+
+[00:36:13] SPEAKER_05
+We didn't do that, but we saw another table get it.
+
+[00:36:15] SPEAKER_06
+I went there with, with Emily and some friends.
+
+[00:36:17] SPEAKER_06
+And let me tell you, that's a place that, for a guy who, not the coolest place to hang
+
+[00:36:23] SPEAKER_06
+out if you don't drink anymore.
+
+[00:36:25] SPEAKER_06
+It's like, it's, it's kind of all like, like centered around celebrating drinking together
+
+[00:36:33] SPEAKER_06
+in like colorful ways.
+
+[00:36:35] SPEAKER_06
+Yeah.
+
+[00:36:36] SPEAKER_05
+And like sharing, like one drink, four straws sort of situation.
+
+[00:36:39] SPEAKER_05
+There was one drink that had, I think it was made of 13 different rums.
+
+[00:36:43] SPEAKER_06
+Yeah.
+
+[00:36:44] SPEAKER_05
+Uh, didn't go for that.
+
+[00:36:45] SPEAKER_05
+Wow.
+
+[00:36:46] SPEAKER_05
+But yeah, it was, it was a nice place.
+
+[00:36:47] SPEAKER_05
+Uh, good atmosphere, lovely staff, delicious food, terrible aftermath.
+
+[00:36:52] SPEAKER_05
+Do you think you'll go back?
+
+[00:36:55] SPEAKER_05
+Oh, not for a bit.
+
+[00:36:56] SPEAKER_05
+I'll give it a year, maybe.
+
+[00:36:59] SPEAKER_06
+Was that your first time there?
+
+[00:37:00] SPEAKER_05
+Yeah.
+
+[00:37:01] SPEAKER_06
+Oh, no.
+
+[00:37:02] SPEAKER_07
+I thought I had a bad sleep, but the sleep spaghetti, I will say a point I forgot to bring
+
+[00:37:09] SPEAKER_07
+up.
+
+[00:37:09] SPEAKER_07
+I did fall asleep at the bottom of the pile and then I had an itchy face and it was alarming
+
+[00:37:14] SPEAKER_07
+trying to get to my face.
+
+[00:37:16] SPEAKER_07
+It was not a good experience.
+
+[00:37:17] SPEAKER_07
+Like I just went for a quick scratch and then I had to go through an obstacle course of noodle
+
+[00:37:21] SPEAKER_07
+was not fun.
+
+[00:37:24] SPEAKER_07
+Another, another negative about the sleep spaghetti experience.
+
+[00:37:27] SPEAKER_07
+I have a question for you, Jeff.
+
+[00:37:29] SPEAKER_07
+Okay.
+
+[00:37:29] SPEAKER_07
+And I've, I've run this by Gavin as we're, we're talking about.
+
+[00:37:32] SPEAKER_07
+Uh, butt stuff.
+
+[00:37:34] SPEAKER_07
+I had a thought.
+
+[00:37:35] SPEAKER_07
+Okay.
+
+[00:37:36] SPEAKER_07
+When do you think, how long did it take from the point in which fire was discovered, like
+
+[00:37:44] SPEAKER_07
+created, the first fire was made to the point that we realized farts were flammable?
+
+[00:37:50] SPEAKER_07
+How long was that?
+
+[00:37:51] SPEAKER_07
+Do you think that was an immediate realization?
+
+[00:37:54] SPEAKER_07
+Do you think that took some time?
+
+[00:37:55] SPEAKER_07
+What is the context of the first flammable fart?
+
+[00:37:58] SPEAKER_07
+So here's a question.
+
+[00:38:01] SPEAKER_06
+Do you think, so do you think it predates humans or I guess, uh, or Cro-Magnon or whatever,
+
+[00:38:12] SPEAKER_06
+uh, wherever we were evolutionary at the time.
+
+[00:38:14] SPEAKER_06
+Do you think it predates when, uh, human entities learned how to create fire?
+
+[00:38:20] SPEAKER_06
+Cause you know, like lightning would strike and a tree would catch a fire and there would
+
+[00:38:23] SPEAKER_06
+be fire.
+
+[00:38:23] SPEAKER_06
+Like, do you think anybody ever like saw a tree on fire from a lightning strike and
+
+[00:38:29] SPEAKER_06
+then ran up and farted on it?
+
+[00:38:31] SPEAKER_06
+Or do you think like we had to learn, do you think humans had to learn how to, how to
+
+[00:38:36] SPEAKER_06
+create and then control fire before they then learned to start doing things like farting
+
+[00:38:40] SPEAKER_06
+on it?
+
+[00:38:41] SPEAKER_07
+Yeah.
+
+[00:38:41] SPEAKER_07
+That's a, I think probably they would have had to have created it first would be my assumption.
+
+[00:38:47] SPEAKER_05
+Yeah.
+
+[00:38:47] SPEAKER_05
+I think so too.
+
+[00:38:47] SPEAKER_05
+I would assume that the first fire fart was accidental on the day the first bonfire was
+
+[00:38:53] SPEAKER_05
+made.
+
+[00:38:54] SPEAKER_07
+You think it's the first, I think it would have taken a while.
+
+[00:38:57] SPEAKER_07
+I don't think it would be immediate.
+
+[00:38:59] SPEAKER_06
+Uh, well now hold on a second.
+
+[00:39:01] SPEAKER_06
+How many times a day do you fart?
+
+[00:39:07] SPEAKER_06
+Yeah.
+
+[00:39:08] SPEAKER_06
+13 to 21 times a day, the average humans fart.
+
+[00:39:11] SPEAKER_06
+So if you figure you've got your first fire and there's probably everybody, like everybody
+
+[00:39:15] SPEAKER_06
+in the cave is excited about it, right?
+
+[00:39:17] SPEAKER_06
+Like it's like the talk of the town.
+
+[00:39:19] SPEAKER_06
+So you probably got like eight, 18 or 20 Neanderthals all crowded around and they don't have social
+
+[00:39:25] SPEAKER_06
+graces at all.
+
+[00:39:26] SPEAKER_06
+And they probably, they're pretty dumb, right?
+
+[00:39:28] SPEAKER_06
+Uh, uh, evolutionary brain, brain size.
+
+[00:39:30] SPEAKER_06
+So they're, they're into stupid sophomoric potty humor.
+
+[00:39:34] SPEAKER_06
+I bet farts happen so frequently that it could have, it could have happened on day one.
+
+[00:39:40] SPEAKER_05
+Do you think that they made a fire inside their cave and everyone died of carbon monoxide?
+
+[00:39:46] SPEAKER_05
+Yes.
+
+[00:39:46] SPEAKER_05
+I also think that happened somewhat.
+
+[00:39:48] SPEAKER_06
+Yes.
+
+[00:39:49] SPEAKER_06
+Or like one person crawled out and was like, and put two and two together and realized to
+
+[00:39:53] SPEAKER_06
+make the fire closer to the, the mouth of the cave.
+
+[00:39:56] SPEAKER_06
+Yeah.
+
+[00:39:58] SPEAKER_07
+I mean, that's how you learn, right?
+
+[00:39:59] SPEAKER_07
+Trial and error.
+
+[00:40:01] SPEAKER_07
+A plausible scenario for when it would have happened is somebody trying to put out the
+
+[00:40:06] SPEAKER_07
+fire in a funny way.
+
+[00:40:07] SPEAKER_07
+Like I could see somebody thinking that like, Oh, I'm gonna, I'm going to go do this and
+
+[00:40:11] SPEAKER_07
+everyone will laugh and then they would get a surprise when they realize all I'm blowing
+
+[00:40:16] SPEAKER_05
+out a birthday candle.
+
+[00:40:17] SPEAKER_07
+Yeah, exactly.
+
+[00:40:18] SPEAKER_07
+But with your ass and then the fire came back and nipped them.
+
+[00:40:22] SPEAKER_07
+But then I wondered if that did happen, there would have to be a question of is Steve's farts
+
+[00:40:28] SPEAKER_07
+flammable and only Steve's or is everybody, do we all got flammable farts?
+
+[00:40:33] SPEAKER_07
+Can we weaponize this in some way?
+
+[00:40:36] SPEAKER_07
+Potentially if we're shooting out fire, like what, what are the different angles?
+
+[00:40:40] SPEAKER_07
+I wonder I that were approached upon discovery.
+
+[00:40:43] SPEAKER_06
+I was thinking of it from a different angle.
+
+[00:40:45] SPEAKER_06
+Like, let's say you're the first person who figures out that you can fart into a fire and,
+
+[00:40:51] SPEAKER_06
+and, and, you know, make a stream, make a little blowtorch.
+
+[00:40:54] SPEAKER_06
+Does that change the balance of power in the cave?
+
+[00:40:57] SPEAKER_06
+Like, are you now elevated as like, like if you were just like an average Joe, are you
+
+[00:41:02] SPEAKER_06
+now like the chief?
+
+[00:41:03] SPEAKER_06
+Like, it's like the lion having the biggest mane?
+
+[00:41:06] SPEAKER_06
+Yeah, exactly.
+
+[00:41:07] SPEAKER_06
+Exactly like that.
+
+[00:41:08] SPEAKER_06
+You've now demonstrated your like your dominance in some way over, over fire, over the elements.
+
+[00:41:14] SPEAKER_06
+Like, do you suddenly get elevated to like chieftain?
+
+[00:41:17] SPEAKER_07
+I think it depends on your reaction to the stream touching you.
+
+[00:41:21] SPEAKER_07
+I think that goes one of two ways.
+
+[00:41:23] SPEAKER_07
+You either are at the top of the pyramid after that or the absolute bottom.
+
+[00:41:28] SPEAKER_07
+You get ranked down if you, if you like scream or whatever.
+
+[00:41:33] SPEAKER_06
+If it really bites you.
+
+[00:41:34] SPEAKER_06
+Do you think anybody, like back in those days, if anybody had like a particularly bad fart and
+
+[00:41:40] SPEAKER_06
+like really gassed a place out, do you think people ever got killed for that?
+
+[00:41:44] SPEAKER_06
+Like for being a witch?
+
+[00:41:45] SPEAKER_06
+Yeah, like, like your farts were so bad, it like it bummed or scared the rest of the,
+
+[00:41:50] SPEAKER_06
+the, the cave crew.
+
+[00:41:52] SPEAKER_06
+I think honestly, you would have been killed for some of yours.
+
+[00:41:55] SPEAKER_07
+You're trying to argue.
+
+[00:41:58] SPEAKER_07
+It's just the acoustics of the cave.
+
+[00:41:59] SPEAKER_07
+Yeah.
+
+[00:42:00] SPEAKER_07
+And where you sleep.
+
+[00:42:03] SPEAKER_05
+Well, did you tell them, Andrew, what you would try, what you were going to do?
+
+[00:42:07] SPEAKER_07
+Well, that was okay.
+
+[00:42:08] SPEAKER_07
+So the follow up is if the idea, my thought was, okay, you can shoot fire out of your
+
+[00:42:13] SPEAKER_07
+ass.
+
+[00:42:14] SPEAKER_07
+Maybe we can weaponize this.
+
+[00:42:16] SPEAKER_07
+I wondered if someone were to fart a bunch of times into like a jar and then tied a sealed
+
+[00:42:24] SPEAKER_07
+it up and then put like a cloth around the top with a sealed lid, lit the thing on fire.
+
+[00:42:31] SPEAKER_07
+Could you make a Molotov cocktail out of gas just by fart?
+
+[00:42:36] SPEAKER_05
+But I would say the whole point of the rag is that it likes you, it gets some of the liquid
+
+[00:42:39] SPEAKER_05
+on it.
+
+[00:42:40] SPEAKER_05
+So it's easy to light.
+
+[00:42:41] SPEAKER_05
+I don't know what, what's the rag going to be doing?
+
+[00:42:44] SPEAKER_07
+What's the source of the fire?
+
+[00:42:46] SPEAKER_07
+So you light the rag, you've got fire, you throw it, the jar breaks, the gas releases
+
+[00:42:51] SPEAKER_07
+and a little fireball comes out.
+
+[00:42:53] SPEAKER_06
+I don't think there's enough gas in a fart to have that amount of pressure.
+
+[00:42:58] SPEAKER_07
+But what about several?
+
+[00:42:59] SPEAKER_07
+What if it was like a day's worth?
+
+[00:43:01] SPEAKER_05
+Well, the trouble is every time you go for a new fart in there, you're releasing, there's
+
+[00:43:04] SPEAKER_05
+no way you're going to get a good seal or like a, you need a valve or something on
+
+[00:43:08] SPEAKER_06
+your anus.
+
+[00:43:09] SPEAKER_06
+It would have to be pretty specialized equipment.
+
+[00:43:12] SPEAKER_06
+I feel like it would have to be attached to your anus and there would have to be, it
+
+[00:43:15] SPEAKER_06
+would have to be fed in, there had to be a nozzle fed into your anus with like a on-off
+
+[00:43:20] SPEAKER_06
+valve that you can, you know what I mean?
+
+[00:43:22] SPEAKER_06
+That you can turn on just so there's no possibility of escape.
+
+[00:43:25] SPEAKER_05
+I was thinking it would have like one of those beaker corks with the straws going through
+
+[00:43:30] SPEAKER_05
+it with like a non-return valve at the end.
+
+[00:43:32] SPEAKER_05
+That's the only way you're keeping stuff in.
+
+[00:43:34] SPEAKER_05
+Yeah.
+
+[00:43:34] SPEAKER_07
+But if, okay, let's just say that that is all a thing that happens, that like we do find
+
+[00:43:39] SPEAKER_07
+a way to do this and you can store them.
+
+[00:43:41] SPEAKER_07
+Like all the mechanisms of getting it are figured out.
+
+[00:43:45] SPEAKER_07
+Do you think it would work?
+
+[00:43:46] SPEAKER_07
+Like if you, you could do that.
+
+[00:43:48] SPEAKER_07
+Does the science even work for that?
+
+[00:43:50] SPEAKER_07
+Is what I wonder.
+
+[00:43:51] SPEAKER_07
+Yes.
+
+[00:43:51] SPEAKER_07
+Like if you could solve the other stuff, I wonder if the science itself works.
+
+[00:43:55] SPEAKER_07
+What a fireball.
+
+[00:43:56] SPEAKER_05
+Or what does it like, because it's like methane from your ass, right?
+
+[00:44:00] SPEAKER_05
+But then do you need oxygen?
+
+[00:44:02] SPEAKER_05
+Like, does it only work in a oxygen rich environment too?
+
+[00:44:05] SPEAKER_05
+Like, do you also need to be pumping other gases in there with it?
+
+[00:44:08] SPEAKER_07
+I don't know.
+
+[00:44:09] SPEAKER_07
+I, I, yeah, I don't know.
+
+[00:44:10] SPEAKER_07
+I don't have the answer to that.
+
+[00:44:11] SPEAKER_07
+I'm just curious.
+
+[00:44:12] SPEAKER_06
+No, I think it's, I think as soon as you throw it with the fire and then the, it explodes,
+
+[00:44:18] SPEAKER_06
+the, the oxygen rushes in and that's your oxygen rich environment.
+
+[00:44:22] SPEAKER_06
+And then I bet you could make a, I mean, I don't think you're going to like, I don't
+
+[00:44:26] SPEAKER_06
+know.
+
+[00:44:26] SPEAKER_06
+I wouldn't try to overthrow a small government with it.
+
+[00:44:30] SPEAKER_06
+I think, uh, I think you could probably have some sort of a, some sort of a reaction
+
+[00:44:34] SPEAKER_06
+that I, how about this?
+
+[00:44:36] SPEAKER_06
+Do you think anybody has ever lit a Molotov cocktail out of their ass just by like, not
+
+[00:44:42] SPEAKER_06
+filled it with gas, but just like had a regular Molotov cocktail and then use their
+
+[00:44:45] SPEAKER_06
+ass as like a flamethrower to light.
+
+[00:44:49] SPEAKER_07
+What a way to start a revolution.
+
+[00:44:52] SPEAKER_07
+If you really want to make an entrance.
+
+[00:44:54] SPEAKER_07
+Yeah.
+
+[00:44:54] SPEAKER_07
+I don't think it's been done before.
+
+[00:44:56] SPEAKER_06
+It's something I at least have not seen it.
+
+[00:44:58] SPEAKER_06
+You could be dude.
+
+[00:45:01] SPEAKER_06
+You'd be, you can be the next Che Guevara.
+
+[00:45:02] SPEAKER_06
+People be wearing your t-shirts for the next 150 years.
+
+[00:45:05] SPEAKER_06
+If you, if you figure out how to light pot, if you light, uh, start a lighter revolution
+
+[00:45:09] SPEAKER_06
+with only your asshole.
+
+[00:45:12] SPEAKER_07
+Lighter revolution is such a great name for the true story behind this person.
+
+[00:45:17] SPEAKER_07
+So are you going to, are you going to attempt this?
+
+[00:45:19] SPEAKER_07
+I don't know if I have the equipment to do it, but I'm very curious about it.
+
+[00:45:23] SPEAKER_07
+If so, I'm sure somebody out there is smart, smarter than us and no science in a way that
+
+[00:45:28] SPEAKER_07
+could break.
+
+[00:45:29] SPEAKER_05
+Eric has doubts.
+
+[00:45:29] SPEAKER_05
+He says he can't even juice this fruit.
+
+[00:45:31] SPEAKER_07
+No, the fruit's juiced.
+
+[00:45:33] SPEAKER_07
+It is all good to go.
+
+[00:45:35] SPEAKER_07
+Okay.
+
+[00:45:35] SPEAKER_07
+I will say I did realize that I forgot to buy bananas.
+
+[00:45:39] SPEAKER_07
+So I'm going to, next time we'll do the banana one, but I got the two of the three.
+
+[00:45:44] SPEAKER_07
+I'm just staring them down.
+
+[00:45:45] SPEAKER_07
+I'm kind of scared to drink it.
+
+[00:45:47] SPEAKER_07
+I think we'll wait until near the end of the show because I don't know what the reaction
+
+[00:45:49] SPEAKER_07
+will be.
+
+[00:45:50] SPEAKER_07
+What'd you guys, uh, what'd you guys do while I was out of town?
+
+[00:45:52] SPEAKER_07
+I had a realization, so I've been writing stuff down because you know, like I didn't know
+
+[00:45:57] SPEAKER_07
+the caps lock key and all that stuff.
+
+[00:45:59] SPEAKER_07
+So whenever I have a question, I've started writing it down or like a realization just
+
+[00:46:04] SPEAKER_07
+to have, I realized, and this might be something that's very obvious to everyone else, that
+
+[00:46:09] SPEAKER_07
+we go through five seasons every year.
+
+[00:46:12] SPEAKER_07
+I'd never thought about that.
+
+[00:46:14] SPEAKER_04
+Hmm.
+
+[00:46:15] SPEAKER_07
+It's a five season year.
+
+[00:46:16] SPEAKER_07
+We go through five seasons a year.
+
+[00:46:19] SPEAKER_07
+Every year has five seasons that you go through.
+
+[00:46:23] SPEAKER_07
+Okay.
+
+[00:46:23] SPEAKER_05
+Because you start through winter twice.
+
+[00:46:25] SPEAKER_07
+You, yeah, you have two different winters every year.
+
+[00:46:29] SPEAKER_07
+I never thought about that.
+
+[00:46:31] SPEAKER_07
+So this is the problem.
+
+[00:46:32] SPEAKER_07
+And I'd love to hear your guys thoughts on this.
+
+[00:46:34] SPEAKER_07
+We are recording the summer of 98 content tomorrow.
+
+[00:46:39] SPEAKER_07
+And we talked about if we enjoyed that, then doing something similar as like the winter
+
+[00:46:43] SPEAKER_07
+of 98.
+
+[00:46:44] SPEAKER_07
+And so I thought, okay, if we do, what is the definitive movie of the winter of 98?
+
+[00:46:49] SPEAKER_07
+I realized you have two choices.
+
+[00:46:51] SPEAKER_07
+You either have to use December from 98 and then January and February, which are the furthest
+
+[00:46:59] SPEAKER_07
+months apart and feel ridiculous, or December of 98 and then the January and February 99,
+
+[00:47:07] SPEAKER_07
+which equally feels as ridiculous, if not more.
+
+[00:47:11] SPEAKER_06
+I think you got to go with the former over the latter.
+
+[00:47:13] SPEAKER_06
+I know it doesn't make, I know it doesn't really make sense, but I think if it's got
+
+[00:47:18] SPEAKER_06
+to be within the bounds of the year.
+
+[00:47:19] SPEAKER_06
+So you got to go January, February, December.
+
+[00:47:22] SPEAKER_07
+I agree.
+
+[00:47:23] SPEAKER_07
+It just seems ridiculous.
+
+[00:47:25] SPEAKER_07
+It's an elegant.
+
+[00:47:26] SPEAKER_07
+Yeah.
+
+[00:47:26] SPEAKER_06
+It's not, it's not ideal.
+
+[00:47:28] SPEAKER_07
+Yeah.
+
+[00:47:28] SPEAKER_07
+It's not, it time not being linear in that way is very off putting, but.
+
+[00:47:33] SPEAKER_05
+Is that why you never really hear about like the winter of 45?
+
+[00:47:38] SPEAKER_05
+Like, is it going to be, it could be either end.
+
+[00:47:41] SPEAKER_06
+I'm going to Google winter of 45.
+
+[00:47:43] SPEAKER_05
+That's probably less of war.
+
+[00:47:45] SPEAKER_06
+I picked a bad year.
+
+[00:47:46] SPEAKER_06
+Let's probably see what.
+
+[00:47:46] SPEAKER_06
+Yeah, not a good winter.
+
+[00:47:47] SPEAKER_06
+The Dutch famine of 1944, 1945, popular in the Netherlands as the hunger winter was one
+
+[00:47:54] SPEAKER_06
+of the major European World War II famines.
+
+[00:47:57] SPEAKER_06
+Ugh.
+
+[00:47:57] SPEAKER_04
+Yeah, it's not fun, but that was my realization.
+
+[00:47:59] SPEAKER_04
+I have, I have this problem with like the NBA.
+
+[00:48:03] SPEAKER_04
+I feel like because it spans to, like it goes over, like it just doesn't make sense.
+
+[00:48:11] SPEAKER_04
+Baseball's all in one year.
+
+[00:48:12] SPEAKER_06
+Baseball's the only sport that gets it right in that regard.
+
+[00:48:15] SPEAKER_06
+Because hockey and football do the same shit.
+
+[00:48:17] SPEAKER_04
+Yeah.
+
+[00:48:18] SPEAKER_06
+Even college football now.
+
+[00:48:19] SPEAKER_06
+Yeah.
+
+[00:48:19] SPEAKER_04
+It's like, oh yeah, the, like, you know, the 2012 season.
+
+[00:48:23] SPEAKER_04
+It's like the 2012 season or the 2013 season or the 2011 season.
+
+[00:48:27] SPEAKER_04
+It's that.
+
+[00:48:27] SPEAKER_04
+I don't like that.
+
+[00:48:28] SPEAKER_05
+But they use it like the year it starts is that season.
+
+[00:48:31] SPEAKER_06
+Yeah.
+
+[00:48:31] SPEAKER_06
+They call it like an NBA.
+
+[00:48:33] SPEAKER_06
+They say like the 2020, like right now we're in the 2023, 2024 season.
+
+[00:48:39] SPEAKER_04
+Right.
+
+[00:48:39] SPEAKER_04
+Isn't that a cool way to put it?
+
+[00:48:41] SPEAKER_06
+Like sports games always have the year ahead of the year you're in.
+
+[00:48:44] SPEAKER_05
+It'll just say that.
+
+[00:48:45] SPEAKER_05
+Yeah.
+
+[00:48:45] SPEAKER_05
+Yeah.
+
+[00:48:45] SPEAKER_07
+Yeah, exactly.
+
+[00:48:47] SPEAKER_07
+That's exactly why.
+
+[00:48:48] SPEAKER_07
+Like we'll get mad in 24 this year.
+
+[00:48:51] SPEAKER_07
+See, it doesn't make any sense.
+
+[00:48:52] SPEAKER_07
+I don't like it.
+
+[00:48:52] SPEAKER_07
+No, it doesn't.
+
+[00:48:53] SPEAKER_07
+It's very confusing.
+
+[00:48:54] SPEAKER_04
+No.
+
+[00:48:55] SPEAKER_06
+Oh, can I tell you got something cool I saw recently?
+
+[00:48:57] SPEAKER_06
+Please.
+
+[00:48:58] SPEAKER_06
+So when I was in Michigan for the last, for that little vacation, I was in the like Detroit,
+
+[00:49:04] SPEAKER_06
+Dearborn, Grosse Point area.
+
+[00:49:07] SPEAKER_06
+And they have apparently Ford is a big deal in Michigan.
+
+[00:49:12] SPEAKER_06
+I guess they revolutionized the world or something.
+
+[00:49:17] SPEAKER_06
+And so everything is Ford.
+
+[00:49:18] SPEAKER_06
+There's like a Ford museum.
+
+[00:49:19] SPEAKER_06
+There's a Ford house.
+
+[00:49:20] SPEAKER_06
+There's this place called Greenfield Village, which Henry Ford had built like in the 1920s.
+
+[00:49:26] SPEAKER_06
+It's the prototype.
+
+[00:49:28] SPEAKER_06
+It was the inspiration for Disneyland.
+
+[00:49:30] SPEAKER_06
+It's like this period, I assume like very similar to what you went to when you went to Colonial Williamsburg on a vacation for some reason, Gavin.
+
+[00:49:37] SPEAKER_06
+Yeah.
+
+[00:49:37] SPEAKER_06
+Like everybody dresses in like period appropriate garb and stuff, but they've built like an entire town.
+
+[00:49:42] SPEAKER_06
+And you can like, it takes more than a day to go through it.
+
+[00:49:44] SPEAKER_06
+And they have like a train that goes through it.
+
+[00:49:46] SPEAKER_06
+And you can like get taxis that are Model T's that drive you around.
+
+[00:49:49] SPEAKER_06
+And they, they did.
+
+[00:49:52] SPEAKER_06
+The craziest thing, though, is that in this Greenfield Village, because Henry Ford had more money than God, he just bought everything cool.
+
+[00:50:00] SPEAKER_06
+He bought the Wright Brothers bicycle shop, like the actual building where they learned, where they invented the plane.
+
+[00:50:07] SPEAKER_06
+And he just moved it and then set it down in Greenfield Village.
+
+[00:50:11] SPEAKER_06
+And then he bought their house and he did the same thing.
+
+[00:50:13] SPEAKER_06
+He bought Thomas Edison's laboratory from New Jersey and had it brought over and rebuilt right there.
+
+[00:50:19] SPEAKER_06
+And you can go in and tour it and go through all their stuff.
+
+[00:50:22] SPEAKER_06
+Wow.
+
+[00:50:22] SPEAKER_06
+So they have just all this crazy Americana effemina.
+
+[00:50:26] SPEAKER_06
+And in the museum, like the main museum, they have some, they go fucking hard.
+
+[00:50:31] SPEAKER_06
+I saw the chair Lincoln was assassinated in.
+
+[00:50:35] SPEAKER_06
+Oh, dog.
+
+[00:50:37] SPEAKER_06
+It's still, yeah, it still has like, like dark spots on it.
+
+[00:50:41] SPEAKER_06
+It's just fucking sitting there, dude, in a museum in Michigan.
+
+[00:50:45] SPEAKER_06
+I never would have thought that that'd be something that would be in a museum, but I guess it makes sense.
+
+[00:50:48] SPEAKER_06
+But you don't think like Detroit and then like all this famous gruesome stuff.
+
+[00:50:52] SPEAKER_06
+I saw the car Kennedy was assassinated in.
+
+[00:50:56] SPEAKER_06
+I was right there.
+
+[00:50:57] SPEAKER_06
+It's the most moving place in the world.
+
+[00:50:59] SPEAKER_06
+They have all this shit where people died and it's right there.
+
+[00:51:02] SPEAKER_06
+Crazy thing about that Kennedy car, you know, the one where he got popped, you would think that they would retire that car.
+
+[00:51:10] SPEAKER_06
+They didn't.
+
+[00:51:11] SPEAKER_06
+They cleaned it up and kept using it.
+
+[00:51:13] SPEAKER_06
+They used it for two more presidents.
+
+[00:51:16] SPEAKER_06
+No, it's evidence.
+
+[00:51:17] SPEAKER_06
+Yeah.
+
+[00:51:18] SPEAKER_06
+They built a special roof on it and then they continued using it until like 1977 or something.
+
+[00:51:26] SPEAKER_05
+So who was the guy when Lincoln got done in the theater or whatever?
+
+[00:51:30] SPEAKER_05
+Yeah.
+
+[00:51:31] SPEAKER_05
+Who was the, like how quickly between the bullet entering his head was someone like, oh, I could sell this chair for a lot.
+
+[00:51:37] SPEAKER_05
+Like what was the time period between those two events?
+
+[00:51:41] SPEAKER_05
+Somebody's trying to unscrew the chair.
+
+[00:51:42] SPEAKER_06
+Yeah.
+
+[00:51:43] SPEAKER_06
+It's like, oh, can I buy this chair?
+
+[00:51:45] SPEAKER_06
+Dude, I have no idea.
+
+[00:51:46] SPEAKER_06
+But something else that's even fucking weirder about that chair is that dude died in the theater, right?
+
+[00:51:51] SPEAKER_06
+Yeah.
+
+[00:51:51] SPEAKER_06
+Like watching a play.
+
+[00:51:53] SPEAKER_06
+And in the theater, what do we do?
+
+[00:51:55] SPEAKER_06
+We fucking quiet and we mind our P's and Q's and we don't make noise.
+
+[00:51:58] SPEAKER_06
+It's a rocking chair.
+
+[00:51:59] SPEAKER_06
+Why would you have a rocking chair in a theater?
+
+[00:52:02] SPEAKER_06
+Dude.
+
+[00:52:02] SPEAKER_07
+I mean, if you're the president, I feel like I would want a rocking chair.
+
+[00:52:06] SPEAKER_07
+If I could demand a rocking chair anywhere, I'm always demanding a rocking chair.
+
+[00:52:10] SPEAKER_05
+Had WD-40 been invented by that point?
+
+[00:52:13] SPEAKER_05
+No.
+
+[00:52:13] SPEAKER_05
+I don't think.
+
+[00:52:13] SPEAKER_06
+Well, I don't know.
+
+[00:52:14] SPEAKER_06
+I don't think so.
+
+[00:52:15] SPEAKER_05
+But who knows?
+
+[00:52:16] SPEAKER_06
+Was it just one rocking chair and the rest were fixed?
+
+[00:52:19] SPEAKER_06
+Or were they all rockers?
+
+[00:52:21] SPEAKER_06
+I don't know.
+
+[00:52:22] SPEAKER_06
+Maybe he only rolled in rocking chairs.
+
+[00:52:24] SPEAKER_06
+Maybe that was like, it was like in his rider.
+
+[00:52:26] SPEAKER_06
+They just knew ahead of time.
+
+[00:52:27] SPEAKER_06
+There's green M&Ms and rocking chairs for President Lincoln.
+
+[00:52:30] SPEAKER_07
+What a weird historical item to look at.
+
+[00:52:33] SPEAKER_06
+Yeah.
+
+[00:52:33] SPEAKER_06
+I mean, they had other non-depressing stuff, too.
+
+[00:52:36] SPEAKER_07
+Did they have the car that Tupac was shot in as well?
+
+[00:52:38] SPEAKER_07
+Like what other assassination memorabilia was there?
+
+[00:52:41] SPEAKER_06
+I didn't see any other assassination memorabilia that I can remember.
+
+[00:52:44] SPEAKER_06
+That was the stuff that just really stood out.
+
+[00:52:46] SPEAKER_06
+They had other presidential cars where presidents didn't die in them.
+
+[00:52:49] SPEAKER_06
+They had a lot of airplanes and old cars and shit.
+
+[00:52:51] SPEAKER_06
+They built a Holiday Inn motel in the middle of it as an exhibit.
+
+[00:52:57] SPEAKER_06
+So you can like go in like a 1950s first run Holiday Inn motel and see like what it looked
+
+[00:53:02] SPEAKER_06
+like is kind of cool.
+
+[00:53:03] SPEAKER_06
+They had a exhibit.
+
+[00:53:05] SPEAKER_06
+It's a fucking weird collection of stuff.
+
+[00:53:07] SPEAKER_06
+They had an exhibit that was an entire like two rooms that's just every single hallmark
+
+[00:53:14] SPEAKER_06
+Christmas ornament ever made.
+
+[00:53:17] SPEAKER_07
+Oh, wow.
+
+[00:53:18] SPEAKER_06
+It's like, I was telling Eric, there's like, it's like Snoopy Town, dude.
+
+[00:53:20] SPEAKER_06
+There's like 10,000 Snoopy Towns.
+
+[00:53:22] SPEAKER_06
+Yeah, there'd be a lot of Snoopy.
+
+[00:53:23] SPEAKER_06
+He would have been in fucking heaven.
+
+[00:53:24] SPEAKER_06
+He would have been jacking off left and right.
+
+[00:53:25] SPEAKER_04
+Anyway, right next to Lincoln's death.
+
+[00:53:30] SPEAKER_04
+I don't ask.
+
+[00:53:31] SPEAKER_04
+I don't know.
+
+[00:53:31] SPEAKER_04
+Don't come on the chair.
+
+[00:53:32] SPEAKER_04
+You're in Snoopy Town.
+
+[00:53:34] SPEAKER_04
+What the fuck?
+
+[00:53:35] SPEAKER_04
+Get away from the car as well.
+
+[00:53:38] SPEAKER_04
+There's no safe place to come in here.
+
+[00:53:40] SPEAKER_04
+Get off that Wright Brothers bicycle.
+
+[00:53:42] SPEAKER_04
+Get out of Snoopy Town.
+
+[00:53:43] SPEAKER_07
+Why is there so many historical objects in this museum?
+
+[00:53:46] SPEAKER_05
+Not on the Hindenburg.
+
+[00:53:50] SPEAKER_06
+Anyway, that's a cool place.
+
+[00:53:52] SPEAKER_06
+But I was just blown away that you could just go to a museum and just see all the things
+
+[00:53:56] SPEAKER_06
+that people sat in when they got assassinated.
+
+[00:53:58] SPEAKER_06
+Would you be pissed if someone monetized your assassination?
+
+[00:54:01] SPEAKER_06
+No.
+
+[00:54:02] SPEAKER_05
+No.
+
+[00:54:03] SPEAKER_05
+No.
+
+[00:54:03] SPEAKER_07
+I think I'd be indifferent at that stage.
+
+[00:54:06] SPEAKER_06
+I mean.
+
+[00:54:07] SPEAKER_06
+I feel like the money should go to the family at least.
+
+[00:54:09] SPEAKER_06
+Well, maybe it does.
+
+[00:54:10] SPEAKER_06
+Maybe they'll work out.
+
+[00:54:12] SPEAKER_06
+They work out like a cut or something.
+
+[00:54:14] SPEAKER_06
+Yeah.
+
+[00:54:15] SPEAKER_06
+I don't know.
+
+[00:54:15] SPEAKER_07
+You know, if I, if I would have seen Lincoln's death chair without context, I would assume
+
+[00:54:21] SPEAKER_07
+that was just a retired Santa chair.
+
+[00:54:23] SPEAKER_07
+It has real Santa chair vibes.
+
+[00:54:25] SPEAKER_07
+Yeah, it really does.
+
+[00:54:26] SPEAKER_07
+If you look at it.
+
+[00:54:27] SPEAKER_07
+It really does.
+
+[00:54:28] SPEAKER_07
+It looks like North Pole style.
+
+[00:54:30] SPEAKER_07
+What an interesting name.
+
+[00:54:30] SPEAKER_05
+Was any of the ceiling from above Hitler there?
+
+[00:54:34] SPEAKER_06
+I didn't look.
+
+[00:54:36] SPEAKER_06
+It was mostly American shit, you know?
+
+[00:54:38] SPEAKER_06
+So I don't know.
+
+[00:54:39] SPEAKER_06
+You might have to, you might have to go to the BMW or the Mercedes museum in Germany.
+
+[00:54:44] SPEAKER_07
+Can you imagine pulling that as like a trading card is like a set, like one of 99 Lincoln's
+
+[00:54:51] SPEAKER_07
+death chair exhaust from the JFK car.
+
+[00:54:56] SPEAKER_07
+I don't.
+
+[00:54:57] SPEAKER_07
+You're saying, Gavin, do you want your, your assassination to be monetized?
+
+[00:55:01] SPEAKER_07
+I would be more upset about the fact that JFK was like the beta tester for what they need
+
+[00:55:06] SPEAKER_07
+to do to prevent it.
+
+[00:55:07] SPEAKER_07
+They threw a hood on or whatever Jeff said, or a roof, like they changed it.
+
+[00:55:11] SPEAKER_07
+Like they took notes from what happened and then made it just.
+
+[00:55:14] SPEAKER_05
+That's pretty sure they'd already figured that out back then.
+
+[00:55:16] SPEAKER_05
+He was just in a convertible for some reason.
+
+[00:55:18] SPEAKER_06
+Well, nobody, they hadn't, there weren't a lot of assassinations back then.
+
+[00:55:21] SPEAKER_06
+So they hadn't, they hadn't had been in.
+
+[00:55:22] SPEAKER_06
+Yeah.
+
+[00:55:22] SPEAKER_07
+I don't think that that was a problem they felt they had to solve.
+
+[00:55:25] SPEAKER_07
+And then they're like, well, we clearly can't have that happen again.
+
+[00:55:28] SPEAKER_06
+Well, when was friends Ferdinand?
+
+[00:55:30] SPEAKER_06
+That was way before.
+
+[00:55:31] SPEAKER_06
+Yeah, that was World War One.
+
+[00:55:32] SPEAKER_06
+Went through a 48.
+
+[00:55:33] SPEAKER_06
+There's the car.
+
+[00:55:34] SPEAKER_06
+You can see they put that special like roof over it.
+
+[00:55:36] SPEAKER_07
+Yeah, no, I would have, if I was a ghost and I was JFK, I'd be like, couldn't have done
+
+[00:55:41] SPEAKER_07
+that before.
+
+[00:55:42] SPEAKER_07
+Had to do that after.
+
+[00:55:44] SPEAKER_07
+Didn't consider that before.
+
+[00:55:45] SPEAKER_06
+I think he, I think it existed, but they, I honestly think it existed, but they took
+
+[00:55:51] SPEAKER_06
+it off because it was a nice day.
+
+[00:55:53] SPEAKER_06
+I want to say, I want to say they said that, that there was like a little thing that said
+
+[00:55:56] SPEAKER_06
+that like, like they had the roof and they could have been on, but it was just like a
+
+[00:56:00] SPEAKER_06
+really nice day.
+
+[00:56:01] SPEAKER_06
+And they were like, well, let's take the top off.
+
+[00:56:03] SPEAKER_06
+And then, you know, they took his top off.
+
+[00:56:05] SPEAKER_06
+Yeah.
+
+[00:56:05] SPEAKER_07
+Yeah.
+
+[00:56:06] SPEAKER_04
+Then he ended up in a museum.
+
+[00:56:07] SPEAKER_06
+Ended up in a museum.
+
+[00:56:09] SPEAKER_04
+Um, we're getting close to the end of the show here and I want to make sure that we have
+
+[00:56:13] SPEAKER_04
+time for Andrew to drink.
+
+[00:56:15] SPEAKER_04
+Okay.
+
+[00:56:16] SPEAKER_04
+Explain his, what he's done and how he's done it and what he's doing and what he drinks
+
+[00:56:23] SPEAKER_04
+because I need to know what these flavor combinations are.
+
+[00:56:26] SPEAKER_07
+Okay.
+
+[00:56:26] SPEAKER_07
+So I'm going to post a photo of what it currently looks like, this monstrosity.
+
+[00:56:30] SPEAKER_07
+Uh, real mess of a juice situation we got going on.
+
+[00:56:35] SPEAKER_07
+Um, what flavors are, it's a watermelon and grape and then lemon and grape.
+
+[00:56:42] SPEAKER_07
+I don't have banana.
+
+[00:56:43] SPEAKER_07
+I will do banana and the other one, uh, next time.
+
+[00:56:45] SPEAKER_07
+They look pretty good.
+
+[00:56:46] SPEAKER_07
+I feel like watermelon grape is going to be delicious.
+
+[00:56:51] SPEAKER_07
+I think grape lemon is going to be a real problem.
+
+[00:56:54] SPEAKER_05
+All the smushed grapes just tucked behind them.
+
+[00:56:58] SPEAKER_07
+Well, yeah, I, I realized that with the watermelon, if I didn't clean the chamber, the juice would
+
+[00:57:04] SPEAKER_07
+just shoot out the handle.
+
+[00:57:05] SPEAKER_07
+Um, so we had to take them out.
+
+[00:57:07] SPEAKER_07
+I will be eating this fruit later because it is delicious.
+
+[00:57:10] SPEAKER_07
+I'm about to, I'm going to go for the, the grape watermelon right now.
+
+[00:57:13] SPEAKER_06
+Grape watermelon.
+
+[00:57:14] SPEAKER_06
+I've never heard of that combination before in my life.
+
+[00:57:17] SPEAKER_06
+And that's the one on the left.
+
+[00:57:18] SPEAKER_06
+No, the one on the right one.
+
+[00:57:20] SPEAKER_07
+Yeah.
+
+[00:57:20] SPEAKER_07
+The red one.
+
+[00:57:21] SPEAKER_07
+Trying it.
+
+[00:57:22] SPEAKER_07
+That was, that was not good.
+
+[00:57:24] SPEAKER_07
+That was supposed to be the good one.
+
+[00:57:26] SPEAKER_07
+Wait, what's the ratio?
+
+[00:57:28] SPEAKER_07
+What's the ratio?
+
+[00:57:29] SPEAKER_07
+How much grape to watermelon?
+
+[00:57:30] SPEAKER_07
+It was equal parts.
+
+[00:57:32] SPEAKER_07
+Grape to watermelon.
+
+[00:57:33] SPEAKER_07
+Green grape to watermelon.
+
+[00:57:34] SPEAKER_07
+I went equal parts on all things.
+
+[00:57:35] SPEAKER_07
+What do you think's ruining it?
+
+[00:57:36] SPEAKER_07
+That is way more sour than I thought it would be.
+
+[00:57:40] SPEAKER_07
+I don't know why it's so sour.
+
+[00:57:42] SPEAKER_07
+Sour grapes?
+
+[00:57:42] SPEAKER_07
+Sour grapes.
+
+[00:57:44] SPEAKER_07
+It is an expression.
+
+[00:57:45] SPEAKER_06
+I think the grape probably overpowers the watermelon.
+
+[00:57:48] SPEAKER_06
+You probably want to go to like a 30, 70 mix.
+
+[00:57:51] SPEAKER_07
+Yeah, I think there needs to be some modifying.
+
+[00:57:53] SPEAKER_07
+I think like 20 grape, 80 watermelon is probably.
+
+[00:57:55] SPEAKER_05
+Well, I think you need to just have straight up watermelon and straight up grape to see if
+
+[00:57:59] SPEAKER_05
+you hate one of them.
+
+[00:58:00] SPEAKER_05
+Oh.
+
+[00:58:01] SPEAKER_07
+Okay, well, I'm going to do this again.
+
+[00:58:03] SPEAKER_07
+So I'll have all the drinks ready next time.
+
+[00:58:05] SPEAKER_07
+Yeah.
+
+[00:58:05] SPEAKER_07
+I won't bring the lab to the show.
+
+[00:58:08] SPEAKER_07
+Okay, so now I'm going to try.
+
+[00:58:10] SPEAKER_07
+I'm going to try the lemon and grape.
+
+[00:58:12] SPEAKER_04
+The color on the lemon one is so lemony, man.
+
+[00:58:15] SPEAKER_04
+I don't know.
+
+[00:58:15] SPEAKER_05
+You can tell that it's started to separate.
+
+[00:58:18] SPEAKER_06
+There's clearly like a bottom layer that's going to be all lemon.
+
+[00:58:21] SPEAKER_06
+Also, I wonder if there's a difference between green grapes and red grapes.
+
+[00:58:25] SPEAKER_06
+I assume there would be.
+
+[00:58:26] SPEAKER_07
+Oh, definitely.
+
+[00:58:27] SPEAKER_07
+For flavor, yeah.
+
+[00:58:28] SPEAKER_07
+I just, I felt green was better than red as far as what this test would be.
+
+[00:58:33] SPEAKER_07
+It's not, but yeah, that's fine.
+
+[00:58:35] SPEAKER_07
+Why is it not?
+
+[00:58:36] SPEAKER_04
+Why is red equally good?
+
+[00:58:37] SPEAKER_04
+For juicing, it just, I don't think a green grape is going to give you what you want,
+
+[00:58:41] SPEAKER_04
+which is sweet.
+
+[00:58:41] SPEAKER_04
+It's going to give you a little bit more of a kind of tart.
+
+[00:58:45] SPEAKER_04
+You know what?
+
+[00:58:46] SPEAKER_07
+I would argue with you, but that was very sour what I just consumed.
+
+[00:58:48] SPEAKER_07
+So you may be, you may be dead on right there.
+
+[00:58:51] SPEAKER_07
+So maybe the grape adjustment as well.
+
+[00:58:53] SPEAKER_06
+Are you guys familiar with cotton candy grapes?
+
+[00:58:55] SPEAKER_07
+Yeah.
+
+[00:58:56] SPEAKER_06
+No.
+
+[00:58:57] SPEAKER_06
+Yeah.
+
+[00:58:57] SPEAKER_06
+Nick is.
+
+[00:58:58] SPEAKER_06
+Those are the best tasting grapes on earth.
+
+[00:58:59] SPEAKER_06
+So good.
+
+[00:59:01] SPEAKER_06
+Are they like injected or are they just bred to taste like that?
+
+[00:59:03] SPEAKER_06
+They're just bred to taste like that.
+
+[00:59:04] SPEAKER_06
+Yeah.
+
+[00:59:05] SPEAKER_06
+I don't think they taste like cotton candy at all.
+
+[00:59:07] SPEAKER_06
+They don't.
+
+[00:59:07] SPEAKER_06
+They just taste good as fuck.
+
+[00:59:08] SPEAKER_04
+Yeah.
+
+[00:59:09] SPEAKER_04
+They just taste like good.
+
+[00:59:10] SPEAKER_04
+They taste like very, very sweet grapes.
+
+[00:59:12] SPEAKER_04
+I don't know.
+
+[00:59:12] SPEAKER_04
+The cotton candy thing is hilarious.
+
+[00:59:14] SPEAKER_06
+Yeah.
+
+[00:59:15] SPEAKER_04
+So I don't know, Andrew, what do you think of these new flavors you've invented?
+
+[00:59:18] SPEAKER_07
+So far, first one, not great.
+
+[00:59:20] SPEAKER_07
+I'm about to take down the second one.
+
+[00:59:21] SPEAKER_07
+Here we go.
+
+[00:59:26] SPEAKER_06
+That sounded like an Andrew Dice Clay impression.
+
+[00:59:31] SPEAKER_07
+Oh, it's so sour.
+
+[00:59:36] SPEAKER_04
+You just drink straight lemon juice.
+
+[00:59:40] SPEAKER_07
+It's so sour, but it's good.
+
+[00:59:44] SPEAKER_07
+That was actually better than the first one.
+
+[00:59:48] SPEAKER_07
+It just is really sour.
+
+[00:59:50] SPEAKER_05
+I bet that one would be sold by a smoothie company as like an immunity boost of some sort.
+
+[00:59:56] SPEAKER_07
+Oh, my face is tingling.
+
+[00:59:58] SPEAKER_06
+Oh, what would you do differently with that one?
+
+[01:00:01] SPEAKER_07
+Um, I too much.
+
+[01:00:05] SPEAKER_07
+I didn't really I didn't really taste a lot of grape, I would say.
+
+[01:00:08] SPEAKER_07
+So probably once a more grape, a little less lemon.
+
+[01:00:13] SPEAKER_05
+But that was actually half and half again.
+
+[01:00:14] SPEAKER_07
+That was half and half again.
+
+[01:00:16] SPEAKER_07
+So, um, yeah, no, I felt it.
+
+[01:00:18] SPEAKER_07
+It actually but that the sour was very overpowering, but the actual taste itself was not bad.
+
+[01:00:25] SPEAKER_07
+Hmm.
+
+[01:00:26] SPEAKER_07
+I hmm.
+
+[01:00:26] SPEAKER_07
+I think the problem is, is it's not bad because it's essentially just tastes like lemonade.
+
+[01:00:32] SPEAKER_07
+So there's not like an angle to invent an actual drink out of that.
+
+[01:00:36] SPEAKER_07
+It's just everything I'm thinking of that would make it taste a little bit better is just
+
+[01:00:39] SPEAKER_07
+turning it into lemonade.
+
+[01:00:40] SPEAKER_05
+Well, maybe we could learn what you didn't like about the first one if you just had lemon and
+
+[01:00:44] SPEAKER_05
+watermelon.
+
+[01:00:45] SPEAKER_05
+Oh, yeah, but watermelon lemonade exists.
+
+[01:00:48] SPEAKER_07
+It does.
+
+[01:00:49] SPEAKER_07
+That's true.
+
+[01:00:50] SPEAKER_07
+Hmm.
+
+[01:00:51] SPEAKER_07
+Yeah, that's we're trying.
+
+[01:00:52] SPEAKER_06
+We're trying to break new ground.
+
+[01:00:54] SPEAKER_06
+Yeah.
+
+[01:00:54] SPEAKER_05
+Good point.
+
+[01:00:55] SPEAKER_07
+Okay, well, I think this was a successful lab.
+
+[01:00:58] SPEAKER_07
+We've learned some things.
+
+[01:01:00] SPEAKER_07
+I've taken some notes.
+
+[01:01:01] SPEAKER_07
+I've adjusted some levels.
+
+[01:01:03] SPEAKER_07
+Yeah.
+
+[01:01:03] SPEAKER_05
+Thanks for bringing us into the lab.
+
+[01:01:05] SPEAKER_05
+Absolutely.
+
+[01:01:05] SPEAKER_05
+Of course.
+
+[01:01:06] SPEAKER_07
+It was my pleasure to do so.
+
+[01:01:08] SPEAKER_07
+I will be back next episode with a few more drinks.
+
+[01:01:13] SPEAKER_06
+Yeah, that sounds great.
+
+[01:01:13] SPEAKER_06
+I guess we we should probably wrap this up then.
+
+[01:01:17] SPEAKER_06
+I will.
+
+[01:01:17] SPEAKER_06
+Andrew, I will endeavor to be back as well.
+
+[01:01:20] SPEAKER_06
+I was also going to do some experiments.
+
+[01:01:22] SPEAKER_07
+I can't wait to see your lab work.
+
+[01:01:23] SPEAKER_06
+Yeah, I mean, we'll see how it differs.
+
+[01:01:25] SPEAKER_06
+Well, we can compare and contrast and hopefully we'll have that next week.
+
+[01:01:30] SPEAKER_05
+I'll have ice cream gloves V2 ready pretty soon, too.
+
+[01:01:34] SPEAKER_06
+God, that's very exciting.
+
+[01:01:35] SPEAKER_06
+That's very exciting.
+
+[01:01:37] SPEAKER_06
+All right.
+
+[01:01:38] SPEAKER_06
+I guess I guess we should wrap it up then.
+
+[01:01:41] SPEAKER_06
+Well, there you go.
+
+[01:01:42] SPEAKER_06
+You you made it all the way through.
+
+[01:01:44] SPEAKER_06
+Assuming that you're listening to this right now.
+
+[01:01:46] SPEAKER_06
+If you're not listening, you didn't make it through.
+
+[01:01:48] SPEAKER_06
+There's no point in talking to you.
+
+[01:01:49] SPEAKER_06
+You you're not one of the real ones.
+
+[01:01:50] SPEAKER_06
+Everybody else, though, we really appreciate it.
+
+[01:01:53] SPEAKER_06
+And here's a little tip.
+
+[01:01:54] SPEAKER_06
+I just got into this new band called Clown Core.
+
+[01:01:57] SPEAKER_06
+I recommend everybody else get into it, too.
+
+[01:01:59] SPEAKER_06
+So they play in a port-a-potty and I'm going to go see them play live next month.
+
+[01:02:03] SPEAKER_06
+And they are going to play on stage in the port-a-potty.
+
+[01:02:06] SPEAKER_05
+Do they let the crowd get in there one by one?
+
+[01:02:08] SPEAKER_05
+I don't know.
+
+[01:02:09] SPEAKER_06
+I don't know.
+
+[01:02:10] SPEAKER_06
+I can't wait to find out.
+
+[01:02:12] SPEAKER_06
+Ta-ta.
+
+[01:02:14] SPEAKER_06
+Bye.
+
+[01:02:14] SPEAKER_07
+That was that was such a villain laugh by Nick.
+
+[01:02:20] SPEAKER_07
+That was alarming.
+
+[01:02:22] SPEAKER_07
+I don't know.
+
+[01:02:23] SPEAKER_02
+Ta-ta got me.
+
+[01:02:24] SPEAKER_02
+Hey, guys.
+
+[01:02:25] SPEAKER_02
+Major League fan Jack here with a look at next week's episode of Face.
+
+[01:02:28] SPEAKER_02
+Eric is famous.
+
+[01:02:30] SPEAKER_02
+Everyone forgot about it.
+
+[01:02:31] SPEAKER_02
+Penn has a lot of things to say.
+
+[01:02:33] SPEAKER_02
+Gavin can carry two men.
+
+[01:02:35] SPEAKER_02
+Jeff made a smoothie.
+
+[01:02:37] SPEAKER_02
+And once again, Andrew does not eat the pencil.
+
+[01:02:39] SPEAKER_02
+All that and more on next week's episode of Face.

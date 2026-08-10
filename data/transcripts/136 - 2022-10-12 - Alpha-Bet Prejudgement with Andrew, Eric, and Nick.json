@@ -1,0 +1,2108 @@
+{
+ "index": 136,
+ "title": "Alpha-Bet Prejudgement with Andrew, Eric, and Nick",
+ "pub_date": "2022-10-12T08:00:00+00:00",
+ "model": "large-v3-turbo",
+ "diarization_model": "pyannote/speaker-diarization-3.1",
+ "language": "en",
+ "language_probability": 1,
+ "duration_sec": 637.151625,
+ "speaker_embeddings": {
+  "SPEAKER_00": [
+   -0.312343,
+   0.016589,
+   -0.189954,
+   0.071074,
+   -0.009574,
+   0.056217,
+   0.424604,
+   0.140526,
+   0.378847,
+   -0.283275,
+   0.114218,
+   0.120025,
+   -0.263164,
+   0.224549,
+   0.058908,
+   -0.365271,
+   -0.301116,
+   -0.394928,
+   -0.119014,
+   -0.018161,
+   -0.301893,
+   0.016897,
+   0.570953,
+   -0.018829,
+   -0.071747,
+   0.163857,
+   0.011666,
+   -0.198055,
+   -0.37161,
+   0.040356,
+   0.144863,
+   0.107057,
+   0.073974,
+   -0.480673,
+   0.12416,
+   -0.185342,
+   -0.056328,
+   -0.475673,
+   -0.238203,
+   0.029073,
+   0.075596,
+   -0.458373,
+   0.041701,
+   0.262373,
+   0.121294,
+   0.164595,
+   -0.084826,
+   -0.312168,
+   0.057218,
+   0.410329,
+   0.268249,
+   0.29305,
+   0.235023,
+   0.068823,
+   0.160275,
+   0.193402,
+   -0.138163,
+   -0.151607,
+   -0.341452,
+   0.208093,
+   0.293435,
+   -0.203566,
+   -0.066111,
+   0.246817,
+   -0.108098,
+   -0.041709,
+   -0.234954,
+   0.171736,
+   -0.07266,
+   -0.05017,
+   -0.076705,
+   -0.181686,
+   0.324605,
+   -0.063095,
+   0.124806,
+   0.079987,
+   -0.423593,
+   -0.038164,
+   -0.037125,
+   -0.033233,
+   -0.183056,
+   -0.294487,
+   0.411152,
+   -0.15398,
+   0.024968,
+   -0.203665,
+   0.154482,
+   -0.002595,
+   -0.415024,
+   -0.124262,
+   0.110678,
+   -0.097897,
+   0.004724,
+   0.212934,
+   -0.255182,
+   -0.097438,
+   0.025685,
+   -0.063149,
+   0.019987,
+   -0.018975,
+   0.056992,
+   -0.00651,
+   -0.197399,
+   -0.294016,
+   0.024013,
+   -0.051112,
+   0.03963,
+   -0.177655,
+   -0.256463,
+   -0.129885,
+   -0.227305,
+   0.297776,
+   0.159972,
+   -0.056932,
+   -0.254362,
+   -0.154863,
+   -0.264293,
+   -0.181345,
+   -0.31444,
+   -0.298645,
+   0.087647,
+   0.341705,
+   -0.103812,
+   0.254791,
+   -0.148365,
+   0.071025,
+   -0.084459,
+   -0.128529,
+   -0.456337,
+   0.092511,
+   -0.678131,
+   0.0979,
+   -0.190986,
+   0.312883,
+   -0.324956,
+   -0.189407,
+   0.321196,
+   -0.032339,
+   0.024456,
+   -0.012909,
+   -0.179118,
+   0.410612,
+   0.601181,
+   0.14167,
+   -0.329391,
+   -0.194305,
+   0.29675,
+   -0.00691,
+   0.142578,
+   0.080746,
+   0.063342,
+   0.057143,
+   -0.187144,
+   0.475925,
+   0.005311,
+   0.044629,
+   0.001095,
+   -0.239056,
+   0.156335,
+   -0.147605,
+   0.172816,
+   0.152056,
+   -0.186761,
+   0.029894,
+   -0.36816,
+   0.265016,
+   0.064646,
+   0.343556,
+   -0.06041,
+   -0.271178,
+   -0.13134,
+   -0.194319,
+   -0.024912,
+   0.195134,
+   0.097732,
+   -0.50974,
+   0.022988,
+   0.388616,
+   0.191032,
+   -0.244324,
+   -0.131762,
+   0.076755,
+   0.009901,
+   -0.071096,
+   -0.126357,
+   -0.161565,
+   0.052257,
+   -0.010246,
+   -0.188108,
+   0.063692,
+   0.194356,
+   0.185708,
+   -0.244102,
+   -0.212729,
+   -0.292843,
+   0.029167,
+   0.134484,
+   0.252689,
+   0.209306,
+   -0.091897,
+   -0.027748,
+   -0.056102,
+   -0.004482,
+   0.118941,
+   0.233141,
+   -0.189947,
+   0.088472,
+   -0.240469,
+   -0.119159,
+   -0.18181,
+   0.102331,
+   -0.050338,
+   -0.046262,
+   0.018462,
+   0.116794,
+   0.150958,
+   0.097721,
+   -0.267777,
+   0.291632,
+   0.464927,
+   -0.030305,
+   0.051397,
+   0.188633,
+   0.140062,
+   0.145529,
+   -0.156508,
+   0.060399,
+   -0.343414,
+   0.09663,
+   0.022612,
+   -0.014485,
+   -0.222234,
+   -0.047626,
+   -0.006097,
+   0.358591,
+   0.404572,
+   -0.233971,
+   0.002458,
+   0.197302,
+   -0.370242,
+   -0.057102,
+   0.114183,
+   0.218334,
+   -0.231685,
+   -0.264202,
+   0.192547,
+   0.361718,
+   -0.756096,
+   0.143592,
+   0.066496,
+   -0.037771,
+   0.288892,
+   0.096477,
+   -0.338371,
+   -0.081901,
+   -0.23233
+  ],
+  "SPEAKER_01": [
+   0.007207,
+   0.071095,
+   -0.259381,
+   -0.033455,
+   -0.209396,
+   -0.27259,
+   0.3491,
+   -0.164645,
+   0.126533,
+   0.189448,
+   0.225595,
+   -0.004618,
+   0.116446,
+   0.173254,
+   0.093931,
+   -0.220884,
+   -0.302724,
+   -0.104632,
+   0.031329,
+   0.109491,
+   -0.312528,
+   0.035109,
+   0.446297,
+   0.195401,
+   0.138997,
+   0.185054,
+   -0.139175,
+   -0.004232,
+   -0.000664,
+   -0.024339,
+   0.553321,
+   0.199267,
+   0.076087,
+   -0.249228,
+   0.003421,
+   -0.13115,
+   0.15262,
+   -0.24129,
+   0.057945,
+   0.383155,
+   -0.278394,
+   -0.080754,
+   0.359559,
+   0.307456,
+   -0.141274,
+   0.035857,
+   -0.005248,
+   -0.136208,
+   0.494867,
+   0.482974,
+   0.145432,
+   -0.094292,
+   0.157668,
+   -0.138128,
+   -0.226151,
+   0.285267,
+   -0.036484,
+   -0.11006,
+   -0.222049,
+   -0.011729,
+   0.35323,
+   -0.129489,
+   0.168898,
+   0.001735,
+   -0.042431,
+   0.153049,
+   -0.0807,
+   -0.323553,
+   -0.0087,
+   0.163608,
+   -0.204642,
+   -0.286237,
+   0.078941,
+   -0.307087,
+   0.030632,
+   0.185421,
+   -0.170447,
+   -0.01853,
+   -0.02696,
+   -0.118773,
+   -0.347491,
+   -0.186335,
+   0.381784,
+   -0.189553,
+   -0.438195,
+   -0.061359,
+   -0.173573,
+   -0.078065,
+   -0.109095,
+   -0.295106,
+   -0.011985,
+   0.290905,
+   0.120886,
+   0.099046,
+   0.189608,
+   0.048772,
+   -0.086388,
+   0.179192,
+   0.099532,
+   -0.145416,
+   -0.046688,
+   -0.17264,
+   -0.083049,
+   -0.001536,
+   -0.181578,
+   -0.162635,
+   0.192639,
+   0.133191,
+   -0.031238,
+   -0.37119,
+   0.315664,
+   0.200287,
+   -0.108685,
+   -0.133238,
+   0.036463,
+   -0.430065,
+   -0.045058,
+   -0.002244,
+   0.055494,
+   0.33086,
+   0.382485,
+   0.18228,
+   -0.247828,
+   -0.069362,
+   0.080625,
+   0.245103,
+   -0.141773,
+   -0.045946,
+   -0.364091,
+   -0.072008,
+   -0.217435,
+   0.003786,
+   0.148282,
+   0.272412,
+   0.258019,
+   -0.407933,
+   -0.032221,
+   -0.018223,
+   0.360905,
+   -0.343986,
+   -0.114712,
+   0.240431,
+   0.24475,
+   0.170883,
+   -0.128862,
+   -0.101581,
+   0.087803,
+   -0.015109,
+   -0.129868,
+   -0.095736,
+   0.259185,
+   -0.280537,
+   -0.298804,
+   -0.298928,
+   -0.068629,
+   0.094677,
+   0.08078,
+   -0.256852,
+   -0.089098,
+   -0.013331,
+   0.348986,
+   0.011418,
+   0.006459,
+   -0.145883,
+   -0.190142,
+   -0.188229,
+   -0.112942,
+   -0.21326,
+   0.065052,
+   -0.059543,
+   -0.227993,
+   0.147368,
+   0.149687,
+   -0.318161,
+   -0.006185,
+   -0.296305,
+   -0.234328,
+   0.145596,
+   0.005903,
+   -0.039181,
+   -0.19645,
+   0.230569,
+   0.284127,
+   0.158855,
+   -0.101911,
+   0.049858,
+   -0.242174,
+   0.398178,
+   -0.002045,
+   -0.223311,
+   -0.262949,
+   0.113175,
+   -0.060078,
+   -0.135148,
+   -0.066085,
+   0.102914,
+   0.333912,
+   0.224529,
+   0.134904,
+   0.376933,
+   0.037141,
+   -0.014044,
+   -0.007625,
+   -0.005943,
+   -0.238358,
+   0.019831,
+   0.108944,
+   -0.258662,
+   -0.001404,
+   0.083234,
+   0.1623,
+   0.123485,
+   -0.100763,
+   -0.280723,
+   -0.272733,
+   0.087263,
+   0.001876,
+   0.179267,
+   0.330227,
+   0.522688,
+   0.288916,
+   0.164767,
+   0.076847,
+   0.178041,
+   0.156266,
+   -0.145184,
+   0.415812,
+   -0.269505,
+   0.022737,
+   -0.268858,
+   0.079557,
+   -0.236204,
+   -0.084787,
+   0.411617,
+   0.157948,
+   0.235762,
+   -0.228985,
+   0.029183,
+   0.073746,
+   -0.492351,
+   -0.171439,
+   -0.137695,
+   -0.18127,
+   -0.216086,
+   -0.005584,
+   -0.055911,
+   0.048353,
+   -0.02597,
+   -0.089368,
+   0.319203,
+   0.089232,
+   -0.056059,
+   0.264931,
+   0.119084,
+   0.262025,
+   -0.156973
+  ],
+  "SPEAKER_02": [
+   -0.170815,
+   -0.011961,
+   -0.004875,
+   -0.082807,
+   0.034811,
+   -0.255232,
+   0.124077,
+   0.004655,
+   -0.022613,
+   0.227109,
+   0.094684,
+   0.035516,
+   -0.024281,
+   0.35367,
+   -0.042551,
+   -0.422705,
+   -0.242594,
+   -0.085484,
+   0.117974,
+   -0.054173,
+   -0.311985,
+   0.001943,
+   0.14508,
+   0.218562,
+   0.146148,
+   0.051847,
+   0.262702,
+   -0.180008,
+   -0.178465,
+   0.153755,
+   0.160845,
+   0.061919,
+   -0.140045,
+   -0.20956,
+   -0.158524,
+   -0.247989,
+   -0.038732,
+   0.157591,
+   -0.093937,
+   0.042156,
+   0.172289,
+   -0.053397,
+   -0.126086,
+   0.008826,
+   0.17842,
+   0.077286,
+   -0.133922,
+   -0.148477,
+   0.298124,
+   0.139892,
+   0.191671,
+   -0.170251,
+   -0.11017,
+   -0.224802,
+   0.219211,
+   -0.139409,
+   0.012925,
+   -0.098802,
+   -0.018947,
+   -0.081071,
+   0.075405,
+   -0.04033,
+   0.037751,
+   0.050489,
+   0.063236,
+   -0.159316,
+   -0.022174,
+   -0.035624,
+   0.183858,
+   -0.034675,
+   -0.303169,
+   0.002408,
+   0.039554,
+   -0.312712,
+   -0.07462,
+   0.119557,
+   -0.422478,
+   -0.144293,
+   -0.105413,
+   -0.060184,
+   -0.133111,
+   -0.39284,
+   0.347655,
+   -0.257683,
+   -0.462613,
+   -0.086737,
+   -0.104662,
+   0.074435,
+   0.150016,
+   -0.246259,
+   0.114006,
+   0.088705,
+   0.223741,
+   0.10921,
+   0.057479,
+   -0.039219,
+   -0.083909,
+   0.147666,
+   0.171245,
+   -0.096497,
+   0.001157,
+   -0.037938,
+   0.079249,
+   -0.044137,
+   -0.259996,
+   0.078563,
+   0.26293,
+   0.140472,
+   0.017894,
+   -0.480138,
+   0.154537,
+   -0.298816,
+   -0.001563,
+   -0.20494,
+   -0.091631,
+   -0.089194,
+   0.048038,
+   -0.022015,
+   -0.028788,
+   0.295205,
+   0.015007,
+   0.120363,
+   0.057584,
+   -0.059261,
+   -0.033789,
+   0.310624,
+   0.10702,
+   -0.146592,
+   -0.222172,
+   -0.042851,
+   0.036684,
+   0.196477,
+   -0.029443,
+   0.063996,
+   -0.002386,
+   -0.251183,
+   -0.106689,
+   -0.262405,
+   0.170877,
+   -0.081757,
+   -0.005731,
+   0.317369,
+   0.203249,
+   0.008574,
+   -0.362537,
+   -0.185433,
+   -0.150668,
+   0.199496,
+   0.1119,
+   0.127118,
+   0.166104,
+   -0.21947,
+   -0.236214,
+   0.207904,
+   0.018863,
+   0.347425,
+   -0.045471,
+   0.267353,
+   -0.063927,
+   -0.097088,
+   0.259791,
+   -0.064197,
+   -0.246455,
+   -0.292091,
+   0.056451,
+   -0.079968,
+   0.002738,
+   0.121656,
+   0.233768,
+   -0.068305,
+   -0.04072,
+   0.048375,
+   0.176367,
+   -0.02816,
+   0.333997,
+   -0.220023,
+   -0.17776,
+   -0.140294,
+   -0.172363,
+   0.057027,
+   -0.315186,
+   -0.039896,
+   0.176283,
+   -0.028798,
+   -0.043991,
+   0.176906,
+   -0.149472,
+   0.211984,
+   -0.128908,
+   0.016739,
+   0.022163,
+   0.057691,
+   -0.312584,
+   -0.09193,
+   0.002154,
+   0.132931,
+   0.260741,
+   0.327929,
+   0.083771,
+   -0.200162,
+   -0.034656,
+   0.140345,
+   -0.268606,
+   0.023784,
+   0.008216,
+   0.167686,
+   0.150821,
+   -0.11214,
+   -0.180267,
+   0.10155,
+   0.155881,
+   0.173039,
+   -0.235719,
+   -0.026399,
+   -0.275859,
+   -0.197007,
+   -0.074258,
+   0.129072,
+   0.28541,
+   0.48898,
+   0.291555,
+   0.062763,
+   -0.011392,
+   0.057148,
+   -0.055261,
+   -0.1744,
+   -0.008736,
+   -0.261799,
+   0.11313,
+   -0.231211,
+   0.039929,
+   -0.354319,
+   0.141039,
+   0.186402,
+   0.216405,
+   0.112879,
+   0.01236,
+   0.129417,
+   0.2177,
+   -0.284073,
+   0.165569,
+   0.339671,
+   0.119242,
+   0.02991,
+   0.031777,
+   0.117475,
+   0.295187,
+   0.033495,
+   0.012172,
+   0.095157,
+   -0.286199,
+   0.093466,
+   -0.027997,
+   -0.160296,
+   0.281845,
+   0.05548
+  ]
+ },
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 21.64,
+   "text": "Okay, so it looks like we're all good all around. So we're on a different Discord channel, and Andrew has asked myself and Nick to join him for something. Got a secret weekend message from Andrew about what this is. So Andrew, why do you need us right now?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 21.64,
+   "end": 44.16,
+   "text": "So we're day one of the food bet. As you know, our last recording on Thursday, we drew the numbers, we set the things, and I was talking to Gavin that evening while playing Halo, and I said to Gavin, what percentage of the audience do you think will believe that I somehow rigged the bingo machine to give me a very favorable letter?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 44.16,
+   "end": 55.96,
+   "text": "Because P, I think, is probably the easiest. I haven't gone through it all, but just on surface level, I think it's the easiest. And which Gavin said, well, you did film it, so you're okay. I thought, yeah, you're right. I did record it.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 56.42,
+   "end": 70.98,
+   "text": "What I did learn, though, much like we make fun of Geoff's ability to take photos, I should never be allowed to film a video for this show ever again. I'm going to post in our Slack channel, I was having a late night bath.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 70.98,
+   "end": 80.78,
+   "text": "I was like, you know what? I'm going to look at the video I filmed to prove that I drew the number that I did. Posting it in the Slack right now. Please watch it and react to it.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 81.26,
+   "end": 85.24,
+   "text": "Okay. Nick, I'm going to hit play in three, two, one.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 85.4,
+   "end": 86.36,
+   "text": "Going for the third one.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 87.2,
+   "end": 92.48,
+   "text": "Okay. So I'm looking, you have seven and 21.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 94.0,
+   "end": 95.14,
+   "text": "Gavin and Jeff's number.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 95.44,
+   "end": 95.92,
+   "text": "Got it.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 97.46,
+   "end": 100.04,
+   "text": "It's so loud, by the way. It's so loud.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 100.04,
+   "end": 102.26,
+   "text": "It's incredibly loud. My finger is in the frame.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 102.52,
+   "end": 106.14,
+   "text": "Okay. You do it. You have the numbers in the frame. It's a very, it's a fine looking video.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 106.64,
+   "end": 108.42,
+   "text": "The number comes. Oh, come on.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 110.86,
+   "end": 111.76,
+   "text": "That's it. Wait.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 113.12,
+   "end": 113.8,
+   "text": "The number.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 114.06,
+   "end": 114.2,
+   "text": "That's it.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 114.26,
+   "end": 117.14,
+   "text": "The number rolled out. You didn't film it. The video cut.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 117.62,
+   "end": 120.02,
+   "text": "Well, the number did roll out.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 120.18,
+   "end": 125.36,
+   "text": "The problem is I filmed it bounced out of the shoot and the number is facing the wall.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 125.5,
+   "end": 127.88,
+   "text": "The entire time it bounces out.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 127.88,
+   "end": 129.86,
+   "text": "I will post. This is the best.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 129.86,
+   "end": 131.44,
+   "text": "I've scrolled through so many times.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 131.7,
+   "end": 134.94,
+   "text": "This is the best look at the number that I have from the video.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 135.16,
+   "end": 136.82,
+   "text": "This is what we have to work with.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 137.04,
+   "end": 140.38,
+   "text": "I have asked several people to guess the number.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 140.58,
+   "end": 143.3,
+   "text": "I have gotten zero success out of one person.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 143.38,
+   "end": 145.76,
+   "text": "It took them seven guesses to get it.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 146.42,
+   "end": 147.8,
+   "text": "So this is, this is the dilemma I'm in.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 147.9,
+   "end": 152.2,
+   "text": "I was heartbroken when I saw that video for the, I just went, Oh no,",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 152.2,
+   "end": 154.32,
+   "text": "I've salad cream. This so hard.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 154.32,
+   "end": 158.32,
+   "text": "This is worse than any photo Jeff has taken in a video form.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 158.74,
+   "end": 159.5,
+   "text": "What do I do?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 160.0,
+   "end": 166.0,
+   "text": "I don't know what you do because I did a recording with Jeff this morning.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 166.5,
+   "end": 169.44,
+   "text": "And I said, how's your food going so far?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 169.54,
+   "end": 173.24,
+   "text": "And he groaned and said that he went grocery shopping,",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 173.36,
+   "end": 175.66,
+   "text": "bought a lot of things that he thinks start with you.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 176.2,
+   "end": 177.96,
+   "text": "There's I'm sure that's going to be a whole thing,",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 177.96,
+   "end": 185.64,
+   "text": "but he's convinced that you and Gavin are in a prank and pulling a fast",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 185.64,
+   "end": 186.12,
+   "text": "one on him.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 186.4,
+   "end": 190.96,
+   "text": "I'm letting you know now because that is what he is sure is happening.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 191.44,
+   "end": 193.6,
+   "text": "So that's why I want to talk to both of you about it.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 193.66,
+   "end": 196.6,
+   "text": "I didn't want to talk to them because they're in competition with me right",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 196.6,
+   "end": 197.36,
+   "text": "now for this bet.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 197.7,
+   "end": 198.32,
+   "text": "You two are,",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 198.48,
+   "end": 202.64,
+   "text": "I feel like are the closest we have to a neutral party that could also kind",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 202.64,
+   "end": 203.22,
+   "text": "of make a ruling.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 203.64,
+   "end": 207.64,
+   "text": "What would you do in my position with everything?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 207.96,
+   "end": 211.78,
+   "text": "Well, here's the thing.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 211.88,
+   "end": 213.5,
+   "text": "I would never be in your position.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 213.64,
+   "end": 214.54,
+   "text": "Yeah, no, that's fair.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 214.72,
+   "end": 215.5,
+   "text": "That's totally fair.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 215.82,
+   "end": 215.98,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 216.2,
+   "end": 217.86,
+   "text": "Let me just let me explain.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 218.08,
+   "end": 218.92,
+   "text": "So this is what happened.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 219.26,
+   "end": 223.36,
+   "text": "One of the reasons why the video is so bad is because the surface of the",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 223.36,
+   "end": 224.98,
+   "text": "bingo machine is reflective.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 225.28,
+   "end": 229.34,
+   "text": "And I recorded in my underwear yesterday or last time we did it.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 229.34,
+   "end": 233.64,
+   "text": "I did not want to appear in my underwear on the video.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 233.9,
+   "end": 235.42,
+   "text": "So that's why it's so low.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 235.46,
+   "end": 237.58,
+   "text": "It's to the least reflective part of the machine.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 238.0,
+   "end": 243.12,
+   "text": "And I am standing technically in my bathroom stretched out to get the",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 243.12,
+   "end": 243.3,
+   "text": "thing.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 243.86,
+   "end": 244.34,
+   "text": "I did not.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 244.54,
+   "end": 247.64,
+   "text": "As soon as it bounced out the chute, I didn't want to film the entirety of",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 247.64,
+   "end": 247.98,
+   "text": "my room.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 248.04,
+   "end": 248.94,
+   "text": "So I canceled it.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 249.28,
+   "end": 253.68,
+   "text": "I didn't realize that I didn't capture it in frame at all because it sat on",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 253.68,
+   "end": 255.9,
+   "text": "the upper part before falling for a little bit.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 256.46,
+   "end": 257.6,
+   "text": "It wasn't until I watched the video.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 257.6,
+   "end": 259.1,
+   "text": "I realized, oh, this is a problem.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 259.26,
+   "end": 260.66,
+   "text": "This is really not good.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 260.66,
+   "end": 262.72,
+   "text": "That's really not good.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 263.08,
+   "end": 263.16,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 263.24,
+   "end": 263.48,
+   "text": "No.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 265.16,
+   "end": 267.6,
+   "text": "I just I don't even know.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 268.52,
+   "end": 269.48,
+   "text": "I don't.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 271.48,
+   "end": 272.7,
+   "text": "What can you say?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 273.12,
+   "end": 275.92,
+   "text": "I don't know.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 276.42,
+   "end": 276.78,
+   "text": "Could we?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 276.92,
+   "end": 279.48,
+   "text": "Is there like, you know, in CSI, they enhance the.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 279.64,
+   "end": 280.52,
+   "text": "Can we do that?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 281.06,
+   "end": 281.34,
+   "text": "Do we know?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 281.34,
+   "end": 283.0,
+   "text": "I don't think that technology is real.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 283.44,
+   "end": 286.92,
+   "text": "So you think you showed this to a bunch of people and nobody guessed.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 287.58,
+   "end": 292.2,
+   "text": "I've shown nobody guessed your letter three or four and one person",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 292.2,
+   "end": 293.02,
+   "text": "eventually got.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 293.18,
+   "end": 294.78,
+   "text": "I didn't say you're wrong to the person.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 294.9,
+   "end": 296.1,
+   "text": "I just let them keep guessing.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 296.26,
+   "end": 297.34,
+   "text": "Took them about five.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 297.42,
+   "end": 298.86,
+   "text": "They eventually got to 16.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 299.36,
+   "end": 300.64,
+   "text": "I've got a lot of 18.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 300.96,
+   "end": 301.14,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 301.18,
+   "end": 301.38,
+   "text": "OK.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 301.52,
+   "end": 304.6,
+   "text": "I've gotten exactly once, you know, it's between one and 26.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 305.22,
+   "end": 307.6,
+   "text": "It looks exactly like you say like an 18.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 307.7,
+   "end": 309.3,
+   "text": "It looks like because the six is in motion.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 309.74,
+   "end": 310.02,
+   "text": "Yes.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 310.14,
+   "end": 310.58,
+   "text": "A hundred percent.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 310.7,
+   "end": 311.86,
+   "text": "The six is in motion.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 312.48,
+   "end": 313.76,
+   "text": "So it looks like an eight.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 314.18,
+   "end": 317.74,
+   "text": "I think, you know, it's 16 and you look at it, you can see the 16.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 318.24,
+   "end": 323.1,
+   "text": "But without the context of it, I think I'm going to get killed no matter what.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 323.1,
+   "end": 324.74,
+   "text": "Oh, I think I think you're absolutely.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 325.46,
+   "end": 328.44,
+   "text": "I think Gavin will let you live.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 328.44,
+   "end": 332.8,
+   "text": "I think Jeff is going to be furious.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 333.44,
+   "end": 334.0,
+   "text": "Oh, absolutely.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 334.0,
+   "end": 340.88,
+   "text": "I don't know another way out of it other than than refilming.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 342.06,
+   "end": 343.22,
+   "text": "But I don't want to lose.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 343.76,
+   "end": 347.46,
+   "text": "I got P if I got any other letter, I'd just be like, I'll do it again.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 347.46,
+   "end": 348.12,
+   "text": "But I got P.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 348.38,
+   "end": 350.22,
+   "text": "I don't want to screw myself out of P.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 350.48,
+   "end": 351.26,
+   "text": "I agree.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 351.44,
+   "end": 353.34,
+   "text": "I don't think I think you have to stick with P.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 353.9,
+   "end": 355.6,
+   "text": "I don't know what you can do.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 356.36,
+   "end": 360.24,
+   "text": "I think you just have to hold to your bet and then wait for them to see.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 360.44,
+   "end": 360.48,
+   "text": "I agree.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 360.48,
+   "end": 366.74,
+   "text": "I think you just have to wait for them to see that you did not quite capture it on video",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 366.74,
+   "end": 369.24,
+   "text": "and you have to take your lumps.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 369.64,
+   "end": 370.1,
+   "text": "Oh, yeah.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 370.44,
+   "end": 371.14,
+   "text": "This may be.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 371.52,
+   "end": 372.66,
+   "text": "Because, of course, it happened this way.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 373.02,
+   "end": 373.62,
+   "text": "It might.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 373.8,
+   "end": 375.94,
+   "text": "This might be my get out of Greg Freech card.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 376.16,
+   "end": 378.4,
+   "text": "This might have to be played here, depending on how it goes.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 378.4,
+   "end": 380.1,
+   "text": "You definitely might have to play.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 380.16,
+   "end": 380.84,
+   "text": "See, here's the thing.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 381.1,
+   "end": 384.62,
+   "text": "I don't think Gavin is going to hold your feet to the fire that hard.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 384.82,
+   "end": 385.46,
+   "text": "I agree.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 385.46,
+   "end": 388.08,
+   "text": "Because he got an okay letter.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 388.7,
+   "end": 388.96,
+   "text": "Yes.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 389.04,
+   "end": 390.28,
+   "text": "I think this might.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 390.48,
+   "end": 393.38,
+   "text": "I think Jeff is so upset with his letter.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 393.72,
+   "end": 394.04,
+   "text": "Totally.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 394.2,
+   "end": 397.54,
+   "text": "I mean, was complaining to Gus about it this morning.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 398.66,
+   "end": 403.58,
+   "text": "Because he's so upset that his bet went this wrong.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 403.58,
+   "end": 411.6,
+   "text": "And it just, it almost adds to the suspicion of it all because we all got perfect letters",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 411.6,
+   "end": 413.64,
+   "text": "in a sense of Gavin gets a G.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 414.22,
+   "end": 420.8,
+   "text": "Jeff specifically talks about in like an extended way how bad it would be to get you in the episode",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 420.8,
+   "end": 421.76,
+   "text": "that just released.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 422.12,
+   "end": 424.7,
+   "text": "And I specifically mentioned how great P would be.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 424.76,
+   "end": 425.42,
+   "text": "I'd love P.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 426.08,
+   "end": 427.16,
+   "text": "Oh, no.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 427.56,
+   "end": 428.24,
+   "text": "And I pull it.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 428.46,
+   "end": 432.36,
+   "text": "So it's just, it's like everything lines up that this would be in somehow staged.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 433.06,
+   "end": 435.68,
+   "text": "And my evidence that it isn't is dreadful.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 436.16,
+   "end": 436.36,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 436.5,
+   "end": 438.36,
+   "text": "This might be the most I've salad-creamed anything.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 438.98,
+   "end": 439.68,
+   "text": "I agree.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 440.02,
+   "end": 443.46,
+   "text": "You might be boned and you might just have to take your lumps on this one, bud.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 443.5,
+   "end": 444.26,
+   "text": "You might be done for.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 444.7,
+   "end": 446.36,
+   "text": "So this is sort of my thought.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 446.72,
+   "end": 449.78,
+   "text": "If they're upset, which I assume Jeff definitely will be.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 450.24,
+   "end": 454.08,
+   "text": "I either, because I feel like it's undeniably a one in the front of it.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 454.08,
+   "end": 455.66,
+   "text": "Because it has to be one to 26.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 455.76,
+   "end": 456.3,
+   "text": "It's not a two.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 456.74,
+   "end": 458.26,
+   "text": "And then it becomes a 16 or an 18.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 458.8,
+   "end": 465.72,
+   "text": "I'd be willing to do another week where I do R if people think it's an R instead of a P with the 18.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 466.14,
+   "end": 467.78,
+   "text": "Or a redraw.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 468.1,
+   "end": 469.42,
+   "text": "I think both things would be fair.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 469.88,
+   "end": 474.4,
+   "text": "I think that you could present that to them, but only when it gets to dire straits.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 474.62,
+   "end": 475.52,
+   "text": "Yes, I agree.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 475.82,
+   "end": 478.3,
+   "text": "When you have to throw yourself upon the mercy of the court.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 478.3,
+   "end": 482.7,
+   "text": "I think I would argue if they want me to redraw, then we all have to do another week if we're doing a redraw.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 482.7,
+   "end": 484.58,
+   "text": "Oh, I don't think Jeff will do that.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 484.68,
+   "end": 485.84,
+   "text": "I think he's too shell-shocked.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 486.12,
+   "end": 487.64,
+   "text": "Maybe if he gets to take the P.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 488.24,
+   "end": 488.48,
+   "text": "Yep.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 488.72,
+   "end": 489.4,
+   "text": "Just automatically.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 492.4,
+   "end": 493.26,
+   "text": "That's a tough one.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 493.68,
+   "end": 495.9,
+   "text": "Yeah, so I just wanted to hear your thoughts.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 496.12,
+   "end": 498.64,
+   "text": "I wanted to see how screwed you thought I was.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 498.72,
+   "end": 499.86,
+   "text": "I don't know where this will fit.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 499.94,
+   "end": 503.16,
+   "text": "If this is in an episode, if this is a side weird thing, I don't know.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 503.16,
+   "end": 510.06,
+   "text": "I just wanted to have this talk since you both are sort of neutral, I would say, decision makers in this process.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 510.24,
+   "end": 512.02,
+   "text": "Nick, what do you think should happen?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 512.44,
+   "end": 513.06,
+   "text": "Oh, man.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 513.14,
+   "end": 517.06,
+   "text": "I think we should extend it another week, and you should either...",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 517.06,
+   "end": 520.96,
+   "text": "Honestly, the R is not a bad way to go, because the 18 does seem to be the thing here.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 521.18,
+   "end": 529.52,
+   "text": "But I'm willing to bet that Jeff will be the one to decide this, and he's going to make you put the U back in there and redo the whole thing.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 532.22,
+   "end": 535.24,
+   "text": "That, I'm going to have to agree with Nick.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 535.24,
+   "end": 538.88,
+   "text": "I don't think Jeff wants to do another week.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 539.46,
+   "end": 544.24,
+   "text": "However, he might force you to do another draw with the U in there.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 544.54,
+   "end": 546.74,
+   "text": "I do think that that is probably what's going to happen.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 548.2,
+   "end": 548.7,
+   "text": "We will see.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 548.7,
+   "end": 550.08,
+   "text": "I just wanted this on record.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 550.2,
+   "end": 558.52,
+   "text": "I want to have a conversation about the issues, the salad creaming that occurred, and I'm excited to see what their reaction will be on Thursday when we record.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 558.68,
+   "end": 561.74,
+   "text": "And I'm sure I will show them the video and discuss this as well.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 561.74,
+   "end": 569.0,
+   "text": "I think that this should go out as an independent piece that goes out, like, right before the actual podcast.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 569.24,
+   "end": 572.34,
+   "text": "Like, this needs to come out after we do the draw.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 572.6,
+   "end": 573.04,
+   "text": "Yes.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 573.5,
+   "end": 578.52,
+   "text": "But before the, like, you guys talking about what you ate, because I'm so curious.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 578.52,
+   "end": 584.8,
+   "text": "Should I post the photo of the ball in motion on, like, Thursday or Wednesday?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 584.94,
+   "end": 587.86,
+   "text": "I guess Wednesday when it comes out publicly and just ask what people see?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 588.26,
+   "end": 588.44,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 589.24,
+   "end": 589.5,
+   "text": "Okay.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 590.14,
+   "end": 590.84,
+   "text": "Oh, man.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 590.84,
+   "end": 591.8,
+   "text": "I don't want to spoil anything.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 592.14,
+   "end": 592.76,
+   "text": "I just want to see.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 592.96,
+   "end": 593.3,
+   "text": "No, no.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 593.52,
+   "end": 594.54,
+   "text": "Yeah, no, I know.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 594.86,
+   "end": 595.98,
+   "text": "I don't think you will.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 597.36,
+   "end": 603.36,
+   "text": "Also, this might be a real way where people will see if it's 16.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 603.36,
+   "end": 608.52,
+   "text": "Like, if people see 16 a bunch of times, then maybe you can get off scot-free.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 608.8,
+   "end": 610.78,
+   "text": "But also, I don't foresee that happening.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 610.86,
+   "end": 613.74,
+   "text": "Oh, you should put the picture all the way upside down and see if they see 21.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 614.28,
+   "end": 615.0,
+   "text": "Yeah, really.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 615.4,
+   "end": 616.14,
+   "text": "Oh, man.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 616.48,
+   "end": 617.48,
+   "text": "Well, there you go.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 617.58,
+   "end": 621.08,
+   "text": "I guess we'll have to see what Gavin and Jeff say, because I'm excited to find out.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 621.16,
+   "end": 623.66,
+   "text": "Oh, they're going to be so, as you said, I don't think Gavin will be upset.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 623.8,
+   "end": 624.84,
+   "text": "Jeff is going to want to kill me.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 625.1,
+   "end": 626.18,
+   "text": "Jeff is going to want to kill you.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 626.54,
+   "end": 626.86,
+   "text": "Livid.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 627.4,
+   "end": 629.7,
+   "text": "Thank you so much for your guys' ruling.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 630.1,
+   "end": 631.7,
+   "text": "I'm excited to see how it goes on Thursday.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 632.0,
+   "end": 632.34,
+   "text": "Me too.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 633.36,
+   "end": 633.58,
+   "text": "Fuck.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 634.14,
+   "end": 634.42,
+   "text": "Fuck.",
+   "speaker": "SPEAKER_99"
+  },
+  {
+   "start": 634.86,
+   "end": 635.3,
+   "text": "Fuck.",
+   "speaker": "SPEAKER_99"
+  }
+ ]
+}

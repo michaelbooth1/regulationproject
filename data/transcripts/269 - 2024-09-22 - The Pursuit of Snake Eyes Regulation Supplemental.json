@@ -1,0 +1,3548 @@
+{
+ "index": 269,
+ "title": "The Pursuit of Snake Eyes // Regulation Supplemental",
+ "pub_date": "2024-09-22T13:00:00+00:00",
+ "model": "large-v3-turbo",
+ "diarization_model": "pyannote/speaker-diarization-3.1",
+ "language": "en",
+ "language_probability": 1,
+ "duration_sec": 1200.9001875,
+ "speaker_embeddings": {
+  "SPEAKER_00": [
+   -0.357608,
+   -0.014684,
+   0.019989,
+   -0.175926,
+   0.192314,
+   0.113417,
+   -0.072786,
+   0.096261,
+   -0.025844,
+   -0.091146,
+   0.230522,
+   0.142975,
+   -0.073538,
+   -0.062681,
+   -0.184464,
+   0.050012,
+   -0.076175,
+   0.287097,
+   -0.013304,
+   0.16148,
+   0.0348,
+   -0.113166,
+   -0.008038,
+   -0.119177,
+   0.179149,
+   0.097045,
+   0.052171,
+   0.002206,
+   -0.013874,
+   0.047763,
+   0.3463,
+   0.076073,
+   -0.029995,
+   0.032621,
+   0.048845,
+   0.047422,
+   0.199679,
+   -0.035909,
+   -0.088136,
+   -0.145668,
+   -0.012359,
+   -0.002676,
+   -0.012256,
+   -0.209676,
+   -0.104042,
+   -0.224557,
+   0.260829,
+   0.035156,
+   0.043109,
+   -0.153243,
+   0.180855,
+   -0.074778,
+   0.07957,
+   0.060791,
+   -0.294688,
+   0.220147,
+   -0.038687,
+   -0.20284,
+   -0.367088,
+   0.119733,
+   0.09256,
+   -0.207107,
+   -0.129424,
+   -0.004897,
+   0.017573,
+   0.333611,
+   0.073059,
+   -0.102934,
+   -0.062767,
+   0.120521,
+   -0.039658,
+   -0.158337,
+   0.082704,
+   -0.285961,
+   0.026946,
+   0.121323,
+   0.058145,
+   0.159522,
+   -0.065338,
+   -0.021857,
+   0.032801,
+   -0.036889,
+   0.132962,
+   -0.211284,
+   0.279968,
+   -0.324238,
+   -0.297479,
+   0.110475,
+   0.204223,
+   -0.0752,
+   0.167891,
+   -0.097788,
+   -0.029416,
+   -0.039173,
+   0.164577,
+   0.251061,
+   0.240357,
+   0.367249,
+   -0.288056,
+   -0.233362,
+   -0.129753,
+   -0.054023,
+   0.200832,
+   0.068672,
+   -0.032924,
+   0.148432,
+   0.040371,
+   -0.116266,
+   0.006301,
+   -0.025342,
+   -0.094113,
+   0.084044,
+   0.044493,
+   0.100247,
+   -0.177906,
+   -0.133237,
+   0.217531,
+   -0.127905,
+   0.165254,
+   0.142269,
+   -0.344937,
+   0.004617,
+   -0.013722,
+   -0.331885,
+   -0.091813,
+   0.367985,
+   0.143859,
+   0.034293,
+   0.032188,
+   0.216718,
+   0.26614,
+   -0.043887,
+   0.064906,
+   -0.024791,
+   -0.0007,
+   -0.160597,
+   -0.358202,
+   -0.221663,
+   0.034252,
+   -0.053629,
+   -0.023929,
+   -0.109006,
+   0.080585,
+   -0.033066,
+   0.02999,
+   -0.035421,
+   -0.210625,
+   0.179061,
+   -0.131571,
+   0.137318,
+   0.037445,
+   -0.210939,
+   0.062604,
+   0.009109,
+   -0.110408,
+   -0.134786,
+   0.11925,
+   0.093219,
+   -0.100364,
+   -0.022147,
+   0.132895,
+   0.064898,
+   0.148918,
+   0.138955,
+   0.082703,
+   -0.105224,
+   0.156338,
+   0.174533,
+   0.054608,
+   -0.122149,
+   0.224855,
+   0.072935,
+   -0.11028,
+   0.414725,
+   0.121332,
+   -0.026005,
+   0.073547,
+   -0.051353,
+   -0.026102,
+   -0.153959,
+   -0.131511,
+   -0.11145,
+   -0.234439,
+   0.175716,
+   0.290268,
+   -0.050575,
+   -0.134338,
+   0.159,
+   0.111316,
+   0.261648,
+   0.086535,
+   -0.232549,
+   0.046763,
+   0.055599,
+   0.057712,
+   0.126955,
+   0.046381,
+   -0.003606,
+   -0.000297,
+   0.191121,
+   0.346284,
+   -0.047258,
+   0.029446,
+   0.152157,
+   0.033869,
+   -0.085848,
+   -0.085796,
+   -0.141252,
+   0.192934,
+   0.160682,
+   -0.009656,
+   0.089117,
+   0.032563,
+   0.028855,
+   0.039851,
+   0.032265,
+   0.048708,
+   0.170695,
+   0.118167,
+   0.144548,
+   -0.076722,
+   0.022452,
+   -0.14031,
+   -0.133807,
+   0.143264,
+   -0.162531,
+   0.075262,
+   -0.147711,
+   -0.137773,
+   -0.272972,
+   -0.076298,
+   0.220847,
+   -0.006667,
+   0.123322,
+   0.089726,
+   0.078578,
+   0.075378,
+   0.069943,
+   0.014458,
+   -0.121899,
+   -0.051037,
+   0.099472,
+   0.110276,
+   0.066564,
+   0.001875,
+   0.008342,
+   0.042939,
+   0.181046,
+   -0.157764,
+   0.074924,
+   0.264082,
+   0.099873,
+   -0.01908,
+   -0.044176,
+   0.023353,
+   0.066717
+  ],
+  "SPEAKER_01": [
+   -0.196336,
+   -0.03884,
+   -0.047035,
+   0.043485,
+   -0.245703,
+   -0.057295,
+   0.568148,
+   -0.121436,
+   0.235866,
+   0.13292,
+   0.312694,
+   0.157889,
+   0.215838,
+   -0.003681,
+   0.020864,
+   -0.319097,
+   -0.095263,
+   -0.117185,
+   0.089074,
+   0.011537,
+   -0.147476,
+   0.109815,
+   0.428447,
+   0.085507,
+   0.06955,
+   -0.078719,
+   0.006963,
+   -0.08753,
+   -0.083154,
+   -0.208773,
+   0.517412,
+   0.202225,
+   0.110521,
+   -0.244877,
+   -0.152433,
+   0.014754,
+   0.038332,
+   -0.205735,
+   0.163213,
+   0.10589,
+   -0.161739,
+   0.085929,
+   0.285457,
+   0.134621,
+   -0.246327,
+   -0.149876,
+   0.043231,
+   -0.169975,
+   0.628908,
+   0.503443,
+   0.162378,
+   0.096779,
+   0.106157,
+   -0.216725,
+   -0.06068,
+   0.353827,
+   -0.197031,
+   -0.270435,
+   -0.05714,
+   -0.076947,
+   0.374735,
+   0.04243,
+   -0.004546,
+   0.00797,
+   0.03043,
+   0.154005,
+   -0.064867,
+   -0.181939,
+   0.102126,
+   -0.036554,
+   -0.174244,
+   -0.066397,
+   0.021859,
+   -0.241878,
+   0.116424,
+   0.257864,
+   -0.208719,
+   0.030683,
+   0.044764,
+   0.059213,
+   -0.128964,
+   -0.002439,
+   0.092041,
+   -0.153382,
+   -0.083146,
+   0.114458,
+   -0.094823,
+   -0.160141,
+   -0.19259,
+   -0.213666,
+   0.209873,
+   0.229343,
+   0.332479,
+   -0.043724,
+   0.071215,
+   -0.196885,
+   0.08302,
+   0.255848,
+   -0.026071,
+   -0.02823,
+   0.050415,
+   -0.10086,
+   -0.044097,
+   -0.138802,
+   -0.224804,
+   -0.043935,
+   0.193304,
+   0.076425,
+   0.01614,
+   -0.068086,
+   0.35448,
+   0.044818,
+   -0.242445,
+   -0.153326,
+   -0.030076,
+   -0.297636,
+   -0.006164,
+   -0.066181,
+   -0.14088,
+   0.094734,
+   0.41342,
+   0.029716,
+   -0.019526,
+   0.206634,
+   -0.048278,
+   0.219216,
+   0.005866,
+   0.023248,
+   -0.319038,
+   0.262056,
+   -0.071525,
+   -0.148362,
+   0.093031,
+   0.292503,
+   0.180613,
+   -0.294756,
+   0.077996,
+   0.005182,
+   0.144991,
+   -0.34948,
+   -0.304179,
+   0.100657,
+   0.252964,
+   0.223336,
+   -0.302762,
+   -0.112694,
+   0.015505,
+   -0.215967,
+   -0.148869,
+   -0.023192,
+   0.060379,
+   -0.096673,
+   -0.297722,
+   -0.135376,
+   -0.199457,
+   0.080677,
+   -0.125034,
+   -0.09079,
+   -0.034309,
+   0.044181,
+   0.186474,
+   0.034184,
+   0.073142,
+   0.083625,
+   -0.255507,
+   -0.064223,
+   -0.041882,
+   -0.027462,
+   0.056496,
+   -0.090983,
+   -0.33328,
+   0.044768,
+   0.166735,
+   -0.171171,
+   0.035052,
+   -0.332137,
+   -0.194984,
+   0.032381,
+   -0.043376,
+   -0.172017,
+   -0.372963,
+   0.198647,
+   0.156857,
+   0.251097,
+   -0.044666,
+   -0.139836,
+   0.016769,
+   0.183891,
+   -0.203502,
+   -0.284407,
+   -0.253221,
+   0.150644,
+   -0.099652,
+   -0.061651,
+   -0.063713,
+   0.120016,
+   0.254451,
+   0.053185,
+   -0.043255,
+   0.151813,
+   -0.122236,
+   -0.055936,
+   -0.092934,
+   0.023726,
+   -0.34568,
+   -0.044465,
+   -0.017916,
+   -0.365919,
+   -0.033364,
+   0.025249,
+   0.005658,
+   0.067751,
+   -0.097143,
+   -0.212744,
+   -0.081838,
+   0.169712,
+   -0.02612,
+   0.01891,
+   0.335052,
+   0.565054,
+   0.228048,
+   -0.009408,
+   0.132028,
+   0.17496,
+   0.166312,
+   -0.29749,
+   0.515141,
+   -0.167111,
+   0.054923,
+   -0.30591,
+   -0.052978,
+   -0.164036,
+   0.019581,
+   0.622907,
+   -0.026222,
+   0.13999,
+   -0.356913,
+   -0.020189,
+   -0.009008,
+   -0.483897,
+   -0.224721,
+   -0.205927,
+   -0.179359,
+   -0.087298,
+   0.042655,
+   -0.149582,
+   0.073823,
+   -0.044517,
+   -0.092539,
+   0.002932,
+   -0.168887,
+   0.032842,
+   0.213475,
+   0.304785,
+   0.439522,
+   -0.129134
+  ],
+  "SPEAKER_02": [
+   -0.189316,
+   0.056255,
+   -0.036839,
+   0.021682,
+   0.065546,
+   0.192968,
+   0.334785,
+   -0.145366,
+   0.227622,
+   -0.104957,
+   0.102649,
+   -0.00696,
+   -0.029853,
+   -0.084457,
+   -0.120212,
+   0.02285,
+   0.075735,
+   0.0765,
+   0.116285,
+   -0.120835,
+   -0.125194,
+   -0.012277,
+   0.049328,
+   -0.154925,
+   0.056326,
+   -0.150243,
+   0.092335,
+   -0.104619,
+   0.135794,
+   -0.024368,
+   0.073221,
+   0.008764,
+   0.112967,
+   -0.242402,
+   -0.220343,
+   0.027346,
+   -0.111809,
+   -0.114562,
+   0.233933,
+   -0.161112,
+   -0.021039,
+   0.10206,
+   -0.002509,
+   0.039974,
+   -0.106146,
+   0.079896,
+   0.10899,
+   -0.166308,
+   -0.053771,
+   0.181964,
+   -0.002671,
+   -0.139445,
+   0.102768,
+   -0.191275,
+   -0.006516,
+   0.111281,
+   -0.102238,
+   -0.023878,
+   0.133656,
+   -0.232206,
+   0.055778,
+   -0.273467,
+   0.044505,
+   -0.000454,
+   -0.020723,
+   -0.196222,
+   -0.08885,
+   0.044577,
+   0.027795,
+   -0.308588,
+   0.023817,
+   0.114355,
+   -0.074963,
+   -0.009747,
+   0.060524,
+   0.005707,
+   0.005811,
+   -0.039868,
+   0.01094,
+   0.134085,
+   -0.028506,
+   0.148502,
+   0.045521,
+   -0.134047,
+   0.182445,
+   0.20631,
+   -0.085971,
+   -0.009404,
+   -0.006529,
+   -0.025278,
+   0.130569,
+   -0.111104,
+   0.237209,
+   0.166131,
+   0.043166,
+   -0.118528,
+   0.139697,
+   0.079491,
+   -0.06122,
+   0.151989,
+   0.025667,
+   -0.134097,
+   -0.078925,
+   -0.139029,
+   -0.024562,
+   -0.144725,
+   0.042274,
+   0.045343,
+   0.015543,
+   0.077638,
+   0.07228,
+   -0.13726,
+   -0.243151,
+   -0.004831,
+   -0.011627,
+   -0.081004,
+   0.045421,
+   -0.043748,
+   -0.052788,
+   0.155318,
+   0.004882,
+   -0.320677,
+   0.209366,
+   0.065757,
+   -0.040239,
+   -0.009478,
+   0.013256,
+   -0.077249,
+   -0.037491,
+   0.196835,
+   0.024749,
+   -0.148267,
+   0.016661,
+   0.141359,
+   -0.051057,
+   -0.065941,
+   0.082674,
+   -0.101342,
+   -0.112558,
+   0.016558,
+   -0.077276,
+   0.058991,
+   0.106323,
+   0.175946,
+   -0.223895,
+   0.042378,
+   -0.202797,
+   -0.023526,
+   -0.080454,
+   0.132433,
+   0.00482,
+   -0.082266,
+   -0.079327,
+   -0.054409,
+   -0.050789,
+   -0.095963,
+   -0.123339,
+   0.07335,
+   0.005326,
+   3.7e-05,
+   -0.127337,
+   0.125597,
+   0.061358,
+   0.064507,
+   -0.094374,
+   0.045217,
+   0.170033,
+   0.024467,
+   0.033606,
+   -0.020743,
+   -0.139895,
+   0.070804,
+   0.068819,
+   -0.033152,
+   -0.088426,
+   -0.013828,
+   0.031571,
+   -0.03237,
+   -0.123729,
+   -0.063167,
+   -0.112492,
+   -0.004654,
+   -0.22509,
+   -0.035471,
+   -0.008137,
+   -0.073364,
+   -0.08784,
+   -0.000644,
+   -0.039124,
+   -0.073454,
+   0.06474,
+   0.005482,
+   -0.163967,
+   -0.13325,
+   0.018683,
+   0.151831,
+   0.126762,
+   -0.08017,
+   -0.125616,
+   -0.034187,
+   -0.109855,
+   0.097209,
+   0.081241,
+   0.026193,
+   0.056318,
+   -0.126831,
+   0.065073,
+   -0.359287,
+   0.019046,
+   -0.160358,
+   -0.184403,
+   -0.022011,
+   -0.020559,
+   -0.173142,
+   0.082265,
+   0.147984,
+   -0.080243,
+   0.003291,
+   -0.016476,
+   -0.072129,
+   0.086522,
+   -0.228613,
+   0.058282,
+   0.053476,
+   -0.083604,
+   -0.145258,
+   0.297456,
+   0.058693,
+   0.102617,
+   -0.022358,
+   -0.037325,
+   0.020603,
+   -0.110621,
+   -0.04346,
+   -0.027946,
+   -0.084738,
+   -0.116586,
+   0.183994,
+   -0.119835,
+   -0.051352,
+   -0.042626,
+   0.014724,
+   0.03441,
+   0.037159,
+   0.161363,
+   0.03753,
+   -0.102625,
+   0.05164,
+   0.009011,
+   0.086952,
+   0.141418,
+   -0.111206,
+   -0.005876,
+   0.15083,
+   0.196806,
+   -0.091142
+  ],
+  "SPEAKER_03": [
+   0.046784,
+   -0.09393,
+   0.111364,
+   -0.074807,
+   -0.311975,
+   -0.116094,
+   -0.054524,
+   0.163957,
+   -0.188219,
+   -0.03234,
+   0.116896,
+   0.119738,
+   -0.106665,
+   0.099123,
+   -0.31437,
+   0.193617,
+   0.109889,
+   -0.02048,
+   0.023175,
+   -0.373656,
+   0.000914,
+   0.052501,
+   -0.191234,
+   0.095936,
+   0.149051,
+   0.059225,
+   0.11232,
+   -0.299056,
+   0.077736,
+   -0.189852,
+   -0.068395,
+   -0.129241,
+   0.042596,
+   0.230277,
+   -0.044214,
+   0.082247,
+   0.083474,
+   -0.00468,
+   -0.032129,
+   -0.273468,
+   -0.288034,
+   -0.117095,
+   -0.066393,
+   0.020734,
+   -0.278994,
+   0.215351,
+   0.021047,
+   -0.081417,
+   -0.019772,
+   0.072947,
+   -0.18313,
+   -0.010816,
+   0.032597,
+   0.033379,
+   -0.05709,
+   0.448411,
+   -0.059552,
+   0.008284,
+   -0.206717,
+   -0.160813,
+   0.208477,
+   -0.030002,
+   -0.007949,
+   0.10348,
+   0.065811,
+   0.160222,
+   0.019597,
+   -0.26771,
+   -0.121623,
+   -0.119098,
+   -0.045142,
+   0.003743,
+   0.017016,
+   0.077009,
+   -0.185621,
+   -0.018086,
+   -0.054591,
+   -0.024223,
+   -0.177403,
+   -0.008463,
+   -0.139478,
+   -0.050856,
+   0.049975,
+   -0.13702,
+   0.09692,
+   -0.014124,
+   0.125092,
+   -0.190749,
+   -0.104247,
+   0.006093,
+   0.130631,
+   0.066779,
+   -0.067452,
+   0.13012,
+   0.243018,
+   -0.058172,
+   -0.140211,
+   0.101769,
+   -0.242797,
+   -0.066957,
+   0.109224,
+   -0.237878,
+   -0.336884,
+   0.090088,
+   0.173245,
+   0.159708,
+   0.053371,
+   0.183546,
+   0.028382,
+   0.118345,
+   -0.110998,
+   0.048956,
+   -0.002326,
+   -0.065043,
+   -0.135751,
+   0.045151,
+   0.009017,
+   -0.201413,
+   0.1395,
+   -0.13293,
+   0.07893,
+   -0.04483,
+   -0.173162,
+   -0.004592,
+   -0.283356,
+   0.09502,
+   0.276293,
+   0.095291,
+   0.018385,
+   -0.014267,
+   0.069801,
+   -0.201851,
+   0.04362,
+   -0.08289,
+   -0.168636,
+   0.184013,
+   -0.081368,
+   0.054737,
+   -0.010652,
+   -0.172898,
+   -0.074336,
+   0.115672,
+   0.270879,
+   -0.179756,
+   -0.07455,
+   -0.248319,
+   -0.087255,
+   -0.051825,
+   -0.149603,
+   0.088392,
+   0.04995,
+   0.077987,
+   0.003154,
+   -0.221928,
+   -0.058052,
+   -0.072897,
+   -0.014237,
+   0.040353,
+   0.081313,
+   -0.037504,
+   0.02942,
+   0.042706,
+   0.094112,
+   -0.179271,
+   -0.147548,
+   0.175794,
+   -0.047359,
+   -0.116576,
+   -0.111875,
+   0.254482,
+   -0.171028,
+   -0.088103,
+   0.194056,
+   0.108185,
+   -0.016475,
+   -0.222983,
+   0.396868,
+   -0.29223,
+   -0.102457,
+   0.043425,
+   -0.036121,
+   -0.151754,
+   -0.124725,
+   -0.105217,
+   -0.004316,
+   -0.033106,
+   -0.008273,
+   0.002125,
+   -0.147233,
+   -0.018519,
+   -0.112697,
+   -0.112559,
+   -0.001368,
+   -0.095769,
+   -0.147102,
+   -0.077726,
+   -0.290399,
+   0.030919,
+   0.140499,
+   -0.004219,
+   0.038371,
+   -0.100009,
+   -0.108821,
+   -0.093714,
+   0.018147,
+   -0.072006,
+   0.056731,
+   -0.390186,
+   -0.031926,
+   -0.054078,
+   -0.014693,
+   0.032256,
+   -0.018834,
+   -0.284417,
+   -0.152358,
+   0.24644,
+   0.379155,
+   -0.03813,
+   0.026933,
+   -0.082965,
+   0.228538,
+   0.097138,
+   -0.147715,
+   -0.133989,
+   -0.094514,
+   0.089198,
+   0.101521,
+   -0.03402,
+   -0.164514,
+   -0.032739,
+   -0.00951,
+   0.118465,
+   0.169905,
+   -0.278351,
+   0.234993,
+   0.084746,
+   0.104164,
+   0.021232,
+   0.181424,
+   0.306089,
+   -0.210821,
+   -0.067203,
+   -0.219308,
+   -0.075892,
+   0.234049,
+   0.295145,
+   -0.105846,
+   -0.10888,
+   -0.125028,
+   -0.107171,
+   0.00975,
+   -0.253857,
+   -0.047117,
+   -0.115772,
+   -0.05721,
+   0.002226
+  ],
+  "SPEAKER_04": [
+   -0.238655,
+   -0.244475,
+   -0.05102,
+   -0.087445,
+   -0.070668,
+   0.022672,
+   -0.130306,
+   0.049678,
+   0.163073,
+   -0.305662,
+   0.039226,
+   -0.111002,
+   -0.251547,
+   0.127499,
+   -0.089992,
+   -0.25031,
+   -0.021277,
+   -0.075502,
+   -0.057864,
+   -0.010081,
+   0.100716,
+   -0.097985,
+   -0.280032,
+   -0.166068,
+   0.031121,
+   0.012086,
+   0.162813,
+   -0.277371,
+   -0.023856,
+   0.060281,
+   -0.104645,
+   0.078623,
+   0.001834,
+   0.030758,
+   -0.535599,
+   0.156045,
+   0.192644,
+   -0.339897,
+   0.093593,
+   -0.086589,
+   -0.037175,
+   0.029364,
+   0.027912,
+   0.150472,
+   -0.005208,
+   0.441501,
+   0.10131,
+   -0.071033,
+   -0.000647,
+   0.03814,
+   0.079678,
+   -0.004023,
+   0.168849,
+   -0.169891,
+   0.121889,
+   0.100475,
+   -0.067352,
+   0.210934,
+   -0.010298,
+   -0.418511,
+   -0.2206,
+   -0.011044,
+   -0.052723,
+   0.114291,
+   0.019459,
+   0.240689,
+   0.014393,
+   -0.10793,
+   -0.124457,
+   0.070572,
+   0.050111,
+   0.319756,
+   0.087602,
+   -0.278681,
+   -0.057692,
+   0.045406,
+   -0.197752,
+   0.143723,
+   -0.048087,
+   -0.238333,
+   -0.03372,
+   -0.063547,
+   0.124901,
+   -0.315126,
+   0.289931,
+   0.180164,
+   -0.274222,
+   -0.153118,
+   -0.03144,
+   -0.256963,
+   -0.230975,
+   -0.055728,
+   -0.136329,
+   0.00232,
+   0.059788,
+   -0.12307,
+   0.065014,
+   0.216358,
+   -0.238983,
+   -0.369742,
+   0.175878,
+   -0.055558,
+   -0.148674,
+   -0.023067,
+   0.05742,
+   0.009138,
+   -0.020599,
+   -0.096704,
+   0.051353,
+   -0.122086,
+   -0.149135,
+   0.09561,
+   -0.063202,
+   0.208948,
+   -0.048321,
+   -0.074492,
+   0.011051,
+   -0.288026,
+   -0.168548,
+   0.050122,
+   0.258215,
+   0.136531,
+   -0.073845,
+   0.042624,
+   -0.096308,
+   0.048918,
+   -0.139608,
+   0.050346,
+   -0.097648,
+   0.325076,
+   -0.003627,
+   -0.023366,
+   0.051603,
+   0.107656,
+   0.064831,
+   -0.082317,
+   -0.34712,
+   -0.022017,
+   -0.029787,
+   -0.048686,
+   -0.187074,
+   0.007937,
+   -0.331065,
+   -0.099294,
+   0.032057,
+   0.406152,
+   0.115625,
+   -0.008462,
+   0.257412,
+   0.2135,
+   -0.249875,
+   0.12944,
+   -0.111552,
+   -0.003348,
+   -0.011699,
+   0.310804,
+   -0.19686,
+   0.117416,
+   0.048187,
+   -0.165875,
+   0.14159,
+   -0.375031,
+   -0.12548,
+   -0.012233,
+   0.091913,
+   -0.147294,
+   0.022785,
+   -0.168701,
+   0.140195,
+   0.115271,
+   -0.157587,
+   -0.336838,
+   0.019837,
+   0.065587,
+   -0.117651,
+   -0.137471,
+   0.13522,
+   -0.415527,
+   -0.072862,
+   -0.037251,
+   -0.106641,
+   -0.015022,
+   -0.088893,
+   -0.075032,
+   -0.035192,
+   0.064653,
+   0.012092,
+   -0.23936,
+   -0.241321,
+   -0.205912,
+   0.012033,
+   0.171814,
+   0.011723,
+   0.047715,
+   -0.01471,
+   0.040762,
+   -0.008273,
+   0.075264,
+   -0.101705,
+   -0.080701,
+   0.132432,
+   -0.230333,
+   0.16044,
+   0.005621,
+   -0.018703,
+   -0.04001,
+   -0.16017,
+   -0.04726,
+   0.110886,
+   0.188265,
+   0.043615,
+   0.115806,
+   -0.028104,
+   -0.104771,
+   0.066419,
+   0.35696,
+   0.136009,
+   -0.127164,
+   0.058985,
+   0.092278,
+   0.240145,
+   0.02776,
+   -0.347899,
+   0.063987,
+   -0.046226,
+   -0.051322,
+   0.083703,
+   -0.071474,
+   -0.143624,
+   -0.010105,
+   -0.172285,
+   -0.090401,
+   0.000122,
+   -0.29782,
+   0.04129,
+   -0.102318,
+   -0.193081,
+   0.365903,
+   0.074222,
+   0.370047,
+   0.102544,
+   -0.206057,
+   -0.100738,
+   -0.329343,
+   -0.066945,
+   0.217902,
+   -0.018133,
+   -0.296179,
+   0.094229,
+   -0.038573,
+   -0.450878,
+   -0.149643,
+   -0.10757,
+   -0.271181,
+   -0.332931,
+   0.052747
+  ]
+ },
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 14.86,
+   "text": "Prime presents Perfect Pairing. What pairs with Reacher on Prime? Reaching for a sparkling punch delivered with Prime. You can enjoy a punch just like Reacher. Entertainment meets fast delivery. It's on Prime.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 15.5,
+   "end": 29.6,
+   "text": "Hello and welcome to a regulation auction. I am here signed into my personal account for Prop Store. As you saw in the other video, we did some scouting and I am trying to secure a special lot.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 29.6,
+   "end": 41.36,
+   "text": "What's currently going on right now? Close Encounters of the Third Kind. Douglas Trumbull Collection. I don't know who that is. I haven't seen that movie, but our lot is coming up that we are excited about.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 41.36,
+   "end": 60.82,
+   "text": "If you scroll down. 13. What is it? 1374 Rick Santoro's, a.k.a. Nicolas Cage screen match bloodied costume from Snake Eyes 1998, as well as 1375 Rick Santoro's, Nicolas Cage's jewelry.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 61.48,
+   "end": 68.26,
+   "text": "Snake Eyes 1998. We're going back to 98. We've talked a lot about 98. Unfortunately, I'm the only one here with you.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 68.26,
+   "end": 76.72,
+   "text": "Uh, everybody else is away. It's a Saturday. Not that that matters. It's completely irrelevant. I don't know why I said that, as if that impacts why people aren't here.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 77.84,
+   "end": 88.6,
+   "text": "But. We ain't gonna stop. We gotta get this exciting auction coverage of us getting Snake Eyes. I'm so excited. I'm terrified. We're signing on my personal account.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 88.7,
+   "end": 93.86,
+   "text": "I'm trying to secure it for the guys. I can surprise them. That was a burp. Couldn't stop it. Sorry about that.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 93.86,
+   "end": 97.74,
+   "text": "At a later date. We're still just going through this Douglas Trumbull collection.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 98.64,
+   "end": 100.26,
+   "text": "Going piece by piece.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 100.96,
+   "end": 103.8,
+   "text": "Of the mothership landing site.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 104.14,
+   "end": 111.94,
+   "text": "Now, I currently have bids and I'm the top bidder and the only bidder for the Ricky Santoro full outfit.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 112.08,
+   "end": 115.92,
+   "text": "I had a little bit of a bidding war this afternoon over the jewelry.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 116.22,
+   "end": 118.9,
+   "text": "I want to get it all. You can't have one without the other.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 118.9,
+   "end": 127.22,
+   "text": "So hopefully that person who bid on the jewelry is done and the outfit.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 127.34,
+   "end": 130.56,
+   "text": "I'm the only bidder. I have it at the lowest price I could possibly get it.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 131.42,
+   "end": 134.04,
+   "text": "Hopefully that's the case. It'd be just amazing.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 134.28,
+   "end": 137.06,
+   "text": "You know, we had the tuxedo in the past. We lost it, unfortunately.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 137.06,
+   "end": 142.28,
+   "text": "Um, so to have this as a replacement would be incredible.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 142.66,
+   "end": 149.12,
+   "text": "It's screen matched as well, which means that it is identified as being used in the film.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 149.26,
+   "end": 154.06,
+   "text": "It is 100% a thing that Nick Cage wore during Snake Eyes, which is crazy.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 154.92,
+   "end": 156.96,
+   "text": "Uh, but we're at lot 1361.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 157.16,
+   "end": 159.54,
+   "text": "Doug, oh, 1362. We're flying through.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 159.54,
+   "end": 168.02,
+   "text": "I'm guessing Douglas Trumbull had something to do with the story, but or what the close encounters of the third kind, because it's all.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 169.24,
+   "end": 175.48,
+   "text": "Third kind stuff. Current bid is 800, which is the minimum to get it.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 175.58,
+   "end": 178.14,
+   "text": "Now, what I didn't know when talking about this with Gavin after.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 179.02,
+   "end": 186.66,
+   "text": "I don't know if it was in the recording or after we recorded last, but there is a buyer's premium where it's like you have to pay 25% on whatever the bid is.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 186.66,
+   "end": 194.64,
+   "text": "So. That is the thing to be mindful of if you decide to try to do some of this auction stuff.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 195.62,
+   "end": 199.18,
+   "text": "Uh, I typically don't do this, but.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 200.12,
+   "end": 205.0,
+   "text": "Uh, when you have an item like Nicholas Cage's fucking whole suit, whole setup.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 206.14,
+   "end": 209.34,
+   "text": "From Snake Eyes, you got to if you can.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 209.34,
+   "end": 213.92,
+   "text": "Very lucky to be in a position in which I can attempt to get these things.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 214.6,
+   "end": 215.0,
+   "text": "Um.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 216.6,
+   "end": 216.96,
+   "text": "Woo.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 217.56,
+   "end": 218.2,
+   "text": "They're bidding.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 218.52,
+   "end": 219.26,
+   "text": "3,500.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 221.87,
+   "end": 222.87,
+   "text": "Our lots get close.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 222.97,
+   "end": 223.77,
+   "text": "We're like 10 away.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 224.27,
+   "end": 225.31,
+   "text": "It's going to move real quick.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 225.95,
+   "end": 226.75,
+   "text": "Uh, hopefully.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 227.73,
+   "end": 228.73,
+   "text": "Let's see what else is coming up.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 228.75,
+   "end": 229.43,
+   "text": "Is it all?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 231.03,
+   "end": 232.77,
+   "text": "Close encounters of the third kind.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 234.21,
+   "end": 234.87,
+   "text": "Douglas Trumbull.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 234.95,
+   "end": 235.57,
+   "text": "Douglas Trumbull.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 236.15,
+   "end": 237.21,
+   "text": "Oh, Slick's.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 237.43,
+   "end": 239.71,
+   "text": "Jeff Goldblum shirt from Silverado.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 239.71,
+   "end": 242.41,
+   "text": "Was Silverado a movie?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 242.93,
+   "end": 244.29,
+   "text": "Did they make it into a film?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 244.37,
+   "end": 245.55,
+   "text": "I know it was a TV show.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 245.97,
+   "end": 247.09,
+   "text": "At least I think it was a show.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 247.63,
+   "end": 250.59,
+   "text": "But I think it was a show in like the 50s or 40s.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 251.33,
+   "end": 253.13,
+   "text": "When were they doing all the Western shows?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 254.89,
+   "end": 255.29,
+   "text": "40s?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 257.23,
+   "end": 257.63,
+   "text": "50s?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 257.81,
+   "end": 258.71,
+   "text": "I think it's 50s.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 258.77,
+   "end": 261.71,
+   "text": "So I guess probably late 50s actually into the 60s.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 262.65,
+   "end": 263.11,
+   "text": "I imagine.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 265.25,
+   "end": 268.07,
+   "text": "Anyway, there's some cool stuff in this lot.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 268.07,
+   "end": 275.75,
+   "text": "Um, there was the Benji thing we looked at before I decided as much as I like it just",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 275.75,
+   "end": 277.45,
+   "text": "because of how ridiculous it is.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 277.69,
+   "end": 280.21,
+   "text": "It's not even in like a movie thing.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 280.57,
+   "end": 286.39,
+   "text": "I watched what it was from and I couldn't even identify the moment which they were there",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 286.39,
+   "end": 290.05,
+   "text": "in that outfit or would be needed as a stand in for that.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 290.05,
+   "end": 292.63,
+   "text": "But that was one of the things we saved.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 293.17,
+   "end": 301.62,
+   "text": "I don't I know we looked at the Turbo Man stuff from Jingle all the way, the jetpack that",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 301.62,
+   "end": 304.16,
+   "text": "was going up in price beyond what we'd want for it.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 304.2,
+   "end": 308.0,
+   "text": "Unfortunately, I was really excited about the booster action figures.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 308.0,
+   "end": 313.0,
+   "text": "Those have gone up beyond the expectation and way more than I would ever feel comfortable",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 313.0,
+   "end": 314.26,
+   "text": "paying for something like that.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 315.96,
+   "end": 320.76,
+   "text": "Eric, I know would hate it, but all that small soldiers thing was really cool.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 320.88,
+   "end": 325.08,
+   "text": "It was a I guess if you didn't look at the other content or maybe I don't know if it was",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 325.08,
+   "end": 326.86,
+   "text": "in it or if that was something I saw later.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 326.86,
+   "end": 336.5,
+   "text": "There was a chip hazard from small soldiers like exact replica of the action figure and",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 336.5,
+   "end": 337.62,
+   "text": "it it's awesome.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 337.92,
+   "end": 339.12,
+   "text": "It wasn't part of the movie.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 339.34,
+   "end": 344.84,
+   "text": "They did like a special edition where they made 25 of them and it was the same team that",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 344.84,
+   "end": 347.88,
+   "text": "put it together for the film using the molds and everything.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 348.02,
+   "end": 353.58,
+   "text": "So it is as screen accurate as you could get without it actually being part of the film.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 353.58,
+   "end": 360.56,
+   "text": "And that thing is up to like $7,000 last time I checked, which is crazy as much as I love",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 360.56,
+   "end": 361.16,
+   "text": "small soldiers.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 361.34,
+   "end": 366.52,
+   "text": "It's way, way, way beyond any amount I would ever feel comfortable paying.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 366.96,
+   "end": 375.02,
+   "text": "But this Trumbull stuff is still moving on and we're I want to say less than 10 away.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 375.64,
+   "end": 384.34,
+   "text": "I keep forgetting if it's 13, 74, 75 either way, though, we're getting closer piece by piece.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 384.34,
+   "end": 385.54,
+   "text": "I mean, this is some pretty cool art.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 385.68,
+   "end": 386.0,
+   "text": "Let's see.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 386.12,
+   "end": 386.86,
+   "text": "Let me click on this.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 386.92,
+   "end": 388.5,
+   "text": "Let me can I make it bigger?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 389.86,
+   "end": 390.92,
+   "text": "No, I can't.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 393.78,
+   "end": 396.4,
+   "text": "This is Caesar's universe artworks.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 397.72,
+   "end": 399.4,
+   "text": "OK, so Robert McCall.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 402.0,
+   "end": 404.08,
+   "text": "Wait, Douglas Trumbull's collection.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 405.24,
+   "end": 410.34,
+   "text": "OK, so this is his collection of a hand painted thing by Robert McCall, who I also do not have",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 410.34,
+   "end": 413.1,
+   "text": "a familiarity with, nor have I ever been to Caesars.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 414.5,
+   "end": 415.16,
+   "text": "That's cool.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 417.88,
+   "end": 418.98,
+   "text": "Dinosaurs and stuff.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 418.98,
+   "end": 421.52,
+   "text": "Very futuristic.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 422.22,
+   "end": 422.44,
+   "text": "They.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 424.36,
+   "end": 427.56,
+   "text": "I'll need to go back to holy shit, we're already at 9,500.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 427.78,
+   "end": 430.92,
+   "text": "The expected range was 1,500, 3,000.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 431.76,
+   "end": 433.06,
+   "text": "People really into this.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 433.06,
+   "end": 438.32,
+   "text": "This, I guess, is something that is more valuable or recognized than I realize.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 438.42,
+   "end": 439.9,
+   "text": "Actually, they might have a descriptor.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 439.9,
+   "end": 448.4,
+   "text": "Of Obama call Caesar universe project with Casablanca records and film.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 453.82,
+   "end": 458.66,
+   "text": "Visual effects pioneer Douglas Trumbull was born in L.A. in 1942 after abandoning.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 458.66,
+   "end": 461.7,
+   "text": "OK, well, just it just reset.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 461.7,
+   "end": 478.98,
+   "text": "After abandoning architecture for technical drawing and cartooning, his talent for photorealism soon earned him work at graphic films, an esteemed Hollywood studio for which he designed groundbreaking cosmic effects for the 1964 New York World's Fair.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 478.98,
+   "end": 491.62,
+   "text": "Oh, he worked with Kubrick after Kubrick saw his work, hired him to create animation of these VFX shots, including the iconic Stargate sequence where it would become his Zenit reset.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 491.72,
+   "end": 493.46,
+   "text": "That's we got all we need from that.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 493.46,
+   "end": 499.28,
+   "text": "We got to start focusing in because we got Silverado, Jeff Goldblum, 1985.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 500.96,
+   "end": 506.95,
+   "text": "Current bid 700 slick is a great name.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 508.43,
+   "end": 509.75,
+   "text": "For a Jeff Goldblum character.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 511.43,
+   "end": 512.27,
+   "text": "That's fantastic.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 512.81,
+   "end": 519.13,
+   "text": "Oh, do the Bartman hand painted animation cell with photocopy background.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 519.59,
+   "end": 522.53,
+   "text": "The Simpsons Bart Simpson do the Bartman.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 522.61,
+   "end": 526.19,
+   "text": "I loved the Simpsons soundtrack as a kid.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 526.25,
+   "end": 527.55,
+   "text": "Wasn't even really a soundtrack.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 527.55,
+   "end": 532.29,
+   "text": "It was like they released an album of original music or parody songs.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 532.35,
+   "end": 535.87,
+   "text": "I don't remember, but I would listen to that all the time.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 536.39,
+   "end": 539.51,
+   "text": "Hey, somebody hit the minimum bid.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 539.57,
+   "end": 543.47,
+   "text": "Someone is buying do the Bartman at eight hundred dollars.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 544.17,
+   "end": 545.75,
+   "text": "Assuming no one else goes over.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 547.21,
+   "end": 549.77,
+   "text": "He's doing the whole fair warning is about the clothes.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 549.91,
+   "end": 550.91,
+   "text": "But but but but but but but.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 552.63,
+   "end": 555.67,
+   "text": "Now we got more Simpsons drawings for the show.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 559.2,
+   "end": 562.66,
+   "text": "There's part of me that wants to try to catch up and watch all the Simpsons again.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 562.66,
+   "end": 570.46,
+   "text": "But there's another part of me that is like that's a lot of time for a thing that is by consensus.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 570.46,
+   "end": 572.84,
+   "text": "Is this really not worth doing?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 574.04,
+   "end": 578.22,
+   "text": "I'm not that much of a Simpsons fan as much as like so many others.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 578.36,
+   "end": 580.34,
+   "text": "I love the first seasons, especially growing up.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 580.4,
+   "end": 586.48,
+   "text": "And then the video games that were around like hit run and road rage were fantastic.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 586.48,
+   "end": 592.24,
+   "text": "A lot of terrible Simpsons games as well, like skateboarding and wrestling actually never played the skateboarding.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 592.3,
+   "end": 596.18,
+   "text": "I can't comment on that one, but Simpsons wrestling absolute disaster.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 596.18,
+   "end": 607.14,
+   "text": "So I guess I navigated through the bad games and mainly just played hit and run and road rage, which were incredible at the time.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 608.22,
+   "end": 616.82,
+   "text": "Being a kid who is not old enough to play like GTA three when it came out, hit and run, which is what they heavily advertised it as is like, hey.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 617.92,
+   "end": 619.58,
+   "text": "You teenager, you, you kid.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 619.58,
+   "end": 626.76,
+   "text": "This is GTA for kids with the Simpsons is going to say with sleepless in Seattle, because this will popped up on the screen.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 627.26,
+   "end": 630.78,
+   "text": "Now, that would be a wild combination.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 630.94,
+   "end": 637.6,
+   "text": "We're taking the sleepless in Seattle IP and we're going to put it in a world filled with murder.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 639.52,
+   "end": 639.72,
+   "text": "Just.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 641.44,
+   "end": 646.44,
+   "text": "Insane crime, violence and explosions, because that's what that audience wants.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 646.44,
+   "end": 650.04,
+   "text": "Prime presents Perfect Pairings.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 650.54,
+   "end": 652.72,
+   "text": "What pairs with Reacher on Prime?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 652.92,
+   "end": 656.62,
+   "text": "Reaching for a sparkling punch delivered with Prime.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 657.32,
+   "end": 661.16,
+   "text": "It's an unbelievable feeling when you're enjoying a punch.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 662.3,
+   "end": 666.52,
+   "text": "At the same time, Reacher is enjoying punching people.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 667.66,
+   "end": 670.3,
+   "text": "Wow, he's still punching people.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 672.58,
+   "end": 674.98,
+   "text": "Entertainment meets fast delivery.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 675.3,
+   "end": 676.32,
+   "text": "It's on Prime.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 677.42,
+   "end": 679.26,
+   "text": "Welcome aboard via rail.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 679.66,
+   "end": 680.9,
+   "text": "Please sit and enjoy.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 681.98,
+   "end": 683.6,
+   "text": "Please sit and stretch.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 684.16,
+   "end": 684.92,
+   "text": "Steep.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 685.72,
+   "end": 686.24,
+   "text": "Flip.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 687.42,
+   "end": 689.76,
+   "text": "Or that and enjoy.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 690.58,
+   "end": 691.3,
+   "text": "Via rail.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 691.64,
+   "end": 692.4,
+   "text": "Love the way.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 693.38,
+   "end": 695.42,
+   "text": "Now we're in Sleepy Hollow from 1999.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 696.74,
+   "end": 698.68,
+   "text": "Is that the Johnny Depp one?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 700.89,
+   "end": 701.83,
+   "text": "He was in that, right?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 703.55,
+   "end": 704.57,
+   "text": "Yeah, Tim Burton Sleepy Hollow.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 704.65,
+   "end": 705.49,
+   "text": "That was from 99.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 706.43,
+   "end": 707.17,
+   "text": "That's crazy.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 708.15,
+   "end": 710.39,
+   "text": "I would have guessed that movie came out in like 2003.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 712.13,
+   "end": 713.09,
+   "text": "Anyway, we're getting closer.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 714.43,
+   "end": 715.47,
+   "text": "Oh, I'm getting stressed.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 715.75,
+   "end": 716.55,
+   "text": "I'm getting real stressed.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 716.61,
+   "end": 717.37,
+   "text": "We're coming up on it.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 718.67,
+   "end": 719.21,
+   "text": "Oh, boy.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 719.21,
+   "end": 724.59,
+   "text": "Not a lot of interest on Sleepy Hollow concept artwork prints.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 724.59,
+   "end": 725.09,
+   "text": "See?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 725.09,
+   "end": 726.87,
+   "text": "Oh, man.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 727.07,
+   "end": 729.35,
+   "text": "That's so rude that they've done this.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 730.07,
+   "end": 732.55,
+   "text": "It's so rude that they've done this.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 732.55,
+   "end": 734.61,
+   "text": "Oh, man.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 734.61,
+   "end": 734.93,
+   "text": "Okay.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 735.93,
+   "end": 737.39,
+   "text": "Well, current bid, $4,000.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 737.77,
+   "end": 742.91,
+   "text": "It is the Small Soldiers Limited Edition Stan Winston Studio Boxed Ship Hazard Toy Replica.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 743.37,
+   "end": 744.71,
+   "text": "It is the thing I talked about.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 744.71,
+   "end": 746.67,
+   "text": "It is that $4,500.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 747.25,
+   "end": 749.63,
+   "text": "That is $4,000.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 749.63,
+   "end": 751.31,
+   "text": "$4,000 is like, oh, my God.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 751.37,
+   "end": 751.81,
+   "text": "That's so much.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 751.89,
+   "end": 756.11,
+   "text": "And then on top of the buyer's premium, we're over $6,000 on this thing.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 756.69,
+   "end": 757.57,
+   "text": "That's too much.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 758.55,
+   "end": 759.59,
+   "text": "Since I do not.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 760.79,
+   "end": 763.67,
+   "text": "That is beyond any range I will ever have.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 764.19,
+   "end": 768.35,
+   "text": "To be able to spend that much on a chip hazard, as cool as that is.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 768.39,
+   "end": 771.83,
+   "text": "I'm just going to appreciate it in these final moments looking at that photo.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 772.97,
+   "end": 773.99,
+   "text": "Oh, it's so awesome.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 776.27,
+   "end": 781.71,
+   "text": "They released a bunch of action figures in stores, and I had some of them as a kid.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 781.81,
+   "end": 784.29,
+   "text": "I gave away a lot of that stuff when I grew up, which.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 784.29,
+   "end": 788.67,
+   "text": "Which is like, that was the right move, because I'm not going to play with them all that much.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 788.75,
+   "end": 791.85,
+   "text": "I hope they went to other kids that got a lot of joy out of them.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 792.15,
+   "end": 792.89,
+   "text": "Oh, here we go.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 793.01,
+   "end": 793.35,
+   "text": "Here we go.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 793.47,
+   "end": 793.87,
+   "text": "Here we go.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 794.75,
+   "end": 795.53,
+   "text": "This is us.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 797.11,
+   "end": 797.77,
+   "text": "This is us.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 797.83,
+   "end": 799.03,
+   "text": "We got the top bid right now.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 799.09,
+   "end": 799.51,
+   "text": "We're the current.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 799.81,
+   "end": 800.63,
+   "text": "We're the highest bidder.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 800.99,
+   "end": 804.77,
+   "text": "Snake Eyes, Rick Centauros, Nicolas Cage, Scream Match, Bloody Costume.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 805.47,
+   "end": 806.19,
+   "text": "Come on, buddy.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 806.69,
+   "end": 807.13,
+   "text": "Come on.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 807.17,
+   "end": 808.61,
+   "text": "Wrap this auction up, buddy.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 809.09,
+   "end": 809.91,
+   "text": "We're the highest bidder.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 810.21,
+   "end": 810.81,
+   "text": "Nobody come in.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 811.67,
+   "end": 812.35,
+   "text": "Nobody come in.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 813.23,
+   "end": 814.05,
+   "text": "Nobody come in.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 815.29,
+   "end": 816.37,
+   "text": "He's holding his gavel.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 816.41,
+   "end": 817.07,
+   "text": "He's just talking.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 817.43,
+   "end": 818.03,
+   "text": "He's talking.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 819.07,
+   "end": 822.49,
+   "text": "Oh, I want him in frame, but I'm also terrified that if I go, someone will come in.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 823.09,
+   "end": 823.71,
+   "text": "Walk it up, buddy.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 824.13,
+   "end": 824.43,
+   "text": "Come on.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 824.55,
+   "end": 824.83,
+   "text": "Come on.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 824.89,
+   "end": 825.17,
+   "text": "Come on.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 825.77,
+   "end": 826.73,
+   "text": "Why are you still talking?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 827.89,
+   "end": 828.25,
+   "text": "Come on.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 828.51,
+   "end": 829.59,
+   "text": "No, I've been outbid.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 829.87,
+   "end": 830.13,
+   "text": "Fuck.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 830.57,
+   "end": 830.89,
+   "text": "Fuck.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 830.97,
+   "end": 832.17,
+   "text": "Okay, we're going in.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 833.05,
+   "end": 833.43,
+   "text": "Shit.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 835.15,
+   "end": 835.55,
+   "text": "Shit.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 836.67,
+   "end": 837.71,
+   "text": "This is terrifying.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 839.21,
+   "end": 840.35,
+   "text": "Okay, we're in a bidding war.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 840.43,
+   "end": 842.07,
+   "text": "I've never been in a live bidding war.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 846.61,
+   "end": 847.35,
+   "text": "Wrap it up.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 847.43,
+   "end": 850.68,
+   "text": "Burning this lot is about to close.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 852.12,
+   "end": 852.48,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 853.42,
+   "end": 854.26,
+   "text": "We got it.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 854.6,
+   "end": 855.74,
+   "text": "We got the Snake Eyes thing.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 855.82,
+   "end": 857.06,
+   "text": "Okay, now we're on the jewelry.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 858.82,
+   "end": 859.92,
+   "text": "Okay, we're the highest bidder.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 862.5,
+   "end": 862.86,
+   "text": "Current bid.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 862.94,
+   "end": 864.36,
+   "text": "Okay, I'm going to bid on this.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 865.3,
+   "end": 866.42,
+   "text": "I keep clicking the wrong thing.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 866.42,
+   "end": 868.8,
+   "text": "Okay, this is his jewelry.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 870.84,
+   "end": 873.24,
+   "text": "Now, we had other things that we could buy.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 873.78,
+   "end": 875.26,
+   "text": "That went to about a thousand.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 876.02,
+   "end": 877.22,
+   "text": "We're at five hundred.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 878.12,
+   "end": 878.9,
+   "text": "How much is that?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 878.96,
+   "end": 881.06,
+   "text": "Okay, we're going to I'm going to have a limit soon.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 889.2,
+   "end": 889.54,
+   "text": "Fuck.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 891.65,
+   "end": 891.97,
+   "text": "Fuck.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 894.35,
+   "end": 897.47,
+   "text": "Okay, this is if they get a two thousand, we're going to lose it.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 902.86,
+   "end": 903.78,
+   "text": "I wish the guys were here.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 903.82,
+   "end": 904.32,
+   "text": "What do I do?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 904.32,
+   "end": 906.84,
+   "text": "What do I do?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 908.78,
+   "end": 909.58,
+   "text": "What do I do?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 909.7,
+   "end": 911.24,
+   "text": "We're at two thousand eight hundred thirty five.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 911.32,
+   "end": 912.22,
+   "text": "How much was the last thing?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 912.66,
+   "end": 913.68,
+   "text": "Two thousand five hundred.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 913.78,
+   "end": 915.56,
+   "text": "They really were going back.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 915.64,
+   "end": 916.96,
+   "text": "Who's this son of a bitch?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 919.92,
+   "end": 920.9,
+   "text": "Okay, we're done.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 921.06,
+   "end": 921.34,
+   "text": "We're done.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 921.46,
+   "end": 921.94,
+   "text": "This is it.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 922.88,
+   "end": 923.9,
+   "text": "We can't go more than this.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 925.44,
+   "end": 928.56,
+   "text": "It's higher than I would want, but this is a once in a lifetime thing.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 930.34,
+   "end": 931.04,
+   "text": "This is it.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 931.92,
+   "end": 932.82,
+   "text": "Are we going to get it?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 936.67,
+   "end": 937.47,
+   "text": "Come on, lock it up.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 938.43,
+   "end": 938.79,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 942.35,
+   "end": 943.93,
+   "text": "Okay, well, that was more.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 944.99,
+   "end": 948.27,
+   "text": "That was more than any of us discussed paying for it.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 948.95,
+   "end": 949.57,
+   "text": "Oh, boy.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 950.61,
+   "end": 950.99,
+   "text": "It'll be.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 951.09,
+   "end": 951.75,
+   "text": "That's fine.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 952.01,
+   "end": 952.77,
+   "text": "That's exciting.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 953.05,
+   "end": 953.97,
+   "text": "Listen, we got the thing.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 954.51,
+   "end": 955.53,
+   "text": "I got it for the guys.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 955.59,
+   "end": 956.23,
+   "text": "I secured it.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 959.51,
+   "end": 960.71,
+   "text": "Wow, I can't.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 962.01,
+   "end": 963.43,
+   "text": "Oh, I can't believe that.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 963.49,
+   "end": 964.07,
+   "text": "That's crazy.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 964.99,
+   "end": 966.43,
+   "text": "Get the fuck out of here, Jesse Eisenberg.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 967.19,
+   "end": 967.55,
+   "text": "Respectfully.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 967.55,
+   "end": 969.33,
+   "text": "Man, I'm sweating.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 970.15,
+   "end": 970.91,
+   "text": "I am.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 971.05,
+   "end": 972.21,
+   "text": "I can't.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 972.43,
+   "end": 974.27,
+   "text": "I'm never doing this again by myself.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 974.83,
+   "end": 976.71,
+   "text": "I need other people here for support.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 976.75,
+   "end": 979.73,
+   "text": "If we're doing this, I am sweating right now.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 980.25,
+   "end": 980.61,
+   "text": "I had.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 980.77,
+   "end": 981.73,
+   "text": "That was terrible.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 982.53,
+   "end": 983.65,
+   "text": "That was so stressful.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 984.01,
+   "end": 984.69,
+   "text": "But we got it.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 984.71,
+   "end": 985.71,
+   "text": "We got everything we needed.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 985.97,
+   "end": 986.69,
+   "text": "We got the suit.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 986.77,
+   "end": 987.55,
+   "text": "We got the rings.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 988.53,
+   "end": 989.97,
+   "text": "I'm excited to see Eric.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 990.35,
+   "end": 995.33,
+   "text": "The fact that we looked at buying a few other items makes me feel comfortable that we went",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 995.33,
+   "end": 998.25,
+   "text": "over because this was our number one by far.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 999.11,
+   "end": 1001.79,
+   "text": "You know, Jesus Christ.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1003.41,
+   "end": 1004.37,
+   "text": "That was crazy.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1005.41,
+   "end": 1006.43,
+   "text": "I need to lay down.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1007.43,
+   "end": 1008.75,
+   "text": "Thank you so much for watching.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1008.85,
+   "end": 1009.67,
+   "text": "I hope you enjoy this.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1009.67,
+   "end": 1013.71,
+   "text": "I hope you enjoy the stuff we have planned with the suit.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1013.95,
+   "end": 1015.21,
+   "text": "We have a new suit in our life.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1015.25,
+   "end": 1021.33,
+   "text": "We have a new it's not a tuxedo, but we got a fucking Nick Cage worn thing, which is awesome",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1021.33,
+   "end": 1023.21,
+   "text": "for a ridiculous movie.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1023.65,
+   "end": 1024.81,
+   "text": "We got the rings.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1025.35,
+   "end": 1026.27,
+   "text": "It's so cool.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1026.27,
+   "end": 1028.49,
+   "text": "Thank you so much for watching.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1028.59,
+   "end": 1029.45,
+   "text": "I hope this is entertaining.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1029.61,
+   "end": 1031.23,
+   "text": "I apologize that I was by myself.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1031.91,
+   "end": 1032.97,
+   "text": "I did my best.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1034.37,
+   "end": 1037.15,
+   "text": "I hope maybe there will be a recording.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1037.41,
+   "end": 1039.29,
+   "text": "I wish the guys yell at me for going a little bit over.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1039.61,
+   "end": 1039.99,
+   "text": "Who knows?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1041.05,
+   "end": 1041.95,
+   "text": "I don't think so.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1042.05,
+   "end": 1043.45,
+   "text": "I think we're all just going to be really excited.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1043.57,
+   "end": 1044.13,
+   "text": "I know I am.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1044.89,
+   "end": 1050.13,
+   "text": "This is another thing we talked about, actually, before I wrap up this Soprano shirt, because",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1050.13,
+   "end": 1052.41,
+   "text": "I feel like I've seen Tony Soprano wear this thing a million times.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1052.43,
+   "end": 1053.01,
+   "text": "But look at that.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1053.03,
+   "end": 1054.41,
+   "text": "It's already four thousand five on.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1054.41,
+   "end": 1056.39,
+   "text": "This is going to get so high, I think.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1059.27,
+   "end": 1066.61,
+   "text": "And if I would much rather have the full setup for Snake Eyes than just the shirt of Tony",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1066.61,
+   "end": 1068.91,
+   "text": "Soprano is amazing as it is.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1070.29,
+   "end": 1073.71,
+   "text": "But they projected this to be a thousand five hundred to three thousand of value.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1074.65,
+   "end": 1076.81,
+   "text": "Current bid is six thousand five hundred.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1080.02,
+   "end": 1080.58,
+   "text": "Oh, man.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1082.06,
+   "end": 1083.08,
+   "text": "I am lightheaded.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1084.42,
+   "end": 1086.64,
+   "text": "I didn't even record this in the discord call.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1086.9,
+   "end": 1087.92,
+   "text": "I'm Jesus Christ.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1087.92,
+   "end": 1089.34,
+   "text": "I'm just coming to you anyway.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1089.72,
+   "end": 1090.22,
+   "text": "I'm sorry.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1090.6,
+   "end": 1091.42,
+   "text": "We're extending this.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1091.52,
+   "end": 1093.14,
+   "text": "Let's just see how much this goes.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1093.54,
+   "end": 1094.9,
+   "text": "Looks like it'll be six thousand five hundred.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1096.2,
+   "end": 1097.64,
+   "text": "Oh, it went up to seven thousand.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1100.97,
+   "end": 1101.83,
+   "text": "Is this it?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1103.61,
+   "end": 1104.55,
+   "text": "These people are sweating.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1105.21,
+   "end": 1105.63,
+   "text": "I imagine.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1107.07,
+   "end": 1109.15,
+   "text": "I couldn't imagine being live for this.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1110.85,
+   "end": 1111.73,
+   "text": "I could never.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1112.19,
+   "end": 1114.55,
+   "text": "Oh, the last second they come in, there's another bid.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1114.97,
+   "end": 1117.08,
+   "text": "Oh, boy.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1117.08,
+   "end": 1124.38,
+   "text": "I think there's a world in which someone could get addicted to doing this, and I'm glad that's",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1124.38,
+   "end": 1124.76,
+   "text": "not me.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1125.36,
+   "end": 1127.82,
+   "text": "I'm glad I do not find joy in this chase.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1127.82,
+   "end": 1134.32,
+   "text": "Even just watching other people have these last seconds go back and forth interactions",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1134.32,
+   "end": 1135.54,
+   "text": "terrifies me.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1135.66,
+   "end": 1136.26,
+   "text": "But that's that.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1136.48,
+   "end": 1137.38,
+   "text": "We wrapped it up.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1137.74,
+   "end": 1138.98,
+   "text": "Thank you so much for watching.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1139.64,
+   "end": 1145.84,
+   "text": "Make sure you check out our Patreon at the regulation pot regulation podcast or regulatory",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1145.84,
+   "end": 1146.66,
+   "text": "on dot com.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1147.32,
+   "end": 1153.94,
+   "text": "We got a let's play channel, which is, I think, the regulation pod or we have and we have",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1153.94,
+   "end": 1154.68,
+   "text": "got a let's play channel.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1154.74,
+   "end": 1155.86,
+   "text": "We got a podcast channel on YouTube.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1156.06,
+   "end": 1156.9,
+   "text": "Just go to our Patreon.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1157.02,
+   "end": 1157.8,
+   "text": "You'll find it all there.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1158.34,
+   "end": 1159.2,
+   "text": "It's all simple.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1160.08,
+   "end": 1161.1,
+   "text": "Thank you so much for watching.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1161.22,
+   "end": 1166.32,
+   "text": "I hope you have a wonderful day, and I hope you keep track what we got planned for the",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1166.32,
+   "end": 1167.06,
+   "text": "snake eye stuff.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1167.82,
+   "end": 1168.66,
+   "text": "Have a great day.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1169.54,
+   "end": 1169.98,
+   "text": "Bye.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1171.44,
+   "end": 1173.26,
+   "text": "Want to see your rewards go further?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1173.26,
+   "end": 1179.02,
+   "text": "Now at Shell, Scene Plus members can fill up on points at the pump, on snacks, car wash,",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1179.16,
+   "end": 1179.6,
+   "text": "and more.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1180.24,
+   "end": 1185.34,
+   "text": "Plus, Scotiabank and Tangerine cardholders can get up to 10 cents per liter in value with",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1185.34,
+   "end": 1186.04,
+   "text": "a linked card.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1186.8,
+   "end": 1189.76,
+   "text": "New rewards partners, new ways to save and earn at Shell.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1190.38,
+   "end": 1191.72,
+   "text": "Get more, go further.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1192.36,
+   "end": 1195.12,
+   "text": "At participating Shell locations, conditions and limits apply.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1195.6,
+   "end": 1196.72,
+   "text": "Actual value may be lower.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1196.72,
+   "end": 1199.9,
+   "text": "Visit shell.ca slash loyalty for full details.",
+   "speaker": "SPEAKER_03"
+  }
+ ]
+}

@@ -1,0 +1,5271 @@
+# Episode 249: The Cheese was My Enemy // We Haven't Lost it [4]
+published: 2024-06-05T07:00:00+00:00  |  duration: 01:14:39
+source: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/REGULATIONCOMPANYLLC5104138826.mp3?updated=1725561488
+transcribed: 2026-08-08T11:34:47.502639-04:00  |  model: large-v3-turbo
+diarization: pyannote/speaker-diarization-3.1
+
+
+[00:00:00] SPEAKER_00
+Rain change your picnic plans? Hey, it happens. But now everyone's indoors, cozy, and around the same table. That's a small win that feels pretty good. Just like the Minute Maid fruit drink and lemonade cartons. Always made with real juice. Always real flavor. Bring the juice with Minute Maid fruit drink and lemonade cartons. And visit the chill juice aisle in your local grocery store today.
+
+[00:00:23] SPEAKER_03
+Hello and welcome to another episode of The Regulation Podcast. My name is Geoff Ramsey. With me, as always, Andrew Panton and Gavin Free in that order of importance and popularity. This is episode four. Hi, guys.
+
+[00:00:39] SPEAKER_02
+Oh, wait. I mean, that's just factually correct, first of all. Sorry, Gavin. Go ahead.
+
+[00:00:44] SPEAKER_04
+All right. Well, I heard the popularity part after I realized I wasn't paying attention to the order of the names.
+
+[00:00:49] SPEAKER_02
+It was you than me. It was just him stating the guy with a huge slow motion YouTube channel on the side is bigger than the piss boy Vancouver child kicker.
+
+[00:01:02] SPEAKER_02
+Who would predict? More popular in every metric. Geoff said that as a dig. It's just a fact.
+
+[00:01:10] SPEAKER_02
+But on this podcast, you're the most popular. I don't think that's true.
+
+[00:01:14] SPEAKER_02
+Well, if we go by an egg, I'm first, but I think that's the only measuring system in which I'm ahead of everybody.
+
+[00:01:21] SPEAKER_03
+I'll be honest. The gaslighting is so intense and immediate. I don't remember what I said now.
+
+[00:01:28] SPEAKER_03
+Oh, you went Gavin than me. I'm pretty sure I didn't. I'm pretty sure I went the other way.
+
+[00:01:32] SPEAKER_02
+But now you've got me. Now you've got me. Sure. I'm locked in.
+
+[00:01:37] SPEAKER_04
+I thought I was bottom, but I couldn't. International superstar.
+
+[00:01:40] SPEAKER_03
+I have a having free. I have a running list in my head at all times of the order of popularity of you to me.
+
+[00:01:50] SPEAKER_03
+And I'm pretty sure Andrew's above Gavin right now. So I think I I don't think that's true at all.
+
+[00:01:55] SPEAKER_02
+I think I said his name first. I disagree strongly. But, you know, our wires are crossed.
+
+[00:02:00] SPEAKER_03
+We haven't done this in a bit. It's been a while. Yeah, I know. I'm jet lagged.
+
+[00:02:04] SPEAKER_03
+Oh, yeah. Well, you're all home, though, right? Did you get you get some sleep last night?
+
+[00:02:08] SPEAKER_04
+Yeah, but I was so tired. I fell asleep at like nine that I woke up at four.
+
+[00:02:12] SPEAKER_04
+So this feels like really late. It feels like we're recording at normal time.
+
+[00:02:16] SPEAKER_04
+You've been up since four. Yeah.
+
+[00:02:19] SPEAKER_03
+Also, it's weird because we're recording at a different time on a different day.
+
+[00:02:22] SPEAKER_03
+So everything's just out of whack. It's all fucked.
+
+[00:02:25] SPEAKER_03
+Who are we blaming for that? Me? Yeah, that's your fault. That's OK.
+
+[00:02:29] SPEAKER_03
+Yeah, I think we wouldn't even say fault.
+
+[00:02:31] SPEAKER_03
+However, had you not been out of town on a trip, I would have had to reschedule today.
+
+[00:02:36] SPEAKER_03
+So then it would have been my fault.
+
+[00:02:38] SPEAKER_01
+So I guess it would have been thought free. Why did you even say anything?
+
+[00:02:42] SPEAKER_03
+I guess I could have been no one would have known because I'm trying to make a comedy podcast here.
+
+[00:02:46] SPEAKER_03
+I would have been second. I guess I'm secondarily responsible.
+
+[00:02:50] SPEAKER_03
+Like if you're unable to fill your duties of irresponsibility, I would step up.
+
+[00:02:54] SPEAKER_04
+I feel like honesty is important and it makes you popular.
+
+[00:02:57] SPEAKER_04
+And I think that you could potentially now be the most popular member of this podcast.
+
+[00:03:01] SPEAKER_03
+Wow. That's very sweet of you to say.
+
+[00:03:04] SPEAKER_03
+But I don't know. Going up against such heavyweights is the Canadian and the Brit.
+
+[00:03:08] SPEAKER_03
+I don't know, man.
+
+[00:03:11] SPEAKER_03
+Hard to hard to compete with the with those two.
+
+[00:03:13] SPEAKER_02
+I mean, you're saying it like it's high bar.
+
+[00:03:15] SPEAKER_02
+I feel like it's low bar across the board.
+
+[00:03:17] SPEAKER_02
+Oh, really? I do.
+
+[00:03:18] SPEAKER_03
+I thought the sarcasm was dripping, but I guess not.
+
+[00:03:21] SPEAKER_02
+I'm sorry.
+
+[00:03:22] SPEAKER_02
+No, listen, I'm kidding.
+
+[00:03:23] SPEAKER_02
+You just called me the Canadian.
+
+[00:03:24] SPEAKER_02
+We don't do sarcasm.
+
+[00:03:26] SPEAKER_02
+We don't do.
+
+[00:03:28] SPEAKER_03
+It's not a thing.
+
+[00:03:31] SPEAKER_02
+Oh, why would you do that to me?
+
+[00:03:34] SPEAKER_02
+Gavin, how was your trip?
+
+[00:03:36] SPEAKER_02
+Oh, it was lovely.
+
+[00:03:37] SPEAKER_02
+It was nice.
+
+[00:03:38] SPEAKER_02
+Yep.
+
+[00:03:39] SPEAKER_02
+Had a little birthday in England.
+
+[00:03:41] SPEAKER_02
+Yeah.
+
+[00:03:41] SPEAKER_02
+Oh, when was the last time you had a birthday in England?
+
+[00:03:44] SPEAKER_04
+Oh, a few years ago, probably.
+
+[00:03:45] SPEAKER_04
+Went to the cheese rolling.
+
+[00:03:46] SPEAKER_04
+I know that you're a big fan of the cheese roll.
+
+[00:03:48] SPEAKER_02
+Oh, of course.
+
+[00:03:49] SPEAKER_02
+Yeah, I was very excited to see when you shared clips of the cheese roll.
+
+[00:03:52] SPEAKER_03
+Was that your first time attending the cheese rolling?
+
+[00:03:56] SPEAKER_03
+Yes.
+
+[00:03:56] SPEAKER_03
+Was it as awesome as it looks?
+
+[00:04:00] SPEAKER_04
+It's something I've realized that just doesn't come across well on camera.
+
+[00:04:04] SPEAKER_04
+And even on my footage, that hill is freaking steep.
+
+[00:04:08] SPEAKER_04
+Like, it is so immensely steep.
+
+[00:04:11] SPEAKER_04
+I don't know how people don't die.
+
+[00:04:15] SPEAKER_03
+Is this, now having seen it, is this something that you think to yourself, like, I want to
+
+[00:04:18] SPEAKER_03
+get into this.
+
+[00:04:19] SPEAKER_03
+Like, I want to be, I want to roll down that hill.
+
+[00:04:21] SPEAKER_03
+I would love to.
+
+[00:04:22] SPEAKER_03
+Well, how do we make that happen?
+
+[00:04:24] SPEAKER_04
+But, um, well, I mean, there is just a risk.
+
+[00:04:27] SPEAKER_04
+Like, uh, you know, I feel like currently I'm responsible for other people's stuff.
+
+[00:04:34] SPEAKER_04
+And if I break my both legs, then everyone suffers.
+
+[00:04:39] SPEAKER_02
+I think you could film slow-mo in a chair.
+
+[00:04:42] SPEAKER_03
+Yeah?
+
+[00:04:43] SPEAKER_03
+Did, let me ask you a question.
+
+[00:04:44] SPEAKER_03
+Did any, you went to the cheese rolling, right?
+
+[00:04:47] SPEAKER_03
+Yeah.
+
+[00:04:47] SPEAKER_03
+And you saw the whole thing?
+
+[00:04:49] SPEAKER_03
+Yep.
+
+[00:04:49] SPEAKER_03
+Did anybody get taken off in an ambulance?
+
+[00:04:51] SPEAKER_03
+Uh, not that I saw, but people.
+
+[00:04:53] SPEAKER_03
+Ah, you're fine then.
+
+[00:04:55] SPEAKER_04
+But based on some of the footage I got, I don't know how.
+
+[00:05:00] SPEAKER_04
+Now, were you shooting this just for fun or was this a work gig?
+
+[00:05:04] SPEAKER_04
+I was filming it for slow-mo.
+
+[00:05:06] SPEAKER_04
+Okay.
+
+[00:05:06] SPEAKER_04
+But it, I just, it was after I'd already booked my flights home where I was like, when, when
+
+[00:05:12] SPEAKER_04
+does that cheese roll?
+
+[00:05:12] SPEAKER_04
+I should really try.
+
+[00:05:13] SPEAKER_04
+And then I realized it just happened to be in the middle of the week that I was home.
+
+[00:05:17] SPEAKER_04
+So I just packed my smallest camera.
+
+[00:05:19] SPEAKER_03
+That's awesome.
+
+[00:05:20] SPEAKER_03
+So did you just roll up as an attendee or did you let them know a world famous high-speed
+
+[00:05:24] SPEAKER_03
+photographer, Gavin Free, will be in attendance today at your event?
+
+[00:05:26] SPEAKER_04
+No, I just, we went there and there was a little press area that I thought, yeah, I've got
+
+[00:05:32] SPEAKER_04
+a camera and a tripod.
+
+[00:05:36] SPEAKER_03
+That's awesome.
+
+[00:05:37] SPEAKER_03
+Did you run into any comment leavers or, uh, uh, you got recognized a few times.
+
+[00:05:43] SPEAKER_04
+I don't know if the, oh, yeah, yeah.
+
+[00:05:44] SPEAKER_04
+There was some, there was some actual comment leavers there.
+
+[00:05:46] SPEAKER_04
+And, uh, even one of the BBC guys knew of, uh, this podcast.
+
+[00:05:51] SPEAKER_03
+Oh, that's awesome.
+
+[00:05:52] SPEAKER_03
+Did you tell him that maybe if he knows about it, maybe the world should know about it and
+
+[00:05:56] SPEAKER_03
+the BBC should get behind it?
+
+[00:05:57] SPEAKER_03
+God damn it.
+
+[00:06:00] SPEAKER_03
+Like we're making, we're making fucking news here.
+
+[00:06:03] SPEAKER_03
+I think the BBC would include us in a news post.
+
+[00:06:05] SPEAKER_03
+We're not called face anymore.
+
+[00:06:07] SPEAKER_03
+That's formerly previously known as we should, that we should start off every conversation
+
+[00:06:15] SPEAKER_03
+with every interviewer or media person with you can talk about us now.
+
+[00:06:18] SPEAKER_03
+It's okay.
+
+[00:06:21] SPEAKER_04
+How long do you think until we get in variety?
+
+[00:06:23] SPEAKER_02
+That's the dream.
+
+[00:06:28] SPEAKER_02
+That is the signal awards of 2024.
+
+[00:06:32] SPEAKER_03
+Yeah.
+
+[00:06:32] SPEAKER_03
+But don't you kind of not want to be in variety now?
+
+[00:06:35] SPEAKER_03
+Don't you kind of just want to be like, I'm a Hollywood reporter guy.
+
+[00:06:38] SPEAKER_03
+Fuck variety.
+
+[00:06:39] SPEAKER_01
+No, I mean, I'll be in the, yeah, we can do the Hollywood reporter.
+
+[00:06:43] SPEAKER_03
+We can draw like a line in the sand.
+
+[00:06:45] SPEAKER_02
+I mean, I'm not opposed to being in the Hollywood reporter as well.
+
+[00:06:47] SPEAKER_02
+Right.
+
+[00:06:48] SPEAKER_02
+Yeah.
+
+[00:06:48] SPEAKER_02
+I think it's funnier if we end up in variety, being I have a beef with, with Hollywood press.
+
+[00:06:54] SPEAKER_03
+It would be nice to end up in variety for a good thing for once.
+
+[00:06:59] SPEAKER_03
+Every time I've been in it, it is not great.
+
+[00:07:01] SPEAKER_02
+Yeah, that's fair.
+
+[00:07:03] SPEAKER_02
+I can understand that from your perspective.
+
+[00:07:06] SPEAKER_02
+Uh, with the cheese rolling, Gavin.
+
+[00:07:09] SPEAKER_01
+Yeah.
+
+[00:07:09] SPEAKER_02
+Did you have any temptation to like try to track down that type of cheese?
+
+[00:07:15] SPEAKER_02
+Like, what would you do if you won?
+
+[00:07:16] SPEAKER_02
+How do you travel with the cheese?
+
+[00:07:18] SPEAKER_02
+Would you bring it with you?
+
+[00:07:19] SPEAKER_02
+Because you're kind of lucky you could leave it with family.
+
+[00:07:22] SPEAKER_04
+Oh, you mean if I ran the cheese roll?
+
+[00:07:24] SPEAKER_02
+Yeah, if you ran, because you win the cheese, right?
+
+[00:07:25] SPEAKER_02
+If you, on the run.
+
+[00:07:27] SPEAKER_02
+First of all, how many runs do they do?
+
+[00:07:29] SPEAKER_02
+Like, how many cheeses do they give out?
+
+[00:07:31] SPEAKER_04
+I saw four.
+
+[00:07:33] SPEAKER_03
+Oh, that's a lot less than I was anticipating.
+
+[00:07:35] SPEAKER_04
+Three men's runs and a woman's one.
+
+[00:07:38] SPEAKER_04
+Is it all the same kind of cheese?
+
+[00:07:41] SPEAKER_04
+Uh, I don't know.
+
+[00:07:42] SPEAKER_04
+Honestly, the cheese was my enemy that day.
+
+[00:07:44] SPEAKER_04
+Because I was right at the bottom of the hill, directly in the middle.
+
+[00:07:51] SPEAKER_04
+And everyone, all the real press, were hiding behind hay bales.
+
+[00:07:56] SPEAKER_04
+And we were just shoved off to the side.
+
+[00:07:59] SPEAKER_04
+Like, all the people with real equipment were like, yeah, piss off.
+
+[00:08:01] SPEAKER_04
+We got this spot.
+
+[00:08:02] SPEAKER_04
+So we were just shoved over and over.
+
+[00:08:04] SPEAKER_04
+And then, like, a bunch of people with GoPros and just, like, whoever that felt like it
+
+[00:08:08] SPEAKER_04
+started climbing into the press area.
+
+[00:08:10] SPEAKER_04
+So I was shoved even more further over.
+
+[00:08:13] SPEAKER_04
+Completely exposed to the cheese.
+
+[00:08:16] SPEAKER_04
+So for the first, I would say for the first five seconds of the ten second cheese roll,
+
+[00:08:22] SPEAKER_04
+I was just trying not to be killed by cheese.
+
+[00:08:25] SPEAKER_02
+Oh, that's great.
+
+[00:08:26] SPEAKER_04
+Because it comes cooking down that hill.
+
+[00:08:29] SPEAKER_04
+So I would just be watching the cheese.
+
+[00:08:30] SPEAKER_04
+And then after it missed me, I would start filming.
+
+[00:08:33] SPEAKER_03
+Hey, Nick, there's about seven sound drops in there.
+
+[00:08:37] SPEAKER_03
+If you could pull those out, they're all gold.
+
+[00:08:40] SPEAKER_02
+Oh, yeah.
+
+[00:08:40] SPEAKER_02
+You got it.
+
+[00:08:41] SPEAKER_03
+Thank you.
+
+[00:08:41] SPEAKER_03
+Oh, what happened?
+
+[00:08:43] SPEAKER_03
+No, you just said a lot of really awesome stuff.
+
+[00:08:44] SPEAKER_03
+Oh, shit.
+
+[00:08:45] SPEAKER_03
+That we should isolate and hold on to forever.
+
+[00:08:49] SPEAKER_01
+One more thing about the cheese thing.
+
+[00:08:50] SPEAKER_01
+What was the craziest thing that you saw at the cheese thing?
+
+[00:08:53] SPEAKER_04
+Well, there were a lot of drunk people.
+
+[00:08:57] SPEAKER_01
+Yeah, I assume.
+
+[00:08:58] SPEAKER_04
+I feel like that goes with it.
+
+[00:08:59] SPEAKER_04
+I just saw so many necks get real bent up.
+
+[00:09:05] SPEAKER_04
+One guy was great, too.
+
+[00:09:08] SPEAKER_04
+He face planted so hard, both of his shoes flew off.
+
+[00:09:11] SPEAKER_03
+Did you see like scorpion after scorpion?
+
+[00:09:15] SPEAKER_04
+Oh, yeah.
+
+[00:09:15] SPEAKER_04
+Some of those awkward looking scorpions I've ever seen in my life.
+
+[00:09:20] SPEAKER_04
+Like scorpions on the move while twisting.
+
+[00:09:23] SPEAKER_03
+On a scale of one to ten for fun, where did it land?
+
+[00:09:28] SPEAKER_03
+Oh, to watch?
+
+[00:09:29] SPEAKER_03
+Yeah.
+
+[00:09:30] SPEAKER_03
+Like a nine.
+
+[00:09:31] SPEAKER_03
+Wow.
+
+[00:09:32] SPEAKER_03
+Should we make it a regulation event and maybe go next year or sometime in the future?
+
+[00:09:37] SPEAKER_03
+Do you think it's worth us doing that?
+
+[00:09:38] SPEAKER_03
+Yeah, but it's like it's not really an organized event anymore.
+
+[00:09:41] SPEAKER_03
+It's more of just like a bunch of people going to do it.
+
+[00:09:44] SPEAKER_02
+I can't be right.
+
+[00:09:44] SPEAKER_02
+Like they crack down on it being organized.
+
+[00:09:46] SPEAKER_03
+I mean, I feel like that's better.
+
+[00:09:48] SPEAKER_03
+You know, I feel like that's what you want when nobody's in charge.
+
+[00:09:52] SPEAKER_03
+And nobody takes responsibility.
+
+[00:09:54] SPEAKER_03
+That's when the real fun shit happens.
+
+[00:09:56] SPEAKER_04
+Yeah, it is truly a shit show.
+
+[00:09:58] SPEAKER_04
+And we got to get that early if we're going to make a thing of it.
+
+[00:10:02] SPEAKER_02
+How do you figure out when it is?
+
+[00:10:04] SPEAKER_02
+It's pretty public still, right?
+
+[00:10:05] SPEAKER_02
+Like it's just just look it up.
+
+[00:10:07] SPEAKER_02
+Yeah.
+
+[00:10:07] SPEAKER_02
+It's not like they're fucking spray painting cheese to the wall.
+
+[00:10:10] SPEAKER_02
+And like you got to crack the code where it is.
+
+[00:10:13] SPEAKER_02
+Like it's an espionage film.
+
+[00:10:15] SPEAKER_03
+Yeah.
+
+[00:10:16] SPEAKER_03
+I love cheese.
+
+[00:10:20] SPEAKER_03
+Oh, my God.
+
+[00:10:20] SPEAKER_03
+I'm sorry.
+
+[00:10:21] SPEAKER_03
+I just made myself laugh.
+
+[00:10:22] SPEAKER_03
+That was good.
+
+[00:10:23] SPEAKER_03
+Yeah, that was good, right?
+
+[00:10:24] SPEAKER_03
+I love cheese.
+
+[00:10:25] SPEAKER_03
+If you're 100 years old, you'll remember the Halo 2 ARG.
+
+[00:10:28] SPEAKER_03
+I love bees.
+
+[00:10:29] SPEAKER_03
+Yeah, I love bees.
+
+[00:10:29] SPEAKER_02
+Oh, yeah.
+
+[00:10:30] SPEAKER_02
+Yeah.
+
+[00:10:31] SPEAKER_02
+Yeah.
+
+[00:10:32] SPEAKER_02
+Thank you.
+
+[00:10:33] SPEAKER_03
+Thank you.
+
+[00:10:33] SPEAKER_02
+How was your birthday?
+
+[00:10:34] SPEAKER_02
+You have fun?
+
+[00:10:35] SPEAKER_04
+Yeah.
+
+[00:10:36] SPEAKER_04
+Uneventful.
+
+[00:10:37] SPEAKER_02
+Uneventful.
+
+[00:10:38] SPEAKER_02
+We made birthday content for you.
+
+[00:10:39] SPEAKER_02
+I'm excited for you to say.
+
+[00:10:41] SPEAKER_04
+Is that why you all just started texting me that I was a great guy?
+
+[00:10:45] SPEAKER_04
+Still hasn't responded.
+
+[00:10:46] SPEAKER_04
+It was your birthday and we were just trying to wish you well.
+
+[00:10:50] SPEAKER_04
+Yeah.
+
+[00:10:50] SPEAKER_04
+Happy birthday.
+
+[00:10:51] SPEAKER_04
+I thought it would be nice.
+
+[00:10:52] SPEAKER_99
+Yeah.
+
+[00:10:52] SPEAKER_04
+Yeah.
+
+[00:10:53] SPEAKER_04
+It was just all at the same time.
+
+[00:10:54] SPEAKER_04
+And also Nick texted me, which I don't think has ever happened.
+
+[00:11:00] SPEAKER_99
+It hasn't happened.
+
+[00:11:02] SPEAKER_02
+There maybe was a conversation about how when you are,
+
+[00:11:07] SPEAKER_02
+when you're told that you're a great guy,
+
+[00:11:09] SPEAKER_02
+you respond instantly.
+
+[00:11:11] SPEAKER_02
+And I still haven't technically received a response from that text.
+
+[00:11:14] SPEAKER_02
+Yeah.
+
+[00:11:15] SPEAKER_04
+I didn't.
+
+[00:11:15] SPEAKER_04
+I don't think I replied to you individually.
+
+[00:11:18] SPEAKER_04
+No.
+
+[00:11:20] SPEAKER_03
+I would just watch the video if I were you.
+
+[00:11:22] SPEAKER_03
+Yeah.
+
+[00:11:23] SPEAKER_03
+It's a lot of us just sharing our feelings about you and celebrating you
+
+[00:11:27] SPEAKER_03
+and how much we love you and talking about how great you are
+
+[00:11:30] SPEAKER_03
+and all the things that make you, you.
+
+[00:11:33] SPEAKER_99
+Yeah.
+
+[00:11:34] SPEAKER_03
+I think you're going to enjoy it a lot.
+
+[00:11:36] SPEAKER_01
+Yeah.
+
+[00:11:37] SPEAKER_01
+This is so, like, it sounds so, like, dastardly.
+
+[00:11:43] SPEAKER_03
+Yeah.
+
+[00:11:43] SPEAKER_03
+I feel very uneasy.
+
+[00:11:46] SPEAKER_03
+I don't know why.
+
+[00:11:47] SPEAKER_03
+You're going to get, like, a 45-minute expression of love of the three best
+
+[00:11:51] SPEAKER_03
+friends and then the guy who's never texted you before.
+
+[00:11:57] SPEAKER_02
+You said you're feeling uneasy.
+
+[00:12:01] SPEAKER_02
+I had an all-time uneasy moment the other day, and I've realized that I need to be
+
+[00:12:07] SPEAKER_02
+more, um, when I'm doing actions, I need to think them through further.
+
+[00:12:13] SPEAKER_02
+No, you don't.
+
+[00:12:14] SPEAKER_02
+No, I can't.
+
+[00:12:15] SPEAKER_02
+No, you, what?
+
+[00:12:16] SPEAKER_02
+No, hold on.
+
+[00:12:16] SPEAKER_02
+No, no, no.
+
+[00:12:18] SPEAKER_02
+Where did you get that in your head?
+
+[00:12:19] SPEAKER_02
+Well, okay.
+
+[00:12:20] SPEAKER_02
+Well, what?
+
+[00:12:21] SPEAKER_02
+Typically, I'll be doing, like, three or four things at once, and then I'll just go solution
+
+[00:12:25] SPEAKER_02
+to problem, do solution, and then not fully think about the potential consequences of said
+
+[00:12:32] SPEAKER_02
+thing, it was, uh, I was sitting at my desk, and I was, I was, like, updating something
+
+[00:12:38] SPEAKER_02
+on our Patreon page, and I was looking at something for a game, and, uh, I realized,
+
+[00:12:42] SPEAKER_02
+oh, I hadn't taken my anxiety medicine for the day.
+
+[00:12:45] SPEAKER_02
+I take, like, one pill a day.
+
+[00:12:47] SPEAKER_02
+It says, like, I need to take it.
+
+[00:12:48] SPEAKER_02
+But all of the things on my desk were empty.
+
+[00:12:50] SPEAKER_02
+All of the, the, like, beverages I had outside of one, so I went, oh, I'll just, I'll drink
+
+[00:12:56] SPEAKER_02
+this one with my pill.
+
+[00:12:56] SPEAKER_02
+And so I put the pill in my mouth, then I took a drink, and, uh, I forgot that that beverage
+
+[00:13:02] SPEAKER_02
+contained boba balls in it, so I have a pill in my mouth, and then all of a sudden, there
+
+[00:13:07] SPEAKER_02
+is, like, 15 boba pearls in my mouth, and I go into full panic mode, because how am I
+
+[00:13:14] SPEAKER_02
+going to swallow all of this?
+
+[00:13:16] SPEAKER_02
+It's just filling.
+
+[00:13:17] SPEAKER_04
+You basically put, like, a bunch of other pills in your mouth.
+
+[00:13:19] SPEAKER_04
+Yeah.
+
+[00:13:20] SPEAKER_02
+You watched down your pills with pills.
+
+[00:13:21] SPEAKER_02
+It was a massive amount of just circular balls in, in my, that is an unfortunate combination
+
+[00:13:29] SPEAKER_02
+of words, but it is what happened.
+
+[00:13:31] SPEAKER_02
+All balls are circular.
+
+[00:13:33] SPEAKER_02
+Yeah.
+
+[00:13:33] SPEAKER_02
+I have to throw that out there.
+
+[00:13:34] SPEAKER_02
+Well, I, I panicked, and, uh, I tried to crush all the balls in my mouth and my tongue,
+
+[00:13:40] SPEAKER_02
+uh, and that resulted, uh, in me missing, and then me accidentally swallowing, and then
+
+[00:13:47] SPEAKER_02
+the pill is melting at the same time, so I thought, I'll just try again, but I'll lift the straw
+
+[00:13:52] SPEAKER_02
+up higher, but that still didn't work, so I ended up just having to swallow, like, four
+
+[00:13:57] SPEAKER_02
+boba pearls alongside my pill, and it was just complete chaos.
+
+[00:14:02] SPEAKER_02
+It was a very relaxed time to all of a sudden instant panic.
+
+[00:14:07] SPEAKER_04
+Did the size of the straw not give away what kind of beverage it was going to be?
+
+[00:14:11] SPEAKER_02
+I, the fact I ordered it gave away what type of beverage it was going to be.
+
+[00:14:16] SPEAKER_02
+The issue was I just wasn't thinking.
+
+[00:14:18] SPEAKER_03
+Now, I would, now you explained that story to us just now, uh, and what I heard was a
+
+[00:14:26] SPEAKER_03
+perfectly reasonable interaction that went the way it should have.
+
+[00:14:30] SPEAKER_03
+What you're describing is how that should have gone.
+
+[00:14:32] SPEAKER_03
+I don't know why you would want to change your line of thought, uh, because I feel like
+
+[00:14:36] SPEAKER_03
+everything that you just explained makes me, should have, the universe wanted it to happen
+
+[00:14:40] SPEAKER_03
+that way, and we want to make the universe happy.
+
+[00:14:43] SPEAKER_02
+I don't know how, if I can convey the genuine level of shock when all the boba pearls flew
+
+[00:14:50] SPEAKER_02
+into my mouth on this first sip.
+
+[00:14:52] SPEAKER_03
+That was supposed to happen.
+
+[00:14:53] SPEAKER_03
+We needed that to happen.
+
+[00:14:55] SPEAKER_03
+The universe, for balance, the universe needed that to happen.
+
+[00:14:58] SPEAKER_03
+Please don't take that away from us.
+
+[00:15:00] SPEAKER_02
+I'm not going to.
+
+[00:15:01] SPEAKER_02
+I've been capable of changing in that way, but it was a moment of, goddammit, I wish,
+
+[00:15:06] SPEAKER_02
+I wish I just thought this through a little bit more.
+
+[00:15:09] SPEAKER_02
+I wish I didn't just drink the drink.
+
+[00:15:12] SPEAKER_02
+I wish I got up, got a new glass of water, but instead, now I have all these pearls in
+
+[00:15:17] SPEAKER_02
+my mouth, and it started to melt in my mouth, the pill.
+
+[00:15:20] SPEAKER_02
+I'm very thankful it was like a lemonade boba type thing, because it covered up, but I could,
+
+[00:15:25] SPEAKER_02
+you know, like when a pill lasts too long in your mouth, and you start to taste it, and
+
+[00:15:28] SPEAKER_02
+it's terrible.
+
+[00:15:29] SPEAKER_02
+Pills always taste the worst.
+
+[00:15:31] SPEAKER_02
+It was that, but I thankfully had a mask.
+
+[00:15:34] SPEAKER_04
+I feel like I'm usually a new drink guy anyway.
+
+[00:15:37] SPEAKER_04
+Like if a glass of water has been out all night, it goes all old.
+
+[00:15:41] SPEAKER_03
+Yeah.
+
+[00:15:42] SPEAKER_03
+I always assume, I always assume that if I leave like a glass of water out overnight while
+
+[00:15:48] SPEAKER_03
+I'm asleep, cockroaches and bugs are going to use it as a swimming pool.
+
+[00:15:53] SPEAKER_03
+And then in the morning, I'll be like, oh, I think it's totally fine, but really like
+
+[00:15:57] SPEAKER_03
+some cockroach is doing the backstroke in it, and maybe like, maybe two drunk flies
+
+[00:16:01] SPEAKER_03
+were banging, like it's a hot tub.
+
+[00:16:03] SPEAKER_04
+Does it happen here that, because in England, I remember, if you fill a glass of water the
+
+[00:16:07] SPEAKER_04
+night before, the next morning, it's going to be all full of bubbles and taste weird.
+
+[00:16:11] SPEAKER_04
+And here, the tap water is so freaking disgusting, I just don't drink it.
+
+[00:16:15] SPEAKER_04
+Like, does it happen here too?
+
+[00:16:17] SPEAKER_02
+If you leave it out, yeah.
+
+[00:16:19] SPEAKER_04
+Yeah.
+
+[00:16:19] SPEAKER_04
+Just gets all like weird and bubbly and gross.
+
+[00:16:22] SPEAKER_02
+And I don't know if bubbly, I don't think I'd describe it as bubbly for me.
+
+[00:16:25] SPEAKER_03
+I also don't know that I'd describe it as bubbly, but it gets flat and still, because
+
+[00:16:30] SPEAKER_03
+it gets weird.
+
+[00:16:31] SPEAKER_03
+It definitely gets weird.
+
+[00:16:32] SPEAKER_03
+It definitely tastes off.
+
+[00:16:34] SPEAKER_03
+It definitely tastes like it's been sitting forever.
+
+[00:16:36] SPEAKER_04
+But you don't have the bubbles stuck to the inside of the glass?
+
+[00:16:40] SPEAKER_03
+Does British tap water carbonate itself overnight?
+
+[00:16:45] SPEAKER_03
+Is that what you're saying?
+
+[00:16:45] SPEAKER_04
+I don't know what happens with it, but I'm sure if you're in England, you've seen it
+
+[00:16:48] SPEAKER_04
+with the water.
+
+[00:16:49] SPEAKER_04
+Just leave a glass of water for a day and there's bubbles on the inside now.
+
+[00:16:52] SPEAKER_04
+Yeah.
+
+[00:16:53] SPEAKER_03
+I think what I'm imagining is bubbles.
+
+[00:16:55] SPEAKER_03
+Maybe we all need to fill a glass of water half full and stick it somewhere in our house
+
+[00:16:59] SPEAKER_03
+after this recording ends and then take a picture of it and then in 24 hours come back and look
+
+[00:17:05] SPEAKER_03
+at the results.
+
+[00:17:05] SPEAKER_01
+I think that's a great idea.
+
+[00:17:06] SPEAKER_01
+There are people listening to this right now who don't know what we're talking about
+
+[00:17:10] SPEAKER_01
+and there's other people fucking screaming at their phones about how, yeah, bubbles!
+
+[00:17:15] SPEAKER_01
+Yeah, the water bubbles!
+
+[00:17:17] SPEAKER_01
+I don't, I just think it goes stale.
+
+[00:17:19] SPEAKER_01
+I don't know that I've seen bubbles, right?
+
+[00:17:21] SPEAKER_02
+You felt just, wow.
+
+[00:17:22] SPEAKER_02
+It's stale.
+
+[00:17:23] SPEAKER_02
+I wouldn't even describe it as it, the taste is so bad when you leave it.
+
+[00:17:27] SPEAKER_04
+Yeah, I filter all of the water I drink here and it means that the bubble thing doesn't
+
+[00:17:32] SPEAKER_04
+happen.
+
+[00:17:33] SPEAKER_02
+So typically I'm drinking my water out of a gerbler, like I'll go get it, I'll drink the
+
+[00:17:37] SPEAKER_02
+glass, it's all a singular thing.
+
+[00:17:40] SPEAKER_02
+I don't, I'm not going to leave water overnight.
+
+[00:17:41] SPEAKER_02
+I ran into this problem when we were, uh, when we were streaming more deep into our stream
+
+[00:17:47] SPEAKER_02
+and I'm still trying to resolve it because the, the bottles that I stream out of are large,
+
+[00:17:54] SPEAKER_02
+they don't fit in the sink and you're also supposed to apparently it carbonates better if
+
+[00:18:00] SPEAKER_02
+it's cold.
+
+[00:18:01] SPEAKER_02
+So the only thing I could do is if I wanted to, to like avoid having to go downstairs to
+
+[00:18:07] SPEAKER_02
+like the kitchen sink is to fill it in the bathtub.
+
+[00:18:10] SPEAKER_02
+But I didn't want to leave it in the fridge overnight because the bubbling thing stop.
+
+[00:18:17] SPEAKER_02
+Wait, what?
+
+[00:18:18] SPEAKER_02
+Well, because you're drinking bathtub water.
+
+[00:18:21] SPEAKER_02
+Well, no, because, well, no.
+
+[00:18:23] SPEAKER_02
+So I would, when I'm carbonating, when I'm carbonating, the thing doesn't fit in the sink
+
+[00:18:29] SPEAKER_02
+where I get my tap water typically, but it does fit in the tub and it's all the same water.
+
+[00:18:36] SPEAKER_02
+There's no difference in the water.
+
+[00:18:38] SPEAKER_01
+I just don't know why he said no.
+
+[00:18:41] SPEAKER_03
+Cause, no, I understand why he says no.
+
+[00:18:44] SPEAKER_03
+Because when you say tub water, you're implying you're acting like that's a different thing.
+
+[00:18:48] SPEAKER_03
+And then got in the bathtub and then scooped a thing, scooped the, the soda stream thing
+
+[00:18:52] SPEAKER_03
+in and grabbed the water.
+
+[00:18:54] SPEAKER_03
+And all he's doing is saying he's, he's, he needs the clearance under the tub nozzle to
+
+[00:18:59] SPEAKER_03
+fill the water.
+
+[00:18:59] SPEAKER_03
+Yeah.
+
+[00:19:00] SPEAKER_03
+No, I, Andrew, I'm right here with you.
+
+[00:19:01] SPEAKER_02
+Tub water.
+
+[00:19:02] SPEAKER_02
+And also just saying tub water is different than tap.
+
+[00:19:04] SPEAKER_02
+It's the same thing.
+
+[00:19:05] SPEAKER_02
+It's the same water.
+
+[00:19:06] SPEAKER_02
+It's no different.
+
+[00:19:07] SPEAKER_02
+It's tap water.
+
+[00:19:08] SPEAKER_02
+It's all tap water.
+
+[00:19:10] SPEAKER_02
+Just one comes out of the tub.
+
+[00:19:11] SPEAKER_04
+But hot water.
+
+[00:19:13] SPEAKER_04
+Well, I guess that depends too.
+
+[00:19:14] SPEAKER_04
+Like some people's hot water comes out of a tank and it's not potable.
+
+[00:19:17] SPEAKER_99
+Oh yeah.
+
+[00:19:18] SPEAKER_03
+Not in America.
+
+[00:19:19] SPEAKER_03
+I'm not, I'm not using hot water.
+
+[00:19:20] SPEAKER_03
+I don't know what the fuck you're talking about there, but there's no hot water in a
+
+[00:19:23] SPEAKER_03
+house in America that's not potable.
+
+[00:19:25] SPEAKER_03
+You don't have a tank?
+
+[00:19:27] SPEAKER_03
+Some houses have hot water tanks or we have waterless, uh, heating systems, but you still
+
+[00:19:31] SPEAKER_03
+can drink the hot water out of your tap.
+
+[00:19:34] SPEAKER_03
+Oh.
+
+[00:19:35] SPEAKER_01
+Have you never drank the hot water out of, I mean, I guess, when would you, but have you
+
+[00:19:40] SPEAKER_01
+just been like avoiding hot water getting in your mouth forever here?
+
+[00:19:43] SPEAKER_04
+Yeah.
+
+[00:19:43] SPEAKER_04
+Well, I grew up with those.
+
+[00:19:45] SPEAKER_04
+Do you take cold showers?
+
+[00:19:48] SPEAKER_04
+I grew up with the, you know, the English taps where there's like a cold tap and a hot
+
+[00:19:51] SPEAKER_04
+tap and they're separate taps.
+
+[00:19:53] SPEAKER_02
+Uh-huh.
+
+[00:19:53] SPEAKER_04
+That's because you can't drink the hot one that you don't want to mix them.
+
+[00:19:58] SPEAKER_03
+So wait, what the fuck kind of third world country is England?
+
+[00:20:02] SPEAKER_01
+The whole time you've lived here, when you take like a hot shower, do you keep your mouth
+
+[00:20:06] SPEAKER_01
+like so closed?
+
+[00:20:08] SPEAKER_01
+I think, yeah, I think out of habit, if the water's hot, I don't it in my mouth.
+
+[00:20:13] SPEAKER_03
+It's so weird.
+
+[00:20:14] SPEAKER_03
+In America, the hotter it is, the safer it is.
+
+[00:20:16] SPEAKER_03
+That's, I mean, fucking, we boil stuff to get rid of the impurities.
+
+[00:20:20] SPEAKER_04
+Yeah, you can boil, you know, no one's stood in the shower sucking, I'm having a drink
+
+[00:20:25] SPEAKER_04
+while they're showering.
+
+[00:20:26] SPEAKER_04
+What are you talking about?
+
+[00:20:26] SPEAKER_04
+No, but we're not avoiding it because we think it's not safe to drink either.
+
+[00:20:30] SPEAKER_04
+I mean, it will get in my mouth, but I'll gauze it back out onto the floor.
+
+[00:20:33] SPEAKER_04
+I'm not going to just be like, oh, that's it.
+
+[00:20:34] SPEAKER_04
+I'm going to swallow it.
+
+[00:20:35] SPEAKER_03
+The only time I've ever had to deal with non-potable water is when I was in the fucking
+
+[00:20:40] SPEAKER_03
+deserts of Kuwait, taking a shower off the back of a truck, like a tanker truck.
+
+[00:20:45] SPEAKER_03
+That's the only time you...
+
+[00:20:46] SPEAKER_03
+It doesn't make its way into our homes, dude.
+
+[00:20:49] SPEAKER_03
+Would you drink toilet water?
+
+[00:20:50] SPEAKER_03
+Well, no, because I piss in there.
+
+[00:20:52] SPEAKER_03
+But if the water itself is coming from the same place all the other water does, like
+
+[00:20:57] SPEAKER_03
+if you get to it before it touches the pea sides, it's clean water.
+
+[00:21:01] SPEAKER_04
+I've got a scenario for you, Jeff.
+
+[00:21:03] SPEAKER_04
+Okay.
+
+[00:21:03] SPEAKER_04
+If you had to drink the tub water of someone on this podcast, whose would you take a swig
+
+[00:21:08] SPEAKER_04
+of?
+
+[00:21:12] SPEAKER_03
+Yours.
+
+[00:21:13] SPEAKER_03
+I really don't think it matters.
+
+[00:21:15] SPEAKER_03
+I think I would take it out of yours.
+
+[00:21:16] SPEAKER_03
+I feel like it would bring us closer together.
+
+[00:21:20] SPEAKER_03
+I'm quite hairy, though.
+
+[00:21:21] SPEAKER_03
+I don't think you want mine.
+
+[00:21:23] SPEAKER_03
+No, I don't.
+
+[00:21:24] SPEAKER_03
+I don't think I would enjoy it anyway, but I would pick you just because I've known you
+
+[00:21:27] SPEAKER_03
+the longest.
+
+[00:21:28] SPEAKER_03
+It's like a 10-year thing?
+
+[00:21:30] SPEAKER_03
+Yeah, it's a 10-year thing.
+
+[00:21:31] SPEAKER_03
+I'm the most comfortable around you because of that, and I just feel like our friendship
+
+[00:21:35] SPEAKER_03
+would have the best chance of survival after.
+
+[00:21:38] SPEAKER_02
+Now, when you say that, Gavin, are you saying it in the context that I'm using it?
+
+[00:21:41] SPEAKER_02
+That I'm filling my bottle with water?
+
+[00:21:43] SPEAKER_02
+Like, I'm just, I'm using the tap in the tub?
+
+[00:21:46] SPEAKER_02
+Because if so, it really doesn't matter.
+
+[00:21:47] SPEAKER_02
+Wait, what?
+
+[00:21:48] SPEAKER_02
+So I'm leaning in the tub, right?
+
+[00:21:51] SPEAKER_02
+Like, I twist the knob for cold water, and then I stand next to the tub, and I put it
+
+[00:21:56] SPEAKER_02
+underneath the thing where the water comes out, and then I fill it and I leave.
+
+[00:22:01] SPEAKER_04
+No, you're just dunking your cup or bottle into someone's bath.
+
+[00:22:06] SPEAKER_02
+Oh, no.
+
+[00:22:07] SPEAKER_03
+Okay, that, yeah.
+
+[00:22:08] SPEAKER_03
+That's, mm.
+
+[00:22:08] SPEAKER_03
+Is there soap in the bath?
+
+[00:22:10] SPEAKER_03
+No.
+
+[00:22:11] SPEAKER_03
+Oh, but they've been in the bath.
+
+[00:22:13] SPEAKER_03
+They just have been in without products.
+
+[00:22:15] SPEAKER_04
+Yeah, but I feel like Andrews would be the strongest, because he stews for longer.
+
+[00:22:21] SPEAKER_04
+Interesting.
+
+[00:22:22] SPEAKER_04
+Yeah.
+
+[00:22:23] SPEAKER_04
+He's overly steeped.
+
+[00:22:25] SPEAKER_03
+Who do you think makes the least powerful water?
+
+[00:22:29] SPEAKER_04
+Probably whoever takes the quickest bath.
+
+[00:22:32] SPEAKER_99
+Oh, yeah.
+
+[00:22:32] SPEAKER_04
+Probably me, then.
+
+[00:22:34] SPEAKER_03
+You got a speed bath?
+
+[00:22:35] SPEAKER_03
+I got army in me, you know?
+
+[00:22:37] SPEAKER_03
+I can't eat or bathe longer than, like, 30 seconds.
+
+[00:22:39] SPEAKER_03
+I gotta get it fucking in and out.
+
+[00:22:41] SPEAKER_01
+When was the last time you sat in a bath, Jeff?
+
+[00:22:43] SPEAKER_01
+Like, you took a bath bath?
+
+[00:22:44] SPEAKER_03
+I took a bath maybe a month ago, because I was sore, and I wanted to, oh, it's because
+
+[00:22:53] SPEAKER_03
+of diverticulitis.
+
+[00:22:54] SPEAKER_03
+About a month ago, I had a diverticulitis flare-up, and sometimes it helps to lay in the
+
+[00:22:59] SPEAKER_03
+bathtub in hot water for a little while.
+
+[00:23:02] SPEAKER_03
+But before that, maybe, I would say I take two baths a year, maybe.
+
+[00:23:06] SPEAKER_03
+Wow.
+
+[00:23:07] SPEAKER_03
+And it's always like, oh, I fucking pulled a muscle, and I need to lay in hot water with
+
+[00:23:12] SPEAKER_03
+Epsom salt or something to relax.
+
+[00:23:15] SPEAKER_03
+Yeah.
+
+[00:23:15] SPEAKER_03
+Probably no more than two a year.
+
+[00:23:17] SPEAKER_02
+When I went into this story, I never thought it would lead into Gavin being weird.
+
+[00:23:21] SPEAKER_02
+A Gavin weirdness being exposed.
+
+[00:23:23] SPEAKER_02
+That was not the direction I was anticipating.
+
+[00:23:25] SPEAKER_02
+What was I doing that was weird?
+
+[00:23:26] SPEAKER_02
+What do you mean?
+
+[00:23:27] SPEAKER_02
+Not drinking hot water?
+
+[00:23:29] SPEAKER_02
+Avoiding all hot water?
+
+[00:23:30] SPEAKER_02
+You're thinking it's not safe?
+
+[00:23:31] SPEAKER_02
+That's an odd thing.
+
+[00:23:33] SPEAKER_02
+I understand your context with it.
+
+[00:23:35] SPEAKER_04
+It's gross, too.
+
+[00:23:35] SPEAKER_04
+I mean, I'll drink boiled water, but just hot water?
+
+[00:23:40] SPEAKER_04
+What's that for?
+
+[00:23:42] SPEAKER_04
+Lukewarm, but like, warm water?
+
+[00:23:45] SPEAKER_04
+Tastes like shit.
+
+[00:23:46] SPEAKER_04
+It has.
+
+[00:23:47] SPEAKER_02
+Yeah.
+
+[00:23:47] SPEAKER_02
+I'm not a fan of hot beverages in general.
+
+[00:23:50] SPEAKER_02
+I mean, I'm just, I prefer cold.
+
+[00:23:53] SPEAKER_02
+But I just, I never thought, that's so weird.
+
+[00:23:55] SPEAKER_02
+The idea that you can't drink half your water is fascinating.
+
+[00:23:58] SPEAKER_03
+It's not that he can't drink it, it's that he can't drink it based on a false premise.
+
+[00:24:07] SPEAKER_02
+What I've learned in this process is it really hurt my streaming.
+
+[00:24:10] SPEAKER_02
+Like, I've got a lot of, I don't even know, syrup, I guess, that I can mix with.
+
+[00:24:15] SPEAKER_02
+But I haven't been doing it at the ratio, because I want to try it being cold, but I can't.
+
+[00:24:21] SPEAKER_02
+It takes too long to be cold.
+
+[00:24:22] SPEAKER_02
+And it'd be nice to just, like, prep bottles ahead of time for carbonation.
+
+[00:24:26] SPEAKER_02
+And I'm scared to carbonate the water and then leave it, because I feel like it'll get stale, like you guys were saying before.
+
+[00:24:34] SPEAKER_02
+So I've been trying to find a solution for that, and I haven't found it yet.
+
+[00:24:38] SPEAKER_02
+I did do some deep diving into if you could buy water purifiers for your bathtub, and they do not exist in the way that I need them to.
+
+[00:24:47] SPEAKER_03
+Well, there we go.
+
+[00:24:48] SPEAKER_03
+It is like a market we could get into.
+
+[00:24:50] SPEAKER_02
+It's like salt bags you could put on the front.
+
+[00:24:52] SPEAKER_02
+Like, it is more a cosmetic thing, but it's like adding to the water.
+
+[00:24:56] SPEAKER_02
+I haven't been able to find just, like, a Brita for your tub.
+
+[00:24:59] SPEAKER_02
+Why would you, who would need that?
+
+[00:25:02] SPEAKER_02
+I do.
+
+[00:25:04] SPEAKER_02
+Just because you don't like changing floors.
+
+[00:25:07] SPEAKER_02
+Yeah, well, it's just, it would be more convenient.
+
+[00:25:09] SPEAKER_02
+Why don't you just move your room downstairs?
+
+[00:25:12] SPEAKER_02
+Well, I have my stuff, my work set up, my office, it wouldn't work.
+
+[00:25:15] SPEAKER_02
+It's an open concept downstairs.
+
+[00:25:18] SPEAKER_02
+Yelling all throughout.
+
+[00:25:20] SPEAKER_02
+I need space.
+
+[00:25:21] SPEAKER_02
+I need a little, I need a corner.
+
+[00:25:22] SPEAKER_02
+I wouldn't be able to fit the, uh, I don't know, my two Xboxes, my three Xboxes.
+
+[00:25:31] SPEAKER_02
+It's just an Xbox city over here.
+
+[00:25:33] SPEAKER_02
+I can't do that downstairs.
+
+[00:25:34] SPEAKER_02
+I also don't want to be next to the kitchen.
+
+[00:25:36] SPEAKER_02
+It's just, that's a busy place to be.
+
+[00:25:40] SPEAKER_02
+I'd rather just have my own fake kitchen upstairs with my Brita.
+
+[00:25:44] SPEAKER_02
+I think I'm going to get, you can get, uh, like jug Britas, right?
+
+[00:25:49] SPEAKER_02
+Yeah.
+
+[00:25:49] SPEAKER_02
+I think that might be.
+
+[00:25:50] SPEAKER_02
+I used to have one.
+
+[00:25:50] SPEAKER_04
+They're fine.
+
+[00:25:51] SPEAKER_02
+They're fine.
+
+[00:25:52] SPEAKER_02
+Okay.
+
+[00:25:53] SPEAKER_04
+What if you run a hose from the downstairs kitchen out of the house, up the side of the wall
+
+[00:26:00] SPEAKER_04
+and into your room?
+
+[00:26:01] SPEAKER_02
+Well, the problem with the hose is that the, you have to be at the source to turn it on
+
+[00:26:05] SPEAKER_02
+or off.
+
+[00:26:05] SPEAKER_02
+No, no, no.
+
+[00:26:06] SPEAKER_02
+Leave it on and then just cork it.
+
+[00:26:09] SPEAKER_02
+You mean like one of those hoses where you can like twist the, the knob to like have the
+
+[00:26:15] SPEAKER_02
+flow go or not go?
+
+[00:26:17] SPEAKER_02
+Yeah.
+
+[00:26:17] SPEAKER_02
+Is that, if I leave the water running, is it just, I get, mm.
+
+[00:26:21] SPEAKER_02
+Um, environmentally, like what are we, what are we talking about for the environment with
+
+[00:26:25] SPEAKER_02
+that?
+
+[00:26:25] SPEAKER_04
+Is that bad?
+
+[00:26:26] SPEAKER_04
+The environment is, there's no war coming up.
+
+[00:26:28] SPEAKER_01
+I think you should just get one of these guns and then have that running.
+
+[00:26:32] SPEAKER_01
+That's how you fill up your bottles and get water.
+
+[00:26:36] SPEAKER_01
+Because you can do like a light mist if you get warm and then you can do like the heavy
+
+[00:26:41] SPEAKER_01
+stream to fill up a bottle.
+
+[00:26:42] SPEAKER_01
+You know what I mean?
+
+[00:26:43] SPEAKER_04
+Explain to me what you think is happening with the environment if you leave that one.
+
+[00:26:47] SPEAKER_02
+But I just, I don't, the water is where I'm saying, hey water, get in here, keep on getting
+
+[00:26:52] SPEAKER_02
+in here, but there's nowhere for it to go.
+
+[00:26:55] SPEAKER_03
+Here's what can happen because this happened to me literally yesterday.
+
+[00:27:00] SPEAKER_03
+I was giving my dog a bath because he dug a fucking hole in the yard and got covered
+
+[00:27:05] SPEAKER_03
+in dirt and mud.
+
+[00:27:06] SPEAKER_03
+And so I was giving my dog a bath and I have one of those stupid hoses you see on TV that's
+
+[00:27:12] SPEAKER_03
+all tiny and then you put water and it goes like, and it gets big, you know?
+
+[00:27:17] SPEAKER_03
+Mine exploded.
+
+[00:27:18] SPEAKER_03
+Yeah.
+
+[00:27:18] SPEAKER_03
+Well, I had one of those and I had a little nozzle attached to the end of it that you
+
+[00:27:23] SPEAKER_03
+put like dog soap in and then you can spray your dog with it and stuff.
+
+[00:27:26] SPEAKER_03
+And I set it down for a minute and I went inside to get a towel or something and I came
+
+[00:27:29] SPEAKER_03
+back out a few minutes later and there was just water pouring everywhere and my entire
+
+[00:27:33] SPEAKER_03
+backyard was covered in water and I couldn't figure it out and I ran over and I turned
+
+[00:27:35] SPEAKER_03
+it off and that fucking hose exploded.
+
+[00:27:38] SPEAKER_03
+Yours went as well?
+
+[00:27:39] SPEAKER_03
+It just exploded.
+
+[00:27:40] SPEAKER_03
+Yeah.
+
+[00:27:40] SPEAKER_03
+Just like yours did.
+
+[00:27:41] SPEAKER_03
+And it was creating the biggest fucking mess I've ever seen in my life.
+
+[00:27:46] SPEAKER_03
+It was crazy.
+
+[00:27:46] SPEAKER_03
+And it had been, it had just been left arm like 20 minutes.
+
+[00:27:49] SPEAKER_03
+That's our second exploded hose tale.
+
+[00:27:52] SPEAKER_04
+So now we've got one for each podcast.
+
+[00:27:54] SPEAKER_04
+Yeah.
+
+[00:27:55] SPEAKER_04
+That's crazy.
+
+[00:27:56] SPEAKER_04
+I wonder whose hose is going to explode next.
+
+[00:27:58] SPEAKER_04
+Well, hopefully not Andrew's because it will explode in his office.
+
+[00:28:01] SPEAKER_02
+Here, I'm going to draw a design of what, where I think the water might be going
+
+[00:28:04] SPEAKER_02
+to why it would be environmentally bad.
+
+[00:28:06] SPEAKER_02
+Hell yeah.
+
+[00:28:06] SPEAKER_02
+Okay.
+
+[00:28:09] SPEAKER_01
+So this is my favorite conversation we've ever had.
+
+[00:28:14] SPEAKER_01
+Just everything that started that, the way that it started with Andrew filling up his
+
+[00:28:19] SPEAKER_01
+bottle in the tub to Gavin not drinking hot water to now running a hose and Andrew drawing
+
+[00:28:26] SPEAKER_01
+a diagram about how this might not be environmentally.
+
+[00:28:29] SPEAKER_04
+I feel like we haven't lost it between podcasts.
+
+[00:28:34] SPEAKER_02
+This is my drawing.
+
+[00:28:36] SPEAKER_02
+I, I, I didn't know I needed an image to draw on top of.
+
+[00:28:41] SPEAKER_02
+So just ignore the primary point of the image.
+
+[00:28:48] SPEAKER_02
+This is the only way I know how to draw stuff is by putting it into messenger and then drawing
+
+[00:28:52] SPEAKER_02
+over an image that was placed.
+
+[00:28:56] SPEAKER_03
+Hey, before, before we end the podcast while he's uploading this, uh, we should remember
+
+[00:29:00] SPEAKER_03
+to talk about the last month.
+
+[00:29:03] SPEAKER_03
+Now that we're on the other end of it, we can like, yeah, so everything.
+
+[00:29:06] SPEAKER_02
+Well, we're only halfway through.
+
+[00:29:07] SPEAKER_02
+We got, we got tons of time.
+
+[00:29:08] SPEAKER_03
+I know.
+
+[00:29:09] SPEAKER_03
+I'm just giving us a little note to make sure we don't forget.
+
+[00:29:11] SPEAKER_01
+Do you think we were like 30 minutes, dude?
+
+[00:29:14] SPEAKER_01
+Okay.
+
+[00:29:15] SPEAKER_01
+So this is my drawing.
+
+[00:29:16] SPEAKER_01
+So you've drawn on a screenshot.
+
+[00:29:22] SPEAKER_02
+So this is, as I said, ignore the background image.
+
+[00:29:27] SPEAKER_02
+I just, I needed something white.
+
+[00:29:29] SPEAKER_02
+You are an animal.
+
+[00:29:30] SPEAKER_02
+To illustrate this.
+
+[00:29:31] SPEAKER_04
+Have you heard of cropping?
+
+[00:29:32] SPEAKER_04
+Have you heard of just like take a screenshot of something white?
+
+[00:29:35] SPEAKER_02
+We're on a podcast and I didn't have time to crop.
+
+[00:29:38] SPEAKER_02
+Take a picture of the damn wall and draw that white.
+
+[00:29:41] SPEAKER_02
+Well, I did it.
+
+[00:29:42] SPEAKER_02
+It doesn't matter.
+
+[00:29:44] SPEAKER_02
+Just ignore it.
+
+[00:29:44] SPEAKER_02
+I'm more interested in you just drew an L.
+
+[00:29:48] SPEAKER_02
+Yeah.
+
+[00:29:49] SPEAKER_02
+So this is, this is what I'm thinking, right?
+
+[00:29:51] SPEAKER_02
+So I twist the thing and I say, hey, water, get in here.
+
+[00:29:54] SPEAKER_02
+Come in here.
+
+[00:29:55] SPEAKER_02
+And you see the light green line.
+
+[00:29:59] SPEAKER_02
+Yeah.
+
+[00:30:00] SPEAKER_02
+That's the hose.
+
+[00:30:01] SPEAKER_02
+So the water's going up the hose and it's not going out because I have the thing saying,
+
+[00:30:06] SPEAKER_02
+hey, don't get out of here.
+
+[00:30:08] SPEAKER_04
+So the left side is the like use the end.
+
+[00:30:11] SPEAKER_02
+Yes.
+
+[00:30:11] SPEAKER_02
+That's the user.
+
+[00:30:12] SPEAKER_02
+And that would be where I could flip the nozzle.
+
+[00:30:14] SPEAKER_02
+Or does the switch and the water goes and fires?
+
+[00:30:19] SPEAKER_02
+What I don't know is it does the water continue to flow?
+
+[00:30:23] SPEAKER_02
+And because it continues to flow, obviously it can't flow further into the hose.
+
+[00:30:27] SPEAKER_02
+Why?
+
+[00:30:27] SPEAKER_02
+Because there's no room.
+
+[00:30:29] SPEAKER_02
+Does it?
+
+[00:30:30] SPEAKER_02
+Well, I don't know where.
+
+[00:30:31] SPEAKER_02
+When I.
+
+[00:30:32] SPEAKER_02
+Okay.
+
+[00:30:32] SPEAKER_02
+So let me ask you this.
+
+[00:30:33] SPEAKER_04
+Yeah.
+
+[00:30:34] SPEAKER_04
+When you've got like a tap and a, let's say you've got an outdoor tap, usually has a hose
+
+[00:30:39] SPEAKER_04
+on it.
+
+[00:30:40] SPEAKER_04
+Yeah.
+
+[00:30:40] SPEAKER_04
+Take the hose off.
+
+[00:30:41] SPEAKER_04
+Forget about that hose.
+
+[00:30:42] SPEAKER_04
+Okay.
+
+[00:30:43] SPEAKER_04
+There's water pressure, right?
+
+[00:30:44] SPEAKER_04
+It wants to leave the tap, but your tap, if you turn it off, it just, it blocks, it blocks
+
+[00:30:50] SPEAKER_04
+the water.
+
+[00:30:51] SPEAKER_04
+Yeah.
+
+[00:30:52] SPEAKER_04
+You're just doing that, but further up.
+
+[00:30:55] SPEAKER_02
+Well, no, I, so when I look at, when I look at an outside water tap, right?
+
+[00:31:02] SPEAKER_02
+Yeah.
+
+[00:31:02] SPEAKER_02
+When I look at a tap, I know that if I twist that nozzle, that means water comes out.
+
+[00:31:08] SPEAKER_02
+I don't know what's happening behind that.
+
+[00:31:11] SPEAKER_02
+But you're not making water from that.
+
+[00:31:14] SPEAKER_03
+Do you know how a nozzle works?
+
+[00:31:16] SPEAKER_03
+No, I have no idea how a nozzle works.
+
+[00:31:19] SPEAKER_03
+That's like a door, man.
+
+[00:31:20] SPEAKER_03
+It's just a fucking water door.
+
+[00:31:23] SPEAKER_03
+All it does is open and close.
+
+[00:31:26] SPEAKER_03
+It just opens a hole in the pipe to allow the water.
+
+[00:31:29] SPEAKER_03
+So the water is always going.
+
+[00:31:30] SPEAKER_03
+The water is at the door.
+
+[00:31:31] SPEAKER_03
+It's like Hodor.
+
+[00:31:32] SPEAKER_03
+The water is at the door the whole time and the, and the spigot is Hodor and he's
+
+[00:31:36] SPEAKER_03
+just holding the door.
+
+[00:31:37] SPEAKER_03
+He's holding the water back and he's holding the water back so that all the fucking, the
+
+[00:31:41] SPEAKER_03
+wildlings or whoever can fucking escape.
+
+[00:31:43] SPEAKER_03
+And, and then every once in a while you turn the hose and Hodor lets the water out.
+
+[00:31:48] SPEAKER_04
+The only way it's bad for the environment is if Hodor is kind of weak and he's, he's
+
+[00:31:53] SPEAKER_04
+leaking a little.
+
+[00:31:54] SPEAKER_02
+Yeah.
+
+[00:31:55] SPEAKER_02
+Okay.
+
+[00:31:56] SPEAKER_03
+So as long as there's no leak, you just got to make sure Hodor has all of his, uh, what
+
+[00:32:02] SPEAKER_03
+do you call those little plat, those little rubber rings?
+
+[00:32:05] SPEAKER_03
+Yeah.
+
+[00:32:05] SPEAKER_03
+His, uh, seals.
+
+[00:32:06] SPEAKER_03
+You got to make sure.
+
+[00:32:07] SPEAKER_03
+His O-rings?
+
+[00:32:07] SPEAKER_03
+His O-rings.
+
+[00:32:09] SPEAKER_03
+His, his, his hoes.
+
+[00:32:09] SPEAKER_03
+His O-rings.
+
+[00:32:10] SPEAKER_03
+His O-rings.
+
+[00:32:14] SPEAKER_03
+This is stupid.
+
+[00:32:16] SPEAKER_03
+It'd be nice if they did a Brita hose.
+
+[00:32:17] SPEAKER_03
+Fucking Selmas.
+
+[00:32:18] SPEAKER_03
+This is a fucking, maybe you need to reinvent the hose, Andrew.
+
+[00:32:21] SPEAKER_03
+Maybe, maybe that's.
+
+[00:32:22] SPEAKER_03
+No, I don't.
+
+[00:32:23] SPEAKER_03
+Okay.
+
+[00:32:23] SPEAKER_03
+I don't understand any of this.
+
+[00:32:25] SPEAKER_01
+I was going to say you wanted to reinvent the hose.
+
+[00:32:28] SPEAKER_01
+You didn't know how, like, a faucet works.
+
+[00:32:30] SPEAKER_04
+Yeah.
+
+[00:32:30] SPEAKER_01
+What are you talking about?
+
+[00:32:31] SPEAKER_04
+You could rig that up, Andrew.
+
+[00:32:33] SPEAKER_04
+You could, how far is the kitchen from where you're sitting?
+
+[00:32:36] SPEAKER_02
+Uh, it's, oh, that's, uh.
+
+[00:32:40] SPEAKER_02
+Does the kitchen have a window?
+
+[00:32:42] SPEAKER_02
+Oh, I, no.
+
+[00:32:43] SPEAKER_02
+Well, it's summer.
+
+[00:32:44] SPEAKER_02
+The flies.
+
+[00:32:44] SPEAKER_02
+I can't.
+
+[00:32:46] SPEAKER_02
+There's a door.
+
+[00:32:47] SPEAKER_02
+I can run it from one door to another door.
+
+[00:32:51] SPEAKER_02
+On the inside?
+
+[00:32:52] SPEAKER_02
+Well, there's patios.
+
+[00:32:55] SPEAKER_04
+Okay.
+
+[00:32:55] SPEAKER_02
+There's a patio situation.
+
+[00:32:56] SPEAKER_04
+And then could you.
+
+[00:32:59] SPEAKER_02
+Okay, so Jeff just posted an image of how this works.
+
+[00:33:02] SPEAKER_02
+So the, where, where does the water go at the bottom?
+
+[00:33:06] SPEAKER_04
+It's just, it's just not going to help.
+
+[00:33:07] SPEAKER_02
+It's just, it's just there.
+
+[00:33:08] SPEAKER_02
+It doesn't go anywhere.
+
+[00:33:09] SPEAKER_03
+It's just hanging out there.
+
+[00:33:10] SPEAKER_03
+It's pushing up against the door.
+
+[00:33:11] SPEAKER_03
+That's, that, how, that's the, that little red screw.
+
+[00:33:16] SPEAKER_03
+That's Hodor, man.
+
+[00:33:17] SPEAKER_03
+It's water pressure from the water company.
+
+[00:33:22] SPEAKER_02
+Yeah, but, well, wait, the, wait, the company, the water company is providing pressure?
+
+[00:33:28] SPEAKER_04
+Well, I assume the reservoir or whatever water management thing at the other end of the pipe is pushing water.
+
+[00:33:34] SPEAKER_02
+Okay, so let's say I don't pay my water bill.
+
+[00:33:37] SPEAKER_02
+When they shut off my water, what are they doing?
+
+[00:33:41] SPEAKER_03
+They go out to the street in front of your house where there is a shutoff valve and they shut it off at the street so that, they, they Hodor it right there.
+
+[00:33:50] SPEAKER_03
+And then, so the water can't even get to your, yeah, it's all it is.
+
+[00:33:54] SPEAKER_03
+It's a series of doors and pipes.
+
+[00:33:56] SPEAKER_04
+What is stopping you from just going out there and turning it back on with that big, long thing?
+
+[00:34:02] SPEAKER_03
+They might lock it or something.
+
+[00:34:04] SPEAKER_03
+I don't know.
+
+[00:34:05] SPEAKER_03
+Also, probably it's, you probably, I don't know, it's against the law, I would assume.
+
+[00:34:09] SPEAKER_03
+Stealing what?
+
+[00:34:10] SPEAKER_03
+I don't even know where I'd find it.
+
+[00:34:11] SPEAKER_03
+I assumed it was in my house, to be honest.
+
+[00:34:13] SPEAKER_03
+Most people don't know where to find it.
+
+[00:34:14] SPEAKER_03
+There's a bunch of them in your house.
+
+[00:34:15] SPEAKER_03
+There's one under your sink that you can turn off right now.
+
+[00:34:20] SPEAKER_03
+There's all kinds of doors along a water pipe.
+
+[00:34:23] SPEAKER_01
+There's one right next to the toilet.
+
+[00:34:25] SPEAKER_03
+Yeah, there's one behind the toilet.
+
+[00:34:27] SPEAKER_03
+There's one, there's one next to every faucet.
+
+[00:34:30] SPEAKER_03
+There's one at the faucet and five feet in front of the faucet and everywhere in your house.
+
+[00:34:35] SPEAKER_02
+How do they make sure that the water pressure isn't so much that it pushes in the door?
+
+[00:34:40] SPEAKER_02
+How is that prevented?
+
+[00:34:44] SPEAKER_04
+Science.
+
+[00:34:45] SPEAKER_02
+Great.
+
+[00:34:46] SPEAKER_02
+Okay.
+
+[00:34:47] SPEAKER_02
+Thanks.
+
+[00:34:47] SPEAKER_04
+Well, a lot of valves can be closed, like, from the pressure.
+
+[00:34:52] SPEAKER_04
+Like, the pressure keeps them closed.
+
+[00:34:53] SPEAKER_04
+And then you have to push them open.
+
+[00:34:56] SPEAKER_01
+A thing that we have happen in Austin that I've never had happen before I moved here
+
+[00:35:01] SPEAKER_01
+is that so much water gets into the treatment plant when it rains
+
+[00:35:08] SPEAKER_01
+that they can't clean it in time for it to get to you, Andrew.
+
+[00:35:12] SPEAKER_01
+So we have a boil notice.
+
+[00:35:15] SPEAKER_01
+And for, like, 10 days, you have to boil your water because it makes it not potable.
+
+[00:35:20] SPEAKER_01
+Yes.
+
+[00:35:20] SPEAKER_01
+It gets overwhelmed by the amount of water.
+
+[00:35:22] SPEAKER_01
+Yes.
+
+[00:35:23] SPEAKER_01
+Exactly.
+
+[00:35:23] SPEAKER_01
+So it's a very intricate system.
+
+[00:35:25] SPEAKER_01
+Water is an intricate series of doors.
+
+[00:35:28] SPEAKER_01
+Yeah, it is.
+
+[00:35:29] SPEAKER_01
+But when God says more, then we're fucked.
+
+[00:35:31] SPEAKER_04
+And sometimes it's too full of bacteria from people's butts.
+
+[00:35:35] SPEAKER_03
+And all this shit, all of this shit the Romans figured out thousands of years ago
+
+[00:35:41] SPEAKER_03
+without any electricity or technology.
+
+[00:35:43] SPEAKER_02
+That's crazy.
+
+[00:35:45] SPEAKER_02
+I don't believe that.
+
+[00:35:46] SPEAKER_02
+You should.
+
+[00:35:48] SPEAKER_02
+Well, I do believe it.
+
+[00:35:49] SPEAKER_02
+Like, let me be clear.
+
+[00:35:51] SPEAKER_02
+I'm not saying what you're saying is a lie.
+
+[00:35:52] SPEAKER_02
+I'm not a water conspiracy theorist.
+
+[00:35:55] SPEAKER_02
+I just, it's crazy.
+
+[00:35:56] SPEAKER_02
+Water is a real.
+
+[00:35:57] SPEAKER_04
+That they figured it out back then.
+
+[00:35:57] SPEAKER_04
+I want to just go around your house with you and just point at stuff and be like, how
+
+[00:36:02] SPEAKER_04
+does that work?
+
+[00:36:04] SPEAKER_02
+Uh, yeah.
+
+[00:36:05] SPEAKER_02
+No, you can do that.
+
+[00:36:07] SPEAKER_02
+Light switches.
+
+[00:36:08] SPEAKER_02
+I got no idea.
+
+[00:36:09] SPEAKER_02
+That would be a great supplement around my room.
+
+[00:36:11] SPEAKER_03
+Andrew explains things.
+
+[00:36:13] SPEAKER_02
+You know what's funny is I've swapped, I've, like, installed dimmers before, but I don't
+
+[00:36:18] SPEAKER_02
+know how any of it works.
+
+[00:36:20] SPEAKER_02
+Like, I've put in new switches, but I don't know.
+
+[00:36:23] SPEAKER_04
+I'm going to go ahead and say that you shouldn't ever do that.
+
+[00:36:26] SPEAKER_04
+Yeah.
+
+[00:36:27] SPEAKER_02
+No, I know how to do it.
+
+[00:36:28] SPEAKER_02
+You turn the breaker off.
+
+[00:36:29] SPEAKER_02
+You unscrew it.
+
+[00:36:29] SPEAKER_02
+Yeah, yeah, yeah.
+
+[00:36:30] SPEAKER_02
+You loop-de-loops.
+
+[00:36:31] SPEAKER_03
+But you shouldn't.
+
+[00:36:31] SPEAKER_03
+You know, it's fine.
+
+[00:36:32] SPEAKER_03
+It's really not that different from water.
+
+[00:36:35] SPEAKER_03
+It's, the breakers are just doors.
+
+[00:36:37] SPEAKER_03
+It's all doors.
+
+[00:36:38] SPEAKER_03
+Opening and closing electric current.
+
+[00:36:40] SPEAKER_03
+Yeah.
+
+[00:36:41] SPEAKER_04
+I think in, uh, is it Australia?
+
+[00:36:43] SPEAKER_04
+You're not allowed to do your own electricianing.
+
+[00:36:47] SPEAKER_02
+Really?
+
+[00:36:48] SPEAKER_04
+Yeah.
+
+[00:36:49] SPEAKER_02
+What if you are an electrician?
+
+[00:36:51] SPEAKER_04
+Then I think it's fine.
+
+[00:36:53] SPEAKER_02
+Okay.
+
+[00:36:54] SPEAKER_02
+It'd be a weird rule if you were an electrician and you had to hire somebody else.
+
+[00:36:58] SPEAKER_02
+You had to hire someone at the place you work.
+
+[00:37:01] SPEAKER_04
+How are your dimmers, by the way?
+
+[00:37:03] SPEAKER_02
+I haven't had a dimmer in a long time, but I have installed them in the past, and they've
+
+[00:37:07] SPEAKER_02
+always worked.
+
+[00:37:08] SPEAKER_02
+Sweet.
+
+[00:37:09] SPEAKER_02
+Never, I've never had a fire, uh, related to dimmers.
+
+[00:37:13] SPEAKER_04
+Just related to desk dogs.
+
+[00:37:15] SPEAKER_02
+Desk dogs, yeah.
+
+[00:37:16] SPEAKER_02
+That was a problem.
+
+[00:37:18] SPEAKER_02
+Um, I'm trying to think.
+
+[00:37:19] SPEAKER_02
+Any other fires?
+
+[00:37:20] SPEAKER_04
+I think the hose, the hose in, in the window of the room you're in now, I think that's
+
+[00:37:24] SPEAKER_04
+going to do wonders for you if you set that up.
+
+[00:37:27] SPEAKER_04
+I agree.
+
+[00:37:27] SPEAKER_04
+I think you'll love that.
+
+[00:37:28] SPEAKER_02
+The problem, yeah.
+
+[00:37:30] SPEAKER_02
+I'm worried someone's going to steal the hose.
+
+[00:37:32] SPEAKER_02
+But that's fine.
+
+[00:37:34] SPEAKER_02
+Because I had my doorbell stolen.
+
+[00:37:36] SPEAKER_03
+Well, how are they going to steal it?
+
+[00:37:38] SPEAKER_03
+Like, if you see the hose starting to, you see it starting to pull backwards towards the
+
+[00:37:43] SPEAKER_03
+window, just grab it.
+
+[00:37:44] SPEAKER_04
+And then you get to play a fun game of tug of war with a thief.
+
+[00:37:46] SPEAKER_04
+Attach a bell to it on the other end so you can hear it being stolen.
+
+[00:37:50] SPEAKER_02
+Tie it around a table leg.
+
+[00:37:53] SPEAKER_02
+No, I'm going to be, I'm going to be laying in my bed with my headphones on with a waterfall
+
+[00:37:59] SPEAKER_02
+going out of my head.
+
+[00:38:00] SPEAKER_02
+I'm not hearing my hose getting stolen no matter the amount of bells.
+
+[00:38:04] SPEAKER_04
+Imagine if someone stole it while you were using it.
+
+[00:38:07] SPEAKER_02
+This gets ripped out of your head.
+
+[00:38:11] SPEAKER_02
+There's water just shooting everywhere.
+
+[00:38:18] SPEAKER_02
+You've got to do this, Andrew.
+
+[00:38:21] SPEAKER_02
+I'll evaluate and I'll see.
+
+[00:38:23] SPEAKER_02
+It would be a really long hose.
+
+[00:38:25] SPEAKER_03
+It's going to solve so many problems you didn't even know you had.
+
+[00:38:28] SPEAKER_03
+Just think of all the unintended benefits.
+
+[00:38:32] SPEAKER_02
+I'm trying to think.
+
+[00:38:34] SPEAKER_02
+Yeah.
+
+[00:38:34] SPEAKER_03
+Like you, you won't even know it till in the moment.
+
+[00:38:36] SPEAKER_03
+And then you'd be like, oh, you know what?
+
+[00:38:37] SPEAKER_03
+This is, you know what?
+
+[00:38:37] SPEAKER_03
+It would be great if I had a hose.
+
+[00:38:38] SPEAKER_03
+I do.
+
+[00:38:39] SPEAKER_03
+And then you're going to be like, oh, this is a chalk another one up for good idea.
+
+[00:38:43] SPEAKER_04
+You'll be so much more hydrated as well.
+
+[00:38:45] SPEAKER_04
+Because I feel like sometimes you might be feeling a bit thirsty, but then you're just
+
+[00:38:48] SPEAKER_04
+like, nah.
+
+[00:38:49] SPEAKER_04
+Yeah.
+
+[00:38:49] SPEAKER_03
+And the nice thing about a hose is it can put that water in you fast.
+
+[00:38:54] SPEAKER_02
+Okay.
+
+[00:38:55] SPEAKER_02
+So realistically, a good use of this would be, and I just can't, I think it's a bad idea.
+
+[00:39:00] SPEAKER_02
+I'm not supposed to, but an inflatable hot tub would be great on the patio and it would
+
+[00:39:06] SPEAKER_02
+be very tight.
+
+[00:39:07] SPEAKER_02
+There'd not be a lot of room for it.
+
+[00:39:08] SPEAKER_02
+I'm not supposed to do something like that.
+
+[00:39:10] SPEAKER_04
+Are you talking like on your balcony?
+
+[00:39:12] SPEAKER_02
+Yeah.
+
+[00:39:13] SPEAKER_02
+Yeah.
+
+[00:39:13] SPEAKER_02
+That'd be real nice.
+
+[00:39:14] SPEAKER_04
+I think you can support the weight of a hot tub.
+
+[00:39:17] SPEAKER_02
+An inflatable hot tub.
+
+[00:39:20] SPEAKER_02
+Yes.
+
+[00:39:21] SPEAKER_02
+Well, most of the weight's going to be in the water probably, I would think.
+
+[00:39:26] SPEAKER_02
+Well, it's, you know, they're pretty big as well.
+
+[00:39:28] SPEAKER_02
+I see what you're saying.
+
+[00:39:29] SPEAKER_02
+What's below your balcony?
+
+[00:39:30] SPEAKER_02
+Another balcony.
+
+[00:39:32] SPEAKER_04
+Yeah.
+
+[00:39:32] SPEAKER_02
+You might want to warn them to be very wet balcony.
+
+[00:39:35] SPEAKER_03
+But it's my balcony.
+
+[00:39:36] SPEAKER_01
+Oh, oh, you're fine.
+
+[00:39:38] SPEAKER_01
+Well, you should warn yourself.
+
+[00:39:40] SPEAKER_01
+I do want to note that full of water and people inflatable hot tubs can easily weigh
+
+[00:39:45] SPEAKER_01
+up to 2,500 pounds.
+
+[00:39:47] SPEAKER_01
+So just do less people and a little less water.
+
+[00:39:50] SPEAKER_01
+It's over a ton.
+
+[00:39:50] SPEAKER_01
+Get it down to about 2K and you're good, dude.
+
+[00:39:52] SPEAKER_03
+Do you happen to know, can your balcony support the weight of a car?
+
+[00:39:59] SPEAKER_03
+Because that's about what that is.
+
+[00:40:01] SPEAKER_03
+Why wouldn't it be able to?
+
+[00:40:02] SPEAKER_03
+I don't know.
+
+[00:40:03] SPEAKER_03
+That's what I'm asking.
+
+[00:40:04] SPEAKER_03
+If you think it can support a car, then it's, like, if you could put, like, a Nissan
+
+[00:40:09] SPEAKER_03
+Sentra on it, I think you can put a hot tub.
+
+[00:40:12] SPEAKER_02
+I think, yeah, I think I'm probably just a bad read on that.
+
+[00:40:16] SPEAKER_02
+Because in my head, it's sturdy.
+
+[00:40:19] SPEAKER_04
+Is it held up by, like, beams from below or is it just hanging out of the side of the
+
+[00:40:22] SPEAKER_04
+building?
+
+[00:40:23] SPEAKER_02
+I think it's just hanging out of the side of the building.
+
+[00:40:25] SPEAKER_03
+You know what you could do?
+
+[00:40:27] SPEAKER_03
+You could get some chains and you could loop them to the balcony.
+
+[00:40:30] SPEAKER_03
+Is there anything above you?
+
+[00:40:31] SPEAKER_03
+Here we go.
+
+[00:40:32] SPEAKER_01
+Yeah.
+
+[00:40:33] SPEAKER_03
+Just the roof.
+
+[00:40:34] SPEAKER_03
+Here's what you do with the chains.
+
+[00:40:35] SPEAKER_03
+Perfect.
+
+[00:40:36] SPEAKER_03
+You get the chains, you loop them up to the roof, and then you winch that so it's secure,
+
+[00:40:39] SPEAKER_03
+and now you've got extra support.
+
+[00:40:41] SPEAKER_03
+Forget the roof.
+
+[00:40:42] SPEAKER_04
+Put the chains, hurl them straight over the top of the building so they hang down on the
+
+[00:40:46] SPEAKER_04
+other side, and hold up a balcony on that side, too.
+
+[00:40:50] SPEAKER_04
+Perfect idea.
+
+[00:40:51] SPEAKER_03
+So they're holding each other up.
+
+[00:40:53] SPEAKER_03
+Yeah.
+
+[00:40:53] SPEAKER_03
+You don't even need chains for that.
+
+[00:40:54] SPEAKER_03
+You could do nylon rope, probably.
+
+[00:40:56] SPEAKER_03
+That would hold.
+
+[00:40:57] SPEAKER_02
+What is the weight capacity of the average balcony?
+
+[00:41:00] SPEAKER_02
+Dude, we had an average balcony.
+
+[00:41:03] SPEAKER_03
+There was an incident a couple years ago in Austin, like, maybe 12 years ago, where a bunch
+
+[00:41:08] SPEAKER_03
+of people were having a party on a balcony on this fucking house over on the east side,
+
+[00:41:12] SPEAKER_03
+and it was on the second floor, and they were, like, 40 people on the balcony when it
+
+[00:41:15] SPEAKER_03
+collapsed.
+
+[00:41:16] SPEAKER_03
+Oh, my God.
+
+[00:41:17] SPEAKER_03
+And there was a lot of people got, like, not severely, but, you know, decently fucked up
+
+[00:41:22] SPEAKER_03
+from it.
+
+[00:41:24] SPEAKER_02
+I have an answer immediately of, generally speaking, balconies are load rated to 50 to 100 pounds
+
+[00:41:29] SPEAKER_02
+per square foot.
+
+[00:41:31] SPEAKER_02
+And then immediately, and people also ask, can my balcony hold a hot tub?
+
+[00:41:36] SPEAKER_02
+Oh, well, there you go.
+
+[00:41:37] SPEAKER_02
+And the answer is?
+
+[00:41:39] SPEAKER_02
+Almost always, the best choice at most can hold a small hot tub.
+
+[00:41:43] SPEAKER_02
+Most high-rise apartments and condos are balconies built with reinforced steel and cement, which
+
+[00:41:48] SPEAKER_02
+will not be damaged by steam.
+
+[00:41:50] SPEAKER_02
+There's another one.
+
+[00:41:51] SPEAKER_02
+Are balconies strong?
+
+[00:41:52] SPEAKER_02
+Which I just, I love that as a search.
+
+[00:41:54] SPEAKER_02
+Like, what a dumb guy.
+
+[00:41:56] SPEAKER_02
+Are balconies strong?
+
+[00:41:58] SPEAKER_02
+So it's like 100 pounds per square foot, so I can figure it out.
+
+[00:42:02] SPEAKER_02
+I can do the math on this.
+
+[00:42:04] SPEAKER_02
+I can measure it.
+
+[00:42:05] SPEAKER_04
+Did you see the comment lever?
+
+[00:42:08] SPEAKER_04
+That posted this picture.
+
+[00:42:12] SPEAKER_01
+Yeah.
+
+[00:42:12] SPEAKER_02
+Oh, yeah.
+
+[00:42:19] SPEAKER_02
+It is.
+
+[00:42:22] SPEAKER_02
+That should be on her logo.
+
+[00:42:24] SPEAKER_02
+That should be on your gaming channel, right?
+
+[00:42:26] SPEAKER_02
+Yeah.
+
+[00:42:27] SPEAKER_02
+Well, not, let me actually rephrase that.
+
+[00:42:29] SPEAKER_02
+It is not, if she would have her logo.
+
+[00:42:30] SPEAKER_02
+It is a green circular face symbol logo with regulation podcast logo.
+
+[00:42:38] SPEAKER_02
+Which happens to be the f***ing face.
+
+[00:42:42] SPEAKER_02
+Oh, yeah.
+
+[00:42:43] SPEAKER_02
+We changed her name.
+
+[00:42:44] SPEAKER_02
+Sorry.
+
+[00:42:46] SPEAKER_03
+Oh, my God.
+
+[00:42:47] SPEAKER_03
+The lineage in that image is hilarious.
+
+[00:42:50] SPEAKER_04
+I think that needs to be more, like, sequel things like that.
+
+[00:42:53] SPEAKER_01
+Yeah.
+
+[00:42:54] SPEAKER_01
+If the background was red on one side and blue on the other instead of all black, Jeff, we
+
+[00:43:00] SPEAKER_01
+just have your whole situation.
+
+[00:43:04] SPEAKER_03
+Like, there's my entire adult life in 300 pixels.
+
+[00:43:07] SPEAKER_04
+Oh, my God.
+
+[00:43:09] SPEAKER_04
+There weren't enough sequel bands, I think.
+
+[00:43:13] SPEAKER_04
+What do you mean?
+
+[00:43:13] SPEAKER_04
+Sequel bands?
+
+[00:43:14] SPEAKER_04
+Like, B-A-N-D-S?
+
+[00:43:15] SPEAKER_04
+Yeah.
+
+[00:43:16] SPEAKER_04
+Like, you had Jefferson Airplane.
+
+[00:43:19] SPEAKER_04
+And then you had Jefferson Starship.
+
+[00:43:21] SPEAKER_04
+And then Starship.
+
+[00:43:23] SPEAKER_03
+It's like, you can see every iteration.
+
+[00:43:26] SPEAKER_03
+There was Oingo, Boingo, and then they were just Boingo, I believe.
+
+[00:43:30] SPEAKER_03
+What?
+
+[00:43:31] SPEAKER_03
+I'm not joking.
+
+[00:43:32] SPEAKER_03
+I'm serious.
+
+[00:43:32] SPEAKER_03
+Yeah.
+
+[00:43:32] SPEAKER_03
+I think they became just Boingo at some point.
+
+[00:43:37] SPEAKER_03
+Any other ones?
+
+[00:43:38] SPEAKER_03
+What other ones?
+
+[00:43:40] SPEAKER_03
+Would you consider, does every member have to be, can it just, like, how many members
+
+[00:43:45] SPEAKER_03
+have to be in the new band for it to be considered a sequel?
+
+[00:43:47] SPEAKER_03
+Like, would you consider the Foo Fighters to be a sequel of Nirvana?
+
+[00:43:51] SPEAKER_04
+No, I think it needs to be 51% or more members.
+
+[00:43:54] SPEAKER_04
+Okay.
+
+[00:43:54] SPEAKER_04
+Yeah.
+
+[00:43:54] SPEAKER_01
+Like, it sort of turns into, like, a ship of Theseus, doesn't it?
+
+[00:43:57] SPEAKER_01
+Like, sorry, where you're just taking out, you're taking out boards, I guess, band members
+
+[00:44:01] SPEAKER_01
+and replacing them with other ones.
+
+[00:44:02] SPEAKER_03
+Well, there's a lot of bands out there that exist right now that are, that are that.
+
+[00:44:07] SPEAKER_03
+They have zero surviving original members.
+
+[00:44:09] SPEAKER_03
+Still going strong.
+
+[00:44:10] SPEAKER_01
+It's crazy when that happens.
+
+[00:44:11] SPEAKER_01
+Like, Human League in the 80s, I think before they got really popular, all the original
+
+[00:44:15] SPEAKER_01
+members of the band had left.
+
+[00:44:17] SPEAKER_01
+So by the time that they got popular, it was just a bunch of people that didn't start
+
+[00:44:20] SPEAKER_01
+Human League.
+
+[00:44:21] SPEAKER_01
+It's like, oh, that doesn't make any sense.
+
+[00:44:24] SPEAKER_01
+That's crazy.
+
+[00:44:25] SPEAKER_03
+Dude, I don't think any of the original members of GWAR are alive.
+
+[00:44:30] SPEAKER_01
+Wild.
+
+[00:44:32] SPEAKER_01
+That's crazy.
+
+[00:44:34] SPEAKER_03
+That's insane.
+
+[00:44:34] SPEAKER_03
+I don't, there's definitely not a single original member in that band, but I think
+
+[00:44:39] SPEAKER_03
+maybe one of the, the last original member died this year or last year.
+
+[00:44:44] SPEAKER_03
+Oh, wow.
+
+[00:44:44] SPEAKER_01
+That's nuts.
+
+[00:44:45] SPEAKER_03
+Crazy.
+
+[00:44:45] SPEAKER_01
+Um, circling back to cool Achievement Hunter, uh, regulation podcast logo.
+
+[00:44:51] SPEAKER_01
+We should talk about what's been going on since like over like the last month and sort of
+
+[00:44:56] SPEAKER_01
+before that to how we came to be and how we have all of our RSS feed stuff and everything
+
+[00:45:02] SPEAKER_01
+set and settled.
+
+[00:45:03] SPEAKER_01
+I agree.
+
+[00:45:05] SPEAKER_02
+Can we, can we do that?
+
+[00:45:07] SPEAKER_02
+Uh, can it, can I loop up music before I have one more music thing?
+
+[00:45:10] SPEAKER_02
+Oh, please say.
+
+[00:45:11] SPEAKER_02
+Oh yeah.
+
+[00:45:11] SPEAKER_02
+I didn't get, I had, I had a big, uh, I don't know.
+
+[00:45:15] SPEAKER_02
+I had a whole thing recently.
+
+[00:45:16] SPEAKER_02
+Do you ever on like your tick tock feed or whatever, or whatever, wherever your feed
+
+[00:45:21] SPEAKER_02
+is, you ever just get like, it decides randomly that you're going to get 50 versions of one
+
+[00:45:25] SPEAKER_02
+thing.
+
+[00:45:26] SPEAKER_02
+Like you've done nothing to influence it, but it's just like the algorithms like, Hey, you
+
+[00:45:30] SPEAKER_02
+you need to watch this.
+
+[00:45:32] SPEAKER_02
+This is your thing to watch.
+
+[00:45:33] SPEAKER_02
+Is that something that I've only experienced?
+
+[00:45:36] SPEAKER_02
+No.
+
+[00:45:37] SPEAKER_02
+Great.
+
+[00:45:38] SPEAKER_02
+Thank you.
+
+[00:45:39] SPEAKER_02
+Good assistance.
+
+[00:45:40] SPEAKER_02
+Good teamwork.
+
+[00:45:40] SPEAKER_02
+Y'all episode four.
+
+[00:45:42] SPEAKER_02
+It feels like it.
+
+[00:45:43] SPEAKER_02
+Yeah.
+
+[00:45:43] SPEAKER_02
+No, I was just, I was just confirming.
+
+[00:45:45] SPEAKER_02
+I was confirming that was fine, but there was silence.
+
+[00:45:48] SPEAKER_02
+I had to wait for that.
+
+[00:45:49] SPEAKER_02
+I want, cause then if there wasn't, I had to explain further.
+
+[00:45:51] SPEAKER_03
+I definitely call attention to the silence.
+
+[00:45:54] SPEAKER_02
+I randomly, for some reason, tick tock decided I needed to see a live performance of Macklemore
+
+[00:46:00] SPEAKER_02
+doing downtown one day.
+
+[00:46:03] SPEAKER_02
+And I got like 10 different things of it.
+
+[00:46:05] SPEAKER_02
+And that is not, that is a song I haven't thought about in a very long time.
+
+[00:46:09] SPEAKER_02
+How does it go?
+
+[00:46:10] SPEAKER_02
+It's just like downtown down.
+
+[00:46:13] SPEAKER_02
+Town and then they yell town a lot.
+
+[00:46:16] SPEAKER_02
+And there's something about, uh, leather and legs.
+
+[00:46:21] SPEAKER_02
+I don't know.
+
+[00:46:21] SPEAKER_02
+Anyway, I always thought that the person who did the chorus of that song was the best part
+
+[00:46:27] SPEAKER_02
+of that song.
+
+[00:46:27] SPEAKER_02
+I don't know their name.
+
+[00:46:29] SPEAKER_02
+I don't know anything about them, but because I kept getting them on tick tock performing
+
+[00:46:33] SPEAKER_02
+with Macklemore, I thought I should look into this person and see what they've done.
+
+[00:46:38] SPEAKER_02
+I don't know anything about them.
+
+[00:46:40] SPEAKER_02
+So I did some research and I guess they're the lead singer of a band called Foxy Shazam.
+
+[00:46:45] SPEAKER_02
+Has anyone here heard of Foxy Shazam?
+
+[00:46:47] SPEAKER_03
+No.
+
+[00:46:48] SPEAKER_02
+No, no, I had zero point of reference, but I'm not the biggest music guy, so I didn't
+
+[00:46:52] SPEAKER_02
+know anything about them.
+
+[00:46:53] SPEAKER_02
+So I put Foxy Shazam into YouTube and I thought I'll just listen to some of their songs because
+
+[00:47:00] SPEAKER_02
+I've never explored this.
+
+[00:47:02] SPEAKER_02
+I like what the guy did in downtown.
+
+[00:47:04] SPEAKER_02
+I'm interested to see.
+
+[00:47:06] SPEAKER_02
+So I go through the first one and it's like, that's fine, whatever.
+
+[00:47:08] SPEAKER_02
+And then it was crazy because the second song I listened to, I realized I've heard this
+
+[00:47:14] SPEAKER_02
+song like 10,000 times.
+
+[00:47:17] SPEAKER_02
+I had no idea it was him or it was associated.
+
+[00:47:19] SPEAKER_02
+It was one of the songs in NHL 13, which is a game that I played so much that UI burnt
+
+[00:47:25] SPEAKER_02
+into my television.
+
+[00:47:26] SPEAKER_02
+Like I spent thousands of hours making fake Vancouver Canucks teams in NHL 13.
+
+[00:47:33] SPEAKER_02
+I love that game.
+
+[00:47:34] SPEAKER_02
+And it was crazy to think, oh, this guy that I was aware of, but thought I had no
+
+[00:47:38] SPEAKER_02
+connection to, did a song that I've heard like 10,000 times and I had no idea.
+
+[00:47:44] SPEAKER_02
+I immediately recognized it as having a great time.
+
+[00:47:47] SPEAKER_02
+I'm going to post the lyrics.
+
+[00:47:50] SPEAKER_04
+So Foxy Shazam is one of your most listened to artists probably.
+
+[00:47:54] SPEAKER_02
+It is one of my most listened to artists and I didn't even know it.
+
+[00:47:57] SPEAKER_02
+But here are the lyrics if someone wants to read them.
+
+[00:48:00] SPEAKER_03
+So come on, come on, come on, come on.
+
+[00:48:03] SPEAKER_03
+Show me a little more.
+
+[00:48:04] SPEAKER_03
+Come on, come on, come on.
+
+[00:48:06] SPEAKER_03
+I like it.
+
+[00:48:07] SPEAKER_03
+I like it.
+
+[00:48:07] SPEAKER_03
+I like it.
+
+[00:48:09] SPEAKER_03
+I like it a lot.
+
+[00:48:11] SPEAKER_02
+That's the chorus of that song.
+
+[00:48:13] SPEAKER_02
+And so I'm listening to it and I'm like, that's, this is take me back to the old days.
+
+[00:48:18] SPEAKER_02
+Yeah.
+
+[00:48:18] SPEAKER_02
+I'll play in NHL 13.
+
+[00:48:21] SPEAKER_02
+But then, then we hit a little bit of blind side.
+
+[00:48:26] SPEAKER_02
+Uh, Jeff, could you, I'll, I'll interject with the addition.
+
+[00:48:30] SPEAKER_02
+Uh, let me, let me, let me, let me post.
+
+[00:48:33] SPEAKER_02
+He's there.
+
+[00:48:34] SPEAKER_02
+I just lost my page.
+
+[00:48:36] SPEAKER_02
+Great.
+
+[00:48:36] SPEAKER_02
+Uh, I, I fumbled this tremendously, but I like it.
+
+[00:48:41] SPEAKER_02
+Lead singer of this band.
+
+[00:48:43] SPEAKER_03
+Okay.
+
+[00:48:43] SPEAKER_02
+Is, uh, named Eric.
+
+[00:48:45] SPEAKER_02
+This is, I felt like I was getting blindsided by Eric when this happened.
+
+[00:48:49] SPEAKER_02
+Um, oh, fuck.
+
+[00:48:51] SPEAKER_99
+Oh, God.
+
+[00:48:53] SPEAKER_02
+Oh, wait, no.
+
+[00:48:53] SPEAKER_02
+What is happening with you?
+
+[00:48:55] SPEAKER_02
+I just got lost on the tab.
+
+[00:48:56] SPEAKER_02
+Here, here we go.
+
+[00:48:57] SPEAKER_02
+Okay.
+
+[00:48:57] SPEAKER_02
+Ready?
+
+[00:48:58] SPEAKER_02
+Read it, Jeff.
+
+[00:48:59] SPEAKER_02
+And then when there's an addition, I'll cut in.
+
+[00:49:01] SPEAKER_03
+So, uh, are the additions in the.
+
+[00:49:03] SPEAKER_03
+Just read the lyrics and I will cut in.
+
+[00:49:06] SPEAKER_03
+I'm just going to read it.
+
+[00:49:06] SPEAKER_03
+Okay.
+
+[00:49:07] SPEAKER_03
+Oh, come on.
+
+[00:49:09] SPEAKER_03
+Come on, come on, come on.
+
+[00:49:10] SPEAKER_03
+Show me a little more.
+
+[00:49:12] SPEAKER_03
+Come on, come on, come on.
+
+[00:49:13] SPEAKER_03
+That's the biggest black ass I've ever seen.
+
+[00:49:16] SPEAKER_03
+And I like it.
+
+[00:49:17] SPEAKER_03
+I like it.
+
+[00:49:18] SPEAKER_03
+That's the biggest black ass I've ever seen.
+
+[00:49:21] SPEAKER_03
+And I like it.
+
+[00:49:22] SPEAKER_03
+I like it a lot.
+
+[00:49:24] SPEAKER_03
+Canucks play off meta.
+
+[00:49:26] SPEAKER_03
+Yep.
+
+[00:49:26] SPEAKER_03
+That was, uh, part of my notes.
+
+[00:49:28] SPEAKER_02
+That's completely unrelated to that.
+
+[00:49:31] SPEAKER_02
+But I had no idea that song was about big black asses.
+
+[00:49:35] SPEAKER_02
+I've heard that song.
+
+[00:49:37] SPEAKER_02
+They edited that out of NHL 13.
+
+[00:49:40] SPEAKER_02
+The version that you said at the top was how I have known that song for like 12 years.
+
+[00:49:49] SPEAKER_02
+So it's like an edited.
+
+[00:49:50] SPEAKER_02
+So it just skips lines in the song or have they like re-recorded it?
+
+[00:49:54] SPEAKER_02
+No.
+
+[00:49:55] SPEAKER_02
+So they just edited it, but it's not a popular enough.
+
+[00:49:58] SPEAKER_02
+Song to have a radio edit.
+
+[00:50:00] SPEAKER_02
+So the only version that's like that is in NHL 13 and it's not in any other games.
+
+[00:50:07] SPEAKER_02
+So I was trying to record it.
+
+[00:50:09] SPEAKER_02
+I ordered a copy of NHL 13 so I could clip the version that I've heard.
+
+[00:50:14] SPEAKER_02
+And I'll get that eventually.
+
+[00:50:16] SPEAKER_02
+But I was stunned at like 1 a.m.
+
+[00:50:19] SPEAKER_02
+Listening to this when it cut into black asses.
+
+[00:50:21] SPEAKER_02
+I had no idea.
+
+[00:50:23] SPEAKER_02
+It blew my mind that that is what this song is about.
+
+[00:50:28] SPEAKER_02
+I never really paid attention to the lyrics to begin with, but I was like, I would have noticed that.
+
+[00:50:33] SPEAKER_02
+Because it's yellow.
+
+[00:50:34] SPEAKER_04
+That must have been so...
+
+[00:50:36] SPEAKER_04
+Because that kind of stuff, when you've seen something a billion times and then you see like the unedited version, it's so jarring.
+
+[00:50:42] SPEAKER_04
+Were you like gobsmacked by that?
+
+[00:50:44] SPEAKER_02
+I couldn't believe it.
+
+[00:50:45] SPEAKER_02
+I was more shocked than when all the boba pearls flew into my mouth.
+
+[00:50:48] SPEAKER_02
+It was...
+
+[00:50:49] SPEAKER_02
+I truly felt blindsided.
+
+[00:50:51] SPEAKER_02
+So which version do you like more?
+
+[00:50:54] SPEAKER_02
+I don't know if I have a picture.
+
+[00:50:56] SPEAKER_02
+I'm still processing my feelings that I feel like I've been lied to for the past 12 years.
+
+[00:51:01] SPEAKER_03
+Did you feel like you were in a bizarro world for a second?
+
+[00:51:04] SPEAKER_03
+Yeah.
+
+[00:51:05] SPEAKER_03
+Or did you immediately understand what happened and clock it?
+
+[00:51:08] SPEAKER_03
+Or did it take you a second to figure out like, am I being Mandela affected right now?
+
+[00:51:12] SPEAKER_03
+No, I immediately...
+
+[00:51:13] SPEAKER_03
+Do I have false memories?
+
+[00:51:15] SPEAKER_02
+Only because I had played that game, as I said, for so many hours.
+
+[00:51:19] SPEAKER_02
+Like the fact it was burned into my television.
+
+[00:51:21] SPEAKER_02
+I know that song.
+
+[00:51:22] SPEAKER_02
+I know every song on that game.
+
+[00:51:25] SPEAKER_02
+It's just, it stunned me.
+
+[00:51:28] SPEAKER_02
+It never even occurred to me it could be a radio edit.
+
+[00:51:30] SPEAKER_02
+And the fact that it was and that's what was edited out, but not even a radio edit.
+
+[00:51:34] SPEAKER_02
+They just chose not to include that.
+
+[00:51:37] SPEAKER_04
+Do you think there are people who have only heard the Black Eyed Peas singing Let's Get It Started?
+
+[00:51:42] SPEAKER_04
+Oh, absolutely.
+
+[00:51:42] SPEAKER_04
+I would say a lot of people.
+
+[00:51:46] SPEAKER_02
+100%.
+
+[00:51:46] SPEAKER_03
+Yeah.
+
+[00:51:47] SPEAKER_02
+I thought you were going to say, I'm curious how many people have only heard that song through NHL 13 like I have to this point.
+
+[00:51:55] SPEAKER_03
+Probably a lot, dude.
+
+[00:51:57] SPEAKER_03
+And are shocked.
+
+[00:51:57] SPEAKER_03
+I wonder if more people know that version or the original version.
+
+[00:52:03] SPEAKER_02
+I don't think the original one was even a single.
+
+[00:52:05] SPEAKER_02
+So I, like, it has to be.
+
+[00:52:08] SPEAKER_03
+How do you go from like, okay, we need to put, we need to license music for our sports game.
+
+[00:52:13] SPEAKER_03
+We want some kind of hip, fresh stuff.
+
+[00:52:16] SPEAKER_03
+Nothing too expensive.
+
+[00:52:17] SPEAKER_03
+So we have to get some up and coming artists.
+
+[00:52:19] SPEAKER_03
+Um, here's a song about, about big asses.
+
+[00:52:23] SPEAKER_03
+What if we cut all that?
+
+[00:52:25] SPEAKER_03
+Does it sound like, if you just like remove the word ass, do you think hockey?
+
+[00:52:28] SPEAKER_03
+And somebody's like, I think I could see a puck.
+
+[00:52:30] SPEAKER_03
+And they're like, okay, let's just cut all the references to ass out.
+
+[00:52:33] SPEAKER_03
+And then people just think we like hockey.
+
+[00:52:34] SPEAKER_03
+And they're like, perfect.
+
+[00:52:35] SPEAKER_03
+Put it in the, it's cheap.
+
+[00:52:36] SPEAKER_03
+Put it in the game.
+
+[00:52:37] SPEAKER_04
+Do people still do that where they'll record different versions of the song for radio?
+
+[00:52:42] SPEAKER_04
+I think so.
+
+[00:52:43] SPEAKER_04
+Yeah.
+
+[00:52:44] SPEAKER_04
+Yeah.
+
+[00:52:44] SPEAKER_04
+I don't think there's a, I don't think that's ever going away.
+
+[00:52:46] SPEAKER_03
+I just feel like they just play it or like mute it now.
+
+[00:52:49] SPEAKER_03
+Oh yeah.
+
+[00:52:50] SPEAKER_03
+There's a lot of like, I do hear a lot of like hip hop songs on the radio that are just
+
+[00:52:54] SPEAKER_03
+muted at the moment.
+
+[00:52:55] SPEAKER_03
+Yeah.
+
+[00:52:56] SPEAKER_04
+I remember listening to, uh, what was it?
+
+[00:52:59] SPEAKER_04
+Purple Pills D12 song.
+
+[00:53:02] SPEAKER_04
+Hmm.
+
+[00:53:03] SPEAKER_04
+And it was, and it's the, uh, the radio one is just literally a completely different
+
+[00:53:07] SPEAKER_03
+song, but all the lyrics are different.
+
+[00:53:10] SPEAKER_02
+Oh, wow.
+
+[00:53:11] SPEAKER_03
+How about that?
+
+[00:53:12] SPEAKER_03
+Uh, that CeeLo Green classic, forget you.
+
+[00:53:16] SPEAKER_03
+Oh yeah.
+
+[00:53:20] SPEAKER_02
+Anyway, sorry.
+
+[00:53:21] SPEAKER_02
+We, we can talk about RSS and all that stuff.
+
+[00:53:23] SPEAKER_02
+I just, I wanted to, we're talking about music.
+
+[00:53:25] SPEAKER_03
+We should talk about RSS and all that stuff.
+
+[00:53:27] SPEAKER_03
+But first, I, what if I pitched to you guys on an idea on another way to make money
+
+[00:53:34] SPEAKER_03
+in tandem to the regulation podcast or in case things go south on the podcast and we
+
+[00:53:40] SPEAKER_03
+need to pivot the other day, it's been about, it's been a while now.
+
+[00:53:44] SPEAKER_03
+I think I actually talked about this, uh, before I formalized the idea, I think I might
+
+[00:53:47] SPEAKER_03
+even mention it on or near Anma about a month or so ago, I was driving around and I was
+
+[00:53:53] SPEAKER_03
+just in a neighborhood stuck at a stoplight and I was immediately behind a dump truck and
+
+[00:53:58] SPEAKER_03
+I don't really pay much attention to dump trucks, but that day I decided that that dump
+
+[00:54:02] SPEAKER_03
+truck was interesting.
+
+[00:54:03] SPEAKER_03
+It just like stuck out to me.
+
+[00:54:05] SPEAKER_03
+And so I was looking at it and I realized a dump truck's not that big.
+
+[00:54:09] SPEAKER_03
+Like it was, it fit on the road with me.
+
+[00:54:12] SPEAKER_03
+And I was like, man, you could probably have a dump truck as your personal vehicle.
+
+[00:54:17] SPEAKER_03
+And then I was thinking about like the benefits of a dump truck.
+
+[00:54:19] SPEAKER_03
+You look at the back, you could fit a lot of shit in that thing.
+
+[00:54:23] SPEAKER_03
+Like I was thinking recently, I've been doing some furniture moving and stuff recently.
+
+[00:54:26] SPEAKER_03
+And it's like, you get a moving truck.
+
+[00:54:28] SPEAKER_03
+It's huge.
+
+[00:54:29] SPEAKER_03
+It's a pain in the ass.
+
+[00:54:30] SPEAKER_03
+A dump truck, you could throw most of a house in a dump truck very unceremoniously and it'd
+
+[00:54:34] SPEAKER_03
+be like no big deal, right?
+
+[00:54:36] SPEAKER_03
+It's like a big pickup.
+
+[00:54:37] SPEAKER_03
+And that got me thinking, what if you bought a dump truck and you turned it into a side
+
+[00:54:42] SPEAKER_03
+business where you just like tape a sign on the side of it that says like, need a dump?
+
+[00:54:47] SPEAKER_03
+And then you just like drive around to Walmarts and Home Depots, just up and down the aisles
+
+[00:54:52] SPEAKER_03
+and then wait for your phone to ring.
+
+[00:54:54] SPEAKER_03
+And I guarantee you in a day, you just drive to a dude's house.
+
+[00:54:57] SPEAKER_03
+He's like, yeah, I just got all this lawn furniture I want to get rid of.
+
+[00:54:59] SPEAKER_03
+And you don't even have to help him, right?
+
+[00:55:00] SPEAKER_03
+You could be like anything you want, throw it in my dump truck, 200 bucks.
+
+[00:55:05] SPEAKER_03
+I'll get rid of it.
+
+[00:55:07] SPEAKER_03
+And then you just drive around for eight hours until your dump truck's full.
+
+[00:55:10] SPEAKER_03
+And then you go to the dump and you pay like 400 bucks to throw it out or whatever.
+
+[00:55:14] SPEAKER_03
+Probably clear like a grand or more.
+
+[00:55:16] SPEAKER_03
+And if we got two dump trucks, Gavin, think about this.
+
+[00:55:18] SPEAKER_03
+We could have a two person or we could even get bigger and bigger and bigger.
+
+[00:55:21] SPEAKER_03
+But I was thinking we could call it dump and dumper.
+
+[00:55:26] SPEAKER_03
+We could have a dump truck and a dumper truck.
+
+[00:55:28] SPEAKER_03
+And then we could just go around and provide the service.
+
+[00:55:32] SPEAKER_03
+And we're not really even doing any work.
+
+[00:55:34] SPEAKER_03
+We're just driving from point A to point B, letting people throw their own shit in the dump truck.
+
+[00:55:38] SPEAKER_03
+So we don't even get out.
+
+[00:55:39] SPEAKER_03
+Yeah, we don't even really have to get out.
+
+[00:55:40] SPEAKER_03
+We'll have to deal with it at the at the at the I guess the the city landfill or wherever we get rid of it.
+
+[00:55:47] SPEAKER_03
+There'll probably be some effort there.
+
+[00:55:49] SPEAKER_03
+But that's pretty much it.
+
+[00:55:50] SPEAKER_03
+And then also, as we age and become successful, we could change the name to dumpy old men.
+
+[00:55:55] SPEAKER_03
+Oh, I like that.
+
+[00:55:57] SPEAKER_03
+So it seems to be mostly based around the name.
+
+[00:56:00] SPEAKER_03
+Yeah, I got a lot of dump up the volume.
+
+[00:56:03] SPEAKER_03
+I got big dumps.
+
+[00:56:04] SPEAKER_03
+I got dump star.
+
+[00:56:05] SPEAKER_03
+I got pump and dump.
+
+[00:56:06] SPEAKER_03
+If you want to focus on gyms, I got.
+
+[00:56:10] SPEAKER_03
+Oh, there's a good one.
+
+[00:56:12] SPEAKER_03
+Dumpty.
+
+[00:56:13] SPEAKER_03
+The boys of Dumpty.
+
+[00:56:14] SPEAKER_03
+You know, we have we have.
+
+[00:56:15] SPEAKER_03
+Yeah, boys of Dumpty.
+
+[00:56:16] SPEAKER_03
+We have a we have a whole Humpty Dumpty thing in our past.
+
+[00:56:18] SPEAKER_03
+So I wanted to call it Dumpasaurus, but that exists.
+
+[00:56:21] SPEAKER_03
+There's already a service that does exactly that called Dumpasaurus.
+
+[00:56:24] SPEAKER_03
+What if?
+
+[00:56:25] SPEAKER_03
+Well, Dumpty could be if you just deliver golf tees.
+
+[00:56:27] SPEAKER_03
+That's true.
+
+[00:56:28] SPEAKER_03
+That's true.
+
+[00:56:29] SPEAKER_03
+Or we could do bathtubs and we could be tub dumpers.
+
+[00:56:33] SPEAKER_03
+That's so stupid.
+
+[00:56:37] SPEAKER_03
+I guarantee you.
+
+[00:56:39] SPEAKER_03
+Here, I've even done a little bit of work on it.
+
+[00:56:43] SPEAKER_03
+Here, hold on a second.
+
+[00:56:43] SPEAKER_03
+Let me copy this.
+
+[00:56:45] SPEAKER_03
+Are you allowed to start your own landfill?
+
+[00:56:47] SPEAKER_03
+Dude.
+
+[00:56:49] SPEAKER_03
+If you had the land, I would think so.
+
+[00:56:50] SPEAKER_03
+Here is an option.
+
+[00:56:53] SPEAKER_03
+That is a Volvo V&L 64 T300 for sale.
+
+[00:56:57] SPEAKER_03
+Twenty four grand.
+
+[00:56:59] SPEAKER_03
+It's gorgeous.
+
+[00:57:00] SPEAKER_03
+It's in central Texas.
+
+[00:57:02] SPEAKER_03
+We could pick it up tomorrow and bam, we could get started immediately.
+
+[00:57:05] SPEAKER_03
+I'm not saying we should.
+
+[00:57:06] SPEAKER_03
+I'm just saying it's nice to know that that's available out there.
+
+[00:57:10] SPEAKER_03
+Twenty four grand.
+
+[00:57:11] SPEAKER_03
+If and when we want it.
+
+[00:57:12] SPEAKER_01
+And it's a two it's a 2008 man.
+
+[00:57:13] SPEAKER_01
+That's you know, it's good.
+
+[00:57:14] SPEAKER_03
+Yeah, it's already got a million three hundred and thirty one thousand miles on it, and
+
+[00:57:19] SPEAKER_03
+it's going strong.
+
+[00:57:20] SPEAKER_03
+These things are built to last.
+
+[00:57:22] SPEAKER_01
+Wait, it has what?
+
+[00:57:23] SPEAKER_01
+Wait, it has one million three hundred and thirty three thousand miles.
+
+[00:57:28] SPEAKER_04
+It's not just for popping out to the shops.
+
+[00:57:32] SPEAKER_04
+It's been driven all the time.
+
+[00:57:34] SPEAKER_01
+A million is crazy.
+
+[00:57:37] SPEAKER_04
+That's to the moon and back twice.
+
+[00:57:39] SPEAKER_03
+I guess it's done one point three.
+
+[00:57:44] SPEAKER_03
+And we're not going nearly that far.
+
+[00:57:46] SPEAKER_03
+We're just going through some rich neighborhoods to the dump.
+
+[00:57:49] SPEAKER_02
+I will say, I like where your head is at.
+
+[00:57:52] SPEAKER_02
+I am wondering if maybe you just need to play some more trucks.
+
+[00:57:56] SPEAKER_02
+Maybe you're just missing trucks and you're trying to find a way to bring that back into
+
+[00:58:00] SPEAKER_02
+your life.
+
+[00:58:00] SPEAKER_02
+I think you're right.
+
+[00:58:01] SPEAKER_03
+There might be some truth to that.
+
+[00:58:03] SPEAKER_03
+But dude, come on.
+
+[00:58:03] SPEAKER_03
+I'd roll it around in a dump truck called dump and dumper or dumpy old men would be
+
+[00:58:08] SPEAKER_03
+pretty fucking cool.
+
+[00:58:09] SPEAKER_03
+And as silly as it is, I guarantee you that business model immediately works.
+
+[00:58:15] SPEAKER_03
+And I bet within a month and a half you've paid that off and you're just making pure
+
+[00:58:19] SPEAKER_03
+profit.
+
+[00:58:19] SPEAKER_03
+I think you're underestimating how much it costs to dump a whole dump truck's worth of
+
+[00:58:23] SPEAKER_03
+Well, I looked into it.
+
+[00:58:24] SPEAKER_03
+I looked into it and I couldn't find.
+
+[00:58:27] SPEAKER_03
+I do my research.
+
+[00:58:29] SPEAKER_03
+I couldn't find any landfills that listed prices for dump trucks.
+
+[00:58:33] SPEAKER_03
+But for the biggest truck they had listed, it was like 250 bucks.
+
+[00:58:37] SPEAKER_03
+But I think you could probably fit a good $10,000 worth of stuff in one dump truck by
+
+[00:58:43] SPEAKER_03
+the end of the day.
+
+[00:58:44] SPEAKER_03
+So if you have to pay even a grand as a dumping fee, you're still taking home, you know, nine
+
+[00:58:48] SPEAKER_03
+grand a day or something.
+
+[00:58:50] SPEAKER_03
+I wouldn't trust that dump truck on my patio.
+
+[00:58:52] SPEAKER_02
+I don't think it could support that.
+
+[00:58:54] SPEAKER_02
+That's fair.
+
+[00:58:54] SPEAKER_02
+Looking at the truck.
+
+[00:58:55] SPEAKER_02
+I think it's too big.
+
+[00:58:56] SPEAKER_04
+What if it was if you treated it kind of like an ice cream van where you had like a special
+
+[00:59:01] SPEAKER_04
+dump song that played?
+
+[00:59:02] SPEAKER_04
+And as you drove around the neighborhoods, people would hear the dump song and come running
+
+[00:59:05] SPEAKER_04
+outside of a chairs and stuff.
+
+[00:59:07] SPEAKER_01
+I really like that as well.
+
+[00:59:09] SPEAKER_01
+Would it be thong song and it's just the dumps like a truck part over and over again?
+
+[00:59:13] SPEAKER_03
+It would just be it would just be dumb and dumber.
+
+[00:59:17] SPEAKER_03
+I'm singing Mockingbird.
+
+[00:59:21] SPEAKER_03
+Over and over and over again.
+
+[00:59:22] SPEAKER_02
+Yeah.
+
+[00:59:22] SPEAKER_02
+We've locked in a dump truck song.
+
+[00:59:28] SPEAKER_02
+We don't even have a theme song for this podcast yet, but we have a dump truck song.
+
+[00:59:33] SPEAKER_02
+Why don't we have a theme song?
+
+[00:59:35] SPEAKER_02
+We have to probably pick one or something.
+
+[00:59:37] SPEAKER_02
+I don't know.
+
+[00:59:38] SPEAKER_02
+We'll just get the old one.
+
+[00:59:39] SPEAKER_02
+Make one.
+
+[00:59:41] SPEAKER_04
+Buy it.
+
+[00:59:42] SPEAKER_04
+Can we just buy it or something?
+
+[00:59:44] SPEAKER_04
+Well, if we had the rights to it for the other podcast, we still got the rights to it.
+
+[00:59:47] SPEAKER_01
+That is a good point.
+
+[00:59:48] SPEAKER_01
+We now have rights.
+
+[00:59:49] SPEAKER_01
+We don't have the rights to that song.
+
+[00:59:53] SPEAKER_01
+Yeah, that is not how that works.
+
+[00:59:54] SPEAKER_01
+We definitely no longer have the rights to it.
+
+[00:59:55] SPEAKER_01
+It is also very expensive.
+
+[00:59:58] SPEAKER_01
+So if you want to make a theme song, let us know, I guess.
+
+[01:00:03] SPEAKER_03
+I made one for So All Right the other day.
+
+[01:00:04] SPEAKER_03
+That was pretty good.
+
+[01:00:06] SPEAKER_03
+Really?
+
+[01:00:06] SPEAKER_03
+What did you use?
+
+[01:00:07] SPEAKER_03
+Did you hear it?
+
+[01:00:08] SPEAKER_03
+Dude, I'd fucking use my mouth to do it.
+
+[01:00:12] SPEAKER_03
+I'm like a Bobby McFerrin.
+
+[01:00:15] SPEAKER_03
+Nick started it.
+
+[01:00:16] SPEAKER_03
+Can we get a preview?
+
+[01:00:17] SPEAKER_03
+No, fuck you.
+
+[01:00:18] SPEAKER_03
+All right.
+
+[01:00:19] SPEAKER_01
+Oh, come on.
+
+[01:00:20] SPEAKER_01
+You can't do it right now?
+
+[01:00:21] SPEAKER_01
+Just a little bit?
+
+[01:00:22] SPEAKER_01
+I don't remember it.
+
+[01:00:22] SPEAKER_01
+I don't have it in front of me.
+
+[01:00:23] SPEAKER_01
+This is already a long episode.
+
+[01:00:24] SPEAKER_01
+We're supposed to talk about our RSS stuff.
+
+[01:00:26] SPEAKER_01
+Oh, we should get into that.
+
+[01:00:27] SPEAKER_01
+Let's talk about it.
+
+[01:00:28] SPEAKER_01
+Yeah, no, we should have done it 15 minutes ago.
+
+[01:00:29] SPEAKER_01
+No, we're doing it right now.
+
+[01:00:30] SPEAKER_03
+I'm sorry.
+
+[01:00:31] SPEAKER_03
+I just wanted to revolutionize the dump industry real fast.
+
+[01:00:34] SPEAKER_01
+Okay.
+
+[01:00:34] SPEAKER_01
+We can cut all that out and just go to the RSS stuff.
+
+[01:00:36] SPEAKER_03
+If we do dump and dumper, I want to drive dumper.
+
+[01:00:41] SPEAKER_03
+Can I be honest with you?
+
+[01:00:43] SPEAKER_03
+I thought you would.
+
+[01:00:44] SPEAKER_03
+Thanks.
+
+[01:00:45] SPEAKER_03
+Yeah.
+
+[01:00:45] SPEAKER_03
+No, I was already ready to concede dumper to you.
+
+[01:00:48] SPEAKER_03
+Do I need a special license?
+
+[01:00:51] SPEAKER_03
+We might.
+
+[01:00:52] SPEAKER_03
+We absolutely might.
+
+[01:00:53] SPEAKER_03
+We'll have to look into that.
+
+[01:00:54] SPEAKER_03
+Well, you're going to need any license.
+
+[01:00:56] SPEAKER_03
+What if I only have that license, though?
+
+[01:01:00] SPEAKER_03
+I can't drive anything below 16 tons.
+
+[01:01:03] SPEAKER_03
+I got a level four commercial license.
+
+[01:01:08] SPEAKER_03
+Do you want to drive my Volvo?
+
+[01:01:09] SPEAKER_03
+Oh, I wish I could.
+
+[01:01:13] SPEAKER_04
+Oh, Christ.
+
+[01:01:14] SPEAKER_03
+All right.
+
+[01:01:14] SPEAKER_03
+Let's get into it.
+
+[01:01:15] SPEAKER_03
+Let's get into it all.
+
+[01:01:17] SPEAKER_03
+I'm excited.
+
+[01:01:18] SPEAKER_03
+Me, too.
+
+[01:01:20] SPEAKER_03
+I don't know anything about RSS feeds.
+
+[01:01:22] SPEAKER_01
+Eric.
+
+[01:01:24] SPEAKER_01
+No, you guys got it.
+
+[01:01:25] SPEAKER_01
+Go ahead.
+
+[01:01:25] SPEAKER_01
+Gavin.
+
+[01:01:26] SPEAKER_01
+Go, Gavin.
+
+[01:01:27] SPEAKER_04
+Eric, you wanted us to talk about this for the last 45 minutes.
+
+[01:01:30] SPEAKER_01
+No, I'm not the one who I'm not the one who brought it up the first time or the second time.
+
+[01:01:34] SPEAKER_01
+I tried to steer it to here.
+
+[01:01:35] SPEAKER_01
+That's it.
+
+[01:01:36] SPEAKER_01
+So take it.
+
+[01:01:37] SPEAKER_01
+Take it away.
+
+[01:01:39] SPEAKER_01
+Jeff.
+
+[01:01:40] SPEAKER_01
+Hey, what's up?
+
+[01:01:41] SPEAKER_01
+It's your boy, little Jeffy here.
+
+[01:01:43] SPEAKER_01
+And I just wanted an hour into the podcast.
+
+[01:01:46] SPEAKER_01
+You're doing introductions.
+
+[01:01:48] SPEAKER_03
+And I just want to talk about, you know, I don't know if you're aware, but Rooster Teeth,
+
+[01:01:52] SPEAKER_03
+the company we all used to work for, very recently, very quietly, wasn't well brought.
+
+[01:01:57] SPEAKER_03
+A lot of people didn't hear about it.
+
+[01:01:59] SPEAKER_03
+It certainly wasn't well explained or documented publicly.
+
+[01:02:04] SPEAKER_03
+But that company, Rooster Teeth, very quietly closed down in the middle of the night.
+
+[01:02:08] SPEAKER_03
+Nobody saw it coming.
+
+[01:02:09] SPEAKER_03
+Nobody knew.
+
+[01:02:10] SPEAKER_03
+We were all caught off guard by it.
+
+[01:02:11] SPEAKER_03
+We certainly didn't have months and months and months of excruciating time to prepare
+
+[01:02:15] SPEAKER_03
+for it.
+
+[01:02:16] SPEAKER_03
+And so as a result of that, our little podcast, the Face Podcast, we lost the rights to because
+
+[01:02:24] SPEAKER_03
+it was owned by Rooster Teeth Productions because we created it while in the employ of
+
+[01:02:30] SPEAKER_03
+Rooster Teeth Productions.
+
+[01:02:31] SPEAKER_03
+And so when Rooster Teeth was shut down by Warner Brothers, all of the intellectual property
+
+[01:02:36] SPEAKER_03
+that the employees made as employees or that was owned by the company became the rights
+
+[01:02:42] SPEAKER_03
+of Warner Brothers who was willing to work with all the individual content creators to
+
+[01:02:49] SPEAKER_03
+or, you know, Rooster Teeth employees that were interested in the IP that they had worked
+
+[01:02:53] SPEAKER_03
+on or created to try to help them acquire those rights, I guess would be the way to say
+
+[01:03:00] SPEAKER_03
+it.
+
+[01:03:01] SPEAKER_03
+And that's a turns out a very long and painful process.
+
+[01:03:05] SPEAKER_03
+And it's not anybody's fault.
+
+[01:03:07] SPEAKER_03
+I don't think any of us were mad at anyone or, you know, it wasn't like us versus Warner
+
+[01:03:11] SPEAKER_03
+Brothers or Rooster Teeth or anything like that.
+
+[01:03:13] SPEAKER_03
+It's just a, you know, there's a lawyer for every lawyer and everything needs to be
+
+[01:03:18] SPEAKER_03
+checked and cross-checked and spelled out explicitly in contracts and stuff.
+
+[01:03:23] SPEAKER_03
+And some stuff was real easy to get.
+
+[01:03:25] SPEAKER_03
+I got so all right in about 13 minutes.
+
+[01:03:29] SPEAKER_03
+But Face was a really valuable property for Rooster Teeth.
+
+[01:03:33] SPEAKER_03
+And it, because of that, was more complicated to acquire the rights to.
+
+[01:03:40] SPEAKER_03
+And so we did, but it just took a long time.
+
+[01:03:44] SPEAKER_04
+It was a double whammy too, because not only was it profitable enough that it was worth
+
+[01:03:48] SPEAKER_04
+something, it also wasn't like a big heavy hitter like a Ruby or a Red vs. Blue.
+
+[01:03:54] SPEAKER_04
+It's just some dog shit little podcast in the corner.
+
+[01:03:56] SPEAKER_04
+So it didn't necessarily have the priority of the heavy hitter, even though it did require
+
+[01:04:00] SPEAKER_03
+an actual purchase.
+
+[01:04:02] SPEAKER_03
+Right.
+
+[01:04:02] SPEAKER_03
+We're not Death Battle or Ruby or Red vs. Blue.
+
+[01:04:05] SPEAKER_03
+So we're not that high up on the food chain, but we're high enough on the food chain to
+
+[01:04:08] SPEAKER_03
+be on the food chain.
+
+[01:04:10] SPEAKER_03
+And so it just, there was a lot of, you know, it was just a lot of back and forth and, you
+
+[01:04:15] SPEAKER_03
+know, trying to acquire what we could and as much as we could.
+
+[01:04:19] SPEAKER_03
+And, you know, we're very happy to report that we own the entire back catalog of Face.
+
+[01:04:24] SPEAKER_03
+We own the name Face.
+
+[01:04:25] SPEAKER_03
+We own all of the merchandising designs for Face, all of the supplemental Face content.
+
+[01:04:32] SPEAKER_03
+We own Face Off, which was the first exclusive show.
+
+[01:04:37] SPEAKER_03
+The only stuff we didn't maintain the rights to was the Let's Play content.
+
+[01:04:42] SPEAKER_03
+And the song, I guess.
+
+[01:04:43] SPEAKER_03
+And the song.
+
+[01:04:44] SPEAKER_03
+The Let's Play content and the song.
+
+[01:04:46] SPEAKER_03
+And we've wanted to talk about it and explain it along the way, and we've been very close.
+
+[01:04:50] SPEAKER_03
+And, but it has literally been for the last, I would say, three weeks, a, it's all going
+
+[01:04:55] SPEAKER_03
+to be worked out tomorrow.
+
+[01:04:57] SPEAKER_03
+So just wait till tomorrow.
+
+[01:04:58] SPEAKER_03
+And then it's like tomorrow rolls around and we're like, you know, there was one other
+
+[01:05:01] SPEAKER_03
+person had to take a look at something or this got kicked back for this one little thing.
+
+[01:05:04] SPEAKER_03
+So we're, well, it'll probably be tomorrow.
+
+[01:05:06] SPEAKER_03
+And it's just been tomorrow's for a couple of weeks, but we're finally through all that.
+
+[01:05:11] SPEAKER_03
+And, uh, um, it was a lot of work on Gavin's end.
+
+[01:05:15] SPEAKER_03
+I really appreciate all the work you did, Gavin.
+
+[01:05:16] SPEAKER_03
+Um, you definitely took the lead on that in a lot of ways and, uh, uh, uh, means a lot.
+
+[01:05:24] SPEAKER_03
+Absolutely.
+
+[01:05:24] SPEAKER_02
+Yeah.
+
+[01:05:25] SPEAKER_02
+Yeah.
+
+[01:05:25] SPEAKER_02
+Like, yeah.
+
+[01:05:26] SPEAKER_02
+Huge for us.
+
+[01:05:27] SPEAKER_02
+Thank you so much.
+
+[01:05:28] SPEAKER_04
+It was fun to finally like step up in the final days of the company and use my email for
+
+[01:05:34] SPEAKER_04
+like real business.
+
+[01:05:35] SPEAKER_04
+And then in the middle of all that, my email got turned off.
+
+[01:05:39] SPEAKER_02
+Oh, uh, but one of the advantages of having the IP now is we have our old feed, right?
+
+[01:05:46] SPEAKER_02
+So people can now listen.
+
+[01:05:48] SPEAKER_02
+If they were subscribed to face, they will now get the regulation pod in that place as
+
+[01:05:53] SPEAKER_02
+well as we offer a ad free version on our Patrion at $10 at the extra medium tier.
+
+[01:06:01] SPEAKER_03
+The rollout wasn't ideal.
+
+[01:06:03] SPEAKER_03
+You know, we were kind of dealing, we were kind of dealing with, we were trying to shoot
+
+[01:06:07] SPEAKER_03
+at moving targets all along the way.
+
+[01:06:09] SPEAKER_03
+And, uh, you know, we, we made some missteps of course, but the most important thing for
+
+[01:06:13] SPEAKER_03
+us was to be there and to be available and not skip a beat.
+
+[01:06:19] SPEAKER_03
+You know, we said that in as many ways as we could over and over again, that we, for
+
+[01:06:23] SPEAKER_03
+the audience, we want it to be, and it clearly it wasn't transparent at all, but we wanted
+
+[01:06:27] SPEAKER_03
+it to be as transparent as possible.
+
+[01:06:28] SPEAKER_03
+You listen to us on one Wednesday, rooster teeth goes out of business, regulation spins
+
+[01:06:32] SPEAKER_03
+up.
+
+[01:06:32] SPEAKER_03
+You listen to us the next Wednesday in the same place at the same time, like nothing ever
+
+[01:06:36] SPEAKER_03
+happened.
+
+[01:06:37] SPEAKER_03
+We wanted to make it as easy and seamless as possible on y'all as we could.
+
+[01:06:41] SPEAKER_03
+And we did assume that it would be a shit show, but we just, we just still wanted to
+
+[01:06:45] SPEAKER_04
+do it anyway.
+
+[01:06:46] SPEAKER_04
+And I think even though it wasn't seamless, we still didn't have a gap and I'm, I'm super
+
+[01:06:50] SPEAKER_04
+happy about that.
+
+[01:06:51] SPEAKER_03
+Super happy about it.
+
+[01:06:52] SPEAKER_03
+Yeah.
+
+[01:06:52] SPEAKER_03
+It was, it didn't go perfectly, but we didn't expect it to.
+
+[01:06:55] SPEAKER_03
+And we just more than anything, we just wanted to be there and making content.
+
+[01:07:00] SPEAKER_03
+And like, this is, I don't know, I hope it comes across, but, um, you know, this is
+
+[01:07:07] SPEAKER_03
+outside of my family, the flesh and blood of my family, this is the most important thing
+
+[01:07:12] SPEAKER_03
+in my life.
+
+[01:07:13] SPEAKER_03
+And, uh, I get, it means everything to me.
+
+[01:07:17] SPEAKER_03
+And, uh, it, the idea of stopping, uh, would, it would, it would crush my soul.
+
+[01:07:23] SPEAKER_03
+And so I didn't want to stop.
+
+[01:07:25] SPEAKER_03
+I didn't want to stop.
+
+[01:07:26] SPEAKER_03
+I don't want to pause.
+
+[01:07:27] SPEAKER_03
+I didn't want to stop for a week, let alone a day.
+
+[01:07:30] SPEAKER_03
+And I would rather deal with the foibles and, uh, the little fires that pop up along
+
+[01:07:37] SPEAKER_03
+the way, then stop and wait and wait and wait.
+
+[01:07:40] SPEAKER_03
+Because if we did that, we'd probably be recording episode one today.
+
+[01:07:44] SPEAKER_02
+Oh God.
+
+[01:07:46] SPEAKER_03
+Yeah.
+
+[01:07:46] SPEAKER_02
+That's probably, I didn't even think about that.
+
+[01:07:47] SPEAKER_02
+That's terrible.
+
+[01:07:48] SPEAKER_02
+Yeah.
+
+[01:07:48] SPEAKER_02
+No.
+
+[01:07:48] SPEAKER_03
+Can you imagine spending the last five to six weeks totally sitting on your hands,
+
+[01:07:55] SPEAKER_03
+not communicating with our audience, not communicating with each other in this way,
+
+[01:07:59] SPEAKER_03
+not creating this thing that we're all in love with and obsessed with.
+
+[01:08:03] SPEAKER_03
+Yeah, I couldn't, it just wasn't an option.
+
+[01:08:04] SPEAKER_03
+And so, uh, thank you so much to the audience, uh, to every comment lever and regulation listener
+
+[01:08:11] SPEAKER_03
+for, for your patience with us, with our temporary feeds and our temporary solutions
+
+[01:08:15] SPEAKER_03
+and following us along the way.
+
+[01:08:17] SPEAKER_03
+Now we have our forever homes.
+
+[01:08:20] SPEAKER_03
+Uh, I think the only thing we still would like to do at some point is change the Instagram
+
+[01:08:24] SPEAKER_03
+name, but that's not a huge priority today.
+
+[01:08:27] SPEAKER_03
+And, um, I think we're finally settled and, and, and in our groove, right?
+
+[01:08:33] SPEAKER_03
+I think like, as of this episode, we're like, we're good.
+
+[01:08:36] SPEAKER_03
+This is the first episode we've recorded a hundred percent good and ready to just move forward,
+
+[01:08:41] SPEAKER_03
+kicking ass.
+
+[01:08:42] SPEAKER_03
+Yeah.
+
+[01:08:43] SPEAKER_99
+Hell yeah.
+
+[01:08:43] SPEAKER_01
+Absolutely.
+
+[01:08:44] SPEAKER_01
+So we have our regular, where you get the podcast and everything channel, but we also
+
+[01:08:49] SPEAKER_01
+have a secondary channel because just because we don't have the rights to our old gameplay
+
+[01:08:53] SPEAKER_01
+didn't mean that we wanted to stop doing gameplay altogether.
+
+[01:08:56] SPEAKER_01
+So we do have the, uh, secondary, uh, YouTube channel where all of our gameplay and other
+
+[01:09:02] SPEAKER_01
+things, uh, will be going.
+
+[01:09:03] SPEAKER_01
+So you can subscribe to both channels and, uh, check them both out because we're updating
+
+[01:09:08] SPEAKER_01
+frequently.
+
+[01:09:08] SPEAKER_01
+And then there's even more stuff on the Patreon.
+
+[01:09:10] SPEAKER_01
+So it's, uh, it's very exciting and I'm very excited to continue to do this stuff with
+
+[01:09:15] SPEAKER_01
+you guys.
+
+[01:09:16] SPEAKER_99
+Hell yeah.
+
+[01:09:17] SPEAKER_04
+You think pre-com is kind of a lazy name?
+
+[01:09:20] SPEAKER_01
+Uh.
+
+[01:09:20] SPEAKER_01
+Say it again.
+
+[01:09:21] SPEAKER_99
+What?
+
+[01:09:22] SPEAKER_03
+Is what a lazy name?
+
+[01:09:23] SPEAKER_03
+Did you say pre-com?
+
+[01:09:24] SPEAKER_03
+Pre-com.
+
+[01:09:25] SPEAKER_02
+He said pre-com.
+
+[01:09:26] SPEAKER_99
+Uh.
+
+[01:09:27] SPEAKER_02
+As like a closer, but I've, I'm not done talking.
+
+[01:09:30] SPEAKER_02
+What's lazy about it?
+
+[01:09:31] SPEAKER_04
+Just doesn't have its own name.
+
+[01:09:32] SPEAKER_04
+Pre-com?
+
+[01:09:34] SPEAKER_02
+It's just pre.
+
+[01:09:34] SPEAKER_02
+It's adding pre to a thing.
+
+[01:09:36] SPEAKER_02
+It'd be like if you ordered orange juice, but your empty glass was just called pre-juice.
+
+[01:09:41] SPEAKER_02
+You could just technically apply it to everything.
+
+[01:09:49] SPEAKER_02
+Like if tortillas were pre-burrito.
+
+[01:09:52] SPEAKER_03
+Like, I think technically it would be like if somebody gave you a glass and then walked
+
+[01:09:57] SPEAKER_03
+by and put the tiniest squeeze from an orange in it and said, I'll be back later with the
+
+[01:10:01] SPEAKER_03
+rest.
+
+[01:10:02] SPEAKER_01
+It's the, when I put down the first slice for a sandwich, just a piece of bread and it's
+
+[01:10:08] SPEAKER_01
+pre-sandwiched.
+
+[01:10:09] SPEAKER_01
+It's pre-sandwiched.
+
+[01:10:10] SPEAKER_01
+It's pre-sandwiched.
+
+[01:10:11] SPEAKER_01
+Oh man, I got pre-sandwiched everywhere.
+
+[01:10:15] SPEAKER_02
+Oh, the pre-sandwiched went moldy.
+
+[01:10:18] SPEAKER_03
+Fuck.
+
+[01:10:18] SPEAKER_03
+I just had to throw away so many pre-sandwiches.
+
+[01:10:25] SPEAKER_01
+Oh my God.
+
+[01:10:25] SPEAKER_02
+I will say, we should put a bow on our thing.
+
+[01:10:28] SPEAKER_02
+This is one last thing.
+
+[01:10:29] SPEAKER_02
+I have an exciting announcement to make that we're excited about.
+
+[01:10:33] SPEAKER_02
+No, don't say, oh Christ, it's a genuine.
+
+[01:10:34] SPEAKER_02
+I just don't know what it is.
+
+[01:10:36] SPEAKER_02
+I know.
+
+[01:10:36] SPEAKER_02
+We don't know what it is.
+
+[01:10:37] SPEAKER_02
+I don't know.
+
+[01:10:37] SPEAKER_02
+We kind of know what it is.
+
+[01:10:38] SPEAKER_02
+We talked about a little bit.
+
+[01:10:39] SPEAKER_02
+The cookbook.
+
+[01:10:40] SPEAKER_02
+We have a cookbook that we released a long time ago.
+
+[01:10:43] SPEAKER_02
+Yeah.
+
+[01:10:44] SPEAKER_02
+Yeah.
+
+[01:10:44] SPEAKER_02
+And people have been wondering about a PDF version.
+
+[01:10:47] SPEAKER_02
+They've been very patient with us.
+
+[01:10:48] SPEAKER_02
+And we've been saying, hey, we're working it out.
+
+[01:10:49] SPEAKER_02
+A lot of that working it out was what we just talked about.
+
+[01:10:52] SPEAKER_02
+All of it was that.
+
+[01:10:54] SPEAKER_02
+Yeah.
+
+[01:10:54] SPEAKER_02
+100% of it.
+
+[01:10:56] SPEAKER_01
+It's not a little bit of it.
+
+[01:10:57] SPEAKER_02
+There's all of it.
+
+[01:10:58] SPEAKER_02
+So now that we have it settled, that is going to become available to all of our patrons for
+
+[01:11:04] SPEAKER_02
+free, no matter what tier you're at.
+
+[01:11:05] SPEAKER_02
+$5, $10, whatever.
+
+[01:11:07] SPEAKER_02
+Any of our tiers, you will get that for free.
+
+[01:11:10] SPEAKER_02
+And we're also going to put it up in our shop for $6.99.
+
+[01:11:13] SPEAKER_02
+So if you just want to buy it and you don't want to be a patron, totally fine.
+
+[01:11:17] SPEAKER_02
+It will be available in a PDF form on our Patreon page, which I assume we have linked in the
+
+[01:11:23] SPEAKER_02
+description of this podcast.
+
+[01:11:25] SPEAKER_01
+I'm making a note right now to even say cookbook is out in PDF form at patreon.com slash the
+
+[01:11:30] SPEAKER_01
+regulation pod.
+
+[01:11:31] SPEAKER_02
+So enjoy that.
+
+[01:11:32] SPEAKER_02
+I love our cookbook so much.
+
+[01:11:34] SPEAKER_02
+I'm so happy that we were able to make that.
+
+[01:11:36] SPEAKER_02
+Jeff, you did such a great job with the photos.
+
+[01:11:38] SPEAKER_02
+The art in it is fantastic.
+
+[01:11:39] SPEAKER_02
+I am so glad that people that were not able to get the physical version will now have access to
+
+[01:11:45] SPEAKER_03
+a lot of wise, a lot of wise written words in that book, too.
+
+[01:11:49] SPEAKER_03
+A lot to pay attention to.
+
+[01:11:53] SPEAKER_03
+I'm also very excited about it.
+
+[01:11:54] SPEAKER_03
+I was that that book was definitely a labor of love for Tony, who did the vast majority of the
+
+[01:12:01] SPEAKER_03
+work on it, I think it was somewhat that we're very proud of and excited to be able to share
+
+[01:12:07] SPEAKER_03
+it with more people, you know, is the regulation podcast just longer than the other one?
+
+[01:12:12] SPEAKER_03
+I don't think so.
+
+[01:12:13] SPEAKER_03
+Not at all.
+
+[01:12:14] SPEAKER_03
+We just had to catch up.
+
+[01:12:15] SPEAKER_01
+It's not.
+
+[01:12:16] SPEAKER_03
+Oh, speaking of which, speaking of which, we should probably wrap it up.
+
+[01:12:19] SPEAKER_03
+But I do.
+
+[01:12:20] SPEAKER_03
+Can I you know, we just had that whole serious RSS discussion and kind of the explanation
+
+[01:12:24] SPEAKER_03
+to sum up why we've talked around things for the last month and not been able to just,
+
+[01:12:29] SPEAKER_03
+you know, like, I don't know, be 100 percent open as we go through it.
+
+[01:12:33] SPEAKER_03
+We just couldn't.
+
+[01:12:35] SPEAKER_03
+Potentially damage any negotiations or deals, but I do in all sincerity, I do want to say
+
+[01:12:41] SPEAKER_03
+a special thank you to Jordan and Hannah and Yuri and Hirsch and everybody at Rooster
+
+[01:12:49] SPEAKER_03
+Tooth who, after they got laid off just like us, stuck around to help negotiate these licensing
+
+[01:12:56] SPEAKER_03
+deals and help us acquire our intellectual property because they that was a lot of work for them
+
+[01:13:01] SPEAKER_03
+and they definitely didn't have to have to care so much as they were also losing their
+
+[01:13:06] SPEAKER_03
+jobs.
+
+[01:13:06] SPEAKER_03
+So I really do appreciate everybody that helped us get our independence.
+
+[01:13:12] SPEAKER_03
+Yeah, absolutely.
+
+[01:13:12] SPEAKER_04
+The ability to just text Hannah instead of have to deal directly with someone I've never spoken
+
+[01:13:18] SPEAKER_04
+to at Warner.
+
+[01:13:19] SPEAKER_04
+Absolutely game changing.
+
+[01:13:21] SPEAKER_03
+Yeah.
+
+[01:13:22] SPEAKER_03
+Throughout that whole process.
+
+[01:13:23] SPEAKER_03
+And they were just they were they were so helpful and kind and and seemed to genuinely
+
+[01:13:27] SPEAKER_03
+want to help us get to get our rights.
+
+[01:13:30] SPEAKER_03
+And I just I really, really, really appreciate it.
+
+[01:13:31] SPEAKER_03
+It would have been so much harder without them if at all possible.
+
+[01:13:35] SPEAKER_02
+You know, what a great episode.
+
+[01:13:37] SPEAKER_02
+It was nice.
+
+[01:13:38] SPEAKER_02
+Sync back up.
+
+[01:13:39] SPEAKER_02
+I'm excited for next week.
+
+[01:13:40] SPEAKER_03
+Don't even have to wait a full week.
+
+[01:13:42] SPEAKER_03
+Are we allowed to call our own episode a great episode?
+
+[01:13:45] SPEAKER_01
+Yeah, I think so.
+
+[01:13:47] SPEAKER_01
+Absolutely.
+
+[01:13:48] SPEAKER_04
+Oh, I didn't even get to ask Andrew if he learned his chair.
+
+[01:13:52] SPEAKER_02
+Oh, you'll have to wait till next week.
+
+[01:13:55] SPEAKER_02
+That's a little tease.
+
+[01:13:57] SPEAKER_02
+Oh, shit.
+
+[01:13:58] SPEAKER_02
+Little tease.
+
+[01:14:00] SPEAKER_02
+That's a no.
+
+[01:14:01] SPEAKER_03
+I love it.
+
+[01:14:02] SPEAKER_03
+That's awesome.
+
+[01:14:03] SPEAKER_03
+Definitely.
+
+[01:14:03] SPEAKER_03
+That's definitely a no.
+
+[01:14:04] SPEAKER_03
+That's a that's a that's a oh, shit.
+
+[01:14:07] SPEAKER_03
+I have a week to learn my chair now.
+
+[01:14:08] SPEAKER_03
+Christ.
+
+[01:14:09] SPEAKER_01
+No big old tease.
+
+[01:14:12] SPEAKER_01
+I want to tease that I got a new chair also.
+
+[01:14:14] SPEAKER_01
+So there's new chair discussion in the next episode.
+
+[01:14:17] SPEAKER_01
+A lot of chair content next episode.
+
+[01:14:19] SPEAKER_01
+We'll let you know who learned their chair first.
+
+[01:14:21] SPEAKER_01
+I'm really, really excited.
+
+[01:14:23] SPEAKER_03
+Oh, while we're teasing stuff about chairs, I'd like to tease out.
+
+[01:14:26] SPEAKER_03
+Here's a tease.
+
+[01:14:27] SPEAKER_03
+Did Jeff get a new chair?
+
+[01:14:29] SPEAKER_03
+Tune in next week to find out.
+
+[01:14:31] SPEAKER_03
+Maybe he did.
+
+[01:14:32] SPEAKER_03
+Probably he didn't.
+
+[01:14:33] SPEAKER_99
+Oh.
+
+[01:14:34] SPEAKER_03
+You don't know.
+
+[01:14:35] SPEAKER_01
+Thanks for listening.
+
+[01:14:36] SPEAKER_01
+Bye.
+
+[01:14:36] SPEAKER_01
+Bye.
+
+[01:14:36] SPEAKER_01
+Bye.
+
+[01:14:36] SPEAKER_01
+Bye.

@@ -1,0 +1,11091 @@
+# Episode 355: The Scariest Book Possible // Andrew Gets to the Bottom of It [77]
+published: 2025-10-29T07:00:00+00:00  |  duration: 01:03:56
+source: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/REGULATIONCOMPANYLLC9018795619.mp3?updated=1769459264
+transcribed: 2026-08-08T17:25:18.567178-04:00  |  model: large-v3-turbo
+diarization: pyannote/speaker-diarization-3.1
+
+
+[00:00:00] SPEAKER_02
+Prime presents Perfect Pairings. What pairs with Reacher on Prime? Reaching for a sparkling punch delivered with Prime. You can enjoy a punch just like Reacher. Entertainment meets fast delivery. It's on Prime.
+
+[00:00:15] SPEAKER_00
+Welcome aboard VIA Rail. Please sit and enjoy. Please sit and sip. Play. Post. Taste. View. And enjoy. VIA Rail. Love the way.
+
+[00:00:30] SPEAKER_06
+Nick, we have to do something. We have Sloppy Joe's Bingo. This is Friday. I almost said Saturday, but it's Friday because time is our construct that we must escape. Nick, Nick, it's 9 p.m. 9 p.m. on Halloween. Halloween. Nick, Nick, we have to let the people know on Twitch.tv slash Regulation Podcast. Nick, get on them now.
+
+[00:00:59] SPEAKER_05
+Oh, and welcome to another episode of the Regulation Podcast. This is episode 77. My name is Geoff Ramsey. With me, as always, Andrew Panton, Gavin Free, Eric Baudour, Nick Schwartz. Nothing's going to stop this f**king intro.
+
+[00:01:19] SPEAKER_05
+Certainly not the anxiety. Eric and I were talking before we started the podcast before anybody else showed up. Has anybody else experienced an unbelievable amount of anxiety around recording these episodes?
+
+[00:01:33] SPEAKER_05
+For some reason? These specific ones? Yes. Oh. Really? Why? I don't know. I was telling Eric when he came in this morning, I've been so, I don't know, since I got back from Detroit, I've just had this level of anxiety about today.
+
+[00:01:46] SPEAKER_05
+I even woke up at 6 a.m. on the dot this morning and just stared at the ceiling until my alarm went off at 7.30.
+
+[00:01:53] SPEAKER_05
+I just, I don't know what it is. I just like, I just am nervous about 77 and 78 or just recording in general, but I can't, it's just been hitting me in waves and it never happens like this.
+
+[00:02:06] SPEAKER_05
+I don't know what it is. I really don't. And Eric, Eric, you similar?
+
+[00:02:10] SPEAKER_06
+I've just had, over like the last week, and I don't know what it is, I just had like weird bouts of anxiety where all of a sudden I'll be like reading a book or something and it's like, oh, I need to put this down and like close my eyes and take deep breaths for like a few minutes.
+
+[00:02:24] SPEAKER_06
+And I can't pinpoint, I don't have like a generalized anxiety. I'm a, you know, an anxious guy just in general, but like not a, oh my God, this is like hitting me and I'm feeling it.
+
+[00:02:34] SPEAKER_06
+And I probably happened like four or five times over like the last week.
+
+[00:02:37] SPEAKER_06
+Were you reading The Shining?
+
+[00:02:39] SPEAKER_06
+Yeah, it was making me scared. Yeah, I'm reading a book where I'm worried that something's going to jump out at me.
+
+[00:02:47] SPEAKER_06
+Was it a pop-up book?
+
+[00:02:49] SPEAKER_06
+Yeah, yeah, yeah, yeah. The next page, something's just coming out at me.
+
+[00:02:53] SPEAKER_04
+Is there a pop-up version of The Shining? That'd be sick.
+
+[00:02:56] SPEAKER_07
+What if it was a pop-up book called Jump Scare and just every page is like, ah!
+
+[00:03:02] SPEAKER_07
+Should we invent this book?
+
+[00:03:04] SPEAKER_07
+Gotcha!
+
+[00:03:05] SPEAKER_05
+Gotcha!
+
+[00:03:06] SPEAKER_07
+We're trying to make the scariest book possible.
+
+[00:03:11] SPEAKER_07
+I just like a pop-up book that's all jump scares. Every page, known story.
+
+[00:03:16] SPEAKER_05
+Dibs! Dibs! Trademark! Registered! You can't do it!
+
+[00:03:19] SPEAKER_05
+It's a regulation idea we had at first. It's a uniform is already, lawyers are already at work.
+
+[00:03:26] SPEAKER_04
+What if we all submit one page of The Scary Pop?
+
+[00:03:29] SPEAKER_04
+Mine will be, I think, just a bill from the IRS. Page one.
+
+[00:03:34] SPEAKER_01
+Mmm. Yeah, that'd be scary.
+
+[00:03:35] SPEAKER_01
+It's a scary pop-up idea.
+
+[00:03:42] SPEAKER_06
+I'm glad you're writing that down.
+
+[00:03:44] SPEAKER_06
+Yeah, he's writing it down. I don't know that there's some, I don't know that this has legs, but we can try.
+
+[00:03:48] SPEAKER_06
+It's my anxiety. I can't, I'm scared I'll forget it.
+
+[00:03:51] SPEAKER_06
+So I have to write it down.
+
+[00:03:52] SPEAKER_06
+Oh, what if the book had legs? That's scary.
+
+[00:03:53] SPEAKER_06
+I think if I, I think, okay. I think if I submitted a page, ominous doctor's note would be my, uh, would be the thing that I submit.
+
+[00:04:01] SPEAKER_06
+Just ominous, like, scary doctor's note.
+
+[00:04:03] SPEAKER_05
+I submit you're laying in bed, it's like a person laying in bed, and then you, and then, uh, uh, microphone pops up and you have to record it.
+
+[00:04:11] SPEAKER_05
+It's like, ah!
+
+[00:04:13] SPEAKER_07
+Podcast!
+
+[00:04:14] SPEAKER_07
+Go!
+
+[00:04:14] SPEAKER_07
+You know how, like, books will have age ratings for them? As far as, like, this book is best for, like, five to seven-year-olds.
+
+[00:04:24] SPEAKER_07
+It is that, but what's the pop-up scare is age-dependent, so, like, in your, it's like 40 to 45, it is tax-tough.
+
+[00:04:31] SPEAKER_07
+It is losing your prescription, or, like, realizing you're in a pills.
+
+[00:04:37] SPEAKER_04
+Yeah, like, your, your 401k just ate shit, and it's recommended for, like, 55-year-olds.
+
+[00:04:42] SPEAKER_07
+Yeah, like, the life problems shift.
+
+[00:04:45] SPEAKER_05
+It's a call from the doctor that says it's malignant.
+
+[00:04:50] SPEAKER_07
+Have a book that's just 80-plus in every page is, you're dead. You're dead.
+
+[00:04:56] SPEAKER_04
+I feel like seeing 18-plus on something, just, it looks so scary and serious from when I was a kid, and I couldn't, like, consume that content.
+
+[00:05:04] SPEAKER_04
+But if it said, like, 25-plus, that, for some reason, is less scary to me.
+
+[00:05:10] SPEAKER_04
+Hmm.
+
+[00:05:10] SPEAKER_04
+There's something so severe about the number 18.
+
+[00:05:13] SPEAKER_06
+Yeah, no, I agree. It seems like a big, like, cut-off where it's like, that's adult.
+
+[00:05:18] SPEAKER_06
+But if it said 31, I'd be like, what? I'm intrigued. What is 31-plus?
+
+[00:05:23] SPEAKER_07
+It's funny you say that, because that's the Canadian movie rating system.
+
+[00:05:28] SPEAKER_07
+We don't have R, it goes to 18A.
+
+[00:05:31] SPEAKER_04
+Oh, yeah, yeah. We have, like, 12A, 15, 18.
+
+[00:05:34] SPEAKER_04
+Oh, I thought you meant something was 31-plus.
+
+[00:05:38] SPEAKER_05
+You said it goes to 18A?
+
+[00:05:41] SPEAKER_07
+Yeah.
+
+[00:05:42] SPEAKER_05
+Does the A stand for anal? Like, when you're 18, you can see anal?
+
+[00:05:44] SPEAKER_05
+Yeah, that's right. 18 to A.
+
+[00:05:47] SPEAKER_07
+Only films that have at least 18 anuses in it are allowed to have the 18A rating.
+
+[00:05:52] SPEAKER_07
+It's more of a guideline, I guess, than a rating.
+
+[00:05:55] SPEAKER_04
+What is the lowest-rated movie with an anus in it?
+
+[00:05:59] SPEAKER_07
+Like, exposed anus, or just, what are we talking about?
+
+[00:06:02] SPEAKER_04
+Yeah, like a visible anus. Has there ever been an anus in, like, a 15?
+
+[00:06:05] SPEAKER_07
+There are not many movies that have visible anuses in them, generally.
+
+[00:06:09] SPEAKER_01
+Yeah.
+
+[00:06:10] SPEAKER_07
+I don't really capture the anus all that much.
+
+[00:06:13] SPEAKER_05
+Did Game of Thrones have an anus?
+
+[00:06:15] SPEAKER_05
+There was a...
+
+[00:06:16] SPEAKER_05
+I don't think so.
+
+[00:06:17] SPEAKER_05
+There was a thing they just did on the Howard Stern show
+
+[00:06:20] SPEAKER_05
+where they did an embedded where they filmed Ham-Hans Bill shitting
+
+[00:06:25] SPEAKER_05
+because he's paraplegic and he has a nurse that helps him do it,
+
+[00:06:28] SPEAKER_05
+and they filmed his actual anus,
+
+[00:06:30] SPEAKER_05
+and apparently the footage is the grossest footage ever filmed,
+
+[00:06:33] SPEAKER_05
+and Howard refused to let it be shown.
+
+[00:06:35] SPEAKER_04
+Yeah.
+
+[00:06:35] SPEAKER_05
+I mean, even you describing it was the grossest thing ever.
+
+[00:06:37] SPEAKER_05
+Yeah, it's pretty bad.
+
+[00:06:38] SPEAKER_05
+Pretty bad.
+
+[00:06:39] SPEAKER_07
+I'm trying to think.
+
+[00:06:40] SPEAKER_07
+I can't think of film anuses.
+
+[00:06:41] SPEAKER_05
+So I'm thinking there probably aren't a lot of mainstream anus movies.
+
+[00:06:45] SPEAKER_05
+Yeah, that's fair.
+
+[00:06:46] SPEAKER_05
+Even in Canada, where it's hyper-legal.
+
+[00:06:49] SPEAKER_05
+It's weird. I feel like I've seen more urethras than I have anuses.
+
+[00:06:52] SPEAKER_07
+Whoa.
+
+[00:06:52] SPEAKER_07
+What the fuck are you saying?
+
+[00:06:55] SPEAKER_07
+I'm thinking about, like, Jackass.
+
+[00:06:57] SPEAKER_04
+Oh.
+
+[00:06:58] SPEAKER_07
+There's, like, a lot of dick in Jackass.
+
+[00:07:01] SPEAKER_07
+But I can't think of buttholes.
+
+[00:07:03] SPEAKER_05
+Yeah, you get, like, x-rays of buttholes,
+
+[00:07:06] SPEAKER_05
+like with the toy car and stuff.
+
+[00:07:07] SPEAKER_05
+Yeah.
+
+[00:07:07] SPEAKER_05
+Dave Englund had some, uh, the Poo Volcano, didn't he?
+
+[00:07:12] SPEAKER_05
+He did.
+
+[00:07:13] SPEAKER_07
+That's true, but I feel like that's a side profile, right?
+
+[00:07:16] SPEAKER_05
+Yeah.
+
+[00:07:17] SPEAKER_05
+And there is the one where they're shooting the bottle rockets out of Steve-O's butt,
+
+[00:07:20] SPEAKER_05
+I believe.
+
+[00:07:21] SPEAKER_05
+Oh, right.
+
+[00:07:21] SPEAKER_05
+That was a classic.
+
+[00:07:27] SPEAKER_06
+Feeling less anxious now, Jeff?
+
+[00:07:28] SPEAKER_06
+Gavin, if you could pick a Jackass stunt to film in slow motion,
+
+[00:07:33] SPEAKER_06
+do you have one in mind?
+
+[00:07:34] SPEAKER_06
+Is there one that, like, off the rip, you're like,
+
+[00:07:36] SPEAKER_06
+oh, I wish I could do, I wish I could have done that?
+
+[00:07:38] SPEAKER_04
+Oh, that's such a great question.
+
+[00:07:39] SPEAKER_04
+I mean, they did start using a ton of slow-mo after the third movie.
+
+[00:07:43] SPEAKER_04
+I'm trying to think of an old one.
+
+[00:07:45] SPEAKER_04
+Maybe, like, if it could be Lit World,
+
+[00:07:47] SPEAKER_04
+the one where they were all in the back of the truck.
+
+[00:07:49] SPEAKER_06
+Oh, that's such a good idea.
+
+[00:07:52] SPEAKER_06
+Oh, yeah.
+
+[00:07:53] SPEAKER_07
+Because there were some slams in that one.
+
+[00:07:56] SPEAKER_07
+Hmm.
+
+[00:07:57] SPEAKER_07
+I'm trying to think, like,
+
+[00:07:58] SPEAKER_07
+will it be the most watchable film entirely in slow motion?
+
+[00:08:01] SPEAKER_07
+I think we saw it.
+
+[00:08:02] SPEAKER_07
+It was 300.
+
+[00:08:04] SPEAKER_07
+Yeah, that was a lot of, yeah.
+
+[00:08:06] SPEAKER_07
+That's fair.
+
+[00:08:07] SPEAKER_04
+I would love to see that movie sped up to real time.
+
+[00:08:10] SPEAKER_04
+It'd be 18 minutes long.
+
+[00:08:11] SPEAKER_99
+Yes, it would.
+
+[00:08:14] SPEAKER_07
+I'm imagining a film less designed for it, though.
+
+[00:08:18] SPEAKER_07
+Like, driving Miss Daisy entirely in slow motion.
+
+[00:08:21] SPEAKER_07
+12 Angry Men.
+
+[00:08:22] SPEAKER_05
+Waiting for Godot.
+
+[00:08:26] SPEAKER_06
+They're just waiting for so long.
+
+[00:08:29] SPEAKER_06
+The wait just feels insurmountable.
+
+[00:08:32] SPEAKER_04
+I have a question for Andrew.
+
+[00:08:34] SPEAKER_06
+Okay.
+
+[00:08:35] SPEAKER_04
+Last week we talked about you pissing in the night,
+
+[00:08:38] SPEAKER_04
+and I was wondering if you started the test
+
+[00:08:40] SPEAKER_04
+of not drinking anything before bed.
+
+[00:08:45] SPEAKER_07
+No.
+
+[00:08:47] SPEAKER_07
+No, I haven't.
+
+[00:08:48] SPEAKER_07
+That's a good call.
+
+[00:08:49] SPEAKER_07
+I got real mad about a night pee last night.
+
+[00:08:53] SPEAKER_07
+Oh.
+
+[00:08:54] SPEAKER_07
+So, it hit me.
+
+[00:08:56] SPEAKER_07
+You had an angry night piss?
+
+[00:08:58] SPEAKER_07
+Yeah, I just really didn't feel it.
+
+[00:08:59] SPEAKER_07
+I was still awake.
+
+[00:09:00] SPEAKER_07
+I was just playing some games, and then...
+
+[00:09:05] SPEAKER_07
+Wait, wait.
+
+[00:09:06] SPEAKER_04
+You were up playing games and it annoyed you?
+
+[00:09:08] SPEAKER_07
+Yeah, because I was ready to go to bed,
+
+[00:09:11] SPEAKER_07
+but then it was like, now I've got to get up,
+
+[00:09:13] SPEAKER_07
+and it becomes a whole thing.
+
+[00:09:14] SPEAKER_07
+Like, I'm going to become more awake.
+
+[00:09:16] SPEAKER_07
+Surely a part of going to bed.
+
+[00:09:18] SPEAKER_07
+Do you not pee before going to bed?
+
+[00:09:20] SPEAKER_07
+Well, some...
+
+[00:09:20] SPEAKER_07
+Like, the process of going to bed and sleeping
+
+[00:09:22] SPEAKER_07
+are two different things entirely.
+
+[00:09:25] SPEAKER_07
+I went to bed probably three hours
+
+[00:09:27] SPEAKER_07
+before I initiated, like,
+
+[00:09:29] SPEAKER_07
+okay, it's time for sleep.
+
+[00:09:31] SPEAKER_05
+So, were you playing video games in bed then?
+
+[00:09:33] SPEAKER_05
+Yes.
+
+[00:09:33] SPEAKER_05
+From bed?
+
+[00:09:34] SPEAKER_07
+Ah, ah, gotcha.
+
+[00:09:35] SPEAKER_07
+So, I was in bed.
+
+[00:09:36] SPEAKER_07
+I stretched out,
+
+[00:09:37] SPEAKER_07
+looked at the phone a little bit.
+
+[00:09:39] SPEAKER_07
+Then I got really hooked on playing Bollocks Pit,
+
+[00:09:42] SPEAKER_07
+which I'm liking a lot.
+
+[00:09:43] SPEAKER_07
+Downloaded it today at your recommendation.
+
+[00:09:45] SPEAKER_07
+Oh, so much fun.
+
+[00:09:46] SPEAKER_07
+What's Bollocks Pit?
+
+[00:09:48] SPEAKER_07
+It is like Brick Breaker,
+
+[00:09:51] SPEAKER_07
+but as a roguelike,
+
+[00:09:52] SPEAKER_07
+it is very satisfying.
+
+[00:09:54] SPEAKER_07
+Numbers are popping out.
+
+[00:09:55] SPEAKER_07
+You're upgrading things.
+
+[00:09:56] SPEAKER_07
+It is good.
+
+[00:09:57] SPEAKER_07
+It's a good loop.
+
+[00:09:58] SPEAKER_07
+So, that is...
+
+[00:09:59] SPEAKER_07
+It's like a time sink.
+
+[00:10:01] SPEAKER_07
+So, I spent like three hours playing that,
+
+[00:10:03] SPEAKER_07
+and I was like,
+
+[00:10:03] SPEAKER_07
+gosh, I got to bed.
+
+[00:10:04] SPEAKER_07
+I got to get up for the podcast
+
+[00:10:05] SPEAKER_07
+and make sure I'm, like, alert.
+
+[00:10:07] SPEAKER_07
+All good.
+
+[00:10:09] SPEAKER_07
+Ah, but I got to pee.
+
+[00:10:11] SPEAKER_07
+And it really threw a wrench into things.
+
+[00:10:14] SPEAKER_04
+That's, to me,
+
+[00:10:15] SPEAKER_04
+the tiniest little wrench.
+
+[00:10:17] SPEAKER_04
+That's like a Christmas cracker wrench.
+
+[00:10:19] SPEAKER_07
+Well, but, like,
+
+[00:10:20] SPEAKER_07
+when you get up,
+
+[00:10:21] SPEAKER_07
+you become more alert.
+
+[00:10:22] SPEAKER_07
+I was all in a black snow.
+
+[00:10:24] SPEAKER_04
+When you play games for three hours,
+
+[00:10:24] SPEAKER_04
+you get more alert.
+
+[00:10:26] SPEAKER_07
+No, I slowly drift off.
+
+[00:10:28] SPEAKER_07
+I slowly get sleepy.
+
+[00:10:30] SPEAKER_07
+Then I'm, like,
+
+[00:10:31] SPEAKER_07
+in a sleep state,
+
+[00:10:32] SPEAKER_07
+and I'm like,
+
+[00:10:32] SPEAKER_07
+I'm ready to go.
+
+[00:10:34] SPEAKER_07
+But then it's like,
+
+[00:10:34] SPEAKER_07
+I contemplated,
+
+[00:10:36] SPEAKER_07
+do I just sleep through?
+
+[00:10:37] SPEAKER_07
+And I was like,
+
+[00:10:38] SPEAKER_07
+nah, I really need to pee.
+
+[00:10:39] SPEAKER_07
+Like, I'm gonna...
+
+[00:10:41] SPEAKER_07
+If I go to sleep,
+
+[00:10:41] SPEAKER_07
+I'm gonna wake up in, like,
+
+[00:10:42] SPEAKER_07
+two hours.
+
+[00:10:43] SPEAKER_04
+You surely have more procedure
+
+[00:10:45] SPEAKER_04
+than just pissing.
+
+[00:10:46] SPEAKER_04
+Like, you got to...
+
+[00:10:46] SPEAKER_04
+You already, like,
+
+[00:10:47] SPEAKER_04
+brush your gob and everything?
+
+[00:10:49] SPEAKER_07
+Yeah, it was all good.
+
+[00:10:50] SPEAKER_04
+And then three hours later,
+
+[00:10:51] SPEAKER_04
+you thought,
+
+[00:10:52] SPEAKER_04
+I'll go to sleep.
+
+[00:10:53] SPEAKER_07
+Yeah.
+
+[00:10:54] SPEAKER_07
+Because I was ready for sleep.
+
+[00:10:55] SPEAKER_07
+I really wanted to play
+
+[00:10:57] SPEAKER_07
+Bollocks Pit more,
+
+[00:10:58] SPEAKER_07
+honestly.
+
+[00:10:59] SPEAKER_07
+But,
+
+[00:11:01] SPEAKER_05
+I had to go to bed.
+
+[00:11:03] SPEAKER_05
+And then I had to pee.
+
+[00:11:03] SPEAKER_05
+I always feel weird
+
+[00:11:05] SPEAKER_05
+when I agree with Andrew,
+
+[00:11:06] SPEAKER_05
+but I do understand
+
+[00:11:08] SPEAKER_05
+what he's saying,
+
+[00:11:09] SPEAKER_05
+and I'm kind of right there
+
+[00:11:10] SPEAKER_05
+with him.
+
+[00:11:10] SPEAKER_05
+It is, like,
+
+[00:11:11] SPEAKER_05
+you're almost asleep,
+
+[00:11:12] SPEAKER_05
+and then you could go to sleep,
+
+[00:11:14] SPEAKER_05
+and then take the risk
+
+[00:11:16] SPEAKER_05
+that you can sleep
+
+[00:11:16] SPEAKER_05
+through the night
+
+[00:11:17] SPEAKER_05
+without needing to piss,
+
+[00:11:18] SPEAKER_05
+which sometimes works.
+
+[00:11:19] SPEAKER_05
+Or you get up
+
+[00:11:20] SPEAKER_05
+and you go piss,
+
+[00:11:21] SPEAKER_05
+but by the time you get back to bed,
+
+[00:11:22] SPEAKER_05
+you're wide awake now,
+
+[00:11:23] SPEAKER_05
+and you have to, like,
+
+[00:11:24] SPEAKER_05
+spend another 20 minutes
+
+[00:11:25] SPEAKER_05
+on your phone
+
+[00:11:25] SPEAKER_05
+to re-fall asleep
+
+[00:11:26] SPEAKER_05
+or play Bollocks Pit
+
+[00:11:28] SPEAKER_05
+or whatever.
+
+[00:11:28] SPEAKER_05
+It is annoying,
+
+[00:11:30] SPEAKER_05
+and there is that moment
+
+[00:11:31] SPEAKER_05
+where you're like,
+
+[00:11:32] SPEAKER_05
+I could just try to go to sleep
+
+[00:11:33] SPEAKER_05
+and maybe make it
+
+[00:11:34] SPEAKER_05
+through the night
+
+[00:11:34] SPEAKER_05
+and then not have to be
+
+[00:11:35] SPEAKER_05
+with the next.
+
+[00:11:36] SPEAKER_05
+Yeah.
+
+[00:11:36] SPEAKER_05
+Have you considered a bedpan?
+
+[00:11:39] SPEAKER_07
+No, thanks.
+
+[00:11:40] SPEAKER_07
+That's way more.
+
+[00:11:41] SPEAKER_05
+No, it's terrible.
+
+[00:11:42] SPEAKER_05
+It's a terrible idea.
+
+[00:11:43] SPEAKER_05
+I don't understand
+
+[00:11:43] SPEAKER_05
+how those are supposed to work.
+
+[00:11:45] SPEAKER_05
+Like, have you ever used
+
+[00:11:47] SPEAKER_05
+a bedpan?
+
+[00:11:48] SPEAKER_05
+No.
+
+[00:11:48] SPEAKER_05
+I don't think I have,
+
+[00:11:49] SPEAKER_05
+and I just don't understand
+
+[00:11:50] SPEAKER_05
+how I'm supposed to piss
+
+[00:11:52] SPEAKER_05
+into something
+
+[00:11:53] SPEAKER_05
+that's shaped
+
+[00:11:53] SPEAKER_05
+like a shallow kidney.
+
+[00:11:56] SPEAKER_04
+Yeah, do you sit on it,
+
+[00:11:57] SPEAKER_04
+or do you turn
+
+[00:11:58] SPEAKER_04
+on your front
+
+[00:11:59] SPEAKER_04
+and put your knob in it
+
+[00:12:00] SPEAKER_04
+and piss?
+
+[00:12:02] SPEAKER_04
+Let me just roll over here.
+
+[00:12:05] SPEAKER_04
+I have no,
+
+[00:12:06] SPEAKER_04
+I see them all the time,
+
+[00:12:08] SPEAKER_04
+and I just think,
+
+[00:12:08] SPEAKER_04
+I've never used one,
+
+[00:12:09] SPEAKER_04
+and I have no idea
+
+[00:12:10] SPEAKER_04
+the geography of its use.
+
+[00:12:13] SPEAKER_04
+Is there a picture
+
+[00:12:13] SPEAKER_04
+somewhere of someone
+
+[00:12:14] SPEAKER_04
+using one?
+
+[00:12:16] SPEAKER_06
+Like jackass style?
+
+[00:12:18] SPEAKER_06
+Is that what we're looking for?
+
+[00:12:19] SPEAKER_06
+I'd like to see it
+
+[00:12:20] SPEAKER_05
+because every time
+
+[00:12:21] SPEAKER_05
+I see a bedpan,
+
+[00:12:22] SPEAKER_05
+I think,
+
+[00:12:22] SPEAKER_05
+okay, you're going to use that,
+
+[00:12:24] SPEAKER_05
+and then immediately
+
+[00:12:24] SPEAKER_05
+you have to strip the sheets
+
+[00:12:26] SPEAKER_05
+and then wash the sheets
+
+[00:12:27] SPEAKER_05
+because you've spilled piss
+
+[00:12:28] SPEAKER_05
+or shit all over the bed,
+
+[00:12:30] SPEAKER_05
+guaranteed.
+
+[00:12:30] SPEAKER_05
+There's no way out of it.
+
+[00:12:31] SPEAKER_04
+Yeah, surely it will,
+
+[00:12:33] SPEAKER_04
+so it's for shitting too?
+
+[00:12:35] SPEAKER_06
+Yeah, it's everything.
+
+[00:12:37] SPEAKER_04
+Yeah, I just feel like
+
+[00:12:38] SPEAKER_04
+I would,
+
+[00:12:38] SPEAKER_04
+if I was shitting in it,
+
+[00:12:40] SPEAKER_04
+I would definitely
+
+[00:12:40] SPEAKER_04
+piss out of it.
+
+[00:12:43] SPEAKER_04
+You would piss out of it?
+
+[00:12:46] SPEAKER_04
+Well, they're two
+
+[00:12:47] SPEAKER_04
+different directions
+
+[00:12:47] SPEAKER_04
+of evac.
+
+[00:12:53] SPEAKER_06
+Right, right,
+
+[00:12:54] SPEAKER_06
+but it's not just like,
+
+[00:12:55] SPEAKER_06
+it's like a small thing,
+
+[00:12:56] SPEAKER_06
+it's like you're like a full,
+
+[00:12:57] SPEAKER_06
+it's like a full thing
+
+[00:12:58] SPEAKER_06
+under you,
+
+[00:13:00] SPEAKER_06
+like taking like a lot of space
+
+[00:13:03] SPEAKER_06
+under you.
+
+[00:13:04] SPEAKER_04
+Yeah, okay.
+
+[00:13:05] SPEAKER_04
+It's just like sitting
+
+[00:13:06] SPEAKER_04
+on a normal toilet,
+
+[00:13:07] SPEAKER_04
+but lying down.
+
+[00:13:10] SPEAKER_04
+Oh, they press it into your ass.
+
+[00:13:14] SPEAKER_99
+Yeah!
+
+[00:13:15] SPEAKER_05
+Oh, man.
+
+[00:13:17] SPEAKER_05
+They're definitely spilling
+
+[00:13:18] SPEAKER_05
+piss and shit everywhere.
+
+[00:13:20] SPEAKER_05
+Well, there is a bed under it.
+
+[00:13:21] SPEAKER_05
+Oh, I see.
+
+[00:13:23] SPEAKER_05
+That's,
+
+[00:13:23] SPEAKER_05
+that's,
+
+[00:13:24] SPEAKER_04
+oh,
+
+[00:13:25] SPEAKER_04
+I had no idea.
+
+[00:13:26] SPEAKER_04
+And then at the same time,
+
+[00:13:28] SPEAKER_06
+there is also a urinal,
+
+[00:13:30] SPEAKER_06
+or urinal,
+
+[00:13:31] SPEAKER_06
+as you could say,
+
+[00:13:33] SPEAKER_04
+but it's a jug.
+
+[00:13:33] SPEAKER_04
+Oh, yeah, a female one?
+
+[00:13:34] SPEAKER_04
+Yeah.
+
+[00:13:36] SPEAKER_04
+Fracture bedpan.
+
+[00:13:37] SPEAKER_04
+So no,
+
+[00:13:37] SPEAKER_06
+that wasn't a solution.
+
+[00:13:39] SPEAKER_06
+Just so,
+
+[00:13:40] SPEAKER_06
+just so everyone knows right now,
+
+[00:13:41] SPEAKER_06
+our chat,
+
+[00:13:42] SPEAKER_06
+like our Discord chat,
+
+[00:13:43] SPEAKER_06
+is just me and Nick
+
+[00:13:45] SPEAKER_06
+sending so many pictures
+
+[00:13:48] SPEAKER_06
+of like drawings and like-
+
+[00:13:51] SPEAKER_06
+And diagrams and schematics.
+
+[00:13:53] SPEAKER_06
+This one is just the one
+
+[00:13:55] SPEAKER_06
+we saw earlier,
+
+[00:13:56] SPEAKER_06
+but closer.
+
+[00:13:58] SPEAKER_06
+Oh, no!
+
+[00:13:59] SPEAKER_99
+Ah!
+
+[00:14:01] SPEAKER_06
+That should be,
+
+[00:14:02] SPEAKER_06
+can that be the thumbnail?
+
+[00:14:04] SPEAKER_05
+Or will I get in trouble?
+
+[00:14:05] SPEAKER_06
+We probably shouldn't.
+
+[00:14:07] SPEAKER_06
+I found a picture of a used bedpan.
+
+[00:14:09] SPEAKER_06
+That's,
+
+[00:14:09] SPEAKER_06
+you don't want to see that.
+
+[00:14:10] SPEAKER_06
+I kind of do.
+
+[00:14:11] SPEAKER_05
+I kind of do want to see it.
+
+[00:14:13] SPEAKER_05
+Okay.
+
+[00:14:13] SPEAKER_05
+No.
+
+[00:14:15] SPEAKER_05
+Okay.
+
+[00:14:15] SPEAKER_05
+Don't look, dickhead.
+
+[00:14:16] SPEAKER_05
+I want to see it.
+
+[00:14:17] SPEAKER_99
+Used how?
+
+[00:14:18] SPEAKER_99
+Oh!
+
+[00:14:19] SPEAKER_05
+Yeah, that's what I'm talking about.
+
+[00:14:20] SPEAKER_05
+That's what I think would happen.
+
+[00:14:22] SPEAKER_06
+There you go.
+
+[00:14:23] SPEAKER_06
+Okay, Gavin, it's gone.
+
+[00:14:24] SPEAKER_06
+Gavin, it's gone.
+
+[00:14:24] SPEAKER_04
+I didn't let you.
+
+[00:14:25] SPEAKER_04
+No, I understand.
+
+[00:14:27] SPEAKER_04
+So I have a-
+
+[00:14:27] SPEAKER_02
+Gavin was horrific.
+
+[00:14:28] SPEAKER_04
+Ooh, so maybe shit aside,
+
+[00:14:31] SPEAKER_04
+would anyone use a bedpan
+
+[00:14:34] SPEAKER_04
+that's being held by me?
+
+[00:14:37] SPEAKER_04
+Yes.
+
+[00:14:39] SPEAKER_07
+Like, as a joke?
+
+[00:14:40] SPEAKER_04
+Like, what?
+
+[00:14:41] SPEAKER_04
+It's just as a bit.
+
+[00:14:42] SPEAKER_04
+Like, if I gloved up,
+
+[00:14:43] SPEAKER_04
+we'd put a mat down.
+
+[00:14:44] SPEAKER_07
+As a bit, yeah.
+
+[00:14:45] SPEAKER_07
+I think everyone's fine with it as a bit.
+
+[00:14:48] SPEAKER_07
+Oh, you would do it?
+
+[00:14:49] SPEAKER_07
+I think everyone here would do it
+
+[00:14:51] SPEAKER_07
+because you're the one
+
+[00:14:52] SPEAKER_07
+that's going to suffer the consequences.
+
+[00:14:54] SPEAKER_04
+Yeah, I don't know.
+
+[00:14:54] SPEAKER_04
+I mean, you're the one
+
+[00:14:55] SPEAKER_04
+who has to have your ass out
+
+[00:14:56] SPEAKER_04
+and piss in a pan.
+
+[00:14:58] SPEAKER_07
+I think it's way worse
+
+[00:15:01] SPEAKER_07
+on your end than-
+
+[00:15:02] SPEAKER_05
+100%.
+
+[00:15:03] SPEAKER_05
+You might be right.
+
+[00:15:04] SPEAKER_05
+You're in charge of the blast zone.
+
+[00:15:09] SPEAKER_07
+Could I share something
+
+[00:15:13] SPEAKER_07
+that the positive of me having to pee?
+
+[00:15:16] SPEAKER_07
+Yes.
+
+[00:15:17] SPEAKER_07
+So I was up.
+
+[00:15:19] SPEAKER_07
+I was like, fuck, I'm up.
+
+[00:15:20] SPEAKER_07
+I might as well sit at my desk for a bit.
+
+[00:15:23] SPEAKER_07
+And I was just looking at things
+
+[00:15:24] SPEAKER_07
+on the Xbox store.
+
+[00:15:26] SPEAKER_07
+And I was going to save this
+
+[00:15:27] SPEAKER_07
+as a surprise.
+
+[00:15:29] SPEAKER_07
+But Jeff talking about thumbnails.
+
+[00:15:32] SPEAKER_07
+I think this this might
+
+[00:15:34] SPEAKER_07
+this might be a thing to beat.
+
+[00:15:36] SPEAKER_07
+This is a thing
+
+[00:15:38] SPEAKER_07
+I discovered on the store
+
+[00:15:40] SPEAKER_07
+that I purchased.
+
+[00:15:42] SPEAKER_07
+Let me introduce to you
+
+[00:15:43] SPEAKER_07
+none other
+
+[00:15:45] SPEAKER_07
+than a game called
+
+[00:15:46] SPEAKER_07
+Green Giant Back Miami.
+
+[00:15:50] SPEAKER_07
+This is the product image for it.
+
+[00:15:52] SPEAKER_07
+It's loading right now.
+
+[00:15:56] SPEAKER_07
+It is a
+
+[00:15:57] SPEAKER_07
+that might not be a photo.
+
+[00:15:59] SPEAKER_07
+I don't know what that is.
+
+[00:16:00] SPEAKER_07
+We'll see what happens.
+
+[00:16:02] SPEAKER_07
+What are you
+
+[00:16:02] SPEAKER_07
+what are you doing?
+
+[00:16:04] SPEAKER_07
+I still do see a
+
+[00:16:05] SPEAKER_07
+dirty bed thing.
+
+[00:16:06] SPEAKER_99
+Are you sure?
+
+[00:16:08] SPEAKER_07
+I'm 100% sure.
+
+[00:16:09] SPEAKER_07
+Is it too powerful?
+
+[00:16:10] SPEAKER_07
+It's a PNG file.
+
+[00:16:12] SPEAKER_07
+Is it?
+
+[00:16:14] SPEAKER_07
+Hey!
+
+[00:16:15] SPEAKER_07
+Yeah!
+
+[00:16:16] SPEAKER_06
+There we go.
+
+[00:16:17] SPEAKER_06
+It just popped up.
+
+[00:16:19] SPEAKER_06
+No it didn't pop up.
+
+[00:16:20] SPEAKER_06
+I found it
+
+[00:16:21] SPEAKER_06
+and sent it.
+
+[00:16:22] SPEAKER_05
+It's the Incredible Hulk
+
+[00:16:23] SPEAKER_05
+with the goatee
+
+[00:16:24] SPEAKER_05
+and tribal tattoos.
+
+[00:16:26] SPEAKER_05
+Yes!
+
+[00:16:27] SPEAKER_07
+It's called
+
+[00:16:28] SPEAKER_07
+Green Giant Back Miami.
+
+[00:16:30] SPEAKER_04
+So it's not the Hulk
+
+[00:16:31] SPEAKER_04
+or the Green Giant.
+
+[00:16:32] SPEAKER_04
+Well see
+
+[00:16:33] SPEAKER_07
+the game
+
+[00:16:34] SPEAKER_07
+your favorite game
+
+[00:16:35] SPEAKER_07
+is back
+
+[00:16:36] SPEAKER_07
+the Green Giant
+
+[00:16:37] SPEAKER_07
+is back on the streets
+
+[00:16:38] SPEAKER_07
+of Miami.
+
+[00:16:40] SPEAKER_06
+So
+
+[00:16:40] SPEAKER_06
+but the thing is
+
+[00:16:41] SPEAKER_06
+if I'm looking at gameplay
+
+[00:16:42] SPEAKER_06
+that's not what he looks like
+
+[00:16:44] SPEAKER_06
+it's just the Hulk
+
+[00:16:45] SPEAKER_06
+and it's Hulk assets
+
+[00:16:46] SPEAKER_06
+and I really liked
+
+[00:16:48] SPEAKER_06
+this one screenshot
+
+[00:16:49] SPEAKER_06
+that says
+
+[00:16:50] SPEAKER_06
+but unfortunately
+
+[00:16:51] SPEAKER_06
+with the incredible
+
+[00:16:53] SPEAKER_06
+Hulk.
+
+[00:16:54] SPEAKER_04
+So this is like
+
+[00:16:55] SPEAKER_04
+a money laundering thing
+
+[00:16:57] SPEAKER_04
+right?
+
+[00:16:58] SPEAKER_04
+Like no one's
+
+[00:16:59] SPEAKER_04
+There are no reviews
+
+[00:17:01] SPEAKER_04
+of it.
+
+[00:17:02] SPEAKER_04
+It's E for everyone.
+
+[00:17:04] SPEAKER_04
+It is E for everyone.
+
+[00:17:08] SPEAKER_04
+The Hulk
+
+[00:17:08] SPEAKER_04
+in that picture
+
+[00:17:09] SPEAKER_04
+it looks like
+
+[00:17:10] SPEAKER_04
+in the second one
+
+[00:17:10] SPEAKER_04
+it looks like
+
+[00:17:11] SPEAKER_04
+he's being yelled at
+
+[00:17:12] SPEAKER_04
+by his mom.
+
+[00:17:13] SPEAKER_05
+He does.
+
+[00:17:15] SPEAKER_05
+He does.
+
+[00:17:15] SPEAKER_05
+He forgot to take
+
+[00:17:16] SPEAKER_05
+the trash out.
+
+[00:17:16] SPEAKER_05
+What did you do
+
+[00:17:17] SPEAKER_04
+to the bank?
+
+[00:17:20] SPEAKER_99
+Sorry.
+
+[00:17:21] SPEAKER_07
+So I just
+
+[00:17:22] SPEAKER_07
+I saw Green Giant back
+
+[00:17:23] SPEAKER_07
+and I was like
+
+[00:17:23] SPEAKER_07
+this is a game for me
+
+[00:17:24] SPEAKER_07
+and then I saw
+
+[00:17:25] SPEAKER_07
+Hulk with tribal tattoos
+
+[00:17:27] SPEAKER_07
+and pedestrians running.
+
+[00:17:29] SPEAKER_05
+So
+
+[00:17:30] SPEAKER_05
+we could be
+
+[00:17:31] SPEAKER_05
+the first review
+
+[00:17:32] SPEAKER_05
+of this video game?
+
+[00:17:33] SPEAKER_05
+Oh absolutely.
+
+[00:17:34] SPEAKER_07
+Yeah.
+
+[00:17:34] SPEAKER_05
+Number one.
+
+[00:17:35] SPEAKER_05
+One baby.
+
+[00:17:35] SPEAKER_05
+That should be
+
+[00:17:36] SPEAKER_05
+our new show
+
+[00:17:37] SPEAKER_05
+First Review Gaming.
+
+[00:17:38] SPEAKER_05
+First Review Gaming.
+
+[00:17:40] SPEAKER_05
+Like we
+
+[00:17:40] SPEAKER_05
+we could only
+
+[00:17:41] SPEAKER_05
+review stuff
+
+[00:17:42] SPEAKER_05
+that's never
+
+[00:17:43] SPEAKER_04
+been reviewed
+
+[00:17:44] SPEAKER_04
+before.
+
+[00:17:45] SPEAKER_07
+Yeah.
+
+[00:17:45] SPEAKER_06
+Have you played
+
+[00:17:46] SPEAKER_07
+this yet Andrew?
+
+[00:17:48] SPEAKER_07
+I loaded in
+
+[00:17:48] SPEAKER_07
+to make sure
+
+[00:17:49] SPEAKER_07
+it would work
+
+[00:17:50] SPEAKER_07
+and then I wanted
+
+[00:17:51] SPEAKER_07
+to save it
+
+[00:17:51] SPEAKER_07
+from when we
+
+[00:17:52] SPEAKER_07
+record a video.
+
+[00:17:53] SPEAKER_07
+Single player
+
+[00:17:53] SPEAKER_07
+I assume.
+
+[00:17:54] SPEAKER_06
+Yes.
+
+[00:17:55] SPEAKER_06
+Can we do it
+
+[00:17:56] SPEAKER_06
+as soon as
+
+[00:17:56] SPEAKER_06
+we're done
+
+[00:17:57] SPEAKER_06
+with our podcast
+
+[00:17:58] SPEAKER_06
+recording today?
+
+[00:17:58] SPEAKER_06
+Can this be
+
+[00:17:59] SPEAKER_06
+one of our
+
+[00:17:59] SPEAKER_06
+let's play?
+
+[00:18:00] SPEAKER_06
+Absolutely.
+
+[00:18:02] SPEAKER_07
+Great idea.
+
+[00:18:02] SPEAKER_07
+Green Giant
+
+[00:18:03] SPEAKER_07
+Packed My Gaming.
+
+[00:18:03] SPEAKER_07
+That's an absolutely
+
+[00:18:04] SPEAKER_07
+great idea.
+
+[00:18:04] SPEAKER_05
+Stop saying it.
+
+[00:18:06] SPEAKER_05
+We need to
+
+[00:18:06] SPEAKER_05
+record it
+
+[00:18:07] SPEAKER_05
+before it's
+
+[00:18:08] SPEAKER_05
+removed
+
+[00:18:08] SPEAKER_05
+from the game store.
+
+[00:18:10] SPEAKER_07
+I installed it
+
+[00:18:11] SPEAKER_07
+and I am not
+
+[00:18:11] SPEAKER_07
+deleting it.
+
+[00:18:12] SPEAKER_07
+I do not trust
+
+[00:18:13] SPEAKER_07
+that it will not
+
+[00:18:14] SPEAKER_07
+get pulled.
+
+[00:18:15] SPEAKER_02
+Prime presents
+
+[00:18:16] SPEAKER_02
+Perfect Pairings.
+
+[00:18:18] SPEAKER_02
+What pairs
+
+[00:18:18] SPEAKER_02
+with Reacher
+
+[00:18:19] SPEAKER_02
+on Prime?
+
+[00:18:20] SPEAKER_02
+Reaching for
+
+[00:18:21] SPEAKER_02
+a sparkling punch
+
+[00:18:22] SPEAKER_02
+delivered
+
+[00:18:23] SPEAKER_02
+with Prime.
+
+[00:18:25] SPEAKER_02
+It's an
+
+[00:18:25] SPEAKER_02
+unbelievable feeling
+
+[00:18:27] SPEAKER_02
+when you're
+
+[00:18:27] SPEAKER_02
+enjoying a punch
+
+[00:18:28] SPEAKER_02
+at the same time
+
+[00:18:31] SPEAKER_02
+Reacher
+
+[00:18:32] SPEAKER_02
+is enjoying
+
+[00:18:32] SPEAKER_02
+punching people.
+
+[00:18:35] SPEAKER_02
+Wow.
+
+[00:18:36] SPEAKER_02
+He's still
+
+[00:18:37] SPEAKER_02
+punching people.
+
+[00:18:40] SPEAKER_02
+Entertainment
+
+[00:18:41] SPEAKER_02
+meets fast delivery.
+
+[00:18:42] SPEAKER_02
+It's on Prime.
+
+[00:18:45] SPEAKER_00
+Welcome aboard
+
+[00:18:46] SPEAKER_00
+Via Rail.
+
+[00:18:47] SPEAKER_00
+Please sit
+
+[00:18:48] SPEAKER_00
+and enjoy.
+
+[00:18:49] SPEAKER_00
+Please sit
+
+[00:18:50] SPEAKER_00
+and sip.
+
+[00:18:51] SPEAKER_00
+Play.
+
+[00:18:52] SPEAKER_00
+Post.
+
+[00:18:53] SPEAKER_00
+Taste.
+
+[00:18:54] SPEAKER_00
+View.
+
+[00:18:56] SPEAKER_00
+And enjoy.
+
+[00:18:58] SPEAKER_00
+Via Rail.
+
+[00:18:59] SPEAKER_07
+Love the way.
+
+[00:19:00] SPEAKER_07
+I also discovered
+
+[00:19:00] SPEAKER_07
+something on the store
+
+[00:19:01] SPEAKER_07
+that I think is wild
+
+[00:19:03] SPEAKER_07
+that I've never
+
+[00:19:03] SPEAKER_07
+noticed before.
+
+[00:19:05] SPEAKER_07
+Jeff, do you mind?
+
+[00:19:06] SPEAKER_07
+Do you think it would be
+
+[00:19:07] SPEAKER_07
+too spoilery
+
+[00:19:08] SPEAKER_07
+to get into
+
+[00:19:10] SPEAKER_07
+how
+
+[00:19:11] SPEAKER_07
+a recent
+
+[00:19:13] SPEAKER_07
+series of videos
+
+[00:19:14] SPEAKER_07
+we filmed
+
+[00:19:14] SPEAKER_07
+ended?
+
+[00:19:16] SPEAKER_07
+Our disappointment?
+
+[00:19:17] SPEAKER_05
+I think you're
+
+[00:19:18] SPEAKER_05
+referring to
+
+[00:19:19] SPEAKER_05
+yes, go ahead.
+
+[00:19:22] SPEAKER_05
+If you want to talk
+
+[00:19:22] SPEAKER_05
+about it,
+
+[00:19:22] SPEAKER_05
+are you talking
+
+[00:19:23] SPEAKER_05
+about the hotel?
+
+[00:19:23] SPEAKER_07
+I am talking
+
+[00:19:24] SPEAKER_07
+about the hotel.
+
+[00:19:25] SPEAKER_07
+So Jeff and I
+
+[00:19:26] SPEAKER_07
+have filmed
+
+[00:19:27] SPEAKER_07
+a series of
+
+[00:19:28] SPEAKER_07
+Let's Plays
+
+[00:19:28] SPEAKER_07
+in a game called
+
+[00:19:29] SPEAKER_07
+Murder Mystery Hotel,
+
+[00:19:31] SPEAKER_07
+I think.
+
+[00:19:32] SPEAKER_07
+Is that what it's
+
+[00:19:32] SPEAKER_05
+I think so.
+
+[00:19:33] SPEAKER_05
+Murder Mystery Hotel
+
+[00:19:34] SPEAKER_05
+or Hidden Hotel
+
+[00:19:35] SPEAKER_05
+Murder Mysteries
+
+[00:19:36] SPEAKER_05
+or something.
+
+[00:19:37] SPEAKER_05
+I mean, I'm pulling
+
+[00:19:37] SPEAKER_05
+it up right now.
+
+[00:19:39] SPEAKER_07
+So we're playing
+
+[00:19:39] SPEAKER_07
+through it.
+
+[00:19:40] SPEAKER_07
+It's Mystery Hotel
+
+[00:19:41] SPEAKER_07
+Hidden Objects
+
+[00:19:42] SPEAKER_07
+is the name of the game.
+
+[00:19:44] SPEAKER_07
+It is one of those
+
+[00:19:45] SPEAKER_07
+games where
+
+[00:19:45] SPEAKER_07
+there's like a
+
+[00:19:47] SPEAKER_07
+image of a bird
+
+[00:19:48] SPEAKER_07
+and you have to
+
+[00:19:48] SPEAKER_07
+find the bird
+
+[00:19:49] SPEAKER_07
+in the background
+
+[00:19:50] SPEAKER_07
+and click it
+
+[00:19:51] SPEAKER_07
+and it's revealing
+
+[00:19:52] SPEAKER_07
+a story.
+
+[00:19:53] SPEAKER_07
+But the story
+
+[00:19:55] SPEAKER_07
+has solved the riddle
+
+[00:19:56] SPEAKER_07
+of the mysterious
+
+[00:19:57] SPEAKER_07
+murder at the
+
+[00:19:58] SPEAKER_07
+Hotel Noir.
+
+[00:19:59] SPEAKER_07
+So Jeff and I
+
+[00:20:00] SPEAKER_07
+got very invested
+
+[00:20:01] SPEAKER_07
+in this game
+
+[00:20:01] SPEAKER_07
+trying to figure
+
+[00:20:02] SPEAKER_07
+out who murdered
+
+[00:20:03] SPEAKER_07
+grandma.
+
+[00:20:04] SPEAKER_07
+Looks like a DVD
+
+[00:20:05] SPEAKER_07
+menu.
+
+[00:20:06] SPEAKER_07
+It does look like
+
+[00:20:07] SPEAKER_07
+a DVD menu.
+
+[00:20:08] SPEAKER_07
+Yeah.
+
+[00:20:09] SPEAKER_06
+Oh yeah, that's
+
+[00:20:09] SPEAKER_06
+one of the levels.
+
+[00:20:11] SPEAKER_06
+This sucks.
+
+[00:20:12] SPEAKER_06
+Here's a picture.
+
+[00:20:13] SPEAKER_06
+No, you don't even
+
+[00:20:14] SPEAKER_06
+know what you're
+
+[00:20:14] SPEAKER_06
+talking about.
+
+[00:20:15] SPEAKER_06
+Hey, Gavin,
+
+[00:20:16] SPEAKER_06
+find hat.
+
+[00:20:18] SPEAKER_06
+Saw it.
+
+[00:20:19] SPEAKER_06
+Listen, it can be
+
+[00:20:20] SPEAKER_07
+difficult.
+
+[00:20:21] SPEAKER_07
+Wait till it,
+
+[00:20:21] SPEAKER_05
+wait till it, Eric.
+
+[00:20:23] SPEAKER_05
+And wait till it,
+
+[00:20:23] SPEAKER_05
+you might be in
+
+[00:20:24] SPEAKER_05
+the second video
+
+[00:20:25] SPEAKER_05
+before you discover
+
+[00:20:26] SPEAKER_05
+you can pan
+
+[00:20:26] SPEAKER_05
+left and right.
+
+[00:20:27] SPEAKER_05
+That's true.
+
+[00:20:28] SPEAKER_05
+There's all sorts
+
+[00:20:29] SPEAKER_05
+of reveals.
+
+[00:20:29] SPEAKER_05
+We filmed four of
+
+[00:20:30] SPEAKER_07
+these and the
+
+[00:20:32] SPEAKER_07
+story ends.
+
+[00:20:34] SPEAKER_07
+Spoiler warning.
+
+[00:20:36] SPEAKER_07
+The story ends
+
+[00:20:37] SPEAKER_07
+with a random
+
+[00:20:38] SPEAKER_07
+to be continued.
+
+[00:20:40] SPEAKER_07
+You do not get a
+
+[00:20:40] SPEAKER_07
+resolution to this
+
+[00:20:42] SPEAKER_07
+case.
+
+[00:20:42] SPEAKER_07
+No, it just goes
+
+[00:20:44] SPEAKER_07
+to be continued to
+
+[00:20:45] SPEAKER_07
+the point where
+
+[00:20:46] SPEAKER_07
+Jeff and I didn't
+
+[00:20:47] SPEAKER_07
+realize that the
+
+[00:20:48] SPEAKER_07
+game was technically
+
+[00:20:48] SPEAKER_07
+over and we
+
+[00:20:50] SPEAKER_07
+filmed an additional
+
+[00:20:51] SPEAKER_07
+part trying to
+
+[00:20:52] SPEAKER_07
+figure out how to
+
+[00:20:52] SPEAKER_07
+continue and
+
+[00:20:53] SPEAKER_07
+establishing that
+
+[00:20:54] SPEAKER_07
+that is actually
+
+[00:20:56] SPEAKER_07
+how it ended.
+
+[00:20:58] SPEAKER_05
+We had to Google
+
+[00:21:00] SPEAKER_05
+it and in the
+
+[00:21:01] SPEAKER_05
+video I found a
+
+[00:21:02] SPEAKER_05
+Steam thread where
+
+[00:21:03] SPEAKER_05
+somebody said,
+
+[00:21:05] SPEAKER_05
+hey, am I crazy
+
+[00:21:06] SPEAKER_05
+or does this game
+
+[00:21:06] SPEAKER_05
+just stop?
+
+[00:21:08] SPEAKER_05
+Is there supposed
+
+[00:21:09] SPEAKER_05
+to be more game
+
+[00:21:10] SPEAKER_05
+here?
+
+[00:21:10] SPEAKER_05
+And one of the
+
+[00:21:11] SPEAKER_05
+developers responded
+
+[00:21:12] SPEAKER_05
+and said, don't worry,
+
+[00:21:13] SPEAKER_05
+more coming soon.
+
+[00:21:14] SPEAKER_05
+And that was from
+
+[00:21:15] SPEAKER_05
+April.
+
+[00:21:15] SPEAKER_04
+So you made a
+
+[00:21:17] SPEAKER_04
+four part series
+
+[00:21:19] SPEAKER_04
+where the fourth
+
+[00:21:19] SPEAKER_04
+video happens
+
+[00:21:20] SPEAKER_04
+after the end?
+
+[00:21:21] SPEAKER_04
+Yes.
+
+[00:21:22] SPEAKER_04
+Yeah.
+
+[00:21:22] SPEAKER_07
+Technically, the
+
+[00:21:23] SPEAKER_07
+end is in the
+
+[00:21:23] SPEAKER_07
+third part and we
+
+[00:21:25] SPEAKER_07
+didn't know that the
+
+[00:21:26] SPEAKER_07
+game had ended.
+
+[00:21:27] SPEAKER_06
+What did you do?
+
+[00:21:28] SPEAKER_06
+What is the fourth
+
+[00:21:28] SPEAKER_06
+part?
+
+[00:21:29] SPEAKER_06
+What are you talking
+
+[00:21:30] SPEAKER_06
+about?
+
+[00:21:30] SPEAKER_06
+The fourth part is
+
+[00:21:30] SPEAKER_07
+trying to figure out
+
+[00:21:31] SPEAKER_07
+if there's more
+
+[00:21:32] SPEAKER_07
+game and then
+
+[00:21:32] SPEAKER_07
+getting some
+
+[00:21:33] SPEAKER_07
+achievements and
+
+[00:21:34] SPEAKER_07
+trying some of
+
+[00:21:34] SPEAKER_07
+the different modes
+
+[00:21:35] SPEAKER_07
+that we hadn't
+
+[00:21:35] SPEAKER_07
+played within the
+
+[00:21:36] SPEAKER_07
+game because it's
+
+[00:21:51] SPEAKER_07
+I've never noticed
+
+[00:21:52] SPEAKER_07
+this, that if you
+
+[00:21:53] SPEAKER_07
+go on the Xbox
+
+[00:21:54] SPEAKER_07
+store, if you go
+
+[00:21:55] SPEAKER_07
+into a game, there
+
+[00:21:56] SPEAKER_07
+is a tab that says
+
+[00:21:57] SPEAKER_07
+more info and
+
+[00:21:59] SPEAKER_07
+you click it and
+
+[00:22:00] SPEAKER_07
+it tells you like
+
+[00:22:01] SPEAKER_07
+some stuff about the
+
+[00:22:02] SPEAKER_07
+game.
+
+[00:22:02] SPEAKER_07
+It gives you an
+
+[00:22:02] SPEAKER_07
+email for the
+
+[00:22:03] SPEAKER_07
+studio.
+
+[00:22:04] SPEAKER_07
+It gives you an
+
+[00:22:05] SPEAKER_07
+address for the
+
+[00:22:06] SPEAKER_07
+studio and it gives
+
+[00:22:06] SPEAKER_07
+you a phone number
+
+[00:22:07] SPEAKER_07
+for the studio.
+
+[00:22:09] SPEAKER_07
+I don't know where
+
+[00:22:09] SPEAKER_07
+this phone number
+
+[00:22:10] SPEAKER_07
+leads.
+
+[00:22:11] SPEAKER_07
+Jeff, should I
+
+[00:22:11] SPEAKER_07
+phone this number
+
+[00:22:12] SPEAKER_07
+to see if we can
+
+[00:22:13] SPEAKER_07
+get an update on
+
+[00:22:14] SPEAKER_07
+mystery hotel part
+
+[00:22:15] SPEAKER_07
+two?
+
+[00:22:15] SPEAKER_05
+Please, please,
+
+[00:22:16] SPEAKER_05
+please.
+
+[00:22:16] SPEAKER_05
+As fans of this
+
+[00:22:19] SPEAKER_05
+series, I think we
+
+[00:22:19] SPEAKER_05
+deserve an answer.
+
+[00:22:20] SPEAKER_05
+I think we do.
+
+[00:22:21] SPEAKER_05
+I think an update
+
+[00:22:22] SPEAKER_05
+would be nice in
+
+[00:22:23] SPEAKER_07
+some respect.
+
+[00:22:23] SPEAKER_04
+My grandparents
+
+[00:22:24] SPEAKER_04
+send me these
+
+[00:22:25] SPEAKER_04
+animated e-cards
+
+[00:22:26] SPEAKER_04
+for all of my
+
+[00:22:27] SPEAKER_04
+birthday and
+
+[00:22:28] SPEAKER_04
+Christmas stuff.
+
+[00:22:28] SPEAKER_04
+It looks just
+
+[00:22:29] SPEAKER_04
+like these.
+
+[00:22:30] SPEAKER_06
+Yeah.
+
+[00:22:30] SPEAKER_06
+Yeah, yeah, yeah.
+
+[00:22:32] SPEAKER_05
+You think it's
+
+[00:22:32] SPEAKER_05
+dumb, but wait
+
+[00:22:34] SPEAKER_05
+till you have to
+
+[00:22:34] SPEAKER_05
+find 15 things
+
+[00:22:36] SPEAKER_05
+and you've only
+
+[00:22:36] SPEAKER_05
+got 60 seconds
+
+[00:22:37] SPEAKER_05
+and if you
+
+[00:22:38] SPEAKER_05
+misclick, it
+
+[00:22:38] SPEAKER_05
+counts against you
+
+[00:22:39] SPEAKER_05
+because you're
+
+[00:22:40] SPEAKER_05
+trying to get
+
+[00:22:40] SPEAKER_05
+the multiplier to
+
+[00:22:41] SPEAKER_05
+get five stars.
+
+[00:22:42] SPEAKER_05
+It's no fucking
+
+[00:22:42] SPEAKER_05
+joke.
+
+[00:22:43] SPEAKER_05
+All right.
+
+[00:22:43] SPEAKER_05
+It's no fucking
+
+[00:22:44] SPEAKER_05
+joke.
+
+[00:22:45] SPEAKER_05
+Jeff, did you get
+
+[00:22:45] SPEAKER_05
+the e-card my
+
+[00:22:46] SPEAKER_05
+grandparents sent
+
+[00:22:47] SPEAKER_05
+you, by the
+
+[00:22:47] SPEAKER_04
+way, for your
+
+[00:22:47] SPEAKER_05
+50th birthday?
+
+[00:22:48] SPEAKER_05
+I didn't.
+
+[00:22:49] SPEAKER_05
+Did they send me
+
+[00:22:50] SPEAKER_05
+one?
+
+[00:22:50] SPEAKER_05
+Yeah.
+
+[00:22:51] SPEAKER_05
+You gotta check
+
+[00:22:52] SPEAKER_05
+your email, man.
+
+[00:22:53] SPEAKER_05
+You gotta find
+
+[00:22:53] SPEAKER_05
+it, man.
+
+[00:22:54] SPEAKER_05
+You gotta find
+
+[00:22:54] SPEAKER_05
+it.
+
+[00:22:54] SPEAKER_05
+I hope they
+
+[00:22:54] SPEAKER_05
+didn't send it
+
+[00:22:55] SPEAKER_05
+to my old
+
+[00:22:55] SPEAKER_05
+rooster teeth.
+
+[00:22:56] SPEAKER_05
+Oh, they
+
+[00:22:56] SPEAKER_05
+definitely did,
+
+[00:22:57] SPEAKER_05
+right?
+
+[00:22:57] SPEAKER_05
+No, I gave
+
+[00:22:58] SPEAKER_05
+them your
+
+[00:22:58] SPEAKER_05
+current one.
+
+[00:22:59] SPEAKER_05
+Oh, shit.
+
+[00:23:00] SPEAKER_05
+I'll have to
+
+[00:23:00] SPEAKER_05
+look at my
+
+[00:23:00] SPEAKER_05
+spam.
+
+[00:23:01] SPEAKER_05
+I want it
+
+[00:23:02] SPEAKER_05
+desperately.
+
+[00:23:02] SPEAKER_04
+Yeah, because
+
+[00:23:03] SPEAKER_04
+it comes from
+
+[00:23:03] SPEAKER_04
+the e-card
+
+[00:23:05] SPEAKER_04
+service, not from
+
+[00:23:05] SPEAKER_04
+like an actual
+
+[00:23:06] SPEAKER_04
+person.
+
+[00:23:07] SPEAKER_07
+Oh.
+
+[00:23:07] SPEAKER_07
+So I don't
+
+[00:23:08] SPEAKER_07
+know what time
+
+[00:23:08] SPEAKER_07
+it is.
+
+[00:23:09] SPEAKER_07
+I don't know
+
+[00:23:09] SPEAKER_07
+whose number
+
+[00:23:09] SPEAKER_07
+this is.
+
+[00:23:10] SPEAKER_07
+I don't know
+
+[00:23:10] SPEAKER_07
+what time it
+
+[00:23:11] SPEAKER_07
+is where this
+
+[00:23:11] SPEAKER_07
+place is.
+
+[00:23:12] SPEAKER_07
+What is
+
+[00:23:12] SPEAKER_07
+EE?
+
+[00:23:13] SPEAKER_07
+Does
+
+[00:23:13] SPEAKER_07
+anyone know
+
+[00:23:14] SPEAKER_07
+what country
+
+[00:23:15] SPEAKER_07
+or place
+
+[00:23:16] SPEAKER_07
+EE is?
+
+[00:23:17] SPEAKER_07
+EE?
+
+[00:23:18] SPEAKER_07
+What?
+
+[00:23:19] SPEAKER_07
+EE.
+
+[00:23:20] SPEAKER_07
+What are
+
+[00:23:20] SPEAKER_07
+you?
+
+[00:23:20] SPEAKER_07
+It's Estonia.
+
+[00:23:22] SPEAKER_07
+It's the
+
+[00:23:22] SPEAKER_07
+Republic of
+
+[00:23:22] SPEAKER_05
+Estonia.
+
+[00:23:23] SPEAKER_07
+What?
+
+[00:23:24] SPEAKER_07
+What time is
+
+[00:23:25] SPEAKER_07
+it in Estonia
+
+[00:23:25] SPEAKER_07
+right now?
+
+[00:23:26] SPEAKER_07
+Do we know?
+
+[00:23:27] SPEAKER_07
+It'll probably
+
+[00:23:28] SPEAKER_07
+be like 6 or
+
+[00:23:29] SPEAKER_04
+7 p.m.
+
+[00:23:30] SPEAKER_07
+Okay.
+
+[00:23:30] SPEAKER_06
+I'm calling
+
+[00:23:31] SPEAKER_06
+7.30.
+
+[00:23:33] SPEAKER_06
+7.26 p.m.
+
+[00:23:34] SPEAKER_06
+Yeah, yeah, yeah.
+
+[00:23:35] SPEAKER_06
+Why are we
+
+[00:23:36] SPEAKER_06
+calling Estonia?
+
+[00:23:38] SPEAKER_06
+We want to get
+
+[00:23:39] SPEAKER_06
+an update on the
+
+[00:23:39] SPEAKER_06
+game.
+
+[00:23:43] SPEAKER_01
+Maybe you can
+
+[00:23:44] SPEAKER_01
+leave a message.
+
+[00:23:52] SPEAKER_01
+Hello?
+
+[00:23:54] SPEAKER_01
+Hi, is this
+
+[00:23:55] SPEAKER_01
+2K Studio?
+
+[00:23:56] SPEAKER_99
+Hi, yes.
+
+[00:23:59] SPEAKER_07
+Hi, I was
+
+[00:24:00] SPEAKER_07
+calling, just so
+
+[00:24:01] SPEAKER_07
+you know, I'm on
+
+[00:24:01] SPEAKER_07
+a podcast, I'm
+
+[00:24:02] SPEAKER_07
+recording a podcast.
+
+[00:24:04] SPEAKER_07
+I just finished
+
+[00:24:05] SPEAKER_07
+Mystery Hotel
+
+[00:24:06] SPEAKER_07
+Hidden Objects.
+
+[00:24:07] SPEAKER_07
+Absolutely loved
+
+[00:24:08] SPEAKER_07
+it.
+
+[00:24:08] SPEAKER_07
+I saw that it
+
+[00:24:09] SPEAKER_07
+ended with a
+
+[00:24:10] SPEAKER_07
+to be continued.
+
+[00:24:11] SPEAKER_07
+Is there any
+
+[00:24:12] SPEAKER_07
+information on
+
+[00:24:12] SPEAKER_01
+when that next
+
+[00:24:13] SPEAKER_01
+part will come
+
+[00:24:13] SPEAKER_01
+out?
+
+[00:24:20] SPEAKER_01
+Hello?
+
+[00:24:20] SPEAKER_01
+I'm glad
+
+[00:24:23] SPEAKER_03
+to hear it.
+
+[00:24:25] SPEAKER_07
+Yeah, no
+
+[00:24:26] SPEAKER_07
+problem.
+
+[00:24:28] SPEAKER_03
+Thank you for
+
+[00:24:28] SPEAKER_03
+your feedback.
+
+[00:24:30] SPEAKER_07
+Yeah.
+
+[00:24:32] SPEAKER_03
+Next game
+
+[00:24:33] SPEAKER_03
+in this
+
+[00:24:33] SPEAKER_03
+general.
+
+[00:24:36] SPEAKER_07
+December?
+
+[00:24:38] SPEAKER_03
+No, no, no.
+
+[00:24:39] SPEAKER_03
+We have
+
+[00:24:40] SPEAKER_03
+many, many
+
+[00:24:42] SPEAKER_03
+games.
+
+[00:24:43] SPEAKER_03
+Oh, awesome.
+
+[00:24:45] SPEAKER_03
+We don't have
+
+[00:24:46] SPEAKER_03
+any game
+
+[00:24:48] SPEAKER_03
+in
+
+[00:24:48] SPEAKER_03
+hidden
+
+[00:24:49] SPEAKER_03
+I gotta say.
+
+[00:24:51] SPEAKER_05
+I gotta say.
+
+[00:24:51] SPEAKER_05
+Guys, while he's
+
+[00:24:52] SPEAKER_05
+talking, I missed
+
+[00:24:53] SPEAKER_05
+this.
+
+[00:24:53] SPEAKER_05
+Okay.
+
+[00:24:55] SPEAKER_05
+Fantastic.
+
+[00:24:55] SPEAKER_05
+The one that just
+
+[00:24:55] SPEAKER_05
+calls random
+
+[00:24:56] SPEAKER_05
+numbers.
+
+[00:24:56] SPEAKER_07
+Well, thank you so
+
+[00:24:57] SPEAKER_07
+much for picking
+
+[00:24:58] SPEAKER_07
+up, and I hope
+
+[00:24:58] SPEAKER_07
+you're having a
+
+[00:24:59] SPEAKER_07
+wonderful day,
+
+[00:24:59] SPEAKER_07
+and I can't
+
+[00:25:00] SPEAKER_07
+wait for the
+
+[00:25:01] SPEAKER_07
+next part of
+
+[00:25:01] SPEAKER_07
+mystery.
+
+[00:25:01] SPEAKER_07
+Does not know
+
+[00:25:02] SPEAKER_07
+what you're
+
+[00:25:02] SPEAKER_07
+saying.
+
+[00:25:03] SPEAKER_07
+I'll talk to
+
+[00:25:03] SPEAKER_07
+you later.
+
+[00:25:04] SPEAKER_07
+All right.
+
+[00:25:05] SPEAKER_07
+Oh, you'll
+
+[00:25:06] SPEAKER_07
+talk to him
+
+[00:25:07] SPEAKER_01
+later.
+
+[00:25:10] SPEAKER_06
+We'll be in
+
+[00:25:11] SPEAKER_06
+touch.
+
+[00:25:12] SPEAKER_06
+You said I'll
+
+[00:25:13] SPEAKER_04
+talk to you
+
+[00:25:14] SPEAKER_04
+later.
+
+[00:25:15] SPEAKER_04
+Yeah, I'll
+
+[00:25:15] SPEAKER_04
+call him.
+
+[00:25:16] SPEAKER_04
+So I didn't
+
+[00:25:17] SPEAKER_04
+hear quite a lot
+
+[00:25:18] SPEAKER_04
+of that.
+
+[00:25:18] SPEAKER_04
+So he said
+
+[00:25:19] SPEAKER_04
+December.
+
+[00:25:20] SPEAKER_07
+I don't
+
+[00:25:21] SPEAKER_07
+first.
+
+[00:25:21] SPEAKER_07
+He give us a
+
+[00:25:22] SPEAKER_05
+recap.
+
+[00:25:23] SPEAKER_05
+We couldn't
+
+[00:25:23] SPEAKER_05
+really hear.
+
+[00:25:24] SPEAKER_07
+Okay, so I
+
+[00:25:25] SPEAKER_07
+it was also a
+
+[00:25:26] SPEAKER_07
+little bit hard
+
+[00:25:26] SPEAKER_07
+to hear him
+
+[00:25:27] SPEAKER_07
+because of you
+
+[00:25:27] SPEAKER_07
+guys were so
+
+[00:25:28] SPEAKER_07
+much louder
+
+[00:25:28] SPEAKER_07
+than he was.
+
+[00:25:30] SPEAKER_07
+I think first
+
+[00:25:31] SPEAKER_07
+of all, I
+
+[00:25:32] SPEAKER_07
+think that that
+
+[00:25:32] SPEAKER_07
+is just that
+
+[00:25:33] SPEAKER_07
+dude's private
+
+[00:25:34] SPEAKER_07
+number.
+
+[00:25:34] SPEAKER_07
+I feel so
+
+[00:25:35] SPEAKER_07
+bad.
+
+[00:25:35] SPEAKER_07
+I thought it
+
+[00:25:36] SPEAKER_07
+would go to
+
+[00:25:36] SPEAKER_07
+like a
+
+[00:25:36] SPEAKER_07
+studio line.
+
+[00:25:37] SPEAKER_01
+He's just at
+
+[00:25:38] SPEAKER_07
+home watching
+
+[00:25:39] SPEAKER_07
+TV.
+
+[00:25:40] SPEAKER_07
+This man is
+
+[00:25:41] SPEAKER_07
+Stonia just
+
+[00:25:41] SPEAKER_07
+getting randomly
+
+[00:25:42] SPEAKER_07
+asked about his
+
+[00:25:43] SPEAKER_07
+game.
+
+[00:25:43] SPEAKER_07
+He said from
+
+[00:25:44] SPEAKER_07
+what I could
+
+[00:25:44] SPEAKER_07
+gather.
+
+[00:25:45] SPEAKER_07
+First of all,
+
+[00:25:46] SPEAKER_07
+he appreciated
+
+[00:25:46] SPEAKER_07
+the feedback.
+
+[00:25:47] SPEAKER_07
+He was excited
+
+[00:25:47] SPEAKER_07
+about that.
+
+[00:25:49] SPEAKER_07
+I don't think he
+
+[00:25:50] SPEAKER_07
+understood 90% of
+
+[00:25:52] SPEAKER_07
+the words I said.
+
+[00:25:53] SPEAKER_07
+It was like he
+
+[00:25:53] SPEAKER_07
+was trying to
+
+[00:25:54] SPEAKER_07
+process them,
+
+[00:25:55] SPEAKER_07
+which is very
+
+[00:25:55] SPEAKER_07
+understandable.
+
+[00:25:55] SPEAKER_05
+Yeah, getting
+
+[00:25:57] SPEAKER_05
+called at 730
+
+[00:25:58] SPEAKER_05
+at night by a
+
+[00:25:59] SPEAKER_05
+random Canadian.
+
+[00:26:00] SPEAKER_07
+Yeah, and also
+
+[00:26:01] SPEAKER_07
+it gave me an
+
+[00:26:02] SPEAKER_07
+Ontario number
+
+[00:26:03] SPEAKER_07
+when I put it
+
+[00:26:04] SPEAKER_07
+in, which
+
+[00:26:05] SPEAKER_07
+really threw
+
+[00:26:06] SPEAKER_07
+me because I
+
+[00:26:07] SPEAKER_07
+don't think I
+
+[00:26:08] SPEAKER_07
+called Ontario,
+
+[00:26:09] SPEAKER_07
+but maybe I
+
+[00:26:10] SPEAKER_07
+did.
+
+[00:26:10] SPEAKER_07
+I'm not sure.
+
+[00:26:12] SPEAKER_07
+So that wasn't
+
+[00:26:13] SPEAKER_07
+an international
+
+[00:26:13] SPEAKER_07
+call.
+
+[00:26:15] SPEAKER_07
+I assume that
+
+[00:26:16] SPEAKER_07
+that would be an
+
+[00:26:16] SPEAKER_07
+international call.
+
+[00:26:17] SPEAKER_07
+I don't know how
+
+[00:26:18] SPEAKER_07
+to feel about it
+
+[00:26:19] SPEAKER_07
+because everything's
+
+[00:26:20] SPEAKER_07
+listed like it's
+
+[00:26:21] SPEAKER_07
+international, but
+
+[00:26:22] SPEAKER_07
+did you have to
+
+[00:26:23] SPEAKER_07
+do a plus
+
+[00:26:23] SPEAKER_07
+like a country
+
+[00:26:25] SPEAKER_07
+code?
+
+[00:26:26] SPEAKER_07
+I did.
+
+[00:26:26] SPEAKER_07
+I did a plus
+
+[00:26:27] SPEAKER_07
+one because it
+
+[00:26:28] SPEAKER_07
+was I just wrote
+
+[00:26:29] SPEAKER_07
+out the number
+
+[00:26:29] SPEAKER_07
+how it was
+
+[00:26:30] SPEAKER_07
+displayed and it
+
+[00:26:30] SPEAKER_07
+gave me an
+
+[00:26:31] SPEAKER_07
+Ontario thing.
+
+[00:26:32] SPEAKER_07
+I don't know.
+
+[00:26:33] SPEAKER_04
+So wait,
+
+[00:26:33] SPEAKER_04
+wait, plus one.
+
+[00:26:35] SPEAKER_04
+You put North
+
+[00:26:36] SPEAKER_04
+America on an
+
+[00:26:37] SPEAKER_04
+Estonian phone
+
+[00:26:38] SPEAKER_04
+number.
+
+[00:26:39] SPEAKER_04
+You just called
+
+[00:26:40] SPEAKER_04
+a guy.
+
+[00:26:42] SPEAKER_04
+Did he know
+
+[00:26:42] SPEAKER_04
+what did he
+
+[00:26:43] SPEAKER_04
+know about the
+
+[00:26:43] SPEAKER_04
+game?
+
+[00:26:44] SPEAKER_07
+Yeah, he said
+
+[00:26:45] SPEAKER_07
+that they had
+
+[00:26:45] SPEAKER_07
+plenty of games.
+
+[00:26:47] SPEAKER_07
+It was the right
+
+[00:26:47] SPEAKER_07
+number.
+
+[00:26:49] SPEAKER_04
+I wonder if he
+
+[00:26:49] SPEAKER_04
+just rerouted
+
+[00:26:50] SPEAKER_04
+a I don't
+
+[00:26:54] SPEAKER_04
+understand how
+
+[00:26:54] SPEAKER_06
+you put a plus
+
+[00:26:55] SPEAKER_06
+one and it got
+
+[00:26:56] SPEAKER_06
+you to who
+
+[00:26:57] SPEAKER_06
+you needed to
+
+[00:26:57] SPEAKER_06
+talk to.
+
+[00:26:58] SPEAKER_06
+I put the
+
+[00:26:59] SPEAKER_07
+number in that
+
+[00:27:00] SPEAKER_07
+was displayed
+
+[00:27:01] SPEAKER_07
+and we got
+
+[00:27:03] SPEAKER_07
+there.
+
+[00:27:03] SPEAKER_07
+But so, OK,
+
+[00:27:04] SPEAKER_07
+it doesn't sound
+
+[00:27:05] SPEAKER_07
+like there's a
+
+[00:27:05] SPEAKER_07
+date for but
+
+[00:27:06] SPEAKER_07
+there are other
+
+[00:27:07] SPEAKER_07
+games apparently
+
+[00:27:08] SPEAKER_07
+on the way.
+
+[00:27:09] SPEAKER_07
+Yeah, we'll have
+
+[00:27:10] SPEAKER_07
+to reveal.
+
+[00:27:10] SPEAKER_07
+I have to go
+
+[00:27:11] SPEAKER_07
+into the audio.
+
+[00:27:12] SPEAKER_07
+So we're never
+
+[00:27:13] SPEAKER_07
+going to catch
+
+[00:27:14] SPEAKER_07
+this fucking
+
+[00:27:14] SPEAKER_07
+killer.
+
+[00:27:16] SPEAKER_07
+You know, I
+
+[00:27:16] SPEAKER_07
+think there is a
+
+[00:27:17] SPEAKER_07
+to be continued.
+
+[00:27:18] SPEAKER_07
+Maybe there's going
+
+[00:27:18] SPEAKER_07
+to be some more
+
+[00:27:19] SPEAKER_07
+excitement about
+
+[00:27:20] SPEAKER_07
+mystery hotel hidden
+
+[00:27:20] SPEAKER_07
+objects and
+
+[00:27:21] SPEAKER_07
+they'll see a bump
+
+[00:27:22] SPEAKER_07
+and they'll be
+
+[00:27:23] SPEAKER_07
+like, we got to
+
+[00:27:23] SPEAKER_07
+get back to
+
+[00:27:24] SPEAKER_07
+this.
+
+[00:27:24] SPEAKER_05
+Like, are we
+
+[00:27:25] SPEAKER_05
+just going to
+
+[00:27:25] SPEAKER_05
+spend the rest
+
+[00:27:26] SPEAKER_05
+of our lives
+
+[00:27:27] SPEAKER_05
+at this lady's
+
+[00:27:28] SPEAKER_05
+mansion by the
+
+[00:27:28] SPEAKER_05
+water while she
+
+[00:27:30] SPEAKER_05
+has us?
+
+[00:27:30] SPEAKER_05
+Because wasn't
+
+[00:27:31] SPEAKER_05
+she going to
+
+[00:27:31] SPEAKER_05
+hire us to
+
+[00:27:32] SPEAKER_05
+solve her own
+
+[00:27:33] SPEAKER_05
+mystery?
+
+[00:27:33] SPEAKER_05
+I don't even
+
+[00:27:34] SPEAKER_05
+know what that
+
+[00:27:34] SPEAKER_05
+is.
+
+[00:27:35] SPEAKER_07
+Yeah, that's
+
+[00:27:36] SPEAKER_07
+so we got a
+
+[00:27:37] SPEAKER_07
+lot of questions.
+
+[00:27:38] SPEAKER_07
+We want to
+
+[00:27:38] SPEAKER_07
+call anybody else
+
+[00:27:39] SPEAKER_07
+any other games
+
+[00:27:40] SPEAKER_07
+so before we
+
+[00:27:41] SPEAKER_07
+move on.
+
+[00:27:42] SPEAKER_06
+So it's is
+
+[00:27:43] SPEAKER_06
+this the studio
+
+[00:27:45] SPEAKER_06
+because there's a
+
+[00:27:45] SPEAKER_06
+lot of other
+
+[00:27:46] SPEAKER_06
+games that they
+
+[00:27:47] SPEAKER_06
+have.
+
+[00:27:48] SPEAKER_06
+I don't know
+
+[00:27:49] SPEAKER_06
+what when you
+
+[00:27:49] SPEAKER_07
+say is this the
+
+[00:27:50] SPEAKER_07
+studio?
+
+[00:27:50] SPEAKER_07
+What do you
+
+[00:27:51] SPEAKER_07
+mean?
+
+[00:27:51] SPEAKER_07
+I'm sharing my
+
+[00:27:52] SPEAKER_07
+screen right now.
+
+[00:27:53] SPEAKER_06
+Oh, is there a
+
+[00:27:55] SPEAKER_06
+world where we
+
+[00:27:55] SPEAKER_06
+play cyber wild
+
+[00:27:57] SPEAKER_06
+west?
+
+[00:27:58] SPEAKER_05
+I might be real
+
+[00:28:00] SPEAKER_05
+into this, dude.
+
+[00:28:01] SPEAKER_05
+I'll be honest
+
+[00:28:01] SPEAKER_05
+with you.
+
+[00:28:02] SPEAKER_05
+Cyber wild west
+
+[00:28:03] SPEAKER_05
+looks a hell of a
+
+[00:28:03] SPEAKER_05
+lot like a hidden
+
+[00:28:05] SPEAKER_05
+hotel mystery
+
+[00:28:06] SPEAKER_05
+object.
+
+[00:28:07] SPEAKER_05
+So I'm the kind
+
+[00:28:08] SPEAKER_05
+of thing that's
+
+[00:28:08] SPEAKER_05
+going to 20
+
+[00:28:10] SPEAKER_05
+minutes in I've
+
+[00:28:10] SPEAKER_04
+got a headache.
+
+[00:28:11] SPEAKER_06
+This looks like
+
+[00:28:12] SPEAKER_06
+the kind of thing
+
+[00:28:12] SPEAKER_06
+that I think
+
+[00:28:14] SPEAKER_06
+Gavin, your
+
+[00:28:14] SPEAKER_06
+wife would really
+
+[00:28:15] SPEAKER_06
+like to do.
+
+[00:28:16] SPEAKER_06
+Does it is this
+
+[00:28:16] SPEAKER_06
+thing that Meg
+
+[00:28:17] SPEAKER_06
+would like hit
+
+[00:28:18] SPEAKER_04
+get hidden
+
+[00:28:19] SPEAKER_04
+objects with
+
+[00:28:20] SPEAKER_04
+Edgar Poe?
+
+[00:28:21] SPEAKER_04
+I've never
+
+[00:28:21] SPEAKER_04
+heard him called
+
+[00:28:22] SPEAKER_04
+Edgar Poe.
+
+[00:28:23] SPEAKER_05
+Time to Andrew.
+
+[00:28:26] SPEAKER_05
+I think we have
+
+[00:28:27] SPEAKER_05
+a lot.
+
+[00:28:27] SPEAKER_05
+We have a lot
+
+[00:28:28] SPEAKER_05
+of him.
+
+[00:28:29] SPEAKER_05
+I'm looking up
+
+[00:28:30] SPEAKER_07
+Edgar Poe on
+
+[00:28:31] SPEAKER_07
+the store right
+
+[00:28:31] SPEAKER_07
+now.
+
+[00:28:32] SPEAKER_07
+Hidden objects
+
+[00:28:32] SPEAKER_07
+with Edgar Poe
+
+[00:28:33] SPEAKER_07
+is on the Xbox
+
+[00:28:34] SPEAKER_07
+store.
+
+[00:28:34] SPEAKER_07
+Jeff, we got
+
+[00:28:34] SPEAKER_07
+our next one.
+
+[00:28:35] SPEAKER_06
+Yeah, we'll
+
+[00:28:37] SPEAKER_04
+just cool.
+
+[00:28:38] SPEAKER_04
+I did beauty
+
+[00:28:39] SPEAKER_06
+in the beauty
+
+[00:28:40] SPEAKER_06
+in the beast.
+
+[00:28:41] SPEAKER_05
+There's the
+
+[00:28:42] SPEAKER_05
+original time
+
+[00:28:42] SPEAKER_05
+trap.
+
+[00:28:43] SPEAKER_05
+The original
+
+[00:28:44] SPEAKER_05
+around the world
+
+[00:28:45] SPEAKER_05
+in 80 days
+
+[00:28:45] SPEAKER_05
+hidden objects.
+
+[00:28:46] SPEAKER_05
+Romance with
+
+[00:28:48] SPEAKER_05
+chocolate?
+
+[00:28:49] SPEAKER_05
+That's a game?
+
+[00:28:52] SPEAKER_07
+I'm very
+
+[00:28:52] SPEAKER_07
+confused.
+
+[00:28:53] SPEAKER_05
+You will meet
+
+[00:28:56] SPEAKER_05
+new animals.
+
+[00:29:00] SPEAKER_05
+There's a game
+
+[00:29:01] SPEAKER_05
+called
+
+[00:29:01] SPEAKER_05
+Hidden Animals
+
+[00:29:03] SPEAKER_05
+and it just says
+
+[00:29:04] SPEAKER_05
+you will meet
+
+[00:29:05] SPEAKER_05
+new animals.
+
+[00:29:06] SPEAKER_05
+It's like a
+
+[00:29:07] SPEAKER_05
+threat.
+
+[00:29:10] SPEAKER_04
+And look,
+
+[00:29:11] SPEAKER_04
+the top of it
+
+[00:29:12] SPEAKER_04
+is the Wikipedia
+
+[00:29:13] SPEAKER_04
+logo.
+
+[00:29:13] SPEAKER_06
+Detectives
+
+[00:29:21] SPEAKER_06
+holes.
+
+[00:29:22] SPEAKER_06
+Oh my God.
+
+[00:29:23] SPEAKER_06
+Dude.
+
+[00:29:24] SPEAKER_06
+God damn.
+
+[00:29:25] SPEAKER_06
+You guys have
+
+[00:29:26] SPEAKER_06
+found something
+
+[00:29:26] SPEAKER_06
+that I never
+
+[00:29:27] SPEAKER_06
+would have found.
+
+[00:29:28] SPEAKER_06
+This is just
+
+[00:29:29] SPEAKER_06
+clip art that I've
+
+[00:29:30] SPEAKER_06
+had no interest
+
+[00:29:30] SPEAKER_06
+in.
+
+[00:29:31] SPEAKER_06
+This is incredible.
+
+[00:29:32] SPEAKER_06
+Wow.
+
+[00:29:33] SPEAKER_06
+We have to play
+
+[00:29:34] SPEAKER_06
+every one of
+
+[00:29:35] SPEAKER_06
+these games.
+
+[00:29:36] SPEAKER_06
+This is a four.
+
+[00:29:36] SPEAKER_06
+Is this all
+
+[00:29:37] SPEAKER_07
+under two cakes?
+
+[00:29:38] SPEAKER_06
+Uh, this is
+
+[00:29:40] SPEAKER_06
+this is crisp
+
+[00:29:41] SPEAKER_06
+app.
+
+[00:29:42] SPEAKER_06
+Okay.
+
+[00:29:43] SPEAKER_06
+So this is
+
+[00:29:43] SPEAKER_07
+crisp app
+
+[00:29:44] SPEAKER_07
+is.
+
+[00:29:45] SPEAKER_07
+It's the same
+
+[00:29:46] SPEAKER_07
+company, I
+
+[00:29:47] SPEAKER_07
+guess.
+
+[00:29:47] SPEAKER_07
+That's what it
+
+[00:29:48] SPEAKER_07
+looks like.
+
+[00:29:48] SPEAKER_07
+Because I
+
+[00:29:48] SPEAKER_07
+searched for the
+
+[00:29:49] SPEAKER_06
+developer of
+
+[00:29:50] SPEAKER_06
+your hidden
+
+[00:29:50] SPEAKER_06
+mystery game
+
+[00:29:51] SPEAKER_06
+and it gave
+
+[00:29:52] SPEAKER_06
+me this.
+
+[00:29:52] SPEAKER_06
+Okay.
+
+[00:29:53] SPEAKER_04
+Oh, God.
+
+[00:29:54] SPEAKER_04
+Interesting.
+
+[00:29:55] SPEAKER_04
+For everyone
+
+[00:29:55] SPEAKER_04
+watching or
+
+[00:29:56] SPEAKER_04
+listening on a
+
+[00:29:56] SPEAKER_04
+podcast app,
+
+[00:29:58] SPEAKER_04
+you can see all
+
+[00:29:58] SPEAKER_04
+this on the
+
+[00:29:59] SPEAKER_04
+YouTube version of
+
+[00:30:00] SPEAKER_04
+this episode.
+
+[00:30:00] SPEAKER_04
+Yeah.
+
+[00:30:01] SPEAKER_04
+A lot of
+
+[00:30:01] SPEAKER_06
+images.
+
+[00:30:02] SPEAKER_06
+Oh, man.
+
+[00:30:03] SPEAKER_06
+Any other games
+
+[00:30:04] SPEAKER_07
+you want to
+
+[00:30:04] SPEAKER_07
+call before I
+
+[00:30:05] SPEAKER_07
+move on?
+
+[00:30:06] SPEAKER_06
+No, it looks
+
+[00:30:06] SPEAKER_06
+like a lot of
+
+[00:30:07] SPEAKER_06
+these maybe are
+
+[00:30:07] SPEAKER_06
+on the app
+
+[00:30:09] SPEAKER_06
+store for your
+
+[00:30:09] SPEAKER_06
+telephone.
+
+[00:30:10] SPEAKER_06
+So they'll
+
+[00:30:11] SPEAKER_06
+well, wait,
+
+[00:30:12] SPEAKER_06
+cool.
+
+[00:30:13] SPEAKER_04
+Can you call
+
+[00:30:14] SPEAKER_04
+Rockstar and
+
+[00:30:14] SPEAKER_04
+ask when GTA
+
+[00:30:15] SPEAKER_04
+six is coming
+
+[00:30:15] SPEAKER_04
+up?
+
+[00:30:16] SPEAKER_07
+Give me a
+
+[00:30:17] SPEAKER_07
+second.
+
+[00:30:19] SPEAKER_07
+Just feel
+
+[00:30:20] SPEAKER_07
+like we could
+
+[00:30:20] SPEAKER_07
+have some
+
+[00:30:20] SPEAKER_04
+five breaking
+
+[00:30:22] SPEAKER_04
+news here.
+
+[00:30:23] SPEAKER_07
+Yeah.
+
+[00:30:23] SPEAKER_07
+Wait, what
+
+[00:30:24] SPEAKER_07
+did you why
+
+[00:30:24] SPEAKER_07
+did you search
+
+[00:30:25] SPEAKER_07
+GTA five?
+
+[00:30:26] SPEAKER_07
+Because I
+
+[00:30:26] SPEAKER_07
+got to pull
+
+[00:30:26] SPEAKER_07
+it up on
+
+[00:30:27] SPEAKER_07
+the Xbox
+
+[00:30:27] SPEAKER_07
+store so I
+
+[00:30:28] SPEAKER_07
+can get to
+
+[00:30:28] SPEAKER_07
+well, no,
+
+[00:30:34] SPEAKER_07
+because I'm
+
+[00:30:35] SPEAKER_07
+going through
+
+[00:30:35] SPEAKER_07
+the Xbox
+
+[00:30:35] SPEAKER_07
+store to get
+
+[00:30:36] SPEAKER_07
+the more
+
+[00:30:36] SPEAKER_05
+this guy is
+
+[00:30:38] SPEAKER_05
+he's an
+
+[00:30:39] SPEAKER_05
+Xbox wizard.
+
+[00:30:40] SPEAKER_05
+He showed
+
+[00:30:40] SPEAKER_05
+me the other
+
+[00:30:41] SPEAKER_05
+day something
+
+[00:30:41] SPEAKER_05
+I had no
+
+[00:30:42] SPEAKER_05
+idea.
+
+[00:30:43] SPEAKER_05
+You can
+
+[00:30:43] SPEAKER_05
+unhide hidden
+
+[00:30:45] SPEAKER_05
+achievements and
+
+[00:30:45] SPEAKER_05
+see what the
+
+[00:30:46] SPEAKER_05
+requirements are.
+
+[00:30:47] SPEAKER_05
+You can just
+
+[00:30:48] SPEAKER_05
+yeah, that's been
+
+[00:30:49] SPEAKER_05
+around.
+
+[00:30:49] SPEAKER_05
+It says like
+
+[00:30:49] SPEAKER_05
+unhide a long
+
+[00:30:51] SPEAKER_05
+time.
+
+[00:30:52] SPEAKER_05
+I used to run
+
+[00:30:52] SPEAKER_05
+a fucking
+
+[00:30:53] SPEAKER_05
+guy.
+
+[00:30:53] SPEAKER_05
+I was like
+
+[00:30:54] SPEAKER_05
+the first
+
+[00:30:55] SPEAKER_05
+dude with
+
+[00:30:56] SPEAKER_05
+achievements and
+
+[00:30:58] SPEAKER_05
+I had no
+
+[00:30:58] SPEAKER_05
+fucking clue.
+
+[00:30:59] SPEAKER_05
+I wonder if
+
+[00:31:00] SPEAKER_05
+that's something
+
+[00:31:00] SPEAKER_05
+you knew about
+
+[00:31:01] SPEAKER_05
+and then forgot
+
+[00:31:02] SPEAKER_05
+or whether you
+
+[00:31:03] SPEAKER_05
+genuinely never
+
+[00:31:03] SPEAKER_05
+knew about that.
+
+[00:31:04] SPEAKER_05
+I think it
+
+[00:31:05] SPEAKER_05
+probably it was
+
+[00:31:06] SPEAKER_05
+probably a feature
+
+[00:31:07] SPEAKER_05
+that was added
+
+[00:31:07] SPEAKER_05
+after I quit
+
+[00:31:08] SPEAKER_05
+gaming or
+
+[00:31:09] SPEAKER_05
+quit caring,
+
+[00:31:09] SPEAKER_05
+you know,
+
+[00:31:10] SPEAKER_05
+but I'll be
+
+[00:31:11] SPEAKER_05
+honest.
+
+[00:31:11] SPEAKER_05
+I'm I'm I
+
+[00:31:12] SPEAKER_05
+am achievement
+
+[00:31:13] SPEAKER_05
+hunting in this
+
+[00:31:14] SPEAKER_05
+fucking power
+
+[00:31:14] SPEAKER_05
+watch simulator
+
+[00:31:15] SPEAKER_05
+game pretty hard
+
+[00:31:15] SPEAKER_05
+right now.
+
+[00:31:16] SPEAKER_05
+So it's so much
+
+[00:31:17] SPEAKER_07
+fun.
+
+[00:31:18] SPEAKER_07
+Okay, I'm
+
+[00:31:18] SPEAKER_07
+going to call
+
+[00:31:18] SPEAKER_07
+this number.
+
+[00:31:19] SPEAKER_07
+Let's see.
+
+[00:31:28] SPEAKER_07
+Rockstar East
+
+[00:31:33] SPEAKER_07
+the person you
+
+[00:31:34] SPEAKER_07
+were trying to
+
+[00:31:35] SPEAKER_07
+reach is not
+
+[00:31:35] SPEAKER_07
+available.
+
+[00:31:36] SPEAKER_07
+Goodbye.
+
+[00:31:36] SPEAKER_07
+It just hangs
+
+[00:31:37] SPEAKER_07
+up.
+
+[00:31:37] SPEAKER_07
+Awesome.
+
+[00:31:39] SPEAKER_07
+Wow.
+
+[00:31:40] SPEAKER_07
+They have
+
+[00:31:40] SPEAKER_07
+a man phone
+
+[00:31:42] SPEAKER_07
+number.
+
+[00:31:42] SPEAKER_07
+Yeah, they
+
+[00:31:43] SPEAKER_07
+locked that
+
+[00:31:43] SPEAKER_07
+down.
+
+[00:31:45] SPEAKER_07
+I guess we
+
+[00:31:45] SPEAKER_07
+just will never
+
+[00:31:46] SPEAKER_07
+know when GTA
+
+[00:31:46] SPEAKER_07
+six comes out,
+
+[00:31:47] SPEAKER_07
+but I'm glad that
+
+[00:31:47] SPEAKER_07
+we could get to
+
+[00:31:48] SPEAKER_07
+the bottom of
+
+[00:31:48] SPEAKER_07
+this murder mystery
+
+[00:31:49] SPEAKER_07
+thing.
+
+[00:31:50] SPEAKER_04
+We didn't get to
+
+[00:31:50] SPEAKER_04
+the bottom of
+
+[00:31:50] SPEAKER_05
+anything.
+
+[00:31:51] SPEAKER_05
+We may never
+
+[00:31:52] SPEAKER_05
+solve the murder
+
+[00:31:53] SPEAKER_05
+of who killed
+
+[00:31:54] SPEAKER_05
+our grandmother,
+
+[00:31:54] SPEAKER_05
+but at least we
+
+[00:31:56] SPEAKER_05
+know that we can
+
+[00:31:57] SPEAKER_05
+find vampire
+
+[00:31:58] SPEAKER_05
+hidden objects
+
+[00:31:59] SPEAKER_05
+and discover
+
+[00:31:59] SPEAKER_05
+new animals.
+
+[00:32:00] SPEAKER_07
+It's a new
+
+[00:32:01] SPEAKER_07
+segment called
+
+[00:32:02] SPEAKER_07
+Andrew gets to
+
+[00:32:02] SPEAKER_07
+the bottom of
+
+[00:32:03] SPEAKER_07
+it to the
+
+[00:32:05] SPEAKER_07
+bottom of it.
+
+[00:32:06] SPEAKER_07
+Is it great?
+
+[00:32:07] SPEAKER_07
+Got to the
+
+[00:32:07] SPEAKER_07
+bottom of it.
+
+[00:32:08] SPEAKER_07
+And it could
+
+[00:32:08] SPEAKER_07
+just be about
+
+[00:32:09] SPEAKER_07
+anything could
+
+[00:32:10] SPEAKER_07
+be about
+
+[00:32:10] SPEAKER_07
+anything.
+
+[00:32:11] SPEAKER_05
+He's like the
+
+[00:32:12] SPEAKER_05
+dude on local
+
+[00:32:13] SPEAKER_05
+news.
+
+[00:32:13] SPEAKER_05
+He's like,
+
+[00:32:14] SPEAKER_05
+what's really
+
+[00:32:14] SPEAKER_05
+going on at
+
+[00:32:15] SPEAKER_05
+the massage
+
+[00:32:15] SPEAKER_05
+parlor?
+
+[00:32:16] SPEAKER_05
+I find out.
+
+[00:32:17] SPEAKER_07
+I haven't
+
+[00:32:18] SPEAKER_07
+gotten to the
+
+[00:32:18] SPEAKER_07
+bottom of it
+
+[00:32:19] SPEAKER_07
+yet, but I
+
+[00:32:19] SPEAKER_07
+was wondering
+
+[00:32:20] SPEAKER_07
+for the first
+
+[00:32:21] SPEAKER_07
+time yesterday
+
+[00:32:22] SPEAKER_07
+never had this
+
+[00:32:23] SPEAKER_07
+thought was
+
+[00:32:24] SPEAKER_07
+Mama Mia a
+
+[00:32:25] SPEAKER_07
+person.
+
+[00:32:25] SPEAKER_07
+Is there a
+
+[00:32:27] SPEAKER_07
+Mama Mia?
+
+[00:32:29] SPEAKER_07
+Is it Mama
+
+[00:32:30] SPEAKER_07
+Mia or is it
+
+[00:32:32] SPEAKER_07
+just like a
+
+[00:32:32] SPEAKER_07
+phrase?
+
+[00:32:33] SPEAKER_07
+Mama Mia.
+
+[00:32:35] SPEAKER_07
+Haven't got to
+
+[00:32:35] SPEAKER_07
+the bottom of
+
+[00:32:36] SPEAKER_07
+it yet to be
+
+[00:32:37] SPEAKER_07
+to be continued
+
+[00:32:37] SPEAKER_07
+much like
+
+[00:32:38] SPEAKER_07
+Mystery Hotel.
+
+[00:32:39] SPEAKER_07
+Here we go.
+
+[00:32:40] SPEAKER_07
+Do some
+
+[00:32:40] SPEAKER_07
+research.
+
+[00:32:41] SPEAKER_07
+I'll look back
+
+[00:32:41] SPEAKER_07
+on that.
+
+[00:32:43] SPEAKER_07
+So I don't
+
+[00:32:43] SPEAKER_07
+know the origin
+
+[00:32:44] SPEAKER_07
+of Mama Mia
+
+[00:32:45] SPEAKER_07
+could be a
+
+[00:32:45] SPEAKER_07
+Mama Mia.
+
+[00:32:46] SPEAKER_07
+Is it an
+
+[00:32:46] SPEAKER_07
+ABBA thing?
+
+[00:32:47] SPEAKER_07
+Because they say
+
+[00:32:48] SPEAKER_07
+Mama Mia quite
+
+[00:32:48] SPEAKER_07
+a bit, but
+
+[00:32:49] SPEAKER_07
+maybe that's the
+
+[00:32:50] SPEAKER_07
+phrase that is
+
+[00:32:51] SPEAKER_07
+that is the
+
+[00:32:52] SPEAKER_07
+phrase.
+
+[00:32:52] SPEAKER_07
+Yeah, you
+
+[00:32:53] SPEAKER_04
+think it
+
+[00:32:54] SPEAKER_04
+originated in
+
+[00:32:54] SPEAKER_04
+Sweden instead
+
+[00:32:55] SPEAKER_04
+of Italy?
+
+[00:32:55] SPEAKER_06
+the classic
+
+[00:32:58] SPEAKER_06
+Swedish phrase.
+
+[00:33:00] SPEAKER_06
+Here we go
+
+[00:33:00] SPEAKER_06
+again.
+
+[00:33:01] SPEAKER_06
+I want this
+
+[00:33:03] SPEAKER_06
+was the thing
+
+[00:33:03] SPEAKER_06
+that I remember
+
+[00:33:04] SPEAKER_06
+growing up that
+
+[00:33:05] SPEAKER_06
+I this is I
+
+[00:33:06] SPEAKER_06
+want something
+
+[00:33:06] SPEAKER_06
+similar with
+
+[00:33:07] SPEAKER_06
+Andrew.
+
+[00:33:07] SPEAKER_06
+This is the
+
+[00:33:08] SPEAKER_06
+Turco files
+
+[00:33:09] SPEAKER_06
+on our local
+
+[00:33:14] SPEAKER_06
+on our local
+
+[00:33:15] SPEAKER_06
+news when I
+
+[00:33:15] SPEAKER_06
+was growing
+
+[00:33:16] SPEAKER_06
+up to
+
+[00:33:16] SPEAKER_06
+USI and
+
+[00:33:17] SPEAKER_06
+he would
+
+[00:33:17] SPEAKER_06
+he would tell
+
+[00:33:19] SPEAKER_06
+you that
+
+[00:33:19] SPEAKER_06
+something was
+
+[00:33:20] SPEAKER_06
+wrong out
+
+[00:33:20] SPEAKER_06
+there.
+
+[00:33:20] SPEAKER_06
+He's been
+
+[00:33:21] SPEAKER_06
+doing it for
+
+[00:33:21] SPEAKER_06
+a long time.
+
+[00:33:21] SPEAKER_06
+So here's a
+
+[00:33:22] SPEAKER_06
+here's a more
+
+[00:33:23] SPEAKER_06
+recent photo.
+
+[00:33:23] SPEAKER_06
+So he
+
+[00:33:24] SPEAKER_06
+would tell
+
+[00:33:24] SPEAKER_06
+you it
+
+[00:33:25] SPEAKER_06
+ain't right
+
+[00:33:26] SPEAKER_06
+and then
+
+[00:33:26] SPEAKER_06
+yeah, and
+
+[00:33:28] SPEAKER_06
+so to me
+
+[00:33:29] SPEAKER_06
+this is what
+
+[00:33:30] SPEAKER_06
+Andrew is
+
+[00:33:30] SPEAKER_06
+getting back
+
+[00:33:31] SPEAKER_06
+at is that
+
+[00:33:31] SPEAKER_06
+we're doing a
+
+[00:33:32] SPEAKER_06
+Turco files
+
+[00:33:33] SPEAKER_06
+thing.
+
+[00:33:33] SPEAKER_06
+He looks like
+
+[00:33:34] SPEAKER_06
+jank Dr.
+
+[00:33:35] SPEAKER_04
+Phil.
+
+[00:33:35] SPEAKER_04
+He does.
+
+[00:33:36] SPEAKER_04
+It looks like
+
+[00:33:39] SPEAKER_04
+through as time
+
+[00:33:39] SPEAKER_04
+has progressed
+
+[00:33:40] SPEAKER_04
+his mustache
+
+[00:33:41] SPEAKER_04
+would get
+
+[00:33:42] SPEAKER_04
+better at
+
+[00:33:42] SPEAKER_04
+scrubbing.
+
+[00:33:43] SPEAKER_05
+Yeah, I
+
+[00:33:45] SPEAKER_05
+agree.
+
+[00:33:45] SPEAKER_05
+What was the
+
+[00:33:46] SPEAKER_05
+famous dude
+
+[00:33:46] SPEAKER_05
+from Houston
+
+[00:33:47] SPEAKER_05
+Marvin Zindler
+
+[00:33:48] SPEAKER_05
+does that
+
+[00:33:48] SPEAKER_05
+ring a bell?
+
+[00:33:49] SPEAKER_05
+You know, I
+
+[00:33:50] SPEAKER_05
+have no idea
+
+[00:33:50] SPEAKER_05
+who that is.
+
+[00:33:51] SPEAKER_05
+He was a
+
+[00:33:52] SPEAKER_05
+he was this
+
+[00:33:54] SPEAKER_06
+guy slime in
+
+[00:33:55] SPEAKER_06
+the ice machine
+
+[00:33:55] SPEAKER_05
+guy the slime
+
+[00:33:56] SPEAKER_05
+in the ice
+
+[00:33:56] SPEAKER_05
+machine guy
+
+[00:33:57] SPEAKER_06
+he's same
+
+[00:33:57] SPEAKER_05
+dude.
+
+[00:33:58] SPEAKER_06
+Yeah.
+
+[00:33:58] SPEAKER_05
+Oh, yeah,
+
+[00:33:59] SPEAKER_04
+he's he's
+
+[00:33:59] SPEAKER_04
+Zindler.
+
+[00:34:00] SPEAKER_06
+Yeah, Marvin
+
+[00:34:02] SPEAKER_06
+Zindler's hang
+
+[00:34:03] SPEAKER_06
+on, hang on,
+
+[00:34:03] SPEAKER_06
+hang on, hang
+
+[00:34:04] SPEAKER_06
+on.
+
+[00:34:04] SPEAKER_06
+Like, look at
+
+[00:34:05] SPEAKER_06
+this dude.
+
+[00:34:05] SPEAKER_06
+Here's Marvin
+
+[00:34:06] SPEAKER_06
+Zindler's rat
+
+[00:34:07] SPEAKER_06
+and roach
+
+[00:34:08] SPEAKER_06
+report.
+
+[00:34:09] SPEAKER_04
+Do you think
+
+[00:34:10] SPEAKER_04
+Zindler ever
+
+[00:34:11] SPEAKER_04
+met Zimmer?
+
+[00:34:12] SPEAKER_04
+Whoa.
+
+[00:34:13] SPEAKER_04
+I would assume
+
+[00:34:14] SPEAKER_07
+so.
+
+[00:34:15] SPEAKER_05
+Worlds are
+
+[00:34:16] SPEAKER_05
+colliding.
+
+[00:34:17] SPEAKER_05
+He looks like
+
+[00:34:18] SPEAKER_07
+baby Billy's
+
+[00:34:19] SPEAKER_07
+brother or
+
+[00:34:20] SPEAKER_07
+that they'd
+
+[00:34:21] SPEAKER_07
+like.
+
+[00:34:21] SPEAKER_06
+Yeah, he looks
+
+[00:34:23] SPEAKER_05
+like this guy's
+
+[00:34:24] SPEAKER_05
+doing Bible
+
+[00:34:24] SPEAKER_05
+bonkers for sure.
+
+[00:34:25] SPEAKER_05
+He looks like
+
+[00:34:26] SPEAKER_05
+the guy they
+
+[00:34:26] SPEAKER_05
+based baby Billy
+
+[00:34:27] SPEAKER_05
+on maybe even
+
+[00:34:28] SPEAKER_05
+his hair looks
+
+[00:34:31] SPEAKER_05
+so flammable.
+
+[00:34:32] SPEAKER_01
+He looks
+
+[00:34:36] SPEAKER_04
+like he'd go
+
+[00:34:36] SPEAKER_04
+up like you
+
+[00:34:37] SPEAKER_07
+wouldn't believe
+
+[00:34:38] SPEAKER_07
+just imagining
+
+[00:34:41] SPEAKER_07
+Marvin Zindler's
+
+[00:34:42] SPEAKER_07
+hair on fire
+
+[00:34:43] SPEAKER_07
+while Turco
+
+[00:34:43] SPEAKER_07
+yells it
+
+[00:34:44] SPEAKER_07
+ain't right.
+
+[00:34:45] SPEAKER_06
+Yeah, this is
+
+[00:34:46] SPEAKER_06
+great.
+
+[00:34:46] SPEAKER_06
+We got to get
+
+[00:34:47] SPEAKER_06
+Andrew into
+
+[00:34:47] SPEAKER_06
+this sort of
+
+[00:34:48] SPEAKER_06
+like local
+
+[00:34:48] SPEAKER_06
+news sphere.
+
+[00:34:49] SPEAKER_06
+That's it.
+
+[00:34:50] SPEAKER_06
+That's it.
+
+[00:34:50] SPEAKER_06
+Thank you so
+
+[00:34:51] SPEAKER_06
+much.
+
+[00:34:51] SPEAKER_06
+God, that's so
+
+[00:34:52] SPEAKER_06
+good.
+
+[00:34:52] SPEAKER_06
+That's awesome.
+
+[00:34:53] SPEAKER_06
+That's awesome.
+
+[00:34:54] SPEAKER_06
+Incredible possibilities.
+
+[00:34:56] SPEAKER_06
+Nick has
+
+[00:34:56] SPEAKER_06
+photoshopped
+
+[00:34:57] SPEAKER_06
+Andrew's face
+
+[00:34:58] SPEAKER_06
+onto the Turco
+
+[00:34:59] SPEAKER_06
+files.
+
+[00:34:59] SPEAKER_06
+I think
+
+[00:35:00] SPEAKER_06
+that's our
+
+[00:35:00] SPEAKER_06
+thumbnail right
+
+[00:35:01] SPEAKER_06
+there.
+
+[00:35:01] SPEAKER_06
+Sorry.
+
+[00:35:02] SPEAKER_06
+Sorry, bedpan.
+
+[00:35:03] SPEAKER_06
+You just got
+
+[00:35:04] SPEAKER_06
+replaced.
+
+[00:35:05] SPEAKER_06
+Wow, man.
+
+[00:35:06] SPEAKER_06
+This is really
+
+[00:35:07] SPEAKER_06
+this is a
+
+[00:35:08] SPEAKER_06
+this is incredible.
+
+[00:35:09] SPEAKER_06
+We're calling
+
+[00:35:09] SPEAKER_06
+phone numbers.
+
+[00:35:10] SPEAKER_06
+We're talking
+
+[00:35:11] SPEAKER_06
+old TV.
+
+[00:35:12] SPEAKER_06
+This is a
+
+[00:35:12] SPEAKER_06
+classic.
+
+[00:35:13] SPEAKER_07
+It is fun
+
+[00:35:14] SPEAKER_07
+old TV.
+
+[00:35:15] SPEAKER_07
+I watched
+
+[00:35:15] SPEAKER_07
+recently a
+
+[00:35:17] SPEAKER_07
+thing of local
+
+[00:35:18] SPEAKER_07
+news where they
+
+[00:35:18] SPEAKER_07
+had Frank
+
+[00:35:19] SPEAKER_07
+Nye, the mayor
+
+[00:35:20] SPEAKER_07
+of Nanaimo at
+
+[00:35:21] SPEAKER_07
+the time
+
+[00:35:21] SPEAKER_07
+arguing with
+
+[00:35:23] SPEAKER_07
+a cable
+
+[00:35:23] SPEAKER_07
+provider because
+
+[00:35:24] SPEAKER_07
+they just
+
+[00:35:24] SPEAKER_07
+approved phone
+
+[00:35:25] SPEAKER_07
+in shopping
+
+[00:35:26] SPEAKER_07
+networks and
+
+[00:35:28] SPEAKER_07
+he was worried
+
+[00:35:28] SPEAKER_07
+it would tank
+
+[00:35:29] SPEAKER_07
+the economy
+
+[00:35:30] SPEAKER_07
+and it was
+
+[00:35:31] SPEAKER_07
+so funny
+
+[00:35:32] SPEAKER_07
+watching these
+
+[00:35:33] SPEAKER_07
+two people go
+
+[00:35:34] SPEAKER_07
+back and forth
+
+[00:35:35] SPEAKER_07
+about the
+
+[00:35:35] SPEAKER_07
+impact that
+
+[00:35:36] SPEAKER_07
+phone in
+
+[00:35:37] SPEAKER_07
+shopping would
+
+[00:35:38] SPEAKER_07
+have on the
+
+[00:35:39] SPEAKER_07
+local economy,
+
+[00:35:40] SPEAKER_07
+not factoring in
+
+[00:35:41] SPEAKER_07
+the Internet as
+
+[00:35:42] SPEAKER_07
+a possibility at
+
+[00:35:43] SPEAKER_07
+all.
+
+[00:35:44] SPEAKER_07
+It was great.
+
+[00:35:46] SPEAKER_07
+20 minutes of
+
+[00:35:47] SPEAKER_07
+them arguing
+
+[00:35:48] SPEAKER_07
+that cable
+
+[00:35:49] SPEAKER_07
+providers should
+
+[00:35:50] SPEAKER_07
+have to buy
+
+[00:35:51] SPEAKER_07
+like a license
+
+[00:35:52] SPEAKER_07
+essentially like
+
+[00:35:52] SPEAKER_07
+a license to
+
+[00:35:53] SPEAKER_04
+sell.
+
+[00:35:54] SPEAKER_07
+Yes, that's
+
+[00:35:56] SPEAKER_04
+incredible.
+
+[00:35:57] SPEAKER_07
+I couldn't
+
+[00:35:57] SPEAKER_07
+imagine buying
+
+[00:35:58] SPEAKER_07
+anything via
+
+[00:35:58] SPEAKER_07
+phone.
+
+[00:35:59] SPEAKER_04
+Yeah, what
+
+[00:36:00] SPEAKER_04
+is still on
+
+[00:36:00] SPEAKER_04
+sale via
+
+[00:36:01] SPEAKER_04
+phone?
+
+[00:36:02] SPEAKER_06
+It's like all
+
+[00:36:03] SPEAKER_06
+infomercial stuff,
+
+[00:36:04] SPEAKER_06
+right?
+
+[00:36:04] SPEAKER_06
+Yeah, I mean
+
+[00:36:05] SPEAKER_06
+QVC is still
+
+[00:36:06] SPEAKER_06
+going, isn't it?
+
+[00:36:07] SPEAKER_06
+Yeah, it is.
+
+[00:36:07] SPEAKER_05
+Have any of us
+
+[00:36:09] SPEAKER_05
+ever bought
+
+[00:36:10] SPEAKER_05
+anything over
+
+[00:36:11] SPEAKER_05
+the phone?
+
+[00:36:12] SPEAKER_05
+I certainly
+
+[00:36:12] SPEAKER_05
+haven't.
+
+[00:36:13] SPEAKER_05
+Oh, I did.
+
+[00:36:15] SPEAKER_07
+What did you
+
+[00:36:15] SPEAKER_07
+buy?
+
+[00:36:16] SPEAKER_04
+I bought a
+
+[00:36:17] SPEAKER_04
+set of pens.
+
+[00:36:20] SPEAKER_04
+I think they
+
+[00:36:21] SPEAKER_04
+were called
+
+[00:36:21] SPEAKER_04
+penali pens,
+
+[00:36:23] SPEAKER_04
+right?
+
+[00:36:23] SPEAKER_04
+And one of the
+
+[00:36:24] SPEAKER_04
+things on the
+
+[00:36:24] SPEAKER_04
+video, on the
+
+[00:36:26] SPEAKER_04
+advert, was
+
+[00:36:26] SPEAKER_04
+someone stabbing
+
+[00:36:27] SPEAKER_04
+their fountain
+
+[00:36:28] SPEAKER_04
+pen through
+
+[00:36:28] SPEAKER_04
+like a tin
+
+[00:36:29] SPEAKER_04
+can and
+
+[00:36:30] SPEAKER_04
+then immediately
+
+[00:36:30] SPEAKER_04
+being able to
+
+[00:36:31] SPEAKER_04
+write and I
+
+[00:36:32] SPEAKER_04
+got the pen
+
+[00:36:33] SPEAKER_04
+and I stabbed
+
+[00:36:35] SPEAKER_04
+it through a tin
+
+[00:36:36] SPEAKER_04
+can and it
+
+[00:36:36] SPEAKER_04
+broke immediately.
+
+[00:36:40] SPEAKER_04
+I think I
+
+[00:36:41] SPEAKER_04
+spent like 30
+
+[00:36:42] SPEAKER_04
+quid on this
+
+[00:36:43] SPEAKER_04
+freaking fountain
+
+[00:36:44] SPEAKER_04
+pen.
+
+[00:36:44] SPEAKER_07
+I don't think I
+
+[00:36:47] SPEAKER_04
+ever used it.
+
+[00:36:48] SPEAKER_04
+How old were
+
+[00:36:49] SPEAKER_04
+you?
+
+[00:36:50] SPEAKER_04
+Maybe 12 or
+
+[00:36:52] SPEAKER_04
+something.
+
+[00:36:53] SPEAKER_05
+Oh, that's
+
+[00:36:53] SPEAKER_05
+awesome.
+
+[00:36:54] SPEAKER_05
+You had to call
+
+[00:36:54] SPEAKER_05
+somebody.
+
+[00:36:55] SPEAKER_07
+At 12, you
+
+[00:36:56] SPEAKER_07
+called it.
+
+[00:36:57] SPEAKER_07
+You called it
+
+[00:36:58] SPEAKER_07
+in.
+
+[00:36:59] SPEAKER_04
+I think I
+
+[00:36:59] SPEAKER_04
+asked to
+
+[00:36:59] SPEAKER_04
+borrow my
+
+[00:37:00] SPEAKER_04
+parent credit
+
+[00:37:02] SPEAKER_04
+card and
+
+[00:37:02] SPEAKER_04
+then, oh,
+
+[00:37:03] SPEAKER_04
+you live again
+
+[00:37:04] SPEAKER_04
+out?
+
+[00:37:05] SPEAKER_07
+Can I ask,
+
+[00:37:06] SPEAKER_07
+is this it?
+
+[00:37:07] SPEAKER_07
+Is this it?
+
+[00:37:08] SPEAKER_07
+It has to be.
+
+[00:37:11] SPEAKER_04
+That's it,
+
+[00:37:11] SPEAKER_04
+right?
+
+[00:37:12] SPEAKER_04
+That's it.
+
+[00:37:13] SPEAKER_04
+And that
+
+[00:37:14] SPEAKER_04
+doesn't work
+
+[00:37:15] SPEAKER_04
+for, wow,
+
+[00:37:16] SPEAKER_04
+2000, I was
+
+[00:37:16] SPEAKER_04
+12.
+
+[00:37:17] SPEAKER_04
+That doesn't
+
+[00:37:17] SPEAKER_04
+work for shit,
+
+[00:37:18] SPEAKER_04
+by the way.
+
+[00:37:19] SPEAKER_06
+Let's go back
+
+[00:37:20] SPEAKER_06
+and watch
+
+[00:37:20] SPEAKER_06
+that one
+
+[00:37:20] SPEAKER_06
+more time.
+
+[00:37:21] SPEAKER_06
+Okay.
+
+[00:37:23] SPEAKER_06
+Why would
+
+[00:37:23] SPEAKER_06
+you try that
+
+[00:37:24] SPEAKER_06
+with an
+
+[00:37:24] SPEAKER_06
+ordinary pen?
+
+[00:37:25] SPEAKER_06
+Don't try this
+
+[00:37:26] SPEAKER_06
+with an ordinary
+
+[00:37:27] SPEAKER_06
+pen.
+
+[00:37:27] SPEAKER_06
+You shouldn't
+
+[00:37:27] SPEAKER_06
+try it with
+
+[00:37:28] SPEAKER_06
+a penali
+
+[00:37:28] SPEAKER_06
+either.
+
+[00:37:29] SPEAKER_04
+It would show
+
+[00:37:30] SPEAKER_04
+someone writing
+
+[00:37:31] SPEAKER_04
+upside down
+
+[00:37:31] SPEAKER_04
+on the ceiling
+
+[00:37:32] SPEAKER_04
+and all this
+
+[00:37:33] SPEAKER_04
+other shit.
+
+[00:37:34] SPEAKER_04
+Oh, they
+
+[00:37:34] SPEAKER_04
+throw in a
+
+[00:37:34] SPEAKER_04
+dartboard.
+
+[00:37:35] SPEAKER_04
+Do it again.
+
+[00:37:37] SPEAKER_06
+Virtually
+
+[00:37:37] SPEAKER_06
+indestructible.
+
+[00:37:41] SPEAKER_07
+This is a
+
+[00:37:41] SPEAKER_07
+thing you wanted
+
+[00:37:42] SPEAKER_07
+when you were
+
+[00:37:42] SPEAKER_07
+12?
+
+[00:37:44] SPEAKER_07
+I don't
+
+[00:37:44] SPEAKER_07
+understand why
+
+[00:37:45] SPEAKER_07
+it's impressive
+
+[00:37:46] SPEAKER_07
+that they're
+
+[00:37:46] SPEAKER_07
+writing on the
+
+[00:37:47] SPEAKER_07
+ceiling.
+
+[00:37:48] SPEAKER_05
+I mean,
+
+[00:37:48] SPEAKER_05
+it was
+
+[00:37:50] SPEAKER_05
+marketed to
+
+[00:37:50] SPEAKER_05
+12-year-olds.
+
+[00:37:51] SPEAKER_05
+This commercial
+
+[00:37:52] SPEAKER_05
+is from
+
+[00:37:52] SPEAKER_05
+Cartoon Network.
+
+[00:37:53] SPEAKER_05
+I assume
+
+[00:37:54] SPEAKER_05
+that's where
+
+[00:37:54] SPEAKER_05
+I saw it.
+
+[00:37:58] SPEAKER_05
+I can't
+
+[00:37:58] SPEAKER_05
+imagine what
+
+[00:37:59] SPEAKER_05
+a 12-year-old
+
+[00:38:00] SPEAKER_05
+would want
+
+[00:38:00] SPEAKER_05
+with this
+
+[00:38:00] SPEAKER_05
+pen either.
+
+[00:38:01] SPEAKER_05
+They clearly
+
+[00:38:02] SPEAKER_06
+You can
+
+[00:38:04] SPEAKER_06
+write upside down.
+
+[00:38:05] SPEAKER_06
+Listen,
+
+[00:38:06] SPEAKER_06
+it can write
+
+[00:38:07] SPEAKER_06
+on anything.
+
+[00:38:07] SPEAKER_06
+Wood,
+
+[00:38:08] SPEAKER_06
+plastic,
+
+[00:38:08] SPEAKER_06
+glass,
+
+[00:38:09] SPEAKER_06
+upside down.
+
+[00:38:10] SPEAKER_06
+Unless you
+
+[00:38:10] SPEAKER_06
+stab it with
+
+[00:38:11] SPEAKER_07
+a can,
+
+[00:38:11] SPEAKER_07
+in which case
+
+[00:38:12] SPEAKER_07
+it will not
+
+[00:38:12] SPEAKER_07
+write on
+
+[00:38:13] SPEAKER_07
+anything.
+
+[00:38:13] SPEAKER_06
+Couldn't
+
+[00:38:14] SPEAKER_06
+write on
+
+[00:38:14] SPEAKER_07
+shit.
+
+[00:38:15] SPEAKER_99
+Well,
+
+[00:38:15] SPEAKER_99
+that's
+
+[00:38:16] SPEAKER_07
+you broke
+
+[00:38:16] SPEAKER_07
+it.
+
+[00:38:17] SPEAKER_07
+Gavin.
+
+[00:38:17] SPEAKER_07
+Go back,
+
+[00:38:18] SPEAKER_07
+go to the
+
+[00:38:19] SPEAKER_07
+end of the
+
+[00:38:20] SPEAKER_07
+ad.
+
+[00:38:20] SPEAKER_05
+Why didn't
+
+[00:38:20] SPEAKER_05
+this come
+
+[00:38:21] SPEAKER_05
+up during
+
+[00:38:21] SPEAKER_05
+Does It
+
+[00:38:22] SPEAKER_05
+Do?
+
+[00:38:22] SPEAKER_05
+We could
+
+[00:38:22] SPEAKER_05
+have done
+
+[00:38:22] SPEAKER_05
+a segment
+
+[00:38:23] SPEAKER_05
+where we
+
+[00:38:23] SPEAKER_05
+revisited
+
+[00:38:24] SPEAKER_05
+Gavin's
+
+[00:38:25] SPEAKER_05
+childhood.
+
+[00:38:27] SPEAKER_04
+Andrew,
+
+[00:38:28] SPEAKER_04
+you got a
+
+[00:38:28] SPEAKER_04
+call.
+
+[00:38:30] SPEAKER_04
+There you
+
+[00:38:31] SPEAKER_04
+go.
+
+[00:38:31] SPEAKER_04
+You want
+
+[00:38:33] SPEAKER_04
+a plus
+
+[00:38:34] SPEAKER_04
+four-four
+
+[00:38:34] SPEAKER_04
+and then
+
+[00:38:34] SPEAKER_04
+take off
+
+[00:38:35] SPEAKER_04
+the zero?
+
+[00:38:36] SPEAKER_07
+I don't
+
+[00:38:37] SPEAKER_07
+know what
+
+[00:38:37] SPEAKER_07
+the fuck
+
+[00:38:37] SPEAKER_07
+you're
+
+[00:38:38] SPEAKER_07
+talking
+
+[00:38:38] SPEAKER_07
+about.
+
+[00:38:38] SPEAKER_07
+I'm
+
+[00:38:38] SPEAKER_07
+just
+
+[00:38:38] SPEAKER_07
+writing
+
+[00:38:39] SPEAKER_07
+the number
+
+[00:38:39] SPEAKER_07
+on the
+
+[00:38:39] SPEAKER_07
+screen.
+
+[00:38:40] SPEAKER_07
+Plus
+
+[00:38:41] SPEAKER_07
+four-four
+
+[00:38:41] SPEAKER_07
+subtract
+
+[00:38:42] SPEAKER_07
+the first
+
+[00:38:43] SPEAKER_07
+zero.
+
+[00:38:50] SPEAKER_06
+What did
+
+[00:38:51] SPEAKER_06
+you do?
+
+[00:38:52] SPEAKER_06
+It said
+
+[00:38:52] SPEAKER_07
+the number
+
+[00:38:53] SPEAKER_07
+I reached
+
+[00:38:54] SPEAKER_07
+is not
+
+[00:38:54] SPEAKER_07
+for incoming
+
+[00:38:55] SPEAKER_07
+service.
+
+[00:38:55] SPEAKER_07
+Please
+
+[00:38:56] SPEAKER_07
+check the
+
+[00:38:56] SPEAKER_07
+number and
+
+[00:38:56] SPEAKER_07
+call.
+
+[00:38:57] SPEAKER_07
+Okay,
+
+[00:38:57] SPEAKER_07
+Gavin,
+
+[00:38:57] SPEAKER_07
+tell me
+
+[00:38:58] SPEAKER_07
+what you
+
+[00:38:58] SPEAKER_07
+want me
+
+[00:38:58] SPEAKER_07
+to do.
+
+[00:38:59] SPEAKER_07
+What am
+
+[00:39:00] SPEAKER_07
+I doing?
+
+[00:39:00] SPEAKER_07
+Plus
+
+[00:39:00] SPEAKER_07
+four-four.
+
+[00:39:02] SPEAKER_07
+So just
+
+[00:39:02] SPEAKER_07
+four-four or
+
+[00:39:03] SPEAKER_07
+do I have
+
+[00:39:03] SPEAKER_07
+to do a
+
+[00:39:04] SPEAKER_07
+plus sign?
+
+[00:39:06] SPEAKER_07
+How do I
+
+[00:39:07] SPEAKER_07
+plus?
+
+[00:39:07] SPEAKER_07
+Hold down
+
+[00:39:08] SPEAKER_07
+zero.
+
+[00:39:09] SPEAKER_07
+Okay,
+
+[00:39:09] SPEAKER_07
+there we
+
+[00:39:09] SPEAKER_07
+go.
+
+[00:39:09] SPEAKER_07
+Okay,
+
+[00:39:09] SPEAKER_07
+got it.
+
+[00:39:10] SPEAKER_07
+Got it.
+
+[00:39:10] SPEAKER_07
+Okay,
+
+[00:39:10] SPEAKER_07
+four-four.
+
+[00:39:12] SPEAKER_04
+And then
+
+[00:39:12] SPEAKER_04
+take off the
+
+[00:39:13] SPEAKER_04
+zero and
+
+[00:39:14] SPEAKER_04
+start with
+
+[00:39:14] SPEAKER_04
+the eight
+
+[00:39:14] SPEAKER_04
+and do
+
+[00:39:15] SPEAKER_04
+the rest
+
+[00:39:15] SPEAKER_04
+of the
+
+[00:39:15] SPEAKER_04
+number.
+
+[00:39:16] SPEAKER_99
+Okay,
+
+[00:39:17] SPEAKER_04
+eight-seven-o.
+
+[00:39:17] SPEAKER_04
+Okay,
+
+[00:39:19] SPEAKER_07
+I got you.
+
+[00:39:19] SPEAKER_07
+I got you
+
+[00:39:20] SPEAKER_07
+now.
+
+[00:39:21] SPEAKER_07
+It's facing
+
+[00:39:22] SPEAKER_07
+on that
+
+[00:39:22] SPEAKER_07
+last set.
+
+[00:39:24] SPEAKER_07
+Okay,
+
+[00:39:24] SPEAKER_07
+here we
+
+[00:39:24] SPEAKER_07
+go.
+
+[00:39:24] SPEAKER_04
+Why did
+
+[00:39:25] SPEAKER_04
+they advertise
+
+[00:39:26] SPEAKER_04
+this to
+
+[00:39:26] SPEAKER_04
+children?
+
+[00:39:27] SPEAKER_07
+Yeah,
+
+[00:39:27] SPEAKER_07
+it worked
+
+[00:39:28] SPEAKER_04
+as well.
+
+[00:39:28] SPEAKER_04
+It's a
+
+[00:39:29] SPEAKER_07
+checkbook
+
+[00:39:29] SPEAKER_07
+pen is
+
+[00:39:29] SPEAKER_01
+what they're
+
+[00:39:35] SPEAKER_07
+calling,
+
+[00:39:38] SPEAKER_07
+but there's
+
+[00:39:39] SPEAKER_07
+no ring.
+
+[00:39:43] SPEAKER_07
+I've never
+
+[00:39:44] SPEAKER_07
+experienced
+
+[00:39:45] SPEAKER_07
+this.
+
+[00:39:45] SPEAKER_07
+I don't
+
+[00:39:45] SPEAKER_07
+think it's
+
+[00:39:45] SPEAKER_07
+actually
+
+[00:39:46] SPEAKER_07
+calling.
+
+[00:39:47] SPEAKER_07
+Allow
+
+[00:39:47] SPEAKER_07
+28 days
+
+[00:39:48] SPEAKER_07
+for delivery.
+
+[00:39:49] SPEAKER_07
+I must have
+
+[00:39:50] SPEAKER_04
+been so
+
+[00:39:51] SPEAKER_04
+excited.
+
+[00:39:55] SPEAKER_06
+For a
+
+[00:39:55] SPEAKER_06
+month,
+
+[00:39:56] SPEAKER_06
+you were
+
+[00:39:56] SPEAKER_06
+going,
+
+[00:39:56] SPEAKER_06
+maybe it
+
+[00:39:57] SPEAKER_06
+came early,
+
+[00:39:57] SPEAKER_06
+maybe it
+
+[00:39:57] SPEAKER_06
+came early,
+
+[00:39:58] SPEAKER_06
+and it
+
+[00:39:58] SPEAKER_06
+didn't,
+
+[00:39:59] SPEAKER_06
+and then
+
+[00:40:00] SPEAKER_99
+you broke
+
+[00:40:01] SPEAKER_06
+it.
+
+[00:40:02] SPEAKER_05
+That it
+
+[00:40:02] SPEAKER_05
+totally
+
+[00:40:02] SPEAKER_05
+bent the
+
+[00:40:03] SPEAKER_05
+front.
+
+[00:40:03] SPEAKER_05
+Telling
+
+[00:40:04] SPEAKER_05
+your friends
+
+[00:40:05] SPEAKER_05
+you can't
+
+[00:40:05] SPEAKER_05
+play today,
+
+[00:40:06] SPEAKER_05
+you got to
+
+[00:40:06] SPEAKER_05
+get home
+
+[00:40:06] SPEAKER_05
+and check
+
+[00:40:07] SPEAKER_05
+the mail.
+
+[00:40:09] SPEAKER_05
+I can't
+
+[00:40:09] SPEAKER_05
+hang out
+
+[00:40:10] SPEAKER_05
+after school
+
+[00:40:10] SPEAKER_05
+today,
+
+[00:40:10] SPEAKER_05
+guys,
+
+[00:40:11] SPEAKER_05
+I got to
+
+[00:40:11] SPEAKER_05
+check
+
+[00:40:11] SPEAKER_05
+the mailbox.
+
+[00:40:12] SPEAKER_05
+I got an
+
+[00:40:12] SPEAKER_05
+important
+
+[00:40:12] SPEAKER_05
+package.
+
+[00:40:13] SPEAKER_05
+Incredible.
+
+[00:40:14] SPEAKER_06
+I'm so
+
+[00:40:15] SPEAKER_06
+glad we
+
+[00:40:15] SPEAKER_06
+found that.
+
+[00:40:16] SPEAKER_06
+That's
+
+[00:40:16] SPEAKER_06
+incredible.
+
+[00:40:17] SPEAKER_06
+Did you
+
+[00:40:18] SPEAKER_06
+guys ever
+
+[00:40:18] SPEAKER_04
+order
+
+[00:40:18] SPEAKER_04
+something?
+
+[00:40:19] SPEAKER_04
+No.
+
+[00:40:20] SPEAKER_05
+I
+
+[00:40:22] SPEAKER_05
+mean,
+
+[00:40:22] SPEAKER_05
+I
+
+[00:40:22] SPEAKER_05
+ordered
+
+[00:40:23] SPEAKER_05
+stuff
+
+[00:40:25] SPEAKER_05
+through the
+
+[00:40:26] SPEAKER_05
+mail a
+
+[00:40:27] SPEAKER_05
+lot,
+
+[00:40:27] SPEAKER_05
+you know,
+
+[00:40:28] SPEAKER_05
+t-shirts
+
+[00:40:28] SPEAKER_05
+and music
+
+[00:40:29] SPEAKER_05
+and shit,
+
+[00:40:30] SPEAKER_05
+you know,
+
+[00:40:30] SPEAKER_05
+from like
+
+[00:40:30] SPEAKER_05
+SST
+
+[00:40:31] SPEAKER_05
+catalogs
+
+[00:40:32] SPEAKER_05
+and state
+
+[00:40:32] SPEAKER_05
+stuff,
+
+[00:40:33] SPEAKER_05
+but I
+
+[00:40:34] SPEAKER_05
+can't
+
+[00:40:35] SPEAKER_05
+remember.
+
+[00:40:35] SPEAKER_05
+I mean,
+
+[00:40:36] SPEAKER_05
+I'm old
+
+[00:40:37] SPEAKER_05
+as dirt.
+
+[00:40:37] SPEAKER_05
+I must
+
+[00:40:37] SPEAKER_05
+have.
+
+[00:40:38] SPEAKER_05
+I just
+
+[00:40:38] SPEAKER_05
+can't
+
+[00:40:39] SPEAKER_05
+remember
+
+[00:40:39] SPEAKER_05
+ever,
+
+[00:40:40] SPEAKER_05
+like,
+
+[00:40:40] SPEAKER_05
+other than
+
+[00:40:40] SPEAKER_05
+like ordering
+
+[00:40:41] SPEAKER_05
+flowers or
+
+[00:40:42] SPEAKER_05
+something,
+
+[00:40:42] SPEAKER_05
+you know,
+
+[00:40:42] SPEAKER_05
+over the
+
+[00:40:43] SPEAKER_05
+phone.
+
+[00:40:44] SPEAKER_04
+I've done
+
+[00:40:44] SPEAKER_04
+that.
+
+[00:40:45] SPEAKER_04
+I don't
+
+[00:40:46] SPEAKER_07
+even know
+
+[00:40:47] SPEAKER_07
+if they
+
+[00:40:49] SPEAKER_07
+do
+
+[00:40:49] SPEAKER_07
+number
+
+[00:40:50] SPEAKER_07
+based
+
+[00:40:50] SPEAKER_07
+ordering
+
+[00:40:51] SPEAKER_07
+now.
+
+[00:40:52] SPEAKER_07
+Like,
+
+[00:40:53] SPEAKER_07
+I watched
+
+[00:40:53] SPEAKER_07
+one of
+
+[00:40:54] SPEAKER_07
+these
+
+[00:40:54] SPEAKER_07
+recently.
+
+[00:40:54] SPEAKER_07
+I
+
+[00:40:55] SPEAKER_07
+watched,
+
+[00:40:56] SPEAKER_07
+I was
+
+[00:40:56] SPEAKER_07
+up late
+
+[00:40:56] SPEAKER_07
+like maybe
+
+[00:40:57] SPEAKER_07
+a week
+
+[00:40:57] SPEAKER_07
+ago and
+
+[00:40:59] SPEAKER_07
+I saw
+
+[00:40:59] SPEAKER_07
+that Larry
+
+[00:40:59] SPEAKER_07
+King was
+
+[00:41:00] SPEAKER_07
+doing a
+
+[00:41:00] SPEAKER_07
+special
+
+[00:41:01] SPEAKER_07
+about
+
+[00:41:01] SPEAKER_07
+oversized
+
+[00:41:03] SPEAKER_07
+prostates
+
+[00:41:03] SPEAKER_07
+and men
+
+[00:41:04] SPEAKER_07
+and it
+
+[00:41:05] SPEAKER_07
+was just
+
+[00:41:05] SPEAKER_07
+an infomercial
+
+[00:41:06] SPEAKER_07
+for a
+
+[00:41:06] SPEAKER_07
+pill.
+
+[00:41:07] SPEAKER_07
+That was
+
+[00:41:07] SPEAKER_07
+an hour
+
+[00:41:08] SPEAKER_07
+long and
+
+[00:41:08] SPEAKER_07
+I thought
+
+[00:41:09] SPEAKER_07
+it was
+
+[00:41:09] SPEAKER_07
+hilarious
+
+[00:41:09] SPEAKER_07
+that they
+
+[00:41:10] SPEAKER_07
+were still
+
+[00:41:10] SPEAKER_07
+running
+
+[00:41:10] SPEAKER_07
+deceased
+
+[00:41:11] SPEAKER_07
+Larry King
+
+[00:41:12] SPEAKER_07
+promos
+
+[00:41:13] SPEAKER_07
+about how
+
+[00:41:14] SPEAKER_07
+great
+
+[00:41:14] SPEAKER_07
+these
+
+[00:41:15] SPEAKER_07
+prostate
+
+[00:41:15] SPEAKER_07
+pills
+
+[00:41:15] SPEAKER_07
+are.
+
+[00:41:16] SPEAKER_07
+I don't
+
+[00:41:17] SPEAKER_07
+think
+
+[00:41:17] SPEAKER_07
+they had
+
+[00:41:17] SPEAKER_07
+a number
+
+[00:41:18] SPEAKER_07
+call for
+
+[00:41:19] SPEAKER_07
+ordering.
+
+[00:41:20] SPEAKER_07
+Although I
+
+[00:41:21] SPEAKER_07
+wasn't really
+
+[00:41:22] SPEAKER_07
+watching it.
+
+[00:41:22] SPEAKER_07
+I was trying
+
+[00:41:22] SPEAKER_07
+to fall
+
+[00:41:23] SPEAKER_07
+asleep.
+
+[00:41:23] SPEAKER_04
+If you're
+
+[00:41:24] SPEAKER_04
+not on
+
+[00:41:24] SPEAKER_04
+our
+
+[00:41:24] SPEAKER_04
+Patreon,
+
+[00:41:25] SPEAKER_04
+you may
+
+[00:41:25] SPEAKER_04
+not have
+
+[00:41:25] SPEAKER_04
+seen,
+
+[00:41:26] SPEAKER_04
+but the
+
+[00:41:27] SPEAKER_04
+Larry King's
+
+[00:41:28] SPEAKER_04
+keys are up
+
+[00:41:28] SPEAKER_04
+on the wall
+
+[00:41:29] SPEAKER_04
+of our
+
+[00:41:29] SPEAKER_04
+office now.
+
+[00:41:30] SPEAKER_06
+Yeah,
+
+[00:41:30] SPEAKER_06
+that was a
+
+[00:41:31] SPEAKER_06
+really good
+
+[00:41:31] SPEAKER_06
+move,
+
+[00:41:31] SPEAKER_06
+a master
+
+[00:41:32] SPEAKER_06
+stroke from
+
+[00:41:32] SPEAKER_06
+you,
+
+[00:41:32] SPEAKER_06
+Gavin.
+
+[00:41:33] SPEAKER_06
+That was
+
+[00:41:33] SPEAKER_06
+fantastic.
+
+[00:41:34] SPEAKER_06
+That's
+
+[00:41:34] SPEAKER_06
+exciting.
+
+[00:41:35] SPEAKER_02
+Prime
+
+[00:41:36] SPEAKER_02
+presents
+
+[00:41:36] SPEAKER_02
+Perfect
+
+[00:41:37] SPEAKER_02
+Pairings.
+
+[00:41:38] SPEAKER_02
+What
+
+[00:41:38] SPEAKER_02
+pairs with
+
+[00:41:39] SPEAKER_02
+Reacher
+
+[00:41:39] SPEAKER_02
+on Prime?
+
+[00:41:41] SPEAKER_02
+Reaching
+
+[00:41:41] SPEAKER_02
+for a
+
+[00:41:42] SPEAKER_02
+sparkling
+
+[00:41:42] SPEAKER_02
+punch
+
+[00:41:43] SPEAKER_02
+delivered
+
+[00:41:43] SPEAKER_02
+with
+
+[00:41:44] SPEAKER_02
+Prime.
+
+[00:41:45] SPEAKER_02
+It's an
+
+[00:41:46] SPEAKER_02
+unbelievable
+
+[00:41:47] SPEAKER_02
+feeling when
+
+[00:41:48] SPEAKER_02
+you're enjoying
+
+[00:41:48] SPEAKER_02
+a punch
+
+[00:41:49] SPEAKER_02
+at the
+
+[00:41:51] SPEAKER_02
+same time
+
+[00:41:52] SPEAKER_02
+Reacher
+
+[00:41:52] SPEAKER_02
+is enjoying
+
+[00:41:53] SPEAKER_02
+punching
+
+[00:41:54] SPEAKER_02
+people.
+
+[00:42:02] SPEAKER_02
+It's
+
+[00:42:02] SPEAKER_02
+fast
+
+[00:42:02] SPEAKER_02
+delivery.
+
+[00:42:03] SPEAKER_02
+It's
+
+[00:42:03] SPEAKER_02
+on
+
+[00:42:04] SPEAKER_02
+Prime.
+
+[00:42:05] SPEAKER_00
+Welcome
+
+[00:42:06] SPEAKER_00
+aboard
+
+[00:42:06] SPEAKER_00
+Via Rail.
+
+[00:42:07] SPEAKER_00
+Please
+
+[00:42:08] SPEAKER_00
+sit and
+
+[00:42:08] SPEAKER_00
+enjoy.
+
+[00:42:10] SPEAKER_00
+Please
+
+[00:42:10] SPEAKER_00
+sit and
+
+[00:42:11] SPEAKER_00
+sip.
+
+[00:42:11] SPEAKER_00
+Play.
+
+[00:42:12] SPEAKER_00
+Post.
+
+[00:42:14] SPEAKER_00
+Taste.
+
+[00:42:15] SPEAKER_00
+View.
+
+[00:42:17] SPEAKER_00
+And
+
+[00:42:17] SPEAKER_00
+enjoy.
+
+[00:42:18] SPEAKER_07
+Via Rail.
+
+[00:42:19] SPEAKER_07
+Love the
+
+[00:42:20] SPEAKER_07
+way.
+
+[00:42:21] SPEAKER_07
+I do
+
+[00:42:21] SPEAKER_07
+have some
+
+[00:42:21] SPEAKER_07
+bad news
+
+[00:42:22] SPEAKER_07
+where we
+
+[00:42:22] SPEAKER_07
+missed out
+
+[00:42:22] SPEAKER_07
+on the
+
+[00:42:23] SPEAKER_07
+Joan Rivers
+
+[00:42:23] SPEAKER_07
+key.
+
+[00:42:24] SPEAKER_07
+We got
+
+[00:42:24] SPEAKER_07
+outbid.
+
+[00:42:25] SPEAKER_07
+We lost
+
+[00:42:25] SPEAKER_07
+it.
+
+[00:42:27] SPEAKER_07
+So I
+
+[00:42:27] SPEAKER_07
+have to
+
+[00:42:27] SPEAKER_07
+go back.
+
+[00:42:27] SPEAKER_07
+You
+
+[00:42:28] SPEAKER_07
+can't win
+
+[00:42:28] SPEAKER_07
+them all.
+
+[00:42:29] SPEAKER_07
+You can't
+
+[00:42:29] SPEAKER_06
+win them
+
+[00:42:30] SPEAKER_06
+all,
+
+[00:42:30] SPEAKER_06
+but we
+
+[00:42:30] SPEAKER_06
+got the
+
+[00:42:31] SPEAKER_06
+Larry King
+
+[00:42:31] SPEAKER_06
+keys.
+
+[00:42:32] SPEAKER_06
+And
+
+[00:42:32] SPEAKER_06
+honestly,
+
+[00:42:32] SPEAKER_06
+any of
+
+[00:42:33] SPEAKER_06
+the ones
+
+[00:42:33] SPEAKER_06
+that we
+
+[00:42:33] SPEAKER_06
+lose,
+
+[00:42:34] SPEAKER_06
+you don't
+
+[00:42:34] SPEAKER_06
+even want
+
+[00:42:35] SPEAKER_06
+those.
+
+[00:42:35] SPEAKER_06
+Those
+
+[00:42:35] SPEAKER_06
+aren't very
+
+[00:42:35] SPEAKER_06
+good keys.
+
+[00:42:36] SPEAKER_06
+The ones
+
+[00:42:37] SPEAKER_06
+that we
+
+[00:42:37] SPEAKER_06
+get,
+
+[00:42:38] SPEAKER_06
+those are
+
+[00:42:38] SPEAKER_06
+like the
+
+[00:42:38] SPEAKER_06
+real keys.
+
+[00:42:38] SPEAKER_06
+If for
+
+[00:42:39] SPEAKER_06
+whatever reason
+
+[00:42:40] SPEAKER_06
+somebody else
+
+[00:42:40] SPEAKER_06
+gets like
+
+[00:42:41] SPEAKER_06
+these other
+
+[00:42:41] SPEAKER_06
+keys,
+
+[00:42:41] SPEAKER_06
+those keys
+
+[00:42:41] SPEAKER_06
+actually suck.
+
+[00:42:43] SPEAKER_04
+How much
+
+[00:42:43] SPEAKER_04
+did Joan
+
+[00:42:44] SPEAKER_04
+Rivers key
+
+[00:42:44] SPEAKER_04
+go for?
+
+[00:42:46] SPEAKER_07
+I think
+
+[00:42:46] SPEAKER_07
+it went
+
+[00:42:46] SPEAKER_07
+for $850.
+
+[00:42:49] SPEAKER_04
+That's
+
+[00:42:50] SPEAKER_04
+steep.
+
+[00:42:51] SPEAKER_07
+Have you
+
+[00:42:52] SPEAKER_07
+talked in
+
+[00:42:52] SPEAKER_07
+content about
+
+[00:42:53] SPEAKER_07
+what else
+
+[00:42:53] SPEAKER_07
+was in
+
+[00:42:53] SPEAKER_07
+that estate
+
+[00:42:54] SPEAKER_07
+sale?
+
+[00:42:55] SPEAKER_07
+Yeah,
+
+[00:42:55] SPEAKER_07
+we talked
+
+[00:42:55] SPEAKER_07
+about it.
+
+[00:42:56] SPEAKER_07
+Okay.
+
+[00:42:57] SPEAKER_07
+Oh,
+
+[00:42:58] SPEAKER_07
+no,
+
+[00:42:58] SPEAKER_07
+I don't
+
+[00:42:59] SPEAKER_07
+think we
+
+[00:42:59] SPEAKER_07
+did.
+
+[00:43:00] SPEAKER_07
+I thought
+
+[00:43:00] SPEAKER_07
+you were
+
+[00:43:00] SPEAKER_07
+sorry.
+
+[00:43:01] SPEAKER_07
+So they
+
+[00:43:02] SPEAKER_07
+removed
+
+[00:43:02] SPEAKER_07
+that.
+
+[00:43:03] SPEAKER_07
+Oh,
+
+[00:43:04] SPEAKER_07
+they pulled
+
+[00:43:05] SPEAKER_07
+that.
+
+[00:43:06] SPEAKER_07
+So what I
+
+[00:43:06] SPEAKER_07
+was looking
+
+[00:43:07] SPEAKER_07
+when they
+
+[00:43:07] SPEAKER_07
+brought up
+
+[00:43:08] SPEAKER_07
+that there
+
+[00:43:08] SPEAKER_07
+was a
+
+[00:43:08] SPEAKER_07
+Joan
+
+[00:43:08] SPEAKER_07
+Rivers
+
+[00:43:09] SPEAKER_07
+estate
+
+[00:43:09] SPEAKER_07
+sale.
+
+[00:43:09] SPEAKER_07
+I was
+
+[00:43:10] SPEAKER_07
+searching,
+
+[00:43:10] SPEAKER_07
+combing
+
+[00:43:10] SPEAKER_07
+through,
+
+[00:43:11] SPEAKER_07
+looking for
+
+[00:43:11] SPEAKER_07
+keys as
+
+[00:43:12] SPEAKER_07
+one does.
+
+[00:43:13] SPEAKER_07
+And in
+
+[00:43:14] SPEAKER_07
+the midst
+
+[00:43:14] SPEAKER_07
+of my
+
+[00:43:15] SPEAKER_07
+search,
+
+[00:43:16] SPEAKER_07
+I was
+
+[00:43:16] SPEAKER_07
+shocked
+
+[00:43:18] SPEAKER_07
+to discover
+
+[00:43:19] SPEAKER_07
+that they
+
+[00:43:19] SPEAKER_07
+were selling
+
+[00:43:20] SPEAKER_07
+an urn
+
+[00:43:21] SPEAKER_07
+of Joan
+
+[00:43:22] SPEAKER_07
+Rivers
+
+[00:43:22] SPEAKER_07
+dog,
+
+[00:43:24] SPEAKER_07
+the
+
+[00:43:24] SPEAKER_07
+remains,
+
+[00:43:25] SPEAKER_07
+and it
+
+[00:43:30] SPEAKER_07
+they
+
+[00:43:30] SPEAKER_07
+selling
+
+[00:43:31] SPEAKER_07
+this.
+
+[00:43:31] SPEAKER_07
+And she
+
+[00:43:32] SPEAKER_07
+was like
+
+[00:43:32] SPEAKER_07
+a really
+
+[00:43:32] SPEAKER_07
+big pet
+
+[00:43:33] SPEAKER_07
+lady.
+
+[00:43:33] SPEAKER_07
+Like that
+
+[00:43:34] SPEAKER_07
+dog meant
+
+[00:43:34] SPEAKER_07
+so much
+
+[00:43:35] SPEAKER_07
+to her.
+
+[00:43:36] SPEAKER_04
+Can you
+
+[00:43:36] SPEAKER_04
+imagine that
+
+[00:43:37] SPEAKER_04
+above your
+
+[00:43:37] SPEAKER_04
+fireplace
+
+[00:43:37] SPEAKER_04
+and people
+
+[00:43:38] SPEAKER_04
+be like,
+
+[00:43:38] SPEAKER_04
+oh,
+
+[00:43:38] SPEAKER_04
+who's that?
+
+[00:43:39] SPEAKER_04
+Did you
+
+[00:43:39] SPEAKER_04
+feel like
+
+[00:43:40] SPEAKER_04
+it's Joan
+
+[00:43:40] SPEAKER_04
+Rivers
+
+[00:43:40] SPEAKER_04
+dog?
+
+[00:43:42] SPEAKER_07
+Yeah,
+
+[00:43:42] SPEAKER_07
+like
+
+[00:43:43] SPEAKER_07
+who would
+
+[00:43:44] SPEAKER_07
+do that?
+
+[00:43:46] SPEAKER_07
+So I was
+
+[00:43:47] SPEAKER_07
+very fascinated
+
+[00:43:47] SPEAKER_07
+by it.
+
+[00:43:48] SPEAKER_07
+I then backed
+
+[00:43:48] SPEAKER_07
+out and I
+
+[00:43:49] SPEAKER_07
+realized that
+
+[00:43:50] SPEAKER_07
+wasn't the
+
+[00:43:50] SPEAKER_07
+only dog
+
+[00:43:51] SPEAKER_07
+urn with
+
+[00:43:52] SPEAKER_07
+remains they
+
+[00:43:52] SPEAKER_07
+were selling.
+
+[00:43:53] SPEAKER_07
+There was a
+
+[00:43:54] SPEAKER_07
+second set
+
+[00:43:55] SPEAKER_07
+that was like
+
+[00:43:56] SPEAKER_07
+her most
+
+[00:43:56] SPEAKER_07
+prized dog,
+
+[00:43:57] SPEAKER_07
+but it
+
+[00:43:58] SPEAKER_07
+came with
+
+[00:43:59] SPEAKER_07
+like a
+
+[00:44:00] SPEAKER_07
+time magazine
+
+[00:44:00] SPEAKER_07
+cover with
+
+[00:44:01] SPEAKER_07
+her and
+
+[00:44:01] SPEAKER_07
+the dog
+
+[00:44:02] SPEAKER_07
+on it and
+
+[00:44:02] SPEAKER_07
+like a
+
+[00:44:03] SPEAKER_07
+collar and
+
+[00:44:04] SPEAKER_07
+like all
+
+[00:44:04] SPEAKER_07
+this other
+
+[00:44:05] SPEAKER_07
+dog stuff.
+
+[00:44:07] SPEAKER_07
+There was
+
+[00:44:07] SPEAKER_07
+also just a
+
+[00:44:08] SPEAKER_07
+random x-ray
+
+[00:44:09] SPEAKER_07
+shot of one
+
+[00:44:10] SPEAKER_07
+of her dogs
+
+[00:44:11] SPEAKER_07
+was another
+
+[00:44:12] SPEAKER_07
+listing.
+
+[00:44:13] SPEAKER_07
+So after
+
+[00:44:14] SPEAKER_07
+the auction,
+
+[00:44:14] SPEAKER_07
+I went back
+
+[00:44:16] SPEAKER_07
+and I was
+
+[00:44:16] SPEAKER_07
+like who
+
+[00:44:17] SPEAKER_07
+bought this
+
+[00:44:18] SPEAKER_07
+and for
+
+[00:44:18] SPEAKER_07
+like how
+
+[00:44:19] SPEAKER_07
+much?
+
+[00:44:19] SPEAKER_07
+There's no
+
+[00:44:19] SPEAKER_07
+way anyone
+
+[00:44:20] SPEAKER_07
+bought this
+
+[00:44:20] SPEAKER_07
+and they
+
+[00:44:21] SPEAKER_07
+had completely
+
+[00:44:22] SPEAKER_07
+removed the
+
+[00:44:24] SPEAKER_07
+listing that
+
+[00:44:25] SPEAKER_07
+was just the
+
+[00:44:25] SPEAKER_07
+urn itself
+
+[00:44:26] SPEAKER_07
+and then the
+
+[00:44:27] SPEAKER_07
+second one
+
+[00:44:28] SPEAKER_07
+that had an
+
+[00:44:28] SPEAKER_07
+urn,
+
+[00:44:28] SPEAKER_07
+they removed
+
+[00:44:29] SPEAKER_07
+the urn
+
+[00:44:30] SPEAKER_07
+from the
+
+[00:44:30] SPEAKER_07
+thing.
+
+[00:44:31] SPEAKER_07
+So it was
+
+[00:44:31] SPEAKER_07
+just all of
+
+[00:44:32] SPEAKER_07
+the like
+
+[00:44:32] SPEAKER_07
+memorabilia of
+
+[00:44:33] SPEAKER_07
+the dog
+
+[00:44:34] SPEAKER_07
+essentially.
+
+[00:44:35] SPEAKER_07
+Probably broke
+
+[00:44:36] SPEAKER_07
+some laws
+
+[00:44:36] SPEAKER_07
+doing that
+
+[00:44:37] SPEAKER_07
+they didn't
+
+[00:44:37] SPEAKER_07
+realize.
+
+[00:44:38] SPEAKER_07
+No urns
+
+[00:44:38] SPEAKER_07
+were sold.
+
+[00:44:40] SPEAKER_07
+But it was
+
+[00:44:40] SPEAKER_07
+the craziest
+
+[00:44:41] SPEAKER_07
+thing I think
+
+[00:44:42] SPEAKER_07
+I've seen
+
+[00:44:42] SPEAKER_07
+in any
+
+[00:44:43] SPEAKER_07
+auction.
+
+[00:44:44] SPEAKER_07
+An item I
+
+[00:44:45] SPEAKER_07
+would never
+
+[00:44:45] SPEAKER_07
+even consider
+
+[00:44:46] SPEAKER_07
+would ever be
+
+[00:44:47] SPEAKER_07
+possible for
+
+[00:44:47] SPEAKER_07
+sale.
+
+[00:44:48] SPEAKER_07
+And we at
+
+[00:44:49] SPEAKER_07
+no point
+
+[00:44:50] SPEAKER_07
+considered buying
+
+[00:44:50] SPEAKER_07
+it.
+
+[00:44:57] SPEAKER_04
+I just
+
+[00:44:58] SPEAKER_04
+replied I'm
+
+[00:44:58] SPEAKER_04
+out.
+
+[00:44:59] SPEAKER_07
+Yeah.
+
+[00:45:00] SPEAKER_07
+You replied
+
+[00:45:01] SPEAKER_07
+I'm out and
+
+[00:45:02] SPEAKER_05
+I went we
+
+[00:45:02] SPEAKER_05
+were never
+
+[00:45:02] SPEAKER_05
+in.
+
+[00:45:03] SPEAKER_05
+This is
+
+[00:45:03] SPEAKER_05
+not this
+
+[00:45:04] SPEAKER_05
+is horrific.
+
+[00:45:05] SPEAKER_05
+And once I
+
+[00:45:06] SPEAKER_05
+found out
+
+[00:45:06] SPEAKER_05
+everybody else
+
+[00:45:07] SPEAKER_05
+was out
+
+[00:45:07] SPEAKER_05
+then I
+
+[00:45:08] SPEAKER_05
+was also
+
+[00:45:08] SPEAKER_05
+out.
+
+[00:45:11] SPEAKER_05
+And thought
+
+[00:45:12] SPEAKER_05
+yeah that
+
+[00:45:12] SPEAKER_05
+is a bad
+
+[00:45:13] SPEAKER_05
+idea.
+
+[00:45:13] SPEAKER_05
+We wouldn't
+
+[00:45:13] SPEAKER_05
+want that.
+
+[00:45:14] SPEAKER_05
+Of course
+
+[00:45:14] SPEAKER_05
+not.
+
+[00:45:15] SPEAKER_05
+Ridiculous.
+
+[00:45:16] SPEAKER_05
+Not not no
+
+[00:45:17] SPEAKER_05
+thank you.
+
+[00:45:18] SPEAKER_05
+Not regulation.
+
+[00:45:18] SPEAKER_05
+That's not
+
+[00:45:19] SPEAKER_05
+who that's not
+
+[00:45:19] SPEAKER_05
+who we are.
+
+[00:45:21] SPEAKER_05
+Who do you
+
+[00:45:21] SPEAKER_05
+think is the
+
+[00:45:22] SPEAKER_05
+most scattered
+
+[00:45:23] SPEAKER_05
+person.
+
+[00:45:24] SPEAKER_07
+Oh.
+
+[00:45:26] SPEAKER_07
+Hunter S.
+
+[00:45:27] SPEAKER_07
+Thompson get
+
+[00:45:27] SPEAKER_07
+launched into
+
+[00:45:28] SPEAKER_07
+like space.
+
+[00:45:29] SPEAKER_07
+He has to be
+
+[00:45:30] SPEAKER_07
+up there right
+
+[00:45:31] SPEAKER_07
+when when he
+
+[00:45:31] SPEAKER_07
+cover a lot of
+
+[00:45:32] SPEAKER_07
+ground being in
+
+[00:45:33] SPEAKER_07
+space.
+
+[00:45:33] SPEAKER_07
+Who who was
+
+[00:45:34] SPEAKER_07
+that I'm sorry
+
+[00:45:35] SPEAKER_07
+Hunter S.
+
+[00:45:35] SPEAKER_07
+Thompson.
+
+[00:45:36] SPEAKER_07
+He got shot
+
+[00:45:37] SPEAKER_07
+into space.
+
+[00:45:38] SPEAKER_07
+Is that right.
+
+[00:45:38] SPEAKER_07
+I think he did
+
+[00:45:39] SPEAKER_04
+yeah.
+
+[00:45:40] SPEAKER_04
+Is he all in
+
+[00:45:40] SPEAKER_04
+the same bag
+
+[00:45:41] SPEAKER_04
+though like he's
+
+[00:45:41] SPEAKER_04
+not all spread
+
+[00:45:42] SPEAKER_04
+apart.
+
+[00:45:43] SPEAKER_07
+I mean I feel
+
+[00:45:43] SPEAKER_07
+like the bag
+
+[00:45:44] SPEAKER_07
+integrity comes
+
+[00:45:45] SPEAKER_07
+into question
+
+[00:45:45] SPEAKER_07
+after.
+
+[00:45:47] SPEAKER_06
+Didn't didn't
+
+[00:45:48] SPEAKER_06
+they do that
+
+[00:45:49] SPEAKER_06
+with Scotty.
+
+[00:45:50] SPEAKER_06
+I think they
+
+[00:45:51] SPEAKER_06
+did.
+
+[00:45:52] SPEAKER_04
+Oh yeah
+
+[00:45:52] SPEAKER_04
+didn't they
+
+[00:45:53] SPEAKER_01
+take his ashes
+
+[00:45:53] SPEAKER_01
+up to space.
+
+[00:45:55] SPEAKER_04
+Not actually
+
+[00:45:56] SPEAKER_04
+Scottish.
+
+[00:45:58] SPEAKER_01
+Oh.
+
+[00:45:59] SPEAKER_04
+What is he.
+
+[00:46:00] SPEAKER_04
+It might have
+
+[00:46:01] SPEAKER_04
+been.
+
+[00:46:02] SPEAKER_04
+So you're just
+
+[00:46:03] SPEAKER_06
+kind of saying
+
+[00:46:04] SPEAKER_06
+shit.
+
+[00:46:04] SPEAKER_06
+You're just
+
+[00:46:04] SPEAKER_06
+kind of hanging
+
+[00:46:05] SPEAKER_06
+out saying
+
+[00:46:05] SPEAKER_06
+shit.
+
+[00:46:08] SPEAKER_04
+Could be a fun
+
+[00:46:09] SPEAKER_06
+fact starring
+
+[00:46:10] SPEAKER_06
+Gavin.
+
+[00:46:11] SPEAKER_06
+Could be a
+
+[00:46:12] SPEAKER_06
+fun fact.
+
+[00:46:13] SPEAKER_06
+I'm going to
+
+[00:46:14] SPEAKER_04
+start a show
+
+[00:46:14] SPEAKER_04
+called not
+
+[00:46:15] SPEAKER_04
+anywhere near
+
+[00:46:15] SPEAKER_04
+the bottom
+
+[00:46:16] SPEAKER_04
+of this.
+
+[00:46:19] SPEAKER_06
+Starting at
+
+[00:46:19] SPEAKER_06
+the top.
+
+[00:46:22] SPEAKER_07
+I feel like
+
+[00:46:23] SPEAKER_07
+unless he
+
+[00:46:24] SPEAKER_07
+specifically
+
+[00:46:24] SPEAKER_07
+requested that
+
+[00:46:25] SPEAKER_07
+I could see
+
+[00:46:26] SPEAKER_07
+him being
+
+[00:46:26] SPEAKER_07
+upset that
+
+[00:46:27] SPEAKER_07
+he's in
+
+[00:46:27] SPEAKER_07
+space.
+
+[00:46:27] SPEAKER_07
+He spent
+
+[00:46:28] SPEAKER_07
+so much
+
+[00:46:28] SPEAKER_07
+time there
+
+[00:46:29] SPEAKER_07
+fictionally.
+
+[00:46:31] SPEAKER_07
+What you
+
+[00:46:31] SPEAKER_07
+think it's
+
+[00:46:31] SPEAKER_07
+like being
+
+[00:46:31] SPEAKER_07
+sent to
+
+[00:46:32] SPEAKER_07
+work.
+
+[00:46:32] SPEAKER_07
+Yeah.
+
+[00:46:34] SPEAKER_07
+Like I bet
+
+[00:46:34] SPEAKER_07
+you Jeff
+
+[00:46:35] SPEAKER_07
+you wouldn't
+
+[00:46:35] SPEAKER_07
+want your
+
+[00:46:35] SPEAKER_07
+ashes spreading
+
+[00:46:36] SPEAKER_07
+blood gulch
+
+[00:46:37] SPEAKER_07
+like it was
+
+[00:46:38] SPEAKER_06
+he's from
+
+[00:46:41] SPEAKER_07
+Vancouver.
+
+[00:46:42] SPEAKER_06
+Really.
+
+[00:46:43] SPEAKER_06
+He's from
+
+[00:46:44] SPEAKER_06
+Vancouver.
+
+[00:46:47] SPEAKER_06
+Oh that's
+
+[00:46:48] SPEAKER_06
+wild.
+
+[00:46:50] SPEAKER_05
+Yeah.
+
+[00:46:50] SPEAKER_05
+Throw me
+
+[00:46:51] SPEAKER_05
+out by the
+
+[00:46:51] SPEAKER_05
+weird tree
+
+[00:46:52] SPEAKER_05
+please.
+
+[00:46:54] SPEAKER_05
+Jeff being
+
+[00:46:55] SPEAKER_05
+spreading
+
+[00:46:56] SPEAKER_05
+blood gulch.
+
+[00:47:00] SPEAKER_05
+Who's
+
+[00:47:01] SPEAKER_05
+kicked into
+
+[00:47:01] SPEAKER_05
+the teleporter.
+
+[00:47:02] SPEAKER_05
+No I want
+
+[00:47:02] SPEAKER_05
+my ashes
+
+[00:47:03] SPEAKER_05
+spreading
+
+[00:47:03] SPEAKER_05
+deputy where
+
+[00:47:04] SPEAKER_05
+they belong.
+
+[00:47:06] SPEAKER_05
+Oh of
+
+[00:47:06] SPEAKER_05
+course on the
+
+[00:47:07] SPEAKER_05
+side of the
+
+[00:47:07] SPEAKER_05
+billboard.
+
+[00:47:08] SPEAKER_05
+Yeah I want
+
+[00:47:08] SPEAKER_05
+to get I want
+
+[00:47:09] SPEAKER_05
+to get licked
+
+[00:47:09] SPEAKER_05
+up by the
+
+[00:47:10] SPEAKER_05
+deputy dog.
+
+[00:47:13] SPEAKER_07
+Then you're
+
+[00:47:14] SPEAKER_07
+getting scattered
+
+[00:47:14] SPEAKER_07
+that's awesome.
+
+[00:47:15] SPEAKER_07
+I have a
+
+[00:47:16] SPEAKER_07
+question about
+
+[00:47:16] SPEAKER_07
+how you guys
+
+[00:47:17] SPEAKER_07
+view movies.
+
+[00:47:18] SPEAKER_07
+I use my
+
+[00:47:18] SPEAKER_07
+eyes.
+
+[00:47:20] SPEAKER_07
+Well yeah
+
+[00:47:20] SPEAKER_07
+that's again
+
+[00:47:21] SPEAKER_07
+sometimes I
+
+[00:47:21] SPEAKER_07
+mean TV
+
+[00:47:22] SPEAKER_07
+sometimes TV
+
+[00:47:23] SPEAKER_07
+phones all
+
+[00:47:24] SPEAKER_07
+sorts of
+
+[00:47:25] SPEAKER_07
+things.
+
+[00:47:26] SPEAKER_07
+I'm curious
+
+[00:47:26] SPEAKER_07
+about when
+
+[00:47:28] SPEAKER_07
+you watch a
+
+[00:47:28] SPEAKER_07
+movie.
+
+[00:47:30] SPEAKER_07
+Does the
+
+[00:47:30] SPEAKER_07
+world exist
+
+[00:47:31] SPEAKER_07
+outside of the
+
+[00:47:32] SPEAKER_07
+frame that is
+
+[00:47:34] SPEAKER_07
+being presented.
+
+[00:47:34] SPEAKER_04
+it's going to
+
+[00:47:40] SPEAKER_07
+be very
+
+[00:47:40] SPEAKER_07
+difficult for
+
+[00:47:41] SPEAKER_07
+me to
+
+[00:47:41] SPEAKER_07
+articulate.
+
+[00:47:42] SPEAKER_07
+Okay.
+
+[00:47:43] SPEAKER_07
+So when I
+
+[00:47:44] SPEAKER_07
+watch a movie
+
+[00:47:45] SPEAKER_07
+nothing exists
+
+[00:47:47] SPEAKER_07
+to those
+
+[00:47:48] SPEAKER_07
+characters outside
+
+[00:47:49] SPEAKER_07
+of what's
+
+[00:47:49] SPEAKER_07
+currently in
+
+[00:47:50] SPEAKER_07
+frame.
+
+[00:47:51] SPEAKER_04
+Oh what
+
+[00:47:52] SPEAKER_04
+like unless
+
+[00:47:52] SPEAKER_04
+specified
+
+[00:47:53] SPEAKER_07
+unless specified
+
+[00:47:54] SPEAKER_07
+unless shown or
+
+[00:47:55] SPEAKER_07
+like discussed
+
+[00:47:56] SPEAKER_07
+nothing like
+
+[00:47:57] SPEAKER_07
+everything all
+
+[00:47:59] SPEAKER_07
+the information
+
+[00:47:59] SPEAKER_07
+is within the
+
+[00:48:01] SPEAKER_07
+frame itself.
+
+[00:48:01] SPEAKER_07
+there is no
+
+[00:48:02] SPEAKER_07
+just because it
+
+[00:48:03] SPEAKER_07
+is in said
+
+[00:48:04] SPEAKER_07
+place does
+
+[00:48:05] SPEAKER_07
+not mean other
+
+[00:48:07] SPEAKER_07
+things are in
+
+[00:48:07] SPEAKER_07
+it like they
+
+[00:48:08] SPEAKER_07
+could be in
+
+[00:48:10] SPEAKER_07
+New York but
+
+[00:48:11] SPEAKER_07
+unless they show
+
+[00:48:12] SPEAKER_07
+a pizza hut or
+
+[00:48:13] SPEAKER_07
+say there's a
+
+[00:48:14] SPEAKER_07
+pizza hut I'm
+
+[00:48:15] SPEAKER_07
+not assuming
+
+[00:48:15] SPEAKER_07
+there's a pizza
+
+[00:48:16] SPEAKER_07
+hut in this
+
+[00:48:17] SPEAKER_07
+universe.
+
+[00:48:17] SPEAKER_07
+We've talked
+
+[00:48:18] SPEAKER_05
+about this
+
+[00:48:19] SPEAKER_05
+something similar
+
+[00:48:20] SPEAKER_05
+in the past
+
+[00:48:20] SPEAKER_05
+and I yeah I
+
+[00:48:22] SPEAKER_05
+view it as
+
+[00:48:23] SPEAKER_05
+taking place in
+
+[00:48:24] SPEAKER_05
+my real world
+
+[00:48:25] SPEAKER_05
+so pizza hut
+
+[00:48:26] SPEAKER_05
+exists because
+
+[00:48:26] SPEAKER_05
+pizza hut
+
+[00:48:26] SPEAKER_05
+exists to me
+
+[00:48:27] SPEAKER_05
+like anything
+
+[00:48:28] SPEAKER_05
+that's happening
+
+[00:48:29] SPEAKER_05
+on a screen I
+
+[00:48:30] SPEAKER_05
+just feel like I'm
+
+[00:48:30] SPEAKER_05
+watching a well
+
+[00:48:32] SPEAKER_05
+edited reality
+
+[00:48:33] SPEAKER_05
+show about some
+
+[00:48:34] SPEAKER_05
+people in New
+
+[00:48:35] SPEAKER_05
+York City or
+
+[00:48:35] SPEAKER_05
+wherever it takes
+
+[00:48:36] SPEAKER_05
+place.
+
+[00:48:36] SPEAKER_07
+So if so in
+
+[00:48:40] SPEAKER_07
+a sense everything
+
+[00:48:41] SPEAKER_07
+in the world
+
+[00:48:42] SPEAKER_07
+exists to those
+
+[00:48:43] SPEAKER_07
+characters outside
+
+[00:48:44] SPEAKER_07
+of the crew like
+
+[00:48:45] SPEAKER_07
+they have no
+
+[00:48:46] SPEAKER_07
+awareness of the
+
+[00:48:47] SPEAKER_07
+crew but
+
+[00:48:48] SPEAKER_07
+anything else
+
+[00:48:49] SPEAKER_07
+that exists
+
+[00:48:50] SPEAKER_07
+is in it.
+
+[00:48:52] SPEAKER_04
+Well I think
+
+[00:48:53] SPEAKER_04
+unless unless I'm
+
+[00:48:54] SPEAKER_04
+told that something
+
+[00:48:54] SPEAKER_04
+doesn't exist I
+
+[00:48:55] SPEAKER_04
+assume it exists
+
+[00:48:57] SPEAKER_04
+in that time
+
+[00:48:58] SPEAKER_04
+period.
+
+[00:48:59] SPEAKER_07
+If I if I
+
+[00:49:01] SPEAKER_07
+witnessed a
+
+[00:49:02] SPEAKER_07
+movie being
+
+[00:49:03] SPEAKER_07
+filmed am I
+
+[00:49:05] SPEAKER_07
+technically in the
+
+[00:49:06] SPEAKER_07
+movie even though
+
+[00:49:07] SPEAKER_07
+I'm not in the
+
+[00:49:09] SPEAKER_07
+scene?
+
+[00:49:11] SPEAKER_01
+No.
+
+[00:49:12] SPEAKER_07
+I'm gonna say
+
+[00:49:13] SPEAKER_06
+yes.
+
+[00:49:14] SPEAKER_04
+Wait.
+
+[00:49:16] SPEAKER_04
+So so that
+
+[00:49:17] SPEAKER_04
+means like every
+
+[00:49:18] SPEAKER_04
+time you see
+
+[00:49:19] SPEAKER_04
+someone in a
+
+[00:49:20] SPEAKER_04
+movie you you
+
+[00:49:22] SPEAKER_04
+think there's like
+
+[00:49:22] SPEAKER_04
+a medic stood
+
+[00:49:23] SPEAKER_04
+nearby?
+
+[00:49:24] SPEAKER_07
+No.
+
+[00:49:26] SPEAKER_07
+No I'm saying
+
+[00:49:26] SPEAKER_07
+what are the
+
+[00:49:27] SPEAKER_07
+example I'm
+
+[00:49:28] SPEAKER_07
+stating none of
+
+[00:49:29] SPEAKER_07
+the crew exist in
+
+[00:49:30] SPEAKER_07
+this universe is a
+
+[00:49:31] SPEAKER_07
+perspective of this
+
+[00:49:33] SPEAKER_07
+so but I'm just
+
+[00:49:34] SPEAKER_07
+but so but you
+
+[00:49:35] SPEAKER_05
+might why do you
+
+[00:49:37] SPEAKER_05
+exist if the crew
+
+[00:49:38] SPEAKER_05
+doesn't right
+
+[00:49:39] SPEAKER_07
+because well let's
+
+[00:49:40] SPEAKER_07
+if you're saying
+
+[00:49:41] SPEAKER_07
+that everything is
+
+[00:49:42] SPEAKER_07
+based in reality
+
+[00:49:43] SPEAKER_07
+in your reality
+
+[00:49:44] SPEAKER_07
+then you are in
+
+[00:49:47] SPEAKER_07
+your reality
+
+[00:49:48] SPEAKER_07
+you're part of the
+
+[00:49:48] SPEAKER_07
+reality so if you
+
+[00:49:50] SPEAKER_07
+are observing the
+
+[00:49:51] SPEAKER_07
+filming of it I
+
+[00:49:52] SPEAKER_07
+think that technically
+
+[00:49:53] SPEAKER_07
+means that you're in
+
+[00:49:55] SPEAKER_07
+the movie based on
+
+[00:49:57] SPEAKER_07
+that.
+
+[00:49:58] SPEAKER_05
+So are you saying
+
+[00:49:58] SPEAKER_05
+you're in last of
+
+[00:49:59] SPEAKER_05
+this season two
+
+[00:50:00] SPEAKER_05
+because they filmed
+
+[00:50:01] SPEAKER_05
+it in the NIMO and
+
+[00:50:01] SPEAKER_05
+you know I didn't
+
+[00:50:02] SPEAKER_05
+witness that.
+
+[00:50:03] SPEAKER_06
+Oh what have you
+
+[00:50:05] SPEAKER_06
+witnessed?
+
+[00:50:06] SPEAKER_01
+Paparazzi.
+
+[00:50:06] SPEAKER_06
+What movies what
+
+[00:50:07] SPEAKER_06
+movies are you in
+
+[00:50:08] SPEAKER_07
+Andrew?
+
+[00:50:08] SPEAKER_07
+I'm in paparazzi
+
+[00:50:09] SPEAKER_07
+depending on your
+
+[00:50:10] SPEAKER_07
+perspective of it
+
+[00:50:11] SPEAKER_07
+you pull a paparazzi
+
+[00:50:13] SPEAKER_04
+if the piss woman
+
+[00:50:16] SPEAKER_04
+was in the movie
+
+[00:50:17] SPEAKER_04
+would you technically
+
+[00:50:18] SPEAKER_04
+be in that movie
+
+[00:50:19] SPEAKER_04
+because you
+
+[00:50:19] SPEAKER_04
+witnessed it?
+
+[00:50:20] SPEAKER_07
+Yeah if it was
+
+[00:50:21] SPEAKER_07
+about if it was a
+
+[00:50:22] SPEAKER_07
+true inspired based
+
+[00:50:23] SPEAKER_07
+on a true story
+
+[00:50:24] SPEAKER_05
+what if it's a
+
+[00:50:25] SPEAKER_05
+piss fetish video
+
+[00:50:26] SPEAKER_05
+does that mean you're
+
+[00:50:27] SPEAKER_05
+in a piss fetish
+
+[00:50:27] SPEAKER_05
+video?
+
+[00:50:28] SPEAKER_07
+Yeah there we go
+
+[00:50:29] SPEAKER_07
+Eric.
+
+[00:50:30] SPEAKER_07
+So you're in that
+
+[00:50:30] SPEAKER_07
+universe.
+
+[00:50:31] SPEAKER_07
+I guess I'm in
+
+[00:50:32] SPEAKER_07
+that you know I
+
+[00:50:32] SPEAKER_07
+was trying to decide
+
+[00:50:33] SPEAKER_07
+if I figure out if
+
+[00:50:34] SPEAKER_07
+I'm technically in
+
+[00:50:35] SPEAKER_07
+any universes I
+
+[00:50:37] SPEAKER_07
+would say no.
+
+[00:50:38] SPEAKER_07
+Because of how I
+
+[00:50:39] SPEAKER_07
+view movies.
+
+[00:50:40] SPEAKER_06
+This looks like
+
+[00:50:41] SPEAKER_06
+shit buddy.
+
+[00:50:42] SPEAKER_07
+I saw it in
+
+[00:50:43] SPEAKER_07
+theaters.
+
+[00:50:44] SPEAKER_07
+It's not good.
+
+[00:50:45] SPEAKER_04
+Which Baldwin is
+
+[00:50:46] SPEAKER_05
+that?
+
+[00:50:47] SPEAKER_07
+Daniel?
+
+[00:50:48] SPEAKER_07
+So you saw this
+
+[00:50:49] SPEAKER_07
+you saw this being
+
+[00:50:50] SPEAKER_07
+filmed?
+
+[00:50:52] SPEAKER_07
+Yeah I was in
+
+[00:50:53] SPEAKER_07
+Victoria at the
+
+[00:50:54] SPEAKER_07
+time and I was
+
+[00:50:55] SPEAKER_07
+there was a pier
+
+[00:50:56] SPEAKER_07
+nearby and it was
+
+[00:50:58] SPEAKER_07
+like whoa there's a
+
+[00:50:58] SPEAKER_07
+whole film crew
+
+[00:50:59] SPEAKER_07
+thing down there
+
+[00:51:00] SPEAKER_07
+and that's wild so
+
+[00:51:01] SPEAKER_07
+I just watched it
+
+[00:51:02] SPEAKER_07
+the entire evening.
+
+[00:51:03] SPEAKER_07
+That picture is
+
+[00:51:04] SPEAKER_07
+incredible.
+
+[00:51:05] SPEAKER_04
+Like if this was
+
+[00:51:06] SPEAKER_04
+like the internet
+
+[00:51:07] SPEAKER_04
+in the 90s
+
+[00:51:08] SPEAKER_04
+and it was
+
+[00:51:09] SPEAKER_04
+loading from the
+
+[00:51:10] SPEAKER_04
+top down it
+
+[00:51:11] SPEAKER_04
+would be Alec
+
+[00:51:12] SPEAKER_04
+Baldwin until like
+
+[00:51:13] SPEAKER_04
+just below his
+
+[00:51:14] SPEAKER_04
+eyes and then it
+
+[00:51:14] SPEAKER_04
+all goes wrong.
+
+[00:51:15] SPEAKER_07
+Yeah.
+
+[00:51:15] SPEAKER_07
+Yeah.
+
+[00:51:16] SPEAKER_07
+What's so funny
+
+[00:51:16] SPEAKER_07
+about it is it's
+
+[00:51:17] SPEAKER_07
+Daniel Baldwin
+
+[00:51:18] SPEAKER_07
+next to a guy that
+
+[00:51:20] SPEAKER_07
+looks like Stephen
+
+[00:51:21] SPEAKER_07
+Baldwin.
+
+[00:51:21] SPEAKER_05
+The guy looks so
+
+[00:51:22] SPEAKER_05
+much like Stephen
+
+[00:51:23] SPEAKER_05
+Baldwin it freaks me
+
+[00:51:24] SPEAKER_05
+out.
+
+[00:51:25] SPEAKER_07
+They look very
+
+[00:51:25] SPEAKER_07
+similar.
+
+[00:51:27] SPEAKER_07
+I'd learned about
+
+[00:51:28] SPEAKER_07
+this because I was
+
+[00:51:29] SPEAKER_07
+like oh what's the
+
+[00:51:30] SPEAKER_07
+film set and then I
+
+[00:51:31] SPEAKER_07
+saw on the paper
+
+[00:51:31] SPEAKER_07
+the next day that
+
+[00:51:33] SPEAKER_07
+Dennis Farina was
+
+[00:51:34] SPEAKER_07
+filming a movie at
+
+[00:51:35] SPEAKER_07
+the pier and
+
+[00:51:37] SPEAKER_07
+based on my
+
+[00:51:37] SPEAKER_07
+research this is
+
+[00:51:39] SPEAKER_07
+the only film that
+
+[00:51:40] SPEAKER_07
+fits that Dennis
+
+[00:51:42] SPEAKER_07
+Farina filmed in
+
+[00:51:43] SPEAKER_07
+Victoria.
+
+[00:51:44] SPEAKER_07
+So I'd be in
+
+[00:51:45] SPEAKER_07
+paparazzi.
+
+[00:51:46] SPEAKER_07
+So any scene in the
+
+[00:51:48] SPEAKER_07
+pier which I vaguely
+
+[00:51:49] SPEAKER_07
+remember being a plot
+
+[00:51:50] SPEAKER_07
+point of the movie I
+
+[00:51:51] SPEAKER_07
+think one of the
+
+[00:51:52] SPEAKER_07
+people I think one of
+
+[00:51:53] SPEAKER_07
+the photographers lives
+
+[00:51:54] SPEAKER_07
+in a houseboat or
+
+[00:51:56] SPEAKER_07
+lives in a boat I
+
+[00:51:57] SPEAKER_07
+guess it's not a
+
+[00:51:58] SPEAKER_07
+houseboat.
+
+[00:51:58] SPEAKER_07
+If you live in a boat
+
+[00:51:59] SPEAKER_07
+does it become a
+
+[00:52:00] SPEAKER_07
+houseboat?
+
+[00:52:01] SPEAKER_07
+Yes.
+
+[00:52:01] SPEAKER_07
+Yeah.
+
+[00:52:02] SPEAKER_07
+Okay.
+
+[00:52:02] SPEAKER_07
+Well then houseboat
+
+[00:52:03] SPEAKER_07
+is fine.
+
+[00:52:04] SPEAKER_07
+I was just curious
+
+[00:52:05] SPEAKER_07
+it's the only thing
+
+[00:52:06] SPEAKER_07
+like there's never
+
+[00:52:07] SPEAKER_07
+been.
+
+[00:52:08] SPEAKER_04
+Well I see what you
+
+[00:52:09] SPEAKER_04
+mean like if it was
+
+[00:52:10] SPEAKER_04
+a dinghy with a
+
+[00:52:11] SPEAKER_04
+sleeping bag I
+
+[00:52:11] SPEAKER_04
+wouldn't call it a
+
+[00:52:12] SPEAKER_04
+houseboat.
+
+[00:52:13] SPEAKER_07
+Yeah.
+
+[00:52:14] SPEAKER_07
+That's definitely not
+
+[00:52:14] SPEAKER_07
+a houseboat.
+
+[00:52:15] SPEAKER_04
+I was just curious
+
+[00:52:16] SPEAKER_04
+how you view movies
+
+[00:52:17] SPEAKER_04
+in that way.
+
+[00:52:18] SPEAKER_04
+I don't really even
+
+[00:52:19] SPEAKER_04
+know what you mean.
+
+[00:52:22] SPEAKER_06
+Yeah me neither but
+
+[00:52:23] SPEAKER_06
+I'm on your side.
+
+[00:52:24] SPEAKER_99
+Yeah me too.
+
+[00:52:25] SPEAKER_06
+As long as you're on
+
+[00:52:26] SPEAKER_06
+my side.
+
+[00:52:31] SPEAKER_07
+A movie and either
+
+[00:52:32] SPEAKER_07
+that nothing exists
+
+[00:52:33] SPEAKER_07
+outside of what has
+
+[00:52:34] SPEAKER_07
+been said or is on
+
+[00:52:35] SPEAKER_07
+screen or everything
+
+[00:52:37] SPEAKER_07
+exists outside of the
+
+[00:52:38] SPEAKER_07
+crew.
+
+[00:52:41] SPEAKER_07
+So in an either or
+
+[00:52:42] SPEAKER_07
+scenario.
+
+[00:52:43] SPEAKER_07
+Those are the classic
+
+[00:52:44] SPEAKER_07
+two ways to watch a
+
+[00:52:45] SPEAKER_07
+movie.
+
+[00:52:45] SPEAKER_07
+Two ways.
+
+[00:52:46] SPEAKER_04
+I just don't think
+
+[00:52:47] SPEAKER_04
+anyone making a movie
+
+[00:52:48] SPEAKER_04
+thinks about either
+
+[00:52:49] SPEAKER_04
+of those two options.
+
+[00:52:51] SPEAKER_04
+I don't know what
+
+[00:52:52] SPEAKER_04
+other options they
+
+[00:52:53] SPEAKER_04
+would think about.
+
+[00:52:54] SPEAKER_06
+Yeah but I mean
+
+[00:52:54] SPEAKER_06
+Andrew thinks about
+
+[00:52:55] SPEAKER_04
+it and he was in
+
+[00:52:56] SPEAKER_04
+paparazzi so.
+
+[00:52:57] SPEAKER_04
+They're just making
+
+[00:52:58] SPEAKER_04
+the story.
+
+[00:52:58] SPEAKER_04
+I don't think they're
+
+[00:52:59] SPEAKER_04
+thinking about the
+
+[00:53:00] SPEAKER_04
+crew or who's
+
+[00:53:01] SPEAKER_04
+watching.
+
+[00:53:01] SPEAKER_07
+Well let me be clear.
+
+[00:53:02] SPEAKER_07
+I don't think I'm in
+
+[00:53:03] SPEAKER_07
+paparazzi because in
+
+[00:53:05] SPEAKER_07
+the scenario in which
+
+[00:53:06] SPEAKER_07
+I'm in paparazzi means
+
+[00:53:08] SPEAKER_07
+that the people that
+
+[00:53:09] SPEAKER_07
+worked on it but
+
+[00:53:10] SPEAKER_07
+weren't in it aren't
+
+[00:53:11] SPEAKER_07
+involved in it.
+
+[00:53:13] SPEAKER_05
+What are you saying?
+
+[00:53:14] SPEAKER_05
+Which feels broken.
+
+[00:53:15] SPEAKER_05
+Could we get you into
+
+[00:53:16] SPEAKER_05
+the IMDB credits as
+
+[00:53:18] SPEAKER_05
+viewed piercing
+
+[00:53:19] SPEAKER_05
+filming?
+
+[00:53:21] SPEAKER_07
+Uncredited?
+
+[00:53:22] SPEAKER_07
+Yeah.
+
+[00:53:24] SPEAKER_07
+I think technically you
+
+[00:53:25] SPEAKER_07
+could get credited in
+
+[00:53:26] SPEAKER_07
+any film uncredited.
+
+[00:53:28] SPEAKER_07
+Well any film that
+
+[00:53:28] SPEAKER_07
+was in your lifetime
+
+[00:53:30] SPEAKER_07
+that was filmed?
+
+[00:53:31] SPEAKER_07
+I think just any film
+
+[00:53:32] SPEAKER_07
+in general.
+
+[00:53:33] SPEAKER_07
+Because you're
+
+[00:53:34] SPEAKER_07
+uncredited.
+
+[00:53:35] SPEAKER_07
+What are the rules
+
+[00:53:36] SPEAKER_07
+on uncredited?
+
+[00:53:38] SPEAKER_07
+Like I watched the
+
+[00:53:39] SPEAKER_07
+Jiminy Glick movie
+
+[00:53:40] SPEAKER_07
+recently and Willem
+
+[00:53:42] SPEAKER_07
+Defoe's in that but
+
+[00:53:43] SPEAKER_07
+he's uncredited in it.
+
+[00:53:44] SPEAKER_04
+Yeah but you see
+
+[00:53:45] SPEAKER_04
+it's in the sentence
+
+[00:53:47] SPEAKER_04
+you just said.
+
+[00:53:47] SPEAKER_04
+He was in it.
+
+[00:53:49] SPEAKER_06
+Yeah but he wasn't
+
+[00:53:50] SPEAKER_06
+credited.
+
+[00:53:50] SPEAKER_06
+Right.
+
+[00:53:51] SPEAKER_06
+Was he?
+
+[00:53:51] SPEAKER_06
+Yeah but yeah how in
+
+[00:53:52] SPEAKER_06
+it was he?
+
+[00:53:53] SPEAKER_06
+Was he watching it
+
+[00:53:54] SPEAKER_06
+being filmed from
+
+[00:53:55] SPEAKER_06
+across the pier?
+
+[00:53:56] SPEAKER_06
+Or?
+
+[00:53:57] SPEAKER_06
+Okay.
+
+[00:53:58] SPEAKER_06
+Well to be also
+
+[00:53:58] SPEAKER_07
+to be fair you would
+
+[00:54:00] SPEAKER_07
+have to know Willem
+
+[00:54:01] SPEAKER_07
+Defoe to know Willem
+
+[00:54:02] SPEAKER_07
+Defoe is in that
+
+[00:54:03] SPEAKER_07
+movie.
+
+[00:54:03] SPEAKER_07
+It's like a side
+
+[00:54:04] SPEAKER_07
+shot from the back.
+
+[00:54:05] SPEAKER_07
+He's barely in it.
+
+[00:54:07] SPEAKER_07
+Can we Nick?
+
+[00:54:07] SPEAKER_04
+Can we put in the
+
+[00:54:09] SPEAKER_04
+you know in the credit
+
+[00:54:09] SPEAKER_04
+sometimes we have all
+
+[00:54:10] SPEAKER_04
+the supporters on
+
+[00:54:12] SPEAKER_04
+Patreon's names.
+
+[00:54:13] SPEAKER_04
+Can we put Willem
+
+[00:54:14] SPEAKER_04
+Defoe uncredited?
+
+[00:54:16] SPEAKER_04
+Please.
+
+[00:54:16] SPEAKER_04
+That'd be great.
+
+[00:54:17] SPEAKER_07
+That'd be a great
+
+[00:54:18] SPEAKER_07
+addition.
+
+[00:54:19] SPEAKER_07
+Thanks Nick.
+
+[00:54:20] SPEAKER_99
+You got it.
+
+[00:54:21] SPEAKER_07
+That was in that
+
+[00:54:22] SPEAKER_07
+that's that's my movie
+
+[00:54:23] SPEAKER_07
+corner.
+
+[00:54:25] SPEAKER_01
+Andrew's other
+
+[00:54:26] SPEAKER_01
+second Andrew's
+
+[00:54:26] SPEAKER_01
+movie corner?
+
+[00:54:28] SPEAKER_06
+Andrew gets to the
+
+[00:54:29] SPEAKER_06
+bottom of it.
+
+[00:54:30] SPEAKER_06
+Andrew's movie corner.
+
+[00:54:31] SPEAKER_04
+We got it all on this
+
+[00:54:32] SPEAKER_04
+one.
+
+[00:54:32] SPEAKER_04
+Yeah I feel like we
+
+[00:54:33] SPEAKER_04
+got to the bottom of
+
+[00:54:34] SPEAKER_04
+that.
+
+[00:54:34] SPEAKER_04
+I feel like in this
+
+[00:54:35] SPEAKER_04
+episode and Andrew
+
+[00:54:36] SPEAKER_04
+got to the bottom of
+
+[00:54:36] SPEAKER_04
+it I got blindfolded
+
+[00:54:38] SPEAKER_04
+and spun around.
+
+[00:54:39] SPEAKER_04
+I don't know what's
+
+[00:54:40] SPEAKER_04
+happened to me.
+
+[00:54:41] SPEAKER_07
+You don't understand
+
+[00:54:42] SPEAKER_07
+and after the
+
+[00:54:42] SPEAKER_07
+explanation of the
+
+[00:54:43] SPEAKER_07
+two ways to view a
+
+[00:54:44] SPEAKER_07
+movie in my eyes you
+
+[00:54:45] SPEAKER_07
+still don't get it?
+
+[00:54:48] SPEAKER_05
+I get it even less.
+
+[00:54:50] SPEAKER_05
+If you were going to
+
+[00:54:50] SPEAKER_05
+explain it one more
+
+[00:54:51] SPEAKER_05
+time.
+
+[00:54:53] SPEAKER_05
+If you were just
+
+[00:54:53] SPEAKER_05
+going to like
+
+[00:54:53] SPEAKER_05
+succinctly wrap it up
+
+[00:54:55] SPEAKER_05
+one more time.
+
+[00:54:56] SPEAKER_05
+Succinctly wrap it up
+
+[00:54:57] SPEAKER_07
+one more time.
+
+[00:54:58] SPEAKER_07
+Either nothing exists
+
+[00:55:00] SPEAKER_07
+but what is seen or
+
+[00:55:02] SPEAKER_07
+mentioned or
+
+[00:55:03] SPEAKER_07
+everything exists but
+
+[00:55:05] SPEAKER_07
+the people that are
+
+[00:55:06] SPEAKER_07
+making the film.
+
+[00:55:11] SPEAKER_07
+That's the best way
+
+[00:55:12] SPEAKER_07
+you've described it
+
+[00:55:12] SPEAKER_07
+yet.
+
+[00:55:13] SPEAKER_05
+Thank you.
+
+[00:55:14] SPEAKER_07
+I feel like it was
+
+[00:55:15] SPEAKER_07
+similar to run
+
+[00:55:15] SPEAKER_07
+to you but I
+
+[00:55:16] SPEAKER_07
+understand.
+
+[00:55:18] SPEAKER_07
+The comments will
+
+[00:55:19] SPEAKER_07
+be on my side on
+
+[00:55:19] SPEAKER_07
+this one.
+
+[00:55:20] SPEAKER_07
+I think everyone's
+
+[00:55:20] SPEAKER_07
+on my side on this
+
+[00:55:21] SPEAKER_04
+one.
+
+[00:55:21] SPEAKER_04
+You're probably
+
+[00:55:21] SPEAKER_04
+right.
+
+[00:55:22] SPEAKER_04
+You make a lot of
+
+[00:55:23] SPEAKER_04
+sense to a lot of
+
+[00:55:23] SPEAKER_04
+people.
+
+[00:55:24] SPEAKER_07
+Anyway I guess I'm
+
+[00:55:25] SPEAKER_07
+not in paparazzi.
+
+[00:55:27] SPEAKER_04
+I don't think so.
+
+[00:55:28] SPEAKER_07
+I think Meg will be
+
+[00:55:29] SPEAKER_07
+on my side on this.
+
+[00:55:29] SPEAKER_07
+Uncredited.
+
+[00:55:31] SPEAKER_07
+Uncredited.
+
+[00:55:31] SPEAKER_07
+Willem Dafoe.
+
+[00:55:33] SPEAKER_07
+I wonder who has
+
+[00:55:34] SPEAKER_07
+the most uncredited
+
+[00:55:35] SPEAKER_07
+appearances.
+
+[00:55:36] SPEAKER_04
+Who's like the least
+
+[00:55:37] SPEAKER_04
+credited but the
+
+[00:55:38] SPEAKER_04
+most.
+
+[00:55:38] SPEAKER_04
+The least credited
+
+[00:55:39] SPEAKER_04
+most credited.
+
+[00:55:40] SPEAKER_04
+Can I talk about
+
+[00:55:42] SPEAKER_04
+something I saw in
+
+[00:55:43] SPEAKER_04
+Detroit?
+
+[00:55:44] SPEAKER_04
+I went with Jeff.
+
+[00:55:45] SPEAKER_05
+Yeah we need to talk
+
+[00:55:45] SPEAKER_05
+about you went to
+
+[00:55:46] SPEAKER_05
+Detroit with Jeff.
+
+[00:55:47] SPEAKER_05
+I think that's probably
+
+[00:55:48] SPEAKER_05
+a next episode
+
+[00:55:50] SPEAKER_05
+conversation at this
+
+[00:55:51] SPEAKER_05
+point.
+
+[00:55:51] SPEAKER_05
+We're an hour in.
+
+[00:55:52] SPEAKER_05
+We're an hour into
+
+[00:55:53] SPEAKER_05
+this.
+
+[00:55:53] SPEAKER_04
+This is a tiny thing.
+
+[00:55:54] SPEAKER_04
+This is a little
+
+[00:55:55] SPEAKER_04
+preview.
+
+[00:55:55] SPEAKER_07
+A little preview of
+
+[00:55:56] SPEAKER_07
+the Detroit experience.
+
+[00:55:57] SPEAKER_04
+Do you want to see
+
+[00:55:58] SPEAKER_04
+the scariest thing I
+
+[00:55:59] SPEAKER_04
+saw in Detroit?
+
+[00:56:01] SPEAKER_04
+Yes.
+
+[00:56:01] SPEAKER_04
+I was just watching Jeff
+
+[00:56:04] SPEAKER_04
+drink his drink.
+
+[00:56:06] SPEAKER_04
+Okay so it's an
+
+[00:56:07] SPEAKER_04
+orange drink.
+
+[00:56:08] SPEAKER_04
+No caffeine.
+
+[00:56:09] SPEAKER_04
+Very long sodium.
+
+[00:56:10] SPEAKER_04
+Oh my god.
+
+[00:56:11] SPEAKER_04
+It had 96% of a
+
+[00:56:13] SPEAKER_04
+daily allowance of
+
+[00:56:14] SPEAKER_04
+shit.
+
+[00:56:14] SPEAKER_04
+Wow.
+
+[00:56:16] SPEAKER_05
+Was it good Jeff?
+
+[00:56:17] SPEAKER_05
+Jeff was it good?
+
+[00:56:18] SPEAKER_05
+All it was was an
+
+[00:56:19] SPEAKER_05
+orange Faygo I got
+
+[00:56:21] SPEAKER_05
+with dinner.
+
+[00:56:22] SPEAKER_05
+Oh it was a Faygo.
+
+[00:56:24] SPEAKER_05
+It was a Faygo.
+
+[00:56:25] SPEAKER_05
+That's why I got it.
+
+[00:56:25] SPEAKER_05
+Detroit you know
+
+[00:56:26] SPEAKER_05
+drink like a local.
+
+[00:56:27] SPEAKER_05
+They drink Werner's
+
+[00:56:28] SPEAKER_05
+and Faygo.
+
+[00:56:29] SPEAKER_04
+Yeah they do.
+
+[00:56:29] SPEAKER_04
+It was bragging about
+
+[00:56:30] SPEAKER_04
+some of the features
+
+[00:56:31] SPEAKER_04
+of this drink like
+
+[00:56:32] SPEAKER_04
+no caffeine.
+
+[00:56:33] SPEAKER_04
+Very low sodium.
+
+[00:56:34] SPEAKER_04
+Forget the fact that
+
+[00:56:35] SPEAKER_04
+it has almost 50
+
+[00:56:36] SPEAKER_04
+grams of sugar in it.
+
+[00:56:38] SPEAKER_05
+Well yeah you gotta
+
+[00:56:39] SPEAKER_05
+you gotta over index
+
+[00:56:40] SPEAKER_05
+on the sugar to make
+
+[00:56:41] SPEAKER_05
+up for the low
+
+[00:56:41] SPEAKER_05
+sodium in the
+
+[00:56:42] SPEAKER_05
+caffeine.
+
+[00:56:43] SPEAKER_04
+That's fair.
+
+[00:56:45] SPEAKER_04
+My eyes always
+
+[00:56:46] SPEAKER_07
+popped out.
+
+[00:56:47] SPEAKER_07
+You just helped me
+
+[00:56:48] SPEAKER_07
+get to the bottom
+
+[00:56:48] SPEAKER_07
+of this Gavin.
+
+[00:56:49] SPEAKER_04
+Okay.
+
+[00:56:50] SPEAKER_07
+I never thought about
+
+[00:56:51] SPEAKER_07
+what the percentages
+
+[00:56:51] SPEAKER_07
+mean on these things.
+
+[00:56:53] SPEAKER_07
+It's daily value.
+
+[00:56:54] SPEAKER_07
+What did you
+
+[00:56:55] SPEAKER_07
+say?
+
+[00:56:56] SPEAKER_07
+Okay.
+
+[00:56:56] SPEAKER_07
+It says percent
+
+[00:56:57] SPEAKER_07
+daily value.
+
+[00:56:58] SPEAKER_07
+Yeah I just
+
+[00:56:58] SPEAKER_06
+have never really
+
+[00:56:59] SPEAKER_06
+read it.
+
+[00:57:00] SPEAKER_06
+Oh.
+
+[00:57:01] SPEAKER_06
+So you just
+
+[00:57:01] SPEAKER_06
+so you would just
+
+[00:57:02] SPEAKER_06
+see things and it
+
+[00:57:02] SPEAKER_06
+was numbers.
+
+[00:57:03] SPEAKER_07
+Yeah because I'm
+
+[00:57:04] SPEAKER_07
+typically if I'm
+
+[00:57:05] SPEAKER_07
+looking at a bottle
+
+[00:57:06] SPEAKER_07
+I'm looking for
+
+[00:57:07] SPEAKER_07
+either a phone
+
+[00:57:08] SPEAKER_07
+number or like
+
+[00:57:09] SPEAKER_07
+where it was made.
+
+[00:57:10] SPEAKER_07
+I gotta call them
+
+[00:57:11] SPEAKER_06
+and see what the
+
+[00:57:12] SPEAKER_06
+sequel to this soda
+
+[00:57:13] SPEAKER_06
+is.
+
+[00:57:13] SPEAKER_06
+What's what's next
+
+[00:57:14] SPEAKER_06
+for this soda?
+
+[00:57:16] SPEAKER_04
+Can you help me
+
+[00:57:16] SPEAKER_04
+out?
+
+[00:57:17] SPEAKER_04
+Do the people that
+
+[00:57:18] SPEAKER_04
+made the soda exist
+
+[00:57:19] SPEAKER_04
+in the world
+
+[00:57:20] SPEAKER_04
+you're drinking
+
+[00:57:20] SPEAKER_04
+it?
+
+[00:57:21] SPEAKER_06
+Yeah.
+
+[00:57:22] SPEAKER_06
+Andrew are you
+
+[00:57:23] SPEAKER_06
+in this soda?
+
+[00:57:24] SPEAKER_07
+No.
+
+[00:57:25] SPEAKER_07
+Okay.
+
+[00:57:26] SPEAKER_07
+Definitely not.
+
+[00:57:27] SPEAKER_07
+I didn't even
+
+[00:57:27] SPEAKER_07
+witness it be
+
+[00:57:28] SPEAKER_07
+bottled.
+
+[00:57:29] SPEAKER_05
+I'd also like to
+
+[00:57:30] SPEAKER_05
+point out I don't
+
+[00:57:31] SPEAKER_05
+drink sugar sodas
+
+[00:57:32] SPEAKER_05
+ever.
+
+[00:57:33] SPEAKER_05
+I've been a diet
+
+[00:57:33] SPEAKER_05
+soda fan my
+
+[00:57:34] SPEAKER_05
+entire life.
+
+[00:57:35] SPEAKER_05
+I just you know
+
+[00:57:36] SPEAKER_05
+every once in a
+
+[00:57:37] SPEAKER_05
+while you gotta cut
+
+[00:57:38] SPEAKER_05
+loose when you're
+
+[00:57:38] SPEAKER_05
+in a special place.
+
+[00:57:40] SPEAKER_04
+Oh yeah we're
+
+[00:57:40] SPEAKER_04
+traveling.
+
+[00:57:41] SPEAKER_04
+We were at a
+
+[00:57:41] SPEAKER_04
+was that a
+
+[00:57:42] SPEAKER_04
+dinner?
+
+[00:57:43] SPEAKER_04
+No that was
+
+[00:57:44] SPEAKER_04
+the sandwich
+
+[00:57:47] SPEAKER_04
+where we had
+
+[00:57:49] SPEAKER_04
+it was in the
+
+[00:57:50] SPEAKER_04
+museum.
+
+[00:57:51] SPEAKER_05
+Oh I had
+
+[00:57:54] SPEAKER_05
+limited options.
+
+[00:57:55] SPEAKER_05
+I tried to order
+
+[00:57:56] SPEAKER_05
+a diet coke and
+
+[00:57:57] SPEAKER_05
+was told diet coke
+
+[00:57:58] SPEAKER_05
+didn't exist in the
+
+[00:57:59] SPEAKER_05
+1940s and this is a
+
+[00:58:00] SPEAKER_05
+period accurate
+
+[00:58:01] SPEAKER_05
+diner and so I
+
+[00:58:02] SPEAKER_05
+didn't have much
+
+[00:58:03] SPEAKER_05
+choice so I ordered
+
+[00:58:04] SPEAKER_05
+an orange bago
+
+[00:58:04] SPEAKER_05
+because it was
+
+[00:58:05] SPEAKER_05
+nothing else.
+
+[00:58:06] SPEAKER_06
+Wait what is this
+
+[00:58:07] SPEAKER_06
+real?
+
+[00:58:08] SPEAKER_99
+Yeah.
+
+[00:58:08] SPEAKER_99
+Yeah.
+
+[00:58:09] SPEAKER_06
+They told you it
+
+[00:58:10] SPEAKER_06
+didn't exist in the
+
+[00:58:10] SPEAKER_06
+1940s and this is a
+
+[00:58:11] SPEAKER_06
+period accurate
+
+[00:58:12] SPEAKER_05
+period accurate
+
+[00:58:13] SPEAKER_05
+diner.
+
+[00:58:15] SPEAKER_05
+Yeah they said
+
+[00:58:15] SPEAKER_05
+like that yeah
+
+[00:58:16] SPEAKER_05
+there was no diet
+
+[00:58:16] SPEAKER_05
+coke in the 1940s
+
+[00:58:17] SPEAKER_05
+you can only order
+
+[00:58:18] SPEAKER_05
+what's on the list
+
+[00:58:19] SPEAKER_05
+and it was like
+
+[00:58:19] SPEAKER_05
+that or cheer
+
+[00:58:20] SPEAKER_05
+wine and so I
+
+[00:58:21] SPEAKER_05
+got I got the
+
+[00:58:23] SPEAKER_05
+orange bago.
+
+[00:58:25] SPEAKER_07
+I got some some
+
+[00:58:26] SPEAKER_07
+bad news from them.
+
+[00:58:26] SPEAKER_07
+I don't think the
+
+[00:58:28] SPEAKER_07
+best before of
+
+[00:58:29] SPEAKER_07
+April 2026 would
+
+[00:58:30] SPEAKER_07
+have been a best
+
+[00:58:31] SPEAKER_07
+before in 1940.
+
+[00:58:32] SPEAKER_06
+No in 1940 it
+
+[00:58:33] SPEAKER_06
+would have been
+
+[00:58:34] SPEAKER_06
+expired by a
+
+[00:58:36] SPEAKER_06
+number of years.
+
+[00:58:37] SPEAKER_06
+That is crazy.
+
+[00:58:39] SPEAKER_06
+They I can't
+
+[00:58:39] SPEAKER_06
+believe dude there's
+
+[00:58:41] SPEAKER_05
+listen that there's a
+
+[00:58:42] SPEAKER_05
+couple of other
+
+[00:58:43] SPEAKER_05
+stories related to
+
+[00:58:44] SPEAKER_05
+that lunch that I
+
+[00:58:46] SPEAKER_05
+think are the more
+
+[00:58:46] SPEAKER_05
+interesting than the
+
+[00:58:48] SPEAKER_05
+Faygo sugar count.
+
+[00:58:50] SPEAKER_05
+We'll get to it in the
+
+[00:58:50] SPEAKER_05
+next episode.
+
+[00:58:51] SPEAKER_05
+Consider that a little
+
+[00:58:52] SPEAKER_05
+preview.
+
+[00:58:52] SPEAKER_05
+We watched we
+
+[00:58:54] SPEAKER_05
+we did we saw a lot
+
+[00:58:59] SPEAKER_05
+of employee
+
+[00:58:59] SPEAKER_05
+interactions.
+
+[00:59:00] SPEAKER_05
+I'll say that.
+
+[00:59:01] SPEAKER_05
+What the fuck.
+
+[00:59:03] SPEAKER_05
+It was bizarre.
+
+[00:59:05] SPEAKER_04
+Andrew what did you
+
+[00:59:05] SPEAKER_04
+think the percentage
+
+[00:59:06] SPEAKER_04
+was of.
+
+[00:59:08] SPEAKER_07
+I guess I didn't
+
+[00:59:09] SPEAKER_07
+really ever think
+
+[00:59:10] SPEAKER_07
+about it or maybe
+
+[00:59:11] SPEAKER_07
+it was like you
+
+[00:59:12] SPEAKER_07
+think it was a
+
+[00:59:12] SPEAKER_05
+percentage of the
+
+[00:59:13] SPEAKER_05
+soda.
+
+[00:59:14] SPEAKER_07
+Yeah like it could
+
+[00:59:14] SPEAKER_07
+be the percentage
+
+[00:59:15] SPEAKER_07
+of this like it's
+
+[00:59:16] SPEAKER_05
+18 percent of the
+
+[00:59:17] SPEAKER_05
+liquid is sugar or
+
+[00:59:19] SPEAKER_07
+like when you order
+
+[00:59:20] SPEAKER_07
+boba you have to
+
+[00:59:22] SPEAKER_07
+ask like it's like
+
+[00:59:24] SPEAKER_07
+70 percent sugar if
+
+[00:59:25] SPEAKER_07
+you want or 20
+
+[00:59:26] SPEAKER_07
+percent sugar or
+
+[00:59:27] SPEAKER_07
+whatever.
+
+[00:59:28] SPEAKER_04
+You think someone
+
+[00:59:30] SPEAKER_04
+48 grams of
+
+[00:59:31] SPEAKER_04
+sugar.
+
+[00:59:32] SPEAKER_07
+Maybe I guess I
+
+[00:59:35] SPEAKER_07
+listen I did know
+
+[00:59:36] SPEAKER_07
+it was not a
+
+[00:59:37] SPEAKER_07
+remember the name
+
+[00:59:38] SPEAKER_07
+scenario where it
+
+[00:59:39] SPEAKER_07
+was going to reach
+
+[00:59:40] SPEAKER_07
+100 percent and
+
+[00:59:41] SPEAKER_07
+distributed across
+
+[00:59:42] SPEAKER_07
+these things.
+
+[00:59:42] SPEAKER_07
+I just looked at
+
+[00:59:44] SPEAKER_07
+it went number
+
+[00:59:44] SPEAKER_07
+percentage thing I
+
+[00:59:45] SPEAKER_07
+don't know but it
+
+[00:59:47] SPEAKER_07
+is interesting.
+
+[00:59:48] SPEAKER_07
+It changes my view
+
+[00:59:49] SPEAKER_07
+on it because I
+
+[00:59:50] SPEAKER_07
+would drink that and
+
+[00:59:51] SPEAKER_07
+you're focusing on
+
+[00:59:52] SPEAKER_07
+the fact that that's
+
+[00:59:54] SPEAKER_07
+what 96 percent of
+
+[00:59:57] SPEAKER_07
+your sugar allowance.
+
+[00:59:58] SPEAKER_04
+What it's basically
+
+[00:59:59] SPEAKER_04
+saying is for the
+
+[00:59:59] SPEAKER_04
+rest of the
+
+[01:00:00] SPEAKER_04
+day you can only
+
+[01:00:01] SPEAKER_04
+have four percent
+
+[01:00:02] SPEAKER_04
+recommended around
+
+[01:00:03] SPEAKER_04
+two more grams.
+
+[01:00:04] SPEAKER_07
+Yeah but I'm
+
+[01:00:05] SPEAKER_07
+looking at it
+
+[01:00:05] SPEAKER_07
+saying I got 98
+
+[01:00:06] SPEAKER_07
+percent of my
+
+[01:00:07] SPEAKER_07
+sodium cap still
+
+[01:00:08] SPEAKER_07
+and potassium.
+
+[01:00:14] SPEAKER_07
+I would hate to
+
+[01:00:14] SPEAKER_07
+live in a world in
+
+[01:00:15] SPEAKER_07
+which I have a
+
+[01:00:16] SPEAKER_07
+dietary cap space
+
+[01:00:17] SPEAKER_07
+every day like a
+
+[01:00:18] SPEAKER_07
+hard cap.
+
+[01:00:20] SPEAKER_04
+Well like you
+
+[01:00:20] SPEAKER_04
+just wouldn't be
+
+[01:00:21] SPEAKER_04
+able to consume.
+
+[01:00:22] SPEAKER_07
+Yeah like it
+
+[01:00:23] SPEAKER_07
+like you lose the
+
+[01:00:24] SPEAKER_07
+right to consume
+
+[01:00:24] SPEAKER_07
+like there's no
+
+[01:00:25] SPEAKER_07
+overages like a
+
+[01:00:26] SPEAKER_07
+strict like NHL
+
+[01:00:27] SPEAKER_07
+style salary cap
+
+[01:00:29] SPEAKER_07
+but based on
+
+[01:00:30] SPEAKER_07
+these allotments.
+
+[01:00:32] SPEAKER_04
+I mean that
+
+[01:00:32] SPEAKER_04
+would probably be a
+
+[01:00:33] SPEAKER_04
+really healthy way
+
+[01:00:34] SPEAKER_04
+to live.
+
+[01:00:35] SPEAKER_04
+You would then
+
+[01:00:35] SPEAKER_04
+just be on water.
+
+[01:00:38] SPEAKER_04
+Is there like a
+
+[01:00:39] SPEAKER_05
+second apron you
+
+[01:00:40] SPEAKER_05
+can go into?
+
+[01:00:43] SPEAKER_07
+Maybe there has
+
+[01:00:45] SPEAKER_07
+to be a way to
+
+[01:00:46] SPEAKER_07
+like trade
+
+[01:00:46] SPEAKER_07
+previously eaten
+
+[01:00:48] SPEAKER_07
+meals to free up
+
+[01:00:49] SPEAKER_07
+salary cap.
+
+[01:00:50] SPEAKER_06
+I think that's
+
+[01:00:50] SPEAKER_06
+cool to throw it
+
+[01:00:51] SPEAKER_06
+up.
+
+[01:00:51] SPEAKER_06
+Yeah I'd start
+
+[01:00:52] SPEAKER_06
+gambling on if I
+
+[01:00:53] SPEAKER_06
+was gonna use all
+
+[01:00:54] SPEAKER_06
+my cap in one
+
+[01:00:56] SPEAKER_06
+day and just try to
+
+[01:00:57] SPEAKER_06
+get more cap for
+
+[01:00:58] SPEAKER_06
+it for like the
+
+[01:00:58] SPEAKER_06
+future you know.
+
+[01:00:59] SPEAKER_05
+The NBA is
+
+[01:01:00] SPEAKER_05
+falling apart right
+
+[01:01:01] SPEAKER_05
+now while we're
+
+[01:01:02] SPEAKER_05
+having this
+
+[01:01:02] SPEAKER_05
+conversation.
+
+[01:01:04] SPEAKER_05
+It is pretty
+
+[01:01:04] SPEAKER_05
+exciting.
+
+[01:01:05] SPEAKER_05
+Pretty insane.
+
+[01:01:06] SPEAKER_05
+If you're not a
+
+[01:01:06] SPEAKER_05
+sports fan a
+
+[01:01:08] SPEAKER_05
+player named
+
+[01:01:09] SPEAKER_05
+Terry Rozier and
+
+[01:01:10] SPEAKER_05
+then the coach of
+
+[01:01:11] SPEAKER_05
+the Portland Trail
+
+[01:01:12] SPEAKER_05
+Placers Chauncey
+
+[01:01:13] SPEAKER_05
+Billups have been
+
+[01:01:14] SPEAKER_05
+arrested for illegal
+
+[01:01:16] SPEAKER_05
+sports betting.
+
+[01:01:17] SPEAKER_06
+Arrested by the
+
+[01:01:18] SPEAKER_06
+FBI.
+
+[01:01:18] SPEAKER_06
+By the FBI.
+
+[01:01:19] SPEAKER_06
+Sorry.
+
+[01:01:19] SPEAKER_06
+Arrested by the
+
+[01:01:20] SPEAKER_06
+FBI.
+
+[01:01:20] SPEAKER_06
+In an FBI sting.
+
+[01:01:22] SPEAKER_05
+Crazy.
+
+[01:01:22] SPEAKER_05
+And the FBI
+
+[01:01:23] SPEAKER_05
+announced that there
+
+[01:01:24] SPEAKER_07
+will be more
+
+[01:01:24] SPEAKER_07
+arrests.
+
+[01:01:25] SPEAKER_07
+Yep.
+
+[01:01:25] SPEAKER_07
+I think Terry
+
+[01:01:26] SPEAKER_07
+Rozier would be
+
+[01:01:27] SPEAKER_07
+very honored that
+
+[01:01:28] SPEAKER_07
+you refer to the
+
+[01:01:30] SPEAKER_07
+NBA as falling
+
+[01:01:31] SPEAKER_07
+apart with his
+
+[01:01:31] SPEAKER_07
+arrest.
+
+[01:01:32] SPEAKER_05
+I mean it's not
+
+[01:01:34] SPEAKER_05
+him specifically
+
+[01:01:34] SPEAKER_05
+it's the shakeup
+
+[01:01:36] SPEAKER_05
+of the ramifications
+
+[01:01:39] SPEAKER_05
+of this.
+
+[01:01:39] SPEAKER_05
+I just think
+
+[01:01:39] SPEAKER_05
+Scary Terry would
+
+[01:01:40] SPEAKER_05
+be pumped to hear
+
+[01:01:41] SPEAKER_05
+that.
+
+[01:01:42] SPEAKER_05
+I agree.
+
+[01:01:42] SPEAKER_05
+I agree.
+
+[01:01:43] SPEAKER_05
+Hey listen ex-Boston
+
+[01:01:44] SPEAKER_05
+Celtic loved him.
+
+[01:01:45] SPEAKER_05
+Loved him when he
+
+[01:01:45] SPEAKER_05
+was Scary Terry for
+
+[01:01:46] SPEAKER_05
+us.
+
+[01:01:47] SPEAKER_05
+Hasn't panned out
+
+[01:01:47] SPEAKER_05
+his NBA career
+
+[01:01:48] SPEAKER_05
+hasn't really panned
+
+[01:01:49] SPEAKER_05
+out outside of
+
+[01:01:49] SPEAKER_05
+Boston.
+
+[01:01:50] SPEAKER_05
+No.
+
+[01:01:51] SPEAKER_05
+Since then
+
+[01:01:52] SPEAKER_05
+unfortunately.
+
+[01:01:52] SPEAKER_07
+I feel like he
+
+[01:01:53] SPEAKER_07
+can't be Scary Terry
+
+[01:01:54] SPEAKER_07
+anywhere else.
+
+[01:01:55] SPEAKER_07
+Specific to that
+
+[01:01:56] SPEAKER_07
+playoff series.
+
+[01:01:57] SPEAKER_07
+I'm sure he took
+
+[01:01:58] SPEAKER_07
+the nickname
+
+[01:01:58] SPEAKER_07
+elsewhere.
+
+[01:01:59] SPEAKER_07
+I used to have
+
+[01:02:00] SPEAKER_05
+the shirt that
+
+[01:02:01] SPEAKER_05
+was like him and
+
+[01:02:02] SPEAKER_05
+the screen mask.
+
+[01:02:02] SPEAKER_07
+The screen mask?
+
+[01:02:03] SPEAKER_07
+Yeah.
+
+[01:02:04] SPEAKER_07
+What a disappointment.
+
+[01:02:06] SPEAKER_05
+I'm going to buy
+
+[01:02:07] SPEAKER_05
+this.
+
+[01:02:08] SPEAKER_05
+What are you going
+
+[01:02:09] SPEAKER_05
+to buy?
+
+[01:02:09] SPEAKER_06
+Oh Gavin found
+
+[01:02:10] SPEAKER_06
+the pen.
+
+[01:02:10] SPEAKER_06
+No it's the pen.
+
+[01:02:11] SPEAKER_06
+He found the pen
+
+[01:02:11] SPEAKER_06
+again.
+
+[01:02:12] SPEAKER_06
+Can we do it?
+
+[01:02:12] SPEAKER_06
+The supplemental
+
+[01:02:13] SPEAKER_06
+where you stab
+
+[01:02:14] SPEAKER_06
+the can.
+
+[01:02:15] SPEAKER_06
+Do it.
+
+[01:02:15] SPEAKER_06
+Buy this.
+
+[01:02:16] SPEAKER_06
+I want to rebuy
+
+[01:02:16] SPEAKER_06
+the pen.
+
+[01:02:17] SPEAKER_06
+Yeah.
+
+[01:02:17] SPEAKER_06
+Let's do it and
+
+[01:02:18] SPEAKER_06
+then let's stab
+
+[01:02:19] SPEAKER_06
+it through a can.
+
+[01:02:20] SPEAKER_06
+This is great.
+
+[01:02:20] SPEAKER_06
+This is a good
+
+[01:02:21] SPEAKER_06
+place to wrap up
+
+[01:02:21] SPEAKER_06
+on too.
+
+[01:02:22] SPEAKER_06
+Let's do it.
+
+[01:02:22] SPEAKER_06
+We'll wrap up the
+
+[01:02:23] SPEAKER_07
+episode on Gavin
+
+[01:02:25] SPEAKER_07
+will do a test
+
+[01:02:26] SPEAKER_07
+of all the things
+
+[01:02:27] SPEAKER_07
+they advertised it
+
+[01:02:28] SPEAKER_07
+can do to see
+
+[01:02:29] SPEAKER_07
+if it actually
+
+[01:02:29] SPEAKER_07
+does the right
+
+[01:02:30] SPEAKER_07
+on plastic.
+
+[01:02:31] SPEAKER_07
+I'm going to
+
+[01:02:31] SPEAKER_07
+write on gloss.
+
+[01:02:32] SPEAKER_06
+Upside down.
+
+[01:02:33] SPEAKER_06
+I'm going to
+
+[01:02:33] SPEAKER_06
+write on upside
+
+[01:02:34] SPEAKER_06
+down.
+
+[01:02:35] SPEAKER_06
+All right Jeff
+
+[01:02:35] SPEAKER_06
+take us out.
+
+[01:02:36] SPEAKER_06
+I'm going to
+
+[01:02:36] SPEAKER_05
+take us out
+
+[01:02:37] SPEAKER_05
+much like I did
+
+[01:02:38] SPEAKER_05
+last week when
+
+[01:02:39] SPEAKER_05
+I ended with
+
+[01:02:40] SPEAKER_05
+an idea.
+
+[01:02:41] SPEAKER_05
+Dropped the
+
+[01:02:42] SPEAKER_05
+bomb of
+
+[01:02:43] SPEAKER_05
+carguing.
+
+[01:02:43] SPEAKER_05
+I think the
+
+[01:02:44] SPEAKER_05
+whole internet
+
+[01:02:44] SPEAKER_05
+was a buzz
+
+[01:02:45] SPEAKER_05
+everybody's
+
+[01:02:46] SPEAKER_05
+excited about
+
+[01:02:46] SPEAKER_05
+the idea of
+
+[01:02:47] SPEAKER_05
+carguing going
+
+[01:02:48] SPEAKER_05
+forward.
+
+[01:02:49] SPEAKER_05
+They said yes
+
+[01:02:50] SPEAKER_05
+more carguing
+
+[01:02:51] SPEAKER_05
+we want it
+
+[01:02:51] SPEAKER_05
+brilliant idea
+
+[01:02:52] SPEAKER_05
+Jeff so clever
+
+[01:02:53] SPEAKER_05
+everybody loves
+
+[01:02:54] SPEAKER_05
+Jeff.
+
+[01:02:54] SPEAKER_05
+Is he getting
+
+[01:02:54] SPEAKER_05
+taller?
+
+[01:02:55] SPEAKER_05
+Is he getting
+
+[01:02:56] SPEAKER_05
+younger?
+
+[01:02:56] SPEAKER_05
+Is he getting
+
+[01:02:56] SPEAKER_05
+better looking?
+
+[01:02:57] SPEAKER_05
+His ideas keep
+
+[01:02:58] SPEAKER_05
+improving.
+
+[01:02:59] SPEAKER_05
+Is he the
+
+[01:02:59] SPEAKER_05
+funniest he's
+
+[01:03:00] SPEAKER_05
+ever been
+
+[01:03:01] SPEAKER_05
+carguing?
+
+[01:03:02] SPEAKER_05
+Here's the new
+
+[01:03:02] SPEAKER_05
+one.
+
+[01:03:02] SPEAKER_05
+This isn't mine
+
+[01:03:03] SPEAKER_05
+though.
+
+[01:03:03] SPEAKER_05
+This came from
+
+[01:03:04] SPEAKER_05
+Emily.
+
+[01:03:04] SPEAKER_05
+She asked me
+
+[01:03:05] SPEAKER_05
+when are you
+
+[01:03:06] SPEAKER_05
+guys going to
+
+[01:03:06] SPEAKER_05
+fill those sandbags?
+
+[01:03:07] SPEAKER_05
+I said oh I
+
+[01:03:08] SPEAKER_05
+don't know we'll
+
+[01:03:08] SPEAKER_05
+get around to it
+
+[01:03:09] SPEAKER_05
+at some point.
+
+[01:03:09] SPEAKER_05
+She said well
+
+[01:03:10] SPEAKER_05
+how are you
+
+[01:03:10] SPEAKER_05
+going to do it?
+
+[01:03:11] SPEAKER_05
+I said with
+
+[01:03:11] SPEAKER_05
+sand and she
+
+[01:03:12] SPEAKER_05
+said no but
+
+[01:03:12] SPEAKER_05
+are you going to
+
+[01:03:13] SPEAKER_05
+film it?
+
+[01:03:14] SPEAKER_05
+I was like why
+
+[01:03:14] SPEAKER_05
+would we film
+
+[01:03:15] SPEAKER_05
+that?
+
+[01:03:15] SPEAKER_05
+She goes you're
+
+[01:03:16] SPEAKER_05
+going to sand
+
+[01:03:16] SPEAKER_05
+the bags and
+
+[01:03:17] SPEAKER_05
+not film it?
+
+[01:03:18] SPEAKER_05
+And I go what
+
+[01:03:18] SPEAKER_05
+does sand the
+
+[01:03:19] SPEAKER_05
+bags mean?
+
+[01:03:20] SPEAKER_05
+And she said
+
+[01:03:20] SPEAKER_05
+that's for you
+
+[01:03:20] SPEAKER_05
+to figure out.
+
+[01:03:21] SPEAKER_05
+And I thought
+
+[01:03:21] SPEAKER_04
+oh shit I guess
+
+[01:03:22] SPEAKER_04
+that is for us
+
+[01:03:23] SPEAKER_04
+to figure out.
+
+[01:03:24] SPEAKER_04
+What if it's
+
+[01:03:24] SPEAKER_04
+old listener
+
+[01:03:25] SPEAKER_04
+sand?
+
+[01:03:26] SPEAKER_04
+What if it's
+
+[01:03:26] SPEAKER_04
+regulation?
+
+[01:03:27] SPEAKER_05
+Listener sand.
+
+[01:03:28] SPEAKER_05
+You know what
+
+[01:03:28] SPEAKER_05
+would be fun?
+
+[01:03:29] SPEAKER_05
+And I'm not
+
+[01:03:30] SPEAKER_05
+saying we should
+
+[01:03:30] SPEAKER_05
+do this but it
+
+[01:03:32] SPEAKER_05
+would be fun to
+
+[01:03:33] SPEAKER_05
+break into my
+
+[01:03:34] SPEAKER_05
+old yard and
+
+[01:03:35] SPEAKER_05
+fill it with
+
+[01:03:35] SPEAKER_05
+sand from my
+
+[01:03:36] SPEAKER_05
+old yard.
+
+[01:03:36] SPEAKER_05
+We're definitely
+
+[01:03:37] SPEAKER_06
+not doing that.
+
+[01:03:39] SPEAKER_06
+We're not
+
+[01:03:39] SPEAKER_06
+breaking into your
+
+[01:03:41] SPEAKER_06
+old yard.
+
+[01:03:41] SPEAKER_06
+We should either
+
+[01:03:42] SPEAKER_04
+do that or
+
+[01:03:43] SPEAKER_04
+put Joan
+
+[01:03:44] SPEAKER_04
+Riff's dog in
+
+[01:03:44] SPEAKER_04
+it.
+
+[01:03:45] SPEAKER_04
+All right we'll
+
+[01:03:53] SPEAKER_05
+see you next
+
+[01:03:53] SPEAKER_05
+week.
+
+[01:03:53] SPEAKER_05
+Bye bye.
+
+[01:03:54] SPEAKER_05
+Bye.
+
+[01:03:55] SPEAKER_05
+Bye.

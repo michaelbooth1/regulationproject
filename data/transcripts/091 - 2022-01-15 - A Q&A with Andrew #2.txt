@@ -1,0 +1,786 @@
+# Episode 91: A Q&A with Andrew #2
+published: 2022-01-15T08:00:00+00:00  |  duration: 00:25:01
+source: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER9346310327.mp3?updated=1725560628
+transcribed: 2026-08-07T14:21:01.258924-04:00  |  model: large-v3-turbo
+diarization: pyannote/speaker-diarization-3.1
+
+
+[00:00:00] SPEAKER_00
+There's no shortcut for saving time, but saving money is simple. Just combine your car and home insurance with Bel Air Direct and save. Get a quote at belairdirect.com.
+
+[00:00:13] SPEAKER_00
+This is a Rooster Teeth production.
+
+[00:00:27] SPEAKER_00
+Hello and welcome to episode two of the F**kface Q&A show. Thank you so much for joining me. I don't know, that was like a weird delivery on that.
+
+[00:00:37] SPEAKER_00
+Anyway, hey, we're doing this again. There is like a three month gap between when I recorded the first one to the release of the second one.
+
+[00:00:47] SPEAKER_00
+And I hope that that's not the case for this. I'm pretty sure that this is supposed to release in January. We'll see though.
+
+[00:00:53] SPEAKER_00
+I guess first of all, I should just say thank you so much for everyone who listened and supported the first episode the way that you all did.
+
+[00:01:00] SPEAKER_00
+And you all, well, I mean, that's presumptuous, but the feedback on the first one was so overwhelmingly kind and supportive.
+
+[00:01:08] SPEAKER_00
+I got so many messages from people as well as just general comments that were just humbling and unspeakably thoughtful.
+
+[00:01:17] SPEAKER_00
+I tried my best to reply to anybody who messaged me. I inevitably would miss them.
+
+[00:01:22] SPEAKER_00
+If I missed your message, I'm sorry if you left a comment or like a tweet and I didn't acknowledge it in some way.
+
+[00:01:27] SPEAKER_00
+I read it. I just didn't interact with it because honestly, it was probably too nice.
+
+[00:01:32] SPEAKER_00
+I have this weird like anxiety thing where somebody is super complimentary.
+
+[00:01:35] SPEAKER_00
+I feel weird liking it because it just says like I like this tweet, like the statement of Andrew Panton likes this statement about how great Andrew Panton is feels super obnoxious to me.
+
+[00:01:45] SPEAKER_00
+You know, I don't think anyone interprets it that way. It's just this weird ego anxiety thing.
+
+[00:01:50] SPEAKER_00
+So if you if you wrote something super sweet and I didn't like it, it's because you were too kind.
+
+[00:01:56] SPEAKER_00
+And I appreciate it so much. I read it. But anxiety brain anyway, episode two.
+
+[00:02:03] SPEAKER_00
+I'm going to change this format up a little bit for this because why wouldn't you change something that worked the first time?
+
+[00:02:10] SPEAKER_00
+That's what everybody does. They find success and then they change the thing that worked well because that's smart.
+
+[00:02:16] SPEAKER_00
+That's what smart people do. But we're going to do more questions because that's the heart of the show.
+
+[00:02:21] SPEAKER_00
+The whole point of this. And I don't I apologize if I talked about it in the first episode.
+
+[00:02:24] SPEAKER_00
+I don't really remember everything that was discussed. So if I'm covering old ground, sorry.
+
+[00:02:29] SPEAKER_00
+But the kind of idea of the show came from I take calls from people in the community and I really enjoy engaging with you all in that way.
+
+[00:02:38] SPEAKER_00
+But I would I wouldn't be able to answer everybody and I get voicemails and it felt really weird to me to call back.
+
+[00:02:44] SPEAKER_00
+It just didn't seem like a thing I should do for whatever reason.
+
+[00:02:48] SPEAKER_00
+You know, they call it is the whole thing in my head. I just didn't I didn't like the idea of calling somebody randomly.
+
+[00:02:53] SPEAKER_00
+But I also wanted to, like, answer questions because some of them were either really thoughtful or just in general.
+
+[00:02:58] SPEAKER_00
+Just I don't know if you take the time to call a number and leave a message, I would like to reply, especially if I hear it.
+
+[00:03:03] SPEAKER_00
+And I didn't know how to. So I thought maybe there could be a show or something where I could quickly go through those.
+
+[00:03:08] SPEAKER_00
+And thus we're here on this one. I would like to do that as well as talk about the Raymond Sumer thing, which is a bit I did on the show.
+
+[00:03:19] SPEAKER_00
+And I would say it's the only bit that I regret doing.
+
+[00:03:22] SPEAKER_00
+And we can talk a little bit about that as we progress through this.
+
+[00:03:26] SPEAKER_00
+I know some people are like, you don't regret the pencil.
+
+[00:03:28] SPEAKER_00
+And that's a fair statement to make. But I learned a lot about the pencil and not everybody hated it.
+
+[00:03:33] SPEAKER_00
+I know the majority of people did not enjoy the pencil trial, but that was even for those who didn't like it.
+
+[00:03:41] SPEAKER_00
+My goal is obviously always with what I do to try to make you laugh.
+
+[00:03:47] SPEAKER_00
+And I won't always be successful at that. But that's the intent.
+
+[00:03:50] SPEAKER_00
+So even though the pencil trial is very divisive, I learned a lot in a few different ways.
+
+[00:03:56] SPEAKER_00
+So I ultimately don't regret doing that at all.
+
+[00:03:59] SPEAKER_00
+But the Raymond Sumer thing went off the rails in a few different ways.
+
+[00:04:03] SPEAKER_00
+And it was kind of a short sighted idea. It was a panic move, for lack of a better word.
+
+[00:04:08] SPEAKER_00
+So maybe we should just transition into that immediately, explaining the history of Raymond Sumer, which is sort of like a two part thing.
+
+[00:04:16] SPEAKER_00
+There is the why it happened and how the name came to be.
+
+[00:04:20] SPEAKER_00
+So I think I'll start with how the name came to be, which is a very dumb story, which is shocking.
+
+[00:04:25] SPEAKER_00
+I know. But Raymond, the name Raymond kind of became an inside joke between a friend of mine and myself, where I was talking about middle names to them.
+
+[00:04:37] SPEAKER_00
+And I was thinking about how my middle name is the name of a relative in my family.
+
+[00:04:42] SPEAKER_00
+And so when I went to tell them what my middle name was, I said my middle name is Raymond.
+
+[00:04:46] SPEAKER_00
+And then I said, it's funny, though, because I really don't feel like a Raymond, sort of a weird, a weird identity thing where I don't associate with that at all.
+
+[00:04:55] SPEAKER_00
+And then I realized the reason why it felt weird is because that isn't my my middle name, my middle name.
+
+[00:05:01] SPEAKER_00
+My brain did this like weird crossing of wires where I thought, oh, yeah, my middle name is named after this relative.
+
+[00:05:07] SPEAKER_00
+And then what came out is that relative's middle name, not mine.
+
+[00:05:10] SPEAKER_00
+That relative's middle name is Raymond, not my middle name.
+
+[00:05:13] SPEAKER_00
+And that's why it didn't feel like my middle name, because it's not.
+
+[00:05:16] SPEAKER_00
+That wasn't my name. I forgot my name essentially in this moment.
+
+[00:05:19] SPEAKER_00
+So like Raymond calling me Raymond became this inside joke between me and this person.
+
+[00:05:23] SPEAKER_00
+And the so mayor aspect of it came from two other really close friends.
+
+[00:05:27] SPEAKER_00
+When I was making the Twitter account, I was trying to change the at mention to something.
+
+[00:05:32] SPEAKER_00
+And I tried like five or six different names and none of them would fit like they were already taken on Twitter.
+
+[00:05:37] SPEAKER_00
+And so I was just looking at my friend group and I thought, ah, so mayor, that's sort of a unique name.
+
+[00:05:43] SPEAKER_00
+I wonder if it's available. And it was. So I got their permission.
+
+[00:05:47] SPEAKER_00
+And thus we got Raymond so mayor as a name.
+
+[00:05:51] SPEAKER_00
+Um, what's really funny about that is they would, that friend group, uh, those, those people would go to interact with something on face.
+
+[00:06:00] SPEAKER_00
+So there'd be an Instagram or something like that, but they would have some mayor in their username.
+
+[00:06:04] SPEAKER_00
+It's like they'd go to interact and the panic that by doing so would then reveal the origin of the name in some way.
+
+[00:06:11] SPEAKER_00
+So that's the history of how I created the name Raymond so mayor, the idea of it kind of came from a few different places.
+
+[00:06:20] SPEAKER_00
+The original point of, I thought it would be interesting to do something with, um, essentially information you can't verify, but that we generally accept that thought came from a different story.
+
+[00:06:30] SPEAKER_00
+I told on the podcast where I was traveling to Austin and there was a storm over the airport and we had to get redirected into San Antonio.
+
+[00:06:37] SPEAKER_00
+And I went on this road trip, but the guy's sitting next to me on the flight and I didn't know anything about him.
+
+[00:06:42] SPEAKER_00
+And when we were at the, the rental car, when he's picking it up, the guy said a different name, or at least it sounded like a different name than what I heard on the plane.
+
+[00:06:50] SPEAKER_00
+And I had this anxiety moment of like, did you, did he lie to me? Do I not know?
+
+[00:06:54] SPEAKER_00
+What do I, what do I actually know about this guy? Am I going to get killed? Is this, is this how I die? Is this my murder?
+
+[00:06:59] SPEAKER_00
+And that kind of stuck with me. That thought of when I interact with somebody who I've never met before,
+
+[00:07:03] SPEAKER_00
+all the stuff that I just assume is true in our interaction. And wow, what a weird way to say
+
+[00:07:09] SPEAKER_00
+interaction and our interaction that I just don't question. Cause why would I like, it's just a weird
+
+[00:07:14] SPEAKER_00
+thing to assume. Nobody's like, Hey, I'm Bob. And then the response is like, go fuck yourself. You're
+
+[00:07:21] SPEAKER_00
+not Bob. I know a Bob when I see a Bob and you sir are not a Bob that never happens. It's just cool.
+
+[00:07:28] SPEAKER_00
+Like who cares? So that stuck with me. And I was thinking about that a little bit. And I didn't know
+
+[00:07:32] SPEAKER_00
+if that was like a talking point somehow on the show that I could bring up, or if that would be
+
+[00:07:36] SPEAKER_00
+a bit within itself. And then a little after that, I did this weird puzzle thing where I had this
+
+[00:07:43] SPEAKER_00
+discord chat or group chat server, I guess is the word I'm looking for. And I don't remember why it
+
+[00:07:49] SPEAKER_00
+started, but it turned into a thing where I first was just like posting photos of not photos, but
+
+[00:07:54] SPEAKER_00
+numbers of random things on my desk. So like I had a Dr. Pepper bottle and I posted the customer
+
+[00:08:01] SPEAKER_00
+support line. And then people speculated like, what could this mean? So then I posted another
+
+[00:08:05] SPEAKER_00
+one and it just built. And then it turned into me buying a Swedish phone number and it like
+
+[00:08:10] SPEAKER_00
+escalated into this four day ridiculous thing that was so much fun. And the people that were
+
+[00:08:15] SPEAKER_00
+involved in it seemed to like really enjoy it. So I thought, Oh, I'd love to do more stuff
+
+[00:08:20] SPEAKER_00
+like that, which is also why I could be wrong. You could verify this, I guess, or maybe, I
+
+[00:08:25] SPEAKER_00
+don't know, post it or retweet it. I'll look at it. I think when I revealed the Raymond
+
+[00:08:30] SPEAKER_00
+Sumer thing, the only clue I gave that this was all a bit was if you take, I want to say
+
+[00:08:35] SPEAKER_00
+the first letter of every sentence, it spells fake. And it's a strangely written tweet because
+
+[00:08:43] SPEAKER_00
+of that. I was struggling to like, how do I balance this out or how do I make it sound
+
+[00:08:48] SPEAKER_00
+natural? So it doesn't read naturally really at all. It kind of feels like a shitty puzzle
+
+[00:08:52] SPEAKER_00
+when you read it. And that's because it was trying to hide the word fake or some indication
+
+[00:08:57] SPEAKER_00
+that it wasn't real. Uh, so those two ideas were like center points. And then the third
+
+[00:09:05] SPEAKER_00
+part, and this is where it gets a little bit darker. I apologize once again for taking it
+
+[00:09:11] SPEAKER_00
+to kind of sad place at around the same time I had a family member get diagnosed with cancer.
+
+[00:09:17] SPEAKER_00
+That way, that was terminal. Um, and that was difficult and I was really struggling with that.
+
+[00:09:23] SPEAKER_00
+And, uh, I decided to watch this movie called Paddleton, which happened to be a Mark Duplass
+
+[00:09:30] SPEAKER_00
+movie and a Ray Romano movie. And the premise of that movie is about one character having an
+
+[00:09:35] SPEAKER_00
+operable terminal cancer and them kind of going through that process together, which on the surface
+
+[00:09:41] SPEAKER_00
+seems like the worst possible movie you could watch if you were in my position. But it was the
+
+[00:09:46] SPEAKER_00
+strange thing of like, I was struggling and I just wanted to, I don't know, maybe seeing other
+
+[00:09:51] SPEAKER_00
+people go through a similar thing would provide some answer. And I don't know, I was just looking
+
+[00:09:58] SPEAKER_00
+for anything, I guess. And so I watched this movie and I did pull something from it, but it wasn't
+
+[00:10:03] SPEAKER_00
+really what I expected where the Ray Romano character buys the Mark Duplass character, this
+
+[00:10:08] SPEAKER_00
+shirt, or he makes it, sorry, he doesn't buy it. He makes this shirt and it's like a hangman
+
+[00:10:13] SPEAKER_00
+puzzle, you know, where it's like, it indicates how many letters are in the word, but not, it doesn't
+
+[00:10:17] SPEAKER_00
+reveal the word and it's two words. And they would play this game together when, whenever they'd have
+
+[00:10:22] SPEAKER_00
+free time, Mark Duplass would try to figure out what the puzzle was on his shirt. And so he'd make
+
+[00:10:27] SPEAKER_00
+guesses and you'd always say like fatty pork cause that lined up with what was there and he would
+
+[00:10:31] SPEAKER_00
+never be able to figure it out. But it was just like bonding thing they did. And you get to the end of
+
+[00:10:36] SPEAKER_00
+the movie. I apologize for spoiling Paddleton, but as right before the Duplass character dies,
+
+[00:10:41] SPEAKER_00
+he asks, what was the puzzle? And he learns that there was no answer to the puzzle, which
+
+[00:10:46] SPEAKER_00
+initially is like, fuck you. Why would you do this? Why would you make this shitty puzzle that
+
+[00:10:52] SPEAKER_00
+has no answer? And then Ray Romano explains that they would do these puzzles together and they'd go
+
+[00:10:58] SPEAKER_00
+on these adventures and like they do these things. And when they were done, there was that moment of
+
+[00:11:03] SPEAKER_00
+like, yeah, we did it. That's awesome. But there was also a sadness in that, that this experience
+
+[00:11:08] SPEAKER_00
+was now over that they had shared and that there was now kind of nothing for a time and that he knew
+
+[00:11:14] SPEAKER_00
+if he made him this shirt, that it would be his favorite shirt and that him and his friend would
+
+[00:11:19] SPEAKER_00
+have this puzzle for the rest of their lives that they could engage with. And I thought that that was
+
+[00:11:23] SPEAKER_00
+really beautiful. And I liked that a lot. And it kind of echoed some of the things I'd felt
+
+[00:11:28] SPEAKER_00
+recently doing that weird discord puzzle thing I did. So I became fascinated in this idea of like,
+
+[00:11:35] SPEAKER_00
+I would love to somehow do a fatty pork like puzzle with the community in some way. So I was
+
+[00:11:40] SPEAKER_00
+really fixated on that. And then the day after I watched the movie that that family member passed
+
+[00:11:46] SPEAKER_00
+away was sort of unexpected. And so I really was struggling with that. And there's feels weird to
+
+[00:11:54] SPEAKER_00
+say there's sort of a funny story on that day that I won't get into now. I guess if someone wants to
+
+[00:12:00] SPEAKER_00
+know about it, they could ask about it. But I really went into like just trying to as a distraction,
+
+[00:12:04] SPEAKER_00
+what can I do? Like what is I want to do a fatty pork? Then later that week, a few days after that,
+
+[00:12:11] SPEAKER_00
+and this is largely why Raymond Samir happened. Austin, Texas got hit by a snowstorm. It was like a
+
+[00:12:17] SPEAKER_00
+blizzard and, uh, of all things, a snowstorm. And it was like a serious thing. People didn't have power
+
+[00:12:25] SPEAKER_00
+for like a week. I want to say houses were being damaged. Water lines were, it was just chaos. It was
+
+[00:12:31] SPEAKER_00
+a terrible time apparently for people in the city. And, uh, it was, I think the day before an episode
+
+[00:12:38] SPEAKER_00
+was going to go out. I learned that we weren't going to be able to upload on Wednesday. And it'd be
+
+[00:12:43] SPEAKER_00
+the first time since we started our show that we wouldn't have an upload for that day. And this is,
+
+[00:12:48] SPEAKER_00
+I don't know, it's going to sound arrogant in some way or like self-important when it's not at
+
+[00:12:54] SPEAKER_00
+all intended to be. I hear so often from people, uh, that our show, like it's, it has been a constant
+
+[00:13:01] SPEAKER_00
+during this really difficult time. And I've, I've heard people say a lot that like, it means
+
+[00:13:06] SPEAKER_00
+something to me to know that on Wednesday, I have a new face that there's going to be something that
+
+[00:13:11] SPEAKER_00
+I can enjoy that will help or create laughter in my life at least. And how meaningful that is to
+
+[00:13:16] SPEAKER_00
+them. Uh, so I, it's important to me that we always have something on that day. So when I heard
+
+[00:13:23] SPEAKER_00
+that I kind of immediately went into this scramble mode of fuck, like I'd love if possible, cause I
+
+[00:13:29] SPEAKER_00
+still have power. Everything is normal to me. I have no issue. It's just like a regular day. Um,
+
+[00:13:34] SPEAKER_00
+is there something I can do that would give some piece of content on Wednesday? It can't be
+
+[00:13:41] SPEAKER_00
+long because it's going to be unedited. And also like, it can't be expansive or large because
+
+[00:13:46] SPEAKER_00
+that's not face at that point. Face is what everybody brings to it. And so I thought, what
+
+[00:13:51] SPEAKER_00
+is something I could do? That's brief. That would hopefully be something that the audience
+
+[00:13:55] SPEAKER_00
+enjoyed. Um, and so I was like, well, fuck I could do. You can't really confirm a name. Like I couldn't
+
+[00:14:04] SPEAKER_00
+think of a way in which someone could without a doubt confirm that my name is in Japan. I thought I could
+
+[00:14:10] SPEAKER_00
+do that. And that can maybe be a fatty pork thing. And I kind of rushed through this thought process
+
+[00:14:14] SPEAKER_00
+of, I could create things both ways of like what my name actually is. And so I kind of rushed into
+
+[00:14:20] SPEAKER_00
+it at that point and I recorded what I recorded and released it. And I was terrified when I did it.
+
+[00:14:26] SPEAKER_00
+It was like this strangely stressful thing that is completely mine for putting on, but it was,
+
+[00:14:32] SPEAKER_00
+I was worried about, I don't know. I meant the best. It was, it was done with the best intentions.
+
+[00:14:37] SPEAKER_00
+And I, I didn't, I didn't fully consider it. It was very sudden. So then it released and I saw some
+
+[00:14:43] SPEAKER_00
+of the negative sides of it. I felt really guilty for the people that like embraced me and championed
+
+[00:14:49] SPEAKER_00
+me for, for like revealing that as a thing when it wasn't an honest reveal. I felt guilt about that.
+
+[00:14:56] SPEAKER_00
+And I felt like I had betrayed these people in a way. And I felt really bad about that. And then
+
+[00:15:00] SPEAKER_00
+there were also just some general discussions of like the phrasing around what it means to go by a
+
+[00:15:06] SPEAKER_00
+name in which you weren't given at birth. And like some of the, the, the tone of those discussions
+
+[00:15:13] SPEAKER_00
+were not at all what I intended or that I'd ever hope for. Like I never want anyone to feel
+
+[00:15:18] SPEAKER_00
+uncomfortable. And, and some of the, like the declarations of claiming that is somehow a
+
+[00:15:22] SPEAKER_00
+betrayal when it isn't, or like a lie in some way, a deception sucked. And I didn't, I didn't want
+
+[00:15:29] SPEAKER_00
+that. I was just trying to create something brief. And that was sort of inspired by this fatty pork
+
+[00:15:35] SPEAKER_00
+idea. Um, and then the other layer that sucked as well is there are people that really dug in
+
+[00:15:43] SPEAKER_00
+and they found the obituary for that relative of mine who passed away and they would send it to me
+
+[00:15:48] SPEAKER_00
+as a, like a, Hey, I figured it out. Like I, this is proof that you're this name and not this name. And
+
+[00:15:55] SPEAKER_00
+that at that time really sucked. Um, and made, made that aspect of it harder. And those aren't bad
+
+[00:16:03] SPEAKER_00
+people who did that. It's just, it's so, it's so easy to get lost in something like that, like a bit
+
+[00:16:09] SPEAKER_00
+of that type. Um, yeah. So I, I don't, I didn't hold anything against them. I understood why,
+
+[00:16:15] SPEAKER_00
+but it's just, it sucked. Uh, and I didn't really want to very quickly after it came out, I didn't
+
+[00:16:21] SPEAKER_00
+really want to pursue it in any way. And that's why there has never really been any advancement
+
+[00:16:26] SPEAKER_00
+from it outside of the episode. We talk about it. And if you listen to that episode, I am
+
+[00:16:29] SPEAKER_00
+very reluctant and don't really want to talk about it, but it was something we had to do
+
+[00:16:34] SPEAKER_00
+because of what I had set up. Um, but that is, uh, the story of Raymond Sumer. I don't think I'm
+
+[00:16:40] SPEAKER_00
+missing anything. I guess if you have any specific questions about it, feel free to ask. I hope that
+
+[00:16:45] SPEAKER_00
+was interesting. Uh, and with that being said, we should actually move into the Q and a part of this
+
+[00:16:51] SPEAKER_00
+show, which is the purpose of it. Also, if you want to ask a question, I should just say,
+
+[00:16:56] SPEAKER_00
+you can call me at, uh, 512-487-7977. That is 512-487-7977. That is the number for Austin,
+
+[00:17:06] SPEAKER_00
+Texas. Uh, I also tweet when I'm taking calls. Uh, so if you want to try to have a conversation
+
+[00:17:12] SPEAKER_00
+with me, that would be the time to do that. Otherwise, if you just want to leave a question,
+
+[00:17:17] SPEAKER_00
+feel free to phone that number anytime you like. And with that, let's get to our questions. Um,
+
+[00:17:22] SPEAKER_00
+first questions, first questions. I'm great at speaking. Uh, what kind of music are you into?
+
+[00:17:30] SPEAKER_00
+This is sort of a difficult question for me to answer. I feel like it's super generic for people
+
+[00:17:35] SPEAKER_00
+to be like, I like all music. And it's like, they don't actually, that's a sort of insane
+
+[00:17:39] SPEAKER_00
+statement to make because of how wide ranging music is. But music is a thing that I avoided largely,
+
+[00:17:46] SPEAKER_00
+which also sounds weird. It's a void in a sense of my knowledge. As far as entertainment goes,
+
+[00:17:51] SPEAKER_00
+I played so many video games and have seen so many movies. I really invested all of my
+
+[00:17:55] SPEAKER_00
+entertainment time in that way. And only recently have I gotten more into music. Um, I really like
+
+[00:18:01] SPEAKER_00
+rock and pop and rap and Andy rock and jazz and some country, but I'm very selective with my country.
+
+[00:18:09] SPEAKER_00
+I'd say generally speaking, uh, maybe I'll just like make a playlist on Spotify or something of
+
+[00:18:14] SPEAKER_00
+some songs I like. And if you want to listen to it, you're welcome to do so. Okay. Next question.
+
+[00:18:20] SPEAKER_00
+I should have, should have written these down better. Annabelle asks, is this number real?
+
+[00:18:25] SPEAKER_00
+This number is real. And it's one of my favorite things when people call it, not knowing that it's
+
+[00:18:30] SPEAKER_00
+real. I had a call recently and I don't know, maybe we'll release this in some way, but this
+
+[00:18:34] SPEAKER_00
+person called the number clearly just based on the fact that they got a shirt, a child kicker shirt
+
+[00:18:40] SPEAKER_00
+and the joy that they had to learn that it actually was a real number. And it went somewhere
+
+[00:18:45] SPEAKER_00
+was incredible. Like they at first were just shocked that they're on there. They're leaving
+
+[00:18:50] SPEAKER_00
+a message for this number. And they were like, this is the greatest. And then somehow decided
+
+[00:18:54] SPEAKER_00
+that this number might not be associated with the podcast that we just throw some random number
+
+[00:18:58] SPEAKER_00
+on a shirt, which is, I guess, a fair assumption for our show. Uh, but he then tried to explain
+
+[00:19:04] SPEAKER_00
+what the podcast was and convince them that they should listen to it, which is incredible. Uh, so this
+
+[00:19:10] SPEAKER_00
+is in fact a real number, but it is such a treat to hear people make that realization.
+
+[00:19:15] SPEAKER_00
+Um, what's your favorite holiday treats? Oh, holiday treats. I feel like is eggnog a treat
+
+[00:19:22] SPEAKER_00
+and not that I've ever had it, but I feel like when I hear holiday, for some reason,
+
+[00:19:26] SPEAKER_00
+my brain kind of associates month of December. Uh, but, but really when I think of specific
+
+[00:19:32] SPEAKER_00
+technically holiday treats, I think more Thanksgiving. So I'd say like pumpkin pie is a great holiday
+
+[00:19:38] SPEAKER_00
+treat. Uh, even though you could have that year round, but to me, it's like very much
+
+[00:19:42] SPEAKER_00
+a Thanksgiving staple and cranberry sauce, I think is highly underrated. I wish cranberry
+
+[00:19:48] SPEAKER_00
+sauce is just year round. It's one of my favorite things. I love best part of Thanksgiving by far.
+
+[00:19:55] SPEAKER_00
+Uh, Olivia wants to know if I have any stories about orcas. I don't have any stories about orcas.
+
+[00:20:01] SPEAKER_00
+Unfortunately, I wish I did. It sounded like you really have a passion or enthusiasm for orcas.
+
+[00:20:07] SPEAKER_00
+So I'd love to know if you have a story. I did, however, do some research and I looked up some
+
+[00:20:12] SPEAKER_00
+orca facts, which I found interesting. And one of them, this blew my fucking mind. Apparently
+
+[00:20:17] SPEAKER_00
+orcas aren't whales. They're dolphins. Nobody told me this. They're apparently the largest type
+
+[00:20:22] SPEAKER_00
+or species breed. One of those words is correct of dolphins. Uh, that was crazy. That's crazy to
+
+[00:20:29] SPEAKER_00
+learn. They also are like the most widespread mammal outside of only humans, as far as like
+
+[00:20:35] SPEAKER_00
+the amount of area they cover. There's so many different climates, or at least they're,
+
+[00:20:39] SPEAKER_00
+they're more climates than any other animal outside of humans. Um, so those are some,
+
+[00:20:46] SPEAKER_00
+some orca facts. I hope, I hope those were interesting to you. And I, as I said, I'd love
+
+[00:20:51] SPEAKER_00
+to hear if you have a story or any, what your favorite orca fact is. Person from Virginia
+
+[00:20:56] SPEAKER_00
+asked, do I have any halo to lasso tips? I do. I have two tips. One, and this is probably
+
+[00:21:00] SPEAKER_00
+not useful to you because I'm assuming you started it, but if you haven't make sure you
+
+[00:21:05] SPEAKER_00
+start it solo because if you go in with co-op, it skips over the tutorial level. Uh, and that
+
+[00:21:11] SPEAKER_00
+fucking sucks because then you're screwed. You have to do it all over again. Like literally
+
+[00:21:14] SPEAKER_00
+from the beginning to the end, you will get fucked over. If you do that, if you go in
+
+[00:21:19] SPEAKER_00
+with a co-op partner, at least when I did it, maybe they fixed that, but that was certainly
+
+[00:21:23] SPEAKER_00
+the case when I played it. My second halo to lasso tip is there are some phenomenal guides
+
+[00:21:28] SPEAKER_00
+on YouTube for lasso runs, but there are also some really well done legendary halo to speed
+
+[00:21:35] SPEAKER_00
+running guides. And I found that there were times where I found the lasso guide more useful
+
+[00:21:41] SPEAKER_00
+and then I would find the speed running technique for an area to be more useful and bypassing
+
+[00:21:46] SPEAKER_00
+things. So I would look at both things. If you're going to do any research for this, analyze
+
+[00:21:51] SPEAKER_00
+both speed running and lasso specific guides and try to find techniques that fit the best
+
+[00:21:56] SPEAKER_00
+for you. Cause for me, it was like, it was a constant kind of flipping of going back and
+
+[00:22:01] SPEAKER_00
+forth. Um, a Boston Bruin fan wants to know if I'm a Vancouver Canucks fan. I am. Unfortunately,
+
+[00:22:08] SPEAKER_00
+they're not easy to be a fan of things have been better recently since the firing of, uh,
+
+[00:22:15] SPEAKER_00
+Jim Benning and Travis green. I don't think people probably really care about listening to
+
+[00:22:19] SPEAKER_00
+me talk about the Vancouver Canucks, but there are aspects of their team that I think are
+
+[00:22:23] SPEAKER_00
+so fucking crazy. The history of like the last 10 years, events with like the Luongo trade and
+
+[00:22:31] SPEAKER_00
+just how the owners have operated in some ways is fucking wild. Uh, so maybe I'll talk about that
+
+[00:22:37] SPEAKER_00
+at some point if somebody cares, but I'm going to move on from that question, going to Morgan in
+
+[00:22:44] SPEAKER_00
+Athens, Ohio wants to thank us for making the show and for the friendship atmosphere we have during it.
+
+[00:22:49] SPEAKER_00
+Thank you, Morgan in Athens, Ohio, um, for listening and supporting and allowing us to have that space
+
+[00:22:56] SPEAKER_00
+and doing so that space has meant so much to me. And it's almost like therapeutic now where
+
+[00:23:02] SPEAKER_00
+for a comedy show, you'd think like you'd want to go in with like a really good mindset or like
+
+[00:23:09] SPEAKER_00
+positive in some way. And there, there are times where I'll just speak for myself. I've recorded
+
+[00:23:14] SPEAKER_00
+face being pretty down, you know, struggling with kind of some things in my personal life.
+
+[00:23:19] SPEAKER_00
+And it has been so helpful to just have that space. Like when I'm, I'm going through a difficult
+
+[00:23:24] SPEAKER_00
+thing, knowing that I'm going to get an hour to play with some of my closest friends and just
+
+[00:23:29] SPEAKER_00
+have fun and laugh has been invaluable, uh, over these last almost, I guess, two years at this point.
+
+[00:23:36] SPEAKER_00
+Um, so thank you for supporting us and allowing us to continue to make this really stupid show.
+
+[00:23:45] SPEAKER_00
+Um, I guess what, how long have I been recording for? We want to try to make these, Oh, 25,
+
+[00:23:51] SPEAKER_00
+25 minutes. I should try to wrap this up. Um, what's one more, it's one more question that I have
+
+[00:23:57] SPEAKER_00
+so many. What's my favorite type of corn? Uh, that's a tough one. I don't like cream corn corn on the
+
+[00:24:06] SPEAKER_00
+cob feels like such a generic answer. I feel like popcorn is the elite corn. It's probably the best
+
+[00:24:11] SPEAKER_00
+corn. I don't care for the band corn. Uh, I think popcorn, but I think there's an argument you can
+
+[00:24:18] SPEAKER_00
+make for possibly corn pops or corn flex, less so flex corn pops though. Pretty good. I feel bad.
+
+[00:24:25] SPEAKER_00
+I have so many more questions. I guess I'll, I'll tackle these maybe next show. I'll just make it
+
+[00:24:29] SPEAKER_00
+super specific on Q and a stuff so I could get through all of them. Uh, if I, you left the
+
+[00:24:35] SPEAKER_00
+question, I didn't answer it. I will do my best to do so next episode. Once again, thank you so much
+
+[00:24:39] SPEAKER_00
+for listening. Uh, it really means a lot to us that you all continue to support our show and allow us
+
+[00:24:45] SPEAKER_00
+to make it and do the dumb shit that we do. Uh, so thank you so much. I hope you have a wonderful day.

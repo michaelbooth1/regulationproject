@@ -1,0 +1,5610 @@
+# Episode 414: Gavin's Strike Situation // Death Timer [116]
+published: 2026-07-29T07:00:00+00:00  |  duration: 01:11:06
+source: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/REGULATIONCOMPANYLLC3347331890.mp3
+transcribed: 2026-08-08T20:03:23.448932-04:00  |  model: large-v3-turbo
+diarization: pyannote/speaker-diarization-3.1
+
+
+[00:00:00] SPEAKER_10
+Grégousse believes in the art of living, in choosing the pleasurable over the practical.
+
+[00:00:06] SPEAKER_10
+It's why we craft our premium vodka in France using pure spring water from Genzac.
+
+[00:00:11] SPEAKER_10
+And why you hear the celebratory pop of our cork reminding us to make every martini cocktail count.
+
+[00:00:18] SPEAKER_10
+So go on and make every moment count, because there's no better time than now.
+
+[00:00:25] SPEAKER_10
+Grégousse. Make. Time. Wait. Sip responsibly.
+
+[00:00:30] SPEAKER_00
+Question is that our neighborhood passed summer ads on Oak Street.
+
+[00:00:45] SPEAKER_02
+Producer J.J. Abrams, Anne Hathaway, Ewan McGregor.
+
+[00:00:51] SPEAKER_02
+We're going to survive.
+
+[00:00:53] SPEAKER_02
+The End of Oak Street, directed by David Robert Mitchell, August 14.
+
+[00:01:00] SPEAKER_05
+Hello and welcome to another episode of everyone's favorite veteran-owned podcast.
+
+[00:01:07] SPEAKER_05
+It's Regulation 116.
+
+[00:01:10] SPEAKER_05
+My name is Geoff Ramsey.
+
+[00:01:11] SPEAKER_05
+With me, as always, Andrew Panton, Gavin Free, Nick Schwartz, Eric Baudour.
+
+[00:01:16] SPEAKER_05
+Hello.
+
+[00:01:17] SPEAKER_09
+Hello.
+
+[00:01:17] SPEAKER_09
+In the Discord flesh.
+
+[00:01:20] SPEAKER_09
+What color would your Discord flesh be?
+
+[00:01:22] SPEAKER_09
+I'm thinking blue.
+
+[00:01:23] SPEAKER_06
+Discord flesh.
+
+[00:01:24] SPEAKER_09
+And it might be because the symbol is kind of blue.
+
+[00:01:27] SPEAKER_09
+What symbol is blue?
+
+[00:01:29] SPEAKER_09
+The logo.
+
+[00:01:29] SPEAKER_09
+The company logo or whatever.
+
+[00:01:30] SPEAKER_09
+When I look at the app in the bottom of my screen.
+
+[00:01:33] SPEAKER_09
+Are you talking about Discord?
+
+[00:01:34] SPEAKER_09
+Yes.
+
+[00:01:34] SPEAKER_09
+Do you think that's blue?
+
+[00:01:36] SPEAKER_99
+Isn't it purple?
+
+[00:01:37] SPEAKER_09
+It's pretty...
+
+[00:01:38] SPEAKER_09
+I mean, it's tiny on my screen.
+
+[00:01:39] SPEAKER_09
+I'd say it's bluish.
+
+[00:01:40] SPEAKER_09
+It's bluish.
+
+[00:01:41] SPEAKER_04
+Yeah, it's purple.
+
+[00:01:42] SPEAKER_04
+It's straight purple, right?
+
+[00:01:44] SPEAKER_05
+It's not straight purple.
+
+[00:01:45] SPEAKER_05
+It's a bluish purple.
+
+[00:01:46] SPEAKER_05
+It's not straight purple.
+
+[00:01:47] SPEAKER_05
+There's a lot of blue in that purple.
+
+[00:01:48] SPEAKER_05
+It's further on the purple spectrum than blue, for sure.
+
+[00:01:52] SPEAKER_05
+It's less purple than the Capri's logo.
+
+[00:01:55] SPEAKER_09
+It is.
+
+[00:01:56] SPEAKER_09
+I have three apps at the bottom of my screen currently open.
+
+[00:01:59] SPEAKER_09
+One is blue-ass blue.
+
+[00:02:01] SPEAKER_09
+One is purple-ass purple.
+
+[00:02:03] SPEAKER_09
+And Discord is definitely in the middle of those two.
+
+[00:02:05] SPEAKER_04
+Oh, very interesting.
+
+[00:02:06] SPEAKER_09
+Yeah, I just...
+
+[00:02:07] SPEAKER_04
+I don't think I've ever thought that it was blue.
+
+[00:02:09] SPEAKER_04
+Ever.
+
+[00:02:10] SPEAKER_04
+Interesting.
+
+[00:02:11] SPEAKER_05
+Bluish.
+
+[00:02:12] SPEAKER_05
+Audience?
+
+[00:02:12] SPEAKER_05
+We'll see.
+
+[00:02:14] SPEAKER_05
+Hey, before we get too far in today's episode,
+
+[00:02:16] SPEAKER_05
+I gotta ask Andrew a question I meant to ask.
+
+[00:02:18] SPEAKER_05
+Fuck you last week.
+
+[00:02:19] SPEAKER_05
+And it got away from me.
+
+[00:02:20] SPEAKER_05
+Shit.
+
+[00:02:21] SPEAKER_05
+No, it's okay.
+
+[00:02:22] SPEAKER_05
+It's okay.
+
+[00:02:22] SPEAKER_05
+There's nothing against you.
+
+[00:02:23] SPEAKER_05
+Oh, boy.
+
+[00:02:24] SPEAKER_05
+I'm on your side.
+
+[00:02:25] SPEAKER_05
+You're fine.
+
+[00:02:25] SPEAKER_09
+Freaking out.
+
+[00:02:26] SPEAKER_05
+Well, no.
+
+[00:02:27] SPEAKER_05
+Now I'm even more nervous.
+
+[00:02:28] SPEAKER_05
+I just have to know.
+
+[00:02:29] SPEAKER_05
+It's been a while since we've gotten an update.
+
+[00:02:31] SPEAKER_05
+And you've been very quiet on the matter.
+
+[00:02:33] SPEAKER_05
+But I'm just curious.
+
+[00:02:35] SPEAKER_05
+What's Gavin's strike situation like?
+
+[00:02:38] SPEAKER_05
+How are his uploads?
+
+[00:02:40] SPEAKER_05
+Ooh.
+
+[00:02:40] SPEAKER_05
+This feels very calculated.
+
+[00:02:42] SPEAKER_05
+It's definitely not.
+
+[00:02:44] SPEAKER_05
+It just popped into my head like three weeks ago.
+
+[00:02:46] SPEAKER_09
+You're telling me this isn't because we had a Gavin
+
+[00:02:48] SPEAKER_09
+strike situation last week.
+
+[00:02:50] SPEAKER_09
+But I've stopped keeping strikes for Gavin.
+
+[00:02:52] SPEAKER_09
+It happens.
+
+[00:02:53] SPEAKER_09
+He has made a genuine effort to upload things.
+
+[00:02:58] SPEAKER_09
+And that's all that matters.
+
+[00:02:59] SPEAKER_07
+The intent is definitely there to be more on top of it.
+
+[00:03:02] SPEAKER_07
+But intent doesn't fix stupidity.
+
+[00:03:05] SPEAKER_07
+Yeah.
+
+[00:03:05] SPEAKER_07
+Mistakes happen.
+
+[00:03:07] SPEAKER_07
+That's fine.
+
+[00:03:07] SPEAKER_07
+Which is why in a Cayo Perico 2 or something.
+
+[00:03:10] SPEAKER_07
+Was it Cayo Perico 3 folder?
+
+[00:03:12] SPEAKER_07
+I put my Cayo Perico 2 footage in.
+
+[00:03:15] SPEAKER_09
+You did.
+
+[00:03:15] SPEAKER_07
+Oh, no.
+
+[00:03:17] SPEAKER_09
+And that's fine.
+
+[00:03:17] SPEAKER_09
+Hey.
+
+[00:03:18] SPEAKER_09
+Mistakes happen.
+
+[00:03:18] SPEAKER_09
+I'm not really keeping a strike count on Gavin anymore.
+
+[00:03:21] SPEAKER_05
+It sounds like he hasn't gotten any better.
+
+[00:03:24] SPEAKER_05
+You just gave up.
+
+[00:03:25] SPEAKER_09
+No.
+
+[00:03:26] SPEAKER_09
+He gave a lot better.
+
+[00:03:27] SPEAKER_09
+No.
+
+[00:03:32] SPEAKER_09
+To upload something.
+
+[00:03:34] SPEAKER_09
+And now it's pretty rare.
+
+[00:03:37] SPEAKER_09
+He made a considerable improvement that I greatly appreciate.
+
+[00:03:41] SPEAKER_09
+So, yeah.
+
+[00:03:41] SPEAKER_09
+I don't really keep strikes on him.
+
+[00:03:42] SPEAKER_09
+It happens.
+
+[00:03:43] SPEAKER_09
+Sometimes he forgets.
+
+[00:03:44] SPEAKER_09
+Sometimes, you know, anyone can forget.
+
+[00:03:45] SPEAKER_09
+It's fine.
+
+[00:03:46] SPEAKER_09
+But it's infrequent enough that it no longer bears.
+
+[00:03:48] SPEAKER_09
+Infrequent enough that it is.
+
+[00:03:50] SPEAKER_09
+I like.
+
+[00:03:50] SPEAKER_09
+Clearly, he either adjusted his system or he made more of an effort.
+
+[00:03:54] SPEAKER_04
+And it was greatly appreciated.
+
+[00:03:56] SPEAKER_04
+What would it take for you, Andrew, to start counting his strikes again?
+
+[00:04:00] SPEAKER_04
+Like, would it be like you'd have to remind him three or four times and then you'd be like,
+
+[00:04:03] SPEAKER_04
+we're back to the strike situation?
+
+[00:04:06] SPEAKER_09
+I think, yeah.
+
+[00:04:06] SPEAKER_09
+If it was like five pieces of content that was in a row, that would not be great.
+
+[00:04:14] SPEAKER_09
+Especially across multiple days.
+
+[00:04:16] SPEAKER_09
+Because sometimes maybe you forget.
+
+[00:04:18] SPEAKER_09
+Maybe something happened on the day.
+
+[00:04:19] SPEAKER_07
+We had a funny problem with that Rocky City one where I'd accidentally left my footage in England without uploading it.
+
+[00:04:30] SPEAKER_07
+So, we had to wait like three months to put that out before I went back.
+
+[00:04:37] SPEAKER_07
+And then, when I got back to England, I remembered why I hadn't uploaded it.
+
+[00:04:42] SPEAKER_07
+All my footage was broken.
+
+[00:04:45] SPEAKER_05
+Great.
+
+[00:04:46] SPEAKER_09
+We did have a note for a GTA that just got edited that Gavin had all of our audio in his audio for some reason.
+
+[00:04:59] SPEAKER_09
+So, Gavin's audio had to be correct.
+
+[00:05:00] SPEAKER_07
+That was the one we talked about.
+
+[00:05:02] SPEAKER_07
+Where I was making fun of Andrew and then I did the same thing.
+
+[00:05:05] SPEAKER_09
+Yeah, but that was also the same folder that you uploaded the wrong video in.
+
+[00:05:10] SPEAKER_07
+Yeah, so instead of uploading the correct file with perfect audio,
+
+[00:05:15] SPEAKER_07
+I uploaded the wrong file with the wrong audio.
+
+[00:05:18] SPEAKER_09
+Yeah.
+
+[00:05:20] SPEAKER_09
+Well, you submitted the wrong video file and broken audio into one folder.
+
+[00:05:26] SPEAKER_09
+But now we're in the correct video, still broken audio.
+
+[00:05:29] SPEAKER_09
+But that's fine.
+
+[00:05:30] SPEAKER_07
+We got correct.
+
+[00:05:30] SPEAKER_07
+Yeah.
+
+[00:05:31] SPEAKER_07
+I was still partially building my setup, but it's soared.
+
+[00:05:35] SPEAKER_09
+It was.
+
+[00:05:36] SPEAKER_09
+But once again, very funny that you chose to take a dig at me from my recording setup in that recording.
+
+[00:05:42] SPEAKER_07
+Look, when there's a dick to be taken, I've got the shovel.
+
+[00:05:45] SPEAKER_09
+I appreciate it.
+
+[00:05:50] SPEAKER_09
+I've noticed.
+
+[00:05:54] SPEAKER_09
+I don't think there's anyone who lets anything pass less than Gavin.
+
+[00:05:59] SPEAKER_09
+If there is a flub, if there is a mistake by someone, Gavin loves pointing that finger at it.
+
+[00:06:08] SPEAKER_09
+That's true.
+
+[00:06:09] SPEAKER_09
+What I respect about it is equal opportunity.
+
+[00:06:10] SPEAKER_09
+You do it to everybody.
+
+[00:06:11] SPEAKER_09
+It's not, you just love it.
+
+[00:06:14] SPEAKER_08
+And to himself, to be fair.
+
+[00:06:15] SPEAKER_08
+Yeah.
+
+[00:06:15] SPEAKER_09
+Oh, yeah.
+
+[00:06:16] SPEAKER_07
+Absolutely.
+
+[00:06:17] SPEAKER_05
+Subtle thing with Gavin.
+
+[00:06:18] SPEAKER_05
+But if you spend a lot of time with him in person, you'll notice oftentimes, even when his hands are at the side, he's got a finger pre-pointed.
+
+[00:06:25] SPEAKER_05
+It's just he's always ready to go.
+
+[00:06:30] SPEAKER_09
+Oh, Christ.
+
+[00:06:31] SPEAKER_05
+That's funny.
+
+[00:06:31] SPEAKER_09
+Wow.
+
+[00:06:32] SPEAKER_09
+OK.
+
+[00:06:33] SPEAKER_09
+Strike zone for Gavin was not expecting that.
+
+[00:06:35] SPEAKER_05
+Well, thank you, Andrew, for the update.
+
+[00:06:36] SPEAKER_05
+I was just curious how things had gone.
+
+[00:06:38] SPEAKER_05
+While we're doing updates, Gavin, where are we with the hamburger thing?
+
+[00:06:45] SPEAKER_07
+Oh, yeah.
+
+[00:06:46] SPEAKER_07
+I haven't started yet.
+
+[00:06:48] SPEAKER_07
+Oh, zero.
+
+[00:06:51] SPEAKER_07
+I'll tell you for why.
+
+[00:06:52] SPEAKER_07
+I was I was I was in San Francisco at the weekend and I was out with people and there was a pretty good looking burger on the menu, but it was the wrong time.
+
+[00:07:04] SPEAKER_07
+What do you what is what time?
+
+[00:07:06] SPEAKER_05
+Oh, no.
+
+[00:07:07] SPEAKER_05
+3 p.m.
+
+[00:07:07] SPEAKER_05
+Right.
+
+[00:07:07] SPEAKER_05
+Isn't that the time you have to eat it?
+
+[00:07:09] SPEAKER_05
+No, I got it.
+
+[00:07:09] SPEAKER_05
+I got it.
+
+[00:07:09] SPEAKER_05
+1 p.m.
+
+[00:07:10] SPEAKER_04
+1 p.m.
+
+[00:07:11] SPEAKER_04
+OK, that's right.
+
+[00:07:12] SPEAKER_04
+That's right.
+
+[00:07:13] SPEAKER_04
+What what time what time was it?
+
+[00:07:15] SPEAKER_04
+It was like five ish.
+
+[00:07:16] SPEAKER_04
+Oh, yeah, that's tough.
+
+[00:07:17] SPEAKER_04
+That's not really.
+
+[00:07:18] SPEAKER_04
+Yeah.
+
+[00:07:18] SPEAKER_09
+So you're avoiding burgers until you start at one.
+
+[00:07:23] SPEAKER_07
+Well, I mean, considering I have like nine burgers a year, I'm not going to blow one at the wrong time.
+
+[00:07:28] SPEAKER_07
+You crazy?
+
+[00:07:30] SPEAKER_09
+I guess.
+
+[00:07:31] SPEAKER_09
+Yeah.
+
+[00:07:31] SPEAKER_09
+I never considered that this would be blocking you from eating burgers in a possible burger scenario.
+
+[00:07:37] SPEAKER_07
+Yeah, this is.
+
+[00:07:38] SPEAKER_07
+Oh, this is just made it so much worse, I think.
+
+[00:07:40] SPEAKER_09
+But it's funny because like, yeah, this was this is supposed to be burger positive.
+
+[00:07:45] SPEAKER_09
+And if anything so far, it's been burger negative for you.
+
+[00:07:49] SPEAKER_07
+Uh, yeah, I think I was just putting off because I was traveling.
+
+[00:07:52] SPEAKER_07
+But maybe this week I'll get stuck in one o'clock.
+
+[00:07:55] SPEAKER_07
+Maybe.
+
+[00:07:56] SPEAKER_07
+Do you think anyone's ever made just one slice of pizza?
+
+[00:08:00] SPEAKER_07
+No.
+
+[00:08:01] SPEAKER_09
+Well, OK.
+
+[00:08:03] SPEAKER_09
+OK.
+
+[00:08:04] SPEAKER_09
+He was so fast.
+
+[00:08:05] SPEAKER_09
+Here's the thing.
+
+[00:08:05] SPEAKER_09
+If you make a pizza, if you make a whole pizza.
+
+[00:08:09] SPEAKER_06
+Yeah.
+
+[00:08:10] SPEAKER_09
+And then you just eat it that way.
+
+[00:08:12] SPEAKER_09
+Are there any slices?
+
+[00:08:14] SPEAKER_09
+Is that one slice?
+
+[00:08:15] SPEAKER_09
+Is that what you think a slice is?
+
+[00:08:17] SPEAKER_08
+Wait, are you eating it from crust to crust?
+
+[00:08:19] SPEAKER_09
+That's what I'm saying.
+
+[00:08:20] SPEAKER_09
+Like, if you made your if you were like, hey, I'm going to eat this whole pizza.
+
+[00:08:25] SPEAKER_09
+I made a pizza and I'm going to eat it.
+
+[00:08:27] SPEAKER_09
+You don't necessarily need to make slices.
+
+[00:08:29] SPEAKER_09
+Slices.
+
+[00:08:31] SPEAKER_07
+You're just going to hold and fold?
+
+[00:08:33] SPEAKER_09
+You could hold and fold.
+
+[00:08:34] SPEAKER_09
+You could fork and knife it if you wanted to.
+
+[00:08:37] SPEAKER_09
+You could just eat from corner to corner.
+
+[00:08:39] SPEAKER_09
+What corner is there on a circle?
+
+[00:08:41] SPEAKER_09
+Oh, edge to edge.
+
+[00:08:43] SPEAKER_09
+Loop to loop.
+
+[00:08:45] SPEAKER_09
+Crust to crust.
+
+[00:08:46] SPEAKER_09
+Because a slice can be anything.
+
+[00:08:48] SPEAKER_09
+There's no official size of a slice, I don't think.
+
+[00:08:52] SPEAKER_09
+You can make a slice huge.
+
+[00:08:54] SPEAKER_09
+A slice can be anything.
+
+[00:08:56] SPEAKER_09
+Well, because there's a small, a medium, and a large pizza.
+
+[00:08:59] SPEAKER_09
+Typically, some places do an extra large.
+
+[00:09:01] SPEAKER_09
+And the slices, depending on the size of the pie, are different sizes.
+
+[00:09:05] SPEAKER_07
+Because the pizza's bigger.
+
+[00:09:07] SPEAKER_07
+Yeah, I wonder if anyone's ever tossed a slice.
+
+[00:09:12] SPEAKER_07
+Tossed a slice?
+
+[00:09:13] SPEAKER_07
+Well, you've got to toss the dough, haven't you?
+
+[00:09:15] SPEAKER_09
+Oh, I see.
+
+[00:09:16] SPEAKER_09
+I see what you mean.
+
+[00:09:17] SPEAKER_09
+I don't think you can't.
+
+[00:09:18] SPEAKER_09
+Well, you'd have to make the pizza dough, then cut out a slice worth of dough, and then
+
+[00:09:25] SPEAKER_09
+toss that.
+
+[00:09:26] SPEAKER_07
+But the toss would cause a bulge.
+
+[00:09:29] SPEAKER_09
+But then at that point, when you toss it out, it would circularize, right?
+
+[00:09:33] SPEAKER_09
+When you do the process, and then you've just made a pizza slice.
+
+[00:09:37] SPEAKER_09
+I don't think you can pre-slice a pizza dough.
+
+[00:09:40] SPEAKER_09
+Yeah, I think it's difficult.
+
+[00:09:41] SPEAKER_09
+I think you just end up making smaller pizzas.
+
+[00:09:45] SPEAKER_04
+Can you cook a single slice of pizza?
+
+[00:09:47] SPEAKER_04
+I just don't even know what you searched to figure out what this would happen.
+
+[00:09:54] SPEAKER_09
+Well, let's start where this all began.
+
+[00:09:57] SPEAKER_09
+If you don't slice into a pizza at all, and you just eat it the way it is, are there
+
+[00:10:01] SPEAKER_09
+any slices?
+
+[00:10:02] SPEAKER_09
+Is that one slice?
+
+[00:10:04] SPEAKER_08
+No, that's just a pizza.
+
+[00:10:06] SPEAKER_09
+It's a pizza.
+
+[00:10:07] SPEAKER_09
+It's a pizza.
+
+[00:10:08] SPEAKER_09
+That was, if nothing else comes of this conversation, it was worth it for that one.
+
+[00:10:19] SPEAKER_06
+It's a pizza.
+
+[00:10:20] SPEAKER_09
+It's a pizza.
+
+[00:10:21] SPEAKER_04
+It's a pizza.
+
+[00:10:21] SPEAKER_04
+I just, I, I'm looking, and I just can't find, oh, you know what?
+
+[00:10:27] SPEAKER_04
+Would you count, what about this one?
+
+[00:10:30] SPEAKER_04
+I'm just dropping an image in the, uh, in the Discord.
+
+[00:10:33] SPEAKER_04
+That's about as close as I could get to finding something that's a slice.
+
+[00:10:38] SPEAKER_04
+See?
+
+[00:10:38] SPEAKER_08
+That's just a pizza.
+
+[00:10:40] SPEAKER_04
+Right, it's just a pizza, but I think the shape is what really gets me.
+
+[00:10:43] SPEAKER_04
+I think the whole thing on this is that it has to be a, but also slice implies that
+
+[00:10:47] SPEAKER_04
+you've cut.
+
+[00:10:48] SPEAKER_04
+Yeah, you have to cut into the thing.
+
+[00:10:50] SPEAKER_05
+A slice can't be bordered by crust all the way around.
+
+[00:10:54] SPEAKER_09
+Damn, I think Jeff is right.
+
+[00:10:56] SPEAKER_09
+That's such a good point, Jeff.
+
+[00:10:58] SPEAKER_09
+That's a great qualifier.
+
+[00:11:00] SPEAKER_09
+Well, have you seen those, like, on social media, those TikToks where it's like a giant
+
+[00:11:04] SPEAKER_09
+fucking feast-sized slice?
+
+[00:11:06] SPEAKER_09
+Those, like, insane boxes?
+
+[00:11:07] SPEAKER_09
+A what size?
+
+[00:11:09] SPEAKER_09
+Like a feast.
+
+[00:11:09] SPEAKER_09
+It's like a feast of a slice.
+
+[00:11:11] SPEAKER_09
+I thought you said feet size.
+
+[00:11:13] SPEAKER_09
+I didn't understand it at all.
+
+[00:11:13] SPEAKER_09
+Oh, no, I don't want to get, uh, Nick excited.
+
+[00:11:16] SPEAKER_09
+No!
+
+[00:11:19] SPEAKER_99
+No!
+
+[00:11:20] SPEAKER_07
+How big is this feast-sized slice?
+
+[00:11:23] SPEAKER_09
+It's like you have to strap it to the top of your car if you're going anywhere.
+
+[00:11:27] SPEAKER_09
+What?
+
+[00:11:28] SPEAKER_09
+Get the roof rack!
+
+[00:11:29] SPEAKER_09
+Have you guys not seen those?
+
+[00:11:31] SPEAKER_09
+No.
+
+[00:11:32] SPEAKER_09
+Let me just search biggest slice of pizza.
+
+[00:11:36] SPEAKER_09
+And then it's going to be some Guinness bullshit that I'm going to have to navigate.
+
+[00:11:39] SPEAKER_09
+And then...
+
+[00:11:40] SPEAKER_09
+Like this?
+
+[00:11:41] SPEAKER_04
+You have to put a pizza on top of a car?
+
+[00:11:44] SPEAKER_04
+Yeah.
+
+[00:11:45] SPEAKER_07
+Like those.
+
+[00:11:47] SPEAKER_07
+I mean...
+
+[00:11:47] SPEAKER_07
+What?
+
+[00:11:48] SPEAKER_07
+If a pizza's on a car, I want them to drive it directly into my mouth.
+
+[00:11:52] SPEAKER_04
+Jesus Christ.
+
+[00:11:54] SPEAKER_04
+Dude, look at how big this pizza is.
+
+[00:11:56] SPEAKER_08
+Did they make that in a hardware store?
+
+[00:11:58] SPEAKER_08
+Here, I have a photo.
+
+[00:12:02] SPEAKER_09
+I don't know if this is the same one, but it kind of gives an example of like what these
+
+[00:12:06] SPEAKER_09
+boxes are like, where it is.
+
+[00:12:08] SPEAKER_09
+It is a giant box.
+
+[00:12:10] SPEAKER_09
+It is like bigger than your average pizza box, like a large pizza box, but it is just one
+
+[00:12:16] SPEAKER_09
+huge slice.
+
+[00:12:17] SPEAKER_09
+Oh my God!
+
+[00:12:18] SPEAKER_09
+Whoa!
+
+[00:12:21] SPEAKER_07
+And that comes from a greater pizza?
+
+[00:12:24] SPEAKER_09
+No, I think they just sell the giant slices.
+
+[00:12:27] SPEAKER_09
+How do they make the slice?
+
+[00:12:29] SPEAKER_09
+That's a great question.
+
+[00:12:32] SPEAKER_09
+There must be offcuts.
+
+[00:12:35] SPEAKER_09
+Well, I never considered...
+
+[00:12:37] SPEAKER_09
+That's such a great question of what does just if you want to order a pizza from there,
+
+[00:12:41] SPEAKER_09
+what does that look like?
+
+[00:12:42] SPEAKER_09
+It certainly isn't like six of those.
+
+[00:12:45] SPEAKER_09
+There's no way.
+
+[00:12:47] SPEAKER_04
+Their large pizza has to be smaller than their slice.
+
+[00:12:49] SPEAKER_04
+Yeah, I would want them to do the biggest slice you've ever seen, but then just only
+
+[00:12:53] SPEAKER_04
+normal-sized pizzas.
+
+[00:12:55] SPEAKER_04
+So you don't know where this big slice is coming from, so the whole thing is confusing.
+
+[00:13:01] SPEAKER_04
+That's...
+
+[00:13:02] SPEAKER_09
+Man.
+
+[00:13:03] SPEAKER_09
+Do you think you could eat one of those slices, Gavin?
+
+[00:13:06] SPEAKER_07
+Serves five to seven.
+
+[00:13:07] SPEAKER_07
+No.
+
+[00:13:08] SPEAKER_09
+How long do you think it would take you to eat a slice of that size?
+
+[00:13:12] SPEAKER_07
+Five to seven days.
+
+[00:13:13] SPEAKER_09
+Five to seven.
+
+[00:13:15] SPEAKER_04
+Jeff, this place is...
+
+[00:13:17] SPEAKER_04
+This slice, this huge slice of pizza is in Monroe, Michigan.
+
+[00:13:23] SPEAKER_04
+I don't know where that is.
+
+[00:13:24] SPEAKER_04
+You can go and just get the biggest slice, a 24-inch slice of pizza.
+
+[00:13:29] SPEAKER_99
+Road trip.
+
+[00:13:30] SPEAKER_04
+Okay.
+
+[00:13:31] SPEAKER_04
+What the fuck?
+
+[00:13:33] SPEAKER_04
+We'll put it on the calendar.
+
+[00:13:34] SPEAKER_04
+That thing is crazy.
+
+[00:13:35] SPEAKER_04
+That thing is crazy.
+
+[00:13:36] SPEAKER_09
+That looks good.
+
+[00:13:37] SPEAKER_09
+Okay, well, what about like a large pizza, Gavin?
+
+[00:13:39] SPEAKER_09
+Just for context of like scale.
+
+[00:13:41] SPEAKER_09
+How long would it take you to eat one of those by yourself?
+
+[00:13:43] SPEAKER_07
+Uh, how does it compare to a Red Baron?
+
+[00:13:49] SPEAKER_09
+I haven't had many Red Barons.
+
+[00:13:51] SPEAKER_09
+Someone else will need to answer.
+
+[00:13:52] SPEAKER_07
+Oh.
+
+[00:13:53] SPEAKER_07
+What's your like emergency...
+
+[00:13:54] SPEAKER_07
+What's your emergency freezer food?
+
+[00:13:56] SPEAKER_07
+Like I've always got a Baron on standby.
+
+[00:13:59] SPEAKER_09
+I'd...
+
+[00:13:59] SPEAKER_09
+I...
+
+[00:14:00] SPEAKER_09
+Yeah, pizza is the way to go.
+
+[00:14:01] SPEAKER_09
+I just don't typically...
+
+[00:14:02] SPEAKER_09
+Red Baron wasn't in Canada for a long time.
+
+[00:14:05] SPEAKER_09
+And so it just was never my default go-to.
+
+[00:14:07] SPEAKER_07
+He couldn't get a visa.
+
+[00:14:09] SPEAKER_99
+Couldn't.
+
+[00:14:09] SPEAKER_04
+Uh, I think a large pizza would be bigger than a Red Baron.
+
+[00:14:14] SPEAKER_04
+Oh yeah.
+
+[00:14:14] SPEAKER_04
+It would be more substantial than a Red Baron.
+
+[00:14:17] SPEAKER_04
+Uh...
+
+[00:14:18] SPEAKER_04
+Thicker, yeah.
+
+[00:14:19] SPEAKER_04
+Yeah, there would just be more pizza, um, for sure, but...
+
+[00:14:23] SPEAKER_04
+Maybe we do two Red Barons?
+
+[00:14:24] SPEAKER_04
+Do you think that'd be fair?
+
+[00:14:26] SPEAKER_04
+Yeah, you could say a double Baron.
+
+[00:14:27] SPEAKER_04
+Sure, why not?
+
+[00:14:28] SPEAKER_04
+Just to kind of put it into context.
+
+[00:14:30] SPEAKER_04
+Could you double Baron in a night, Gavin, you think?
+
+[00:14:33] SPEAKER_05
+Probably not.
+
+[00:14:34] SPEAKER_05
+Two Red Barons is more than one large pizza.
+
+[00:14:37] SPEAKER_04
+You think so?
+
+[00:14:37] SPEAKER_04
+You think so?
+
+[00:14:38] SPEAKER_04
+I do.
+
+[00:14:38] SPEAKER_04
+Like, the thickness is the thing that really throws me.
+
+[00:14:41] SPEAKER_04
+It is the thickness.
+
+[00:14:42] SPEAKER_04
+Because the Red Baron is so, like, crackery thin.
+
+[00:14:46] SPEAKER_04
+You know what I mean?
+
+[00:14:46] SPEAKER_04
+It's not...
+
+[00:14:47] SPEAKER_04
+It's not like a big...
+
+[00:14:49] SPEAKER_04
+Like, a large pizza has, like, some substance to it, and it doesn't feel like a freezer pizza does.
+
+[00:14:54] SPEAKER_07
+I'm always blown away at how...
+
+[00:14:56] SPEAKER_07
+Like, a Red Baron isn't huge, huge.
+
+[00:14:58] SPEAKER_07
+But it is...
+
+[00:14:59] SPEAKER_07
+So many calories, it's so bad for you.
+
+[00:15:01] SPEAKER_07
+I don't know how they've managed to pack so much dog shit into a piece of food.
+
+[00:15:06] SPEAKER_07
+It's very, it's very, like, shit dense.
+
+[00:15:09] SPEAKER_09
+Yeah.
+
+[00:15:10] SPEAKER_09
+Yeah.
+
+[00:15:11] SPEAKER_09
+Yeah, it is.
+
+[00:15:12] SPEAKER_09
+It's, it's so disappointing when you find a shit dense thing that you've enjoyed.
+
+[00:15:18] SPEAKER_07
+What's your favorite shit dense food?
+
+[00:15:20] SPEAKER_09
+Uh, I don't know if I'd say it's my favorite.
+
+[00:15:23] SPEAKER_09
+This was one that was just disappointing.
+
+[00:15:25] SPEAKER_09
+Uh, have you ever had Hawaiian chips?
+
+[00:15:28] SPEAKER_09
+What?
+
+[00:15:29] SPEAKER_09
+I don't know.
+
+[00:15:29] SPEAKER_09
+It's an Utz brand.
+
+[00:15:31] SPEAKER_09
+Um, they used to be kind of popular here.
+
+[00:15:34] SPEAKER_09
+Uh, it's Hawaiian themed, but nothing about it is Hawaiian.
+
+[00:15:38] SPEAKER_09
+I think it's, like, made in Ohio or something like that.
+
+[00:15:41] SPEAKER_09
+Is it these Maui barbecue?
+
+[00:15:43] SPEAKER_09
+Uh, yeah, but it says Hawaiian on the brand.
+
+[00:15:46] SPEAKER_09
+Like, that is, I'm sure Utz just, like, repurposing their own product.
+
+[00:15:51] SPEAKER_09
+That thing?
+
+[00:15:51] SPEAKER_09
+Those, yeah.
+
+[00:15:52] SPEAKER_09
+Like, a sweet Maui onion.
+
+[00:15:53] SPEAKER_09
+Like, they really lean into the Hawaiian factor.
+
+[00:15:57] SPEAKER_09
+There's sweet Maui onion.
+
+[00:15:58] SPEAKER_09
+There's, uh, julapeño.
+
+[00:16:00] SPEAKER_09
+There's, uh, I think, luau barbecue, maybe.
+
+[00:16:05] SPEAKER_09
+Like, it's all very white people naming Hawaiian things, uh, coded.
+
+[00:16:11] SPEAKER_09
+But I, I looked at a bag of, I think, the original, which is just salted kettle chips.
+
+[00:16:17] SPEAKER_09
+And there's, like, maybe, I don't know, like, 10 chips in a bag.
+
+[00:16:21] SPEAKER_09
+It's a very small bag, these, like, personal size ones.
+
+[00:16:24] SPEAKER_09
+And it, it was, like, 230 calories.
+
+[00:16:26] SPEAKER_09
+And I was, like, goddammit.
+
+[00:16:28] SPEAKER_09
+That's too many.
+
+[00:16:30] SPEAKER_09
+Because you can eat, like, four of these bags without really thinking about it because
+
+[00:16:33] SPEAKER_09
+they're so small.
+
+[00:16:34] SPEAKER_04
+And it's, like, oh, this, this sucks.
+
+[00:16:36] SPEAKER_04
+That's how I feel with, like, chips in general.
+
+[00:16:39] SPEAKER_04
+Like, like, Cheetos and Doritos and stuff.
+
+[00:16:41] SPEAKER_04
+It's, like, I guess I'll just eat these until I'm full.
+
+[00:16:45] SPEAKER_04
+And then that never comes.
+
+[00:16:47] SPEAKER_04
+And so you've just eaten a large shareable bag of Doritos.
+
+[00:16:50] SPEAKER_04
+Like, you have to, I don't even stop eating Doritos because I don't want any more Doritos.
+
+[00:16:54] SPEAKER_04
+I stop eating Doritos because my mouth is, like, sandpapered through all the way.
+
+[00:17:00] SPEAKER_04
+Yes.
+
+[00:17:02] SPEAKER_04
+It's just, like, I'm in pain eating Doritos.
+
+[00:17:04] SPEAKER_04
+And then you go, ah, this isn't worth it anymore.
+
+[00:17:07] SPEAKER_04
+They're definite pain foods for sure.
+
+[00:17:08] SPEAKER_09
+Yeah.
+
+[00:17:09] SPEAKER_09
+My frozen pizza choice comes from Costco.
+
+[00:17:11] SPEAKER_09
+They have a Detroit Motor City style pepperoni pizza.
+
+[00:17:15] SPEAKER_09
+Phenomenal.
+
+[00:17:15] SPEAKER_09
+That's good shit.
+
+[00:17:16] SPEAKER_09
+But great frozen pizza.
+
+[00:17:19] SPEAKER_04
+That's my emergency backup.
+
+[00:17:21] SPEAKER_04
+I mean, honestly, like, the calorie-dense food that I probably like the most is either pizza or burgers.
+
+[00:17:28] SPEAKER_04
+Where you just go, like, man, this was not worth it for what I just took it.
+
+[00:17:32] SPEAKER_04
+Like, a slice of Costco pizza is so fucking crazy.
+
+[00:17:36] SPEAKER_04
+Oh.
+
+[00:17:37] SPEAKER_08
+It's, like, 600 calories.
+
+[00:17:39] SPEAKER_08
+It's all right.
+
+[00:17:39] SPEAKER_04
+You know what it is?
+
+[00:17:40] SPEAKER_04
+It's the Costco.
+
+[00:17:41] SPEAKER_04
+So, have you seen the Costco chicken strips?
+
+[00:17:44] SPEAKER_04
+Yes.
+
+[00:17:45] SPEAKER_04
+You guys just got them, which is crazy to me.
+
+[00:17:47] SPEAKER_04
+We just got them.
+
+[00:17:49] SPEAKER_04
+And it is, like, their, uh, the calories on it is crazy.
+
+[00:17:56] SPEAKER_04
+Because I think the sauce is, like, so, so bad for you.
+
+[00:18:01] SPEAKER_04
+Buy chicken strips with the sauce is somewhere between 1,100 calories and 1,600 calories.
+
+[00:18:09] SPEAKER_08
+Oh, the sauce is the missing 500 calories.
+
+[00:18:13] SPEAKER_09
+Absolutely.
+
+[00:18:14] SPEAKER_09
+That's crazy how that looks.
+
+[00:18:16] SPEAKER_09
+Because that chicken and fries is the go-to Costco item of my life.
+
+[00:18:21] SPEAKER_09
+Do you guys not have fries?
+
+[00:18:22] SPEAKER_09
+No.
+
+[00:18:22] SPEAKER_09
+Oh.
+
+[00:18:23] SPEAKER_09
+No, not at all.
+
+[00:18:25] SPEAKER_09
+Yeah.
+
+[00:18:26] SPEAKER_09
+I don't know what this hot turkey provolone sandwich is.
+
+[00:18:28] SPEAKER_09
+I don't have that.
+
+[00:18:29] SPEAKER_09
+I don't have the.
+
+[00:18:30] SPEAKER_04
+I've had that one time.
+
+[00:18:31] SPEAKER_04
+The chicken McBake or whatever.
+
+[00:18:33] SPEAKER_09
+What?
+
+[00:18:34] SPEAKER_09
+Whatever.
+
+[00:18:35] SPEAKER_09
+The bake.
+
+[00:18:35] SPEAKER_09
+The chicken bake.
+
+[00:18:36] SPEAKER_09
+Chicken McBake.
+
+[00:18:37] SPEAKER_09
+I just, you know.
+
+[00:18:40] SPEAKER_99
+That thing on the left.
+
+[00:18:41] SPEAKER_09
+That thing on the left.
+
+[00:18:42] SPEAKER_09
+It's not good.
+
+[00:18:44] SPEAKER_09
+It's not.
+
+[00:18:44] SPEAKER_09
+I was trying to remember.
+
+[00:18:45] SPEAKER_09
+I was trying to replay Costco guys videos in my head to figure out.
+
+[00:18:48] SPEAKER_09
+Because the photo you showed is cut off.
+
+[00:18:50] SPEAKER_09
+So, I was like, I was trying to tap in.
+
+[00:18:53] SPEAKER_09
+Replaying Costco guys videos in my head.
+
+[00:18:56] SPEAKER_09
+The chicken bake.
+
+[00:18:58] SPEAKER_04
+It keeps talking about it.
+
+[00:18:59] SPEAKER_04
+I don't feel like they'd go to Costco anymore, though.
+
+[00:19:03] SPEAKER_04
+It's been a long time.
+
+[00:19:04] SPEAKER_04
+I don't think they do anything.
+
+[00:19:05] SPEAKER_04
+I think they kind of got left in the dust by the Rizzler.
+
+[00:19:08] SPEAKER_09
+I mean, everybody would get left in the dust by the Rizzler.
+
+[00:19:10] SPEAKER_09
+That's not.
+
+[00:19:11] SPEAKER_09
+That's not an indictment on them.
+
+[00:19:13] SPEAKER_09
+The Rizzler.
+
+[00:19:14] SPEAKER_09
+It's unstoppable.
+
+[00:19:18] SPEAKER_09
+Unironically get so much joy out of the Rizzler.
+
+[00:19:20] SPEAKER_04
+He's great.
+
+[00:19:22] SPEAKER_04
+He's great.
+
+[00:19:22] SPEAKER_04
+He's great.
+
+[00:19:23] SPEAKER_04
+He's great.
+
+[00:19:23] SPEAKER_04
+He's the Rizzler.
+
+[00:19:24] SPEAKER_04
+It's fantastic.
+
+[00:19:25] SPEAKER_09
+He's the Rizzler.
+
+[00:19:25] SPEAKER_04
+We had a video that I wanted to make sure people knew about that came out at this point,
+
+[00:19:35] SPEAKER_04
+probably like a week and a half ago, when this episode comes out.
+
+[00:19:39] SPEAKER_04
+The Gerpl jacket creation, where Jeff, mad scientist, just went like,
+
+[00:19:45] SPEAKER_04
+we're dying these jackets.
+
+[00:19:46] SPEAKER_04
+Let's fucking do it.
+
+[00:19:47] SPEAKER_04
+That video is so good.
+
+[00:19:50] SPEAKER_04
+Our friend Johnny Weiss edited that.
+
+[00:19:52] SPEAKER_04
+And dude, it is that I forgot that we had done it.
+
+[00:19:57] SPEAKER_04
+I forgot about that day.
+
+[00:19:58] SPEAKER_04
+That was such a fun fucking day where Jeff just went purple time and it just started
+
+[00:20:05] SPEAKER_04
+pouring half of it in the water.
+
+[00:20:08] SPEAKER_04
+All of it.
+
+[00:20:09] SPEAKER_04
+It's like, holy shit.
+
+[00:20:11] SPEAKER_04
+It was awesome.
+
+[00:20:12] SPEAKER_04
+That was a really good day and a really, really good video.
+
+[00:20:15] SPEAKER_04
+I think it's, uh, it's on Patreon and I think it's extra medium and above, but, uh, that
+
+[00:20:21] SPEAKER_04
+has, that was a really, really good one.
+
+[00:20:22] SPEAKER_04
+That was a fun ass video to do.
+
+[00:20:24] SPEAKER_07
+Some highlights for me were, uh, Jeff gloving up to protect himself from the copious amounts
+
+[00:20:29] SPEAKER_07
+of tie and then immediately finding a hole in one of the gloves.
+
+[00:20:36] SPEAKER_09
+Jeff, you did such a good job making that Gerpl jacket.
+
+[00:20:39] SPEAKER_09
+And I knew that when watching the video, like I knew the outcome of the jacket, but watching
+
+[00:20:44] SPEAKER_09
+the process of it being made, it, it, I just couldn't wrap my head around how good it
+
+[00:20:48] SPEAKER_09
+was going to turn out because it looks so chaotic.
+
+[00:20:51] SPEAKER_09
+You did such an amazing job.
+
+[00:20:52] SPEAKER_05
+I, I, I find that irrational confidence helps.
+
+[00:20:58] SPEAKER_07
+We also got all the way to the end of the process.
+
+[00:21:01] SPEAKER_07
+And then while you were like tipping away all this stuff, you just doused your pants.
+
+[00:21:07] SPEAKER_07
+Yeah.
+
+[00:21:08] SPEAKER_04
+That was crazy.
+
+[00:21:09] SPEAKER_04
+That like all over the pants, all over that little mat.
+
+[00:21:12] SPEAKER_04
+And then all over your shoes, right at the very end, just going, we're done here.
+
+[00:21:17] SPEAKER_04
+It's like, no, not quite.
+
+[00:21:19] SPEAKER_05
+Fuck.
+
+[00:21:19] SPEAKER_05
+Luckily the pants and the shoes were both new.
+
+[00:21:25] SPEAKER_05
+I'm so sorry.
+
+[00:21:26] SPEAKER_04
+Oh, thank God.
+
+[00:21:27] SPEAKER_05
+Added to the expense of the day.
+
+[00:21:29] SPEAKER_05
+Have you worn them again since?
+
+[00:21:31] SPEAKER_05
+Yeah.
+
+[00:21:32] SPEAKER_05
+I wear them every day.
+
+[00:21:32] SPEAKER_05
+I'm still wearing this.
+
+[00:21:33] SPEAKER_05
+I'll be wearing those shoes when I go in the office today.
+
+[00:21:35] SPEAKER_05
+Oh, there you go.
+
+[00:21:36] SPEAKER_05
+What about the pants?
+
+[00:21:37] SPEAKER_05
+Yeah.
+
+[00:21:37] SPEAKER_05
+Well, not right now.
+
+[00:21:38] SPEAKER_05
+Cause it's 127.
+
+[00:21:39] SPEAKER_04
+Dude, what happened?
+
+[00:21:41] SPEAKER_04
+What the fuck?
+
+[00:21:42] SPEAKER_04
+How is it?
+
+[00:21:43] SPEAKER_04
+107 degrees.
+
+[00:21:45] SPEAKER_04
+What happened?
+
+[00:21:46] SPEAKER_04
+Jesus.
+
+[00:21:47] SPEAKER_05
+116 yesterday with the heat index.
+
+[00:21:49] SPEAKER_05
+It felt like it.
+
+[00:21:50] SPEAKER_05
+I went for a bike ride.
+
+[00:21:51] SPEAKER_04
+Oh, absolutely brutal.
+
+[00:21:53] SPEAKER_04
+Well, go check out that, uh, gerpal jacket creation video.
+
+[00:21:57] SPEAKER_04
+It was a lot of fun.
+
+[00:21:58] SPEAKER_04
+And, uh, the jackets turned out so well and they're around the office.
+
+[00:22:01] SPEAKER_04
+So that's, uh, it's really good stuff.
+
+[00:22:06] SPEAKER_09
+Transparency can be a wonderful thing.
+
+[00:22:07] SPEAKER_09
+I mean, seeing the circuitry of your phone in the nineties couldn't have been cooler,
+
+[00:22:10] SPEAKER_09
+but what's cooler than cool.
+
+[00:22:11] SPEAKER_09
+Isn't just ice cold.
+
+[00:22:12] SPEAKER_09
+It's transparency itself with mint mobile.
+
+[00:22:15] SPEAKER_09
+You don't have to worry about gimmicks or gotchas.
+
+[00:22:17] SPEAKER_09
+It's simply high-speed data and reliable coverage on the T-Mobile 5G network.
+
+[00:22:22] SPEAKER_09
+And currently all plans are $15 per month, even unlimited, which is why you should check
+
+[00:22:27] SPEAKER_09
+out today's sponsor mint mobile, make the switch at mint mobile.com slash regulation.
+
+[00:22:31] SPEAKER_09
+The thing with mint mobile is it looked at what was wrong with wireless and made it right
+
+[00:22:35] SPEAKER_09
+with premium wireless for just $15 a month.
+
+[00:22:38] SPEAKER_09
+All plans come with high-speed data and limited talk and text delivered on the nation's largest
+
+[00:22:42] SPEAKER_09
+5G network.
+
+[00:22:44] SPEAKER_09
+You won't ever have to worry about your bits again.
+
+[00:22:46] SPEAKER_09
+You can even bring your current phone and your number.
+
+[00:22:48] SPEAKER_09
+No soy phone left behind.
+
+[00:22:50] SPEAKER_09
+Choose from three, six or 12 month plans and say goodbye to a monthly bill.
+
+[00:22:55] SPEAKER_09
+No matter what you choose, there's no salad creaming this decision.
+
+[00:22:58] SPEAKER_09
+Ditch overpriced wireless with mint mobile.
+
+[00:23:00] SPEAKER_09
+It's so easy.
+
+[00:23:01] SPEAKER_09
+Sign up online and get three months of premium wireless service for $15 a month.
+
+[00:23:06] SPEAKER_09
+To get your new wireless plan for just $15 a month, go to mintmobile.com slash regulation.
+
+[00:23:11] SPEAKER_09
+That's mintmobile.com slash regulation.
+
+[00:23:13] SPEAKER_09
+Cut your bill to $15 a month at mintmobile.com slash regulation.
+
+[00:23:17] SPEAKER_09
+That's it.
+
+[00:23:18] SPEAKER_09
+There's no catch.
+
+[00:23:19] SPEAKER_09
+Upfront payment of $45 for three months, $90 for six months, or $180 for 12 months.
+
+[00:23:25] SPEAKER_09
+Plan required.
+
+[00:23:26] SPEAKER_09
+$15 per month equivalent, taxes and fees extra, initial plan term only, greater than
+
+[00:23:31] SPEAKER_09
+50 gigabytes may slow when network is busy, includes up to 20 gigabyte hotspot, capable
+
+[00:23:37] SPEAKER_09
+device required, availability, speed, and coverage varies.
+
+[00:23:40] SPEAKER_09
+See mintmobile.com.
+
+[00:23:42] SPEAKER_00
+Great news.
+
+[00:23:43] SPEAKER_00
+The federal EV rebate is back.
+
+[00:23:45] SPEAKER_00
+Eligible customers get up to $5,000 with the federal EVAP rebate on select 2027 volt and
+
+[00:23:51] SPEAKER_00
+2026 Equinox EV models.
+
+[00:23:54] SPEAKER_00
+Visit your local Chevrolet dealer today for more details.
+
+[00:23:57] SPEAKER_07
+How long could you live without sweat?
+
+[00:24:01] SPEAKER_07
+Oh, I wish forever.
+
+[00:24:05] SPEAKER_08
+It cools you down, though.
+
+[00:24:06] SPEAKER_08
+You need it.
+
+[00:24:07] SPEAKER_07
+I don't like it, though.
+
+[00:24:08] SPEAKER_07
+Because I feel like in this weather, I can just do something as simple as put out the bins
+
+[00:24:12] SPEAKER_07
+and I come in just sweating my tits off.
+
+[00:24:16] SPEAKER_07
+But it's like, I know that I don't need the sweat because I'm only going to be outside for
+
+[00:24:20] SPEAKER_07
+like 45 seconds.
+
+[00:24:21] SPEAKER_07
+But my body doesn't know that.
+
+[00:24:23] SPEAKER_07
+So my body must think maybe if I don't sweat within one minute, I'm going to die.
+
+[00:24:27] SPEAKER_07
+Like, I'd be interested to know how quickly you could die.
+
+[00:24:30] SPEAKER_07
+Interesting.
+
+[00:24:31] SPEAKER_09
+Because it's an overheating thing, right?
+
+[00:24:34] SPEAKER_06
+Yeah.
+
+[00:24:34] SPEAKER_09
+Yeah.
+
+[00:24:35] SPEAKER_09
+Huh.
+
+[00:24:37] SPEAKER_09
+Okay.
+
+[00:24:38] SPEAKER_09
+So let's say that you could talk to your body and you could convince, like, you can
+
+[00:24:41] SPEAKER_09
+convey something to your body to understand as a new fact.
+
+[00:24:45] SPEAKER_09
+Is that what you would teach your body?
+
+[00:24:47] SPEAKER_07
+Yeah.
+
+[00:24:48] SPEAKER_07
+I'd have, like, a switch where it's just, like, hold off on sweating for, like, three
+
+[00:24:53] SPEAKER_07
+minutes and I think I can take it.
+
+[00:24:56] SPEAKER_04
+Interesting.
+
+[00:24:58] SPEAKER_04
+Like, walking out to the...
+
+[00:25:00] SPEAKER_04
+Do not sweat while I walk out to the car.
+
+[00:25:02] SPEAKER_09
+Yeah.
+
+[00:25:02] SPEAKER_09
+Oh, what if it was, like, an ability?
+
+[00:25:04] SPEAKER_09
+Like, if you hold your palm in a certain way, that means, hey, I don't need to sweat.
+
+[00:25:09] SPEAKER_09
+We're all good.
+
+[00:25:11] SPEAKER_09
+Because it has to have a trigger, right?
+
+[00:25:13] SPEAKER_07
+Yeah.
+
+[00:25:13] SPEAKER_07
+It needs to be, like, a mechanical trigger.
+
+[00:25:14] SPEAKER_09
+Yeah, like, you could teach your body, like, okay, if I'm holding in this way, in this
+
+[00:25:17] SPEAKER_09
+point.
+
+[00:25:18] SPEAKER_07
+Oh, what about this?
+
+[00:25:20] SPEAKER_07
+Hold your breath, hold your sweat.
+
+[00:25:22] SPEAKER_09
+Oh.
+
+[00:25:23] SPEAKER_09
+Oh.
+
+[00:25:24] SPEAKER_09
+Wow.
+
+[00:25:26] SPEAKER_09
+You could confidently declare you've never sweat under the water.
+
+[00:25:32] SPEAKER_09
+Zero sweat has ever occurred.
+
+[00:25:34] SPEAKER_09
+I wonder if you do sweat in water.
+
+[00:25:36] SPEAKER_09
+Yeah, if I was just thinking that, like a hot, like a hot tub, maybe?
+
+[00:25:40] SPEAKER_07
+Oh, yeah.
+
+[00:25:40] SPEAKER_09
+Hot water?
+
+[00:25:41] SPEAKER_09
+Yes.
+
+[00:25:41] SPEAKER_09
+You can get the sweat going.
+
+[00:25:43] SPEAKER_09
+Oh, I never thought about that.
+
+[00:25:44] SPEAKER_09
+That's, ew, that's gross.
+
+[00:25:46] SPEAKER_04
+Ew.
+
+[00:25:46] SPEAKER_04
+So, in this case, I'm trying to get into the nitty-gritty here of holding your breath
+
+[00:25:52] SPEAKER_04
+to stop yourself from sweating.
+
+[00:25:54] SPEAKER_04
+Yeah.
+
+[00:25:55] SPEAKER_04
+When you hold your breath, and then you're, like, you hold it for, like, as long as you
+
+[00:25:59] SPEAKER_04
+can, and then you're done, and you're kind of, I wouldn't say, like, gasping for air, but
+
+[00:26:02] SPEAKER_04
+you're definitely, like, taking more air in than you would before.
+
+[00:26:07] SPEAKER_04
+Or, uh, is that's what's happening with sweat, so you're just, like, all of a sudden, you're
+
+[00:26:10] SPEAKER_04
+just, like, gushed, and sweat's coming out, or what?
+
+[00:26:16] SPEAKER_04
+Like, why would I want that?
+
+[00:26:18] SPEAKER_04
+I'm not asking, I'm not saying, is that the thing you want?
+
+[00:26:21] SPEAKER_04
+I'm saying, do you think that's the thing that happens?
+
+[00:26:23] SPEAKER_04
+Because you're trying to, you know, you're talking about holding your breath with it.
+
+[00:26:26] SPEAKER_07
+That would defeat the entire purpose.
+
+[00:26:28] SPEAKER_09
+Yeah, I don't think it would work that way.
+
+[00:26:29] SPEAKER_09
+I think it would just, you'd start sweating.
+
+[00:26:32] SPEAKER_09
+Like, your body would be like, I know what you're trying to convey to me here, but no,
+
+[00:26:35] SPEAKER_09
+we need this, we need, you're gonna die.
+
+[00:26:37] SPEAKER_07
+I just think I don't know when I'm dying enough.
+
+[00:26:41] SPEAKER_07
+Like, right now, right now, sat in my office, I assume I could sit here pretty much indefinitely
+
+[00:26:47] SPEAKER_07
+without dying, but when I went to the supermarket, I'd walk into the giant freezer room, you know,
+
+[00:26:53] SPEAKER_07
+you put on a coat and that, but if I just stood in the middle of that room, there is now a countdown
+
+[00:26:58] SPEAKER_07
+to my death, but I don't know what it is.
+
+[00:27:01] SPEAKER_08
+Oh, interesting.
+
+[00:27:02] SPEAKER_07
+Like, I am dying now.
+
+[00:27:04] SPEAKER_08
+Well, eventually.
+
+[00:27:06] SPEAKER_07
+I just, yeah, I just, I would like to, I would like to be able to see the timer, I think.
+
+[00:27:09] SPEAKER_04
+I don't want to see, I don't ever want to see the timer.
+
+[00:27:12] SPEAKER_04
+You want to see the timer?
+
+[00:27:14] SPEAKER_04
+It would alert you to get out of there.
+
+[00:27:16] SPEAKER_05
+Well, I think you, your body tells you by saying, hey, I'm uncomfortable, this isn't cool,
+
+[00:27:22] SPEAKER_05
+that's your warning.
+
+[00:27:23] SPEAKER_05
+That's your, that's your alarm bell going off saying, ding, ding, ding, you're dying, dickhead.
+
+[00:27:27] SPEAKER_05
+Yeah, sure, you're dying, dickhead.
+
+[00:27:29] SPEAKER_05
+Ding, ding, ding, you're dying, dickhead.
+
+[00:27:32] SPEAKER_07
+Well, I mean, it doesn't work for all things, like carbon monoxide, your body doesn't really
+
+[00:27:37] SPEAKER_07
+do anything.
+
+[00:27:38] SPEAKER_09
+What's the Nickelback music video where he can see people's death timer?
+
+[00:27:43] SPEAKER_09
+Which one's that one?
+
+[00:27:44] SPEAKER_09
+Yeah, Jeff, what's the Nickelback music video?
+
+[00:27:46] SPEAKER_05
+Yeah, what's the Nickelback video where-
+
+[00:27:47] SPEAKER_05
+I suspect you might be asking the wrong group.
+
+[00:27:50] SPEAKER_09
+Oh, it's the, it's, it's the guy and he's, he's standing on a street and then he, I think
+
+[00:27:58] SPEAKER_09
+a homeless guy saves him from walking in front of a bus, I believe, and then he starts seeing
+
+[00:28:05] SPEAKER_09
+timers above everybody's heads when they die.
+
+[00:28:08] SPEAKER_09
+Saving me?
+
+[00:28:10] SPEAKER_09
+Maybe.
+
+[00:28:11] SPEAKER_09
+It's not really called that, is it?
+
+[00:28:13] SPEAKER_09
+It is.
+
+[00:28:14] SPEAKER_09
+It is called saving me.
+
+[00:28:16] SPEAKER_09
+I think it's from the album of Photograph and all that.
+
+[00:28:20] SPEAKER_07
+I would love to see my timer because you could potentially learn other information.
+
+[00:28:24] SPEAKER_09
+Wow.
+
+[00:28:25] SPEAKER_09
+That timer.
+
+[00:28:26] SPEAKER_09
+I was just thinking it would be really fun to have a horror movie with that timer where
+
+[00:28:31] SPEAKER_09
+like as you ran away, like it extended or it got lower, like you realize you're running
+
+[00:28:36] SPEAKER_05
+towards the villain.
+
+[00:28:38] SPEAKER_05
+Do you like every time you eat a hot dog, it shrinks?
+
+[00:28:42] SPEAKER_04
+When you see it go down, like you're used to it going down by one, then all of a sudden
+
+[00:28:46] SPEAKER_04
+it goes by 11 and you go, uh-oh.
+
+[00:28:49] SPEAKER_05
+That would be, oh man.
+
+[00:28:50] SPEAKER_05
+You start eating kale, trying to roll it back.
+
+[00:28:53] SPEAKER_07
+Or if, uh, if you're like on your commute and everyone's like, where's the, where's the
+
+[00:28:57] SPEAKER_07
+train?
+
+[00:28:58] SPEAKER_07
+And then you could just stand on the tracks to find out when it arrives.
+
+[00:29:01] SPEAKER_07
+You'd see your timer.
+
+[00:29:03] SPEAKER_04
+Oh.
+
+[00:29:03] SPEAKER_04
+There would be YouTube channels like Dude Perfect where they're trying to get as close
+
+[00:29:07] SPEAKER_04
+to like zero on their death timer without getting there.
+
+[00:29:11] SPEAKER_04
+You know what I mean?
+
+[00:29:12] SPEAKER_04
+That would be, I'd watch it.
+
+[00:29:14] SPEAKER_09
+I'd watch a guy almost die.
+
+[00:29:17] SPEAKER_09
+I want to watch like a advanced stats version of horror movies now where there's just the
+
+[00:29:21] SPEAKER_09
+timer above every character's head at all time, letting you know how much screen time
+
+[00:29:25] SPEAKER_09
+they have left.
+
+[00:29:26] SPEAKER_04
+Oh.
+
+[00:29:27] SPEAKER_09
+I'm in.
+
+[00:29:28] SPEAKER_09
+That's great.
+
+[00:29:30] SPEAKER_09
+I think it's a good idea.
+
+[00:29:31] SPEAKER_09
+I can't believe you guys aren't familiar with saving me.
+
+[00:29:33] SPEAKER_04
+Crazy.
+
+[00:29:34] SPEAKER_04
+I, we're not Canadian.
+
+[00:29:36] SPEAKER_04
+They only have like, like they're like a rock band here and like they're, they're big,
+
+[00:29:40] SPEAKER_04
+but like, I don't think we have like the same amount of Nickelback hits here.
+
+[00:29:44] SPEAKER_05
+I mean, they are kind of a big joke in America.
+
+[00:29:48] SPEAKER_05
+No offense.
+
+[00:29:49] SPEAKER_05
+I mean, they're a big joke everywhere for a while.
+
+[00:29:51] SPEAKER_05
+I don't know.
+
+[00:29:51] SPEAKER_05
+They might be huge.
+
+[00:29:52] SPEAKER_05
+They might still be huge in Canada.
+
+[00:29:54] SPEAKER_05
+No.
+
+[00:29:54] SPEAKER_09
+It was very heavily memed as the worst band of all time.
+
+[00:29:57] SPEAKER_09
+And now it's sort of swung back around.
+
+[00:29:59] SPEAKER_09
+Not to the extent of that they're a great band of all time, but the discourse is definitely
+
+[00:30:04] SPEAKER_09
+like, they're fine.
+
+[00:30:06] SPEAKER_09
+They got a lot of hits.
+
+[00:30:07] SPEAKER_09
+I didn't think about the Canadian factor.
+
+[00:30:09] SPEAKER_09
+It was during the time in which I was watching like MTV Canada and much music.
+
+[00:30:13] SPEAKER_09
+So I saw that video a lot just on TV.
+
+[00:30:15] SPEAKER_04
+I don't think I've ever seen this video in my life.
+
+[00:30:18] SPEAKER_09
+I mean, you've seen the Spider-Man one, I assume.
+
+[00:30:21] SPEAKER_09
+Yeah.
+
+[00:30:21] SPEAKER_09
+Yeah.
+
+[00:30:21] SPEAKER_04
+That was, that was big because it was for Spider-Man and the, uh, uh, and it was like
+
+[00:30:27] SPEAKER_04
+the guy from like Saliva in it or whatever, or the other band.
+
+[00:30:30] SPEAKER_04
+I don't know about Saliva.
+
+[00:30:32] SPEAKER_04
+Was that the other band?
+
+[00:30:34] SPEAKER_04
+I don't remember.
+
+[00:30:35] SPEAKER_05
+I can see the guy's face, but I can't.
+
+[00:30:37] SPEAKER_05
+Yeah.
+
+[00:30:37] SPEAKER_05
+Yeah.
+
+[00:30:37] SPEAKER_05
+Yeah.
+
+[00:30:37] SPEAKER_05
+He's got that.
+
+[00:30:38] SPEAKER_04
+Uh, he's got the fucking, um, he's got the fucking facial hair.
+
+[00:30:43] SPEAKER_04
+Yeah.
+
+[00:30:44] SPEAKER_04
+Yeah.
+
+[00:30:45] SPEAKER_09
+Yeah.
+
+[00:30:46] SPEAKER_04
+It, Jeff gets it.
+
+[00:30:47] SPEAKER_04
+Chad Kroger?
+
+[00:30:48] SPEAKER_04
+No.
+
+[00:30:49] SPEAKER_04
+No.
+
+[00:30:49] SPEAKER_04
+It's the other guy.
+
+[00:30:50] SPEAKER_04
+It's this guy.
+
+[00:30:52] SPEAKER_04
+No, it's this guy.
+
+[00:30:53] SPEAKER_04
+That's the guy.
+
+[00:30:54] SPEAKER_04
+That's the other guy.
+
+[00:30:56] SPEAKER_04
+It's, it's Chad Kroger.
+
+[00:30:57] SPEAKER_04
+Chad Kroger and this other guy, but I don't know what band Josie Scott is from.
+
+[00:31:04] SPEAKER_04
+Saliva.
+
+[00:31:04] SPEAKER_04
+I was right.
+
+[00:31:05] SPEAKER_04
+Thank you.
+
+[00:31:07] SPEAKER_04
+That's right.
+
+[00:31:08] SPEAKER_09
+That was a lot of work to get back to you being right.
+
+[00:31:10] SPEAKER_04
+Yeah.
+
+[00:31:11] SPEAKER_09
+Saliva call out, baby.
+
+[00:31:12] SPEAKER_09
+Took a big loop.
+
+[00:31:13] SPEAKER_09
+Not a great name for a band.
+
+[00:31:15] SPEAKER_09
+Not a great name for anything.
+
+[00:31:16] SPEAKER_09
+I would argue.
+
+[00:31:17] SPEAKER_05
+Well, I think it's fine for, for the thing that it describes.
+
+[00:31:20] SPEAKER_05
+Yeah.
+
+[00:31:20] SPEAKER_05
+Yeah.
+
+[00:31:20] SPEAKER_05
+Yeah.
+
+[00:31:21] SPEAKER_05
+It's good for spit.
+
+[00:31:22] SPEAKER_09
+Yeah.
+
+[00:31:22] SPEAKER_09
+Yeah.
+
+[00:31:22] SPEAKER_09
+I think it's great for spit.
+
+[00:31:25] SPEAKER_09
+It's a word I don't like.
+
+[00:31:27] SPEAKER_99
+Really?
+
+[00:31:27] SPEAKER_09
+Yeah.
+
+[00:31:28] SPEAKER_09
+If I see it, I'm, I'm, I'm always, eh, kind of grossed out by it.
+
+[00:31:33] SPEAKER_07
+Would you prefer it if the band was called like gauze?
+
+[00:31:36] SPEAKER_09
+Yeah.
+
+[00:31:36] SPEAKER_09
+Gauze.
+
+[00:31:37] SPEAKER_09
+I like a lot.
+
+[00:31:39] SPEAKER_09
+Gauze.
+
+[00:31:39] SPEAKER_09
+I'm fine with saliva.
+
+[00:31:40] SPEAKER_09
+I don't have any positive associations with the word saliva.
+
+[00:31:43] SPEAKER_09
+What about the band?
+
+[00:31:44] SPEAKER_09
+I don't know anything about them.
+
+[00:31:47] SPEAKER_09
+Oh, man.
+
+[00:31:48] SPEAKER_09
+Outside of that.
+
+[00:31:49] SPEAKER_09
+They're in the Spider-Man video.
+
+[00:31:50] SPEAKER_09
+Yeah.
+
+[00:31:50] SPEAKER_04
+No, it's just Josie Scott.
+
+[00:31:52] SPEAKER_04
+Yeah.
+
+[00:31:52] SPEAKER_04
+You don't know click, click, boom.
+
+[00:31:54] SPEAKER_09
+I know tick, tick, boom.
+
+[00:31:56] SPEAKER_04
+That's different.
+
+[00:31:57] SPEAKER_09
+That's a death metal.
+
+[00:31:58] SPEAKER_04
+No, that's different.
+
+[00:32:00] SPEAKER_09
+I don't know.
+
+[00:32:01] SPEAKER_09
+Click, click, boom.
+
+[00:32:02] SPEAKER_09
+Sad.
+
+[00:32:03] SPEAKER_09
+You're missing out.
+
+[00:32:03] SPEAKER_09
+It is sad, I guess.
+
+[00:32:04] SPEAKER_09
+I don't know.
+
+[00:32:05] SPEAKER_09
+I don't feel sad about it, but you're telling me it is.
+
+[00:32:07] SPEAKER_09
+So, believe me.
+
+[00:32:08] SPEAKER_09
+Does saliva head stand up?
+
+[00:32:11] SPEAKER_09
+I'm waiting.
+
+[00:32:12] SPEAKER_09
+I'm looking.
+
+[00:32:12] SPEAKER_09
+I'm looking out into the regulation crowd.
+
+[00:32:14] SPEAKER_09
+I don't see.
+
+[00:32:15] SPEAKER_09
+Still waiting.
+
+[00:32:16] SPEAKER_04
+For some reason, everyone's seen it.
+
+[00:32:18] SPEAKER_09
+Weird.
+
+[00:32:21] SPEAKER_09
+Maybe you need to say it louder.
+
+[00:32:23] SPEAKER_09
+I don't know.
+
+[00:32:23] SPEAKER_09
+They must have not heard you, just clearly.
+
+[00:32:26] SPEAKER_09
+People would be standing left and right if they heard.
+
+[00:32:30] SPEAKER_04
+We mentioned a restock, I think, a week or so ago.
+
+[00:32:34] SPEAKER_04
+A lot of that stuff is still there.
+
+[00:32:35] SPEAKER_04
+So, if you need to get a patch hat or shirts or patches, I guess, or falcon signs.
+
+[00:32:42] SPEAKER_04
+Falcon signs and no scrumping signs are still there.
+
+[00:32:44] SPEAKER_04
+I wanted to call that out in the middle of an episode instead of at the end of an episode
+
+[00:32:47] SPEAKER_04
+to see if that helps people.
+
+[00:32:48] SPEAKER_04
+Yeah.
+
+[00:32:49] SPEAKER_04
+But that's my contribution.
+
+[00:32:50] SPEAKER_04
+That's the end of my contribution.
+
+[00:32:51] SPEAKER_05
+Speaking of which, I picked up one of the white metal shirts, one of the white death metal
+
+[00:32:56] SPEAKER_05
+shirts, the eat the pencil shirt, you know, because I didn't have a white one yet.
+
+[00:33:00] SPEAKER_05
+And I've been wearing it, wearing it right now, actually.
+
+[00:33:02] SPEAKER_05
+And that got me thinking, do you think there are people out there that think Eat the Pencil
+
+[00:33:06] SPEAKER_05
+is a band?
+
+[00:33:08] SPEAKER_09
+Oh, that's a great band name, Jeff.
+
+[00:33:10] SPEAKER_09
+I never considered that.
+
+[00:33:12] SPEAKER_05
+Because it's designed to look like a death metal shirt.
+
+[00:33:15] SPEAKER_05
+And when people say, like, what's your shirt?
+
+[00:33:16] SPEAKER_05
+And you're like, oh, it's Eat the Pencil.
+
+[00:33:18] SPEAKER_05
+And they're like, oh, OK.
+
+[00:33:19] SPEAKER_05
+Like, there have to be at least a handful of people out there that have interacted at a
+
+[00:33:23] SPEAKER_05
+show.
+
+[00:33:24] SPEAKER_05
+Like, when Eric and I did that event last week with the Willems, there were probably
+
+[00:33:28] SPEAKER_05
+20 Eat the Pencil shirts in the audience, right?
+
+[00:33:31] SPEAKER_05
+They're out there and they're out in the world.
+
+[00:33:33] SPEAKER_05
+And so I bet somebody asked about that shirt and walked away thinking Eat the Pencil was
+
+[00:33:39] SPEAKER_05
+the name of some sort of a sludge band or grindcore band.
+
+[00:33:43] SPEAKER_05
+Big ATP fence.
+
+[00:33:45] SPEAKER_05
+Yeah.
+
+[00:33:45] SPEAKER_04
+I think you're probably right.
+
+[00:33:47] SPEAKER_04
+I had to go get a tire replaced and I was wearing that shirt and a like metal dude came
+
+[00:33:55] SPEAKER_04
+in to get his tire replaced also.
+
+[00:33:57] SPEAKER_04
+And he was like, I was walking in, he was walking out and he just went, hey, let me see.
+
+[00:34:03] SPEAKER_04
+That's a sick shirt.
+
+[00:34:04] SPEAKER_04
+And then just sort of looked at it for a second.
+
+[00:34:06] SPEAKER_04
+Didn't ask anything about it.
+
+[00:34:07] SPEAKER_04
+Just looked at it and kept looking at it and then left.
+
+[00:34:09] SPEAKER_04
+And it was like, oh, that's cool.
+
+[00:34:10] SPEAKER_04
+Hell yeah.
+
+[00:34:11] SPEAKER_04
+So yeah.
+
+[00:34:12] SPEAKER_04
+We got the contingent, you know.
+
+[00:34:13] SPEAKER_05
+We should go so far as to turn Eat the Pencil into a band so that when people look it up,
+
+[00:34:20] SPEAKER_05
+there's like a song on Spotify they can find.
+
+[00:34:22] SPEAKER_07
+Or maybe we can try and convince a band to change their name to Eat the Pencil.
+
+[00:34:26] SPEAKER_05
+Possible.
+
+[00:34:27] SPEAKER_05
+We need an official Eat the Pencil song recorded that exists somewhere for people to find.
+
+[00:34:31] SPEAKER_05
+Maybe just on SoundCloud or whatever, but.
+
+[00:34:33] SPEAKER_07
+Or the first track be.
+
+[00:34:34] SPEAKER_07
+Marathon Man.
+
+[00:34:35] SPEAKER_05
+It could be.
+
+[00:34:36] SPEAKER_07
+Yeah.
+
+[00:34:36] SPEAKER_05
+I don't like that.
+
+[00:34:37] SPEAKER_05
+We could get like Burndog to play drums.
+
+[00:34:42] SPEAKER_05
+I'm sure we could put something together.
+
+[00:34:44] SPEAKER_05
+Ankle Integrity.
+
+[00:34:45] SPEAKER_05
+I like that.
+
+[00:34:46] SPEAKER_05
+Ankle Integrity's great.
+
+[00:34:47] SPEAKER_05
+Ankle Integrity's great.
+
+[00:34:48] SPEAKER_07
+Might be a good track two.
+
+[00:34:50] SPEAKER_05
+Or track one.
+
+[00:34:52] SPEAKER_09
+Unless, you know what?
+
+[00:34:53] SPEAKER_09
+Track one, Ankle Integrity.
+
+[00:34:54] SPEAKER_09
+Track two through three.
+
+[00:34:55] SPEAKER_09
+Marathon one, two, and three.
+
+[00:34:56] SPEAKER_09
+And there's nothing on those tracks.
+
+[00:34:58] SPEAKER_09
+They're okay.
+
+[00:35:03] SPEAKER_09
+Empty track.
+
+[00:35:06] SPEAKER_09
+Track eight, 20,000 words.
+
+[00:35:08] SPEAKER_09
+There's 15 lyrics on it.
+
+[00:35:09] SPEAKER_09
+Do you think you're done for good on the marathon?
+
+[00:35:12] SPEAKER_09
+Um, absolutely.
+
+[00:35:13] SPEAKER_09
+I was done for good the week after I said it.
+
+[00:35:16] SPEAKER_09
+I've been very clear.
+
+[00:35:17] SPEAKER_07
+Yeah, but if you gave yourself a deadline of like 2030, you could probably get it done.
+
+[00:35:23] SPEAKER_07
+I don't want to.
+
+[00:35:24] SPEAKER_09
+I don't want to.
+
+[00:35:26] SPEAKER_09
+And it's really the marathon was the death of burger confidence is what that was.
+
+[00:35:32] SPEAKER_07
+Yeah.
+
+[00:35:33] SPEAKER_09
+That was a maturing moment.
+
+[00:35:35] SPEAKER_09
+That was a me being confronted with reality and coming to terms and like accepting that
+
+[00:35:41] SPEAKER_09
+I have burger confidence.
+
+[00:35:42] SPEAKER_09
+And sometimes it needs to be put in check because it leads to nothing but pain, generally
+
+[00:35:47] SPEAKER_09
+speaking.
+
+[00:35:48] SPEAKER_05
+I don't think it should be the name of your autobiography, but there should definitely
+
+[00:35:50] SPEAKER_05
+be a chapter called the death of burger confidence.
+
+[00:35:54] SPEAKER_05
+Yeah.
+
+[00:35:55] SPEAKER_09
+It was a very real thing.
+
+[00:35:56] SPEAKER_07
+I'd love for you to write an autobiography.
+
+[00:36:00] SPEAKER_09
+I don't think there's much to share outside of what's on this podcast.
+
+[00:36:04] SPEAKER_07
+You're full of shit.
+
+[00:36:05] SPEAKER_05
+There's so much I don't know about you.
+
+[00:36:07] SPEAKER_05
+There's at least 18,000 more words.
+
+[00:36:12] SPEAKER_09
+Well, you are going to learn about me, though, because I picked up a grade one book.
+
+[00:36:17] SPEAKER_07
+Did you read the whole book and learn anything or are you going to have to get to the second
+
+[00:36:29] SPEAKER_07
+book?
+
+[00:36:30] SPEAKER_09
+I haven't put pencil to paper yet.
+
+[00:36:33] SPEAKER_09
+I'll share what I bought.
+
+[00:36:35] SPEAKER_07
+I think read until you learn is such an interesting concept.
+
+[00:36:38] SPEAKER_07
+You just have to start at like the first grade and keep going.
+
+[00:36:42] SPEAKER_07
+I bet I would learn something in year two.
+
+[00:36:45] SPEAKER_07
+You think so?
+
+[00:36:45] SPEAKER_07
+It's got to be something I forgot.
+
+[00:36:47] SPEAKER_07
+Or I missed.
+
+[00:36:48] SPEAKER_09
+Well, that's hey, I'm around the corner.
+
+[00:36:50] SPEAKER_09
+I'll let you know.
+
+[00:36:51] SPEAKER_09
+I picked up a thing.
+
+[00:36:52] SPEAKER_09
+It's called Maple Leaf Mastery.
+
+[00:36:54] SPEAKER_09
+Grade one.
+
+[00:36:56] SPEAKER_09
+And it's all the essentials.
+
+[00:36:58] SPEAKER_09
+It's all that you need.
+
+[00:37:00] SPEAKER_06
+Maple Leaf Mastery.
+
+[00:37:02] SPEAKER_09
+I'll start going through some hard hitting learning.
+
+[00:37:06] SPEAKER_09
+A side project of sorts.
+
+[00:37:08] SPEAKER_07
+Oh, it took me to Amazon Canada.
+
+[00:37:10] SPEAKER_07
+Yeah.
+
+[00:37:11] SPEAKER_07
+Yeah.
+
+[00:37:11] SPEAKER_09
+That's where I live.
+
+[00:37:15] SPEAKER_09
+It'd be weird if I bought from like Amazon.
+
+[00:37:17] SPEAKER_09
+Japan.
+
+[00:37:18] SPEAKER_09
+That'd be strange.
+
+[00:37:19] SPEAKER_09
+The full year workbook.
+
+[00:37:23] SPEAKER_09
+It's got your English, your math, your science, your social studies.
+
+[00:37:26] SPEAKER_09
+Got everything you need.
+
+[00:37:27] SPEAKER_09
+One book.
+
+[00:37:28] SPEAKER_09
+Now, I don't know if they have grade two mastery.
+
+[00:37:30] SPEAKER_09
+So this might be a one grade expedition.
+
+[00:37:34] SPEAKER_09
+Never mind.
+
+[00:37:34] SPEAKER_09
+I scrolled down and I found grade three.
+
+[00:37:36] SPEAKER_09
+So it's safe to assume that there is a grade two.
+
+[00:37:40] SPEAKER_09
+Oh, there it is.
+
+[00:37:41] SPEAKER_07
+I see one, three and four.
+
+[00:37:43] SPEAKER_09
+I see one, three and four.
+
+[00:37:45] SPEAKER_09
+And if I scroll down even further, there is a grade two in a different section.
+
+[00:37:49] SPEAKER_07
+So do you think we should all get a grade one and then stop as soon as you learn something new?
+
+[00:37:54] SPEAKER_07
+And like you have to note the page.
+
+[00:37:55] SPEAKER_09
+Oh, that's really, it's a fun idea.
+
+[00:37:56] SPEAKER_09
+Maybe you want me to scout first.
+
+[00:37:58] SPEAKER_09
+And once I find something new, then report back and you guys can confirm.
+
+[00:38:03] SPEAKER_09
+Yeah.
+
+[00:38:03] SPEAKER_09
+Yes.
+
+[00:38:04] SPEAKER_09
+I like that idea.
+
+[00:38:05] SPEAKER_99
+Yeah.
+
+[00:38:06] SPEAKER_09
+We'll do that.
+
+[00:38:07] SPEAKER_09
+I haven't had any of those dreams since we talked about it.
+
+[00:38:10] SPEAKER_09
+Maybe you cured them.
+
+[00:38:12] SPEAKER_09
+I may have cured them.
+
+[00:38:13] SPEAKER_09
+Speaking of dreaming and sort of saliva, I have a question for you, Gavin.
+
+[00:38:17] SPEAKER_09
+This is something that happened to me.
+
+[00:38:19] SPEAKER_09
+And you're the only person that this could have also happened to at some point.
+
+[00:38:23] SPEAKER_09
+Have you ever sneezed with your CPAP on?
+
+[00:38:26] SPEAKER_09
+Oh, yeah.
+
+[00:38:26] SPEAKER_09
+Big time.
+
+[00:38:27] SPEAKER_09
+Oh, what?
+
+[00:38:29] SPEAKER_09
+Isn't it?
+
+[00:38:29] SPEAKER_09
+What was that?
+
+[00:38:30] SPEAKER_09
+Isn't it?
+
+[00:38:31] SPEAKER_09
+Well, sometimes like if I need to, it is not often.
+
+[00:38:34] SPEAKER_09
+I find that I need to sneeze while CPAP.
+
+[00:38:38] SPEAKER_09
+But I had one reason where I wasn't able to get the mask off in time and I sneezed and
+
+[00:38:43] SPEAKER_09
+it was a crazy experience.
+
+[00:38:44] SPEAKER_09
+It is like hitting nitrous on your sneeze.
+
+[00:38:48] SPEAKER_09
+Yeah.
+
+[00:38:49] SPEAKER_09
+It boosts it and it gives it all back to you.
+
+[00:38:52] SPEAKER_09
+I don't know what that means.
+
+[00:38:53] SPEAKER_09
+I don't know the give it all back part.
+
+[00:38:55] SPEAKER_09
+What do you mean by that?
+
+[00:38:55] SPEAKER_07
+Well, like it's forcing it into your throat.
+
+[00:39:00] SPEAKER_09
+I feel like I'm just shooting it out because I'm a mouth sneezer.
+
+[00:39:04] SPEAKER_09
+I feel like it's it's clearing.
+
+[00:39:06] SPEAKER_09
+What I've noticed is whenever I sneeze without a sneezer, I we've talked about this.
+
+[00:39:13] SPEAKER_09
+There are no sneezers.
+
+[00:39:14] SPEAKER_09
+There are mouth sneezers.
+
+[00:39:15] SPEAKER_09
+I'm through the mouth.
+
+[00:39:16] SPEAKER_07
+I just thought you were wearing the full mask.
+
+[00:39:19] SPEAKER_09
+No, no, no, no, no, no, no.
+
+[00:39:20] SPEAKER_09
+Just the nose piece.
+
+[00:39:21] SPEAKER_09
+So it's just accelerating air.
+
+[00:39:23] SPEAKER_09
+However, if I don't have the CPAP on and not that I've done extensive testing, but essentially
+
+[00:39:28] SPEAKER_09
+every sneeze I have without the pap, I'm sneezing three times.
+
+[00:39:32] SPEAKER_09
+It's taken three clears, probably because I'm a mouth sneezer.
+
+[00:39:36] SPEAKER_09
+But with the CPAP on, you got the nitrous on.
+
+[00:39:38] SPEAKER_09
+That was one sneeze and I was good.
+
+[00:39:40] SPEAKER_09
+I was in complete disbelief.
+
+[00:39:42] SPEAKER_07
+Maybe because of the air pressure going in, your body had to compensate by forcing out
+
+[00:39:48] SPEAKER_07
+harder, which combined all three sneezes into one power point.
+
+[00:39:51] SPEAKER_09
+I think so.
+
+[00:39:52] SPEAKER_09
+I think it was like a super sneeze.
+
+[00:39:53] SPEAKER_09
+And I was.
+
+[00:39:55] SPEAKER_09
+Was it three times the satisfaction?
+
+[00:39:57] SPEAKER_09
+It was shock more than satisfaction because I was trying to get it off, didn't get off in
+
+[00:40:01] SPEAKER_09
+time.
+
+[00:40:02] SPEAKER_09
+And then you expect sneeze to right around the corner.
+
+[00:40:04] SPEAKER_09
+No sneeze to.
+
+[00:40:05] SPEAKER_09
+No, I was in disbelief and I thought I need to ask Gavin about this.
+
+[00:40:09] SPEAKER_09
+I need to know if he has experienced super sneezing.
+
+[00:40:12] SPEAKER_07
+I've I've blown off the the apparatus before.
+
+[00:40:18] SPEAKER_09
+You mean take it off or you sneeze so hard that it blew off of your face, blew it off,
+
+[00:40:27] SPEAKER_07
+blew it out.
+
+[00:40:28] SPEAKER_09
+That is the most Looney Tunes ass shit I've ever heard.
+
+[00:40:31] SPEAKER_07
+And you've made my day.
+
+[00:40:32] SPEAKER_07
+Well, because this is what I was because usually I'm a mouth sneezer, but I wear the CPAP up
+
+[00:40:37] SPEAKER_07
+the old nose holes.
+
+[00:40:38] SPEAKER_07
+Yeah, but I had the mouth tape on so it had to become a nose sneeze, blew the blew the nose
+
+[00:40:44] SPEAKER_07
+out, which then sort of reseated itself on my nose.
+
+[00:40:47] SPEAKER_07
+So it was like sort of pointing towards my eyes and it made such a mess of the nose piece
+
+[00:40:52] SPEAKER_07
+that I had to change it.
+
+[00:40:53] SPEAKER_09
+Oh, my God.
+
+[00:40:55] SPEAKER_09
+I don't think I could do a nose sneeze.
+
+[00:40:57] SPEAKER_09
+I think it would ruin my nose integrity.
+
+[00:40:58] SPEAKER_09
+I think maybe my unbreakable nose might be tied to my mouth sneezing.
+
+[00:41:01] SPEAKER_05
+When you say mess, do you just mean like just a tremendous amount of snot and liquid?
+
+[00:41:08] SPEAKER_05
+Yeah, yeah.
+
+[00:41:08] SPEAKER_05
+Mucus, sputum.
+
+[00:41:10] SPEAKER_05
+Yeah.
+
+[00:41:12] SPEAKER_07
+Horrible.
+
+[00:41:13] SPEAKER_07
+It sounds terrible.
+
+[00:41:15] SPEAKER_07
+Also, I think I can't wear my CPAP when I have a cold.
+
+[00:41:18] SPEAKER_09
+That is.
+
+[00:41:19] SPEAKER_09
+Oh, it's so funny you say that.
+
+[00:41:20] SPEAKER_09
+I just got a mask that it has mouth breathing as well, because I thought if I get stuffed
+
+[00:41:26] SPEAKER_09
+up, I'm fucked because if I get stuffed up at all, it's tough to use the nose one just without
+
+[00:41:31] SPEAKER_09
+a cold if I just, I don't know, allergies or whatever.
+
+[00:41:35] SPEAKER_09
+So I just recently got a mask that I was like, if my nose is congested, I can at least
+
+[00:41:39] SPEAKER_09
+use this.
+
+[00:41:40] SPEAKER_07
+I think I want to maybe do some testing and do a full head one, like an astronaut helmet.
+
+[00:41:47] SPEAKER_04
+Is that a thing?
+
+[00:41:49] SPEAKER_07
+I don't know.
+
+[00:41:49] SPEAKER_07
+Would it work?
+
+[00:41:50] SPEAKER_07
+I assume it would work.
+
+[00:41:51] SPEAKER_09
+The air has to go somewhere.
+
+[00:41:52] SPEAKER_09
+There is there is a full face one you can get for sure, but I don't think it's super
+
+[00:41:56] SPEAKER_09
+effective.
+
+[00:41:57] SPEAKER_09
+And it's not like an astronaut helmet.
+
+[00:41:59] SPEAKER_09
+It doesn't look cool.
+
+[00:42:00] SPEAKER_09
+It looks like she's put into this unwillingly.
+
+[00:42:04] SPEAKER_09
+It looks like any like apocalyptic like virus movie you've seen where they're in the hazmat
+
+[00:42:11] SPEAKER_09
+suits.
+
+[00:42:11] SPEAKER_09
+It's just like the face guard of the hazmat suit.
+
+[00:42:16] SPEAKER_09
+They do have the full face.
+
+[00:42:17] SPEAKER_07
+That's crazy.
+
+[00:42:19] SPEAKER_07
+Yeah, you should.
+
+[00:42:20] SPEAKER_07
+Gavin, you got to get this.
+
+[00:42:21] SPEAKER_07
+I might get in the lab.
+
+[00:42:22] SPEAKER_07
+I might just go.
+
+[00:42:23] SPEAKER_07
+I might just buy a bike helmet.
+
+[00:42:28] SPEAKER_07
+What's the easiest helmet to seal that doesn't cost $8,000?
+
+[00:42:32] SPEAKER_04
+Oh, man.
+
+[00:42:33] SPEAKER_04
+This guy might have beat you to the punch.
+
+[00:42:36] SPEAKER_04
+Oh, Jeff is going next level.
+
+[00:42:39] SPEAKER_04
+I sent a guy wearing a helmet.
+
+[00:42:41] SPEAKER_04
+Jeff sent a full like sea suit.
+
+[00:42:44] SPEAKER_09
+You know, you probably with backrooms being so popular and are in Halloween time, there
+
+[00:42:52] SPEAKER_09
+will probably be some backrooms Halloween outfits.
+
+[00:42:54] SPEAKER_09
+Oh, yeah.
+
+[00:42:56] SPEAKER_09
+Because those are like such a good idea.
+
+[00:42:57] SPEAKER_09
+Budget hazmats.
+
+[00:42:59] SPEAKER_05
+Where's his hose going?
+
+[00:43:01] SPEAKER_05
+To the CPAP machine?
+
+[00:43:04] SPEAKER_09
+It's in his suit, Gavin.
+
+[00:43:06] SPEAKER_09
+You sleep with the machine on you.
+
+[00:43:08] SPEAKER_04
+It keeps you warm.
+
+[00:43:09] SPEAKER_04
+So do you think that you like plug in the CPAP in like the gas mask part at like the
+
+[00:43:17] SPEAKER_04
+like on like the right side and then like the left side just sort of helps you breathe
+
+[00:43:22] SPEAKER_04
+it like.
+
+[00:43:23] SPEAKER_04
+I don't know.
+
+[00:43:23] SPEAKER_07
+I think if it's full body, that's not going to be enough pressure for it to force air
+
+[00:43:28] SPEAKER_07
+down my nose.
+
+[00:43:28] SPEAKER_07
+It's probably going to be easier to get air down other orifices.
+
+[00:43:30] SPEAKER_09
+If it's full body, you might as well just sleep in one of those standing booths that
+
+[00:43:36] SPEAKER_09
+they have money in that you have to try to grab within 60 seconds.
+
+[00:43:41] SPEAKER_09
+It's the same process.
+
+[00:43:42] SPEAKER_07
+You just grab it a bunch of tens.
+
+[00:43:43] SPEAKER_09
+Yeah.
+
+[00:43:45] SPEAKER_07
+Or if I sleep masks.
+
+[00:43:46] SPEAKER_07
+Maybe if I cut my way inside a bouncy castle, I just sleep in that.
+
+[00:43:52] SPEAKER_07
+That's interesting.
+
+[00:43:53] SPEAKER_04
+Is Gavin going to bed?
+
+[00:43:56] SPEAKER_07
+Is that like a budget one?
+
+[00:43:59] SPEAKER_07
+Can we get one for the office?
+
+[00:44:01] SPEAKER_05
+A deluxe money booth.
+
+[00:44:02] SPEAKER_05
+I can look.
+
+[00:44:03] SPEAKER_05
+Like we've talked about this in the past as a precursor to the bit barrel.
+
+[00:44:07] SPEAKER_05
+We can get one.
+
+[00:44:08] SPEAKER_05
+I think you can get one for like two grand.
+
+[00:44:10] SPEAKER_04
+Yeah.
+
+[00:44:10] SPEAKER_04
+Yeah.
+
+[00:44:10] SPEAKER_04
+This one's like, this one's like two grand.
+
+[00:44:12] SPEAKER_04
+It's a cash cube money booth.
+
+[00:44:15] SPEAKER_07
+Huh?
+
+[00:44:15] SPEAKER_07
+What if we filled it with ones?
+
+[00:44:17] SPEAKER_07
+We filled it with ones and you have to go in every time we're in the office and that's
+
+[00:44:20] SPEAKER_07
+the lunch budget.
+
+[00:44:24] SPEAKER_07
+We might be eating like gas station lunch sometimes.
+
+[00:44:27] SPEAKER_07
+Yeah.
+
+[00:44:27] SPEAKER_07
+We'll either be eating nice or we'll have to stretch 12 bucks across four people.
+
+[00:44:31] SPEAKER_05
+So, or maybe everybody goes in for 15 seconds and how much they pull out is how much they
+
+[00:44:36] SPEAKER_05
+can spend on lunch.
+
+[00:44:37] SPEAKER_05
+Oh.
+
+[00:44:37] SPEAKER_05
+It's also someone who's reading steak and someone who's reading candy bars.
+
+[00:44:41] SPEAKER_04
+That's interesting.
+
+[00:44:42] SPEAKER_04
+At, I don't know what these machines are.
+
+[00:44:45] SPEAKER_04
+I'm going to see if I can find them.
+
+[00:44:47] SPEAKER_04
+I went to Texas Surplus the other day.
+
+[00:44:49] SPEAKER_04
+I needed like a, uh, like a little, uh, drawer with like a lock and they have a, uh, they have
+
+[00:44:58] SPEAKER_04
+like two game machines that are, I don't know what they're from, but it's like Alpine
+
+[00:45:07] SPEAKER_04
+Coin Drop or something like that, uh, where you have to like roll a coin down a, uh, like
+
+[00:45:14] SPEAKER_04
+a, like a little slope where you kind of like wiggle the thing back and forth, but they
+
+[00:45:19] SPEAKER_04
+also have like another like ticket machine.
+
+[00:45:21] SPEAKER_04
+They have like two ticket machines at Texas Surplus.
+
+[00:45:24] SPEAKER_04
+Should we, do we need ticket machines at the office?
+
+[00:45:27] SPEAKER_04
+How much are they?
+
+[00:45:28] SPEAKER_04
+They're, I think like a couple hundred bucks.
+
+[00:45:30] SPEAKER_04
+What do you mean by ticket machine?
+
+[00:45:32] SPEAKER_04
+You know, like an arcade machine, like where you're, uh, you know, winning tickets and stuff.
+
+[00:45:38] SPEAKER_04
+I mean, we've got the bit barrel.
+
+[00:45:39] SPEAKER_04
+What's the other games?
+
+[00:45:40] SPEAKER_04
+Uh, I don't remember.
+
+[00:45:41] SPEAKER_04
+I'm trying to see if I'm trying to find it right now, pictures or anything.
+
+[00:45:45] SPEAKER_04
+No, I didn't think to, I was just the thing where I went, what the fuck?
+
+[00:45:48] SPEAKER_04
+But I was like on a mission.
+
+[00:45:49] SPEAKER_04
+So I, I just, I was too focused.
+
+[00:45:52] SPEAKER_04
+Uh, but it was so bizarre just to see.
+
+[00:45:55] SPEAKER_04
+And it was, I don't know.
+
+[00:45:56] SPEAKER_04
+Um, I'll see if I can find it online and, uh, send it over.
+
+[00:46:00] SPEAKER_04
+But man, fucking bizarre.
+
+[00:46:02] SPEAKER_05
+Really, really weird.
+
+[00:46:03] SPEAKER_05
+What if we took a roll of tickets and we wrote down bit barrel ideas randomly on tickets
+
+[00:46:09] SPEAKER_05
+and then we put the roll in and then you play it.
+
+[00:46:11] SPEAKER_05
+And then whenever one comes out that has an idea on it, you got to do that idea.
+
+[00:46:15] SPEAKER_05
+It's fun.
+
+[00:46:16] SPEAKER_09
+I like that idea.
+
+[00:46:17] SPEAKER_09
+Wow.
+
+[00:46:18] SPEAKER_04
+Wow.
+
+[00:46:20] SPEAKER_04
+All sorts of games you could pick for that.
+
+[00:46:22] SPEAKER_04
+I think it's a really good idea.
+
+[00:46:23] SPEAKER_04
+I just thought finding them for cheap was really interesting, but I'll see.
+
+[00:46:26] SPEAKER_05
+I'm in, I'm interested in seeing what they are.
+
+[00:46:28] SPEAKER_04
+Yeah.
+
+[00:46:28] SPEAKER_04
+Right.
+
+[00:46:28] SPEAKER_04
+I'll, uh, I'll see what I can find and I'll get back to you.
+
+[00:46:30] SPEAKER_04
+Cause I'm, I'm very interested in this.
+
+[00:46:31] SPEAKER_10
+Gregus believes in the art of living, in choosing the pleasurable over the practical.
+
+[00:46:38] SPEAKER_10
+It's why we craft our premium vodka in France using pure spring water from Genzac.
+
+[00:46:44] SPEAKER_10
+And why you hear the celebratory bump of our cork reminding us to make every martini cocktail count.
+
+[00:46:51] SPEAKER_10
+So go on and make every moment count because there's no better time than now.
+
+[00:46:58] SPEAKER_10
+Gregus.
+
+[00:46:59] SPEAKER_10
+Make.
+
+[00:46:59] SPEAKER_10
+Time.
+
+[00:47:00] SPEAKER_10
+Wait.
+
+[00:47:00] SPEAKER_10
+C'est responsable.
+
+[00:47:02] SPEAKER_03
+From the producers of Super Troopers and Super Troopers 2 comes, you guessed it.
+
+[00:47:13] SPEAKER_03
+Broken Lizard and their rowdy patrol squad return to the scene of the crime in Super Troopers 3.
+
+[00:47:19] SPEAKER_03
+The mustaches are thicker, the maple syrup stickier, and the pranks crazier than ever.
+
+[00:47:25] SPEAKER_03
+Buckle up for the funniest comedy of the summer.
+
+[00:47:28] SPEAKER_03
+Super Troopers 3, now playing only in theaters.
+
+[00:47:31] SPEAKER_03
+Get tickets now.
+
+[00:47:33] SPEAKER_01
+Rain change your picnic plans?
+
+[00:47:35] SPEAKER_01
+Hey, it happens.
+
+[00:47:37] SPEAKER_01
+But now everyone's indoors, cozy, and around the same table.
+
+[00:47:41] SPEAKER_01
+That's a small win that feels pretty good.
+
+[00:47:43] SPEAKER_01
+Just like the Minute Maid fruit drink and lemonade cartons.
+
+[00:47:46] SPEAKER_01
+Always made with real juice.
+
+[00:47:48] SPEAKER_01
+Always real flavor.
+
+[00:47:50] SPEAKER_01
+Bring the juice with Minute Maid fruit drink and lemonade cartons.
+
+[00:47:53] SPEAKER_01
+And visit the chill juice aisle in your local grocery store today.
+
+[00:47:56] SPEAKER_05
+I found something the other day that has changed my life.
+
+[00:48:01] SPEAKER_05
+What changed your life?
+
+[00:48:02] SPEAKER_05
+I'd like to share it with you all if you don't mind.
+
+[00:48:05] SPEAKER_05
+Gavin, a while back you were asking if the Kitchen Maid is really worth it.
+
+[00:48:08] SPEAKER_05
+And we talked about how there are a million attachments for it.
+
+[00:48:11] SPEAKER_05
+And that make it, in addition to its core use, that make it indispensable.
+
+[00:48:16] SPEAKER_05
+I discovered the other day on TikTok a snow cone attachment that makes shaved ice.
+
+[00:48:25] SPEAKER_05
+And so, I don't know if you guys know this about me, but I'm kind of a big shaved ice guy.
+
+[00:48:30] SPEAKER_05
+I spend a lot of time on the Bahama Bucks.
+
+[00:48:32] SPEAKER_05
+But it's so goddamn hot outside.
+
+[00:48:35] SPEAKER_05
+I don't want to go outside.
+
+[00:48:35] SPEAKER_05
+Now I don't have to.
+
+[00:48:37] SPEAKER_05
+I bought the house of my dreams that I never want to leave.
+
+[00:48:39] SPEAKER_05
+And now I don't have to.
+
+[00:48:39] SPEAKER_05
+Because every night since I bought this, I've made snow cones.
+
+[00:48:43] SPEAKER_09
+You have this?
+
+[00:48:45] SPEAKER_05
+Jeff.
+
+[00:48:45] SPEAKER_05
+Yeah, it's in my kitchen right now.
+
+[00:48:47] SPEAKER_09
+Oh, wow.
+
+[00:48:48] SPEAKER_05
+And then I bought all the flavors, too.
+
+[00:48:50] SPEAKER_05
+You know, like, I've been making half banana, half tiger's blood every night for dessert.
+
+[00:48:55] SPEAKER_09
+Tiger's blood?
+
+[00:48:56] SPEAKER_05
+Yeah.
+
+[00:48:57] SPEAKER_09
+That's the flavor?
+
+[00:48:58] SPEAKER_09
+Yeah.
+
+[00:48:59] SPEAKER_09
+That's crazy.
+
+[00:49:00] SPEAKER_05
+You never heard of tiger's blood?
+
+[00:49:01] SPEAKER_05
+No.
+
+[00:49:02] SPEAKER_05
+That's so cool.
+
+[00:49:03] SPEAKER_05
+Is it like a raspberry?
+
+[00:49:04] SPEAKER_05
+It's a blend of strawberry and watermelon and coconut.
+
+[00:49:08] SPEAKER_07
+Ooh.
+
+[00:49:09] SPEAKER_07
+Ooh, that sounds good.
+
+[00:49:11] SPEAKER_07
+I have potentially a stupid question.
+
+[00:49:13] SPEAKER_07
+Can you make fizzy ice?
+
+[00:49:17] SPEAKER_05
+I think that is a stupid question.
+
+[00:49:19] SPEAKER_05
+Oh.
+
+[00:49:21] SPEAKER_07
+No, I don't know.
+
+[00:49:23] SPEAKER_07
+Like, if you soda streamed your ice trays and then shaved that, would it be like...
+
+[00:49:27] SPEAKER_07
+It would be less, though, wouldn't it?
+
+[00:49:28] SPEAKER_07
+I don't know.
+
+[00:49:29] SPEAKER_09
+Well, it's gas-based, right?
+
+[00:49:31] SPEAKER_05
+Like, if I froze a Sprite and then used that to make shaved ice?
+
+[00:49:35] SPEAKER_05
+Yeah.
+
+[00:49:36] SPEAKER_05
+I could try it.
+
+[00:49:38] SPEAKER_05
+I could definitely try it.
+
+[00:49:39] SPEAKER_05
+Shaved Sprite?
+
+[00:49:40] SPEAKER_05
+Huh.
+
+[00:49:40] SPEAKER_05
+Yeah.
+
+[00:49:41] SPEAKER_05
+That could be crazy.
+
+[00:49:43] SPEAKER_05
+Anyway, the thing is fucking phenomenal.
+
+[00:49:47] SPEAKER_05
+And now I have, like, 20 different flavors of snow cones I can make, and I highly recommend.
+
+[00:49:53] SPEAKER_05
+Now, I'm not sponsored by any of these companies or corporations, but I'm just telling you, it's fucking...
+
+[00:49:59] SPEAKER_05
+Yeah, it's a revolution.
+
+[00:50:00] SPEAKER_07
+Jeff, you've changed my life.
+
+[00:50:02] SPEAKER_07
+It looks so third party.
+
+[00:50:03] SPEAKER_07
+The fact that it's not, like, under the actual unit and it's a different color.
+
+[00:50:06] SPEAKER_05
+I know, but that's from their official website.
+
+[00:50:10] SPEAKER_05
+That's where I pulled that image from.
+
+[00:50:12] SPEAKER_05
+That's crazy.
+
+[00:50:12] SPEAKER_09
+Have you...
+
+[00:50:14] SPEAKER_09
+Did you just get, like, a starter kit of flavors, or are you, like...
+
+[00:50:17] SPEAKER_05
+I bought, like, a 20-pack on Amazon of different flavors.
+
+[00:50:21] SPEAKER_05
+I see.
+
+[00:50:22] SPEAKER_05
+Interesting.
+
+[00:50:22] SPEAKER_05
+So, I got flavors.
+
+[00:50:23] SPEAKER_05
+Like, I got grape.
+
+[00:50:24] SPEAKER_05
+I'll probably never use grape, but I got it if you want it.
+
+[00:50:27] SPEAKER_05
+Have you tried...
+
+[00:50:27] SPEAKER_05
+Would you ever try all 20 at the same time?
+
+[00:50:31] SPEAKER_05
+Like, a suicide?
+
+[00:50:32] SPEAKER_05
+Yeah.
+
+[00:50:33] SPEAKER_05
+I'd consider it.
+
+[00:50:33] SPEAKER_05
+Should we try all 20 at the same time?
+
+[00:50:35] SPEAKER_05
+Yeah, I'm not opposed to grape, Andrew.
+
+[00:50:38] SPEAKER_05
+I'm just, like...
+
+[00:50:38] SPEAKER_05
+That's not what I'm thinking of, but I'm thinking of a snow cone.
+
+[00:50:40] SPEAKER_05
+Oh, that's fair.
+
+[00:50:41] SPEAKER_05
+I'd go through every flavor before I probably got the grape snow cone.
+
+[00:50:44] SPEAKER_05
+Could you do a gerpal?
+
+[00:50:45] SPEAKER_05
+I think you could definitely.
+
+[00:50:46] SPEAKER_05
+I got green.
+
+[00:50:47] SPEAKER_05
+I got green.
+
+[00:50:47] SPEAKER_05
+I got, like, lime.
+
+[00:50:49] SPEAKER_05
+I got...
+
+[00:50:49] SPEAKER_05
+We could definitely make a gerpal snow cone.
+
+[00:50:51] SPEAKER_05
+Yeah.
+
+[00:50:51] SPEAKER_99
+Ooh.
+
+[00:50:52] SPEAKER_05
+100%.
+
+[00:50:53] SPEAKER_07
+I could make one right after this, actually.
+
+[00:50:54] SPEAKER_09
+I'm jealous.
+
+[00:50:56] SPEAKER_09
+That's phenomenal.
+
+[00:50:57] SPEAKER_07
+It'd be cool to make it in the gerpal, gerpler.
+
+[00:50:59] SPEAKER_07
+That would be cool.
+
+[00:51:00] SPEAKER_07
+And have the actual flavors at their paint gradient.
+
+[00:51:05] SPEAKER_09
+Yeah, yeah.
+
+[00:51:08] SPEAKER_09
+I, uh...
+
+[00:51:09] SPEAKER_09
+I mean, cover your ears, Eric.
+
+[00:51:11] SPEAKER_09
+I don't mean to offend you, but I had the Snoopy shaved ice maker, and that thing fucking sucks.
+
+[00:51:17] SPEAKER_04
+Yeah, we have it, too.
+
+[00:51:18] SPEAKER_04
+We have it at 100% eat.
+
+[00:51:20] SPEAKER_04
+Gracie really liked it, but that's about it.
+
+[00:51:21] SPEAKER_04
+It's not very good.
+
+[00:51:22] SPEAKER_04
+Yeah.
+
+[00:51:23] SPEAKER_04
+It's not good, and I like it.
+
+[00:51:24] SPEAKER_09
+I like the idea.
+
+[00:51:25] SPEAKER_09
+I like the spirit of it a lot, but not effective, as opposed to this.
+
+[00:51:30] SPEAKER_09
+This is incredible, Jeff.
+
+[00:51:34] SPEAKER_05
+Yeah, I couldn't believe it.
+
+[00:51:35] SPEAKER_05
+It was one of those things where I saw TikTok about it, and I was like...
+
+[00:51:38] SPEAKER_05
+Emily and I were both like, eh, surely not.
+
+[00:51:41] SPEAKER_09
+It also feels like it would be so much easier to clean, because Ninja has a slushy machine.
+
+[00:51:45] SPEAKER_05
+Dude, couldn't be easier.
+
+[00:51:47] SPEAKER_05
+It's just ice.
+
+[00:51:48] SPEAKER_05
+Yeah.
+
+[00:51:48] SPEAKER_05
+Yeah.
+
+[00:51:49] SPEAKER_05
+Spray the fucking thing down.
+
+[00:51:50] SPEAKER_05
+It comes apart pretty easily.
+
+[00:51:52] SPEAKER_05
+While we're talking about ice and ice cubes, essentially, I also discovered this recently.
+
+[00:51:57] SPEAKER_05
+I've been meaning to show you guys this for over a month.
+
+[00:52:00] SPEAKER_05
+What?
+
+[00:52:01] SPEAKER_05
+It was a little TikTok I sent your way.
+
+[00:52:02] SPEAKER_05
+It is a...
+
+[00:52:03] SPEAKER_05
+Cool.
+
+[00:52:05] SPEAKER_05
+What is going on here?
+
+[00:52:06] SPEAKER_05
+Well, you've got here, somebody's taking an ice tray, and they've put a pastry down
+
+[00:52:10] SPEAKER_05
+across the ice tray and pushed it in, and then they've cut hot dog bits into each of
+
+[00:52:16] SPEAKER_05
+the ice trays, and they've put ketchup on it, and then a slice of cheese over it, and then
+
+[00:52:21] SPEAKER_05
+they covered that in pastry, and then they covered that in butter, and then they bake
+
+[00:52:25] SPEAKER_05
+it, and it's like a loaf of bread with hot dogs, cheese, and ketchup inside it.
+
+[00:52:30] SPEAKER_04
+Wow.
+
+[00:52:31] SPEAKER_04
+It's like...
+
+[00:52:32] SPEAKER_04
+Why would you even call that?
+
+[00:52:33] SPEAKER_04
+It's like corn dog poppers, but it's not a corn dog.
+
+[00:52:37] SPEAKER_05
+Yeah.
+
+[00:52:38] SPEAKER_05
+Wow.
+
+[00:52:38] SPEAKER_05
+Dog poppers.
+
+[00:52:39] SPEAKER_05
+I hate it.
+
+[00:52:39] SPEAKER_05
+Yeah, don't...
+
+[00:52:40] SPEAKER_05
+It's maybe the most beautiful thing when it's done, and I think we should probably get
+
+[00:52:45] SPEAKER_05
+in the lab and try this at some point.
+
+[00:52:47] SPEAKER_04
+What?
+
+[00:52:48] SPEAKER_04
+Andrew, you're against this thing?
+
+[00:52:49] SPEAKER_09
+I'm still off hot dogs.
+
+[00:52:51] SPEAKER_09
+I haven't recovered.
+
+[00:52:52] SPEAKER_09
+Oh.
+
+[00:52:53] SPEAKER_09
+Still sensitive subject for me.
+
+[00:52:55] SPEAKER_09
+Understandable.
+
+[00:52:56] SPEAKER_09
+Haven't bounced back yet.
+
+[00:52:57] SPEAKER_09
+I'm sure it's joyous.
+
+[00:52:59] SPEAKER_09
+There's a different time in my life in which I would have been all over this, but in
+
+[00:53:01] SPEAKER_09
+this current moment, disgusted.
+
+[00:53:03] SPEAKER_05
+The only thing that worries me about this whole thing, looking at it, is...
+
+[00:53:06] SPEAKER_05
+No, I guess I don't have any worries.
+
+[00:53:09] SPEAKER_05
+We should make...
+
+[00:53:10] SPEAKER_05
+What's it gonna be?
+
+[00:53:12] SPEAKER_05
+No, never.
+
+[00:53:13] SPEAKER_05
+I don't...
+
+[00:53:13] SPEAKER_05
+No, I don't have any worries.
+
+[00:53:14] SPEAKER_05
+Yeah, I'm actually not fucking worried at all.
+
+[00:53:16] SPEAKER_05
+So now what?
+
+[00:53:16] SPEAKER_05
+Yeah, I changed my mind.
+
+[00:53:17] SPEAKER_05
+Yeah.
+
+[00:53:18] SPEAKER_08
+Oh, I was thinking maybe the ratio of dog to bread.
+
+[00:53:20] SPEAKER_04
+No, no, no.
+
+[00:53:22] SPEAKER_04
+I got no problems.
+
+[00:53:23] SPEAKER_04
+I'm with Jeff.
+
+[00:53:24] SPEAKER_04
+I'm not worried.
+
+[00:53:24] SPEAKER_04
+I do think that, like, it would be fun to kind of, like, put different...
+
+[00:53:27] SPEAKER_04
+Like a little chili cheese situation, too, in some of those, and, like, kind of mixing
+
+[00:53:32] SPEAKER_04
+it up.
+
+[00:53:33] SPEAKER_04
+Be like, ooh, different dog and different bite.
+
+[00:53:35] SPEAKER_04
+Very interesting.
+
+[00:53:37] SPEAKER_07
+Yeah.
+
+[00:53:37] SPEAKER_07
+I wonder if you could distribute a McDonald's cheeseburger across those and have just a
+
+[00:53:41] SPEAKER_07
+bunch of excellent little bites.
+
+[00:53:44] SPEAKER_05
+McDonald's cheeseburger.
+
+[00:53:46] SPEAKER_09
+Why McDonald's cheeseburger as your choice?
+
+[00:53:49] SPEAKER_07
+They just have good, like, one bite-age.
+
+[00:53:54] SPEAKER_09
+Okay.
+
+[00:53:56] SPEAKER_07
+Fair enough.
+
+[00:53:58] SPEAKER_07
+Like, there's no way anyone's ever taken one bite of a McDonald's cheeseburger and gone,
+
+[00:54:02] SPEAKER_06
+that's enough.
+
+[00:54:06] SPEAKER_06
+No.
+
+[00:54:07] SPEAKER_09
+No, yeah, I guess.
+
+[00:54:08] SPEAKER_06
+See where you're coming from.
+
+[00:54:10] SPEAKER_07
+That's, I think, why people go for two a lot of the time.
+
+[00:54:13] SPEAKER_09
+You think about bite-age in a way that I don't, and I love that about you.
+
+[00:54:17] SPEAKER_07
+Well, I think...
+
+[00:54:18] SPEAKER_07
+I think, uh, Pete, a lot of people think that the last bite of a McDonald's cheeseburger
+
+[00:54:22] SPEAKER_07
+is the best.
+
+[00:54:24] SPEAKER_07
+Do you think that?
+
+[00:54:25] SPEAKER_07
+I think, but I think if you put them in this format, they might all be the best.
+
+[00:54:29] SPEAKER_09
+Do you think most people think about what bite of their McDonald's cheeseburger is the
+
+[00:54:33] SPEAKER_09
+best bite?
+
+[00:54:33] SPEAKER_05
+I feel like I've heard it.
+
+[00:54:35] SPEAKER_05
+Have you not?
+
+[00:54:35] SPEAKER_05
+Really?
+
+[00:54:36] SPEAKER_05
+He's talked about this before.
+
+[00:54:37] SPEAKER_05
+He has said this same thing before.
+
+[00:54:39] SPEAKER_05
+Yeah.
+
+[00:54:40] SPEAKER_05
+He's talked about bite-age.
+
+[00:54:41] SPEAKER_05
+I just, I don't, I've never...
+
+[00:54:43] SPEAKER_05
+He's mentioned how he thinks the last bite of a cheeseburger is the best.
+
+[00:54:46] SPEAKER_09
+That is true.
+
+[00:54:47] SPEAKER_09
+I remember that.
+
+[00:54:47] SPEAKER_09
+We had this whole conversation about what is the best bite, but just thinking about a
+
+[00:54:51] SPEAKER_09
+McDonald's cheeseburger specifically and, like, bite, what bite is the best bite, is
+
+[00:54:55] SPEAKER_09
+such a foreign concept.
+
+[00:54:57] SPEAKER_07
+I just think trying to get, trying to convert it into eight last bites would be interesting.
+
+[00:55:04] SPEAKER_09
+Can a first bite be the last bite?
+
+[00:55:07] SPEAKER_05
+Yeah.
+
+[00:55:08] SPEAKER_05
+If it's the only bite.
+
+[00:55:09] SPEAKER_05
+I, the entire time we've been having this conversation, I've had this, I just realized
+
+[00:55:14] SPEAKER_05
+I've had this TikTok on repeat and I'm just, I've watched it a thousand times and it doesn't,
+
+[00:55:18] SPEAKER_05
+it's just as interesting every time I see it.
+
+[00:55:21] SPEAKER_05
+I think, oh, here comes the cheese.
+
+[00:55:22] SPEAKER_05
+Yep.
+
+[00:55:22] SPEAKER_05
+That's good.
+
+[00:55:23] SPEAKER_05
+Flip it over.
+
+[00:55:25] SPEAKER_05
+Put the egg wash on.
+
+[00:55:25] SPEAKER_05
+Yep.
+
+[00:55:26] SPEAKER_05
+All right.
+
+[00:55:26] SPEAKER_05
+Oh, the big bite.
+
+[00:55:28] SPEAKER_05
+Yeah.
+
+[00:55:28] SPEAKER_05
+Why don't we have an episode of Ice Tray Kitchen?
+
+[00:55:30] SPEAKER_05
+Ice Tray Kitchen, I think is a great idea.
+
+[00:55:32] SPEAKER_05
+This could be, you know, technically this is a shape.
+
+[00:55:35] SPEAKER_05
+Oh, it is.
+
+[00:55:35] SPEAKER_05
+Oh, wow.
+
+[00:55:36] SPEAKER_05
+Ice Tray's a shape.
+
+[00:55:37] SPEAKER_05
+Series of shapes.
+
+[00:55:37] SPEAKER_09
+I guess you, you theoretically could take the ice cubes for making the shaved ice and
+
+[00:55:42] SPEAKER_09
+then put the hot dogs in.
+
+[00:55:44] SPEAKER_07
+Yeah.
+
+[00:55:44] SPEAKER_07
+And then we could all just get our ice trays and sort of make our own.
+
+[00:55:51] SPEAKER_06
+I just did it.
+
+[00:55:52] SPEAKER_06
+I just did a shape.
+
+[00:55:53] SPEAKER_99
+Oh, okay.
+
+[00:55:54] SPEAKER_06
+Oh, fuck you.
+
+[00:55:55] SPEAKER_05
+I used to shave coconut.
+
+[00:55:56] SPEAKER_05
+All right.
+
+[00:55:57] SPEAKER_05
+Are we, are we all in office next Friday?
+
+[00:56:00] SPEAKER_05
+Yeah.
+
+[00:56:00] SPEAKER_05
+All right.
+
+[00:56:01] SPEAKER_05
+Yeah.
+
+[00:56:01] SPEAKER_05
+I think so.
+
+[00:56:01] SPEAKER_05
+Yeah.
+
+[00:56:02] SPEAKER_05
+Yeah.
+
+[00:56:02] SPEAKER_05
+Let's make, let's make this next Friday.
+
+[00:56:04] SPEAKER_05
+Okay.
+
+[00:56:05] SPEAKER_99
+Yeah.
+
+[00:56:06] SPEAKER_09
+Okay.
+
+[00:56:06] SPEAKER_04
+Nick is very in.
+
+[00:56:08] SPEAKER_99
+It's going to be great.
+
+[00:56:09] SPEAKER_09
+Outside of shaved ice and shaved coconut, are there any other shaved foods?
+
+[00:56:14] SPEAKER_09
+Kebab?
+
+[00:56:15] SPEAKER_09
+Yeah.
+
+[00:56:16] SPEAKER_09
+Oh, you, you, but you, yeah, you should.
+
+[00:56:18] SPEAKER_09
+Yeah.
+
+[00:56:19] SPEAKER_09
+That was a good one.
+
+[00:56:20] SPEAKER_09
+That's a good point.
+
+[00:56:21] SPEAKER_05
+A lot of shaved meats.
+
+[00:56:22] SPEAKER_04
+Yeah.
+
+[00:56:23] SPEAKER_04
+I would think shaved meats is probably like the thing.
+
+[00:56:25] SPEAKER_04
+You don't have a spit.
+
+[00:56:26] SPEAKER_04
+Yeah.
+
+[00:56:26] SPEAKER_04
+Mm-hmm.
+
+[00:56:27] SPEAKER_04
+A spit or a saliva.
+
+[00:56:28] SPEAKER_04
+I mean, either one, whatever you want to call it.
+
+[00:56:30] SPEAKER_04
+You can shave.
+
+[00:56:33] SPEAKER_04
+What else could you shave that's like a vegetable?
+
+[00:56:35] SPEAKER_04
+I guess like carrots.
+
+[00:56:37] SPEAKER_05
+Carrots are shaved.
+
+[00:56:39] SPEAKER_05
+Celery gets shaved.
+
+[00:56:40] SPEAKER_05
+Lots of vegetables get shaved.
+
+[00:56:41] SPEAKER_05
+Squashes.
+
+[00:56:43] SPEAKER_99
+What?
+
+[00:56:44] SPEAKER_07
+You can shave a squash, can't you?
+
+[00:56:46] SPEAKER_04
+Oh, squashes.
+
+[00:56:48] SPEAKER_04
+I heard Walsh's.
+
+[00:56:49] SPEAKER_04
+I heard washers, and I didn't know what he was saying.
+
+[00:56:53] SPEAKER_04
+I thought it was like a, like, British slang word for a new vegetable.
+
+[00:56:56] SPEAKER_04
+Yeah, I thought, I thought it was like an eggplant situation, like a different name
+
+[00:57:00] SPEAKER_04
+for it or whatever.
+
+[00:57:01] SPEAKER_04
+Classic eggplant sitch.
+
+[00:57:02] SPEAKER_09
+Mm-hmm.
+
+[00:57:04] SPEAKER_04
+Abergene or whatever you call it.
+
+[00:57:06] SPEAKER_07
+Yeah, Abergene.
+
+[00:57:07] SPEAKER_09
+Is shaving the only personal hygiene that's also a food method?
+
+[00:57:13] SPEAKER_09
+Well, there's washing.
+
+[00:57:14] SPEAKER_09
+Well, you're washing, yeah.
+
+[00:57:15] SPEAKER_09
+Oh, okay.
+
+[00:57:16] SPEAKER_09
+Yeah, you can brush on a sauce.
+
+[00:57:18] SPEAKER_09
+Yeah.
+
+[00:57:19] SPEAKER_09
+You can.
+
+[00:57:21] SPEAKER_09
+Yeah, there's a lot, I guess.
+
+[00:57:22] SPEAKER_09
+I just never really thought about it in those terms.
+
+[00:57:24] SPEAKER_09
+I just was really struck by the shaving of it.
+
+[00:57:26] SPEAKER_09
+I was thinking, I was visioning myself in front of a mirror outside, as Gavin does.
+
+[00:57:31] SPEAKER_09
+Uh-huh.
+
+[00:57:32] SPEAKER_09
+Shaving and thinking, this is food.
+
+[00:57:34] SPEAKER_09
+While doing it, like, such a weird.
+
+[00:57:37] SPEAKER_05
+Is there a temperature with which you won't shave outside, Gavin, on either end of the
+
+[00:57:41] SPEAKER_05
+spectrum?
+
+[00:57:41] SPEAKER_05
+Like, is it too hot to shave or too cold to shave outside for you?
+
+[00:57:43] SPEAKER_05
+It's too hot right now, and I get eaten by mosquitoes.
+
+[00:57:47] SPEAKER_07
+Yeah.
+
+[00:57:47] SPEAKER_07
+Why'd you go early?
+
+[00:57:49] SPEAKER_07
+What?
+
+[00:57:50] SPEAKER_07
+Why'd I go early?
+
+[00:57:51] SPEAKER_08
+In the morning, before it's hot.
+
+[00:57:54] SPEAKER_07
+Would that be like 5 a.m.?
+
+[00:57:55] SPEAKER_07
+It's hot immediately.
+
+[00:57:56] SPEAKER_08
+No, it's 7.
+
+[00:57:57] SPEAKER_07
+7's hot.
+
+[00:57:59] SPEAKER_08
+It's warm.
+
+[00:58:00] SPEAKER_08
+He's so far away from his microphone, saying it's warm.
+
+[00:58:06] SPEAKER_04
+It's so funny.
+
+[00:58:06] SPEAKER_03
+It's so funny.
+
+[00:58:08] SPEAKER_07
+My mirror's actually too cloudy to use now, but because I did a video recently where I
+
+[00:58:12] SPEAKER_07
+smashed a bunch of new mirrors, I've now just got a pile of mirror.
+
+[00:58:16] SPEAKER_04
+You can put them in different places.
+
+[00:58:18] SPEAKER_04
+You can put them all outside of your house.
+
+[00:58:20] SPEAKER_04
+You can put them outside of Jeff's house.
+
+[00:58:22] SPEAKER_04
+You can put them outside the office.
+
+[00:58:23] SPEAKER_04
+You can just be shaving anywhere.
+
+[00:58:25] SPEAKER_08
+Your luck must be shit.
+
+[00:58:26] SPEAKER_07
+Yeah, but it's actually really good, though, because if you smash a mirror, you get all
+
+[00:58:34] SPEAKER_07
+the kinds of advanced angles.
+
+[00:58:35] SPEAKER_07
+You get to see yourself from multiple angles at the same time.
+
+[00:58:40] SPEAKER_07
+Plus all the good luck.
+
+[00:58:45] SPEAKER_04
+What do you think, Gavin?
+
+[00:58:46] SPEAKER_04
+What do you think is the unluckiest thing you've done for slow-mo, guys?
+
+[00:58:49] SPEAKER_04
+Do you think it's smashing the mirrors, or have you like slow-mo walked under ladders?
+
+[00:58:53] SPEAKER_04
+That's a great question.
+
+[00:58:54] SPEAKER_04
+Like, made black cats walk around or something?
+
+[00:58:57] SPEAKER_07
+Yeah, I think it's got to be the mirrors, because I've got more bad luck coming than a
+
+[00:59:01] SPEAKER_07
+human lifetime span.
+
+[00:59:04] SPEAKER_07
+Yeah?
+
+[00:59:05] SPEAKER_09
+I mean, one mirror is a lifetime of bad luck, right?
+
+[00:59:09] SPEAKER_09
+No, seven years.
+
+[00:59:09] SPEAKER_09
+Seven years, roughly.
+
+[00:59:11] SPEAKER_09
+Oh, it's seven years?
+
+[00:59:12] SPEAKER_09
+Yeah, roughly a human lifetime.
+
+[00:59:13] SPEAKER_09
+Oh.
+
+[00:59:16] SPEAKER_09
+Interesting.
+
+[00:59:18] SPEAKER_09
+Seven years is such a strangely specific number.
+
+[00:59:20] SPEAKER_05
+Man, that's a big deal, depending on what kind of animal you are.
+
+[00:59:23] SPEAKER_05
+Like, if you're a horse and you break a mirror, seven years is a long time.
+
+[00:59:27] SPEAKER_05
+But if you're a whale or a shark, it's like, I'm a sea turtle.
+
+[00:59:31] SPEAKER_05
+What do I care?
+
+[00:59:32] SPEAKER_05
+A toy.
+
+[00:59:32] SPEAKER_04
+So, if a dog breaks a mirror, is it one human year of bad luck for the dog?
+
+[00:59:39] SPEAKER_04
+Or is it, you know what I mean?
+
+[00:59:41] SPEAKER_04
+Seven dog years.
+
+[00:59:42] SPEAKER_04
+Yeah.
+
+[00:59:42] SPEAKER_09
+Is it like, you know what I mean?
+
+[00:59:44] SPEAKER_09
+I think it has to be years to what you are.
+
+[00:59:47] SPEAKER_09
+Relative years to you?
+
+[00:59:49] SPEAKER_09
+Yeah, I think so.
+
+[00:59:50] SPEAKER_09
+Makes sense.
+
+[00:59:50] SPEAKER_05
+So, if a sea turtle breaks a mirror, it could be like 60 years of bad luck.
+
+[00:59:56] SPEAKER_04
+Yeah, it could be such a long time.
+
+[00:59:58] SPEAKER_04
+A crab would just have like this never-ending luck.
+
+[01:00:00] SPEAKER_07
+This would be terrible.
+
+[01:00:02] SPEAKER_07
+But if like a butterfly broke a mirror, it'd probably have like a rough four minutes.
+
+[01:00:06] SPEAKER_04
+Yeah.
+
+[01:00:06] SPEAKER_04
+Yeah.
+
+[01:00:07] SPEAKER_04
+If a butterfly broke a mirror, yeah.
+
+[01:00:09] SPEAKER_04
+If a butterfly broke a mirror, it would have a rough four minutes.
+
+[01:00:13] SPEAKER_04
+I bet it's happened.
+
+[01:00:14] SPEAKER_04
+You think a butterfly?
+
+[01:00:15] SPEAKER_04
+Is this one of those like butterfly effect, like butterfly in China flaps its wings, cause
+
+[01:00:21] SPEAKER_04
+a tornado kind of deal?
+
+[01:00:23] SPEAKER_07
+Well, I once watched a moth fly into a light and set fire to itself and then try and fly
+
+[01:00:28] SPEAKER_07
+around and it could have started a fire, which could have resulted in a mirror.
+
+[01:00:33] SPEAKER_07
+Although, I guess you're not worried about the luck if you've burnt to death.
+
+[01:00:35] SPEAKER_08
+A fire would have broken the mirror?
+
+[01:00:39] SPEAKER_07
+Well, if your house burns down, Nick, I think the mirrors aren't making it.
+
+[01:00:46] SPEAKER_08
+I think it's shattered though.
+
+[01:00:47] SPEAKER_05
+So, if your house burns down, do you think you have the bad luck of a house burning down,
+
+[01:00:51] SPEAKER_05
+but also you get seven years for every mirror that burned up in the house as well?
+
+[01:00:55] SPEAKER_05
+Damn.
+
+[01:00:55] SPEAKER_05
+Yeah, I think if the fire was your fault, you'd go on to the end of it.
+
+[01:00:58] SPEAKER_05
+You've got to count your mirrors in your head and see how much...
+
+[01:01:00] SPEAKER_05
+It's like an additional sentence you get tacked on.
+
+[01:01:03] SPEAKER_05
+Yeah.
+
+[01:01:04] SPEAKER_08
+I feel like the bad luck happened at that point.
+
+[01:01:07] SPEAKER_07
+Nick, did you say it...
+
+[01:01:08] SPEAKER_07
+What?
+
+[01:01:10] SPEAKER_07
+If your house burnt down, they would shatter, not break?
+
+[01:01:13] SPEAKER_07
+No.
+
+[01:01:13] SPEAKER_07
+What did you say?
+
+[01:01:14] SPEAKER_08
+No, I was saying I felt like the rule about breaking a mirror applied to shattering it
+
+[01:01:18] SPEAKER_08
+as opposed to just...
+
+[01:01:19] SPEAKER_08
+Melting it?
+
+[01:01:20] SPEAKER_08
+Melting it, yeah.
+
+[01:01:21] SPEAKER_07
+You don't think it would shatter in a fire?
+
+[01:01:23] SPEAKER_08
+We should find out.
+
+[01:01:24] SPEAKER_07
+I don't think it would melt.
+
+[01:01:26] SPEAKER_05
+Does a mirror shatter or melt in a fire?
+
+[01:01:34] SPEAKER_05
+A standard glass mirror will shatter rather than melt when it explodes to direct heat.
+
+[01:01:39] SPEAKER_05
+You're fucked.
+
+[01:01:40] SPEAKER_05
+Thermal shock.
+
+[01:01:41] SPEAKER_05
+Thermal shock.
+
+[01:01:44] SPEAKER_04
+That can be on our album.
+
+[01:01:46] SPEAKER_04
+Thermal shock?
+
+[01:01:47] SPEAKER_04
+Yeah, track five, thermal shock.
+
+[01:01:48] SPEAKER_04
+People will think Stone Cold is coming out.
+
+[01:01:50] SPEAKER_09
+Oh, hell yeah.
+
+[01:01:51] SPEAKER_04
+The track will just end.
+
+[01:01:52] SPEAKER_04
+What?
+
+[01:01:52] SPEAKER_05
+Now we're talking.
+
+[01:01:58] SPEAKER_05
+My wife got revenge on me the other night in a way that I didn't see coming, and I'm
+
+[01:02:05] SPEAKER_05
+still upset about.
+
+[01:02:07] SPEAKER_99
+Oh!
+
+[01:02:07] SPEAKER_05
+Like four days ago, she bought a little surround sound system for her upstairs TV in her little
+
+[01:02:13] SPEAKER_05
+craft area, and I set it up, and it's kind of nice.
+
+[01:02:17] SPEAKER_05
+And so we were like, we should watch a movie up here.
+
+[01:02:19] SPEAKER_05
+We should watch like an action movie or something, and she was like, yeah, sure, just put something
+
+[01:02:22] SPEAKER_05
+on.
+
+[01:02:22] SPEAKER_05
+Pick whatever.
+
+[01:02:22] SPEAKER_05
+Put something on.
+
+[01:02:23] SPEAKER_05
+So I picked The Furious, and I put that on, which she said was just two and a half hours
+
+[01:02:28] SPEAKER_05
+of guys grunting, and she lost interest almost immediately, but she was kind enough to let
+
+[01:02:33] SPEAKER_05
+me finish watching the movie, even though she left at some point, and I was just upstairs
+
+[01:02:36] SPEAKER_05
+and heard.
+
+[01:02:37] SPEAKER_09
+Didn't she have a podcast about two and a half hours of guys grunting?
+
+[01:02:40] SPEAKER_05
+She did, but she doesn't do it anymore.
+
+[01:02:43] SPEAKER_05
+And so the next night, we were laying in bed, and she was like, let's watch a movie, but
+
+[01:02:49] SPEAKER_05
+can you put any, no guys grunting, can we put something that's not fucking people kicking,
+
+[01:02:54] SPEAKER_05
+just something funny, can we put a comedy on?
+
+[01:02:56] SPEAKER_05
+And as a joke, I said, I was scrolling through like Amazon or Netflix, and I went, hey, Paul
+
+[01:03:00] SPEAKER_05
+Blart 2 is on.
+
+[01:03:01] SPEAKER_05
+You want to watch that?
+
+[01:03:02] SPEAKER_05
+And she goes, yes, I want to watch Paul Blart 2.
+
+[01:03:04] SPEAKER_05
+Let's watch Paul Blart 2.
+
+[01:03:05] SPEAKER_05
+And I was like, oh, fuck.
+
+[01:03:06] SPEAKER_05
+Oh, really?
+
+[01:03:07] SPEAKER_05
+And she was like, yes.
+
+[01:03:08] SPEAKER_05
+And so I put that on, and then I realized about 15 minutes in, she was asleep, and I
+
+[01:03:15] SPEAKER_05
+ended up watching the whole fucking movie.
+
+[01:03:17] SPEAKER_07
+Dude, come on.
+
+[01:03:18] SPEAKER_07
+Terrible, all the way through.
+
+[01:03:20] SPEAKER_07
+Didn't we watch that together on a plane once, like we synced up our movies on the
+
+[01:03:23] SPEAKER_07
+back of the chair?
+
+[01:03:24] SPEAKER_05
+It felt vaguely familiar, and maybe that's why.
+
+[01:03:28] SPEAKER_05
+Yeah, because I know I've never seen the first one before, but he's like on vacation in
+
+[01:03:32] SPEAKER_05
+Vegas.
+
+[01:03:33] SPEAKER_05
+Does that sound familiar to you, Gavin?
+
+[01:03:34] SPEAKER_05
+And then he busts like an art theft ring.
+
+[01:03:36] SPEAKER_05
+Yeah, it's real bad.
+
+[01:03:38] SPEAKER_05
+Although, there is one line where when he succeeds, he says, always bet on Blart, and
+
+[01:03:46] SPEAKER_05
+I must admit that made me laugh.
+
+[01:03:49] SPEAKER_05
+That was the only laugh in the entire film for me, but yeah, I think she admitted that
+
+[01:03:56] SPEAKER_05
+she kind of did it on purpose the next day.
+
+[01:03:57] SPEAKER_04
+Damn, that's fucked up.
+
+[01:03:58] SPEAKER_04
+Okay, Gavin posted a picture of watching Paul Blart Mall Cop 2 on a plane.
+
+[01:04:02] SPEAKER_04
+That's amazing.
+
+[01:04:04] SPEAKER_07
+That's crazy.
+
+[01:04:05] SPEAKER_07
+Jeff was watching it on the seat next to me, and we both hit play at the same time, and
+
+[01:04:09] SPEAKER_07
+we would both pause it at the same time as well.
+
+[01:04:14] SPEAKER_05
+Wow.
+
+[01:04:14] SPEAKER_09
+Have you seen Paul Blart Mall Cop 2 twice?
+
+[01:04:17] SPEAKER_05
+Apparently, I have.
+
+[01:04:18] SPEAKER_05
+That makes a lot of sense, because I was like, surely I've never seen this before, but how
+
+[01:04:23] SPEAKER_05
+do I know what's coming up?
+
+[01:04:24] SPEAKER_05
+It's not that, it's not, you know, it's not that telegraphed.
+
+[01:04:29] SPEAKER_05
+Apparently, I have seen the movie before.
+
+[01:04:30] SPEAKER_05
+Oh, man.
+
+[01:04:31] SPEAKER_05
+Holy shit.
+
+[01:04:32] SPEAKER_05
+Do you know when that was?
+
+[01:04:34] SPEAKER_05
+Uh, 2016?
+
+[01:04:37] SPEAKER_07
+Oh, you're actually not far off.
+
+[01:04:38] SPEAKER_07
+2015.
+
+[01:04:39] SPEAKER_07
+September 21st.
+
+[01:04:39] SPEAKER_07
+Whoa, was it really?
+
+[01:04:40] SPEAKER_07
+Wow.
+
+[01:04:40] SPEAKER_07
+I wonder where we were going.
+
+[01:04:41] SPEAKER_07
+11 years.
+
+[01:04:41] SPEAKER_07
+What we were doing.
+
+[01:04:43] SPEAKER_07
+I don't know.
+
+[01:04:43] SPEAKER_07
+I don't have a, I'm annoyed I don't have a picture of like both of our screens together.
+
+[01:04:47] SPEAKER_07
+The picture next to this one is you just on your phone.
+
+[01:04:50] SPEAKER_05
+I was so young, man.
+
+[01:04:55] SPEAKER_08
+You look thrilled.
+
+[01:04:55] SPEAKER_08
+Yeah.
+
+[01:04:56] SPEAKER_05
+Uh, yeah, that's the, that's my, the achievement hunter hunch.
+
+[01:05:00] SPEAKER_05
+Yeah.
+
+[01:05:01] SPEAKER_09
+It's sort of funny to think about that travel, air travel has become so commonplace that you
+
+[01:05:07] SPEAKER_09
+flew across the sky to go on some adventure.
+
+[01:05:10] SPEAKER_09
+And the only photo you have immediate, your, your thing is a script is a photo of Paul
+
+[01:05:15] SPEAKER_09
+Blart mall cop, a screen of it.
+
+[01:05:20] SPEAKER_07
+Yeah.
+
+[01:05:20] SPEAKER_07
+I remember, I remember the trip more than what we were actually doing.
+
+[01:05:23] SPEAKER_05
+That's crazy.
+
+[01:05:25] SPEAKER_05
+Wow.
+
+[01:05:26] SPEAKER_05
+Well, let me, let me tell you, it didn't, it didn't get better with age.
+
+[01:05:30] SPEAKER_05
+I don't remember how much we really the first time around, but, uh, well, I wouldn't
+
+[01:05:33] SPEAKER_05
+recommend running out and watching Paul Blart too.
+
+[01:05:35] SPEAKER_09
+I'd go to a movie review site called not a fine wine and it's just movies that haven't
+
+[01:05:41] SPEAKER_05
+aged any better, but it's gotta be movies that didn't age well, that didn't launch well
+
+[01:05:47] SPEAKER_05
+and also haven't aged.
+
+[01:05:48] SPEAKER_05
+Yes.
+
+[01:05:48] SPEAKER_05
+Bad both on both ends.
+
+[01:05:50] SPEAKER_05
+You have so many pictures of me on my phone.
+
+[01:05:52] SPEAKER_07
+I guess on the way back we had someone between us.
+
+[01:05:55] SPEAKER_07
+What I was looking for was that, um, I don't know if we ever posted it, but there was a time
+
+[01:05:59] SPEAKER_07
+where we sat down, you're going to watch something.
+
+[01:06:01] SPEAKER_07
+You pulled your headphones out of your pocket and I must've looked away from them for like
+
+[01:06:06] SPEAKER_07
+two seconds.
+
+[01:06:07] SPEAKER_07
+And then they were tangled in a knot that took you about 25 minutes.
+
+[01:06:12] SPEAKER_07
+And I've got, I've got a video of the whole thing of you doing everything you can not to
+
+[01:06:17] SPEAKER_07
+just rip them apart.
+
+[01:06:19] SPEAKER_05
+I feel like it should make me more uncomfortable than it does that you have so many videos
+
+[01:06:27] SPEAKER_05
+of me that I don't know about.
+
+[01:06:28] SPEAKER_05
+There's a lot of my life you've chronicled that you have, I have a feeling I have no
+
+[01:06:32] SPEAKER_05
+idea.
+
+[01:06:33] SPEAKER_05
+I think you do at the time.
+
+[01:06:35] SPEAKER_05
+Yeah.
+
+[01:06:36] SPEAKER_05
+I guarantee you it didn't remember.
+
+[01:06:40] SPEAKER_06
+Oh Christ.
+
+[01:06:41] SPEAKER_06
+What an episode.
+
+[01:06:43] SPEAKER_05
+We learned a lot.
+
+[01:06:44] SPEAKER_05
+Jeff, I'm going to look into shaved ice now.
+
+[01:06:46] SPEAKER_05
+Hot dog ice trays.
+
+[01:06:48] SPEAKER_05
+Shaved ice.
+
+[01:06:48] SPEAKER_05
+Yeah.
+
+[01:06:49] SPEAKER_05
+Shaved ice at home, man.
+
+[01:06:50] SPEAKER_05
+It's a, it's, it's a light, it's a game changer.
+
+[01:06:53] SPEAKER_05
+Especially if you live in Texas.
+
+[01:06:54] SPEAKER_05
+I think anywhere.
+
+[01:06:55] SPEAKER_07
+Do you think you'll be using it a year from now or would it be long forgotten?
+
+[01:07:00] SPEAKER_05
+That's a great question.
+
+[01:07:02] SPEAKER_05
+That is a great question.
+
+[01:07:03] SPEAKER_05
+And I don't know the answer to that.
+
+[01:07:05] SPEAKER_05
+Cause I, you know, I think like a lot of people, I have a propensity for getting really
+
+[01:07:09] SPEAKER_05
+into something briefly and, you know, doing it every day for like three weeks and then
+
+[01:07:14] SPEAKER_05
+forgetting about it.
+
+[01:07:15] SPEAKER_05
+But I will say I've maintained my enthusiasm for soda streaming all this time.
+
+[01:07:19] SPEAKER_05
+So maybe I can maintain my enthusiasm for shaved ice.
+
+[01:07:22] SPEAKER_05
+I definitely, I'm not going to, I'm definitely not going to get sick of eating it.
+
+[01:07:25] SPEAKER_09
+I think you have a lifetime of enthusiasm of shaved ice and now the ability to make it
+
+[01:07:29] SPEAKER_09
+at home and you will continue to get hot every summer.
+
+[01:07:33] SPEAKER_09
+So I think this might stick around.
+
+[01:07:34] SPEAKER_05
+I was in bed last night on my phone at like 10 30 and I was just, I was just laying there
+
+[01:07:40] SPEAKER_05
+thinking there's a shaved ice machine like eight feet away from me.
+
+[01:07:45] SPEAKER_05
+All I got to do is, Oh, I'm already out of bed.
+
+[01:07:47] SPEAKER_05
+I'm already in the kitchen.
+
+[01:07:48] SPEAKER_05
+I didn't even finish the thought.
+
+[01:07:49] SPEAKER_05
+I was already making shaved ice.
+
+[01:07:50] SPEAKER_05
+Ate it and went back to bed with my shaved ice, ate it in bed.
+
+[01:07:53] SPEAKER_05
+It was amazing.
+
+[01:07:55] SPEAKER_07
+Oh, I found out what we were doing.
+
+[01:07:57] SPEAKER_07
+We were playing this game.
+
+[01:08:00] SPEAKER_05
+Assassin's Creed Snicket.
+
+[01:08:02] SPEAKER_05
+Yeah.
+
+[01:08:03] SPEAKER_07
+Interesting.
+
+[01:08:04] SPEAKER_07
+Play it early or something.
+
+[01:08:06] SPEAKER_05
+I, where would that have been?
+
+[01:08:09] SPEAKER_05
+San Francisco, I guess.
+
+[01:08:11] SPEAKER_07
+Yeah.
+
+[01:08:11] SPEAKER_07
+I'm quite concerned.
+
+[01:08:13] SPEAKER_07
+Eric, you were talking about just getting your tire done recently.
+
+[01:08:16] SPEAKER_07
+Yeah.
+
+[01:08:17] SPEAKER_07
+You didn't, you didn't put that on the business card, did you?
+
+[01:08:20] SPEAKER_07
+No.
+
+[01:08:20] SPEAKER_07
+Why?
+
+[01:08:21] SPEAKER_07
+Cause I just saw a transaction for the company that we use for our business cards, but I also
+
+[01:08:28] SPEAKER_07
+use it for my business and it says a tire service for $2,600.
+
+[01:08:34] SPEAKER_07
+Whoa, that's not right.
+
+[01:08:36] SPEAKER_07
+Where did you see that?
+
+[01:08:38] SPEAKER_07
+It just came in on my, on my like Apple wallet.
+
+[01:08:42] SPEAKER_07
+But no, no blacked my fricking card again.
+
+[01:08:46] SPEAKER_07
+It's going to be like the seventh effing shit bull card.
+
+[01:08:50] SPEAKER_04
+I've gone because someone can't do my information.
+
+[01:08:53] SPEAKER_04
+My, my tire service was $22 about a month and a half ago.
+
+[01:08:58] SPEAKER_04
+I haven't had a tire service.
+
+[01:09:00] SPEAKER_04
+You didn't even have a car.
+
+[01:09:01] SPEAKER_05
+Well, yeah, it's weird.
+
+[01:09:02] SPEAKER_05
+Cause your car is my car and I haven't had a tire.
+
+[01:09:03] SPEAKER_04
+Well, I guess we should, I guess we should wrap this up.
+
+[01:09:09] SPEAKER_04
+So Gavin could figure this out, huh?
+
+[01:09:11] SPEAKER_04
+Cause, uh, is that a full set?
+
+[01:09:13] SPEAKER_04
+That's gotta be like at least four tires.
+
+[01:09:15] SPEAKER_04
+That's, that's four very expensive tires.
+
+[01:09:17] SPEAKER_04
+Those are good tires.
+
+[01:09:18] SPEAKER_99
+Top of the line, baby.
+
+[01:09:20] SPEAKER_05
+I mean, spare no expense for Gavin.
+
+[01:09:22] SPEAKER_05
+I guess.
+
+[01:09:23] SPEAKER_05
+Spare no.
+
+[01:09:23] SPEAKER_05
+Wow.
+
+[01:09:23] SPEAKER_05
+Wow.
+
+[01:09:24] SPEAKER_05
+Okay.
+
+[01:09:25] SPEAKER_05
+Wow.
+
+[01:09:25] SPEAKER_05
+Okay.
+
+[01:09:25] SPEAKER_04
+So I guess Gavin gets to pick.
+
+[01:09:27] SPEAKER_04
+He wants the expensive tires.
+
+[01:09:28] SPEAKER_04
+I get it.
+
+[01:09:33] SPEAKER_05
+You know what, Gavin?
+
+[01:09:34] SPEAKER_05
+You're worth it.
+
+[01:09:35] SPEAKER_05
+And also if you're offering me four new tires, I'll tell, I'll take you up on it.
+
+[01:09:40] SPEAKER_09
+But Dan potentially be getting his tires done at 6 PM.
+
+[01:09:44] SPEAKER_07
+Ooh.
+
+[01:09:44] SPEAKER_07
+Yeah.
+
+[01:09:44] SPEAKER_07
+Is it Dan?
+
+[01:09:45] SPEAKER_07
+Ooh.
+
+[01:09:45] SPEAKER_07
+Ooh.
+
+[01:09:47] SPEAKER_07
+Uh, where is, where's Charles Ramsey tire service?
+
+[01:09:53] SPEAKER_08
+This sounds suspicious.
+
+[01:09:55] SPEAKER_07
+Is that in England or is that around here?
+
+[01:09:59] SPEAKER_09
+So you're saying that Eric claimed that he'd had a tire.
+
+[01:10:02] SPEAKER_09
+And you're getting charged from a Ramsey tire service.
+
+[01:10:08] SPEAKER_05
+Michigan.
+
+[01:10:09] SPEAKER_05
+I ain't been there recently.
+
+[01:10:11] SPEAKER_05
+You sure you haven't been in Grand Rapids, Michigan recently?
+
+[01:10:14] SPEAKER_05
+Oh, son of a bitch.
+
+[01:10:17] SPEAKER_05
+Oh, Wyoming, Michigan.
+
+[01:10:19] SPEAKER_07
+Oh, no.
+
+[01:10:20] SPEAKER_05
+It's so annoying.
+
+[01:10:22] SPEAKER_05
+What happened?
+
+[01:10:23] SPEAKER_08
+What's happening to you, man?
+
+[01:10:27] SPEAKER_05
+Wow.
+
+[01:10:28] SPEAKER_05
+Hey, they're open till five.
+
+[01:10:29] SPEAKER_05
+If you want to call them and see what's up.
+
+[01:10:31] SPEAKER_07
+I have their number.
+
+[01:10:33] SPEAKER_07
+I should call them and say, did I just, did I?
+
+[01:10:36] SPEAKER_07
+Who just used my card?
+
+[01:10:38] SPEAKER_07
+Yeah.
+
+[01:10:38] SPEAKER_07
+Yeah.
+
+[01:10:39] SPEAKER_07
+Cool.
+
+[01:10:39] SPEAKER_09
+Let's wrap.
+
+[01:10:40] SPEAKER_09
+Let's do this.
+
+[01:10:41] SPEAKER_09
+Gavin has a crime to solve.
+
+[01:10:43] SPEAKER_05
+All right.
+
+[01:10:43] SPEAKER_05
+Well, thank you for listening to another episode of the regulation podcast.
+
+[01:10:46] SPEAKER_05
+We have to get going now because crime is afoot.
+
+[01:10:51] SPEAKER_05
+We are on the case.
+
+[01:10:53] SPEAKER_05
+The mystery must be solved.
+
+[01:10:54] SPEAKER_05
+We're going to get to the bottom of this Sherlock Holmes style, and then we'll tell you all about
+
+[01:10:58] SPEAKER_05
+it next week.
+
+[01:10:58] SPEAKER_05
+Or we'll forget about it and you'll never hear another word about this again.
+
+[01:11:03] SPEAKER_05
+We'll see you next time.
+
+[01:11:03] SPEAKER_05
+Bye-bye.
+
+[01:11:04] SPEAKER_09
+Bye.
+
+[01:11:04] SPEAKER_09
+Bye.
+
+[01:11:05] SPEAKER_99
+Bye.
+
+[01:11:05] SPEAKER_99
+Bye.
+
+[01:11:05] SPEAKER_99
+Bye.

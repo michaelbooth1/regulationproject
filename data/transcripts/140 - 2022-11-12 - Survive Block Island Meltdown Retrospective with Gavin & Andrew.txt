@@ -1,0 +1,4656 @@
+# Episode 140: Survive Block Island: Meltdown Retrospective with Gavin & Andrew
+published: 2022-11-12T08:00:00+00:00  |  duration: 01:09:43
+source: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER1638706045.mp3?updated=1774130361
+transcribed: 2026-08-07T16:12:25.513756-04:00  |  model: large-v3-turbo
+diarization: pyannote/speaker-diarization-3.1
+
+
+[00:00:09] SPEAKER_03
+Hello, and welcome to another episode of Supplemental Content.
+
+[00:00:15] SPEAKER_03
+Okay.
+
+[00:00:16] SPEAKER_03
+Is that not, would you like, I can do it differently?
+
+[00:00:18] SPEAKER_03
+No, that was fun.
+
+[00:00:18] SPEAKER_03
+Hey, what's up, everybody? It's Geoff from F**kface.
+
+[00:00:21] SPEAKER_03
+Along with me, I got Eric and Andrew and Gavin, and we're doing a piece of supplemental content.
+
+[00:00:27] SPEAKER_03
+Or I could do like, hey, it's supplemental content time with your old pals of F**kface.
+
+[00:00:31] SPEAKER_03
+We talked about this a while ago, doing a supplemental episode.
+
+[00:00:35] SPEAKER_04
+What show, what show do you listen to where they go, hey, what's up, it's supplemental content.
+
+[00:00:40] SPEAKER_04
+Well, you start it off then.
+
+[00:00:42] SPEAKER_04
+Guys, welcome to a very special F**kface episode.
+
+[00:00:46] SPEAKER_04
+It's Andrew and Gavin, both participants in Survive Block Island Meltdown.
+
+[00:00:52] SPEAKER_04
+And we have here Geoff Ramsey, who can help lead this conversation.
+
+[00:00:56] SPEAKER_04
+Guys, it's been a while since we've been doing Survive Block Island.
+
+[00:01:01] SPEAKER_04
+And I know that some people may have forgotten some things, alliances, things that happen in the show.
+
+[00:01:07] SPEAKER_04
+But Gavin and Andrew have a lot to dig into here.
+
+[00:01:10] SPEAKER_04
+When does this come out?
+
+[00:01:11] SPEAKER_04
+Is this after the show's ended?
+
+[00:01:12] SPEAKER_04
+This will have to come out after the show's ended.
+
+[00:01:15] SPEAKER_04
+So you speak freely.
+
+[00:01:16] SPEAKER_04
+See, so it's like that.
+
+[00:01:16] SPEAKER_04
+So I didn't even say supplemental one time.
+
+[00:01:18] SPEAKER_04
+Oh, okay.
+
+[00:01:18] SPEAKER_04
+Yeah.
+
+[00:01:19] SPEAKER_04
+But it is supplemental content.
+
+[00:01:20] SPEAKER_04
+But it is supplemental.
+
+[00:01:21] SPEAKER_04
+I understand, but you don't have to say that it's supplemental.
+
+[00:01:24] SPEAKER_03
+How about this?
+
+[00:01:24] SPEAKER_04
+Yeah.
+
+[00:01:25] SPEAKER_03
+Supplemental.
+
+[00:01:26] SPEAKER_03
+Hey, what's up?
+
+[00:01:27] SPEAKER_03
+It's Geoff and the F***ing Face crew.
+
+[00:01:29] SPEAKER_03
+And a while back, we talked about doing a supplemental episode where Gavin and Andrew discuss the particulars,
+
+[00:01:36] SPEAKER_03
+get down and dirty about their experience performing together and against each other on Survive Block Island Meltdown,
+
+[00:01:42] SPEAKER_03
+which is a survivor-inspired Minecraft show that we filmed that's available on the Roost Teeth website.
+
+[00:01:52] SPEAKER_03
+Is that good?
+
+[00:01:53] SPEAKER_03
+Yeah, I thought that was great.
+
+[00:01:54] SPEAKER_03
+Yeah, it's perfect.
+
+[00:01:55] SPEAKER_02
+I would like to know, Gavin, what was your prep going in?
+
+[00:01:57] SPEAKER_02
+We can kind of contrast with each other what we did.
+
+[00:02:00] SPEAKER_06
+My prep going in was making sure I didn't have any other work to do that week so I could film for a week on Survive Block Island.
+
+[00:02:10] SPEAKER_02
+You did more than that, though.
+
+[00:02:11] SPEAKER_02
+You watched the first season, didn't you?
+
+[00:02:12] SPEAKER_06
+I watched season one of Survive Block Island.
+
+[00:02:15] SPEAKER_06
+That was probably the only research I did.
+
+[00:02:17] SPEAKER_06
+What did you think of it?
+
+[00:02:18] SPEAKER_06
+I thought it was great.
+
+[00:02:19] SPEAKER_06
+Let me ask you a question.
+
+[00:02:20] SPEAKER_03
+Who did you, like going in, who did you think was going to win?
+
+[00:02:22] SPEAKER_03
+Well, I knew who won because it got spoiled for me.
+
+[00:02:27] SPEAKER_03
+Did I spoil it?
+
+[00:02:28] SPEAKER_06
+Because apparently I'm spoiling it for a lot of people.
+
+[00:02:29] SPEAKER_06
+You might have done, actually.
+
+[00:02:31] SPEAKER_06
+I remember thinking, oh, maybe because obviously I knew I was going to play.
+
+[00:02:35] SPEAKER_06
+And I thought, oh, I might be at an advantage here because I'm noticing a lot of these games are shit that I built once with you.
+
+[00:02:43] SPEAKER_03
+Yeah, you and I invented a lot of the, we're like the genesis for a lot of the games in season one.
+
+[00:02:49] SPEAKER_06
+Yeah, and then I saw the credits go by.
+
+[00:02:51] SPEAKER_06
+My name wasn't in there for, you know, like Map Origin Builder.
+
+[00:02:54] SPEAKER_06
+And I thought, well, damn.
+
+[00:02:56] SPEAKER_06
+Was my name in there for Map Origin Builder?
+
+[00:02:58] SPEAKER_06
+Well, I mean, your name was all over it in other places.
+
+[00:03:01] SPEAKER_06
+Like someone who built a lot of the challenges.
+
+[00:03:03] SPEAKER_03
+I didn't get credit for building the challenges either.
+
+[00:03:06] SPEAKER_06
+I'm not really supposed to.
+
+[00:03:07] SPEAKER_06
+People will get real worked up about credits.
+
+[00:03:09] SPEAKER_06
+I was talking to Meg about it.
+
+[00:03:12] SPEAKER_06
+She's like, why isn't your name in there?
+
+[00:03:13] SPEAKER_06
+I was like, oh, I don't know.
+
+[00:03:14] SPEAKER_03
+Should I be mad?
+
+[00:03:15] SPEAKER_03
+No.
+
+[00:03:16] SPEAKER_03
+I didn't even know I was in the credits.
+
+[00:03:19] SPEAKER_03
+But to be fair, you certainly had a 50% hand in the creation of anything that I had a hand in.
+
+[00:03:31] SPEAKER_03
+Jesus, dude.
+
+[00:03:33] SPEAKER_03
+Do you still think that water looks good, Andrew?
+
+[00:03:35] SPEAKER_03
+No.
+
+[00:03:36] SPEAKER_03
+No, I'm glad.
+
+[00:03:37] SPEAKER_03
+I'm glad I don't have it.
+
+[00:03:38] SPEAKER_03
+But just to let it be known, like anything I've ever built in Minecraft was 50% cabin.
+
+[00:03:43] SPEAKER_03
+Like it's never been just me.
+
+[00:03:44] SPEAKER_03
+We were a package deal.
+
+[00:03:46] SPEAKER_06
+And we were pretty, we got on pretty well, except for the Obsidian, I think, was the one time we fucking blew it.
+
+[00:03:54] SPEAKER_06
+Did you enjoy it?
+
+[00:03:56] SPEAKER_06
+Like were you surprised at how good it was?
+
+[00:03:58] SPEAKER_06
+I was surprised at how robust the game is as a whole.
+
+[00:04:02] SPEAKER_06
+Like just Survivor as a game is amazing and how easily it can be adapted into Minecraft.
+
+[00:04:08] SPEAKER_06
+And the fact that there's like actual Minecraft items that you can use to represent a Survivor specific thing and it works in an actual way.
+
+[00:04:16] SPEAKER_06
+I thought the visuals of like the heads was so good.
+
+[00:04:19] SPEAKER_06
+That's not something you get in the real Survivor.
+
+[00:04:21] SPEAKER_06
+Yeah, I thought it was great overall.
+
+[00:04:23] SPEAKER_06
+I think it's a testament.
+
+[00:04:24] SPEAKER_03
+The production was amazing.
+
+[00:04:25] SPEAKER_03
+A testament to how well crafted Survivor as a game is.
+
+[00:04:29] SPEAKER_03
+Like it is a part, like the mechanics of Survivor are almost perfect.
+
+[00:04:33] SPEAKER_03
+Like it's really hard to break the game.
+
+[00:04:35] SPEAKER_03
+And then Minecraft is just uniquely suited.
+
+[00:04:38] SPEAKER_03
+It's like that kind of sandbox.
+
+[00:04:39] SPEAKER_03
+And there really isn't another, like there's not another game out there that we could have done it that would have worked with as much parity.
+
+[00:04:44] SPEAKER_06
+And with all the mods added in, like the proxy chat and stuff works so well.
+
+[00:04:48] SPEAKER_06
+The fact that you could walk off on your own and you actually feel alone as voices faded into the distance.
+
+[00:04:53] SPEAKER_06
+That was really cool.
+
+[00:04:54] SPEAKER_06
+Fun fact.
+
+[00:04:56] SPEAKER_03
+That worked very well in season two.
+
+[00:04:57] SPEAKER_03
+Broke immediately in season one.
+
+[00:04:59] SPEAKER_03
+We were manually pulling people out of chats and putting them in Discord chats and stuff.
+
+[00:05:04] SPEAKER_06
+It was a nightmare.
+
+[00:05:05] SPEAKER_06
+It seems like a nightmare because I was using it to judge who could hear me or not.
+
+[00:05:08] SPEAKER_06
+Like I would edge up to someone closer to me and then I would edge forward to see, to listen to the people further on.
+
+[00:05:14] SPEAKER_06
+And then I would edge back to, then I would know that only the person I'm looking at can hear me.
+
+[00:05:19] SPEAKER_06
+They'll be trying to get their attention.
+
+[00:05:20] SPEAKER_02
+Did they have that knowledge of who is in the chats in season one?
+
+[00:05:23] SPEAKER_02
+Because I feel like that's a level of paranoia that that cast may not have had to deal with.
+
+[00:05:27] SPEAKER_03
+I don't remember, but I do remember, the thing I do remember is we would watch people like foraging off in the wilderness looking for totems.
+
+[00:05:34] SPEAKER_03
+And we would have conversations like, okay, is Alfredo too far away from Joe to hear him have that conversation with Barb?
+
+[00:05:41] SPEAKER_03
+Yeah, pull him out, pull him out, pull him out.
+
+[00:05:43] SPEAKER_03
+And they're like, no, put him back and back and back.
+
+[00:05:44] SPEAKER_03
+It was a very painful, painstaking manual process.
+
+[00:05:47] SPEAKER_03
+I don't remember what their purview was, but just that it was a nightmare on the production end.
+
+[00:05:51] SPEAKER_03
+And I'm so glad they fixed it for season two.
+
+[00:05:53] SPEAKER_03
+Yeah, it went really well.
+
+[00:05:54] SPEAKER_03
+It was awesome.
+
+[00:05:55] SPEAKER_03
+How about you, Andrew?
+
+[00:05:56] SPEAKER_03
+What was your prep?
+
+[00:05:57] SPEAKER_02
+Okay, so in the way, we have a little bit different relationship.
+
+[00:06:03] SPEAKER_03
+Do you not know about his prep?
+
+[00:06:04] SPEAKER_03
+I mean, I know he watched some live streams of the competitors.
+
+[00:06:08] SPEAKER_03
+I don't know about this.
+
+[00:06:09] SPEAKER_02
+This is my prep.
+
+[00:06:10] SPEAKER_02
+This is incredible.
+
+[00:06:12] SPEAKER_02
+We have a different relationship with Survivor.
+
+[00:06:14] SPEAKER_02
+I love the game of Survivor.
+
+[00:06:16] SPEAKER_02
+You know, I'm not comparing myself at all to like a Tom Brady or like Peyton Manning,
+
+[00:06:20] SPEAKER_02
+but their obsession with football is like what I have with Survivor.
+
+[00:06:25] SPEAKER_02
+Like, I just love the game and I study it and I do a lot of things.
+
+[00:06:28] SPEAKER_02
+Survivor is largely a game about knowledge.
+
+[00:06:31] SPEAKER_02
+So my first level of prep was I needed to figure out who the cast is,
+
+[00:06:34] SPEAKER_02
+because I don't know a lot of people outside of the small bubble I'm in within Rooster Teeth.
+
+[00:06:39] SPEAKER_02
+So I figured I'd have no idea who any of these people are.
+
+[00:06:42] SPEAKER_02
+And for how fast we film, we would shoot typically two episodes per day.
+
+[00:06:46] SPEAKER_02
+It's a five-day shoot.
+
+[00:06:48] SPEAKER_02
+I didn't think I'd have a lot of time to socially try to break into relationships that already existed
+
+[00:06:54] SPEAKER_02
+or unwind them in some way.
+
+[00:06:56] SPEAKER_02
+So the first thing I did was they sent us this folder to submit our skins so they could release a trailer for Survive Block Island Meltdown.
+
+[00:07:05] SPEAKER_02
+I was checking that folder every single day, looking to see who would add to it.
+
+[00:07:10] SPEAKER_02
+So I'd know who the cast was ahead of time.
+
+[00:07:12] SPEAKER_02
+So I'd have more prep.
+
+[00:07:13] SPEAKER_02
+What the fuck?
+
+[00:07:14] SPEAKER_02
+That was the first layer.
+
+[00:07:16] SPEAKER_02
+How useful is that?
+
+[00:07:18] SPEAKER_06
+This is tip of the iceberg.
+
+[00:07:18] SPEAKER_02
+I heard other people say like, oh, I didn't know what the cast was until the trailer.
+
+[00:07:23] SPEAKER_02
+I was like, I was so far ahead in that aspect.
+
+[00:07:25] SPEAKER_02
+I was checking every day to see who it was.
+
+[00:07:27] SPEAKER_02
+Then once I had everybody, it was like, great.
+
+[00:07:29] SPEAKER_02
+I don't want anyone to know that I'm like doing research on people.
+
+[00:07:33] SPEAKER_02
+So once the trailer came out, I followed everybody on the cast and I put tweet notifications for every single person
+
+[00:07:40] SPEAKER_02
+because I just wanted to see everything that they were talking about going into the shoot.
+
+[00:07:44] SPEAKER_02
+Once I did that, I then wanted to know roughly how much everybody knew about the game of Survivor as a whole
+
+[00:07:52] SPEAKER_02
+because it changes the depth of strategy and possible options and just familiarity.
+
+[00:07:57] SPEAKER_02
+So everybody who Twitch streamed, I watched everyone's first Twitch stream to where they reacted to it.
+
+[00:08:04] SPEAKER_02
+And I got pretty useful information from that, from people either being like, I'm not really familiar with Survivor or the cast
+
+[00:08:10] SPEAKER_02
+or like Lexi, who is on the cast, said, I love Meg.
+
+[00:08:13] SPEAKER_02
+I don't trust her in Survivor, which was something I just had in my back pocket and knew that I could talk to Meg about if I needed to.
+
+[00:08:21] SPEAKER_02
+Be like, hey, I listened to this.
+
+[00:08:22] SPEAKER_02
+She will not trust you.
+
+[00:08:24] SPEAKER_02
+I want to trust you.
+
+[00:08:24] SPEAKER_02
+It was a way for me to build trust.
+
+[00:08:25] SPEAKER_06
+He knew all of the alliances before we'd even joined the game, before we joined the show.
+
+[00:08:30] SPEAKER_03
+Did he know the alliances before they were made?
+
+[00:08:32] SPEAKER_03
+Like, just like, he's just like, I assume this will happen?
+
+[00:08:35] SPEAKER_03
+Yes.
+
+[00:08:36] SPEAKER_02
+Yeah, I kind of could tell because what I did was I followed everybody and then I looked at who everybody followed
+
+[00:08:41] SPEAKER_02
+and I made a spreadsheet of who followed who.
+
+[00:08:44] SPEAKER_02
+So that would give me a general understanding of who had previous relationships going into the game.
+
+[00:08:49] SPEAKER_02
+And it held pretty true.
+
+[00:08:51] SPEAKER_02
+The first two or three votes, the people that got eliminated were people that didn't follow anybody else on the cast.
+
+[00:08:56] SPEAKER_02
+So the first person who went home, I was sad I didn't get to really interact with them, was Blessing.
+
+[00:09:01] SPEAKER_02
+Blessing was the only person who didn't follow a single person on the crew.
+
+[00:09:05] SPEAKER_02
+Hey, hold on.
+
+[00:09:06] SPEAKER_03
+Before we go any further, I just realized this has already come out.
+
+[00:09:09] SPEAKER_03
+This has been out for a while.
+
+[00:09:10] SPEAKER_03
+But if you're listening to this and you don't know who wins, like you just got, we just had our first spoiler,
+
+[00:09:16] SPEAKER_03
+Blessing was the first person to go home.
+
+[00:09:17] SPEAKER_03
+Maybe stop here if you want to watch it without having it spoiled.
+
+[00:09:22] SPEAKER_03
+Yes.
+
+[00:09:22] SPEAKER_03
+Because from this second on, every moment of the show will be spoiled.
+
+[00:09:26] SPEAKER_03
+And it is a great show.
+
+[00:09:27] SPEAKER_06
+I remember talking to Andrew in the first episode.
+
+[00:09:30] SPEAKER_06
+This is when we were, everyone was like starting to talk about alliances.
+
+[00:09:33] SPEAKER_06
+I started trying to talk to Jack about an alliance, but he didn't want one.
+
+[00:09:37] SPEAKER_06
+He didn't want one?
+
+[00:09:39] SPEAKER_06
+Jack didn't want to lie the entire game, which made it a bit difficult.
+
+[00:09:42] SPEAKER_03
+Jack didn't understand how fucking survival it was, apparently.
+
+[00:09:45] SPEAKER_06
+Oh my God, it was so fucking annoying.
+
+[00:09:47] SPEAKER_06
+At one point I tried to save Jack because I just did all the outcomes in my head.
+
+[00:09:51] SPEAKER_06
+I was like, with this outcome, you'll still be here tomorrow.
+
+[00:09:53] SPEAKER_06
+He's like, I don't want to lie.
+
+[00:09:54] SPEAKER_06
+I'm like, well, you're going home then.
+
+[00:09:55] SPEAKER_06
+And he was like, okay.
+
+[00:09:57] SPEAKER_06
+But I talked to Andrew on the first day and Andrew already had all this information of like,
+
+[00:10:01] SPEAKER_06
+wow, Lex, he's close with Blizz and blah, blah, blah.
+
+[00:10:03] SPEAKER_06
+I was like, how do you know?
+
+[00:10:07] SPEAKER_02
+It was a different thing of like, yeah, as well, because there was a tech test that you
+
+[00:10:10] SPEAKER_02
+didn't go to.
+
+[00:10:11] SPEAKER_02
+And the people that did go to that tech test was like Blizz, Lexi, a lot of the people
+
+[00:10:15] SPEAKER_02
+that were not in the building for it that were streamers.
+
+[00:10:18] SPEAKER_02
+They were like talking and stuff.
+
+[00:10:20] SPEAKER_02
+I spent most of that time trying to count how far in blocks the range was for our thing
+
+[00:10:26] SPEAKER_02
+because we had to put it in.
+
+[00:10:27] SPEAKER_02
+And I determined while they were talking that it was like 60 blocks.
+
+[00:10:30] SPEAKER_02
+It's like a 60 block radius.
+
+[00:10:31] SPEAKER_02
+I also, I was using a controller and I was not that calm with it.
+
+[00:10:35] SPEAKER_02
+And I didn't at this time want to show how little I knew how to play on the PC version
+
+[00:10:40] SPEAKER_02
+with the controller.
+
+[00:10:41] SPEAKER_02
+So I got stuck in a boat and I didn't know how to get out of it.
+
+[00:10:44] SPEAKER_02
+I didn't want to tell anybody.
+
+[00:10:46] SPEAKER_02
+So I spent like the last seven minutes just riding around this little pond in a boat, just
+
+[00:10:51] SPEAKER_02
+pretending like I was happy and I wanted to be there.
+
+[00:10:53] SPEAKER_03
+Can I say just for a second, Andrew does this.
+
+[00:10:56] SPEAKER_03
+He creates spreadsheets.
+
+[00:10:58] SPEAKER_03
+He watches streams.
+
+[00:11:00] SPEAKER_03
+He looks at who people are following to discover the relationships.
+
+[00:11:03] SPEAKER_03
+He does this tremendous amount of work to get ahead of the game.
+
+[00:11:08] SPEAKER_03
+But at no point in that process does he play the game.
+
+[00:11:12] SPEAKER_03
+No.
+
+[00:11:13] SPEAKER_03
+Which would have been the most beneficial thing he could have done is understand how the
+
+[00:11:17] SPEAKER_03
+fucking game works.
+
+[00:11:18] SPEAKER_03
+But that never crosses your mind?
+
+[00:11:20] SPEAKER_06
+He takes the whole situation and just like right clicks and looks at the code.
+
+[00:11:23] SPEAKER_06
+Like he's not interested in like the activity.
+
+[00:11:25] SPEAKER_02
+This is like, well, if I take this, I've spent so much time playing the Xbox version of Minecraft.
+
+[00:11:31] SPEAKER_02
+I have hundreds and hundreds of hours that I had a false confidence.
+
+[00:11:35] SPEAKER_02
+Shocking.
+
+[00:11:36] SPEAKER_02
+I know that I would be able to adjust to this really quickly.
+
+[00:11:39] SPEAKER_02
+I could not figure out the controls, but that also worked to my advantage later for how I
+
+[00:11:44] SPEAKER_02
+ended up having to play the game strategically, which was not necessarily how I planned on
+
+[00:11:49] SPEAKER_02
+going in.
+
+[00:11:49] SPEAKER_02
+It didn't start the way I kind of had this vision of how it would go and I had to adapt
+
+[00:11:54] SPEAKER_02
+greatly.
+
+[00:11:55] SPEAKER_02
+But that wasn't, I think the funniest prep I did during the Twitch streams was I watched
+
+[00:11:58] SPEAKER_02
+Jack stream Minecraft after the announcement and he streamed for four hours and that motherfucker
+
+[00:12:04] SPEAKER_02
+did not mention it once.
+
+[00:12:06] SPEAKER_02
+Zero mention of it.
+
+[00:12:07] SPEAKER_02
+What?
+
+[00:12:07] SPEAKER_02
+All he was doing was digging a hole to the point where I watched for an hour and I said,
+
+[00:12:12] SPEAKER_02
+this is insane.
+
+[00:12:13] SPEAKER_02
+I need to do something about this.
+
+[00:12:15] SPEAKER_02
+I had a friend go into his Twitch chat and ask about survival.
+
+[00:12:20] SPEAKER_02
+Like, hey, I'm excited about it.
+
+[00:12:22] SPEAKER_02
+Hoping to prompt Jack to talk about it.
+
+[00:12:24] SPEAKER_02
+Didn't do it.
+
+[00:12:25] SPEAKER_02
+I had four different people prompt during the stream and he never acknowledged it.
+
+[00:12:30] SPEAKER_02
+It was the only stream I got zero information out of.
+
+[00:12:33] SPEAKER_03
+So, can I just say, that's brilliant of you, very funny, very funny outcome, but what the
+
+[00:12:39] SPEAKER_03
+fuck is Jack doing that he can't promote our show?
+
+[00:12:42] SPEAKER_03
+God, get your head out of the hole, dumbass.
+
+[00:12:45] SPEAKER_03
+Promote the show.
+
+[00:12:45] SPEAKER_03
+The audience is asking you questions about it.
+
+[00:12:48] SPEAKER_06
+So, Andrew, I don't stream.
+
+[00:12:49] SPEAKER_06
+What did you do research for me?
+
+[00:12:51] SPEAKER_02
+I didn't really have to do anything for you because we spend so much time making the podcast.
+
+[00:12:55] SPEAKER_02
+Yeah, I kind of know you and I know your familiarity with Survivor.
+
+[00:12:58] SPEAKER_02
+I didn't really have a lot of questions.
+
+[00:13:00] SPEAKER_06
+And you watched Meg's stream as well?
+
+[00:13:03] SPEAKER_02
+I did watch.
+
+[00:13:03] SPEAKER_02
+Yeah, I watched Meg's first stream.
+
+[00:13:04] SPEAKER_02
+She very briefly mentioned it, but I sort of, through you, had a familiarity of her knowledge
+
+[00:13:09] SPEAKER_02
+of the game as a whole.
+
+[00:13:10] SPEAKER_02
+So, I didn't have...
+
+[00:13:11] SPEAKER_02
+I wanted to work with Meg going into it.
+
+[00:13:13] SPEAKER_02
+I didn't think that you and I would be on the same team, Gab.
+
+[00:13:16] SPEAKER_02
+I didn't either.
+
+[00:13:17] SPEAKER_03
+You know, a little sausage.
+
+[00:13:20] SPEAKER_03
+We actually asked Meg to be in season one, but she was like, well, I don't really play
+
+[00:13:23] SPEAKER_03
+Minecraft.
+
+[00:13:23] SPEAKER_03
+I don't know much about it.
+
+[00:13:24] SPEAKER_03
+So, she kind of gave us a soft no, and then luckily we were able to get her in season
+
+[00:13:27] SPEAKER_03
+two, and I'm so glad we did.
+
+[00:13:28] SPEAKER_03
+But initially, she would have appeared in season one.
+
+[00:13:32] SPEAKER_03
+I'm glad it worked out the way it did, because the Gavin-Andrew-Meg dynamic turned out to
+
+[00:13:37] SPEAKER_03
+be cool.
+
+[00:13:37] SPEAKER_03
+That's crazy.
+
+[00:13:38] SPEAKER_04
+She doesn't play Minecraft, so she doesn't...
+
+[00:13:40] SPEAKER_04
+Hey, Andrew, you played Minecraft.
+
+[00:13:42] SPEAKER_04
+You played with a controller on the PC.
+
+[00:13:43] SPEAKER_04
+I heard that you played windowed the whole time.
+
+[00:13:48] SPEAKER_02
+Yeah, so that was post.
+
+[00:13:49] SPEAKER_02
+After everything was over, like literally, we filmed the last thing that evening.
+
+[00:13:54] SPEAKER_06
+I was showing my spreadsheets instead of playing games.
+
+[00:13:59] SPEAKER_02
+Well, this was because I don't use the PC all that often, and we're constantly clicking
+
+[00:14:03] SPEAKER_02
+into Audacity and OBS and all these things, and I just, I didn't know how to go full screen
+
+[00:14:08] SPEAKER_02
+and out of it easily.
+
+[00:14:09] SPEAKER_02
+I was so worried about screwing something up.
+
+[00:14:11] SPEAKER_02
+So, I just thought, oh, I'll just have it be small, and I can just click around everything.
+
+[00:14:14] SPEAKER_02
+And never did he think to ask.
+
+[00:14:16] SPEAKER_06
+We had a controller with like 12 people in it.
+
+[00:14:19] SPEAKER_02
+You know what?
+
+[00:14:20] SPEAKER_02
+This was honestly, the worst thing was, so the first day of filming, I went to the tech
+
+[00:14:25] SPEAKER_02
+test, so I was like, I'm fucking good.
+
+[00:14:27] SPEAKER_02
+I followed their document.
+
+[00:14:29] SPEAKER_02
+I did the prep.
+
+[00:14:30] SPEAKER_02
+I'm just waiting, and we're waiting for, I think, Gavin, Megan, Michael to get their
+
+[00:14:35] SPEAKER_02
+computer set up or whatever.
+
+[00:14:37] SPEAKER_02
+So, we're just there.
+
+[00:14:37] SPEAKER_02
+We're hanging out, and I thought, oh, it'd be a funny thing if I punched the bedrock
+
+[00:14:41] SPEAKER_02
+and then got stuck, and I was just going to do a goofy little bit thing.
+
+[00:14:46] SPEAKER_02
+And so, I punch all the way down the bedrock, and then I'm coming up, and I can faintly
+
+[00:14:50] SPEAKER_02
+hear people because we have proximity chat on, and everybody who was at the tech test,
+
+[00:14:54] SPEAKER_02
+all of their shit is broken.
+
+[00:14:56] SPEAKER_02
+Nobody knows how anything works.
+
+[00:14:58] SPEAKER_02
+Everyone needs help, and I'm stuck in this hole, and I'm like, help, help.
+
+[00:15:03] SPEAKER_02
+Can someone help me?
+
+[00:15:04] SPEAKER_02
+I didn't know who to ping, and nobody could hear me because of the proximity.
+
+[00:15:08] SPEAKER_02
+I had to punch my way from bedrock all the way back to the surface to get help.
+
+[00:15:14] SPEAKER_03
+Here's what's extra befuddling.
+
+[00:15:17] SPEAKER_03
+Here's some more sausage for you.
+
+[00:15:18] SPEAKER_03
+Yeah.
+
+[00:15:19] SPEAKER_03
+I executive produced this show, and so I'm on the back end, the behind-the-scenes stuff
+
+[00:15:27] SPEAKER_03
+doing it.
+
+[00:15:27] SPEAKER_03
+Andrew was a goddamn menace to me and Will and Trevor.
+
+[00:15:33] SPEAKER_03
+Trevor, Will's the director, and then Trevor is actor-producer.
+
+[00:15:38] SPEAKER_03
+He's player-coach, host-coach.
+
+[00:15:40] SPEAKER_03
+Andrew would come to us and say, like, hey, I have a question.
+
+[00:15:44] SPEAKER_03
+And this would be like a month before we do the show, and he's like, if I find a totem
+
+[00:15:49] SPEAKER_03
+in the wild, can I take it and then break the chest and hide it so nobody knows that there
+
+[00:15:57] SPEAKER_03
+was ever a totem there?
+
+[00:15:58] SPEAKER_03
+And I'm like, oh, fuck, I don't know.
+
+[00:16:00] SPEAKER_03
+So then I got to stop down, and then I got to go have a meeting with Will and Trevor to
+
+[00:16:05] SPEAKER_03
+figure out, is Andrew breaking the game?
+
+[00:16:07] SPEAKER_03
+And if so, can we allow it or not?
+
+[00:16:09] SPEAKER_03
+He did that five or six times, like, with ludicrous questions.
+
+[00:16:13] SPEAKER_03
+We'd have to go like, no, you absolutely can't do that.
+
+[00:16:15] SPEAKER_03
+Or yes, you can.
+
+[00:16:15] SPEAKER_03
+But so once again, the lines of communication with the producers of the show were wide open.
+
+[00:16:21] SPEAKER_03
+He was asking verbose questions.
+
+[00:16:23] SPEAKER_03
+At no point did he say, also, it's windowed?
+
+[00:16:28] SPEAKER_03
+So many opportunities to ask to get for solutions.
+
+[00:16:31] SPEAKER_02
+I didn't realize the windowed was an issue until I went full screen, because I'd never
+
+[00:16:35] SPEAKER_02
+done it.
+
+[00:16:36] SPEAKER_02
+I had nothing to compare it to.
+
+[00:16:38] SPEAKER_02
+Once I went full screen.
+
+[00:16:39] SPEAKER_06
+I bet your freaking spreadsheet was full screen.
+
+[00:16:43] SPEAKER_02
+So I went back into the world, and I redid the final challenge.
+
+[00:16:48] SPEAKER_02
+And you know those, like, the ladder jumps?
+
+[00:16:50] SPEAKER_02
+I don't know.
+
+[00:16:50] SPEAKER_02
+Did you get to the ladder jumps, Gavin?
+
+[00:16:52] SPEAKER_06
+No, I was just sucking too much at the platforming bit.
+
+[00:16:56] SPEAKER_02
+That took me the longest to do.
+
+[00:16:57] SPEAKER_02
+I did it on my first tried.
+
+[00:16:59] SPEAKER_02
+When it was full screen.
+
+[00:17:01] SPEAKER_02
+When it was full screen, I did it first try.
+
+[00:17:03] SPEAKER_02
+And that could also just be a nod of the pressure moment of it, because it was an exhausting
+
+[00:17:06] SPEAKER_02
+process to be part of.
+
+[00:17:08] SPEAKER_02
+But yeah.
+
+[00:17:10] SPEAKER_02
+Now, a window, I'd love the opportunity to play again at some point in the future.
+
+[00:17:15] SPEAKER_02
+And to play with a full screen, I think, really, just immediately changes the game
+
+[00:17:19] SPEAKER_02
+for me.
+
+[00:17:20] SPEAKER_06
+Well, if we ever do a Winners at War, you'll obviously be there.
+
+[00:17:24] SPEAKER_06
+Andrew had a rough start in all Game of Survival.
+
+[00:17:26] SPEAKER_02
+Oh, really?
+
+[00:17:26] SPEAKER_02
+I had a terrible...
+
+[00:17:28] SPEAKER_02
+Oh, you don't know about this, do you?
+
+[00:17:29] SPEAKER_02
+Oh, no, I don't know about this at all.
+
+[00:17:30] SPEAKER_02
+Before we get any further, was that it to your prep, or was there more?
+
+[00:17:33] SPEAKER_02
+Okay, so I did the spreadsheets.
+
+[00:17:34] SPEAKER_02
+I listed everything.
+
+[00:17:35] SPEAKER_02
+I learned Lexi and Blizz were close.
+
+[00:17:37] SPEAKER_02
+I learned that Fuya...
+
+[00:17:38] SPEAKER_02
+Oh, I learned that they do, like, a Saturday Among Us stream, apparently.
+
+[00:17:42] SPEAKER_02
+Like, Fuya and Lexi are in that.
+
+[00:17:44] SPEAKER_02
+Blizz is sometimes in that.
+
+[00:17:45] SPEAKER_02
+But, so really, I viewed, like, the sort of core alliance that I had to deal with, my
+
+[00:17:50] SPEAKER_02
+assumption going in would be, like, Michael, Fuya, Lexi, Blizz.
+
+[00:17:55] SPEAKER_02
+And then Blaine was sort of complicating in that because he's part of Squad Team Force,
+
+[00:18:00] SPEAKER_02
+which Blizz is part of.
+
+[00:18:01] SPEAKER_02
+So, there are some factors.
+
+[00:18:03] SPEAKER_02
+I think that was the main prep I did.
+
+[00:18:06] SPEAKER_02
+Yeah, spreadsheets, streams.
+
+[00:18:08] SPEAKER_02
+I watched the show.
+
+[00:18:09] SPEAKER_02
+So, in the show, when you watch it, I'll ask questions at various points of, like,
+
+[00:18:13] SPEAKER_02
+oh, how does this work within the game we're playing?
+
+[00:18:15] SPEAKER_02
+I knew, like, every time I asked those, I already knew the answer to those questions.
+
+[00:18:18] SPEAKER_02
+I just wanted to appear.
+
+[00:18:20] SPEAKER_06
+Yeah, what I've learned is that Andrew was playing dumb the entire game.
+
+[00:18:22] SPEAKER_06
+Every single question he asked, he already knew the answer to.
+
+[00:18:25] SPEAKER_06
+Is that true?
+
+[00:18:27] SPEAKER_02
+Yeah, absolutely.
+
+[00:18:27] SPEAKER_02
+Anytime I asked a game question about, like, the structure, I had watched the show already
+
+[00:18:31] SPEAKER_02
+two times.
+
+[00:18:33] SPEAKER_02
+I was familiar with it.
+
+[00:18:34] SPEAKER_02
+And I just didn't want them to know that.
+
+[00:18:35] SPEAKER_02
+There's a point in the first episode, I don't know if it, because we re-shot something.
+
+[00:18:40] SPEAKER_02
+I don't know if it's there, but they asked, like, yeah, who's seen it before?
+
+[00:18:42] SPEAKER_02
+And I said, nope.
+
+[00:18:43] SPEAKER_02
+And I had absolutely seen it.
+
+[00:18:44] SPEAKER_02
+Yeah, we should also say.
+
+[00:18:45] SPEAKER_02
+And I would ask questions on occasion.
+
+[00:18:47] SPEAKER_06
+We're recording this before the show is edited.
+
+[00:18:50] SPEAKER_06
+Right.
+
+[00:18:50] SPEAKER_06
+Yeah, we haven't seen the show.
+
+[00:18:51] SPEAKER_06
+So, it's not come out.
+
+[00:18:52] SPEAKER_06
+It's not even finished.
+
+[00:18:53] SPEAKER_03
+Yeah, I've seen through episode three.
+
+[00:18:56] SPEAKER_03
+Right.
+
+[00:18:56] SPEAKER_03
+So, which, by the way, episode three was fucking phenomenal.
+
+[00:19:00] SPEAKER_03
+The funny thing about this, too, is, like, you guys were on the red team.
+
+[00:19:04] SPEAKER_03
+All the action is going on on the blue team.
+
+[00:19:06] SPEAKER_03
+So, you guys are not as represented until a little bit later in the show.
+
+[00:19:11] SPEAKER_03
+You get a lot of screen time when you win every challenge.
+
+[00:19:13] SPEAKER_03
+Yeah, success means you get to leave early in this show.
+
+[00:19:18] SPEAKER_02
+Yeah, you film a lot less, too, because often on the first episode, if you won the first
+
+[00:19:23] SPEAKER_02
+challenge, they wouldn't need you for that segment, and that would lead into a lunch
+
+[00:19:27] SPEAKER_02
+break.
+
+[00:19:27] SPEAKER_02
+So, you'd have a larger window of availability of just doing whatever you wanted.
+
+[00:19:31] SPEAKER_03
+And that's just a function of just time and money, honestly.
+
+[00:19:35] SPEAKER_03
+Like, we would love to have filmed more on both sides, but we really, we have to, like,
+
+[00:19:41] SPEAKER_03
+we have to be so efficient with how we do it.
+
+[00:19:43] SPEAKER_03
+We're also super behind on day one.
+
+[00:19:45] SPEAKER_03
+Yeah, and maintain the integrity of what we're doing.
+
+[00:19:47] SPEAKER_03
+Like, Andrew, briefly, he said we re-filmed something.
+
+[00:19:50] SPEAKER_03
+I would like to point out, we didn't re-film important shit.
+
+[00:19:52] SPEAKER_03
+No.
+
+[00:19:52] SPEAKER_03
+When we re-filmed something, it was, like, the introduction to, like, everybody come up
+
+[00:19:55] SPEAKER_03
+on here so I can say hello, and be like, nah, I was a little stilted.
+
+[00:19:59] SPEAKER_03
+So, try that again.
+
+[00:20:00] SPEAKER_03
+But anything, like, the integrity of the competition was secure and in place the entire time.
+
+[00:20:06] SPEAKER_03
+Yeah.
+
+[00:20:06] SPEAKER_03
+We didn't re-film any of that stuff.
+
+[00:20:07] SPEAKER_06
+I was never a part of redoing anything that was, like, an actual reaction to anything.
+
+[00:20:11] SPEAKER_03
+That's part of the stress on the back end, is we are constantly,
+
+[00:20:17] SPEAKER_03
+presented with problems that we have to solve in the moment while not having it affect what
+
+[00:20:22] SPEAKER_03
+you guys are doing in the game.
+
+[00:20:24] SPEAKER_03
+And that's, that's, it's some of the best problem solving I've ever been to because it's, like,
+
+[00:20:28] SPEAKER_03
+really high stakes and really stressful but really fun.
+
+[00:20:31] SPEAKER_03
+And it really makes you be creative.
+
+[00:20:33] SPEAKER_03
+But, but getting into it, you, Andrew, you, you started off on a lame foot, I would say.
+
+[00:20:39] SPEAKER_02
+What do you, on a bad ankle.
+
+[00:20:42] SPEAKER_02
+What do you, so.
+
+[00:20:44] SPEAKER_02
+I went in and I, so my perception going in was I, I felt like I would maybe have a similar
+
+[00:20:49] SPEAKER_02
+to Matt Bragg trajectory where I'm pretty good at games.
+
+[00:20:53] SPEAKER_02
+I'm familiar with Minecraft.
+
+[00:20:54] SPEAKER_02
+It would make sense to keep me around initially because I have value in challenges and then
+
+[00:20:59] SPEAKER_02
+try to get me out before the merge because you don't want me to win individual immunity.
+
+[00:21:03] SPEAKER_02
+That's sort of what I planned going in.
+
+[00:21:04] SPEAKER_02
+And we go to the first challenge and the first challenge is like a kind of simple setup where
+
+[00:21:09] SPEAKER_02
+there are chests in this jungle area.
+
+[00:21:12] SPEAKER_02
+You have to run out, grab a piece, run back, and then you just rotate.
+
+[00:21:17] SPEAKER_02
+There's 12 or 11 pieces.
+
+[00:21:18] SPEAKER_02
+And so we ordered a structure.
+
+[00:21:20] SPEAKER_02
+There's also a totem hidden in there.
+
+[00:21:22] SPEAKER_02
+So you don't want to take too long unless you're actually looking for it.
+
+[00:21:25] SPEAKER_02
+So we're going through.
+
+[00:21:26] SPEAKER_02
+I'm the second to last to go.
+
+[00:21:27] SPEAKER_02
+We have a pretty big lead at this point.
+
+[00:21:29] SPEAKER_02
+I think I'm getting the 11th piece.
+
+[00:21:31] SPEAKER_02
+I go in and I do look for a totem.
+
+[00:21:34] SPEAKER_02
+I don't know if you did.
+
+[00:21:35] SPEAKER_02
+You tried to find a totem at all, Gavin, when you're doing your run.
+
+[00:21:37] SPEAKER_02
+Not for a single second.
+
+[00:21:38] SPEAKER_03
+Do you guys know?
+
+[00:21:40] SPEAKER_06
+I don't want to be I don't want any eyes on me.
+
+[00:21:44] SPEAKER_02
+My guess was that the totem was in the trees.
+
+[00:21:46] SPEAKER_03
+The totem was on the little island.
+
+[00:21:48] SPEAKER_03
+I think a couple of people walked over.
+
+[00:21:49] SPEAKER_03
+Are you serious?
+
+[00:21:50] SPEAKER_03
+Yeah, I think you specifically walked over it, Andrew.
+
+[00:21:52] SPEAKER_02
+I.
+
+[00:21:53] SPEAKER_02
+Oh, no, because I literally.
+
+[00:21:55] SPEAKER_02
+So I'm doing my second run and I'm looking.
+
+[00:21:58] SPEAKER_02
+I'm like, OK, so the totem probably has to be in a place that won't be accidentally found.
+
+[00:22:02] SPEAKER_02
+And there's this little island in the middle that was really inaccessible to get to and
+
+[00:22:07] SPEAKER_02
+visible to two people.
+
+[00:22:09] SPEAKER_02
+I climbed.
+
+[00:22:10] SPEAKER_02
+It was I was one of the a few people climbed up or was I the only one that went to this
+
+[00:22:14] SPEAKER_02
+island?
+
+[00:22:14] SPEAKER_03
+I honestly don't remember.
+
+[00:22:16] SPEAKER_03
+I just remember that we laughed a lot because you kept walking over it, like being right
+
+[00:22:19] SPEAKER_03
+around it.
+
+[00:22:20] SPEAKER_03
+Yeah.
+
+[00:22:21] SPEAKER_02
+Was it buried or was it just in a normal chest?
+
+[00:22:23] SPEAKER_03
+I don't remember.
+
+[00:22:24] SPEAKER_02
+I'm so excited to see this.
+
+[00:22:25] SPEAKER_03
+Anyway, I don't remember.
+
+[00:22:26] SPEAKER_02
+I go on the island and I look for a minute for it and I couldn't find it.
+
+[00:22:29] SPEAKER_02
+And I was like, I guess it's not here.
+
+[00:22:31] SPEAKER_02
+I would think it would be here.
+
+[00:22:32] SPEAKER_02
+So then I left and I felt like, oh, it took me longer to get onto that island than I wanted
+
+[00:22:37] SPEAKER_02
+to.
+
+[00:22:38] SPEAKER_02
+I find a piece and then I'm running back and there's kind of a long tunnel with proximity.
+
+[00:22:43] SPEAKER_02
+I had just gotten into range.
+
+[00:22:45] SPEAKER_02
+And while I'm getting there, I'm like, oh, I don't have the piece of my hand.
+
+[00:22:47] SPEAKER_02
+This is weird.
+
+[00:22:48] SPEAKER_02
+And I opened my inventory and I don't have the piece of my inventory either.
+
+[00:22:52] SPEAKER_02
+I no longer because I was having an issue because the buttons were flipped from console
+
+[00:22:55] SPEAKER_02
+to PC where grab and close were different.
+
+[00:22:59] SPEAKER_02
+So I don't know if I didn't grab the piece out of the box that I found or if I had dropped
+
+[00:23:05] SPEAKER_02
+the piece.
+
+[00:23:06] SPEAKER_02
+But so I'm at the entrance so my team could see me and I turn around and I could just
+
+[00:23:10] SPEAKER_02
+hear Jack yell, he's turning around.
+
+[00:23:14] SPEAKER_05
+And I was just saw him come up through the trees and then just he started like looking
+
+[00:23:18] SPEAKER_05
+down like he'd actually like lost his keys is what it looked like.
+
+[00:23:20] SPEAKER_05
+And then he just pissed off straight back in and he's like, I'll be right back.
+
+[00:23:24] SPEAKER_04
+And it's amazing because you can't trust Andrew.
+
+[00:23:26] SPEAKER_03
+You can't trust anything he says or does.
+
+[00:23:28] SPEAKER_04
+I just imagined that it was Andrew running around going, oh no, oh no, oh no.
+
+[00:23:33] SPEAKER_02
+That was internally my thing.
+
+[00:23:36] SPEAKER_02
+I was like, oh no, what did I do?
+
+[00:23:38] SPEAKER_02
+I was asking.
+
+[00:23:39] SPEAKER_02
+Nobody was willing to respond at that time of if I dropped it or if I didn't serve.
+
+[00:23:44] SPEAKER_02
+So I was just going through and I found another chest with a piece.
+
+[00:23:47] SPEAKER_02
+So I grabbed that piece and I run back and then as soon as I'm back, Blaine goes, who's
+
+[00:23:52] SPEAKER_02
+the last person.
+
+[00:23:53] SPEAKER_02
+He's out of range.
+
+[00:23:54] SPEAKER_02
+And then production confirms that I grabbed the piece and I just threw it in the jungle.
+
+[00:23:59] SPEAKER_02
+I just threw the piece in the fucking thing.
+
+[00:24:02] SPEAKER_04
+So Blaine now has to run in and find one that's just out on the floor somewhere.
+
+[00:24:06] SPEAKER_04
+That's why I'd heard about this.
+
+[00:24:07] SPEAKER_04
+Blaine told me about this and he's like, fucking Andrew.
+
+[00:24:11] SPEAKER_04
+What the fuck?
+
+[00:24:12] SPEAKER_06
+And the whole time Blaine was gone, Andrew was just like, oh, I'm so sorry.
+
+[00:24:17] SPEAKER_02
+I'm so like properly freaking out about it.
+
+[00:24:20] SPEAKER_02
+I was so genuinely defeated.
+
+[00:24:21] SPEAKER_02
+I've been watching Survivor since season one when I was six years old.
+
+[00:24:25] SPEAKER_02
+I've wanted to play a game like this for 20 years and I dropped the fucking piece.
+
+[00:24:30] SPEAKER_02
+It was so like there was no spin zone for if we lost and why I shouldn't go.
+
+[00:24:35] SPEAKER_02
+It was like, oh, I've dreamed of doing this for so long and I've immediately crushed that dream.
+
+[00:24:40] SPEAKER_03
+Let me ask at this point, like, let's say red team loses or fire team loses and you guys have to go to the chopping block.
+
+[00:24:47] SPEAKER_03
+Are you fucked or do you have an alliance that you're comfortable with or you feel safe within this moment?
+
+[00:24:52] SPEAKER_02
+I tried to make an alliance with Gavin before the challenge began and he didn't want to do that.
+
+[00:24:57] SPEAKER_02
+So I didn't feel super secure.
+
+[00:25:01] SPEAKER_06
+But I mean, at that point, I was just listening to people.
+
+[00:25:04] SPEAKER_06
+I didn't want to make any like false agreements at that point, which is so funny because the reverse of how people think.
+
+[00:25:09] SPEAKER_02
+I was 100 percent loyal to Gavin from the beginning.
+
+[00:25:13] SPEAKER_03
+I don't think I trusted you at any point.
+
+[00:25:15] SPEAKER_03
+Your testimonials, Gavin, are so funny, by the way.
+
+[00:25:18] SPEAKER_03
+They would have these sincere moments and it would cut to Gavin's testimonial and he'd be like, yeah, I'm just biding my time to we vote Jack out.
+
+[00:25:25] SPEAKER_03
+It's fucking great.
+
+[00:25:27] SPEAKER_03
+He was so evil.
+
+[00:25:28] SPEAKER_06
+Oh, I just I wanted to in all of my interviews not seem like I was just being taken for a ride.
+
+[00:25:34] SPEAKER_06
+Yeah.
+
+[00:25:34] SPEAKER_06
+So I'd be like, well, I trust this person.
+
+[00:25:36] SPEAKER_06
+And I would just finish off with like, but I don't really trust them and they're going to step me back.
+
+[00:25:40] SPEAKER_06
+Like I couldn't commit to any.
+
+[00:25:41] SPEAKER_06
+I was so paranoid the entire game.
+
+[00:25:43] SPEAKER_03
+So you're so if red team, sorry, fire team loses this challenge, your first person voted out.
+
+[00:25:49] SPEAKER_02
+I think it's very possible after this vote, though, I think it becomes complicated.
+
+[00:25:56] SPEAKER_02
+I think the first one I could see myself going.
+
+[00:25:59] SPEAKER_02
+But any other tribal or chopping block, I think, could have gone differently because Gavin and I had an alliance that I feel confident in.
+
+[00:26:07] SPEAKER_02
+I don't like it'd be in your best interest, Gavin, to keep me around.
+
+[00:26:10] SPEAKER_02
+I don't know why you would go against me at that stage.
+
+[00:26:13] SPEAKER_02
+So come down to Jack and Blaine.
+
+[00:26:14] SPEAKER_02
+So what point do you have your alliance then?
+
+[00:26:16] SPEAKER_02
+Is it after the first challenge?
+
+[00:26:17] SPEAKER_02
+After the first one, yeah, at the beginning of episode two, Gavin felt comfortable.
+
+[00:26:22] SPEAKER_02
+I think he reached.
+
+[00:26:23] SPEAKER_02
+I think you're the one that initiated that talk.
+
+[00:26:25] SPEAKER_02
+I was like, yeah, absolutely.
+
+[00:26:26] SPEAKER_02
+I want to do this.
+
+[00:26:26] SPEAKER_02
+Yeah.
+
+[00:26:27] SPEAKER_06
+I want to stay loyal to you.
+
+[00:26:29] SPEAKER_06
+I trust you.
+
+[00:26:30] SPEAKER_06
+I think what I expected, I expected to hear more about alliances in episode one and got nothing from Jack.
+
+[00:26:37] SPEAKER_06
+No one else would talk to me.
+
+[00:26:38] SPEAKER_06
+And I just listened to you as well.
+
+[00:26:39] SPEAKER_06
+And I was like, by episode two, I was so paranoid that I hadn't had an actual alliance session.
+
+[00:26:44] SPEAKER_06
+I was like, I'm in the worst spot ever.
+
+[00:26:45] SPEAKER_06
+I don't have anyone.
+
+[00:26:46] SPEAKER_02
+So we made that alliance and then we went exploring for a totem and I found a totem with Lexi and Blizz.
+
+[00:26:55] SPEAKER_02
+Like we were all searching the same area.
+
+[00:26:56] SPEAKER_02
+We're on top of each other and Lexi found it.
+
+[00:26:59] SPEAKER_02
+And then we all just broke off.
+
+[00:27:01] SPEAKER_02
+I don't know if they had to talk, but I broke off because it was like I'm not.
+
+[00:27:04] SPEAKER_02
+I ideally want Blizz and Lexi to go.
+
+[00:27:07] SPEAKER_02
+They're going against me.
+
+[00:27:08] SPEAKER_02
+So then I actually don't know if they were going.
+
+[00:27:11] SPEAKER_02
+Lexi said she would vote.
+
+[00:27:12] SPEAKER_02
+She would have voted me out.
+
+[00:27:13] SPEAKER_02
+So I guess they were, but that was an awesome.
+
+[00:27:16] SPEAKER_03
+I was scamming that moment.
+
+[00:27:18] SPEAKER_03
+I was I was helping out as a camera.
+
+[00:27:21] SPEAKER_03
+Lexi and Blizz were in the middle of having a conversation and you interrupted it and they
+
+[00:27:26] SPEAKER_03
+didn't know how much you'd heard and they were kind of freaking out and it was fucking
+
+[00:27:31] SPEAKER_03
+awesome to watch and you I don't think ultimately heard anything, but they were having some pretty
+
+[00:27:35] SPEAKER_03
+significant plans.
+
+[00:27:36] SPEAKER_03
+And then that right right there's that moment where then Lexi finds the totem, I believe
+
+[00:27:40] SPEAKER_03
+to like right in that.
+
+[00:27:41] SPEAKER_03
+Yes sequence.
+
+[00:27:42] SPEAKER_03
+Yeah.
+
+[00:27:43] SPEAKER_03
+Yeah.
+
+[00:27:43] SPEAKER_03
+You you scared the shit out of them.
+
+[00:27:45] SPEAKER_02
+I didn't hear a single thing, but I already knew they were together.
+
+[00:27:48] SPEAKER_02
+So like it didn't matter.
+
+[00:27:49] SPEAKER_02
+Like I already had that assumption that they were going to be close and that that'd be
+
+[00:27:52] SPEAKER_02
+a bond that'd be difficult to break.
+
+[00:27:54] SPEAKER_02
+It was mainly that's why I did the research because I didn't want to go to not knowing
+
+[00:27:58] SPEAKER_02
+Blizz or Lexi.
+
+[00:27:59] SPEAKER_02
+I didn't want to go to Lexi and say, hey, I'm thinking we get rid of Blizz because she'd
+
+[00:28:03] SPEAKER_02
+immediately tell him and then I'm the target.
+
+[00:28:05] SPEAKER_02
+So that's why I like knowing the relationships is important.
+
+[00:28:07] SPEAKER_03
+I think if I remember correctly, the conversation they were having is they were forming like
+
+[00:28:11] SPEAKER_03
+a like a queer alliance and then they were asking if Blaine, if they should include Blaine
+
+[00:28:17] SPEAKER_03
+in an alliance and like if he was trustworthy or not.
+
+[00:28:20] SPEAKER_03
+And then and then you walked up right in the middle of it and they're like, oh, you're
+
+[00:28:24] SPEAKER_03
+like, hey, guys, I was just walking around looking for stuff.
+
+[00:28:28] SPEAKER_03
+And they're like, OK, all right.
+
+[00:28:32] SPEAKER_02
+It was very funny.
+
+[00:28:34] SPEAKER_02
+So then that happened and we go back to the camp and Jack says, did you guys find
+
+[00:28:39] SPEAKER_02
+anything?
+
+[00:28:39] SPEAKER_02
+And I immediately said, no, I didn't find anything, which wasn't a lie.
+
+[00:28:42] SPEAKER_02
+I didn't find it.
+
+[00:28:44] SPEAKER_02
+And then Blizz said, no, I didn't find anything either.
+
+[00:28:47] SPEAKER_02
+And at that moment, I thought, fucking awesome.
+
+[00:28:49] SPEAKER_02
+I just need a moment to Jack to be like, Lexi has an idol.
+
+[00:28:52] SPEAKER_02
+Blizz is lying to you.
+
+[00:28:53] SPEAKER_02
+And that never was something that had to come up.
+
+[00:28:55] SPEAKER_02
+But that was just I was so giddy for like if I needed to being able to say, hey, Jack,
+
+[00:29:00] SPEAKER_02
+this is what's going on.
+
+[00:29:04] SPEAKER_02
+I want to work with you.
+
+[00:29:05] SPEAKER_02
+So I think if we would have had to go episode two or past that, it would have been they would
+
+[00:29:10] SPEAKER_02
+have targeted me.
+
+[00:29:11] SPEAKER_02
+I would have tried to target Lexi under let's blindside them with their idol.
+
+[00:29:16] SPEAKER_02
+And it would come down to Blaine and Jack.
+
+[00:29:18] SPEAKER_04
+Hey, Gavin, have you did you have any kind of strategy like this or is this so fucking
+
+[00:29:22] SPEAKER_04
+alien to you that it's like sounding like gobbledygook or what?
+
+[00:29:25] SPEAKER_06
+I was so out of it in terms of like what I thought everyone was doing.
+
+[00:29:30] SPEAKER_06
+The only person I'd really had a real alliance conversation with was Andrew.
+
+[00:29:34] SPEAKER_06
+So all I thought I should do was test how real my alliance is with Andrew.
+
+[00:29:38] SPEAKER_06
+So I just followed him across the map for like 20 minutes.
+
+[00:29:41] SPEAKER_03
+I was sneaking behind him.
+
+[00:29:42] SPEAKER_03
+OK, that's another great moment.
+
+[00:29:44] SPEAKER_03
+I was camming.
+
+[00:29:46] SPEAKER_03
+I think I was camming Andrew and then Gavin shows up and Andrew is perfect timing to
+
+[00:29:51] SPEAKER_03
+this is about an episode two or three, I think it was pretty early.
+
+[00:29:53] SPEAKER_03
+Andrew finds this like structure, this like halo looking structure that's like built over
+
+[00:30:00] SPEAKER_03
+a lava flow or something.
+
+[00:30:02] SPEAKER_03
+Yeah.
+
+[00:30:02] SPEAKER_03
+And it's wild and it's like massive.
+
+[00:30:05] SPEAKER_03
+And he walks right up to it.
+
+[00:30:06] SPEAKER_03
+And Gavin's just following him the whole way.
+
+[00:30:08] SPEAKER_06
+And I was close enough to hear him because he was talking to himself a little bit.
+
+[00:30:11] SPEAKER_06
+And I saw this thing pop into my draw distance.
+
+[00:30:15] SPEAKER_06
+I was like, Jesus Christ, the size of this thing.
+
+[00:30:17] SPEAKER_06
+And Andrew didn't react.
+
+[00:30:18] SPEAKER_06
+He was just like returning to a place he'd clearly already been.
+
+[00:30:22] SPEAKER_06
+Yeah.
+
+[00:30:22] SPEAKER_06
+So all of my trust for Andrew was like, uh-oh.
+
+[00:30:24] SPEAKER_03
+Gavin walks right up to Andrew and he's like, what are you doing?
+
+[00:30:26] SPEAKER_03
+What are you?
+
+[00:30:27] SPEAKER_03
+And he's like, and Andrew's like, uh, Andrew's totally on his heels at this point.
+
+[00:30:31] SPEAKER_03
+And nothing has happened.
+
+[00:30:32] SPEAKER_03
+And Gavin's like, Gavin is instantly in that moment convinced he had just found a totem.
+
+[00:30:36] SPEAKER_03
+And he's just like, where's the totem?
+
+[00:30:37] SPEAKER_03
+Show it to me.
+
+[00:30:37] SPEAKER_03
+What are you guys doing?
+
+[00:30:38] SPEAKER_03
+And Andrew's like, I swear, I don't know.
+
+[00:30:40] SPEAKER_03
+Gavin is not buying it.
+
+[00:30:42] SPEAKER_03
+And it is a really funny standoff between you two.
+
+[00:30:44] SPEAKER_03
+And at this point, I'm like, I have no one in this game.
+
+[00:30:47] SPEAKER_99
+I have no one.
+
+[00:30:49] SPEAKER_02
+I regret it so much because Gavin and I kind of did this like funny bit where we're climbing
+
+[00:30:54] SPEAKER_02
+to what was a cloud and was pointless.
+
+[00:30:56] SPEAKER_02
+Like we spent so much time reaching this thing.
+
+[00:30:58] SPEAKER_03
+Yeah.
+
+[00:30:58] SPEAKER_03
+It's like, what was it was an artifact left over in a copy and paste that they didn't know.
+
+[00:31:03] SPEAKER_03
+Oh, okay.
+
+[00:31:04] SPEAKER_03
+You guys thought it was a spaceship or something?
+
+[00:31:06] SPEAKER_03
+It was like a black blob that was way up in the sky.
+
+[00:31:09] SPEAKER_03
+You guys, you guys spent an entire day.
+
+[00:31:11] SPEAKER_03
+Yeah.
+
+[00:31:11] SPEAKER_03
+We just let you guys go.
+
+[00:31:13] SPEAKER_03
+I think they're going to cut and release that as supplemental for the thing because it's
+
+[00:31:16] SPEAKER_03
+a really funny little adventure you guys go on.
+
+[00:31:18] SPEAKER_06
+I wasted so much time looking for totems and stuff that after the thing ended, I checked
+
+[00:31:24] SPEAKER_06
+with Trevor.
+
+[00:31:24] SPEAKER_06
+I was like, hey, was there anything at this thing?
+
+[00:31:26] SPEAKER_06
+And he's like, oh no, that was some shit left over from season one.
+
+[00:31:29] SPEAKER_06
+Or like, oh no, that was like a glitch.
+
+[00:31:31] SPEAKER_06
+We didn't clear that up.
+
+[00:31:31] SPEAKER_06
+So I was like, great.
+
+[00:31:33] SPEAKER_06
+That's fantastic.
+
+[00:31:33] SPEAKER_06
+Yeah.
+
+[00:31:34] SPEAKER_03
+You guys wasted a lot of time, but you generated a lot of comedy.
+
+[00:31:37] SPEAKER_00
+Gregus believes in the art of living, in choosing the pleasurable over the practical.
+
+[00:31:43] SPEAKER_00
+It's why we craft our premium vodka in France using pure spring water from Genzac.
+
+[00:31:48] SPEAKER_00
+And why you hear the celebratory pub of our cork reminding us to make every martini cocktail
+
+[00:31:55] SPEAKER_00
+count.
+
+[00:31:56] SPEAKER_00
+So go on and make every moment count because there's no better time.
+
+[00:32:01] SPEAKER_00
+Then now, Gregus, make time wait.
+
+[00:32:06] SPEAKER_00
+Sip responsibly.
+
+[00:32:08] SPEAKER_01
+Hungry now.
+
+[00:32:10] SPEAKER_01
+What about now?
+
+[00:32:16] SPEAKER_01
+Whenever it hits you, wherever you are, grab an O'Henry bar to satisfy your hunger.
+
+[00:32:22] SPEAKER_01
+With its delicious combination of big, crunchy, salty peanuts covered in creamy caramel and chewy
+
+[00:32:29] SPEAKER_01
+fudge with a chocolatey coating, swing by a gas station and get an O'Henry today.
+
+[00:32:34] SPEAKER_02
+Oh, hungry, O'Henry.
+
+[00:32:37] SPEAKER_02
+We went on that adventure and then I came down and I thought, oh, there's like probably
+
+[00:32:41] SPEAKER_02
+five minutes left.
+
+[00:32:42] SPEAKER_02
+I could just either hang out in the camp or I could just revisit this place because I thought
+
+[00:32:47] SPEAKER_02
+Gavin was stuck because I left him stuck last time I saw him.
+
+[00:32:50] SPEAKER_05
+He ran away from me in a hole with him.
+
+[00:32:53] SPEAKER_02
+Yeah.
+
+[00:32:53] SPEAKER_02
+I was like, you dig into this hole, I'll watch, you figure it out, and then I just left.
+
+[00:32:57] SPEAKER_02
+What?
+
+[00:32:57] SPEAKER_04
+You dig into this hole, I'll watch?
+
+[00:33:00] SPEAKER_04
+What is this fucking Tom Sawyer-
+
+[00:33:01] SPEAKER_04
+No, no, it was bullshit.
+
+[00:33:03] SPEAKER_04
+What is this?
+
+[00:33:04] SPEAKER_04
+It's fun to paint the fence.
+
+[00:33:06] SPEAKER_04
+Are you kidding me?
+
+[00:33:07] SPEAKER_02
+No, we were on a volcano and I think there was a hole and he thought there may have been
+
+[00:33:13] SPEAKER_02
+something in it.
+
+[00:33:14] SPEAKER_02
+So I was like, yeah, you searched there and then I just left was what happened.
+
+[00:33:18] SPEAKER_02
+And I thought, oh, I can either just wait a camp.
+
+[00:33:20] SPEAKER_02
+That'll keep it busy for 10 minutes.
+
+[00:33:24] SPEAKER_02
+I think I immediately climbed out and fall.
+
+[00:33:26] SPEAKER_02
+Yeah, you were instantly behind me and I just had no idea.
+
+[00:33:29] SPEAKER_02
+So I was like, oh, go check this thing I looked at very briefly before.
+
+[00:33:33] SPEAKER_02
+And so I looked and there was nothing there once again.
+
+[00:33:36] SPEAKER_02
+And I thought, well, maybe if I climb up higher, so I'm placing blocks.
+
+[00:33:39] SPEAKER_02
+And as I place blocks to go up, I see Gavin crouching at the base of the stairs.
+
+[00:33:43] SPEAKER_02
+And I thought, oh no, this optically looks terrible.
+
+[00:33:47] SPEAKER_02
+You were like, Gavin.
+
+[00:33:50] SPEAKER_02
+Yeah, I was shocked.
+
+[00:33:51] SPEAKER_02
+I didn't expect to see you.
+
+[00:33:52] SPEAKER_02
+And I understood that it looked bad because I hadn't told you that I had found this place
+
+[00:33:55] SPEAKER_02
+yet.
+
+[00:33:56] SPEAKER_03
+Yeah.
+
+[00:33:56] SPEAKER_02
+And you were like, where's the totem?
+
+[00:33:57] SPEAKER_02
+And I was, you knew that I'd been there before based on my reaction.
+
+[00:34:01] SPEAKER_02
+I was like, why would I go back to the place?
+
+[00:34:04] SPEAKER_02
+Like if I found a totem here, why would I decide to just be here?
+
+[00:34:08] SPEAKER_02
+Why would I go back to this?
+
+[00:34:09] SPEAKER_02
+Like it makes no sense for me to do that.
+
+[00:34:11] SPEAKER_02
+But while we were having that talk, then Blizz showed up.
+
+[00:34:14] SPEAKER_02
+And I was like, what did, what did Blizz hear?
+
+[00:34:17] SPEAKER_02
+Because I told Gavin in that moment that Lexi had a totem.
+
+[00:34:21] SPEAKER_02
+And I was like, oh fuck, does he know that I, that I said that?
+
+[00:34:25] SPEAKER_02
+And so then we all broke off and we're getting pulled for interviews.
+
+[00:34:28] SPEAKER_02
+And Blizz said, yeah, I heard, I heard you saying to Gavin about not having a totem.
+
+[00:34:33] SPEAKER_02
+And I was like, oh, he definitely heard something, but what did he hear?
+
+[00:34:36] SPEAKER_02
+Like the paranoia of not knowing the full things that they heard or didn't hear was a lot.
+
+[00:34:42] SPEAKER_02
+It was so stressful.
+
+[00:34:43] SPEAKER_03
+I got to say this, the strength in a show like this to me is those moments where you guys had like a really uncomfortable three-way information standoff
+
+[00:34:51] SPEAKER_03
+that like nobody felt good about and everybody was trying to figure out who was suspect.
+
+[00:34:56] SPEAKER_03
+It was, it was, it was very, very, very funny and felt very real, which I guess a question I've been wondering for a while
+
+[00:35:03] SPEAKER_03
+because I'll never probably get to be in the show because I have to produce it and I know too much about it.
+
+[00:35:08] SPEAKER_03
+How quickly does it become real?
+
+[00:35:10] SPEAKER_03
+Like how, how invested in the show do you become?
+
+[00:35:12] SPEAKER_03
+How quickly?
+
+[00:35:14] SPEAKER_03
+I would say at the first challenge.
+
+[00:35:15] SPEAKER_02
+Yeah.
+
+[00:35:16] SPEAKER_02
+Like immediately.
+
+[00:35:16] SPEAKER_03
+Does it feel like you're, does it feel like survivor?
+
+[00:35:18] SPEAKER_03
+Like, does it feel like you're on the island?
+
+[00:35:20] SPEAKER_06
+Yeah.
+
+[00:35:20] SPEAKER_03
+Yeah.
+
+[00:35:21] SPEAKER_03
+I kind of, I hoped it would.
+
+[00:35:22] SPEAKER_06
+And, and even though there's no real incentive to winning, well, there's no million dollar prize.
+
+[00:35:26] SPEAKER_06
+Yeah.
+
+[00:35:27] SPEAKER_06
+You still don't want to leave the game.
+
+[00:35:29] SPEAKER_06
+Yeah.
+
+[00:35:30] SPEAKER_06
+Really?
+
+[00:35:33] SPEAKER_06
+Like, I, I didn't really know how I play my game.
+
+[00:35:36] SPEAKER_06
+I was playing like in a really cutthroat kind of, like, I don't think I've ever lied to Michael.
+
+[00:35:41] SPEAKER_06
+I, I've, I lied to Michael more in like three episodes of that game than I have the entire time I've known him.
+
+[00:35:48] SPEAKER_03
+I don't.
+
+[00:35:48] SPEAKER_06
+Like, honestly, I was just, I would just, I knew he didn't trust me.
+
+[00:35:52] SPEAKER_06
+I knew he was going to get rid of me.
+
+[00:35:52] SPEAKER_06
+So I just kept lying right to his face.
+
+[00:35:54] SPEAKER_06
+I was like, this feels so weird.
+
+[00:35:56] SPEAKER_03
+I don't, yeah, I don't know if it was ever said expressly out loud, but you got Gab slitty very quickly.
+
+[00:36:02] SPEAKER_03
+Yeah.
+
+[00:36:02] SPEAKER_03
+I just felt like I had to go apeshit.
+
+[00:36:04] SPEAKER_03
+Oh, and I literally like wrecked the entire game at one point.
+
+[00:36:08] SPEAKER_03
+I'm excited for you guys to watch it because what Michael does for like the first four episodes is really impressive and funny.
+
+[00:36:15] SPEAKER_03
+Like the way he runs that blue team and cause they go to the chopping block every fucking week.
+
+[00:36:20] SPEAKER_03
+That's so funny.
+
+[00:36:21] SPEAKER_03
+He told me about that.
+
+[00:36:22] SPEAKER_03
+That's so funny.
+
+[00:36:32] SPEAKER_03
+It was really impressive.
+
+[00:36:33] SPEAKER_06
+I was blown away to hang around at how naturally playing Survivor came to him.
+
+[00:36:37] SPEAKER_06
+And he hasn't really watched it at all.
+
+[00:36:39] SPEAKER_06
+He said he watched some YouTube compilations of Jeff Probst being sassy.
+
+[00:36:42] SPEAKER_04
+That's all.
+
+[00:36:43] SPEAKER_04
+He told me the same thing.
+
+[00:36:44] SPEAKER_04
+He's like, I just want to see what Jeff Probst would do.
+
+[00:36:46] SPEAKER_04
+Yeah.
+
+[00:36:46] SPEAKER_06
+So the way it kind of going with that, the way he had like two or three layers of contingency for every tribal I was at with him was just unbelievable.
+
+[00:36:54] SPEAKER_06
+He'd like thought out every single thing.
+
+[00:36:56] SPEAKER_06
+He was like lying to his own alliance in order to prevent me from doing stuff in tribals.
+
+[00:37:00] SPEAKER_06
+I was like, this guy gets Survivor.
+
+[00:37:02] SPEAKER_06
+He just thinks Survivor.
+
+[00:37:04] SPEAKER_06
+He's devious.
+
+[00:37:05] SPEAKER_06
+Yeah.
+
+[00:37:05] SPEAKER_06
+Yeah.
+
+[00:37:06] SPEAKER_04
+Andrew, did it feel like, we talked about like how soon did it feel real?
+
+[00:37:10] SPEAKER_04
+Did it scratch the Survivor itch for you?
+
+[00:37:13] SPEAKER_04
+Like where it's something you wanted to be on for 20 years?
+
+[00:37:16] SPEAKER_02
+It was, so it was like a complicated thing because it was a very stressful game.
+
+[00:37:21] SPEAKER_02
+And I kind of had this initial mindset going in of how the game would go and it so didn't go as planned.
+
+[00:37:28] SPEAKER_02
+So I had a tough kind of readjustment period with my own game where I dropped the piece in the first challenge.
+
+[00:37:35] SPEAKER_02
+And so the other team, we won that challenge.
+
+[00:37:37] SPEAKER_02
+The other team had to vote somebody out.
+
+[00:37:38] SPEAKER_02
+So the next challenge, we're going to have to bench somebody on our team.
+
+[00:37:42] SPEAKER_02
+And I knew at that moment that it would make sense for them to want to bench me.
+
+[00:37:46] SPEAKER_02
+And I thought if I get benched on the second challenge, there is no reversing this perception that they'll have of me of just not being good at this game in any way.
+
+[00:37:55] SPEAKER_02
+So I had to lean into it.
+
+[00:37:57] SPEAKER_02
+So I got benched, which was never a scenario I considered going in.
+
+[00:38:01] SPEAKER_02
+I thought there's no way that I'd be benched.
+
+[00:38:03] SPEAKER_02
+And it completely shifted my game of trying to be as under the radar as possible and seem as clueless to everything around me as I could be.
+
+[00:38:10] SPEAKER_06
+Did you think, spoiler alert, that you would win?
+
+[00:38:13] SPEAKER_02
+No, not at all.
+
+[00:38:14] SPEAKER_02
+But that was like a weird self-confidence issue mixed with like having a stressful week in my personal.
+
+[00:38:22] SPEAKER_02
+I was so burnt out by the time we did the finale that I just didn't feel confident that I would get any votes at all.
+
+[00:38:29] SPEAKER_02
+It was shocking that I ended up winning the game for me.
+
+[00:38:31] SPEAKER_06
+You had a strong jury, though.
+
+[00:38:32] SPEAKER_06
+Even though I think I played a really good game.
+
+[00:38:33] SPEAKER_06
+I think everyone just appreciated your enthusiasm for the game itself.
+
+[00:38:37] SPEAKER_06
+It was like a nice, like sort of the nice guy won.
+
+[00:38:40] SPEAKER_06
+And I feel like that rarely happens in season.
+
+[00:38:41] SPEAKER_02
+Yeah.
+
+[00:38:42] SPEAKER_02
+In a weird way, though, where I didn't plan on being the nice guy at all.
+
+[00:38:46] SPEAKER_02
+I was ready to lie and betray and backstab.
+
+[00:38:48] SPEAKER_02
+And I was open to all those things.
+
+[00:38:50] SPEAKER_02
+But it just didn't make sense for me to do that because Red won every single challenge.
+
+[00:38:54] SPEAKER_03
+And that was a weird thing, too.
+
+[00:38:56] SPEAKER_03
+Go ahead.
+
+[00:38:57] SPEAKER_03
+I was going to say, you had the victory that Jack was gunning for.
+
+[00:39:00] SPEAKER_03
+That he had shot at.
+
+[00:39:04] SPEAKER_03
+So, yeah.
+
+[00:39:05] SPEAKER_03
+How was that like?
+
+[00:39:06] SPEAKER_03
+Because I left right after the merge, right?
+
+[00:39:09] SPEAKER_03
+When I had to go off and deal with Millie's surgery.
+
+[00:39:10] SPEAKER_03
+But you guys were killing it.
+
+[00:39:13] SPEAKER_03
+I think you won the first three or four challenge.
+
+[00:39:15] SPEAKER_03
+I don't remember how many there were before the merge.
+
+[00:39:18] SPEAKER_03
+Four?
+
+[00:39:18] SPEAKER_03
+Yeah.
+
+[00:39:18] SPEAKER_02
+We won.
+
+[00:39:19] SPEAKER_02
+Yeah.
+
+[00:39:19] SPEAKER_02
+Four, I think.
+
+[00:39:20] SPEAKER_02
+We won the first four.
+
+[00:39:21] SPEAKER_02
+Then we did a tribe swap.
+
+[00:39:23] SPEAKER_02
+And what's crazy is that I could have ended up on blue.
+
+[00:39:27] SPEAKER_02
+Because what happened was everybody had to stand in front of a box.
+
+[00:39:30] SPEAKER_02
+And I had listened to, I guess, other prep I did.
+
+[00:39:33] SPEAKER_02
+I was listening to, like, people that played Survivor, their podcast.
+
+[00:39:36] SPEAKER_02
+There's somebody who drew rocks.
+
+[00:39:38] SPEAKER_02
+And they specifically mentioned when they drew rocks that they said to Jeff, give me the
+
+[00:39:43] SPEAKER_02
+one that the other people didn't want.
+
+[00:39:45] SPEAKER_02
+Because they didn't want the weight of, like, oh, I made this choice and I fucked it up.
+
+[00:39:49] SPEAKER_02
+Like, just letting other people make it for you.
+
+[00:39:51] SPEAKER_02
+So I was like, I'm not going to stand in front of any of these.
+
+[00:39:53] SPEAKER_02
+Someone else can stand and I'll pick whatever one's left.
+
+[00:39:57] SPEAKER_02
+Michael did the same thing.
+
+[00:39:58] SPEAKER_02
+Oh, no.
+
+[00:39:59] SPEAKER_02
+So once, like, it came to pick a box, there were two available.
+
+[00:40:02] SPEAKER_02
+And I was like, well, I'm not moving.
+
+[00:40:04] SPEAKER_02
+He's like, I'm not moving.
+
+[00:40:05] SPEAKER_02
+And then he moved and he went 80% of the way to one box, which would have put him on red
+
+[00:40:09] SPEAKER_02
+team and me swapped to blue.
+
+[00:40:11] SPEAKER_02
+And then he changed paths and he switched boxes.
+
+[00:40:14] SPEAKER_02
+Wow.
+
+[00:40:14] SPEAKER_02
+So there is a very close time.
+
+[00:40:16] SPEAKER_02
+Like, the game, I think, would have completely shift if he just stayed with that one
+
+[00:40:21] SPEAKER_02
+box if I would have had to go blue.
+
+[00:40:22] SPEAKER_02
+There's so many, as much prep as I did, you need a tremendous amount of luck to win.
+
+[00:40:28] SPEAKER_02
+It's so fascinating looking at all the lucky breaks that are required along the way to
+
+[00:40:31] SPEAKER_02
+get to the end.
+
+[00:40:32] SPEAKER_06
+It was an interesting jury for sure.
+
+[00:40:34] SPEAKER_06
+Like, I feel like it felt like a jury from an early season of Survivor, where it was more
+
+[00:40:40] SPEAKER_06
+about just, like, how nicely you played.
+
+[00:40:43] SPEAKER_06
+Like, Meg didn't get votes from people on her original tribe because she was involved in
+
+[00:40:47] SPEAKER_06
+voting them out.
+
+[00:40:48] SPEAKER_06
+And I feel like in Survivor now, you get a lot of people who are like, well, you played
+
+[00:40:52] SPEAKER_06
+a game I can, you know, you played a good game of Survivor, even though you voted me
+
+[00:40:56] SPEAKER_06
+out.
+
+[00:40:56] SPEAKER_06
+So you get my vote.
+
+[00:40:57] SPEAKER_06
+And I feel like that didn't really happen for Meg on this jury.
+
+[00:41:01] SPEAKER_02
+It was a weird thing.
+
+[00:41:03] SPEAKER_02
+We're going in, as I talked about of having these kind of planned alliances.
+
+[00:41:06] SPEAKER_02
+I really wanted to be in an alliance with Blessing, Lindsey, and John.
+
+[00:41:12] SPEAKER_02
+And they were the first three people voted out.
+
+[00:41:14] SPEAKER_02
+So it's a funny thing where even though the team I was on was winning, the people that
+
+[00:41:19] SPEAKER_02
+I felt I needed for numbers kept going home.
+
+[00:41:22] SPEAKER_02
+So it was not at all helpful to, like, my vision of how the game was going to go.
+
+[00:41:25] SPEAKER_02
+It was like I was still losing.
+
+[00:41:27] SPEAKER_03
+So when you do the tribe swap, who was on your team then?
+
+[00:41:31] SPEAKER_03
+Blizz, Blaine, Meg, and myself.
+
+[00:41:33] SPEAKER_03
+So you really just lost Jack.
+
+[00:41:35] SPEAKER_02
+Yeah, Jack got flipped.
+
+[00:41:36] SPEAKER_02
+And then Gavin was in no man's land.
+
+[00:41:38] SPEAKER_02
+Right.
+
+[00:41:39] SPEAKER_02
+And he was going to join whoever lost.
+
+[00:41:40] SPEAKER_06
+You got the gray cap or whatever.
+
+[00:41:42] SPEAKER_03
+Yeah.
+
+[00:41:43] SPEAKER_06
+What did that mean?
+
+[00:41:45] SPEAKER_06
+It just meant that I missed a challenge?
+
+[00:41:47] SPEAKER_03
+Yeah, so the way it works is we had an uneven number of people.
+
+[00:41:51] SPEAKER_03
+So we split into the two groups.
+
+[00:41:52] SPEAKER_03
+One person drew, like, the gray rock, which means they don't have a team.
+
+[00:41:55] SPEAKER_03
+We sent him to exile, essentially.
+
+[00:41:59] SPEAKER_03
+Then they had their competition.
+
+[00:42:02] SPEAKER_03
+And then the losing team had to vote one of their players out.
+
+[00:42:06] SPEAKER_03
+And then Gavin replaced the person.
+
+[00:42:07] SPEAKER_04
+Oh, I like that.
+
+[00:42:08] SPEAKER_04
+That's cool.
+
+[00:42:09] SPEAKER_06
+But I also got an extra vote from that island that I could use.
+
+[00:42:14] SPEAKER_04
+Oh, that's cool.
+
+[00:42:15] SPEAKER_04
+Yeah.
+
+[00:42:15] SPEAKER_04
+Oh, I like that.
+
+[00:42:16] SPEAKER_06
+There's usually a benefit to going and getting exiled.
+
+[00:42:19] SPEAKER_06
+Yeah.
+
+[00:42:20] SPEAKER_06
+Even though you end up missing a conversation and missing a challenge.
+
+[00:42:22] SPEAKER_03
+Yeah, you miss the social game and you miss the planning.
+
+[00:42:25] SPEAKER_03
+And so you come in blind and behind the curve on that.
+
+[00:42:27] SPEAKER_03
+But if you're smart, you come in with some sort of an advantage.
+
+[00:42:29] SPEAKER_03
+And you're guaranteed you don't get voted out one episode.
+
+[00:42:31] SPEAKER_06
+I left red team and I came back to a blue team where Jack was a broken man.
+
+[00:42:42] SPEAKER_03
+Jack literally just went off on his own and built a little hut and sat in it.
+
+[00:42:45] SPEAKER_03
+Oh, I heard about that.
+
+[00:42:47] SPEAKER_03
+There's another funny thing that happened where on that blue team at the end when Jack is clamoring to find a totem because he knows it's the only way he'll stay.
+
+[00:42:59] SPEAKER_03
+And then I think Michael at some point is doing the same thing.
+
+[00:43:01] SPEAKER_03
+And we had put the totem like on the blue base.
+
+[00:43:05] SPEAKER_03
+They had built above it like this tall blue like blue wool end up looking like a sword, but it was like a cross almost.
+
+[00:43:16] SPEAKER_03
+And very early on, we were like after they built it, we were like, oh, fuck it.
+
+[00:43:19] SPEAKER_03
+Let's just let's just put it and put a totem up there.
+
+[00:43:22] SPEAKER_03
+And there was a totem up there for like half the game that nobody ever bothered to go up and look for.
+
+[00:43:27] SPEAKER_03
+It was visible.
+
+[00:43:28] SPEAKER_03
+I did so many shots of people.
+
+[00:43:30] SPEAKER_03
+I don't know if they'll make it in the episode, but I had so many shots from the totem looking down at them having conversations about where the totem would be.
+
+[00:43:37] SPEAKER_06
+Awesome.
+
+[00:43:38] SPEAKER_03
+Yeah, that's great.
+
+[00:43:39] SPEAKER_03
+It was above them the entire time.
+
+[00:43:40] SPEAKER_03
+So good.
+
+[00:43:41] SPEAKER_03
+If Jack had just there was a ladder and at some point the ladder got broken.
+
+[00:43:45] SPEAKER_03
+So I wouldn't fixed it to make sure people easily get up there.
+
+[00:43:48] SPEAKER_03
+Wow.
+
+[00:43:48] SPEAKER_03
+And like and Jack is literally running around going, I got some talk.
+
+[00:43:51] SPEAKER_03
+I don't know what the totem.
+
+[00:43:52] SPEAKER_03
+He made his own little house to the side next to it.
+
+[00:43:55] SPEAKER_03
+And he's like, if anybody had looked up, they could have seen.
+
+[00:43:58] SPEAKER_03
+Wow.
+
+[00:43:58] SPEAKER_03
+Yeah, it was wild.
+
+[00:43:59] SPEAKER_03
+That's crazy.
+
+[00:44:00] SPEAKER_03
+I don't think I don't I don't think any I don't think any contestant at this point knows that except for you two.
+
+[00:44:05] SPEAKER_03
+I think you're the first two people that know that now.
+
+[00:44:07] SPEAKER_03
+Well, I saw Michael find it.
+
+[00:44:08] SPEAKER_03
+Did he find it up there?
+
+[00:44:09] SPEAKER_03
+Yeah.
+
+[00:44:10] SPEAKER_06
+Oh, I left.
+
+[00:44:10] SPEAKER_06
+So I didn't know if anybody ever found it.
+
+[00:44:12] SPEAKER_06
+I think the next morning post Jack, he he wanted to jump off the top.
+
+[00:44:18] SPEAKER_06
+So he found it.
+
+[00:44:19] SPEAKER_06
+He found it.
+
+[00:44:19] SPEAKER_03
+I didn't know it ever got found.
+
+[00:44:21] SPEAKER_03
+Yeah.
+
+[00:44:21] SPEAKER_03
+OK, great.
+
+[00:44:21] SPEAKER_03
+Great.
+
+[00:44:22] SPEAKER_06
+Yeah.
+
+[00:44:22] SPEAKER_06
+And he straight up just showed it to me.
+
+[00:44:24] SPEAKER_06
+He was like, hey, look what I found is another one.
+
+[00:44:26] SPEAKER_06
+He was just they were just landing in his head.
+
+[00:44:28] SPEAKER_03
+Yeah, that's and that's partially where like I have blind spots now because I had to leave right after the merge, I guess.
+
+[00:44:36] SPEAKER_03
+And then so I don't really I know who won, but I don't know what happened.
+
+[00:44:39] SPEAKER_03
+And then the game from that point on.
+
+[00:44:41] SPEAKER_03
+So or not merge.
+
+[00:44:42] SPEAKER_03
+I'm sorry.
+
+[00:44:43] SPEAKER_03
+The tribe swap.
+
+[00:44:44] SPEAKER_02
+Gavin, from the point of merge, made some great decisions and explain them worse than anybody could possibly imagine.
+
+[00:44:52] SPEAKER_02
+And then also withheld information in a baffling way to me.
+
+[00:44:57] SPEAKER_02
+Like, I don't understand your logic for certain certain things.
+
+[00:45:00] SPEAKER_02
+So like we we eventually merge.
+
+[00:45:03] SPEAKER_02
+And as soon as we merge immediately, it's original red team breaks away from original blue team.
+
+[00:45:08] SPEAKER_02
+Like there's just an instant divide.
+
+[00:45:09] SPEAKER_02
+The teams are still set.
+
+[00:45:11] SPEAKER_02
+There's a line in the sand, even though we've now merged.
+
+[00:45:13] SPEAKER_02
+And Gavin tells us immediately that Michael has a totem.
+
+[00:45:16] SPEAKER_02
+But what he didn't share, because the question becomes, OK, do you vote out Michael and assume that he would play the totem for somebody else because he knows that we know that he has it.
+
+[00:45:27] SPEAKER_02
+So why would we vote him if we know he has it?
+
+[00:45:30] SPEAKER_02
+Because he could negate all our votes.
+
+[00:45:32] SPEAKER_02
+So we should target somebody else.
+
+[00:45:34] SPEAKER_02
+But if he knows that, then it would make sense for him to play it.
+
+[00:45:37] SPEAKER_02
+So it's this whole line of thinking of do we target Michael under the assumption he doesn't play it for himself?
+
+[00:45:42] SPEAKER_02
+Or do we vote out Fuya, who is clearly part of his alliance and doesn't have a totem?
+
+[00:45:47] SPEAKER_02
+But if he plays it for her, then everything could backfire.
+
+[00:45:50] SPEAKER_02
+Michael told Gavin that I am only playing the totem for myself at every single thing.
+
+[00:45:56] SPEAKER_02
+And you did not share that information.
+
+[00:45:58] SPEAKER_02
+Did I know that?
+
+[00:45:59] SPEAKER_02
+That's what Michael said.
+
+[00:46:00] SPEAKER_02
+Maybe you didn't.
+
+[00:46:01] SPEAKER_02
+It would be a weird lie for him to make.
+
+[00:46:03] SPEAKER_02
+He said that I told you and Fuya that I would never play it for anybody but myself.
+
+[00:46:08] SPEAKER_06
+Oh, I don't remember that.
+
+[00:46:10] SPEAKER_06
+I also might have just dismissed it as a lie.
+
+[00:46:12] SPEAKER_06
+I don't know.
+
+[00:46:13] SPEAKER_06
+I didn't really feel like valid.
+
+[00:46:14] SPEAKER_06
+I feel like information from Michael in that game didn't really feel like trustworthy info.
+
+[00:46:18] SPEAKER_03
+Who is there when you guys merge?
+
+[00:46:21] SPEAKER_03
+It's like you two.
+
+[00:46:22] SPEAKER_03
+It's Meg.
+
+[00:46:22] SPEAKER_03
+It's Michael, Fuya.
+
+[00:46:24] SPEAKER_03
+I think Blizz.
+
+[00:46:26] SPEAKER_02
+So it's on a red team of the original red.
+
+[00:46:29] SPEAKER_02
+It is Blaine, Gavin, Blizz, myself.
+
+[00:46:32] SPEAKER_02
+And of the original blue, it is Meg, Fuya, and Michael.
+
+[00:46:35] SPEAKER_02
+So who goes next?
+
+[00:46:36] SPEAKER_02
+So it's a 4-3.
+
+[00:46:37] SPEAKER_02
+It is a close vote, and Fuya goes next.
+
+[00:46:41] SPEAKER_02
+They put two on me.
+
+[00:46:42] SPEAKER_02
+They put, and we put three on Fuya.
+
+[00:46:45] SPEAKER_02
+And Gavin voted Michael because we talked about briefly, do we put votes on Michael or Fuya?
+
+[00:46:52] SPEAKER_02
+And then it was kind of decided on Fuya, but we didn't really have time to lock it in.
+
+[00:46:56] SPEAKER_02
+And everybody scrambled to try to find a totem because there's a new beach, so we assumed
+
+[00:47:00] SPEAKER_02
+that there'd be another totem.
+
+[00:47:02] SPEAKER_02
+We didn't solidify.
+
+[00:47:04] SPEAKER_02
+Honestly, the vote for Fuya happened in the voting booth when we were being told how the
+
+[00:47:09] SPEAKER_02
+game works.
+
+[00:47:10] SPEAKER_02
+Like, we were 80%, or at least I was confident in voting Fuya.
+
+[00:47:14] SPEAKER_02
+I didn't know who other people were voting for until we were in that scenario, just because
+
+[00:47:18] SPEAKER_02
+there wasn't time to talk.
+
+[00:47:19] SPEAKER_06
+I went away from that discussion that we had before thinking that a bunch of people were
+
+[00:47:24] SPEAKER_06
+voting Michael.
+
+[00:47:25] SPEAKER_06
+So I just, I went with that, and then no one else did.
+
+[00:47:27] SPEAKER_06
+So I was like, oh, like no one's trusting me with the real information.
+
+[00:47:31] SPEAKER_06
+And then I tried to talk to Blizz and be like, so I noticed I'm the only one that voted
+
+[00:47:35] SPEAKER_06
+for Michael there.
+
+[00:47:36] SPEAKER_06
+Like, was that some sort of loyalty test?
+
+[00:47:38] SPEAKER_06
+And Blizz was like, yeah, whatever, maybe.
+
+[00:47:42] SPEAKER_06
+And I was like, oh, I'm screwed.
+
+[00:47:44] SPEAKER_06
+Blizz is also very, very smart.
+
+[00:47:46] SPEAKER_99
+Yeah.
+
+[00:47:48] SPEAKER_06
+Yeah.
+
+[00:47:48] SPEAKER_06
+So I just felt like I was on my own from that point.
+
+[00:47:51] SPEAKER_02
+And to be fair, maybe I'm misremembering it, but I feel like the conversation we had
+
+[00:47:55] SPEAKER_02
+was very clearly Michael or Fuya, but Michael has a totem.
+
+[00:47:59] SPEAKER_02
+You're like, Michael has a totem.
+
+[00:48:00] SPEAKER_06
+I just thought we were going to split votes.
+
+[00:48:01] SPEAKER_06
+I thought it was going to be more of an even split.
+
+[00:48:03] SPEAKER_02
+But we couldn't split vote because there's two, there's two each if we split and there's
+
+[00:48:07] SPEAKER_02
+three of them.
+
+[00:48:08] SPEAKER_02
+So it makes sense to split.
+
+[00:48:09] SPEAKER_06
+At this point, I can't remember the conversation well enough, but I think in my head, I thought
+
+[00:48:13] SPEAKER_06
+I would see one more Michael vote.
+
+[00:48:15] SPEAKER_02
+So that, that happened.
+
+[00:48:17] SPEAKER_02
+I thought I was going to go home for sure.
+
+[00:48:19] SPEAKER_02
+Once I had two votes, I narrowly escaped that.
+
+[00:48:22] SPEAKER_02
+But from that point on, I don't think there was ever any reason to take me out because
+
+[00:48:25] SPEAKER_02
+Blizz was such an established threat.
+
+[00:48:27] SPEAKER_02
+Michael was an established threat.
+
+[00:48:29] SPEAKER_02
+And Gavin shook the game up with his extra vote in a way that literally everybody was
+
+[00:48:36] SPEAKER_02
+annoyed at him except the person who he said he wanted out.
+
+[00:48:40] SPEAKER_02
+They survived.
+
+[00:48:40] SPEAKER_02
+He wanted to take Michael out, apparently.
+
+[00:48:42] SPEAKER_02
+So explain.
+
+[00:48:43] SPEAKER_02
+He's the only one that was happy.
+
+[00:48:45] SPEAKER_02
+So you had your extra vote and there's something about this that you don't know.
+
+[00:48:48] SPEAKER_02
+So we, we were talking and you brought up and I put the pieces together later.
+
+[00:48:53] SPEAKER_02
+What if there's an extra vote advantage?
+
+[00:48:55] SPEAKER_02
+You said that to me in conversation before that vote because he said, cause there have
+
+[00:48:59] SPEAKER_02
+been steel of votes.
+
+[00:49:00] SPEAKER_02
+So it makes sense if it went the other way.
+
+[00:49:02] SPEAKER_02
+And I said, yeah, I don't like, I don't know if that's the case or not.
+
+[00:49:05] SPEAKER_02
+And if it is like, that's just sort of a dice roll, I guess that I'll, I'm, I'm happy
+
+[00:49:10] SPEAKER_02
+with like, we gotta, we gotta split.
+
+[00:49:12] SPEAKER_02
+I think we're splitting at that point.
+
+[00:49:13] SPEAKER_02
+I don't remember exactly, but essentially you brought up a thing and I kind of discarded
+
+[00:49:17] SPEAKER_02
+it because it's like, if I get burnt or if we get burnt by that, there's only so much
+
+[00:49:21] SPEAKER_02
+you can prepare for.
+
+[00:49:22] SPEAKER_02
+You then use that to take out Blaine.
+
+[00:49:26] SPEAKER_02
+And I had this moment where once we came back to the beach, you, we were going to split
+
+[00:49:31] SPEAKER_02
+votes on Michael and Meg.
+
+[00:49:32] SPEAKER_02
+And then if Michael didn't have a totem, we'd re-vote and vote out Michael.
+
+[00:49:36] SPEAKER_02
+We came back to our camp and you and Meg went away to have a conversation.
+
+[00:49:41] SPEAKER_06
+Oh, you're talking about before?
+
+[00:49:43] SPEAKER_02
+Before.
+
+[00:49:43] SPEAKER_02
+Yeah.
+
+[00:49:44] SPEAKER_02
+Before.
+
+[00:49:44] SPEAKER_02
+So we've locked in that we're going to split votes, the four remaining red people and Gavin
+
+[00:49:49] SPEAKER_02
+goes back and he goes to leave with Meg to fill her in on information, which I was okay
+
+[00:49:55] SPEAKER_02
+with.
+
+[00:49:55] SPEAKER_02
+You didn't see that I was there.
+
+[00:49:57] SPEAKER_02
+Then you circle back.
+
+[00:49:58] SPEAKER_02
+You're like, Hey, do you want to have this talk?
+
+[00:50:00] SPEAKER_02
+I said, no, it's fine.
+
+[00:50:00] SPEAKER_02
+You guys go.
+
+[00:50:01] SPEAKER_02
+I'll just, I'll just stay here.
+
+[00:50:02] SPEAKER_02
+Yeah.
+
+[00:50:02] SPEAKER_02
+I then realized, no, I really want to be in this talk because you're going to tell her
+
+[00:50:06] SPEAKER_02
+and then she's going to want to change the vote and I need to be there.
+
+[00:50:10] SPEAKER_02
+So it's not me.
+
+[00:50:11] SPEAKER_02
+So I spent the entire time from you leaving, trying to track you both down, just riding
+
+[00:50:16] SPEAKER_02
+around in a boat, trying to hear you.
+
+[00:50:18] SPEAKER_06
+We just pissed off into the sea on a boat.
+
+[00:50:21] SPEAKER_06
+It took us so long to get away that we only managed to have like a 60 second conversation
+
+[00:50:27] SPEAKER_06
+before we had to go.
+
+[00:50:28] SPEAKER_04
+Oh my God.
+
+[00:50:29] SPEAKER_06
+And it was at that point where I was trying to explain to Meg that I had an extra vote
+
+[00:50:33] SPEAKER_06
+and that I was basically talking, trying to not say everything because I didn't have time
+
+[00:50:39] SPEAKER_06
+to say all the stuff, but I was like, there is a possibility where I'm going home if they're
+
+[00:50:44] SPEAKER_06
+not telling me the right information.
+
+[00:50:45] SPEAKER_06
+So I thought, is that like how we'll guarantee that I don't go home and it involves just like
+
+[00:50:50] SPEAKER_06
+flicking someone else out of the game with two votes and Meg will be the third vote.
+
+[00:50:54] SPEAKER_06
+They ended up just choosing Blaine.
+
+[00:50:56] SPEAKER_02
+So the problem was, the problem was nobody was targeting and nobody was targeting me at
+
+[00:51:03] SPEAKER_02
+all.
+
+[00:51:04] SPEAKER_06
+And also that annoyed Meg later because I also didn't tell Meg that she was the other part
+
+[00:51:10] SPEAKER_06
+of the other half of the split vote on Michael.
+
+[00:51:13] SPEAKER_06
+She's like, you didn't tell me?
+
+[00:51:14] SPEAKER_06
+And in my head, I was like, well, it's irrelevant though, because we're getting rid of, we're
+
+[00:51:18] SPEAKER_06
+guaranteeing that Blaine is going.
+
+[00:51:20] SPEAKER_06
+So I was like, it doesn't really matter who the vote split was, but I was like, and
+
+[00:51:22] SPEAKER_06
+also I didn't really have time.
+
+[00:51:24] SPEAKER_06
+I had like, I was literally running out of seconds to talk to her that the fact that
+
+[00:51:27] SPEAKER_06
+I didn't get to that part or like, didn't tell her that part meant that everyone in the game
+
+[00:51:32] SPEAKER_06
+turned against me and even Meg.
+
+[00:51:33] SPEAKER_06
+So I was like, oh, there was a point in the, in the post chopping block where I just walked
+
+[00:51:39] SPEAKER_06
+into the house past everyone and just got into a bed and they were like, no, I stood
+
+[00:51:43] SPEAKER_05
+up.
+
+[00:51:44] SPEAKER_05
+I had everyone like berating me.
+
+[00:51:46] SPEAKER_05
+Are you serious?
+
+[00:51:47] SPEAKER_05
+Yeah.
+
+[00:51:48] SPEAKER_06
+And Blaine was gone and everyone was like, why did you do that?
+
+[00:51:51] SPEAKER_06
+And I was like, well, it's more like a self, self-preservative move.
+
+[00:51:55] SPEAKER_06
+It was like that.
+
+[00:51:56] SPEAKER_06
+And I equated it to that meme in fallout where it just says, everyone disliked that.
+
+[00:52:02] SPEAKER_06
+I literally turned every single person in the game against me.
+
+[00:52:07] SPEAKER_06
+I protected the person I wanted out and I just destroyed every alliance and I basically
+
+[00:52:12] SPEAKER_06
+ended my chance of winning in that.
+
+[00:52:14] SPEAKER_02
+How did you survive past that?
+
+[00:52:16] SPEAKER_02
+Well, because there's no reason to vote Gavin out because there's no way he's winning at
+
+[00:52:19] SPEAKER_02
+this point.
+
+[00:52:20] SPEAKER_02
+I don't mean that.
+
+[00:52:22] SPEAKER_02
+I don't mean that rudely, but it actually like if you'd have owned that move, I think
+
+[00:52:27] SPEAKER_02
+that's one of the best moves of the season because I'm assuming I wanted to own the
+
+[00:52:30] SPEAKER_06
+move.
+
+[00:52:31] SPEAKER_02
+No, you described it really.
+
+[00:52:32] SPEAKER_02
+I think there's a way you could have phrased it where it would have been more logical from
+
+[00:52:36] SPEAKER_02
+my perspective, at least.
+
+[00:52:37] SPEAKER_02
+I'm assuming you wanted to take Meg to the end, right?
+
+[00:52:40] SPEAKER_02
+Like you wanted Meg in the end with you.
+
+[00:52:41] SPEAKER_02
+I did not want that.
+
+[00:52:43] SPEAKER_02
+And you created the only way, I think, in which that would have happened.
+
+[00:52:47] SPEAKER_02
+My final three was you, me, and Blaine.
+
+[00:52:49] SPEAKER_02
+So I wanted to take out.
+
+[00:52:51] SPEAKER_02
+What?
+
+[00:52:52] SPEAKER_02
+I wanted to be loyal to Red and I felt like everybody else had a more convincing argument
+
+[00:52:57] SPEAKER_02
+for winning in the end.
+
+[00:52:59] SPEAKER_02
+I thought my best chances were against you two.
+
+[00:53:02] SPEAKER_06
+Well, I felt like my choice.
+
+[00:53:03] SPEAKER_06
+I wanted Michael out and I wanted Blizz out.
+
+[00:53:05] SPEAKER_06
+And I knew that they, I knew Blizz had a totem and I thought Michael did.
+
+[00:53:09] SPEAKER_06
+Yeah.
+
+[00:53:09] SPEAKER_06
+So I ended up, and I think in my interview, I said, I just like flicked Blaine out of
+
+[00:53:14] SPEAKER_06
+the game like he was a crumb.
+
+[00:53:15] SPEAKER_05
+Like that's how much thought was behind it.
+
+[00:53:17] SPEAKER_03
+I felt really bad about doing that.
+
+[00:53:18] SPEAKER_03
+But Andrew, you were looking at Blaine essentially being a goat.
+
+[00:53:22] SPEAKER_02
+Yeah.
+
+[00:53:22] SPEAKER_02
+Well, not like it's just, that's like a negative word.
+
+[00:53:25] SPEAKER_02
+I don't think he played poorly at all.
+
+[00:53:26] SPEAKER_02
+It's just the other people were more threatening to me in my view of how they're playing.
+
+[00:53:31] SPEAKER_02
+So in my head, the merge went like all the votes were exactly how I wanted until that
+
+[00:53:35] SPEAKER_02
+one.
+
+[00:53:36] SPEAKER_02
+I wanted foo you out.
+
+[00:53:37] SPEAKER_02
+And then at that point, I wanted to take out either Michael or Meg, ideally Michael.
+
+[00:53:42] SPEAKER_02
+Then after that, take out whoever was remaining of those two.
+
+[00:53:46] SPEAKER_02
+And then Blizz at some point had to be taken out.
+
+[00:53:48] SPEAKER_02
+But by you getting rid of Blaine, you completely flipped that.
+
+[00:53:53] SPEAKER_02
+You created a scenario in which it didn't make any sense to target Meg.
+
+[00:53:56] SPEAKER_02
+You ensured that she would make it to the end.
+
+[00:53:58] SPEAKER_02
+And you unified the three of us because Blizz and Michael were so clearly threats.
+
+[00:54:03] SPEAKER_02
+Like from the final five onward, I had zero anxiety really about me being the target.
+
+[00:54:09] SPEAKER_02
+I felt so comfortable, especially going into the final one.
+
+[00:54:12] SPEAKER_06
+It definitely felt like a miss for me because I didn't, like it was a wasted vote as well.
+
+[00:54:18] SPEAKER_06
+Like it was a waste of the extra vote.
+
+[00:54:19] SPEAKER_06
+And also it turned everyone against me.
+
+[00:54:22] SPEAKER_06
+But I mean, in overall, it was a guarantee that I made it one extra chopping block, not
+
+[00:54:28] SPEAKER_02
+just an extra chopping block.
+
+[00:54:30] SPEAKER_02
+You guaranteed essentially that you and Meg would be in the final because everybody Blizz
+
+[00:54:35] SPEAKER_02
+was focused on Michael.
+
+[00:54:36] SPEAKER_02
+Yeah.
+
+[00:54:37] SPEAKER_02
+And then Blizz is obviously the biggest target outside of Michael.
+
+[00:54:40] SPEAKER_02
+There's no reason to even consider voting you or Meg out or myself.
+
+[00:54:44] SPEAKER_02
+I was in the same boat.
+
+[00:54:45] SPEAKER_02
+But so like, I think it's a great move what you did.
+
+[00:54:48] SPEAKER_02
+You just described it in camp that you wanted Michael gone and it didn't go the way you
+
+[00:54:52] SPEAKER_02
+want it.
+
+[00:54:52] SPEAKER_02
+Like, I think if you would have just been like, I wanted to make it to the end with
+
+[00:54:55] SPEAKER_02
+Meg and this solidified that because now we're clearly just going to target Michael.
+
+[00:54:59] SPEAKER_06
+Yeah, I guess I should have talked about more about the positives instead of just being
+
+[00:55:02] SPEAKER_06
+like, oops.
+
+[00:55:03] SPEAKER_03
+So what you're saying is Gavin had a really smart brain and a really dumb mouth.
+
+[00:55:09] SPEAKER_03
+I guess.
+
+[00:55:10] SPEAKER_03
+Yeah.
+
+[00:55:10] SPEAKER_03
+Wow.
+
+[00:55:11] SPEAKER_05
+There was a lot of thought and calculation that went into the move.
+
+[00:55:16] SPEAKER_05
+I really didn't know how to handle six people screaming at me on Discord at the same time.
+
+[00:55:22] SPEAKER_05
+I can't wait to watch.
+
+[00:55:24] SPEAKER_05
+It was honestly like, I didn't even know where to start.
+
+[00:55:26] SPEAKER_05
+I was like, all right, OK, no, but no, but listen.
+
+[00:55:29] SPEAKER_05
+But it was like, oh, you're an idiot.
+
+[00:55:32] SPEAKER_03
+Oh, man.
+
+[00:55:32] SPEAKER_03
+So one of the things that was another thing that was happening kind of behind the scenes
+
+[00:55:36] SPEAKER_03
+that I thought was fascinating is, you know, I have personal relationships with all these
+
+[00:55:40] SPEAKER_03
+people.
+
+[00:55:40] SPEAKER_03
+And so I'm talking to him.
+
+[00:55:41] SPEAKER_03
+I'm communicating with him.
+
+[00:55:41] SPEAKER_03
+But I'm also producing the show.
+
+[00:55:43] SPEAKER_03
+So there has to be a line.
+
+[00:55:44] SPEAKER_03
+I can't give them any clues.
+
+[00:55:47] SPEAKER_03
+I don't want any appearance of impropriety.
+
+[00:55:50] SPEAKER_03
+But Andrew was doing this thing that was blowing us all away where he was telling me
+
+[00:55:55] SPEAKER_03
+he would come to me like after the first episode and he'd go like, OK, I've consulted my I've
+
+[00:55:59] SPEAKER_03
+consulted my spreadsheets and I'm 95 percent sure that that they voted out blessing first.
+
+[00:56:06] SPEAKER_03
+And I would go, OK, interesting.
+
+[00:56:09] SPEAKER_03
+And then I would go to the guys and I go, he fucking guessed it.
+
+[00:56:11] SPEAKER_03
+If Andrew correctly guessed, I want to say the first four people going home.
+
+[00:56:14] SPEAKER_03
+No way.
+
+[00:56:15] SPEAKER_03
+Yeah.
+
+[00:56:15] SPEAKER_03
+And he would just report to me at the end of every day.
+
+[00:56:17] SPEAKER_03
+He'd be like, my guess today is this person went home.
+
+[00:56:20] SPEAKER_03
+And he was right over and over and over.
+
+[00:56:22] SPEAKER_03
+It was it was like it was bizarre.
+
+[00:56:24] SPEAKER_03
+And we were all like Trevor and Will and I were all in awe.
+
+[00:56:27] SPEAKER_03
+He was basically running simulations, but just by looking at a spreadsheet.
+
+[00:56:30] SPEAKER_03
+Yeah, he was.
+
+[00:56:31] SPEAKER_02
+And he was right.
+
+[00:56:32] SPEAKER_03
+All of his prep work really paid off.
+
+[00:56:35] SPEAKER_02
+It's just Survivor is like an information and social game.
+
+[00:56:39] SPEAKER_02
+And there's so much paranoia in it.
+
+[00:56:40] SPEAKER_02
+It just makes sense to cling to relationships you've already formed.
+
+[00:56:44] SPEAKER_02
+Yeah.
+
+[00:56:44] SPEAKER_02
+So just knowing who to talk to and when to talk about things.
+
+[00:56:47] SPEAKER_02
+That was another kind of difficult part of the game that if I played again, I would play
+
+[00:56:51] SPEAKER_02
+a lot more openly because I felt like I had to conceal information.
+
+[00:56:56] SPEAKER_02
+I'd have brief moments of strategy talk where I'd like pipe in and say, like, we should split
+
+[00:57:01] SPEAKER_02
+the votes here.
+
+[00:57:01] SPEAKER_02
+Like, I'd be very clear in those moments.
+
+[00:57:03] SPEAKER_02
+But outside of that, I didn't want anyone to know that I watched Survivor at all outside
+
+[00:57:08] SPEAKER_02
+of like Gavin already knew.
+
+[00:57:09] SPEAKER_02
+Yeah.
+
+[00:57:09] SPEAKER_02
+But just as little information that they assumed I knew about the game or series as a whole
+
+[00:57:14] SPEAKER_02
+was just valuable to me.
+
+[00:57:16] SPEAKER_02
+You play dumb so well.
+
+[00:57:18] SPEAKER_02
+I just wanted to continue.
+
+[00:57:20] SPEAKER_02
+It's very natural to me.
+
+[00:57:21] SPEAKER_03
+You play dumb and Gavin says dumb.
+
+[00:57:24] SPEAKER_03
+So you guys get rid of Blaine and then Michael's next.
+
+[00:57:27] SPEAKER_03
+And then after that, you target Blizz.
+
+[00:57:29] SPEAKER_03
+Is that correct?
+
+[00:57:30] SPEAKER_03
+Yes.
+
+[00:57:31] SPEAKER_03
+That's when challenges became really important.
+
+[00:57:33] SPEAKER_03
+Yeah.
+
+[00:57:33] SPEAKER_02
+Because if Blizz wins, you guys are fucked.
+
+[00:57:35] SPEAKER_02
+So that was, yeah, the weird, my favorite.
+
+[00:57:38] SPEAKER_02
+So like first season to Survivor, Richard Hatch does this amazing move where it's the final
+
+[00:57:43] SPEAKER_02
+three and whoever wins gets to take one person with them.
+
+[00:57:46] SPEAKER_02
+And he just sits out the challenge like openly.
+
+[00:57:49] SPEAKER_02
+He sits it out and is like, well, I don't even need to play because it's in the best interest
+
+[00:57:53] SPEAKER_02
+of both people playing to take me.
+
+[00:57:55] SPEAKER_02
+They will.
+
+[00:57:56] SPEAKER_02
+If they win, they will lose against them.
+
+[00:57:58] SPEAKER_02
+If they win, they will lose against them.
+
+[00:58:00] SPEAKER_02
+I'm going to the end.
+
+[00:58:01] SPEAKER_02
+I don't need to participate in this.
+
+[00:58:03] SPEAKER_02
+And that is how I felt going into the final challenge outside of the fact we needed to
+
+[00:58:07] SPEAKER_02
+make sure Blizz didn't win.
+
+[00:58:09] SPEAKER_02
+Anyone else but Blizz.
+
+[00:58:10] SPEAKER_02
+Who won that final challenge?
+
+[00:58:11] SPEAKER_02
+I won the final challenge with an assist from Meg, which I predict people will not be
+
+[00:58:15] SPEAKER_02
+happy about.
+
+[00:58:16] SPEAKER_02
+Oh, really?
+
+[00:58:17] SPEAKER_02
+Because I was, I figured I did all.
+
+[00:58:19] SPEAKER_02
+So this is so stupid.
+
+[00:58:21] SPEAKER_02
+And the challenge before it was an escape room and you could ask for clues from Trevor
+
+[00:58:26] SPEAKER_02
+and you can negotiate those clues for how long you'd have to sit out of the next challenge.
+
+[00:58:31] SPEAKER_02
+So you'd have a time penalty applied to you if you made it to the next round.
+
+[00:58:35] SPEAKER_02
+I took one at the end of the challenge.
+
+[00:58:38] SPEAKER_02
+I was really stuck on this escape room because I was windowed.
+
+[00:58:41] SPEAKER_02
+That was the challenge that I think impacted me most not being full screen.
+
+[00:58:44] SPEAKER_02
+I couldn't see a thing.
+
+[00:58:45] SPEAKER_02
+Is it possible to see in the tiny screen?
+
+[00:58:47] SPEAKER_02
+Probably the most important challenge to be able to see in that one.
+
+[00:58:50] SPEAKER_02
+Yeah, it was.
+
+[00:58:51] SPEAKER_02
+So I, I decide, fuck it.
+
+[00:58:53] SPEAKER_02
+I'm going to take a penalty.
+
+[00:58:55] SPEAKER_02
+I agree with Trevor to take a minute 15.
+
+[00:58:57] SPEAKER_02
+I'll start a minute 15 later than everybody else on the final challenge.
+
+[00:59:00] SPEAKER_02
+As soon as we lock in the deal, Gavin wins like within a second, I didn't even get a chance
+
+[00:59:05] SPEAKER_02
+to use the clue that was given to me.
+
+[00:59:08] SPEAKER_02
+It was instant.
+
+[00:59:09] SPEAKER_02
+I was so annoyed.
+
+[00:59:11] SPEAKER_02
+So I overcome something in the final challenge, but between just being so burnt out personally
+
+[00:59:17] SPEAKER_02
+and game stuff that I had this riddle that was not complicated.
+
+[00:59:22] SPEAKER_02
+I just couldn't think of a single thing.
+
+[00:59:25] SPEAKER_02
+And so then Blizz asked, what's the riddle?
+
+[00:59:27] SPEAKER_02
+I can help you.
+
+[00:59:28] SPEAKER_02
+And I didn't want to give it to him because I felt extremely guilty if I would have won
+
+[00:59:33] SPEAKER_02
+with his assistance and then voted him out.
+
+[00:59:37] SPEAKER_02
+So then he, I waited until he was out of range and then Meg said, what's the riddle?
+
+[00:59:41] SPEAKER_02
+And then I read her the riddle and she immediately sent it to me, which I thought about it,
+
+[00:59:46] SPEAKER_02
+but we all thought that was the answer to the riddle in the first season, but it was one
+
+[00:59:50] SPEAKER_02
+of the guesses in the first season.
+
+[00:59:52] SPEAKER_02
+So it was something that I thought of, but I don't, I don't think I would have put it
+
+[00:59:55] SPEAKER_02
+together at that point.
+
+[00:59:56] SPEAKER_02
+And I don't know how close Blizz was to being able to get to the riddle portion.
+
+[01:00:00] SPEAKER_02
+So I ended up winning the final challenge and it became a point of, do I want to,
+
+[01:00:07] SPEAKER_02
+Blizz was so likable, even though I'd been targeting him the entire game, it felt difficult
+
+[01:00:12] SPEAKER_02
+to get rid of them.
+
+[01:00:13] SPEAKER_02
+And I compared it a lot to the season of Survivor that Tony won, you know, with Wu, where Wu
+
+[01:00:19] SPEAKER_02
+wins and he can either take Cass, who nobody likes, or Tony, who is by far the favorite.
+
+[01:00:24] SPEAKER_02
+And on paper, it's so obvious to just get rid of Tony, but it's difficult.
+
+[01:00:30] SPEAKER_02
+It's an interesting position to be in.
+
+[01:00:31] SPEAKER_02
+It's a lot harder in that moment because you, you like these people.
+
+[01:00:34] SPEAKER_02
+Um, but yeah, we ultimately got rid of Blizz and then that solidified a final three of Gavin
+
+[01:00:40] SPEAKER_02
+Megan.
+
+[01:00:40] SPEAKER_03
+So then you guys have to make your case how Gavin, like you go into the final three and
+
+[01:00:45] SPEAKER_03
+you make your case.
+
+[01:00:46] SPEAKER_03
+What do you, do you feel like you make a strong case?
+
+[01:00:47] SPEAKER_03
+What is your case?
+
+[01:00:48] SPEAKER_03
+Do you think you have a shot at winning at this point?
+
+[01:00:50] SPEAKER_06
+Or I feel like, I felt like I'd done quite a lot.
+
+[01:00:52] SPEAKER_06
+Like one of the reasons I pulled the trigger on using the extra vote and all that stuff
+
+[01:00:55] SPEAKER_06
+is that I really didn't want to go home without using it.
+
+[01:00:57] SPEAKER_06
+Yeah.
+
+[01:00:58] SPEAKER_06
+And I also felt like I hadn't actually done that much in terms of let's put a mark on the
+
+[01:01:03] SPEAKER_06
+game that was my fault.
+
+[01:01:04] SPEAKER_06
+Yeah.
+
+[01:01:05] SPEAKER_06
+So it felt like a good move from that regard, but because it pissed everyone off, my, my
+
+[01:01:09] SPEAKER_06
+big selling point of how I played the game and what I'd done was, which is annoying
+
+[01:01:14] SPEAKER_06
+everyone really.
+
+[01:01:15] SPEAKER_06
+So I, I, I, I was pretty, I was surprised I got one vote, honestly, in the, uh, who voted
+
+[01:01:21] SPEAKER_06
+for you, do you know?
+
+[01:01:22] SPEAKER_06
+Jack.
+
+[01:01:25] SPEAKER_06
+I was very surprised to see my face up there once.
+
+[01:01:29] SPEAKER_06
+Even though, even though I feel like I'd done quite a lot of stuff in the game at that
+
+[01:01:32] SPEAKER_06
+point, I felt like I'd done some good work.
+
+[01:01:34] SPEAKER_06
+I'd won a few challenges.
+
+[01:01:35] SPEAKER_02
+Yeah.
+
+[01:01:36] SPEAKER_02
+You'd survived exiles.
+
+[01:01:37] SPEAKER_06
+I'd had to adapt to a different, a bunch of different situations, mostly from my own
+
+[01:01:41] SPEAKER_06
+wake, like from the fallout from my own moves.
+
+[01:01:44] SPEAKER_06
+But, um, yeah.
+
+[01:01:46] SPEAKER_04
+Dude, Jack being your one vote is so funny.
+
+[01:01:50] SPEAKER_03
+So, uh, Andrew, do you think at this point going in, you have a shot at winning?
+
+[01:01:54] SPEAKER_03
+Who do you think, like, do you think you're going to win or do you think it's going to
+
+[01:01:57] SPEAKER_03
+be Gavin or Meg?
+
+[01:01:57] SPEAKER_02
+It was a weird thing where I think now that I've had some time away from it and to, like,
+
+[01:02:03] SPEAKER_02
+look back on it, I think I definitely deserved the win.
+
+[01:02:06] SPEAKER_02
+I think I played pretty well, but I didn't think I'd be able to sell it because so much
+
+[01:02:10] SPEAKER_02
+of the good moves I made were the choices I didn't do.
+
+[01:02:13] SPEAKER_02
+Like, not overplaying at camp, limiting my conversations, not being overly strategic with
+
+[01:02:18] SPEAKER_02
+people, like, just kind of being chill and relaxed and not making myself a threat in
+
+[01:02:22] SPEAKER_02
+any way.
+
+[01:02:22] SPEAKER_02
+And I felt like that was a really hard selling point to people that didn't see the game
+
+[01:02:27] SPEAKER_02
+at all to just say, hey, the best things I did was nothing, essentially.
+
+[01:02:30] SPEAKER_02
+Was having the knowledge of things I could do, but not overplaying.
+
+[01:02:34] SPEAKER_02
+Right.
+
+[01:02:34] SPEAKER_06
+I think I was surprised at the amount that the butthurtness of what happened to those individuals
+
+[01:02:40] SPEAKER_06
+lingered into the jury.
+
+[01:02:42] SPEAKER_06
+Oh, yeah.
+
+[01:02:42] SPEAKER_06
+Because that's what I feel like doesn't really happen that much now in modern Survivor.
+
+[01:02:46] SPEAKER_06
+That's why I feel like it was like a, it felt like a season 40 final three talking to
+
+[01:02:53] SPEAKER_06
+like a season two jury is what I've equated it to.
+
+[01:02:55] SPEAKER_06
+Okay.
+
+[01:02:55] SPEAKER_03
+Yeah.
+
+[01:02:55] SPEAKER_03
+Because like now in Survivor, just getting, getting to the finals just means that you're,
+
+[01:03:00] SPEAKER_03
+you're going to get endorsement deals.
+
+[01:03:02] SPEAKER_03
+You're going to get to be on other seasons of Survivor.
+
+[01:03:04] SPEAKER_03
+You're going to get to be on the challenge and other shows.
+
+[01:03:07] SPEAKER_03
+Like you kind of have made it if you make it that far, you know what I mean?
+
+[01:03:10] SPEAKER_03
+Like your day job's probably over and you get to now be the person who was on Survivor.
+
+[01:03:14] SPEAKER_03
+Right.
+
+[01:03:16] SPEAKER_03
+And that was definitely not the case early on.
+
+[01:03:18] SPEAKER_03
+You were, you were fucking, you wasted 50 days on an island.
+
+[01:03:23] SPEAKER_02
+Okay.
+
+[01:03:24] SPEAKER_02
+Well, so then you win.
+
+[01:03:27] SPEAKER_02
+I do win.
+
+[01:03:27] SPEAKER_02
+I, to be honest, I don't think I, I think I could have sold myself a lot better because
+
+[01:03:30] SPEAKER_02
+there's a lot of moves.
+
+[01:03:31] SPEAKER_02
+I don't think the jury even realized that I found a totem.
+
+[01:03:34] SPEAKER_02
+Like, I don't think that came up at all in our conversations.
+
+[01:03:36] SPEAKER_02
+So I, I think I could have, oh yeah, I didn't tell you, I guess you don't know that.
+
+[01:03:40] SPEAKER_02
+I found a totem on the fifth, the final five.
+
+[01:03:43] SPEAKER_02
+Oh, okay.
+
+[01:03:44] SPEAKER_02
+So I was safe final five with the totem.
+
+[01:03:46] SPEAKER_02
+I kind of wish in retrospect that I didn't play it because I knew I wasn't going to get
+
+[01:03:50] SPEAKER_02
+votes and I felt like that would have been a great jury move of showing that and being
+
+[01:03:53] SPEAKER_02
+like, I didn't even need this.
+
+[01:03:55] SPEAKER_02
+I was so comfortable in my game.
+
+[01:03:57] SPEAKER_02
+Um, but yeah, I, I found the totem that I safe at four.
+
+[01:04:01] SPEAKER_02
+Um, yeah, I don't, I don't know what I was going to say.
+
+[01:04:03] SPEAKER_02
+Sorry.
+
+[01:04:04] SPEAKER_02
+I completely.
+
+[01:04:04] SPEAKER_02
+Yeah.
+
+[01:04:05] SPEAKER_06
+It's, it's, it's, it's difficult to talk about.
+
+[01:04:07] SPEAKER_06
+I've always found it difficult to describe stuff I've done in like a positive way.
+
+[01:04:11] SPEAKER_06
+I'm really bad at that.
+
+[01:04:12] SPEAKER_06
+Yeah.
+
+[01:04:13] SPEAKER_06
+Like, you just feel like weird and braggy and weird.
+
+[01:04:15] SPEAKER_06
+It's like, it's much harder than it seems.
+
+[01:04:18] SPEAKER_02
+It is.
+
+[01:04:19] SPEAKER_06
+Cause I just, as soon as I stood up there talking to people, I just wanted to be over as soon
+
+[01:04:23] SPEAKER_06
+as possible.
+
+[01:04:24] SPEAKER_06
+I was like, how, how long until I could stop talking?
+
+[01:04:28] SPEAKER_02
+Exactly.
+
+[01:04:28] SPEAKER_02
+Yeah.
+
+[01:04:29] SPEAKER_02
+I had the thought before we did the, the like jury conversation, uh, there was like
+
+[01:04:34] SPEAKER_02
+5% of me that wished I had been voted out.
+
+[01:04:36] SPEAKER_02
+So I just didn't have to do that.
+
+[01:04:37] SPEAKER_02
+Like the nerves of having to try to positively explain your game and also be questioned by
+
+[01:04:42] SPEAKER_02
+people is very anxious.
+
+[01:04:45] SPEAKER_03
+Well, I gotta say, uh, I'm, I'm really happy you won, Andrew.
+
+[01:04:49] SPEAKER_03
+I'm, I'm happy by proxy face one.
+
+[01:04:51] SPEAKER_03
+Uh, and I'm amazed that you two didn't stab each other in the back.
+
+[01:04:56] SPEAKER_03
+I really thought, really, I really thought that you guys would go at it early on.
+
+[01:05:00] SPEAKER_04
+100%.
+
+[01:05:01] SPEAKER_03
+Yeah.
+
+[01:05:01] SPEAKER_03
+100%.
+
+[01:05:02] SPEAKER_03
+I really thought that I was really, I mean, I'll be honest with you.
+
+[01:05:04] SPEAKER_03
+I was trying to create paranoia episodes.
+
+[01:05:06] SPEAKER_03
+Oh, I was paranoid from beginning to end.
+
+[01:05:08] SPEAKER_06
+To turn you guys against each other.
+
+[01:05:09] SPEAKER_06
+Oh, 100%.
+
+[01:05:10] SPEAKER_06
+Yeah.
+
+[01:05:10] SPEAKER_06
+I just couldn't like, I just couldn't make Andrew the one I flicked out of the game.
+
+[01:05:14] SPEAKER_06
+Yeah.
+
+[01:05:14] SPEAKER_06
+No, I get that.
+
+[01:05:15] SPEAKER_02
+There was one betrayal and it was Gavin to me.
+
+[01:05:18] SPEAKER_02
+I didn't betray Gavin once.
+
+[01:05:19] SPEAKER_02
+He didn't tell me about his extra vote and he did a move that like, didn't give me
+
+[01:05:23] SPEAKER_02
+any indication for it all.
+
+[01:05:24] SPEAKER_06
+I don't think that was a betrayal.
+
+[01:05:26] SPEAKER_06
+I think that was just, no, well, you didn't, to me, the most frustrating thing people do
+
+[01:05:30] SPEAKER_06
+in survivor is tell people about their advantages because it just leaks all around instantly.
+
+[01:05:35] SPEAKER_02
+It can, but like, that's the thing of like needing that trust because we're a backstabbed
+
+[01:05:39] SPEAKER_02
+you.
+
+[01:05:40] SPEAKER_02
+If the people were different, I would have lost trust for you and I was a hundred percent
+
+[01:05:44] SPEAKER_02
+loyal.
+
+[01:05:45] SPEAKER_02
+I would have told you everything I had outside of a totem.
+
+[01:05:47] SPEAKER_02
+That'd be, I'd be on the fence about that, but like, hang on, hang on, hang on, hang
+
+[01:05:53] SPEAKER_04
+on.
+
+[01:05:53] SPEAKER_04
+Hang on.
+
+[01:05:53] SPEAKER_04
+You just said that you would tell him everything you had and then immediately said, except
+
+[01:05:57] SPEAKER_04
+for this thing, I would not tell you about, which is what Gavin, that was the betrayal.
+
+[01:06:03] SPEAKER_04
+No, no, no, no, you need to, you need to understand.
+
+[01:06:09] SPEAKER_02
+What you need to understand is that there's different levels of information and power with
+
+[01:06:13] SPEAKER_02
+different items.
+
+[01:06:13] SPEAKER_02
+This, this is.
+
+[01:06:14] SPEAKER_02
+An extra vote is not equivalent to the power of a totem.
+
+[01:06:17] SPEAKER_02
+Says you.
+
+[01:06:18] SPEAKER_02
+Thanks.
+
+[01:06:19] SPEAKER_02
+Well.
+
+[01:06:19] SPEAKER_02
+No, that's just fundamentally different in the game.
+
+[01:06:21] SPEAKER_02
+They're, they're, they have a different value.
+
+[01:06:23] SPEAKER_06
+Look, I didn't play a good game.
+
+[01:06:24] SPEAKER_06
+All right.
+
+[01:06:24] SPEAKER_06
+I played, I played a very sloppy game.
+
+[01:06:26] SPEAKER_06
+I would do a lot of things differently.
+
+[01:06:27] SPEAKER_06
+I would have trusted you a lot more.
+
+[01:06:29] SPEAKER_02
+I think you played a good game.
+
+[01:06:30] SPEAKER_06
+I don't think you played sloppy.
+
+[01:06:31] SPEAKER_06
+I played an okay game.
+
+[01:06:32] SPEAKER_06
+I guaranteed myself in the final three.
+
+[01:06:35] SPEAKER_06
+I had no chance of winning with that group.
+
+[01:06:39] SPEAKER_02
+It's a tough group.
+
+[01:06:39] SPEAKER_02
+Like, you never know.
+
+[01:06:40] SPEAKER_02
+That's the thing with playing the game as well as like, you can, the people you vote
+
+[01:06:44] SPEAKER_02
+out will have to determine the winner.
+
+[01:06:46] SPEAKER_02
+And no matter what you do, you never fully have a true read of what they're going to
+
+[01:06:50] SPEAKER_02
+do.
+
+[01:06:50] SPEAKER_02
+Like, all you can do is hope at that point.
+
+[01:06:52] SPEAKER_02
+And you did everything.
+
+[01:06:53] SPEAKER_02
+You put yourself in a position to win, which is the best you can do.
+
+[01:06:56] SPEAKER_02
+I'll take that.
+
+[01:06:57] SPEAKER_02
+There you go.
+
+[01:06:58] SPEAKER_03
+Well, uh, I guess we should probably wrap up this, uh, this concludes the supplemental
+
+[01:07:04] SPEAKER_03
+SBI post show for face that we, we promised the audience.
+
+[01:07:09] SPEAKER_03
+Uh, if you've made it this far and you're listening to me say this, hopefully you've already
+
+[01:07:13] SPEAKER_03
+seen survive block Island meltdown.
+
+[01:07:16] SPEAKER_03
+Uh, otherwise we just spoiled the shit out of it.
+
+[01:07:18] SPEAKER_03
+However, if you just listened to this and haven't watched SBI, I still recommend doing it.
+
+[01:07:25] SPEAKER_03
+There's a lot of meat on that bone.
+
+[01:07:27] SPEAKER_03
+There's a lot of stuff that happens.
+
+[01:07:29] SPEAKER_03
+A lot of hilarity.
+
+[01:07:30] SPEAKER_03
+There's stuff that none of us here in this room.
+
+[01:07:32] SPEAKER_03
+Yes.
+
+[01:07:33] SPEAKER_06
+I've seen.
+
+[01:07:33] SPEAKER_06
+Absolutely.
+
+[01:07:34] SPEAKER_06
+You miss some.
+
+[01:07:35] SPEAKER_06
+Like I'm, I'm can't wait to watch it just to see the stuff I didn't live.
+
+[01:07:38] SPEAKER_06
+Yeah.
+
+[01:07:38] SPEAKER_06
+Honestly.
+
+[01:07:38] SPEAKER_03
+I just want to see blue.
+
+[01:07:39] SPEAKER_03
+All the stuff that I saw was the stuff you guys haven't seen in vice versa.
+
+[01:07:43] SPEAKER_03
+Yeah.
+
+[01:07:43] SPEAKER_03
+Like most of my experience, because all the losing was happening on blue team.
+
+[01:07:47] SPEAKER_03
+So in those early episodes, the majority of the filming needs to be on the losing team.
+
+[01:07:52] SPEAKER_03
+And so I got, I, I got a lot of their camp life, a lot of their competition and much less
+
+[01:07:58] SPEAKER_03
+of y'all.
+
+[01:07:58] SPEAKER_03
+So when I watch it, I'll be seeing a lot of, a lot of what you guys are describing for
+
+[01:08:02] SPEAKER_03
+the first time.
+
+[01:08:02] SPEAKER_04
+I'm just, I'm really excited to watch Jack, uh, fall apart and build his own little hut
+
+[01:08:06] SPEAKER_04
+to the side of everyone else.
+
+[01:08:08] SPEAKER_04
+Fucking awesome.
+
+[01:08:09] SPEAKER_04
+I can't, I can't wait.
+
+[01:08:11] SPEAKER_05
+He, at one point I went over to his hut and I just put up a sign saying you're next.
+
+[01:08:16] SPEAKER_04
+Just to mess with me.
+
+[01:08:18] SPEAKER_04
+And he voted.
+
+[01:08:19] SPEAKER_04
+He was the one to vote for him.
+
+[01:08:22] SPEAKER_05
+I was trying to, I was trying to win some favor with Michael.
+
+[01:08:24] SPEAKER_05
+So I just did that right in front of him.
+
+[01:08:27] SPEAKER_03
+Jack does this thing.
+
+[01:08:28] SPEAKER_03
+It's like in Minecraft lore and age Minecraft lore where he gets mad.
+
+[01:08:31] SPEAKER_03
+He's like, well, I'm going to go build a house.
+
+[01:08:32] SPEAKER_03
+Fuck it.
+
+[01:08:33] SPEAKER_03
+I was like, I'm not playing.
+
+[01:08:33] SPEAKER_03
+I'm taking my ball and going home.
+
+[01:08:35] SPEAKER_03
+And he was, he hit that right around that moment.
+
+[01:08:38] SPEAKER_03
+It was really funny.
+
+[01:08:38] SPEAKER_06
+You got to appreciate how nice Jack is and how honest Jack is.
+
+[01:08:41] SPEAKER_06
+I feel like there's no room for that in survival.
+
+[01:08:43] SPEAKER_03
+No, not at all.
+
+[01:08:44] SPEAKER_03
+He's too pure for the game.
+
+[01:08:46] SPEAKER_02
+I talked about in one of my confessionals that I trusted Jack because his whole brand
+
+[01:08:50] SPEAKER_02
+is charity and being nice.
+
+[01:08:52] SPEAKER_02
+So I just didn't see him going against that.
+
+[01:08:54] SPEAKER_02
+But I had no idea to what extent he was holding to like, I will never lie to anybody.
+
+[01:08:59] SPEAKER_04
+Awesome.
+
+[01:09:00] SPEAKER_04
+Awesome.
+
+[01:09:01] SPEAKER_04
+Uh, okay.
+
+[01:09:02] SPEAKER_04
+Well, I guess we should probably wrap it up.
+
+[01:09:03] SPEAKER_04
+Yep.
+
+[01:09:04] SPEAKER_04
+Uh, thanks for listening.
+
+[01:09:05] SPEAKER_04
+You should listen to the regular episodes of this podcast though.
+
+[01:09:08] SPEAKER_03
+Yeah, absolutely.
+
+[01:09:09] SPEAKER_03
+And, and yeah, if you're an SBI fan who made your way over here to get a little bit more
+
+[01:09:12] SPEAKER_03
+SBI content, uh, check out face, uh, the podcast.
+
+[01:09:16] SPEAKER_03
+It's, it's, it's okay.
+
+[01:09:18] SPEAKER_04
+There's more backstabbing.
+
+[01:09:20] SPEAKER_06
+I would say in episodes of, oh yeah, sometimes multiple knives in the back, but sometimes
+
+[01:09:26] SPEAKER_03
+there's front stabbing too.
+
+[01:09:29] SPEAKER_03
+We don't have a wait for the back.
+
+[01:09:30] SPEAKER_03
+Okay.
+
+[01:09:30] SPEAKER_04
+Well, thanks for listening.
+
+[01:09:31] SPEAKER_04
+Goodbye.
+
+[01:09:32] SPEAKER_04
+Bye.
+
+[01:09:32] SPEAKER_04
+Bye.
+
+[01:09:32] SPEAKER_04
+Bye.
+
+[01:09:32] SPEAKER_04
+Bye.
