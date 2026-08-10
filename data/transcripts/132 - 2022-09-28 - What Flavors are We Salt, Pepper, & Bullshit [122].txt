@@ -1,0 +1,4284 @@
+# Episode 132: What Flavors are We? // Salt, Pepper, & Bullshit [122]
+published: 2022-09-28T07:00:00+00:00  |  duration: 00:55:47
+source: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER1026051851.mp3?updated=1774028160
+transcribed: 2026-08-07T15:55:48.117929-04:00  |  model: large-v3-turbo
+diarization: pyannote/speaker-diarization-3.1
+
+
+[00:00:10] SPEAKER_05
+Hello, and welcome to another episode of the F**kface Podcast. My name is Geoff Ramsey. With me, as always, Andrew Panton from Canada, Gavin Free, from England via America.
+
+[00:00:24] SPEAKER_05
+And this is episode something, volume, something, or other, year, whatever.
+
+[00:00:31] SPEAKER_05
+Oh, it's back.
+
+[00:00:32] SPEAKER_05
+Oh, we did it.
+
+[00:00:33] SPEAKER_05
+Whatever the f**k it is. Episode 122, year, something, volume, something else.
+
+[00:00:38] SPEAKER_05
+And, uh, hello, boys.
+
+[00:00:41] SPEAKER_05
+Hi.
+
+[00:00:42] SPEAKER_05
+Hi.
+
+[00:00:42] SPEAKER_05
+Look at that. We both did it. Successfully. That was smooth.
+
+[00:00:45] SPEAKER_05
+We got a lot to talk about today.
+
+[00:00:47] SPEAKER_05
+It's been a while.
+
+[00:00:48] SPEAKER_05
+I wrote notes. It's been a minute.
+
+[00:00:50] SPEAKER_05
+So I'm just gonna, I'm gonna burn through some of these notes.
+
+[00:00:52] SPEAKER_05
+I'm gonna burn through some of these notes, uh, because they, uh, it's like housekeeping shit.
+
+[00:00:58] SPEAKER_05
+Number one thing we should cover.
+
+[00:01:00] SPEAKER_03
+Well, we should be clear, though. This isn't monkey morning.
+
+[00:01:03] SPEAKER_05
+No, no, we'll get there. It's number four on the list.
+
+[00:01:05] SPEAKER_05
+Sorry.
+
+[00:01:05] SPEAKER_05
+Okay.
+
+[00:01:06] SPEAKER_05
+And it was never monkey morning. It was monkey lunch.
+
+[00:01:09] SPEAKER_05
+But anyway.
+
+[00:01:09] SPEAKER_05
+Oh, sorry.
+
+[00:01:10] SPEAKER_05
+Uh, monkey morning.
+
+[00:01:11] SPEAKER_05
+That was, that was a previous iteration of this video.
+
+[00:01:14] SPEAKER_05
+Uh, okay.
+
+[00:01:15] SPEAKER_05
+Right out of the gate.
+
+[00:01:16] SPEAKER_05
+We talked about it last week.
+
+[00:01:17] SPEAKER_05
+Uh, I think we even put some photos up.
+
+[00:01:20] SPEAKER_05
+The baseballs are coming out.
+
+[00:01:21] SPEAKER_05
+The pre-s, pre-hit, autographed, in paint, uh, f**k face, second round of baseballs, hit by me, signed by me, uh, is releasing on the Rooster Teeth website.
+
+[00:01:32] SPEAKER_05
+On 12 central p.m., September 30th.
+
+[00:01:38] SPEAKER_05
+So that's Friday, September 30th at 12 noon central time.
+
+[00:01:42] SPEAKER_05
+Prepare to be pissed off.
+
+[00:01:44] SPEAKER_05
+Prepare to be pissed off.
+
+[00:01:47] SPEAKER_05
+Uh, I believe there are about 200 and some change.
+
+[00:01:51] SPEAKER_05
+I think it's 205.
+
+[00:01:52] SPEAKER_05
+Let's run that.
+
+[00:01:53] SPEAKER_05
+205.
+
+[00:01:54] SPEAKER_05
+Okay.
+
+[00:01:54] SPEAKER_05
+So we got 205 baseballs.
+
+[00:01:56] SPEAKER_05
+So, uh, there you go.
+
+[00:01:59] SPEAKER_05
+If you want one, that's how you get one.
+
+[00:02:01] SPEAKER_05
+Go to the Rooster Teeth store, uh, roosterteeth.com and, uh, uh, be there.
+
+[00:02:07] SPEAKER_05
+I don't get there at 1158.
+
+[00:02:09] SPEAKER_05
+Get there a little early.
+
+[00:02:10] SPEAKER_05
+You never know.
+
+[00:02:11] SPEAKER_03
+Well, they're going to be sold out by 1155.
+
+[00:02:13] SPEAKER_03
+So why are we even?
+
+[00:02:14] SPEAKER_00
+No, no, I've been assured we have this fixed.
+
+[00:02:18] SPEAKER_00
+It will go on sale on time.
+
+[00:02:20] SPEAKER_00
+Uh, if you go to the site and you mark the thing like, Hey, let me know when this is back.
+
+[00:02:24] SPEAKER_00
+It'll send you a direct link.
+
+[00:02:25] SPEAKER_00
+It'll be the fastest way.
+
+[00:02:26] SPEAKER_00
+You're welcome.
+
+[00:02:27] SPEAKER_00
+You're welcome.
+
+[00:02:28] SPEAKER_00
+Wow.
+
+[00:02:29] SPEAKER_03
+Can we please bet some whether it all falls apart?
+
+[00:02:32] SPEAKER_05
+Uh, sure.
+
+[00:02:33] SPEAKER_05
+Yeah.
+
+[00:02:33] SPEAKER_05
+I'm going to bet it.
+
+[00:02:34] SPEAKER_05
+I bet it where it goes smoothly.
+
+[00:02:36] SPEAKER_05
+Yeah.
+
+[00:02:36] SPEAKER_05
+I think it goes smoothly as well.
+
+[00:02:37] SPEAKER_05
+I bet it doesn't.
+
+[00:02:38] SPEAKER_00
+I, it f**king better go smoothly.
+
+[00:02:43] SPEAKER_00
+All right.
+
+[00:02:46] SPEAKER_05
+Uh, okay.
+
+[00:02:47] SPEAKER_05
+Next piece of house cleaning.
+
+[00:02:49] SPEAKER_05
+Uh, when we ended the last episode, we were very excited to jump into this one because
+
+[00:02:53] SPEAKER_05
+we were going to hammer out the rules and get started on our alphabet food challenge.
+
+[00:02:59] SPEAKER_05
+However, uh, and we'll get into this a little bit later as well, because we're supposed to
+
+[00:03:02] SPEAKER_05
+be doing the monkey movie right now.
+
+[00:03:04] SPEAKER_05
+Uh, we're having to do back to backs today, so it would make no sense for us to develop
+
+[00:03:09] SPEAKER_05
+the rules and get it all squared away and then immediately go into another recording where
+
+[00:03:14] SPEAKER_05
+we can't talk about it.
+
+[00:03:15] SPEAKER_05
+So we'll handle all of that in episode 123.
+
+[00:03:18] SPEAKER_05
+I apologize.
+
+[00:03:19] SPEAKER_05
+I think you were probably expecting it in 122 because I'm pretty sure we, we definitely
+
+[00:03:23] SPEAKER_05
+said we'd start that.
+
+[00:03:24] SPEAKER_05
+It would a hundred percent start in, uh, episode 122.
+
+[00:03:26] SPEAKER_05
+But just because of the logistically, I think it would be way, it would f**k you guys and
+
+[00:03:30] SPEAKER_05
+us way harder to figure it all out this week and then have a whole episode that we, we
+
+[00:03:35] SPEAKER_05
+don't discuss it at all and then go into it.
+
+[00:03:37] SPEAKER_05
+So we'll just skip any alphabet conversations, uh, and push those to the recording that we're
+
+[00:03:43] SPEAKER_05
+going to do immediately after this one ends.
+
+[00:03:45] SPEAKER_05
+Okay.
+
+[00:03:46] SPEAKER_05
+Everybody's okay with that.
+
+[00:03:46] SPEAKER_05
+All right.
+
+[00:03:47] SPEAKER_02
+Yeah, that's fine.
+
+[00:03:48] SPEAKER_02
+Are, so are we going to start then on the Monday, uh, next Monday with that for us,
+
+[00:03:53] SPEAKER_02
+not them.
+
+[00:03:54] SPEAKER_05
+Uh, we'll, we'll, we'll discuss that next episode.
+
+[00:03:56] SPEAKER_03
+Okay.
+
+[00:03:57] SPEAKER_03
+Andrew really wants it to happen in this episode.
+
+[00:03:59] SPEAKER_05
+Yeah.
+
+[00:03:59] SPEAKER_05
+I don't know the answer, but I know, but I don't want to talk about it right now because
+
+[00:04:03] SPEAKER_05
+there's, there's no such thing as a question.
+
+[00:04:06] SPEAKER_05
+You'll open a can of worms.
+
+[00:04:08] SPEAKER_05
+It's a, it's brutal.
+
+[00:04:10] SPEAKER_05
+Uh, I just, I'll, you know, we'll get into this next episode too, but I just had what
+
+[00:04:13] SPEAKER_05
+I thought was a simple dinner with Eric the other night and it turned contentious
+
+[00:04:17] SPEAKER_05
+quickly.
+
+[00:04:17] SPEAKER_05
+So, uh, I don't even want to cover, I don't even want to cover the alphabet.
+
+[00:04:21] SPEAKER_05
+What can we talk about this episode?
+
+[00:04:23] SPEAKER_05
+Well, the, I'll tell you the number one thing I'd like to talk about.
+
+[00:04:26] SPEAKER_05
+It's why we're not filming a goddamn monkey movie again.
+
+[00:04:33] SPEAKER_05
+This is so fucking ludicrous.
+
+[00:04:36] SPEAKER_05
+How this, I was trying to figure it out.
+
+[00:04:38] SPEAKER_05
+I think each of us have now been responsible for, for pushing the MVP to recording at least
+
+[00:04:46] SPEAKER_05
+twice.
+
+[00:04:47] SPEAKER_03
+That was my first push.
+
+[00:04:48] SPEAKER_03
+I think I think it's your second.
+
+[00:04:50] SPEAKER_03
+What?
+
+[00:04:51] SPEAKER_03
+I'm not sure about that.
+
+[00:04:52] SPEAKER_03
+Andrew definitely shoved it.
+
+[00:04:54] SPEAKER_03
+I did one.
+
+[00:04:55] SPEAKER_02
+No, I did.
+
+[00:04:56] SPEAKER_02
+Okay.
+
+[00:04:56] SPEAKER_02
+You know, fuck you.
+
+[00:04:57] SPEAKER_02
+Gavin, I've done, no, I've done it once.
+
+[00:04:59] SPEAKER_05
+I've had one shuffle.
+
+[00:05:01] SPEAKER_05
+I think everybody's done it.
+
+[00:05:02] SPEAKER_05
+I think everybody's done it a hundred times.
+
+[00:05:04] SPEAKER_05
+Gavin, you motherfucker.
+
+[00:05:05] SPEAKER_05
+Now you're, you're the reason we're not filming the monkey movie right now.
+
+[00:05:08] SPEAKER_05
+Uh, I hope you enjoyed your vacation.
+
+[00:05:10] SPEAKER_05
+Uh, it was lovely.
+
+[00:05:11] SPEAKER_03
+I realized that the, uh, the time I landed was exactly the time that monkey lunch started
+
+[00:05:17] SPEAKER_03
+or monkey.
+
+[00:05:19] SPEAKER_03
+So I'd say British airways, 50% to blame.
+
+[00:05:22] SPEAKER_05
+Oh, God damn, dude.
+
+[00:05:24] SPEAKER_05
+So the current plan is that we film the monkey movie next week.
+
+[00:05:29] SPEAKER_05
+I think, is that right?
+
+[00:05:30] SPEAKER_05
+Yes.
+
+[00:05:31] SPEAKER_02
+Friday.
+
+[00:05:32] SPEAKER_00
+The exact same time as now.
+
+[00:05:34] SPEAKER_00
+Yes.
+
+[00:05:34] SPEAKER_00
+So now it is on the calendar next Friday.
+
+[00:05:36] SPEAKER_00
+Well, that means nothing.
+
+[00:05:37] SPEAKER_00
+It was on the calendar for this week.
+
+[00:05:39] SPEAKER_00
+I a hundred percent agree with you, but it's still on the calendar.
+
+[00:05:42] SPEAKER_03
+Usually whenever I have to move something or if I'm going to be late or miss a podcast,
+
+[00:05:46] SPEAKER_03
+Eric's like, oh, no problem.
+
+[00:05:48] SPEAKER_03
+Sort it out.
+
+[00:05:49] SPEAKER_03
+Eric's response this time was Jesus Christ.
+
+[00:05:54] SPEAKER_05
+It's like, I'm just, I'm so disgusted by all of us.
+
+[00:05:58] SPEAKER_05
+I can't, I have zero.
+
+[00:06:00] SPEAKER_05
+You want to talk about a bet?
+
+[00:06:01] SPEAKER_05
+Let's place a bet on whether we film the monkey movie next week or not.
+
+[00:06:04] SPEAKER_02
+How about that?
+
+[00:06:05] SPEAKER_02
+I feel way more.
+
+[00:06:07] SPEAKER_02
+No, not way more.
+
+[00:06:07] SPEAKER_02
+I feel equally confident on both those things.
+
+[00:06:09] SPEAKER_02
+I also like that you're, you're leading this charge.
+
+[00:06:11] SPEAKER_02
+I feel like you've pushed the monkey movie the most, Jeff.
+
+[00:06:14] SPEAKER_02
+I think I have to, but now I'm telling you, everybody has pushed the monkey movie.
+
+[00:06:18] SPEAKER_03
+Well, I mean, totally.
+
+[00:06:19] SPEAKER_03
+I only pushed f*** face.
+
+[00:06:21] SPEAKER_03
+I didn't push the monkey movie.
+
+[00:06:22] SPEAKER_03
+So I didn't think I could even take, all I did yesterday was land at the time we were
+
+[00:06:26] SPEAKER_03
+recording f*** face.
+
+[00:06:27] SPEAKER_00
+No, you put, you push the monkey movie by virtue of you having to push f*** face.
+
+[00:06:31] SPEAKER_00
+Yeah.
+
+[00:06:33] SPEAKER_00
+Priorities.
+
+[00:06:34] SPEAKER_00
+It's, it's absolutely dominoes and you set them off.
+
+[00:06:37] SPEAKER_00
+That's a great way to put it.
+
+[00:06:39] SPEAKER_05
+Nick is changing opinions like the wind right now in the discord.
+
+[00:06:43] SPEAKER_02
+Nick says, that's true.
+
+[00:06:45] SPEAKER_02
+And then below it, that's also true.
+
+[00:06:47] SPEAKER_02
+Well, I will say that the monkey movie being pushed, I think ultimately is a good thing
+
+[00:06:55] SPEAKER_02
+because it has given me more time to put together my presentation.
+
+[00:06:58] SPEAKER_02
+How much time do you need for your PowerPoint?
+
+[00:06:59] SPEAKER_02
+No, this is what I'm going to, this is what I'm going to get into, Gavin.
+
+[00:07:03] SPEAKER_02
+I was always very much a leave the homework until the night before type of guy.
+
+[00:07:09] SPEAKER_02
+And that has continued with MVP.
+
+[00:07:12] SPEAKER_02
+MVP.
+
+[00:07:13] SPEAKER_02
+So I've been starting, I started it assuming we would be doing it today and I realized
+
+[00:07:20] SPEAKER_02
+I need way more time to do this right.
+
+[00:07:22] SPEAKER_02
+I could have put something together, but to make it truly right, I needed more time.
+
+[00:07:26] SPEAKER_02
+I rewatched the entire film.
+
+[00:07:28] SPEAKER_02
+I got my screen grabs.
+
+[00:07:29] SPEAKER_02
+I got everything kind of organized already.
+
+[00:07:32] SPEAKER_02
+How many screen grabs would you two guess that I pulled?
+
+[00:07:35] SPEAKER_02
+From MVP1?
+
+[00:07:35] SPEAKER_02
+On my first viewing.
+
+[00:07:36] SPEAKER_02
+From MVP1 to do this presentation.
+
+[00:07:39] SPEAKER_02
+I would guess.
+
+[00:07:39] SPEAKER_02
+And it's in, let's say like 86 minute movie.
+
+[00:07:42] SPEAKER_02
+I would guess for a solid presentation, at least 20.
+
+[00:07:46] SPEAKER_05
+At least 20.
+
+[00:07:47] SPEAKER_05
+What about you, Jeff?
+
+[00:07:48] SPEAKER_05
+God, it's either comically high or comically low.
+
+[00:07:53] SPEAKER_05
+20 feels like a pretty safe.
+
+[00:07:54] SPEAKER_05
+I'm going to say four.
+
+[00:07:56] SPEAKER_05
+You're going to say four?
+
+[00:07:57] SPEAKER_05
+Yeah.
+
+[00:07:57] SPEAKER_05
+I'm going to go the other way.
+
+[00:07:59] SPEAKER_02
+Before we had a merch meeting yesterday and before we started it, I said to Eric, I've
+
+[00:08:04] SPEAKER_02
+captured way too many images for this thing.
+
+[00:08:06] SPEAKER_02
+I probably have like a hundred.
+
+[00:08:08] SPEAKER_02
+So then I highlighted them all to get a specific number.
+
+[00:08:11] SPEAKER_02
+I clicked and dragged.
+
+[00:08:12] SPEAKER_02
+I ended up with 227 screen captures for an 86 minute movie.
+
+[00:08:19] SPEAKER_05
+That's like half the frames in the movie.
+
+[00:08:21] SPEAKER_03
+You have to talk about one every 20 seconds and it would be longer than the movie.
+
+[00:08:25] SPEAKER_02
+I said to Eric, at this point, I just want to do like one of those stick man drawings
+
+[00:08:33] SPEAKER_02
+where you like you rapidly, you like spin it and it moves for you.
+
+[00:08:37] SPEAKER_02
+Like you're just seeing a physical version of the film.
+
+[00:08:40] SPEAKER_02
+I edited it down.
+
+[00:08:42] SPEAKER_02
+I reduced it.
+
+[00:08:43] SPEAKER_02
+I went through all of it last night.
+
+[00:08:44] SPEAKER_02
+I got, I got my kind of final cut.
+
+[00:08:46] SPEAKER_02
+I feel there might be one more minor edit.
+
+[00:08:48] SPEAKER_02
+How many images do you think we ended up with, with the final edit?
+
+[00:08:52] SPEAKER_02
+120.
+
+[00:08:53] SPEAKER_02
+120.
+
+[00:08:54] SPEAKER_02
+120.
+
+[00:08:54] SPEAKER_02
+50.
+
+[00:08:55] SPEAKER_02
+Jeff is very close.
+
+[00:08:56] SPEAKER_02
+144.
+
+[00:08:57] SPEAKER_02
+We got 144 images to convey the story of MVP.
+
+[00:09:03] SPEAKER_02
+Do you think that might be too long?
+
+[00:09:05] SPEAKER_02
+No, I honestly, I think I may have cut out some, some aspects of it.
+
+[00:09:10] SPEAKER_02
+It was also interesting because I did it in, in chronological order.
+
+[00:09:13] SPEAKER_02
+Like I'd watch the movie and be like, oh, this is a plot point.
+
+[00:09:16] SPEAKER_02
+I'm going to capture this.
+
+[00:09:17] SPEAKER_02
+And then realizing like, oh, there's like three or four storylines that they start and just never finish.
+
+[00:09:22] SPEAKER_02
+They have no conclusion.
+
+[00:09:23] SPEAKER_02
+So like, I don't need any of it.
+
+[00:09:25] SPEAKER_02
+We just pretend it doesn't happen.
+
+[00:09:26] SPEAKER_02
+I think I don't cover two or three of the hockey games.
+
+[00:09:29] SPEAKER_02
+It's a, I cut where I could, but there's, there's a core to this story that needs to be told.
+
+[00:09:35] SPEAKER_03
+So how long is your presentation going to be, do you think?
+
+[00:09:39] SPEAKER_02
+Oh, I, I don't, I don't know.
+
+[00:09:41] SPEAKER_02
+I'm going to try to keep it under 10 minutes would be my goal.
+
+[00:09:45] SPEAKER_02
+Okay.
+
+[00:09:45] SPEAKER_02
+And we're, we're recording that as well, right?
+
+[00:09:48] SPEAKER_02
+For release.
+
+[00:09:49] SPEAKER_02
+I believe so.
+
+[00:09:49] SPEAKER_02
+Yeah.
+
+[00:09:50] SPEAKER_02
+I think that would be the beginning of the monkey lunch recording.
+
+[00:09:54] SPEAKER_02
+I assumed would be the presentation being displayed.
+
+[00:09:57] SPEAKER_05
+That's great.
+
+[00:09:58] SPEAKER_02
+What are you guys going to eat for lunch?
+
+[00:09:59] SPEAKER_02
+A monkey lunch?
+
+[00:10:00] SPEAKER_02
+No.
+
+[00:10:01] SPEAKER_02
+That's tough.
+
+[00:10:02] SPEAKER_02
+Cause it's bananas.
+
+[00:10:03] SPEAKER_02
+Obviously a go-to in that scenario, but that's, I don't, I don't do that.
+
+[00:10:07] SPEAKER_03
+I'm off bananas.
+
+[00:10:08] SPEAKER_03
+I'm a little bit stopped up.
+
+[00:10:09] SPEAKER_03
+Yeah.
+
+[00:10:10] SPEAKER_05
+What happened?
+
+[00:10:11] SPEAKER_05
+I just, I'm just not pooing.
+
+[00:10:13] SPEAKER_05
+Really?
+
+[00:10:14] SPEAKER_05
+Yeah.
+
+[00:10:14] SPEAKER_05
+But you, but you just, didn't you just go on vacation outside of America?
+
+[00:10:18] SPEAKER_05
+Don't you poo better outside of America?
+
+[00:10:20] SPEAKER_03
+I'll be honest right now, right now I've got food from Italy, England, and Texas in
+
+[00:10:26] SPEAKER_03
+me at the same time.
+
+[00:10:27] SPEAKER_03
+Oh God.
+
+[00:10:28] SPEAKER_03
+Oh God.
+
+[00:10:28] SPEAKER_02
+And, uh, not super comfortable.
+
+[00:10:31] SPEAKER_02
+Are you okay?
+
+[00:10:31] SPEAKER_02
+Outside of like, are you dealing with, is your stomach sore?
+
+[00:10:35] SPEAKER_02
+Yeah.
+
+[00:10:35] SPEAKER_03
+I feel like someone's inflated a balloon in my gut, but I feel like there's definitely
+
+[00:10:40] SPEAKER_03
+movement.
+
+[00:10:40] SPEAKER_03
+Like it's slowly working to work its way towards the doors.
+
+[00:10:43] SPEAKER_02
+Have you attempted to use the sleep apnea machine to fill yourself with air to
+
+[00:10:47] SPEAKER_02
+maybe push what's stuck through?
+
+[00:10:51] SPEAKER_03
+Yeah.
+
+[00:10:51] SPEAKER_03
+Almost like you're plunging yourself.
+
+[00:10:53] SPEAKER_03
+I would be genuinely worried that my stomach would explode.
+
+[00:10:58] SPEAKER_05
+I, uh, I was gonna, I was gonna go the medicine route, but I like, I like Andrew's idea of
+
+[00:11:03] SPEAKER_05
+repurposing everyday items to, to solve this problem.
+
+[00:11:07] SPEAKER_02
+I, uh, I, I made a mistake.
+
+[00:11:09] SPEAKER_02
+I've never felt more human than I have this morning.
+
+[00:11:12] SPEAKER_02
+That is a mistake.
+
+[00:11:13] SPEAKER_02
+Yeah.
+
+[00:11:13] SPEAKER_02
+It doesn't happen often.
+
+[00:11:15] SPEAKER_02
+My burger confidence was gone.
+
+[00:11:17] SPEAKER_02
+I don't think I've ever felt more like Icarus than when you wake up with heartburn.
+
+[00:11:23] SPEAKER_02
+I like, I woke up at 6 30 AM.
+
+[00:11:26] SPEAKER_02
+I couldn't sleep last night.
+
+[00:11:28] SPEAKER_02
+I was up a little bit later than I'd want to be.
+
+[00:11:30] SPEAKER_02
+And I was like, I'll have a little snack before bed.
+
+[00:11:32] SPEAKER_02
+So I had two or three pieces of garlic toast or some garlic bread.
+
+[00:11:35] SPEAKER_02
+It was great.
+
+[00:11:36] SPEAKER_02
+Had a great time.
+
+[00:11:38] SPEAKER_02
+Woke up at 6 30 feeling like there was a volcano in my chest.
+
+[00:11:41] SPEAKER_02
+It was just terrible, terrible heartburn.
+
+[00:11:44] SPEAKER_02
+No Tums, no tombs, nothing in sight, nothing I could do to relieve it.
+
+[00:11:49] SPEAKER_02
+Just sitting there.
+
+[00:11:49] SPEAKER_02
+I've never felt more human.
+
+[00:11:51] SPEAKER_02
+My wings are seared.
+
+[00:11:52] SPEAKER_02
+My burger confidence was gone.
+
+[00:11:54] SPEAKER_02
+It's terrible.
+
+[00:11:55] SPEAKER_03
+So you don't feel human when both of your ankles are snapped?
+
+[00:11:59] SPEAKER_02
+Uh, no, that's just like an alternate form.
+
+[00:12:02] SPEAKER_02
+I guess.
+
+[00:12:03] SPEAKER_02
+I don't know when eight of, of the months of the year, you're on the, the injury report
+
+[00:12:09] SPEAKER_02
+with an ankle injury.
+
+[00:12:10] SPEAKER_02
+It's sort of just, that's normal.
+
+[00:12:13] SPEAKER_02
+That's I'd argue the months that I'm not hurt.
+
+[00:12:15] SPEAKER_02
+That's like, I'm in super form.
+
+[00:12:17] SPEAKER_02
+That is, that is beyond.
+
+[00:12:19] SPEAKER_02
+That is another level of, of burger confidence existed.
+
+[00:12:22] SPEAKER_02
+So broken is the standard.
+
+[00:12:24] SPEAKER_02
+Broken is the standard.
+
+[00:12:26] SPEAKER_02
+So what caused the heartburn?
+
+[00:12:27] SPEAKER_02
+Uh, garlic bread, garlic bread, garlic bread.
+
+[00:12:30] SPEAKER_02
+Okay.
+
+[00:12:31] SPEAKER_02
+And then immediately went to sleep.
+
+[00:12:32] SPEAKER_02
+So garlic bread will do it to you, huh?
+
+[00:12:34] SPEAKER_02
+I guess for me.
+
+[00:12:35] SPEAKER_02
+Yeah.
+
+[00:12:35] SPEAKER_02
+I didn't know.
+
+[00:12:36] SPEAKER_02
+I feel like that's something that has changed over time.
+
+[00:12:39] SPEAKER_02
+Red wine gets me.
+
+[00:12:40] SPEAKER_02
+Really?
+
+[00:12:40] SPEAKER_02
+That's an interesting one.
+
+[00:12:42] SPEAKER_03
+Yeah.
+
+[00:12:42] SPEAKER_05
+Gavin, what do you, can you look back to one meal you think that stopped you up?
+
+[00:12:47] SPEAKER_05
+Can you attribute, like, what do you think, what do you think did the worst damage to
+
+[00:12:50] SPEAKER_05
+you?
+
+[00:12:51] SPEAKER_03
+Uh, I always get wrecked by seafood.
+
+[00:12:53] SPEAKER_03
+So I'm going to say it was the, uh, six giant King prawns I had.
+
+[00:12:56] SPEAKER_03
+Oh, that sounds good.
+
+[00:12:59] SPEAKER_02
+Did you make a condiment sauce to go with them?
+
+[00:13:01] SPEAKER_03
+No, I didn't.
+
+[00:13:02] SPEAKER_03
+No, I didn't.
+
+[00:13:04] SPEAKER_02
+Okay.
+
+[00:13:07] SPEAKER_03
+Bit of lemon.
+
+[00:13:08] SPEAKER_03
+Lemon's great.
+
+[00:13:09] SPEAKER_03
+Eric says peanut butter.
+
+[00:13:10] SPEAKER_02
+Peanut butter backs of Eric, that.
+
+[00:13:12] SPEAKER_02
+Yeah.
+
+[00:13:13] SPEAKER_02
+Or does that give you heartburn or is that stops you up?
+
+[00:13:16] SPEAKER_02
+It's heartburn.
+
+[00:13:17] SPEAKER_02
+And only sometimes.
+
+[00:13:18] SPEAKER_02
+And I don't know why.
+
+[00:13:19] SPEAKER_00
+Cause I eat, I'll eat peanut butter, but then there are times where I have peanut butter
+
+[00:13:22] SPEAKER_00
+otherwise.
+
+[00:13:22] SPEAKER_00
+And it's like, Oh no.
+
+[00:13:24] SPEAKER_00
+And I'm just like, like, could it be in like spitting acid.
+
+[00:13:28] SPEAKER_00
+Could it be what you're pairing it with?
+
+[00:13:30] SPEAKER_00
+Or is it just the peanut?
+
+[00:13:31] SPEAKER_00
+No, no.
+
+[00:13:32] SPEAKER_00
+It's like, it's like a spoonful of peanut butter.
+
+[00:13:34] SPEAKER_00
+I think I just have, I, I, I don't think I have a peanut allergy cause I eat peanut
+
+[00:13:38] SPEAKER_00
+butter sometimes and it's fine.
+
+[00:13:39] SPEAKER_00
+I just think that there's just something sometimes where something gets caught or hits something
+
+[00:13:44] SPEAKER_00
+wrong.
+
+[00:13:44] SPEAKER_00
+And all of a sudden, wow.
+
+[00:13:46] SPEAKER_05
+Do you, do you ever eat peanuts?
+
+[00:13:48] SPEAKER_05
+Like Cracker Jacks or just like roast, honey roasted peanuts?
+
+[00:13:51] SPEAKER_05
+Yeah.
+
+[00:13:51] SPEAKER_00
+When typically when you take me out to the ball game, uh, I will have, I'll have some
+
+[00:13:56] SPEAKER_00
+peanuts, but other than that, I think peanuts are pretty bottom tier.
+
+[00:14:00] SPEAKER_00
+How?
+
+[00:14:01] SPEAKER_00
+Whoa.
+
+[00:14:02] SPEAKER_05
+No.
+
+[00:14:02] SPEAKER_05
+Oh, well, oh, fuck.
+
+[00:14:05] SPEAKER_03
+Oh, fuck.
+
+[00:14:06] SPEAKER_03
+No, Jeff, continue.
+
+[00:14:06] SPEAKER_03
+We don't need to get into the, uh, he's right.
+
+[00:14:09] SPEAKER_03
+Peanuts.
+
+[00:14:09] SPEAKER_00
+Oh, I know I'm right.
+
+[00:14:10] SPEAKER_00
+It's fine.
+
+[00:14:11] SPEAKER_02
+Thank you.
+
+[00:14:11] SPEAKER_02
+They're a staple nut, but they are like, they're not a great nut.
+
+[00:14:15] SPEAKER_05
+Agree.
+
+[00:14:15] SPEAKER_05
+A hundred percent agree.
+
+[00:14:16] SPEAKER_05
+They're, the peanuts are the, are the, the nut.
+
+[00:14:19] SPEAKER_05
+It's a great base nut.
+
+[00:14:21] SPEAKER_05
+Yeah, they are.
+
+[00:14:21] SPEAKER_05
+Jeff, it might be time to grow up and get past peanuts.
+
+[00:14:23] SPEAKER_05
+They're the number one, they're the number one nut in the world.
+
+[00:14:26] SPEAKER_02
+What is the number?
+
+[00:14:27] SPEAKER_02
+Yeah, I don't think that's wrong, but it's, they're not the best tasting.
+
+[00:14:30] SPEAKER_03
+I also like that you can prepare them.
+
+[00:14:31] SPEAKER_03
+You can, you can coat them in so many different things.
+
+[00:14:33] SPEAKER_03
+It's a great base nut.
+
+[00:14:34] SPEAKER_02
+Yeah.
+
+[00:14:35] SPEAKER_02
+I just bought.
+
+[00:14:35] SPEAKER_02
+You can't coat any other nut with any other thing.
+
+[00:14:37] SPEAKER_05
+I just bought.
+
+[00:14:38] SPEAKER_05
+You know what you can't do with other nuts?
+
+[00:14:40] SPEAKER_05
+I just bought a bunch of peanuts to boil yesterday.
+
+[00:14:44] SPEAKER_05
+I'm going to boil peanuts this weekend.
+
+[00:14:45] SPEAKER_00
+Oh, that's disgusting.
+
+[00:14:46] SPEAKER_05
+Yeah, that doesn't sound good.
+
+[00:14:47] SPEAKER_05
+Yeah, that's absolutely vile.
+
+[00:14:49] SPEAKER_05
+So delicious.
+
+[00:14:49] SPEAKER_05
+Gavin's had them before.
+
+[00:14:50] SPEAKER_05
+They're actually pretty good.
+
+[00:14:51] SPEAKER_05
+They're pretty fucking good.
+
+[00:14:52] SPEAKER_03
+Jeff made them and they were great.
+
+[00:14:53] SPEAKER_05
+Bit weird.
+
+[00:14:54] SPEAKER_05
+Boiled peanuts, man.
+
+[00:14:55] SPEAKER_02
+It's a, it's a Southern delicacy.
+
+[00:14:57] SPEAKER_02
+I'm open to it.
+
+[00:14:58] SPEAKER_02
+I don't think there's anything wrong.
+
+[00:14:59] SPEAKER_02
+I think we would agree that peanuts are like the Coke of nuts.
+
+[00:15:02] SPEAKER_02
+Like they're by far number one.
+
+[00:15:04] SPEAKER_02
+Yeah, they're the Coke of nuts.
+
+[00:15:05] SPEAKER_02
+I just don't think that they're the best tasting.
+
+[00:15:07] SPEAKER_02
+I think as far as taste goes.
+
+[00:15:08] SPEAKER_02
+Oh, I didn't say that they were the best tasting.
+
+[00:15:09] SPEAKER_02
+That's what I think we're clear.
+
+[00:15:10] SPEAKER_02
+That's the issue I think we're having.
+
+[00:15:12] SPEAKER_03
+Well, why don't we all say the best tasting nut on three?
+
+[00:15:15] SPEAKER_03
+Okay.
+
+[00:15:15] SPEAKER_03
+Ooh, that's tough.
+
+[00:15:17] SPEAKER_03
+That's a tough, there's two of them.
+
+[00:15:18] SPEAKER_03
+Count us down.
+
+[00:15:20] SPEAKER_03
+All right, we'll do three, two, one, go.
+
+[00:15:22] SPEAKER_03
+And I'll go and we'll say a nut.
+
+[00:15:22] SPEAKER_03
+Ready?
+
+[00:15:23] SPEAKER_02
+Okay.
+
+[00:15:23] SPEAKER_02
+Okay.
+
+[00:15:24] SPEAKER_03
+Three, two, one.
+
+[00:15:26] SPEAKER_02
+Cashew.
+
+[00:15:27] SPEAKER_05
+Yeah.
+
+[00:15:28] SPEAKER_05
+Oh!
+
+[00:15:29] SPEAKER_05
+Cashew is the worst nut.
+
+[00:15:31] SPEAKER_99
+What?
+
+[00:15:33] SPEAKER_00
+Hang on.
+
+[00:15:35] SPEAKER_05
+That's a terrible take.
+
+[00:15:36] SPEAKER_00
+Get fucked.
+
+[00:15:37] SPEAKER_00
+Are you kidding me?
+
+[00:15:38] SPEAKER_05
+No, macadamia nuts are, macadamia nuts are way better.
+
+[00:15:41] SPEAKER_05
+Pistachios are way better.
+
+[00:15:44] SPEAKER_02
+Plus, can only cashew, terrible nut.
+
+[00:15:46] SPEAKER_02
+I was considering pistachio.
+
+[00:15:48] SPEAKER_02
+I love a pistachio.
+
+[00:15:49] SPEAKER_02
+The problem with pistachios is you'll get one in like every, I don't know, 87 that is
+
+[00:15:54] SPEAKER_02
+just awful.
+
+[00:15:55] SPEAKER_02
+That's true.
+
+[00:15:55] SPEAKER_02
+It's like rotten.
+
+[00:15:56] SPEAKER_02
+That's the issue of pistachios.
+
+[00:15:57] SPEAKER_05
+That's also a lot of work.
+
+[00:15:59] SPEAKER_05
+It's like.
+
+[00:15:59] SPEAKER_05
+Yeah, that's true.
+
+[00:16:00] SPEAKER_05
+Well, I mean, you just buy them at the store.
+
+[00:16:03] SPEAKER_05
+Like, I get like spicy pistachios that are already like, already shelled and they're fucking
+
+[00:16:07] SPEAKER_05
+awesome.
+
+[00:16:08] SPEAKER_05
+Huh.
+
+[00:16:09] SPEAKER_05
+I do.
+
+[00:16:09] SPEAKER_05
+I do agree with you though, Andrew.
+
+[00:16:10] SPEAKER_05
+I feel like there has to be like one pistachio in every bag.
+
+[00:16:14] SPEAKER_05
+Yes.
+
+[00:16:14] SPEAKER_05
+Or like a bunch of pistachios that absorbs all the bad in it and it just becomes like
+
+[00:16:18] SPEAKER_05
+the doo-doo pistachio and it takes all the bad flavor away from the others.
+
+[00:16:21] SPEAKER_05
+It's like the cursed pistachio.
+
+[00:16:22] SPEAKER_05
+Yeah.
+
+[00:16:22] SPEAKER_05
+It's like the cursed pistachio.
+
+[00:16:23] SPEAKER_05
+Speaking of curses, that's another thing we should talk about at some point today.
+
+[00:16:27] SPEAKER_05
+Um, but listen, I don't want to get, I don't want to turn this into an indictment of nuts.
+
+[00:16:31] SPEAKER_05
+I don't want to get into a whole nut fight.
+
+[00:16:32] SPEAKER_05
+I feel like we've got so much other food stuff to be angry at each other about, uh, or to argue
+
+[00:16:36] SPEAKER_05
+about.
+
+[00:16:37] SPEAKER_05
+Um, but I do have a question.
+
+[00:16:39] SPEAKER_05
+Do you guys talk about heartburn?
+
+[00:16:40] SPEAKER_05
+Like you have it a lot.
+
+[00:16:41] SPEAKER_05
+Is, is heartburn a rare, like a relatively common thing for y'all?
+
+[00:16:45] SPEAKER_03
+No.
+
+[00:16:46] SPEAKER_03
+Very rare for me.
+
+[00:16:47] SPEAKER_03
+I actually, I remember really wanting heartburn as a kid because then I could use Gaviscon.
+
+[00:16:54] SPEAKER_03
+What is Gaviscon?
+
+[00:16:55] SPEAKER_03
+It sounds like a medicine.
+
+[00:16:57] SPEAKER_02
+Oh, why?
+
+[00:16:59] SPEAKER_02
+Why did, I don't understand.
+
+[00:17:01] SPEAKER_02
+Because of the name.
+
+[00:17:01] SPEAKER_02
+Taste?
+
+[00:17:02] SPEAKER_03
+It's got my entire name in it.
+
+[00:17:03] SPEAKER_03
+It's awesome.
+
+[00:17:04] SPEAKER_03
+Yeah.
+
+[00:17:05] SPEAKER_03
+It's like, I mean, this was a realization I had at the age of about six.
+
+[00:17:08] SPEAKER_02
+Okay.
+
+[00:17:09] SPEAKER_02
+I saw that immediately.
+
+[00:17:10] SPEAKER_02
+I just don't understand.
+
+[00:17:12] SPEAKER_02
+I guess where my disconnect is, is why does using it make it cooler?
+
+[00:17:16] SPEAKER_02
+I feel like the fact that it exists is the cool thing.
+
+[00:17:19] SPEAKER_02
+I think I just wanted to have some.
+
+[00:17:20] SPEAKER_05
+Because there's a medicine out there that if you take three letters away, it says Gavin.
+
+[00:17:24] SPEAKER_05
+Well, I wouldn't.
+
+[00:17:25] SPEAKER_05
+No, I get it.
+
+[00:17:25] SPEAKER_05
+No, I get it.
+
+[00:17:25] SPEAKER_03
+Yeah, take out the sco.
+
+[00:17:28] SPEAKER_02
+I get it.
+
+[00:17:29] SPEAKER_02
+I just don't think that makes it cooler.
+
+[00:17:31] SPEAKER_02
+But at a six-year-old, I probably would.
+
+[00:17:33] SPEAKER_05
+I used to have heartburn and acid reflux every day of my life.
+
+[00:17:39] SPEAKER_05
+Really?
+
+[00:17:40] SPEAKER_05
+Yeah.
+
+[00:17:40] SPEAKER_05
+Oh, yeah, yeah.
+
+[00:17:41] SPEAKER_05
+For probably 15 years.
+
+[00:17:43] SPEAKER_05
+And then I quit drinking, and it went away.
+
+[00:17:44] SPEAKER_05
+And I don't know that I've had heartburn since I quit drinking alcohol.
+
+[00:17:47] SPEAKER_05
+Wow.
+
+[00:17:48] SPEAKER_05
+Like, yeah, it was just something I knew.
+
+[00:17:49] SPEAKER_05
+And I knew that was what it was.
+
+[00:17:51] SPEAKER_05
+Like, it was pretty hard not to understand what I was doing.
+
+[00:17:55] SPEAKER_05
+But, yeah, it's just like, that's why I asked.
+
+[00:17:56] SPEAKER_05
+Because I forgot about heartburn until this conversation.
+
+[00:17:59] SPEAKER_05
+Because it just hasn't been an issue since I quit drinking.
+
+[00:18:02] SPEAKER_02
+Wow.
+
+[00:18:03] SPEAKER_02
+That's awesome.
+
+[00:18:04] SPEAKER_05
+Yeah.
+
+[00:18:05] SPEAKER_05
+Sorry to hear you guys are still plagued by it.
+
+[00:18:06] SPEAKER_05
+Eric takes medicine for it every day of his life, sir.
+
+[00:18:09] SPEAKER_03
+I think I'm all right.
+
+[00:18:09] SPEAKER_05
+There you go.
+
+[00:18:11] SPEAKER_02
+Gaviscon.
+
+[00:18:12] SPEAKER_02
+Have you ever had Gaviscon?
+
+[00:18:13] SPEAKER_02
+Did that dream ever happen?
+
+[00:18:15] SPEAKER_02
+I still don't think I've ever had it.
+
+[00:18:18] SPEAKER_05
+Let me ask you a question.
+
+[00:18:21] SPEAKER_05
+Because you posted a picture of Gaviscon, and it says it's mint flavored.
+
+[00:18:25] SPEAKER_05
+I assume that's like the standard flavor.
+
+[00:18:28] SPEAKER_05
+What flavor would you attribute to Gavin?
+
+[00:18:30] SPEAKER_05
+Like, if you had to pick a signature flavor for Gavin, if you were a medicine, what flavor do you come in?
+
+[00:18:38] SPEAKER_02
+Are we all going to make answers?
+
+[00:18:40] SPEAKER_02
+Do you want Gavin to have an answer?
+
+[00:18:42] SPEAKER_02
+I would, in my head, I don't know why this is.
+
+[00:18:47] SPEAKER_02
+I'm going to have to decode this myself.
+
+[00:18:49] SPEAKER_02
+I immediately went to some combination of like a fruit, like a berry, with black licorice.
+
+[00:18:56] SPEAKER_02
+Wow.
+
+[00:18:56] SPEAKER_02
+That's the flavor profile that I'm getting.
+
+[00:18:58] SPEAKER_05
+I think that's quite flattering.
+
+[00:19:00] SPEAKER_05
+I'll take that.
+
+[00:19:02] SPEAKER_05
+Yeah, that is really good.
+
+[00:19:04] SPEAKER_05
+I like black licorice, dude.
+
+[00:19:06] SPEAKER_05
+I would take you as medicine instantly.
+
+[00:19:09] SPEAKER_02
+Somebody who rates cashews the number one, or the least number one.
+
+[00:19:13] SPEAKER_02
+Dude, I'm fucking the least number one.
+
+[00:19:15] SPEAKER_02
+I'm sorry.
+
+[00:19:16] SPEAKER_02
+The least number one.
+
+[00:19:17] SPEAKER_05
+When you get them on the airplane, I'd fucking throw those on the floor, dude.
+
+[00:19:20] SPEAKER_05
+I don't want anything to do with it.
+
+[00:19:22] SPEAKER_05
+It's a waste of a nut.
+
+[00:19:23] SPEAKER_03
+It's a waste of itself.
+
+[00:19:25] SPEAKER_05
+Just, yeah.
+
+[00:19:26] SPEAKER_05
+It's just a, yeah.
+
+[00:19:27] SPEAKER_05
+It's a pointless.
+
+[00:19:29] SPEAKER_05
+How about you, Gav?
+
+[00:19:30] SPEAKER_05
+Do you think you're mint flavored?
+
+[00:19:33] SPEAKER_03
+I don't even know if I can answer.
+
+[00:19:35] SPEAKER_05
+I don't know why.
+
+[00:19:36] SPEAKER_03
+I think I'm too close to it.
+
+[00:19:38] SPEAKER_05
+I think you're tomato based.
+
+[00:19:43] SPEAKER_02
+Oh, I can see that.
+
+[00:19:45] SPEAKER_02
+That's interesting.
+
+[00:19:46] SPEAKER_02
+A tomato based?
+
+[00:19:47] SPEAKER_02
+Yeah.
+
+[00:19:48] SPEAKER_02
+I could see that.
+
+[00:19:49] SPEAKER_03
+Yeah.
+
+[00:19:50] SPEAKER_03
+I would have said maybe some sort of oil.
+
+[00:19:53] SPEAKER_03
+Like olive oil?
+
+[00:19:54] SPEAKER_03
+What type of oil?
+
+[00:19:54] SPEAKER_03
+Like olive oil.
+
+[00:19:55] SPEAKER_02
+Oh, I see.
+
+[00:19:56] SPEAKER_02
+That feels a little too fancy to me.
+
+[00:19:58] SPEAKER_02
+Oh, okay.
+
+[00:19:59] SPEAKER_02
+Olive oil is extravagant.
+
+[00:20:01] SPEAKER_02
+Iron stuff?
+
+[00:20:02] SPEAKER_05
+Eric, what flavor are you?
+
+[00:20:04] SPEAKER_00
+What flavor do I think I am or Gavin is?
+
+[00:20:07] SPEAKER_00
+No, you.
+
+[00:20:07] SPEAKER_05
+What flavor are you?
+
+[00:20:08] SPEAKER_00
+I think Gavin is that bubblegum flavor that you get.
+
+[00:20:11] SPEAKER_00
+See?
+
+[00:20:12] SPEAKER_00
+There you go.
+
+[00:20:12] SPEAKER_00
+Nick is saying that he's bubblegum.
+
+[00:20:14] SPEAKER_00
+I could see that too, but I think that I associate Gavin with that bubblegum flavor that you get
+
+[00:20:19] SPEAKER_00
+with some medicines when you're a kid.
+
+[00:20:22] SPEAKER_00
+I think I'm like a NyQuil flavor.
+
+[00:20:24] SPEAKER_00
+Like, you know when you take NyQuil and you go, this is absolutely vile, but boy, it really
+
+[00:20:28] SPEAKER_00
+helps you out.
+
+[00:20:29] SPEAKER_00
+I feel like that's sort of like, that's my way.
+
+[00:20:31] SPEAKER_03
+You may be NyQuil with an ashtray poured in it.
+
+[00:20:37] SPEAKER_00
+Has someone been ashing their cigarettes in my NyQuil?
+
+[00:20:40] SPEAKER_00
+Oh, well, I'm going to bed.
+
+[00:20:41] SPEAKER_05
+Oh, man.
+
+[00:20:53] SPEAKER_00
+What about you, Jeff?
+
+[00:20:54] SPEAKER_00
+Oh, I hadn't thought about me.
+
+[00:20:57] SPEAKER_03
+I think you've got like a salt flavor to you.
+
+[00:21:00] SPEAKER_00
+I think I'm like...
+
+[00:21:01] SPEAKER_00
+My wife just...
+
+[00:21:01] SPEAKER_00
+Sorry.
+
+[00:21:02] SPEAKER_00
+I'm sorry.
+
+[00:21:02] SPEAKER_00
+I didn't mean to interrupt.
+
+[00:21:03] SPEAKER_00
+My wife just texted me and said cinnamon.
+
+[00:21:05] SPEAKER_00
+So...
+
+[00:21:06] SPEAKER_00
+Did you ask her what flavor you are?
+
+[00:21:07] SPEAKER_00
+No.
+
+[00:21:08] SPEAKER_00
+She's just in another room and she just texted me.
+
+[00:21:11] SPEAKER_00
+Oh.
+
+[00:21:11] SPEAKER_00
+Oh.
+
+[00:21:12] SPEAKER_05
+I think I'm jalapeno flavored.
+
+[00:21:17] SPEAKER_05
+I think I'm like...
+
+[00:21:18] SPEAKER_05
+I'm spicy.
+
+[00:21:19] SPEAKER_05
+You know?
+
+[00:21:20] SPEAKER_05
+Just like some...
+
+[00:21:21] SPEAKER_05
+Yeah, generic spice.
+
+[00:21:22] SPEAKER_05
+Like...
+
+[00:21:22] SPEAKER_05
+Yeah.
+
+[00:21:23] SPEAKER_02
+I could see that.
+
+[00:21:24] SPEAKER_05
+Yeah.
+
+[00:21:24] SPEAKER_05
+Like...
+
+[00:21:25] SPEAKER_05
+And like...
+
+[00:21:25] SPEAKER_05
+Like you like it at first, but then you get too much of it quickly and then you regret
+
+[00:21:28] SPEAKER_05
+it.
+
+[00:21:29] SPEAKER_05
+I feel like that's me.
+
+[00:21:30] SPEAKER_00
+See, I think your jalapeno flavor or like when something like a fast food restaurant goes
+
+[00:21:35] SPEAKER_00
+like, this is our new spicy burger.
+
+[00:21:36] SPEAKER_00
+And then you eat it and you go, this is not...
+
+[00:21:39] SPEAKER_00
+Yeah.
+
+[00:21:39] SPEAKER_00
+This thing thinks it's really spicy, but this is not as spicy as it thinks that it is.
+
+[00:21:45] SPEAKER_05
+It's like how people outside of Texas think Chipotle has spice.
+
+[00:21:49] SPEAKER_05
+Right.
+
+[00:21:49] SPEAKER_05
+It's like when you went to Nando's and got the spiciest chicken.
+
+[00:21:54] SPEAKER_03
+I would say Andrew's flavor would be the plate at the end of a stack of pancakes.
+
+[00:22:05] SPEAKER_05
+Oh.
+
+[00:22:07] SPEAKER_05
+So like maple-ish.
+
+[00:22:11] SPEAKER_05
+Yeah.
+
+[00:22:11] SPEAKER_05
+Like syrup flavor with pancake bomb stuck to it.
+
+[00:22:16] SPEAKER_05
+Definitely butter.
+
+[00:22:17] SPEAKER_05
+How do you take your pancakes, Andrew?
+
+[00:22:19] SPEAKER_02
+Typically just some butter.
+
+[00:22:21] SPEAKER_05
+I'm not a big syrup guy.
+
+[00:22:23] SPEAKER_05
+Just like a slice of butter on top and just let it melt into the pancake when it's hot
+
+[00:22:26] SPEAKER_05
+kind of thing?
+
+[00:22:27] SPEAKER_05
+Yeah, just a little bit of butter on top.
+
+[00:22:29] SPEAKER_05
+So you're like a dry pancake person.
+
+[00:22:31] SPEAKER_02
+I guess.
+
+[00:22:32] SPEAKER_02
+Yeah.
+
+[00:22:32] SPEAKER_02
+Well, not...
+
+[00:22:33] SPEAKER_02
+I mean, I need some butter on it.
+
+[00:22:34] SPEAKER_05
+It can't be completely dry, but...
+
+[00:22:36] SPEAKER_05
+I think that's so gross.
+
+[00:22:37] SPEAKER_05
+My daughter does the same thing.
+
+[00:22:38] SPEAKER_05
+It drives me nuts.
+
+[00:22:39] SPEAKER_05
+I'm just like...
+
+[00:22:39] SPEAKER_05
+It's syrup.
+
+[00:22:40] SPEAKER_05
+It's just like fucking sugar, man.
+
+[00:22:42] SPEAKER_02
+Yeah.
+
+[00:22:43] SPEAKER_02
+It's a moisture to it.
+
+[00:22:46] SPEAKER_02
+I don't understand.
+
+[00:22:53] SPEAKER_05
+I don't think butter makes it wetter than syrup.
+
+[00:22:59] SPEAKER_05
+Why would you...
+
+[00:23:01] SPEAKER_03
+No, because it's more viscous.
+
+[00:23:02] SPEAKER_03
+It doesn't feel as wet as opposed to like clogged.
+
+[00:23:06] SPEAKER_02
+I also feel like it exists.
+
+[00:23:07] SPEAKER_02
+I don't know.
+
+[00:23:09] SPEAKER_02
+This could be wrong because I don't use syrup frequently.
+
+[00:23:11] SPEAKER_02
+I feel like syrup kind of exists on top of the pancake and doesn't integrate into the
+
+[00:23:16] SPEAKER_02
+pancake like butter does.
+
+[00:23:17] SPEAKER_02
+It's almost like they're two separate entities that you're eating at the same time.
+
+[00:23:20] SPEAKER_02
+I don't think they mix syrup and a pancake.
+
+[00:23:24] SPEAKER_05
+I will say that butter goes further than syrup on a pancake.
+
+[00:23:31] SPEAKER_05
+Like if you put a pat of butter on it and then it like melts into the pancake, you still
+
+[00:23:36] SPEAKER_05
+get a lot of the butter flavor.
+
+[00:23:38] SPEAKER_05
+But I feel like syrup, you got to constantly keep pouring it on because it just like as
+
+[00:23:41] SPEAKER_05
+soon as it like dissipates into the pancake, it just like the flavor is lost.
+
+[00:23:46] SPEAKER_05
+It's like disappears.
+
+[00:23:46] SPEAKER_05
+Where was pancakes on your list, Jeff?
+
+[00:23:48] SPEAKER_05
+On my list of what?
+
+[00:23:49] SPEAKER_05
+Oh, it's not even on my list.
+
+[00:23:50] SPEAKER_05
+Sorry.
+
+[00:23:52] SPEAKER_05
+But now we're talking about pancakes.
+
+[00:23:54] SPEAKER_05
+What type of syrup do you like, Jeff?
+
+[00:23:55] SPEAKER_05
+Oh, I like Mrs. Butterworth's or Log Cabin or like whatever.
+
+[00:24:00] SPEAKER_05
+I just like those maple.
+
+[00:24:01] SPEAKER_05
+Are those maple?
+
+[00:24:02] SPEAKER_05
+Yeah.
+
+[00:24:02] SPEAKER_05
+Yeah.
+
+[00:24:03] SPEAKER_05
+Okay.
+
+[00:24:04] SPEAKER_05
+I'll take any kind of syrup, any kind of sugary syrup.
+
+[00:24:06] SPEAKER_05
+I don't care.
+
+[00:24:07] SPEAKER_05
+I'm not particular.
+
+[00:24:09] SPEAKER_05
+To my knowledge, there is no cashew of syrup.
+
+[00:24:14] SPEAKER_05
+They're all at a certain, they're all at a level above like the sheepish nut.
+
+[00:24:17] SPEAKER_02
+Yeah.
+
+[00:24:18] SPEAKER_02
+Yeah.
+
+[00:24:18] SPEAKER_02
+There's definitely no standard for that.
+
+[00:24:21] SPEAKER_02
+Got tons of great choices.
+
+[00:24:23] SPEAKER_02
+So what's the next item on your list?
+
+[00:24:25] SPEAKER_02
+Where were we at?
+
+[00:24:25] SPEAKER_02
+We just did monkey.
+
+[00:24:26] SPEAKER_02
+That was monkey movie, right?
+
+[00:24:28] SPEAKER_05
+Yeah, that was monkey movie.
+
+[00:24:31] SPEAKER_05
+All right.
+
+[00:24:32] SPEAKER_05
+Oh my God.
+
+[00:24:33] SPEAKER_05
+That was monkey movie.
+
+[00:24:35] SPEAKER_05
+The next thing I have on my list is that we should mention that we have a very special,
+
+[00:24:42] SPEAKER_05
+we're still formulating it, but we have a very special live stream coming up.
+
+[00:24:48] SPEAKER_05
+We have discussed it in the past.
+
+[00:24:50] SPEAKER_05
+I think the audience at this point knows we're going to be selling socks individually cursed
+
+[00:24:55] SPEAKER_05
+by Gavin at some point.
+
+[00:24:57] SPEAKER_05
+And so we're going to, I think on Halloween, on Halloween day, it's a Monday, October 31st.
+
+[00:25:03] SPEAKER_05
+I think the plan is to do a live stream where Gavin curses the socks live while we do some
+
+[00:25:09] SPEAKER_05
+other shenanigans and other stuff as well.
+
+[00:25:12] SPEAKER_05
+And we have a really fun way to work Andrew into it that I have been doing some research
+
+[00:25:17] SPEAKER_05
+on.
+
+[00:25:17] SPEAKER_05
+I'm going to try to build it here pretty soon, this contraption to include Andrew.
+
+[00:25:21] SPEAKER_05
+And we're going to have a cursed sock stream.
+
+[00:25:24] SPEAKER_02
+It looks great.
+
+[00:25:25] SPEAKER_02
+Like everything that we've talked about, I think it's going to be very funny.
+
+[00:25:29] SPEAKER_02
+Some of it is covered in Sausage Talk, which I don't know when that will come out,
+
+[00:25:31] SPEAKER_02
+but that will provide more insight into some of these ideas.
+
+[00:25:36] SPEAKER_02
+And when does Sausage Talk come out?
+
+[00:25:38] SPEAKER_02
+I have no idea.
+
+[00:25:39] SPEAKER_00
+Nick said it should be ready after today.
+
+[00:25:40] SPEAKER_00
+I was going to say, by the time this episode comes out, it should be out right on the tail
+
+[00:25:47] SPEAKER_00
+of it, I think.
+
+[00:25:49] SPEAKER_00
+We can dial that in, but it should be, again, you're listening to this episode, so it comes
+
+[00:25:53] SPEAKER_00
+out next week for us recording right now.
+
+[00:25:56] SPEAKER_05
+Okay, cool.
+
+[00:25:57] SPEAKER_05
+Eric, can we also talk about some of the other, because we had a really good merch meeting
+
+[00:26:02] SPEAKER_05
+yesterday.
+
+[00:26:03] SPEAKER_05
+Can we talk about the plan for some of that stuff, or is it too early to get people's hopes
+
+[00:26:07] SPEAKER_05
+up?
+
+[00:26:07] SPEAKER_00
+Shit, I say just go for it.
+
+[00:26:09] SPEAKER_00
+Why not?
+
+[00:26:09] SPEAKER_00
+All right, so.
+
+[00:26:10] SPEAKER_05
+This holds our feet to the fire, so let's do it.
+
+[00:26:12] SPEAKER_05
+Here's what I'm aware of that we have coming out.
+
+[00:26:15] SPEAKER_05
+Obviously, the Curse Socks, I think, will go on sale at or right after the spooky Halloween
+
+[00:26:23] SPEAKER_05
+Curse Sock livestream that we're going to do that I'm very excited about.
+
+[00:26:26] SPEAKER_05
+I think the livestream might even be a countdown to selling the socks, because obviously we don't
+
+[00:26:31] SPEAKER_05
+want to sell them until Gavin curses them, and then I believe our big Black Friday item
+
+[00:26:38] SPEAKER_05
+that I'm very, I don't know why, no, I do know why, because it's awesome.
+
+[00:26:43] SPEAKER_05
+Probably the piece of merch I'm most excited about in the history of F*** Face is the
+
+[00:26:47] SPEAKER_05
+GURPLER is going to come out on October 31st.
+
+[00:26:50] SPEAKER_05
+I'm sorry.
+
+[00:26:51] SPEAKER_05
+Can't wait.
+
+[00:26:51] SPEAKER_05
+Black Friday.
+
+[00:26:53] SPEAKER_05
+Black Friday.
+
+[00:26:53] SPEAKER_05
+And I think we'll have a GURPLER on hand during the livestream on October 31st to show as
+
+[00:26:58] SPEAKER_05
+like, you know, a sample.
+
+[00:27:00] SPEAKER_05
+Then on Cyber Monday, not to be outdone by the GURPLER on Black Friday, Cyber Monday, you
+
+[00:27:07] SPEAKER_05
+didn't think it could be real.
+
+[00:27:09] SPEAKER_05
+You couldn't imagine that we'd actually make it, but I have it on good authority that on
+
+[00:27:14] SPEAKER_05
+Cyber Monday, we will put the Switchfuck up for sale.
+
+[00:27:18] SPEAKER_05
+So we actually got the Switchfuck made, or it's being made as we speak, and they're
+
+[00:27:22] SPEAKER_05
+going to, we're going to put it on sale Cyber Monday.
+
+[00:27:25] SPEAKER_05
+I hope it doesn't fall flat on our face, because I will lose a lot of capital in the
+
+[00:27:31] SPEAKER_05
+company if the Switchfuck isn't a success, because that one took a little bit of convincing
+
+[00:27:36] SPEAKER_05
+to get made.
+
+[00:27:37] SPEAKER_02
+Do we know how many Switchfucks have been made?
+
+[00:27:40] SPEAKER_02
+That'd be interesting to know.
+
+[00:27:41] SPEAKER_00
+I have no idea.
+
+[00:27:42] SPEAKER_00
+I think it was a few hundred, but I really don't, I don't remember.
+
+[00:27:47] SPEAKER_00
+Understood.
+
+[00:27:48] SPEAKER_03
+Also, you mentioned the GrownTubes hadn't sold, and I guess that turned a lot of
+
+[00:27:52] SPEAKER_03
+attention to it.
+
+[00:27:53] SPEAKER_03
+Sold out.
+
+[00:27:54] SPEAKER_03
+Oh, yeah.
+
+[00:27:55] SPEAKER_05
+I was told that maybe by the time that episode aired, they'd already sold out.
+
+[00:27:59] SPEAKER_02
+Oh, no.
+
+[00:28:00] SPEAKER_02
+Shit.
+
+[00:28:01] SPEAKER_02
+We're the worst.
+
+[00:28:02] SPEAKER_02
+We suck at that.
+
+[00:28:04] SPEAKER_05
+But hey, we're letting people know a full, what does this come out?
+
+[00:28:07] SPEAKER_05
+The 29th, we're letting people know two days, one day, two days in advance about these
+
+[00:28:12] SPEAKER_05
+baseballs.
+
+[00:28:13] SPEAKER_05
+So, you know, we haven't put them on sale as of this recording, so that can't repeat.
+
+[00:28:19] SPEAKER_05
+I think that's it.
+
+[00:28:20] SPEAKER_05
+There's discussion about a baseball jersey coming out at some point.
+
+[00:28:23] SPEAKER_05
+I'm not really sure when that'll be.
+
+[00:28:25] SPEAKER_05
+That's been kind of bounced around forever.
+
+[00:28:26] SPEAKER_05
+And I think that's all we have kind of out there in the ether right now that I'm aware
+
+[00:28:30] SPEAKER_05
+of.
+
+[00:28:30] SPEAKER_05
+We've been trying to get that vinyl of episode 16 made for about two years now, it feels
+
+[00:28:33] SPEAKER_05
+like.
+
+[00:28:34] SPEAKER_05
+And that's still, still, I don't know, in the ether somewhere.
+
+[00:28:38] SPEAKER_05
+Am I missing anything?
+
+[00:28:40] SPEAKER_05
+I don't think so.
+
+[00:28:41] SPEAKER_02
+No, I think that's, I think that's the bulk of it.
+
+[00:28:44] SPEAKER_02
+That was quite a good roundup.
+
+[00:28:45] SPEAKER_02
+It was, not to go too deeply into self-promotion talk, but I had kind of a funny thing happen
+
+[00:28:50] SPEAKER_02
+relating to this show, in a sense, the other night.
+
+[00:28:54] SPEAKER_02
+I watched the second episode, Does It Do?, which I had heard a lot about of Gavin's Fall
+
+[00:28:59] SPEAKER_02
+and the things around it.
+
+[00:29:02] SPEAKER_02
+It was, it was like a weekend, I think it was Saturday, it was 2 a.m., it was very late.
+
+[00:29:07] SPEAKER_02
+And I was like, you know, I'm going to finally watch this.
+
+[00:29:09] SPEAKER_02
+I just hadn't seen it yet, for whatever reason.
+
+[00:29:11] SPEAKER_02
+And I was excited to watch.
+
+[00:29:13] SPEAKER_02
+I laughed so goddamn hard at your fall, Gavin.
+
+[00:29:16] SPEAKER_02
+Mainly because I knew, yeah, because I knew you were okay, ultimately.
+
+[00:29:20] SPEAKER_02
+We had talked post-fall, and that it was so self-inflicted.
+
+[00:29:25] SPEAKER_02
+It was entirely your fault.
+
+[00:29:27] SPEAKER_02
+And it didn't go the way you wanted at all.
+
+[00:29:29] SPEAKER_02
+So I had a good, I had a good laugh at it.
+
+[00:29:31] SPEAKER_02
+I was like, man, I really want to watch that impact again.
+
+[00:29:33] SPEAKER_02
+So I, I went back and I paused right when you hit.
+
+[00:29:39] SPEAKER_02
+Oh.
+
+[00:29:40] SPEAKER_02
+And I, I died.
+
+[00:29:41] SPEAKER_02
+I died of laughter.
+
+[00:29:43] SPEAKER_02
+I was wheezing.
+
+[00:29:45] SPEAKER_02
+It's the hardest I've laughed in a long time.
+
+[00:29:49] SPEAKER_02
+And I didn't want to wake my partner up.
+
+[00:29:51] SPEAKER_02
+So I'm trying to like suppress it.
+
+[00:29:53] SPEAKER_02
+And I'm just, I'm just like, like, I'm just wheezing.
+
+[00:29:58] SPEAKER_02
+And it's, I'm so loud.
+
+[00:29:59] SPEAKER_02
+And I can't stop myself.
+
+[00:30:01] SPEAKER_02
+I, I was crying.
+
+[00:30:02] SPEAKER_02
+There were tears coming down my face.
+
+[00:30:04] SPEAKER_02
+I couldn't stop.
+
+[00:30:05] SPEAKER_02
+And I was, I'm so sorry.
+
+[00:30:07] SPEAKER_02
+I'm trying to be quiet.
+
+[00:30:08] SPEAKER_03
+But just from looking at this paused, oh, just looking.
+
+[00:30:11] SPEAKER_02
+I genuinely laughed without pause for probably 80 seconds.
+
+[00:30:16] SPEAKER_02
+I couldn't stop.
+
+[00:30:17] SPEAKER_02
+And then I gathered myself and you, I mean, just look at the photo.
+
+[00:30:21] SPEAKER_02
+It looks like all of your bones are escaping through like a magic trap door on the floor.
+
+[00:30:27] SPEAKER_02
+Like everything is leaving.
+
+[00:30:29] SPEAKER_02
+Everything is gone.
+
+[00:30:30] SPEAKER_02
+So then I, I unpaused it for a second and then repaused it.
+
+[00:30:34] SPEAKER_02
+And I got this angle.
+
+[00:30:35] SPEAKER_02
+And then I just, it started all over again.
+
+[00:30:38] SPEAKER_02
+And I couldn't, there was no muffling that.
+
+[00:30:41] SPEAKER_02
+I couldn't stop laughing.
+
+[00:30:42] SPEAKER_02
+You got like an ET arm.
+
+[00:30:44] SPEAKER_02
+You're just, you're destroyed.
+
+[00:30:46] SPEAKER_02
+You have wrecked your body in the least entertaining way visually I've ever seen.
+
+[00:30:52] SPEAKER_02
+There's nothing impressive.
+
+[00:30:54] SPEAKER_02
+It was such a, you would, you did so much damage and nothing about it looked cool or funny.
+
+[00:31:01] SPEAKER_02
+And you did it yourself.
+
+[00:31:03] SPEAKER_02
+And that's what I think really got me.
+
+[00:31:05] SPEAKER_03
+It's just, I need to remember that when I go to try and push someone or tackle someone,
+
+[00:31:09] SPEAKER_03
+all I do is bounce off.
+
+[00:31:11] SPEAKER_03
+It's all I've ever done my entire life.
+
+[00:31:13] SPEAKER_03
+I just got to come to terms with it.
+
+[00:31:16] SPEAKER_02
+The next day I said, I'm so sorry.
+
+[00:31:18] SPEAKER_02
+I probably woke you up.
+
+[00:31:19] SPEAKER_02
+I couldn't, this, I was looking again, falling.
+
+[00:31:22] SPEAKER_02
+And they were like, they said, yeah, I couldn't tell if you were laughing or crying.
+
+[00:31:26] SPEAKER_02
+Like, like genuinely, extremely upset.
+
+[00:31:30] SPEAKER_02
+And once I noticed that it was laughter, then I was like, that's fine.
+
+[00:31:34] SPEAKER_02
+But, oh, I was a mess.
+
+[00:31:36] SPEAKER_02
+I, oh, it was such a good laugh.
+
+[00:31:39] SPEAKER_02
+Maybe my biggest laugh of the year.
+
+[00:31:41] SPEAKER_03
+Oh, I'm bummed it wasn't being recorded.
+
+[00:31:44] SPEAKER_02
+Oh, it's great.
+
+[00:31:46] SPEAKER_05
+It was a great time.
+
+[00:31:47] SPEAKER_05
+Eric, speaking of does it do, when do we get to make more of it?
+
+[00:31:51] SPEAKER_05
+We only make two other.
+
+[00:31:52] SPEAKER_05
+End of October.
+
+[00:31:52] SPEAKER_05
+End of October.
+
+[00:31:53] SPEAKER_05
+Oh my God.
+
+[00:31:54] SPEAKER_00
+Yeah, I just had a, I just had a conversation with someone to make sure that we have space
+
+[00:31:57] SPEAKER_00
+and time in the studio.
+
+[00:31:59] SPEAKER_00
+So end of October is what we're looking at.
+
+[00:32:01] SPEAKER_00
+But before the sock cursing.
+
+[00:32:03] SPEAKER_00
+Before the sock cursing.
+
+[00:32:04] SPEAKER_00
+Yes.
+
+[00:32:04] SPEAKER_00
+Okay.
+
+[00:32:05] SPEAKER_00
+Okay.
+
+[00:32:05] SPEAKER_00
+Okay.
+
+[00:32:05] SPEAKER_00
+It'll just have to be a couple of weeks into October.
+
+[00:32:07] SPEAKER_00
+We just can't get, we can't get studio before that.
+
+[00:32:09] SPEAKER_05
+So it'll probably, it'll probably come out like episodes three through eight, I think
+
+[00:32:14] SPEAKER_05
+is, it is.
+
+[00:32:15] SPEAKER_05
+We'll come out in November and December then probably.
+
+[00:32:18] SPEAKER_00
+Yeah.
+
+[00:32:18] SPEAKER_00
+I would think November, December, kind of like round out the year with hopefully Gavin not
+
+[00:32:21] SPEAKER_00
+breaking anything, but you know.
+
+[00:32:24] SPEAKER_05
+Yeah.
+
+[00:32:25] SPEAKER_05
+I got to say, I'm really bummed about the incredibly long break between releases, but
+
+[00:32:31] SPEAKER_05
+I'm really excited about recording these next six because I think we figured a lot out
+
+[00:32:36] SPEAKER_05
+in the first two episodes and then, not to get into the sausage talk, but then we had,
+
+[00:32:40] SPEAKER_05
+and I think we covered this in sausage talk even, we had a really good meeting where we
+
+[00:32:44] SPEAKER_05
+came up with a lot of really good ideas and I think we'll be a lot more prepared and I
+
+[00:32:47] SPEAKER_05
+think because of that, there'll be a lot punchier, episodes three through eight.
+
+[00:32:51] SPEAKER_02
+Yeah.
+
+[00:32:52] SPEAKER_02
+I agree.
+
+[00:32:53] SPEAKER_02
+Not that the first two were bad.
+
+[00:32:54] SPEAKER_02
+I thought they were great, but just knowing, I've been excited to see what's coming with
+
+[00:32:59] SPEAKER_02
+the outline that we have.
+
+[00:33:00] SPEAKER_03
+Would you ever be in one, Andrew?
+
+[00:33:02] SPEAKER_03
+Yeah.
+
+[00:33:02] SPEAKER_02
+I'd be in one.
+
+[00:33:04] SPEAKER_02
+If you were in the country?
+
+[00:33:06] SPEAKER_02
+Yeah, I'd gladly be him.
+
+[00:33:07] SPEAKER_02
+Absolutely.
+
+[00:33:08] SPEAKER_02
+I think I would want to bring my own product though.
+
+[00:33:11] SPEAKER_02
+Oh, yes.
+
+[00:33:11] SPEAKER_02
+I know that's a weird demand.
+
+[00:33:13] SPEAKER_02
+I feel like I'd want to surprise you guys with something.
+
+[00:33:15] SPEAKER_02
+Ooh.
+
+[00:33:16] SPEAKER_02
+I like that idea.
+
+[00:33:17] SPEAKER_02
+I love it.
+
+[00:33:17] SPEAKER_02
+I don't know what that is yet.
+
+[00:33:18] SPEAKER_05
+You won't come to America until November.
+
+[00:33:20] SPEAKER_03
+I will not be in America until at least November.
+
+[00:33:22] SPEAKER_03
+Should I be not making any plans for November?
+
+[00:33:26] SPEAKER_03
+Why would you make plans for November?
+
+[00:33:28] SPEAKER_03
+Well, I'm saying if Andrew is potentially coming.
+
+[00:33:31] SPEAKER_03
+That's a good point.
+
+[00:33:31] SPEAKER_02
+I never said I'd be in America in November.
+
+[00:33:34] SPEAKER_02
+Oh.
+
+[00:33:34] SPEAKER_02
+I see.
+
+[00:33:35] SPEAKER_02
+I was open to being in America as of November.
+
+[00:33:38] SPEAKER_05
+Weren't we all going to maybe secretly go to Vegas in November and just hang out?
+
+[00:33:43] SPEAKER_02
+You were going to originally, so there was a plan for Vegas, and then that fell through
+
+[00:33:47] SPEAKER_02
+due to no fault of my own.
+
+[00:33:48] SPEAKER_02
+No, no fault of yours.
+
+[00:33:50] SPEAKER_02
+Then there was a discussion that you guys would come here in November, and then there
+
+[00:33:54] SPEAKER_02
+was also talks of Vegas in November as well.
+
+[00:33:57] SPEAKER_02
+There have been all sorts of November talks.
+
+[00:33:59] SPEAKER_05
+We should solidify something.
+
+[00:34:00] SPEAKER_05
+I would like us all to breathe the same air in November if humanly possible.
+
+[00:34:05] SPEAKER_05
+Yeah.
+
+[00:34:05] SPEAKER_05
+I like that idea a lot.
+
+[00:34:06] SPEAKER_03
+I don't think you do, because you didn't say that you were really up for going in November.
+
+[00:34:11] SPEAKER_03
+You just wouldn't go before November.
+
+[00:34:12] SPEAKER_02
+I just said I like the idea, though.
+
+[00:34:15] SPEAKER_02
+I just don't believe it.
+
+[00:34:16] SPEAKER_02
+Previous statements?
+
+[00:34:17] SPEAKER_02
+Okay.
+
+[00:34:17] SPEAKER_02
+That's fine.
+
+[00:34:18] SPEAKER_02
+I'm not going to fucking try to change my beliefs to some goddamn...
+
+[00:34:22] SPEAKER_02
+I don't even remember what he said.
+
+[00:34:23] SPEAKER_02
+You taste that at this point.
+
+[00:34:24] SPEAKER_02
+Never mind.
+
+[00:34:26] SPEAKER_02
+But I'm not going to argue over that.
+
+[00:34:28] SPEAKER_02
+You know, I'd like to change my answer.
+
+[00:34:29] SPEAKER_02
+I don't think you're tomato-based...
+
+[00:34:29] SPEAKER_02
+This tomato-based motherfucker.
+
+[00:34:31] SPEAKER_02
+I'm not going to go into a debate war with...
+
+[00:34:33] SPEAKER_05
+I think he tastes like prawns, Gavin.
+
+[00:34:35] SPEAKER_05
+Oh.
+
+[00:34:36] SPEAKER_05
+Really?
+
+[00:34:37] SPEAKER_05
+Maybe like cocktail sauce.
+
+[00:34:39] SPEAKER_02
+Yeah.
+
+[00:34:40] SPEAKER_02
+Mmm.
+
+[00:34:40] SPEAKER_02
+But he calls it something else, maybe.
+
+[00:34:43] SPEAKER_02
+Like a cocktail sauce that isn't called a cocktail sauce, but actually is just a cocktail
+
+[00:34:49] SPEAKER_02
+sauce.
+
+[00:34:50] SPEAKER_05
+Interesting.
+
+[00:34:51] SPEAKER_02
+Potentially.
+
+[00:34:52] SPEAKER_05
+Okay.
+
+[00:34:52] SPEAKER_05
+I'll tell you that.
+
+[00:34:53] SPEAKER_05
+I like cocktail sauce.
+
+[00:34:54] SPEAKER_05
+You definitely taste like a condiment, though.
+
+[00:35:00] SPEAKER_05
+Tots?
+
+[00:35:02] SPEAKER_05
+I don't know why we need to ruin today with that talk.
+
+[00:35:04] SPEAKER_05
+The next thing I have on my list, if we want to keep the ball rolling because we're running
+
+[00:35:12] SPEAKER_05
+is moving along.
+
+[00:35:17] SPEAKER_05
+I have a...
+
+[00:35:18] SPEAKER_05
+I have right here...
+
+[00:35:19] SPEAKER_05
+This is, I think, a teeing up you, Gavin.
+
+[00:35:21] SPEAKER_05
+I just have Eric Hippocrite written down.
+
+[00:35:23] SPEAKER_05
+And I don't know why.
+
+[00:35:24] SPEAKER_05
+It's just held over from last time you were going to play a video...
+
+[00:35:27] SPEAKER_05
+Audio or something.
+
+[00:35:28] SPEAKER_03
+Oh, yeah.
+
+[00:35:29] SPEAKER_05
+I didn't get that audio yet.
+
+[00:35:31] SPEAKER_05
+Great.
+
+[00:35:32] SPEAKER_05
+Great work.
+
+[00:35:33] SPEAKER_05
+Eric Hippocrite.
+
+[00:35:34] SPEAKER_05
+Great work.
+
+[00:35:34] SPEAKER_05
+All right.
+
+[00:35:35] SPEAKER_05
+Well, we'll push Eric Hippocrite until episode 104, I guess.
+
+[00:35:39] SPEAKER_03
+It would involve listening to Face Jam, which I haven't brought myself to be able to do
+
+[00:35:42] SPEAKER_03
+yet, but...
+
+[00:35:44] SPEAKER_03
+Right on.
+
+[00:35:44] SPEAKER_03
+Thanks, man.
+
+[00:35:50] SPEAKER_03
+I will say...
+
+[00:35:50] SPEAKER_03
+We can just go based...
+
+[00:35:52] SPEAKER_03
+We can just confront him based on the comments.
+
+[00:35:54] SPEAKER_05
+Okay.
+
+[00:35:54] SPEAKER_03
+This is yours.
+
+[00:35:55] SPEAKER_03
+This is your show, man.
+
+[00:35:56] SPEAKER_03
+This is...
+
+[00:35:56] SPEAKER_03
+Yeah, this is...
+
+[00:35:57] SPEAKER_03
+You're running this.
+
+[00:35:57] SPEAKER_03
+Well, maybe Eric can pluck out what he was talking about.
+
+[00:35:59] SPEAKER_03
+A lot of people in the comments, Eric, saying that you pretty much went down the route
+
+[00:36:03] SPEAKER_03
+of extra medium under sort of different wording.
+
+[00:36:06] SPEAKER_00
+Oh, in a range of days in a month.
+
+[00:36:09] SPEAKER_00
+Yeah.
+
+[00:36:10] SPEAKER_00
+In a range of days, there's a beginning, there's a middle, and there's an end, and you have
+
+[00:36:13] SPEAKER_00
+a range within them.
+
+[00:36:14] SPEAKER_00
+Gavin, when you go to store.roosterteeth.com and you click on a random shirt, here's one.
+
+[00:36:22] SPEAKER_00
+Easy Allies weakling t-shirt on the front page.
+
+[00:36:25] SPEAKER_00
+Just scroll down.
+
+[00:36:26] SPEAKER_00
+Oh, they have extra small, small, medium.
+
+[00:36:28] SPEAKER_00
+They have all the sizes, up to 4X.
+
+[00:36:29] SPEAKER_00
+Incredible.
+
+[00:36:30] SPEAKER_00
+That's great.
+
+[00:36:30] SPEAKER_00
+Oh, I wonder what sizes they are.
+
+[00:36:33] SPEAKER_00
+Oh, looking here, there's one number here for medium.
+
+[00:36:36] SPEAKER_00
+Okay.
+
+[00:36:37] SPEAKER_00
+That's interesting.
+
+[00:36:38] SPEAKER_00
+So, it's not a range.
+
+[00:36:39] SPEAKER_00
+So, it is just a single number, and in order for something to be a range, like a range of
+
+[00:36:45] SPEAKER_00
+days, there would have to be multiple days to choose from, but what I'm looking at is
+
+[00:36:49] SPEAKER_00
+just a single number that says chest 20 inches.
+
+[00:36:52] SPEAKER_00
+I mean, there's range within an inch?
+
+[00:36:54] SPEAKER_00
+You're saying that what you asked me for when you asked for an extra medium was getting
+
+[00:37:01] SPEAKER_00
+down to quarter inches?
+
+[00:37:07] SPEAKER_03
+If there's no range, Eric, then extra medium would be 20.
+
+[00:37:10] SPEAKER_00
+No, that's medium.
+
+[00:37:11] SPEAKER_00
+You got me large!
+
+[00:37:16] SPEAKER_00
+Yeah, because you wanted something bigger than medium.
+
+[00:37:18] SPEAKER_00
+So, what were you saying about the dates?
+
+[00:37:23] SPEAKER_00
+So, the beginning of the month is like the 1st or the 10th, the middle of the month is
+
+[00:37:27] SPEAKER_00
+like the 11th or the 20th, and the end of the month is like the 21st through the 30th
+
+[00:37:30] SPEAKER_00
+or the 31st, however that sort of ranges out, because there's a range of dates there.
+
+[00:37:36] SPEAKER_00
+And the 15th would be...
+
+[00:37:37] SPEAKER_00
+Medium 20 inches.
+
+[00:37:40] SPEAKER_00
+Medium 20 inches.
+
+[00:37:41] SPEAKER_00
+One number.
+
+[00:37:42] SPEAKER_00
+Looking at one number here.
+
+[00:37:44] SPEAKER_03
+That's just our store.
+
+[00:37:48] SPEAKER_00
+There has been ranges within medium.
+
+[00:37:51] SPEAKER_00
+Well, that's what Tony said.
+
+[00:37:53] SPEAKER_00
+There has been ranges within medium when I'm on our store looking at...
+
+[00:37:57] SPEAKER_03
+But what you've proven with the date thing is that you're at a deep level, at core level,
+
+[00:38:02] SPEAKER_03
+you understand the concept of extra medium.
+
+[00:38:05] SPEAKER_00
+No, no.
+
+[00:38:06] SPEAKER_00
+I understand the concept of ranges.
+
+[00:38:08] SPEAKER_00
+Yeah.
+
+[00:38:09] SPEAKER_00
+And what you're expressing is not the most medium, which doesn't exist, because it's
+
+[00:38:17] SPEAKER_00
+not a range, what you've asked for.
+
+[00:38:20] SPEAKER_00
+It's a size.
+
+[00:38:21] SPEAKER_03
+Is this the fifth time we've had this argument?
+
+[00:38:24] SPEAKER_03
+I think it's...
+
+[00:38:24] SPEAKER_00
+I'm not having the argument.
+
+[00:38:26] SPEAKER_00
+I'm just...
+
+[00:38:26] SPEAKER_00
+I'm simply stating a fact, and you're arguing.
+
+[00:38:30] SPEAKER_00
+And so, I mean, that's just sort of how it goes.
+
+[00:38:33] SPEAKER_00
+It's really incredible how many people have come out.
+
+[00:38:36] SPEAKER_00
+It's great.
+
+[00:38:37] SPEAKER_00
+I was talking to Jeff about this the other night at dinner.
+
+[00:38:39] SPEAKER_00
+Oh, yeah.
+
+[00:38:40] SPEAKER_00
+Let's talk about this dinner.
+
+[00:38:41] SPEAKER_00
+We'll get into it next episode.
+
+[00:38:43] SPEAKER_00
+There you go.
+
+[00:38:43] SPEAKER_00
+The thing I really like is the hubris of people making topics going, I'm here to settle the
+
+[00:38:51] SPEAKER_00
+debate.
+
+[00:38:52] SPEAKER_00
+And then they have an opinion, and then it's 88 comments of people arguing.
+
+[00:38:59] SPEAKER_00
+The idea that they're sitting at home going, guys, I've got just the thing that's going
+
+[00:39:06] SPEAKER_00
+to get everyone on the same page, and it doesn't buy a mine.
+
+[00:39:15] SPEAKER_00
+I think that's been my favorite part of the whole thing.
+
+[00:39:18] SPEAKER_00
+That and being right have been my favorite parts of the whole thing.
+
+[00:39:20] SPEAKER_02
+Can I ask you a hard-hitting question, Gavin?
+
+[00:39:25] SPEAKER_02
+Yeah.
+
+[00:39:26] SPEAKER_02
+What does extra medium taste like?
+
+[00:39:31] SPEAKER_02
+Pepper.
+
+[00:39:32] SPEAKER_02
+I think it tastes like salt.
+
+[00:39:36] SPEAKER_02
+Somewhere between salt, pepper, and bullshit.
+
+[00:39:38] SPEAKER_02
+One of those three things.
+
+[00:39:41] SPEAKER_03
+Could this episode be salt, pepper, and bullshit?
+
+[00:39:43] SPEAKER_05
+I am so mystified that extra medium has had the life that it's had.
+
+[00:39:58] SPEAKER_05
+We were discussing this the other day.
+
+[00:40:01] SPEAKER_05
+It feels like next to the comment lever versus regulation listener discussion, probably the
+
+[00:40:09] SPEAKER_05
+most disgusting in the history of F***face at this point.
+
+[00:40:13] SPEAKER_05
+Yeah.
+
+[00:40:13] SPEAKER_05
+Yeah.
+
+[00:40:13] SPEAKER_05
+And we talk about that in Sausage Talk.
+
+[00:40:15] SPEAKER_05
+Yeah, I guess we do.
+
+[00:40:16] SPEAKER_05
+Well, it's continued.
+
+[00:40:17] SPEAKER_05
+It's gotten even crazier.
+
+[00:40:19] SPEAKER_05
+And I still, you want to find funny ways to turn the bit into, I don't know, some silly
+
+[00:40:27] SPEAKER_05
+piece of merch or some way to elevate this.
+
+[00:40:31] SPEAKER_05
+But I, for the life of me, can't figure out how to turn extra medium into something that
+
+[00:40:35] SPEAKER_05
+people would want to own.
+
+[00:40:36] SPEAKER_05
+Well, I don't think we have to.
+
+[00:40:37] SPEAKER_02
+Yeah, I don't think we have to.
+
+[00:40:38] SPEAKER_05
+I guess we won't then.
+
+[00:40:39] SPEAKER_05
+Yeah.
+
+[00:40:40] SPEAKER_05
+I mean, it's in the store now.
+
+[00:40:42] SPEAKER_05
+I guess they're getting, every time they buy an extra medium F***face shirt, they're
+
+[00:40:47] SPEAKER_05
+buying an extra medium F***face shirt.
+
+[00:40:49] SPEAKER_03
+Yeah.
+
+[00:40:49] SPEAKER_03
+And I think on the actual shirt, it'll be printed that way eventually.
+
+[00:40:52] SPEAKER_03
+That's, yeah, we should make sure that happens.
+
+[00:40:54] SPEAKER_00
+Insane.
+
+[00:40:55] SPEAKER_00
+Insane.
+
+[00:40:58] SPEAKER_05
+I have a travel story.
+
+[00:40:59] SPEAKER_05
+Hold on a second.
+
+[00:41:00] SPEAKER_05
+I'm taking Eric Hypocrite off.
+
+[00:41:01] SPEAKER_05
+Is that right?
+
+[00:41:02] SPEAKER_05
+Thanks, man.
+
+[00:41:03] SPEAKER_05
+Yeah, you can go ahead and erase that.
+
+[00:41:04] SPEAKER_05
+Thanks, boss.
+
+[00:41:05] SPEAKER_05
+What's your travel story, Gath?
+
+[00:41:06] SPEAKER_03
+Is your list done?
+
+[00:41:08] SPEAKER_05
+Yeah.
+
+[00:41:08] SPEAKER_05
+Well, I mean, I got, I just have pastrami, but we can get into that whenever.
+
+[00:41:12] SPEAKER_05
+Oh.
+
+[00:41:12] SPEAKER_05
+No, that's way more important.
+
+[00:41:13] SPEAKER_05
+No, yeah.
+
+[00:41:14] SPEAKER_05
+No, no, no, no.
+
+[00:41:15] SPEAKER_05
+We'll end on pastrami.
+
+[00:41:16] SPEAKER_03
+Tell your travel story.
+
+[00:41:17] SPEAKER_03
+Okay.
+
+[00:41:17] SPEAKER_03
+All right.
+
+[00:41:17] SPEAKER_03
+I was in the airport, little family vacation, talking grandparents, siblings, cousins,
+
+[00:41:23] SPEAKER_03
+the lot.
+
+[00:41:23] SPEAKER_03
+Got everyone going.
+
+[00:41:24] SPEAKER_03
+Back to where we're all from in Italy.
+
+[00:41:28] SPEAKER_03
+And we're just waiting to board the plane.
+
+[00:41:31] SPEAKER_03
+And someone is talking, I'm not going to mention who this is.
+
+[00:41:34] SPEAKER_03
+I don't want to like say exactly who is responsible for this story.
+
+[00:41:38] SPEAKER_03
+Someone in my family talking to me about House of the Dragon.
+
+[00:41:41] SPEAKER_03
+Oh, yeah, it's pretty good.
+
+[00:41:42] SPEAKER_03
+They were like, oh, yeah, I really like the main guy.
+
+[00:41:44] SPEAKER_03
+I was like, oh, yeah, Paddy, Paddy Considine.
+
+[00:41:46] SPEAKER_03
+I like that guy.
+
+[00:41:47] SPEAKER_03
+He's been in a lot of stuff.
+
+[00:41:48] SPEAKER_03
+But he had been in like Bourne Ultimatum and Great and Hot Fuzz is one of the Andes.
+
+[00:41:53] SPEAKER_03
+The World's End.
+
+[00:41:54] SPEAKER_03
+All that.
+
+[00:41:55] SPEAKER_03
+All that.
+
+[00:41:55] SPEAKER_03
+All the Edgar Wright stuff.
+
+[00:41:56] SPEAKER_03
+I shit you not.
+
+[00:41:57] SPEAKER_03
+Almost 30 seconds after I just said that, Edgar Wright, the director of Hot Fuzz and The
+
+[00:42:03] SPEAKER_03
+World's End and Shaun of the Dead and all that good stuff that I love, just strolled through
+
+[00:42:07] SPEAKER_03
+the little boarding area for this flight and sat down.
+
+[00:42:11] SPEAKER_03
+And I was like, Jesus Christ.
+
+[00:42:13] SPEAKER_03
+I was like, oh, God, that's freaking Edgar Wright.
+
+[00:42:16] SPEAKER_03
+That's amazing.
+
+[00:42:17] SPEAKER_03
+And I didn't want to go up to him and say hi or anything because, you know, he's traveling.
+
+[00:42:21] SPEAKER_03
+He's probably working.
+
+[00:42:22] SPEAKER_03
+Didn't want to be weird and annoying.
+
+[00:42:23] SPEAKER_05
+Were you in America, England or Italy at this time?
+
+[00:42:27] SPEAKER_03
+This was in England.
+
+[00:42:29] SPEAKER_03
+Okay.
+
+[00:42:29] SPEAKER_03
+This was a Heathrow airport.
+
+[00:42:31] SPEAKER_03
+All right.
+
+[00:42:31] SPEAKER_03
+Thanks.
+
+[00:42:31] SPEAKER_03
+Sorry.
+
+[00:42:32] SPEAKER_03
+I didn't want to make a fool of myself.
+
+[00:42:34] SPEAKER_03
+But I was kind of amazed that that just happened.
+
+[00:42:37] SPEAKER_03
+And then I kept getting put in situations where I ended up like right next to him.
+
+[00:42:40] SPEAKER_03
+And I was like, oh, this should actually be a great opportunity to be like, oh, you
+
+[00:42:44] SPEAKER_03
+know, big fan and all that.
+
+[00:42:46] SPEAKER_03
+I even worked on Hot Fuzz for a day.
+
+[00:42:47] SPEAKER_03
+Could have said that.
+
+[00:42:49] SPEAKER_03
+He's used Phantoms.
+
+[00:42:50] SPEAKER_03
+I used Phantoms.
+
+[00:42:50] SPEAKER_03
+I'm sure we could have had a decent conversation, but I didn't want to do it.
+
+[00:42:54] SPEAKER_03
+The family member, one of the family members I was with is potty trading their kid.
+
+[00:43:00] SPEAKER_03
+And they're trying to get him to go to the bog in real bogs and not piss a nappy.
+
+[00:43:04] SPEAKER_03
+So they got this little like travel potty thing that folds out on the floor.
+
+[00:43:09] SPEAKER_03
+And for like for the last hour, they're trying to get him to pee in this thing, trying to
+
+[00:43:13] SPEAKER_03
+like sneak him into a corner, but he just wouldn't go in it.
+
+[00:43:15] SPEAKER_03
+And then right as we boarded the plane, he was able to successfully pee in this little
+
+[00:43:20] SPEAKER_03
+potty.
+
+[00:43:21] SPEAKER_03
+Got on the plane.
+
+[00:43:23] SPEAKER_03
+I was probably in row like 14 or something.
+
+[00:43:27] SPEAKER_03
+Edgar went further back.
+
+[00:43:29] SPEAKER_03
+He sort of sat around the area with my family back there.
+
+[00:43:33] SPEAKER_03
+We get off the plane and I end up right next to Edgar Wright again.
+
+[00:43:36] SPEAKER_03
+We get bused to the airport we were going to.
+
+[00:43:38] SPEAKER_03
+I don't want to say the exact airport that I don't really want to dox his trip, but we're
+
+[00:43:44] SPEAKER_03
+on the bus. He was a little bit behind me.
+
+[00:43:45] SPEAKER_03
+And then the door to the bus opened, except my door got stuck shut.
+
+[00:43:49] SPEAKER_03
+So he was in the line of people going out the door that opened.
+
+[00:43:53] SPEAKER_03
+And by the time he got to me, I'd just been letting people off because I couldn't get through
+
+[00:43:56] SPEAKER_03
+my broken door.
+
+[00:43:57] SPEAKER_03
+And he got to me and was like, oh, yeah, you you go next.
+
+[00:44:01] SPEAKER_03
+You've been waiting ages.
+
+[00:44:01] SPEAKER_03
+I was like, oh, he's a really nice guy.
+
+[00:44:03] SPEAKER_03
+That's great.
+
+[00:44:04] SPEAKER_03
+I really want to talk to him.
+
+[00:44:05] SPEAKER_03
+I didn't do it.
+
+[00:44:06] SPEAKER_03
+And then I met up with my family member who has a kid who said had an absolute nightmare
+
+[00:44:11] SPEAKER_03
+on the plane.
+
+[00:44:13] SPEAKER_03
+Absolute nightmare.
+
+[00:44:14] SPEAKER_03
+I was like, oh, laughing.
+
+[00:44:15] SPEAKER_03
+Well, we got the kid to pee in the in the potty, but we don't have time to empty it.
+
+[00:44:22] SPEAKER_03
+And it was like this little sealed plastic potty that you can like strap shut.
+
+[00:44:27] SPEAKER_03
+And they were like, oh, we're on the plane and realized that pressure has a huge impact
+
+[00:44:33] SPEAKER_03
+on sealed containers.
+
+[00:44:35] SPEAKER_03
+They put it in the overhead bin and all the piss had shot out the potty and slid all the way
+
+[00:44:43] SPEAKER_03
+down the overhead bin and was dripping on basically one entire side of the plane in the back
+
+[00:44:50] SPEAKER_03
+of the plane.
+
+[00:44:50] SPEAKER_03
+And I was like, oh, shit.
+
+[00:44:53] SPEAKER_03
+I'm sorry.
+
+[00:44:54] SPEAKER_03
+Did you did he piss on Edgar Wright's head?
+
+[00:44:57] SPEAKER_03
+Apparently a bunch of people was landing on their backs.
+
+[00:44:59] SPEAKER_03
+Oh, no.
+
+[00:45:01] SPEAKER_03
+But I couldn't get them to.
+
+[00:45:03] SPEAKER_03
+They didn't really notice Edgar Wright or know what he looked like.
+
+[00:45:06] SPEAKER_03
+So I don't know.
+
+[00:45:08] SPEAKER_03
+There's a very there's a very high possibility that one of my family members, two year old
+
+[00:45:14] SPEAKER_03
+family members is pissed on Edgar Wright's head.
+
+[00:45:16] SPEAKER_03
+I really hope he wasn't sat below that, because I think by the sounds of it, it went on about
+
+[00:45:20] SPEAKER_03
+five different people's shoulders.
+
+[00:45:24] SPEAKER_03
+And if Edgar, if you're listening, I hope that I hope you knew nothing of that.
+
+[00:45:30] SPEAKER_03
+And I'm a big fan.
+
+[00:45:32] SPEAKER_03
+Sorry if that happened.
+
+[00:45:35] SPEAKER_03
+On behalf of my family.
+
+[00:45:38] SPEAKER_03
+And it just goes to show we are this podcast cannot do it.
+
+[00:45:42] SPEAKER_03
+We can't do anything with movie directors.
+
+[00:45:43] SPEAKER_03
+That's director number two that are potentially in our bad books.
+
+[00:45:54] SPEAKER_01
+Then we've traveled.
+
+[00:45:58] SPEAKER_03
+We got in a cab and we're traveling up this mountain path where we were going.
+
+[00:46:03] SPEAKER_03
+It's basically on the top of it's like hundreds of feet above sea level.
+
+[00:46:07] SPEAKER_03
+And I'm sat in the little mini cab.
+
+[00:46:11] SPEAKER_03
+And all I hear coming from the back seat is.
+
+[00:46:16] SPEAKER_03
+And I'm like yelling to the family member again.
+
+[00:46:18] SPEAKER_03
+And I'm like, by the way, after all this piss exploded in the top of the plane, did you
+
+[00:46:23] SPEAKER_03
+empty it?
+
+[00:46:23] SPEAKER_03
+And I'm like, well, you know, it mostly got emptied.
+
+[00:46:27] SPEAKER_01
+What is wrong with your family?
+
+[00:46:29] SPEAKER_01
+What is wrong with your family?
+
+[00:46:30] SPEAKER_01
+It was still spewing out in the back of the mini cab all over all the luggage.
+
+[00:46:35] SPEAKER_01
+As we were like slowly driving up, it was going to like spurn.
+
+[00:46:38] SPEAKER_01
+I was like, get this piss out of here.
+
+[00:46:40] SPEAKER_03
+Get the pee away from us.
+
+[00:46:42] SPEAKER_03
+What are they doing?
+
+[00:46:46] SPEAKER_03
+In that toilet, that little mini potty got pressurized twice.
+
+[00:46:53] SPEAKER_01
+Dammit, I mean this respectfully.
+
+[00:46:56] SPEAKER_01
+Those people suck.
+
+[00:46:58] SPEAKER_01
+They stink.
+
+[00:46:59] SPEAKER_01
+What are they doing?
+
+[00:47:01] SPEAKER_01
+I didn't like, I understand.
+
+[00:47:02] SPEAKER_01
+They didn't have kids.
+
+[00:47:03] SPEAKER_01
+No, if your kid pisses in his potty, they're potty training him.
+
+[00:47:06] SPEAKER_03
+If he's going to the potty and they don't have time to empty it and they're boarding a plane,
+
+[00:47:11] SPEAKER_03
+what are you going to do?
+
+[00:47:12] SPEAKER_02
+Oh yeah.
+
+[00:47:13] SPEAKER_02
+Are there no fucking toilets on the plane?
+
+[00:47:15] SPEAKER_01
+I think what they assume to do is that we'll get this plane in the air and then dump the
+
+[00:47:20] SPEAKER_01
+pee out.
+
+[00:47:21] SPEAKER_02
+No, you don't.
+
+[00:47:22] SPEAKER_02
+There's no way.
+
+[00:47:23] SPEAKER_02
+You just, you, you tell somebody.
+
+[00:47:25] SPEAKER_02
+Everybody is okay with you emptying the piss fucking toilet thing.
+
+[00:47:30] SPEAKER_02
+You just say, hey, this is filled with pee.
+
+[00:47:32] SPEAKER_02
+Can I drain this real quick?
+
+[00:47:34] SPEAKER_05
+It's crazy.
+
+[00:47:36] SPEAKER_05
+As someone who successfully potty trained a kid, in this case, my daughter, I can confidently
+
+[00:47:43] SPEAKER_05
+say I never got her piss or shit on anyone.
+
+[00:47:46] SPEAKER_05
+Like that, I got to go with Andrew that your family, who I love dearly, especially your grandparents
+
+[00:47:52] SPEAKER_05
+and your mom.
+
+[00:47:53] SPEAKER_05
+I think, I just, I think the world of them, but the rest of your family, if it wasn't
+
+[00:47:56] SPEAKER_05
+those three are disgusting.
+
+[00:47:58] SPEAKER_03
+Just horrible.
+
+[00:47:59] SPEAKER_03
+Apparently, when it started dripping on everyone, everyone was like making a fuss and like getting
+
+[00:48:03] SPEAKER_03
+up and then the flight attendant came over and was like, uh, whose container is this?
+
+[00:48:10] SPEAKER_03
+And my family member was like, oh, that's ours.
+
+[00:48:13] SPEAKER_03
+Has it opened?
+
+[00:48:14] SPEAKER_03
+And the flight attendant was like, yep, what's in it?
+
+[00:48:17] SPEAKER_03
+And my family member was like, you're not going to like this, but it's piss.
+
+[00:48:28] SPEAKER_03
+Apparently, they just walked off to get cloths and I think half my family was dying from embarrassment.
+
+[00:48:34] SPEAKER_03
+Oh my God.
+
+[00:48:35] SPEAKER_03
+I couldn't believe that.
+
+[00:48:37] SPEAKER_03
+Like, I don't know what I would have done if I was in that position.
+
+[00:48:40] SPEAKER_03
+I think I would have just had to curl up.
+
+[00:48:43] SPEAKER_03
+I couldn't handle that level of embarrassment.
+
+[00:48:45] SPEAKER_02
+But I, I don't, yeah, I don't, I don't understand.
+
+[00:48:49] SPEAKER_02
+There's so many things that I don't, I don't, it's not even that those family members are
+
+[00:48:55] SPEAKER_02
+gross.
+
+[00:48:55] SPEAKER_02
+They're just completely incompetent.
+
+[00:48:57] SPEAKER_02
+I don't understand any of the choices.
+
+[00:49:01] SPEAKER_05
+Dictionary definition of inept.
+
+[00:49:03] SPEAKER_05
+Like, yes, just like the icing on the cake is that they still carried the piss around with
+
+[00:49:09] SPEAKER_05
+them to the cab.
+
+[00:49:09] SPEAKER_05
+That's what, like at no point do you like get this thing as far the fuck away from me and
+
+[00:49:14] SPEAKER_05
+my family as possible?
+
+[00:49:15] SPEAKER_05
+I would put so much distance between myself and that child toilet.
+
+[00:49:20] SPEAKER_05
+Like, oh my God, dude, that would be like, all right, well, lesson learned here.
+
+[00:49:25] SPEAKER_05
+This is not a travel tool.
+
+[00:49:28] SPEAKER_02
+Oh, it's quite at sea level.
+
+[00:49:31] SPEAKER_02
+You know what?
+
+[00:49:32] SPEAKER_02
+No, you're right.
+
+[00:49:33] SPEAKER_02
+You're right, Jeff.
+
+[00:49:33] SPEAKER_02
+This has changed my opinion.
+
+[00:49:34] SPEAKER_02
+First time incompetence.
+
+[00:49:36] SPEAKER_02
+The second time, psychotic, psychotic.
+
+[00:49:39] SPEAKER_02
+This is, this is alarming.
+
+[00:49:40] SPEAKER_03
+I don't think they expected it to happen on, on the ground.
+
+[00:49:42] SPEAKER_02
+They didn't expect it to happen once.
+
+[00:49:45] SPEAKER_02
+Once it's already happened when you didn't expect it, it's all rules go out the window.
+
+[00:49:49] SPEAKER_05
+You can no longer trust your read on the situation.
+
+[00:49:52] SPEAKER_05
+I think you are an incredibly decent human being.
+
+[00:49:55] SPEAKER_05
+One of the best in my life.
+
+[00:49:58] SPEAKER_05
+And I think you must have sapped all of that out of your family.
+
+[00:50:01] SPEAKER_05
+Like you must have taken all the good, conscientious, polite, all of that element of your British
+
+[00:50:08] SPEAKER_05
+society.
+
+[00:50:09] SPEAKER_05
+You got it all and you just, you left them with just like American ethics and morals.
+
+[00:50:15] SPEAKER_05
+Oh man.
+
+[00:50:16] SPEAKER_05
+And I would say, I would say Edgar Wright is my favorite director.
+
+[00:50:19] SPEAKER_05
+I wouldn't say that right now if I were you, after you, after your family just pissed all
+
+[00:50:25] SPEAKER_05
+over him.
+
+[00:50:26] SPEAKER_03
+I really hope it didn't go on him.
+
+[00:50:28] SPEAKER_02
+I need to know.
+
+[00:50:30] SPEAKER_02
+You know what my favorite part of that story is?
+
+[00:50:32] SPEAKER_02
+I am no longer the definitive piss boy of this podcast.
+
+[00:50:35] SPEAKER_02
+That is, the title has been claimed.
+
+[00:50:39] SPEAKER_02
+That's gone.
+
+[00:50:40] SPEAKER_02
+That's done for me.
+
+[00:50:41] SPEAKER_02
+I can't have that.
+
+[00:50:43] SPEAKER_05
+Yeah.
+
+[00:50:44] SPEAKER_02
+He's right.
+
+[00:50:44] SPEAKER_02
+That two-year-old has that.
+
+[00:50:46] SPEAKER_02
+That's, that's off my record now.
+
+[00:50:49] SPEAKER_02
+It's a great day for me.
+
+[00:50:51] SPEAKER_05
+Congratulations, Andrew.
+
+[00:50:53] SPEAKER_05
+Thank you.
+
+[00:50:54] SPEAKER_05
+I will say, I was going to mention this earlier when I asked you what country you were in at
+
+[00:51:00] SPEAKER_05
+the time, because I thought it was, but then the story just kept going and kept going and
+
+[00:51:06] SPEAKER_05
+kept going.
+
+[00:51:07] SPEAKER_05
+But I will say there's a, there's a, cause Edgar Wright is British.
+
+[00:51:10] SPEAKER_05
+You're British, right?
+
+[00:51:11] SPEAKER_05
+Yeah.
+
+[00:51:12] SPEAKER_05
+And this happened in England, irrespective of you, of your family dousing Edgar Wright in
+
+[00:51:17] SPEAKER_05
+urine.
+
+[00:51:19] SPEAKER_05
+It's, we should test this next time you or we are in England.
+
+[00:51:24] SPEAKER_05
+You might have like on home soil, you might have enough like gravitas or success or whatever
+
+[00:51:30] SPEAKER_05
+it is.
+
+[00:51:30] SPEAKER_05
+You might be able to summon certain celebrities to you.
+
+[00:51:33] SPEAKER_05
+This could be a skill you have.
+
+[00:51:35] SPEAKER_02
+There's nothing I want more in the world than to be in a place with Gavin and Edgar Wright
+
+[00:51:40] SPEAKER_02
+and to be able to reveal that, Hey, remember that time you got pissed on, on that plane?
+
+[00:51:45] SPEAKER_02
+He's kind of responsible.
+
+[00:51:47] SPEAKER_02
+This guy right here.
+
+[00:51:48] SPEAKER_05
+Do you, do you know, do you know anybody who knows Edgar Wright?
+
+[00:51:53] SPEAKER_05
+Like does Buckley or anybody know Edgar Wright that could find out?
+
+[00:51:56] SPEAKER_05
+Hey, did you get pissed on, on a plane recently?
+
+[00:51:59] SPEAKER_05
+No, I mean, I DM him, I'm sure.
+
+[00:52:01] SPEAKER_05
+Yeah, do that.
+
+[00:52:02] SPEAKER_05
+Just be like, Hey, I'm just wondering if a member of my family may have peed on you
+
+[00:52:05] SPEAKER_05
+recently.
+
+[00:52:06] SPEAKER_02
+Oh, please, please.
+
+[00:52:10] SPEAKER_02
+We need to know.
+
+[00:52:12] SPEAKER_02
+We need definitive answers.
+
+[00:52:14] SPEAKER_02
+An attempt needs to be made.
+
+[00:52:17] SPEAKER_03
+I could not have been more embarrassed through blood.
+
+[00:52:22] SPEAKER_03
+It was, I just, because as, as, as I was being told the story, I was like, Oh no.
+
+[00:52:27] SPEAKER_03
+And then I was just like, Oh no.
+
+[00:52:29] SPEAKER_03
+Oh, that's so good.
+
+[00:52:36] SPEAKER_05
+Was Meg around for this?
+
+[00:52:38] SPEAKER_05
+She was sat with me.
+
+[00:52:39] SPEAKER_05
+She heard about the story afterwards.
+
+[00:52:40] SPEAKER_05
+I would love to.
+
+[00:52:41] SPEAKER_05
+I got to go to dinner with y'all soon so I can hear her side of this.
+
+[00:52:44] SPEAKER_02
+Oh man.
+
+[00:52:45] SPEAKER_05
+I bet her, her, her insights are going to be fantastic.
+
+[00:52:47] SPEAKER_05
+I can't wait.
+
+[00:52:50] SPEAKER_05
+Oh, I'm tired after listening to that story.
+
+[00:52:53] SPEAKER_05
+Oh, this wore me out.
+
+[00:52:55] SPEAKER_05
+I'm so happy.
+
+[00:52:56] SPEAKER_05
+Gavin, that's, Oh my God.
+
+[00:52:57] SPEAKER_05
+Do you guys realize this is going to be the next, we've already, I think, identified
+
+[00:53:02] SPEAKER_05
+it, but this will be season two of face animated, right?
+
+[00:53:04] SPEAKER_05
+Regulation animation.
+
+[00:53:05] SPEAKER_02
+Oh, absolutely.
+
+[00:53:06] SPEAKER_02
+A hundred percent.
+
+[00:53:08] SPEAKER_02
+Peeing on Edgar, right?
+
+[00:53:09] SPEAKER_03
+It was hearing the story because I had the story in the airport and we're all sort of
+
+[00:53:13] SPEAKER_03
+still in the airport and I was still weighing up like, Oh, am I going to have, am I going
+
+[00:53:16] SPEAKER_03
+to like work up the confidence to just say hi to Edgar Wright?
+
+[00:53:19] SPEAKER_03
+And after I had that story, I was like, I'm going to let Edgar Wright leave.
+
+[00:53:23] SPEAKER_03
+And I hope we don't cross paths in this way.
+
+[00:53:27] SPEAKER_05
+Oh, that is brilliant.
+
+[00:53:30] SPEAKER_05
+That might be the best story ever told on this podcast.
+
+[00:53:33] SPEAKER_05
+Kevin, that was a great story.
+
+[00:53:35] SPEAKER_05
+I don't think it was the best, but it was, it was significant.
+
+[00:53:38] SPEAKER_05
+I don't know, dude.
+
+[00:53:39] SPEAKER_05
+It's up there for sure.
+
+[00:53:40] SPEAKER_05
+I agree with Nick.
+
+[00:53:40] SPEAKER_05
+It's up there.
+
+[00:53:41] SPEAKER_05
+I was, I had just put at about for about five solid minutes.
+
+[00:53:45] SPEAKER_05
+I had just had to have my, I just put my head down on my table and just giggled into
+
+[00:53:49] SPEAKER_05
+my arms and was useless.
+
+[00:53:52] SPEAKER_05
+I couldn't do anything but laugh uncontrollably.
+
+[00:53:55] SPEAKER_05
+Oh, I'll be honest.
+
+[00:53:58] SPEAKER_05
+I'm excited.
+
+[00:53:58] SPEAKER_05
+I don't want to tell.
+
+[00:53:59] SPEAKER_05
+I'm sorry.
+
+[00:53:59] SPEAKER_05
+What are you excited about, Andrew?
+
+[00:54:01] SPEAKER_02
+I was just going to say, I'm excited because I feel like we're all happy right now.
+
+[00:54:03] SPEAKER_02
+And based off of what you said, the next episode is going to be very contentious.
+
+[00:54:07] SPEAKER_02
+So I'm just, I'm trying to live in this moment.
+
+[00:54:09] SPEAKER_02
+Yeah.
+
+[00:54:09] SPEAKER_05
+Yeah.
+
+[00:54:09] SPEAKER_05
+Maybe we should live in the, maybe revel in this moment.
+
+[00:54:12] SPEAKER_05
+What I was going to say is I'll be honest.
+
+[00:54:14] SPEAKER_05
+I think my pastrami story is going to be a huge letdown after that.
+
+[00:54:17] SPEAKER_05
+So I don't know.
+
+[00:54:20] SPEAKER_02
+That was kind of mean, Gavin.
+
+[00:54:24] SPEAKER_02
+You should have closed with that.
+
+[00:54:25] SPEAKER_02
+You should have let Jeff should have.
+
+[00:54:27] SPEAKER_03
+He tried.
+
+[00:54:27] SPEAKER_03
+I figured next, next time would be all about the food challenge.
+
+[00:54:31] SPEAKER_02
+That's fair.
+
+[00:54:32] SPEAKER_02
+Do we want to do pastrami to open?
+
+[00:54:34] SPEAKER_02
+I'll open.
+
+[00:54:34] SPEAKER_02
+We'll open with pastrami.
+
+[00:54:36] SPEAKER_02
+It's a really, it's a non event.
+
+[00:54:37] SPEAKER_05
+I mean, next to that.
+
+[00:54:39] SPEAKER_05
+I'm excited.
+
+[00:54:39] SPEAKER_02
+I have questions.
+
+[00:54:40] SPEAKER_05
+Okay.
+
+[00:54:41] SPEAKER_02
+I feel like this opens all sorts of doors for you.
+
+[00:54:43] SPEAKER_02
+Food wise.
+
+[00:54:44] SPEAKER_02
+I need information.
+
+[00:54:45] SPEAKER_05
+Thank you for listening to another episode.
+
+[00:54:48] SPEAKER_05
+Probably what's going to go down as one of my favorites of all time because of the last
+
+[00:54:52] SPEAKER_05
+12 minutes or so episode of face.
+
+[00:54:56] SPEAKER_05
+Really appreciate the support.
+
+[00:54:58] SPEAKER_05
+If you're going to pee in public, do it in a toilet.
+
+[00:55:01] SPEAKER_05
+And if you do it in a toilet, don't put that toilet above your head and go ahead and
+
+[00:55:05] SPEAKER_05
+rate and review if you feel like it.
+
+[00:55:08] SPEAKER_05
+Keep your urine to yourself.
+
+[00:55:10] SPEAKER_04
+Thanks.
+
+[00:55:11] SPEAKER_04
+Hey guys, major league fan Jack here with a look at next week's episode of face.
+
+[00:55:15] SPEAKER_04
+Jeff revisits the P word.
+
+[00:55:17] SPEAKER_04
+Let's get specific on letter food rules.
+
+[00:55:20] SPEAKER_04
+G for Gavin.
+
+[00:55:21] SPEAKER_04
+And gets incredibly lucky.
+
+[00:55:23] SPEAKER_04
+Jeff is incredibly unlucky.
+
+[00:55:25] SPEAKER_04
+Is there any way to play Halo co-op?
+
+[00:55:28] SPEAKER_04
+And once again, Andrew does not eat the pencil.
+
+[00:55:30] SPEAKER_04
+All that and more on next week's episode of face.

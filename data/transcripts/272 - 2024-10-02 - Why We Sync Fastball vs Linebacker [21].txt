@@ -1,0 +1,5196 @@
+# Episode 272: Why We Sync // Fastball vs Linebacker [21]
+published: 2024-10-02T07:00:00+00:00  |  duration: 01:12:55
+source: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/REGULATIONCOMPANYLLC7453036557.mp3?updated=1738026649
+transcribed: 2026-08-08T13:28:33.328183-04:00  |  model: large-v3-turbo
+diarization: pyannote/speaker-diarization-3.1
+
+
+[00:00:00] SPEAKER_02
+Welcome aboard VIA Rail. Please sit and enjoy. Please sit and stretch. Steep. Flip. Or that. And enjoy. VIA Rail. Love the way.
+
+[00:00:14] SPEAKER_07
+Hello and welcome to another episode of The Regulation Podcast. This is number 21. Our 146th, 47th episode or 200. My name is Geoff.
+
+[00:00:27] SPEAKER_07
+Also, I got Eric and Gavin and Nick and Andrew. Let's go to Andrew real fast.
+
+[00:00:33] SPEAKER_06
+So, straight away, we should point out, this is the second recording. We stopped recording about a minute ago.
+
+[00:00:39] SPEAKER_04
+Well, here's the thing. We stopped recording about a minute ago. Andrew stopped recording about two minutes ago, then started recording again two seconds later.
+
+[00:00:47] SPEAKER_04
+So, Andrew, without anyone explaining it to you, why do you think we do a sync?
+
+[00:00:53] SPEAKER_05
+We sync because he's going to lay down all of the tracks and then play them simultaneously and having us all count, he'll be able to figure out, like, the timing of it to get us all aligned.
+
+[00:01:04] SPEAKER_06
+And let me ask you this. Let me ask you this.
+
+[00:01:06] SPEAKER_06
+Yeah.
+
+[00:01:07] SPEAKER_06
+What is Nick going to do with a 20-second chunk at the end of your file that's just a sync?
+
+[00:01:13] SPEAKER_05
+Well, it's the same file. There's just a little detour.
+
+[00:01:18] SPEAKER_06
+Okay, so it's not even a new track. It's on your existing track.
+
+[00:01:22] SPEAKER_05
+It's on my existing track.
+
+[00:01:23] SPEAKER_06
+So, what does that mean for your sync?
+
+[00:01:27] SPEAKER_05
+Uh, well, at the end, we're all counting again.
+
+[00:01:30] SPEAKER_06
+No, at the end, all four of us are counting again.
+
+[00:01:33] SPEAKER_06
+You're counting before we start counting.
+
+[00:01:35] SPEAKER_06
+If you stopped and started, your sync happens sooner.
+
+[00:01:39] SPEAKER_05
+Okay, wait a second. Let me figure this out for a second.
+
+[00:01:42] SPEAKER_05
+I think I'm getting along the way.
+
+[00:01:43] SPEAKER_07
+So, if Nick were to sync, were to sync, were to in sync to you?
+
+[00:01:48] SPEAKER_05
+No, no, no, Jeff, Jeff, wait. Let me get there.
+
+[00:01:49] SPEAKER_05
+I gotta get there myself, or this is gonna be pointless.
+
+[00:01:52] SPEAKER_05
+So, you do the back sync to see if we have gotten out of sync, I'm assuming, by the end?
+
+[00:02:00] SPEAKER_99
+Yeah.
+
+[00:02:00] SPEAKER_05
+Okay.
+
+[00:02:01] SPEAKER_06
+Yeah, in case it's like someone's drifting.
+
+[00:02:03] SPEAKER_05
+Got it. Okay. Well, then, yeah.
+
+[00:02:04] SPEAKER_05
+Then what I did would be completely useless. I just panicked.
+
+[00:02:08] SPEAKER_07
+We don't typically...
+
+[00:02:10] SPEAKER_07
+Technically, it could be more than useless.
+
+[00:02:12] SPEAKER_07
+It could be super counterproductive.
+
+[00:02:14] SPEAKER_04
+It would be absolutely detrimental to the recording, but I did not expect Andrew going,
+
+[00:02:19] SPEAKER_04
+ah, yes.
+
+[00:02:20] SPEAKER_04
+That was an immediate fault.
+
+[00:02:22] SPEAKER_06
+But it is worse than not doing a sync.
+
+[00:02:24] SPEAKER_06
+I just want to point that out.
+
+[00:02:26] SPEAKER_05
+Well, now I know that. I didn't know that before.
+
+[00:02:28] SPEAKER_05
+We just recently got into syncing on audio in that way.
+
+[00:02:31] SPEAKER_05
+We have gone 200-something episodes.
+
+[00:02:34] SPEAKER_05
+No, no, no, no, no. Hang on. Hang on. He's right.
+
+[00:02:37] SPEAKER_04
+Right. We started syncing for the podcast.
+
+[00:02:39] SPEAKER_04
+I'm asking about a sync in general, which we've been doing for a very long time for our video game videos.
+
+[00:02:44] SPEAKER_05
+Yeah, but not the podcast.
+
+[00:02:46] SPEAKER_05
+Do you think that's different?
+
+[00:02:47] SPEAKER_05
+No, it's just like in my head, it is different.
+
+[00:02:50] SPEAKER_05
+Like we're doing a podcast. We're not doing a Let's Play.
+
+[00:02:52] SPEAKER_05
+I've worked in my head in Let's Play.
+
+[00:02:54] SPEAKER_05
+There will be a front sync and an end sync, and this is what the ritual is.
+
+[00:02:57] SPEAKER_05
+As opposed to a podcast, my ritual is different.
+
+[00:03:01] SPEAKER_04
+Right. I'm not faulting you for stopping at the end.
+
+[00:03:06] SPEAKER_04
+That's not what I'm saying.
+
+[00:03:08] SPEAKER_04
+You just called it a ritual to do a front sync and a back sync in the gameplay.
+
+[00:03:13] SPEAKER_04
+What I'm saying is you understand there's a reason.
+
+[00:03:16] SPEAKER_05
+Yes, absolutely.
+
+[00:03:17] SPEAKER_05
+It's the exact same purpose.
+
+[00:03:20] SPEAKER_05
+I'm just saying that like I have a habit I've established in my head of like I'm doing a Let's Play.
+
+[00:03:25] SPEAKER_05
+It's going to begin this way.
+
+[00:03:26] SPEAKER_05
+It's going to end this way, and that's how it's going to go every time.
+
+[00:03:29] SPEAKER_05
+And the podcast, we've done like 200 of them where that was not a thing we did at the end.
+
+[00:03:34] SPEAKER_05
+It is a relatively recent thing.
+
+[00:03:36] SPEAKER_04
+Again, I don't think anybody's faulting you for not doing the tail sync.
+
+[00:03:41] SPEAKER_04
+It is the understanding of why we sync.
+
+[00:03:44] SPEAKER_04
+That's what I was curious about.
+
+[00:03:46] SPEAKER_07
+I think it was more just funny the way you addressed it when you said, oh, I stopped recording.
+
+[00:03:51] SPEAKER_07
+No worries.
+
+[00:03:51] SPEAKER_07
+I hit recording again.
+
+[00:03:52] SPEAKER_07
+Don't worry.
+
+[00:03:53] SPEAKER_07
+We're good.
+
+[00:03:53] SPEAKER_07
+Don't worry about it.
+
+[00:03:54] SPEAKER_07
+Problem solved.
+
+[00:03:56] SPEAKER_07
+That was, it was just your, your sure.
+
+[00:03:58] SPEAKER_07
+Yes.
+
+[00:03:59] SPEAKER_07
+How sure you were that you had remedied the situation, which was so caught us off guard, I think.
+
+[00:04:05] SPEAKER_05
+Yeah, it was like if I knocked a vase over or something of glass and then quickly grabbed all the pieces and said, don't worry, I got them all.
+
+[00:04:14] SPEAKER_05
+Like it's, yeah, it's not, the situation is not resolved.
+
+[00:04:18] SPEAKER_05
+It was just more, I realized I had made my mistake because I'm so like instinctually, it's like, okay, we're done.
+
+[00:04:24] SPEAKER_05
+I hit stop as soon as the show is over.
+
+[00:04:26] SPEAKER_05
+And I need to not do that.
+
+[00:04:29] SPEAKER_05
+And I did that and went, oh no, I fucked up.
+
+[00:04:32] SPEAKER_05
+Uh, I'm going to hit the record button again to try to reverse this.
+
+[00:04:36] SPEAKER_05
+But now I know it's just gone.
+
+[00:04:38] SPEAKER_06
+I would say it was more equivalent to you knocking over a vase and then quickly throwing a different vase at it.
+
+[00:04:47] SPEAKER_07
+Try putting them both together, idiot.
+
+[00:04:50] SPEAKER_07
+To your, to your point though, Andrew, I have the same problem where I'm a creature of habit as well.
+
+[00:04:55] SPEAKER_07
+And I almost, uh, hit, uh, stop recording almost every time we have to do a tail sync for the podcast.
+
+[00:05:00] SPEAKER_07
+Now I'm not used to it either.
+
+[00:05:01] SPEAKER_06
+We haven't explained how we actually think, but I don't know if people know, but we usually, we have everyone mute except for one person and they count backwards from five.
+
+[00:05:09] SPEAKER_06
+And when you kind of, we will join in at three.
+
+[00:05:11] SPEAKER_06
+So we will end up saying three, two, one at the same time.
+
+[00:05:14] SPEAKER_07
+Except usually, uh, I would say like eight out of every 10 times when we all unmute, somebody goes, I'm sorry.
+
+[00:05:19] SPEAKER_07
+I came back in at one.
+
+[00:05:21] SPEAKER_06
+It also works super well for the four of us that are in Texas, but with Andrew, we're dealing with the speed of light.
+
+[00:05:29] SPEAKER_04
+Yeah.
+
+[00:05:29] SPEAKER_04
+There's, there's also, there's also a thing that has occurred where the countdown kind of goes like five, four, three, two, one.
+
+[00:05:42] SPEAKER_04
+And that will sort of throw everything into chaos.
+
+[00:05:44] SPEAKER_07
+Cause I am, I have real performance anxiety for the count and I fuck it up.
+
+[00:05:50] SPEAKER_07
+I feel like every time I have to do the count, like I get it in my head about it.
+
+[00:05:54] SPEAKER_07
+I can't keep a cadence.
+
+[00:05:55] SPEAKER_07
+I'm definitely guilty of making that problem.
+
+[00:05:57] SPEAKER_05
+It is the problem for me of when someone else is doing the count of, okay, we're going to do the count.
+
+[00:06:03] SPEAKER_05
+And then my brain will wander immediately because I'm muted.
+
+[00:06:06] SPEAKER_05
+And it's like my, I shut off and then I'll wake up unless I constantly yell in my own head.
+
+[00:06:12] SPEAKER_05
+You got to focus on the count, focus on the count, focus on the count.
+
+[00:06:15] SPEAKER_05
+Otherwise I will drift instantly to something else and then panic on like two.
+
+[00:06:21] SPEAKER_05
+It is a problem.
+
+[00:06:23] SPEAKER_06
+Maybe what we should do is we'll have Eric stream some formula one starting lights.
+
+[00:06:33] SPEAKER_04
+I think, I think what we have to do is just put like, I think we just have to get like one of those coin dash runner games.
+
+[00:06:41] SPEAKER_04
+So Andrew can like pay attention to something while we all mute everything.
+
+[00:06:45] SPEAKER_04
+Like it's a tick tock.
+
+[00:06:47] SPEAKER_04
+Like Andrew, if I just throw, if, if that's on the screen where it's running, I'm never going to hit that count.
+
+[00:06:55] SPEAKER_05
+I'm going to be all in on those coins.
+
+[00:06:57] SPEAKER_04
+I thought maybe, I thought maybe it would keep your focus just enough, but okay.
+
+[00:07:01] SPEAKER_06
+What is that temple run?
+
+[00:07:02] SPEAKER_06
+I played the shit out of that game.
+
+[00:07:03] SPEAKER_05
+Yeah, I, uh, I had that exact same thing happen recently in a different way of like, I get distracted and, oh man, it was dumb.
+
+[00:07:15] SPEAKER_05
+Um, I was playing, it's one of the dumbest moments I've had in a while.
+
+[00:07:20] SPEAKER_05
+I was playing this app.
+
+[00:07:23] SPEAKER_05
+Uh, it's like a guest, the jingle game with my partner and it like plays a jingle thing.
+
+[00:07:28] SPEAKER_05
+And it was a voice going, ho, ho, ho.
+
+[00:07:31] SPEAKER_05
+And we're like, what the fuck is that?
+
+[00:07:33] SPEAKER_05
+Like what, what Santa branded thing is this?
+
+[00:07:38] SPEAKER_05
+And in the game you can get like coins.
+
+[00:07:40] SPEAKER_05
+Every time you beat a level, you get some coins and you can spend the coins to see the brand logo of the thing that you're hearing.
+
+[00:07:46] SPEAKER_05
+And so I did that and it was the Jolly Green Giant, which I didn't know he, he went, ho, ho, ho.
+
+[00:07:51] SPEAKER_05
+I had no idea.
+
+[00:07:52] SPEAKER_05
+Ho, ho, ho, ho, green giant.
+
+[00:07:53] SPEAKER_05
+What he says.
+
+[00:07:54] SPEAKER_05
+I didn't know that.
+
+[00:07:55] SPEAKER_05
+So I thought I need to find an ad.
+
+[00:07:58] SPEAKER_05
+I'm like, I need to see this.
+
+[00:07:59] SPEAKER_05
+What's the context of this ad?
+
+[00:08:01] SPEAKER_05
+So I open up YouTube.
+
+[00:08:02] SPEAKER_05
+I type in Jolly Green Giant ad or, and, uh, I sort through and I find like a more recent one.
+
+[00:08:08] SPEAKER_05
+I hit play.
+
+[00:08:09] SPEAKER_05
+And then, you know, when you like open a video on YouTube on the bottom comments, like pop up for it.
+
+[00:08:13] SPEAKER_05
+Uh, it was like comments and it said, who else is here because of, and it was like some YouTuber or whatever.
+
+[00:08:20] SPEAKER_05
+And I looked at that and I said, what the, like, who the fuck is that is where my brain went.
+
+[00:08:25] SPEAKER_05
+And then it went to an ad and I, I hit skip ad.
+
+[00:08:29] SPEAKER_05
+And then the ad for the ad for the Jolly Green Giant thing started.
+
+[00:08:34] SPEAKER_05
+And I forgot what I was doing.
+
+[00:08:36] SPEAKER_05
+And I said, what the fuck is this?
+
+[00:08:39] SPEAKER_05
+I said, I hit skip ad.
+
+[00:08:41] SPEAKER_05
+You can't take me to another ad.
+
+[00:08:43] SPEAKER_05
+When I hit skip ad, I was outraged in my head.
+
+[00:08:46] SPEAKER_05
+And the matter of these three seconds, I was convinced that YouTube had changed their entire system.
+
+[00:08:51] SPEAKER_05
+And now skip ad meant skip that ad and not go to the content.
+
+[00:08:55] SPEAKER_05
+And then my partner said, that's the ad you, you search for.
+
+[00:08:58] SPEAKER_05
+We're watching what you want.
+
+[00:09:03] SPEAKER_05
+I was so angry, dude.
+
+[00:09:05] SPEAKER_05
+Wow.
+
+[00:09:06] SPEAKER_05
+You're, you're a creature of habit.
+
+[00:09:07] SPEAKER_05
+I love it.
+
+[00:09:08] SPEAKER_05
+I just, I was gone.
+
+[00:09:09] SPEAKER_05
+I was lost in the thing.
+
+[00:09:11] SPEAKER_05
+I've never been so upset and then realized I was so wrong so quickly.
+
+[00:09:16] SPEAKER_05
+I rate.
+
+[00:09:16] SPEAKER_05
+I was so mad about that fucking Jolly Green Giant ad.
+
+[00:09:20] SPEAKER_07
+Pay no attention to me in the chat.
+
+[00:09:21] SPEAKER_07
+I'm just putting images of Jolly Green Giants.
+
+[00:09:23] SPEAKER_04
+You're so excited about these two.
+
+[00:09:25] SPEAKER_04
+I feel like you found this one and you went, oh, we got this, baby.
+
+[00:09:29] SPEAKER_07
+I'm just looking for making thumbnails.
+
+[00:09:31] SPEAKER_07
+Coolest.
+
+[00:09:31] SPEAKER_07
+I'm not going to make a thumbnail.
+
+[00:09:32] SPEAKER_04
+You just dropped one in this coolest homemade costumes.com.
+
+[00:09:39] SPEAKER_05
+That is not the coolest homemade costume.
+
+[00:09:42] SPEAKER_05
+Have you seen all the different variations through time of the Jolly Green Giant?
+
+[00:09:47] SPEAKER_05
+Have you ever looked at that?
+
+[00:09:48] SPEAKER_07
+I was looking for the one that was like the dude.
+
+[00:09:51] SPEAKER_07
+Let me, uh, green.
+
+[00:09:53] SPEAKER_05
+Let me post it and we can go through and talk about the years of the giant.
+
+[00:09:56] SPEAKER_05
+There are some evolutions that I've certainly have never seen before.
+
+[00:10:00] SPEAKER_05
+Whoa, he didn't used to be green?
+
+[00:10:02] SPEAKER_05
+What?
+
+[00:10:02] SPEAKER_05
+He started out as just a normal giant.
+
+[00:10:05] SPEAKER_06
+He just ate too many peas.
+
+[00:10:07] SPEAKER_05
+Oh, no.
+
+[00:10:07] SPEAKER_05
+He really liked peas in 1928.
+
+[00:10:10] SPEAKER_05
+Then in 1930, he ate too many peas and he turned green.
+
+[00:10:14] SPEAKER_07
+He was the exact same dude, just fully green, including his clothes.
+
+[00:10:19] SPEAKER_06
+I wonder if they just sent the first picture, the 1928 version, to like a different company
+
+[00:10:23] SPEAKER_06
+to update it, but it came through as black and white.
+
+[00:10:25] SPEAKER_06
+And they just thought he was all green.
+
+[00:10:27] SPEAKER_07
+Or maybe they were like, we're paying too much money screen printing all these extra
+
+[00:10:31] SPEAKER_07
+colors.
+
+[00:10:31] SPEAKER_07
+Let's just make it green.
+
+[00:10:32] SPEAKER_07
+The peas are green.
+
+[00:10:33] SPEAKER_07
+It's fucking one color.
+
+[00:10:36] SPEAKER_05
+Then they completely redesigned him into sort of what you know today in 1936.
+
+[00:10:41] SPEAKER_05
+But he was all about corn then.
+
+[00:10:43] SPEAKER_05
+I guess it was a big year for corn.
+
+[00:10:44] SPEAKER_05
+Then he goes in 1945.
+
+[00:10:47] SPEAKER_05
+He gets married and has corn and peas.
+
+[00:10:52] SPEAKER_05
+He's way bigger.
+
+[00:10:54] SPEAKER_05
+That's bizarre.
+
+[00:10:55] SPEAKER_05
+It's probably how Shaq feels.
+
+[00:10:57] SPEAKER_05
+It's like Shaq and his wife.
+
+[00:10:58] SPEAKER_05
+Yeah, exactly.
+
+[00:10:59] SPEAKER_05
+Yeah, yeah, yeah.
+
+[00:11:00] SPEAKER_05
+100%.
+
+[00:11:00] SPEAKER_06
+I like that in 1980, he got cold.
+
+[00:11:04] SPEAKER_05
+He did.
+
+[00:11:04] SPEAKER_05
+I like that in 1948, clearly his marriage went to shit and he just had a weird phase.
+
+[00:11:10] SPEAKER_05
+He was just trying to find himself again.
+
+[00:11:12] SPEAKER_05
+Yeah, he's like a bluey gray.
+
+[00:11:14] SPEAKER_05
+There's his midlife crisis.
+
+[00:11:16] SPEAKER_05
+Yeah.
+
+[00:11:16] SPEAKER_05
+1950 peas.
+
+[00:11:17] SPEAKER_05
+1950 peas.
+
+[00:11:18] SPEAKER_05
+Yeah.
+
+[00:11:18] SPEAKER_05
+Then 1960 that I think they tried to like get fun with it.
+
+[00:11:22] SPEAKER_05
+And he looks like a cartoon character.
+
+[00:11:24] SPEAKER_07
+He looks like he belongs on the Flintstones.
+
+[00:11:27] SPEAKER_05
+1970s.
+
+[00:11:27] SPEAKER_05
+1970s.
+
+[00:11:28] SPEAKER_05
+He looks like he's in an animated show that will teach you how to do math.
+
+[00:11:32] SPEAKER_05
+Yeah.
+
+[00:11:32] SPEAKER_05
+Like it's very like kid centric.
+
+[00:11:34] SPEAKER_05
+He got a scarf in the 80s.
+
+[00:11:36] SPEAKER_05
+That's exciting.
+
+[00:11:38] SPEAKER_05
+Um, that's the evolution.
+
+[00:11:40] SPEAKER_05
+They haven't really modernized.
+
+[00:11:41] SPEAKER_07
+He's spoiled in 76, unfortunately.
+
+[00:11:43] SPEAKER_04
+Yeah, he's gross.
+
+[00:11:44] SPEAKER_04
+Uh, I think that his seven is 1970 look is the best look in the whole thing.
+
+[00:11:49] SPEAKER_04
+The rest of it is the rest of it's so weird.
+
+[00:11:52] SPEAKER_04
+Like the 1961 looks like he's like a Superman pose and everything.
+
+[00:11:56] SPEAKER_04
+I don't like that.
+
+[00:11:57] SPEAKER_04
+The 1971 is very much like, oh, we're going in like a direction here.
+
+[00:12:02] SPEAKER_04
+And I think it was really smart.
+
+[00:12:03] SPEAKER_04
+And then they just changed it back to grosser green and then gave him a scarf.
+
+[00:12:07] SPEAKER_05
+Jeff, you've been you've been looking for things to fill some space up on your body for tattoos.
+
+[00:12:12] SPEAKER_05
+Maybe go for every Jolly Green Giant.
+
+[00:12:15] SPEAKER_07
+Oh, that's interesting.
+
+[00:12:17] SPEAKER_07
+You know what?
+
+[00:12:17] SPEAKER_07
+I got to get tattooed now that I'm thinking about it, because we're talking about Eric and I are brainstorming some ideas on some tattoo related content.
+
+[00:12:24] SPEAKER_07
+I don't have a hot dog tattoo.
+
+[00:12:26] SPEAKER_07
+Oh, you need that.
+
+[00:12:27] SPEAKER_07
+And I don't want to like beat this hot dog thing to death.
+
+[00:12:30] SPEAKER_07
+I've already done now three hot dog episodes on Soul All Right with some publishing.
+
+[00:12:35] SPEAKER_07
+Oh, my God.
+
+[00:12:36] SPEAKER_07
+Yeah, I know.
+
+[00:12:38] SPEAKER_07
+And then all the hot dog related content here.
+
+[00:12:39] SPEAKER_07
+But I got to say, I have never practiced by Falcons, the God bless the Cosmic Crisp Apple, who still shout, still shout us out all the time on social media, by the way.
+
+[00:12:48] SPEAKER_07
+Love those guys to death.
+
+[00:12:50] SPEAKER_07
+So many other popular things we've had.
+
+[00:12:52] SPEAKER_07
+Nothing has captured the audience's like fervent imagination and enthusiasm like hot dogs has.
+
+[00:12:59] SPEAKER_07
+It's insane.
+
+[00:13:00] SPEAKER_05
+Well, I'm I'm glad that we went back on hot dogs.
+
+[00:13:03] SPEAKER_05
+I wanted to address something with you that was hot dog related, Jeff, bring your spirits up a little bit, because, you know, you just the last episode talking about tough times at the dentist.
+
+[00:13:13] SPEAKER_05
+You have been recently.
+
+[00:13:15] SPEAKER_05
+You brought back your card rip packs.
+
+[00:13:19] SPEAKER_05
+I fucking destroyed that.
+
+[00:13:21] SPEAKER_05
+That was a terrible.
+
+[00:13:22] SPEAKER_05
+What was the it's not the break?
+
+[00:13:24] SPEAKER_05
+So what do you call the daily rip?
+
+[00:13:25] SPEAKER_05
+It was a daily.
+
+[00:13:26] SPEAKER_07
+Yeah, I brought it back briefly for like a mission.
+
+[00:13:29] SPEAKER_05
+You did.
+
+[00:13:29] SPEAKER_05
+Yeah, because you were trying.
+
+[00:13:30] SPEAKER_05
+There was a hot dog variant in a top type of tops baseball pack.
+
+[00:13:34] SPEAKER_07
+I believe what was the top series tops 2024 series to baseball has one of the different parallel.
+
+[00:13:40] SPEAKER_07
+They have like summer parallels.
+
+[00:13:42] SPEAKER_07
+Yeah.
+
+[00:13:42] SPEAKER_07
+And one of like a Statue of Liberty fireworks.
+
+[00:13:45] SPEAKER_07
+One of them was a hot dog.
+
+[00:13:46] SPEAKER_07
+And when I found that out, I I decided that I was going to open a pack a day until I got a hot dog parallel.
+
+[00:13:53] SPEAKER_07
+And so I didn't tell you guys about it or anything.
+
+[00:13:55] SPEAKER_07
+I was just doing it.
+
+[00:13:56] SPEAKER_07
+Oh, kind of for fun on the side.
+
+[00:13:57] SPEAKER_07
+And on day five, I hit the hot dog parallel.
+
+[00:14:00] SPEAKER_07
+I was very surprised by it.
+
+[00:14:02] SPEAKER_05
+I was excitedly following all of the rips and you finally got it.
+
+[00:14:05] SPEAKER_05
+And I don't think you fully necessarily appreciated how great of a hot dog card you got.
+
+[00:14:11] SPEAKER_05
+So I screen capped it because you didn't mention this at all in the moment.
+
+[00:14:15] SPEAKER_05
+Maybe you have reflected since then.
+
+[00:14:17] SPEAKER_05
+But your man, Matt Strom, that dude's eaten the dog.
+
+[00:14:22] SPEAKER_05
+It's lined up perfectly with his mouth.
+
+[00:14:24] SPEAKER_05
+He's chowing down on the dog.
+
+[00:14:26] SPEAKER_05
+That has to be the best of the hot dog variants.
+
+[00:14:30] SPEAKER_05
+Oh, my God.
+
+[00:14:30] SPEAKER_05
+I can't imagine any of them are lined up as good as that.
+
+[00:14:36] SPEAKER_05
+It's incredible.
+
+[00:14:37] SPEAKER_07
+He's just chowing down.
+
+[00:14:39] SPEAKER_07
+I was just so blown away by getting it.
+
+[00:14:41] SPEAKER_07
+I had fully anticipated this taking like 30 or 40 packs that I hadn't seen it.
+
+[00:14:48] SPEAKER_07
+I didn't even notice it until this moment.
+
+[00:14:49] SPEAKER_07
+That is so awesome, Andrew.
+
+[00:14:51] SPEAKER_07
+Thank you for pointing that out.
+
+[00:14:52] SPEAKER_05
+Yeah.
+
+[00:14:53] SPEAKER_05
+He's just chowing down on the dog.
+
+[00:14:56] SPEAKER_05
+He is chowing down.
+
+[00:14:57] SPEAKER_05
+He's Pac-Man.
+
+[00:14:59] SPEAKER_07
+One of my friends, one of my old friends reached out to me the other day.
+
+[00:15:02] SPEAKER_07
+He saw it and he said that that guy, Matt Strom, is a big card collector.
+
+[00:15:05] SPEAKER_04
+I was just about to ask, do you know about the card life?
+
+[00:15:08] SPEAKER_07
+Yeah.
+
+[00:15:09] SPEAKER_07
+I don't know about it, but my friend Kevin was telling me that he's real big into card collecting.
+
+[00:15:13] SPEAKER_07
+He has like a belt or something that he wears.
+
+[00:15:15] SPEAKER_04
+He has a belt that like, he's all about this belt with cards and all this stuff.
+
+[00:15:21] SPEAKER_04
+He has his own show called The Card Life where he's hosting a show dedicated to sports card collecting.
+
+[00:15:27] SPEAKER_04
+Holy shit.
+
+[00:15:28] SPEAKER_04
+Yeah.
+
+[00:15:29] SPEAKER_04
+He used to be a padre and then we traded him away or whatever.
+
+[00:15:32] SPEAKER_04
+And then since he's been on, I guess the Phillies is like a relief guy.
+
+[00:15:35] SPEAKER_04
+It's been working out, but like this is his thing.
+
+[00:15:38] SPEAKER_04
+He is super deep in this thing.
+
+[00:15:41] SPEAKER_04
+So it's very, very cool.
+
+[00:15:42] SPEAKER_04
+It's very, very cool.
+
+[00:15:43] SPEAKER_06
+Interesting.
+
+[00:15:44] SPEAKER_06
+I'm going to watch his show.
+
+[00:15:46] SPEAKER_04
+Yeah.
+
+[00:15:46] SPEAKER_06
+I learned something about baseball last night at baseball.
+
+[00:15:51] SPEAKER_06
+What did you learn?
+
+[00:15:52] SPEAKER_04
+What'd you learn baseball?
+
+[00:15:54] SPEAKER_06
+The mound is an actual mound.
+
+[00:15:56] SPEAKER_99
+Yeah.
+
+[00:15:57] SPEAKER_06
+It's actually a little bit higher up.
+
+[00:15:59] SPEAKER_05
+Yeah.
+
+[00:16:00] SPEAKER_06
+I had no idea.
+
+[00:16:01] SPEAKER_05
+That's cool.
+
+[00:16:03] SPEAKER_05
+Is that the only thing you learned?
+
+[00:16:05] SPEAKER_06
+It's the only, well, it's probably the most obvious thing I learned.
+
+[00:16:08] SPEAKER_06
+Why is it higher?
+
+[00:16:10] SPEAKER_06
+Because it's called the mound.
+
+[00:16:11] SPEAKER_06
+Yeah.
+
+[00:16:11] SPEAKER_06
+What's the point in throwing from a mound?
+
+[00:16:14] SPEAKER_04
+I believe that it is.
+
+[00:16:15] SPEAKER_04
+It's to give the pitcher an advantage because when it's, when you're throwing, you get more
+
+[00:16:21] SPEAKER_04
+distance when you're coming off the mound on that stretch, like your front leg, and you
+
+[00:16:25] SPEAKER_04
+are coming down and forward and you can throw the ball faster.
+
+[00:16:29] SPEAKER_06
+So if the mound is taller, do you throw it faster?
+
+[00:16:32] SPEAKER_04
+I think that's probably.
+
+[00:16:34] SPEAKER_06
+Probably.
+
+[00:16:34] SPEAKER_07
+Yeah.
+
+[00:16:35] SPEAKER_07
+You probably would be able to eke out a little bit.
+
+[00:16:36] SPEAKER_07
+It'd be minuscule.
+
+[00:16:38] SPEAKER_07
+But yeah.
+
+[00:16:38] SPEAKER_06
+I want to, I want to see some bigger mounds.
+
+[00:16:40] SPEAKER_05
+A quick Google says, the pitcher's man was raised to help players have a faster pitch.
+
+[00:16:45] SPEAKER_05
+They got to avoid requiring players to make a running start before throwing the ball or
+
+[00:16:50] SPEAKER_04
+taking any other dramatic measures.
+
+[00:16:52] SPEAKER_04
+Oh, I disagree.
+
+[00:16:53] SPEAKER_04
+We need to take away the mound.
+
+[00:16:54] SPEAKER_04
+I think that we need to start, I think we need to start doing running pitches.
+
+[00:16:58] SPEAKER_06
+Just like cricket balls in baseball.
+
+[00:17:01] SPEAKER_06
+Yeah.
+
+[00:17:01] SPEAKER_06
+Now I want to see a game of cricket with two mounds.
+
+[00:17:04] SPEAKER_07
+Can you, can you imagine Shohei Otani running at you with a ball in his hand and then throwing
+
+[00:17:09] SPEAKER_07
+it as hard as he can from a run?
+
+[00:17:12] SPEAKER_05
+102 right into the small of your back.
+
+[00:17:13] SPEAKER_05
+Yeah.
+
+[00:17:14] SPEAKER_05
+Oh my God.
+
+[00:17:15] SPEAKER_05
+I think we got the plot of Happy Gilmore 3.
+
+[00:17:18] SPEAKER_05
+It's the happy lead up to the pitch.
+
+[00:17:22] SPEAKER_04
+We were talking last night about, would you rather get hit by a fast ball or tackled by
+
+[00:17:29] SPEAKER_04
+a linebacker and where everyone stood on that?
+
+[00:17:33] SPEAKER_05
+Oh, okay.
+
+[00:17:34] SPEAKER_05
+There's a lot of layers.
+
+[00:17:35] SPEAKER_05
+How fast is this ball going?
+
+[00:17:38] SPEAKER_07
+It's I listen, if you're going to get tackled by an NFL linebacker, then I, we don't get to
+
+[00:17:44] SPEAKER_07
+pick which one, but we can assume a certain, uh, size and power level.
+
+[00:17:49] SPEAKER_07
+So I'm going to guess this ball has to be in the nineties.
+
+[00:17:52] SPEAKER_06
+Mm-hmm.
+
+[00:17:53] SPEAKER_07
+Like maybe it's 92, maybe it's nine, maybe it's one Oh one.
+
+[00:17:57] SPEAKER_07
+Maybe it's like Bobby Jenks throwing it, but it's, uh, it's gotta be in the nineties
+
+[00:18:01] SPEAKER_07
+somewhere.
+
+[00:18:01] SPEAKER_07
+It's, it's a fastball.
+
+[00:18:03] SPEAKER_07
+It's fucking, it's going to hurt.
+
+[00:18:05] SPEAKER_05
+And getting hit by a lineman.
+
+[00:18:07] SPEAKER_05
+Are they landing on you?
+
+[00:18:09] SPEAKER_05
+What type of tack is it like going through?
+
+[00:18:11] SPEAKER_05
+Are you just getting bowled over?
+
+[00:18:13] SPEAKER_07
+We determined that you can choose to be hit from a standing still position or hit while
+
+[00:18:19] SPEAKER_07
+running.
+
+[00:18:20] SPEAKER_07
+If you would prefer.
+
+[00:18:21] SPEAKER_07
+That's an interesting, that in itself, I think being hit while in motion is the way
+
+[00:18:25] SPEAKER_07
+to go.
+
+[00:18:26] SPEAKER_07
+I think it helps disperse some of the, some of the force, but, uh, yeah, especially if
+
+[00:18:30] SPEAKER_05
+you're going the opposite direction, you're going a different way.
+
+[00:18:34] SPEAKER_07
+The jolt to your body being hit from a standing still position has got to be pretty damaging.
+
+[00:18:39] SPEAKER_07
+I would think.
+
+[00:18:39] SPEAKER_05
+I think it has to be the lineman, right?
+
+[00:18:41] SPEAKER_05
+Like, cause there's no way what alignment isn't hitting you.
+
+[00:18:45] SPEAKER_05
+I agree.
+
+[00:18:47] SPEAKER_04
+You guys are nuts.
+
+[00:18:48] SPEAKER_04
+All I think about is, yeah.
+
+[00:18:49] SPEAKER_04
+Johnny Knoxville dying.
+
+[00:18:51] SPEAKER_04
+Like when they take his head off and it's just like, just hit me, hit me once you turn
+
+[00:18:56] SPEAKER_04
+your shoulder.
+
+[00:18:56] SPEAKER_04
+You're hopefully getting into the back.
+
+[00:18:58] SPEAKER_04
+It's going to hurt so bad, but like even pads on and everything, dude, like a linebacker
+
+[00:19:04] SPEAKER_04
+is just going to, he's going to destroy you.
+
+[00:19:06] SPEAKER_06
+Here's the thing.
+
+[00:19:06] SPEAKER_06
+I was imagining if I had to stand and take something, if it was a ball, I could put my
+
+[00:19:11] SPEAKER_06
+hands over my face and it would just smash my hand.
+
+[00:19:14] SPEAKER_06
+But if I put my hands over my face and get tackled by a guy, it's going to hurt either way.
+
+[00:19:19] SPEAKER_04
+You have broken arms.
+
+[00:19:20] SPEAKER_07
+Dude, but I like, I would, I don't have that much faith in my body.
+
+[00:19:24] SPEAKER_07
+I don't want to end up like Mike Piazza, you know, like I don't want to brain damage.
+
+[00:19:29] SPEAKER_07
+I don't want to get, I don't want to get, I've seen dudes get broken bones from getting
+
+[00:19:33] SPEAKER_07
+hit by fastballs.
+
+[00:19:34] SPEAKER_04
+Like that's fucking, you just said you don't want brain damage.
+
+[00:19:37] SPEAKER_04
+So you, so you want to get hit by the linebacker.
+
+[00:19:41] SPEAKER_07
+I just think one hit, it's going to disperse through your body.
+
+[00:19:44] SPEAKER_07
+Your whole body is going to absorb the, the blow.
+
+[00:19:47] SPEAKER_07
+I think it's going to do, I think it's going to hurt less longer than the intense pain
+
+[00:19:51] SPEAKER_07
+of being hit 80 miles an hour in my shoulder or my elbow or wherever.
+
+[00:19:55] SPEAKER_04
+I think you're, I think you're crazy.
+
+[00:19:56] SPEAKER_04
+I think you're, I think you're totally, I think you have a totally backwards.
+
+[00:19:59] SPEAKER_04
+I know.
+
+[00:19:59] SPEAKER_04
+I agree with you, Jeff.
+
+[00:20:00] SPEAKER_06
+There you go.
+
+[00:20:01] SPEAKER_06
+I guess it's going back and forth on this.
+
+[00:20:02] SPEAKER_06
+I think I'm now leaning towards the guy again.
+
+[00:20:05] SPEAKER_05
+Really?
+
+[00:20:06] SPEAKER_06
+Yeah.
+
+[00:20:07] SPEAKER_06
+Cause that's something that actually happens normally.
+
+[00:20:10] SPEAKER_05
+Yeah.
+
+[00:20:10] SPEAKER_05
+I mean, yeah.
+
+[00:20:11] SPEAKER_05
+I mean, we'd get destroyed.
+
+[00:20:12] SPEAKER_05
+I don't know if you've ever seen, there is the great clip of one.
+
+[00:20:16] SPEAKER_05
+Remember pros versus Joe's on spike where it was like athletes against normal dudes.
+
+[00:20:21] SPEAKER_05
+There's a lineman one where it was like trying to like block or maybe it was a tackle, but
+
+[00:20:26] SPEAKER_05
+there's one of a guy just getting fucking flung by an NFL player.
+
+[00:20:30] SPEAKER_05
+That is fantastic.
+
+[00:20:32] SPEAKER_05
+And I would rather do that.
+
+[00:20:34] SPEAKER_05
+Then I just feel like a baseball is going to destroy everything.
+
+[00:20:37] SPEAKER_05
+It impacts where I'm going to get fucked up by the lineman, but I don't like, it's not
+
+[00:20:42] SPEAKER_05
+necessarily going to break me.
+
+[00:20:44] SPEAKER_07
+Somebody last night at the baseball game was telling us that their mom or their sister
+
+[00:20:48] SPEAKER_07
+or somebody still has a scar from where she got hit with a baseball like 30 years ago.
+
+[00:20:53] SPEAKER_07
+So it's like, I think maybe, I don't know who it was, but anyway, I just, yeah, I don't
+
+[00:20:59] SPEAKER_07
+know, man.
+
+[00:21:00] SPEAKER_06
+Well, Eric, you also said you had a dented leg or something.
+
+[00:21:03] SPEAKER_04
+Yeah.
+
+[00:21:03] SPEAKER_04
+I got, I got hit with a baseball in the shin, but that's in the shin.
+
+[00:21:06] SPEAKER_04
+I just don't think that getting hit probably in the back by a fastball, something that
+
+[00:21:12] SPEAKER_04
+happens all the time in baseball and nobody is going, we got to figure out a solution
+
+[00:21:18] SPEAKER_04
+for this where it happens all the time in football and they're making them wear new
+
+[00:21:23] SPEAKER_04
+helmets.
+
+[00:21:23] SPEAKER_04
+Like they're, they're constantly trying to fix it.
+
+[00:21:26] SPEAKER_07
+Dude, dude, dudes in baseball have fucking elbow guards, wrist guards, guards, right?
+
+[00:21:31] SPEAKER_07
+And they have that stuff and they're not trying.
+
+[00:21:33] SPEAKER_07
+Those are all new solutions though.
+
+[00:21:35] SPEAKER_07
+That had to be put in place because of how dangerous it is.
+
+[00:21:38] SPEAKER_04
+To blocking specific bone parts, but you block those bone parts and it's hitting you
+
+[00:21:43] SPEAKER_04
+in the back.
+
+[00:21:44] SPEAKER_04
+You're going to be fine.
+
+[00:21:45] SPEAKER_04
+I think, I think you're going to be fine compared to the linebackers.
+
+[00:21:48] SPEAKER_04
+Fuck you up so bad.
+
+[00:21:49] SPEAKER_04
+Like if I was 21, I think I'd have a different answer.
+
+[00:21:52] SPEAKER_07
+Here's what's going to happen.
+
+[00:21:53] SPEAKER_07
+It's going to ping off your little elbow thing and it's going to go right up under the,
+
+[00:21:58] SPEAKER_07
+under your neck and hit you in the throat and smash your Adam's apple.
+
+[00:22:01] SPEAKER_07
+And then you're going to fucking choke to death on your own Adam's apple.
+
+[00:22:05] SPEAKER_07
+It's going to be some weird thing like that.
+
+[00:22:07] SPEAKER_07
+It's dangerous when those, the way those things ping off.
+
+[00:22:09] SPEAKER_07
+I just, I don't know.
+
+[00:22:11] SPEAKER_04
+Compared to the linebacker that's very, very safe.
+
+[00:22:12] SPEAKER_04
+Yeah, absolutely.
+
+[00:22:13] SPEAKER_06
+But the linebacker, I feel like the transfer of energy is nicer.
+
+[00:22:16] SPEAKER_06
+Like if I jump at the last minute and I just go cartwheeling through the air, I'm, I'm not,
+
+[00:22:21] SPEAKER_06
+it's not like a sudden deceleration.
+
+[00:22:23] SPEAKER_07
+I also don't know that I'm going to be able to react fast enough at 49 years old to move,
+
+[00:22:29] SPEAKER_07
+to put my back in play.
+
+[00:22:31] SPEAKER_07
+When somebody's throwing a ball 98 miles an hour at me, I might see it, recognize what's
+
+[00:22:35] SPEAKER_07
+happening.
+
+[00:22:35] SPEAKER_07
+And then my nose is gone.
+
+[00:22:37] SPEAKER_05
+You know, Eric, if I post a video in the chat, could you screen share for like 30 seconds?
+
+[00:22:42] SPEAKER_05
+Is it the Johnny Knoxville blindside?
+
+[00:22:44] SPEAKER_05
+No, no, no, it's not.
+
+[00:22:44] SPEAKER_05
+It's the sports science thing I was talking about.
+
+[00:22:47] SPEAKER_05
+Oh, hell yeah.
+
+[00:22:48] SPEAKER_05
+Cool.
+
+[00:22:48] SPEAKER_05
+Four minutes, 15 seconds in.
+
+[00:22:50] SPEAKER_05
+And then you can, if you want to pipe in on YouTube, sports science, NFL defensive tackle,
+
+[00:22:54] SPEAKER_05
+Chris Jenkins versus average Joe.
+
+[00:22:57] SPEAKER_05
+Yeah.
+
+[00:22:57] SPEAKER_05
+Okay.
+
+[00:22:58] SPEAKER_05
+I guess here we go.
+
+[00:22:59] SPEAKER_05
+It wasn't pros versus Joe's, but.
+
+[00:23:01] SPEAKER_06
+I'm watching.
+
+[00:23:02] SPEAKER_05
+Okay.
+
+[00:23:02] SPEAKER_05
+I am loading into Eric's feed.
+
+[00:23:05] SPEAKER_05
+It's loading.
+
+[00:23:06] SPEAKER_05
+Yeah.
+
+[00:23:06] SPEAKER_05
+I can see it.
+
+[00:23:07] SPEAKER_05
+Okay.
+
+[00:23:07] SPEAKER_05
+We good.
+
+[00:23:08] SPEAKER_05
+It's like a 10 second clip.
+
+[00:23:09] SPEAKER_05
+Let's do this.
+
+[00:23:09] SPEAKER_05
+Okay.
+
+[00:23:09] SPEAKER_05
+So he's hitting play.
+
+[00:23:11] SPEAKER_05
+They're lining up.
+
+[00:23:13] SPEAKER_05
+I mean, that would be terrifying to just stare down.
+
+[00:23:18] SPEAKER_07
+Oh, my God.
+
+[00:23:21] SPEAKER_05
+So he gets.
+
+[00:23:22] SPEAKER_05
+Look at him leave his feet.
+
+[00:23:24] SPEAKER_05
+Oops.
+
+[00:23:25] SPEAKER_05
+And then flung and lands way before the bag that is the most absorbable.
+
+[00:23:32] SPEAKER_05
+Just instantly.
+
+[00:23:34] SPEAKER_05
+Definitely taking that over a fastball.
+
+[00:23:36] SPEAKER_05
+As bad as that looks.
+
+[00:23:38] SPEAKER_05
+Okay.
+
+[00:23:38] SPEAKER_05
+Now we're going into the jackass one.
+
+[00:23:40] SPEAKER_05
+Okay.
+
+[00:23:40] SPEAKER_05
+Who is Jared something?
+
+[00:23:43] SPEAKER_05
+I don't remember his name.
+
+[00:23:43] SPEAKER_05
+He was on the Vikings forever.
+
+[00:23:45] SPEAKER_05
+I 100% take that over.
+
+[00:23:49] SPEAKER_05
+Like get hit by a car.
+
+[00:23:51] SPEAKER_05
+Like that fucking sucks.
+
+[00:23:53] SPEAKER_04
+That's brutal.
+
+[00:23:55] SPEAKER_04
+But this, this is the reason that I'm picking baseball because of what happens immediately afterwards.
+
+[00:24:02] SPEAKER_04
+This is the guy whose life is being a stunt man.
+
+[00:24:05] SPEAKER_07
+You're doing either way.
+
+[00:24:08] SPEAKER_07
+You're on the ground with that.
+
+[00:24:10] SPEAKER_07
+Either, like either scenario, that's you on the ground.
+
+[00:24:13] SPEAKER_04
+Oh, my God.
+
+[00:24:15] SPEAKER_04
+Oh, look at him.
+
+[00:24:16] SPEAKER_04
+Just.
+
+[00:24:19] SPEAKER_05
+Crunched.
+
+[00:24:22] SPEAKER_05
+Nice.
+
+[00:24:22] SPEAKER_05
+Fine.
+
+[00:24:23] SPEAKER_05
+Fine.
+
+[00:24:24] SPEAKER_05
+Decimated.
+
+[00:24:24] SPEAKER_05
+All right.
+
+[00:24:25] SPEAKER_05
+Decimated.
+
+[00:24:26] SPEAKER_05
+Totally.
+
+[00:24:26] SPEAKER_05
+I'd rather take, take that than the ball.
+
+[00:24:36] SPEAKER_05
+There's something about it being another human that makes it less intimidating to me than a ball.
+
+[00:24:42] SPEAKER_05
+Oof.
+
+[00:24:47] SPEAKER_02
+Welcome aboard via rail.
+
+[00:24:49] SPEAKER_02
+Please sit and enjoy.
+
+[00:24:51] SPEAKER_02
+Please sit and stretch.
+
+[00:24:53] SPEAKER_02
+Steep.
+
+[00:24:55] SPEAKER_02
+Flip.
+
+[00:24:56] SPEAKER_02
+Or that.
+
+[00:24:58] SPEAKER_02
+And enjoy.
+
+[00:24:59] SPEAKER_02
+Via rail.
+
+[00:25:01] SPEAKER_02
+Love the way.
+
+[00:25:01] SPEAKER_01
+Grey Goose believes in the art of living, in choosing the pleasurable over the practical.
+
+[00:25:07] SPEAKER_01
+It's why we craft our premium vodka in France using pure spring water from Genzac.
+
+[00:25:13] SPEAKER_01
+And why you hear the celebratory pop of our cork reminding us to make every martini cocktail count.
+
+[00:25:21] SPEAKER_01
+So go on and make every moment count.
+
+[00:25:24] SPEAKER_01
+Because there's no better time than now.
+
+[00:25:27] SPEAKER_01
+Grey Goose.
+
+[00:25:28] SPEAKER_01
+Make.
+
+[00:25:29] SPEAKER_01
+Time.
+
+[00:25:30] SPEAKER_01
+Wait.
+
+[00:25:30] SPEAKER_05
+I know the math behind it doesn't make sense, but I'm not scared of like a grape being dropped on me from the Empire State Building.
+
+[00:25:41] SPEAKER_06
+A grape?
+
+[00:25:42] SPEAKER_05
+Yeah, like something small and absorbable.
+
+[00:25:46] SPEAKER_05
+Like a kiwi fruit.
+
+[00:25:48] SPEAKER_05
+Like I know the velocity.
+
+[00:25:49] SPEAKER_06
+A kiwi would be much worse than a grape.
+
+[00:25:52] SPEAKER_05
+Oh, they're both small.
+
+[00:25:53] SPEAKER_05
+They're both, like in my head, it's no problem.
+
+[00:25:55] SPEAKER_06
+I can catch a grape in my mouth from the Empire State.
+
+[00:25:58] SPEAKER_06
+A kiwi would go through my face.
+
+[00:25:59] SPEAKER_05
+I think they would both do a lot of damage realistically, but because it's so small.
+
+[00:26:05] SPEAKER_05
+A grape?
+
+[00:26:06] SPEAKER_06
+Yeah, because of the speed.
+
+[00:26:07] SPEAKER_06
+What's the terminal velocity of a grape?
+
+[00:26:09] SPEAKER_06
+Like 20 miles an hour?
+
+[00:26:10] SPEAKER_05
+Well, wait.
+
+[00:26:11] SPEAKER_05
+Does it max out?
+
+[00:26:14] SPEAKER_05
+Well, yeah.
+
+[00:26:17] SPEAKER_05
+What's the max speed of a grape?
+
+[00:26:19] SPEAKER_06
+I feel like you could throw a grape faster than you could drop one.
+
+[00:26:24] SPEAKER_05
+Wait, how does that?
+
+[00:26:26] SPEAKER_05
+Wait.
+
+[00:26:28] SPEAKER_06
+Because of like wind resistance.
+
+[00:26:30] SPEAKER_06
+Air resistance.
+
+[00:26:31] SPEAKER_05
+Okay.
+
+[00:26:31] SPEAKER_05
+You know what?
+
+[00:26:32] SPEAKER_05
+You bring up a good point.
+
+[00:26:34] SPEAKER_06
+They're just so light.
+
+[00:26:35] SPEAKER_06
+I don't think they would.
+
+[00:26:36] SPEAKER_04
+I'm just, I'm such a fan of, is there like, and you're asking if there's a maximum?
+
+[00:26:41] SPEAKER_06
+Well, here's the thing.
+
+[00:26:42] SPEAKER_06
+Even if you could throw a grape as hard as you possibly could into my mouth, way less
+
+[00:26:46] SPEAKER_06
+damage than a kiwi.
+
+[00:26:48] SPEAKER_06
+Should we try?
+
+[00:26:51] SPEAKER_06
+Should we put a grape in the hot dog cannon and fire it Gavin's face?
+
+[00:26:54] SPEAKER_06
+You see, that's going to be faster than terminal lossy.
+
+[00:26:57] SPEAKER_04
+The terminal velocity of a grape is about 65 miles an hour.
+
+[00:27:01] SPEAKER_06
+Right.
+
+[00:27:02] SPEAKER_06
+I would not want to get hit.
+
+[00:27:03] SPEAKER_06
+Whereas if you fight it from a cannon, you could probably get a 200 mile an hour grape.
+
+[00:27:06] SPEAKER_06
+That would suck too.
+
+[00:27:09] SPEAKER_04
+I think you would.
+
+[00:27:12] SPEAKER_06
+Would you die?
+
+[00:27:13] SPEAKER_06
+What's the terminal velocity of a kiwi?
+
+[00:27:14] SPEAKER_04
+Somebody specifically left a Quora question that said, will a grape falling from the 22nd floor
+
+[00:27:19] SPEAKER_04
+harm a child?
+
+[00:27:22] SPEAKER_07
+What's the answer?
+
+[00:27:23] SPEAKER_04
+Found my other account.
+
+[00:27:24] SPEAKER_04
+A terminal velocity is 65 miles an hour.
+
+[00:27:27] SPEAKER_04
+It might leave a bruise if it hits their shoulder.
+
+[00:27:30] SPEAKER_05
+Okay.
+
+[00:27:30] SPEAKER_05
+I feel, I've had arguments about this in the past.
+
+[00:27:33] SPEAKER_05
+I feel like I was on the right side based on this conversation.
+
+[00:27:36] SPEAKER_05
+And what side was that?
+
+[00:27:37] SPEAKER_05
+That I'm not really that worried about the grape falling from the Empire State Building.
+
+[00:27:41] SPEAKER_05
+No, yeah, I think you're fine.
+
+[00:27:42] SPEAKER_05
+I think I'd be okay.
+
+[00:27:43] SPEAKER_05
+Even like, well now, an orange would be a problem.
+
+[00:27:46] SPEAKER_05
+Apple would be disastrous.
+
+[00:27:48] SPEAKER_06
+I mean, you could have something that's smaller than a grape but more dense would do a lot
+
+[00:27:52] SPEAKER_06
+more damage.
+
+[00:27:53] SPEAKER_05
+What's denser than a grape but smaller?
+
+[00:27:55] SPEAKER_06
+A pinball?
+
+[00:27:56] SPEAKER_06
+Ball bearing?
+
+[00:27:58] SPEAKER_05
+Coin?
+
+[00:27:59] SPEAKER_05
+I know.
+
+[00:27:59] SPEAKER_05
+No, I meant, I meant in the context of fruit.
+
+[00:28:02] SPEAKER_05
+Not in general.
+
+[00:28:03] SPEAKER_05
+I thought we're talking fruit.
+
+[00:28:05] SPEAKER_04
+I thought you were, I went immediately like, I can list probably 10 things.
+
+[00:28:09] SPEAKER_05
+Yeah, no, right.
+
+[00:28:10] SPEAKER_05
+No, I'm not.
+
+[00:28:10] SPEAKER_07
+That was intended to be in the realm of fruit.
+
+[00:28:13] SPEAKER_05
+Not, yeah.
+
+[00:28:13] SPEAKER_07
+In the context of fruit, I would say a cherry is denser than a grape.
+
+[00:28:16] SPEAKER_05
+Oh, that's an interesting, yeah.
+
+[00:28:17] SPEAKER_07
+And it has a seed in it.
+
+[00:28:19] SPEAKER_07
+Yeah, it has a seed.
+
+[00:28:19] SPEAKER_07
+A pit.
+
+[00:28:20] SPEAKER_07
+It's gonna fuck you up.
+
+[00:28:21] SPEAKER_07
+An olive.
+
+[00:28:22] SPEAKER_05
+It'd be like a xenomorph with the fucking, the seed launches out upon impact and does extra
+
+[00:28:28] SPEAKER_05
+damage stems from its core.
+
+[00:28:32] SPEAKER_05
+I was just gonna say, I have a quick other, you know, a Jeff card thing.
+
+[00:28:35] SPEAKER_05
+I got another Jeff update related thing for you guys.
+
+[00:28:39] SPEAKER_05
+Very exciting.
+
+[00:28:41] SPEAKER_05
+Update on the balloon as of this morning.
+
+[00:28:44] SPEAKER_06
+A new picture?
+
+[00:28:45] SPEAKER_05
+New picture.
+
+[00:28:46] SPEAKER_05
+Balloon's still up.
+
+[00:28:47] SPEAKER_05
+It's still living.
+
+[00:28:48] SPEAKER_05
+But then, I'm pretty sure that that is a vent and it is sucking the balloon into the vent
+
+[00:28:53] SPEAKER_05
+and that's the only thing that is keeping that balloon up.
+
+[00:28:57] SPEAKER_06
+Pretty sure of that, are you?
+
+[00:28:58] SPEAKER_06
+Has the air conditioning been on for like two weeks straight?
+
+[00:29:01] SPEAKER_05
+Well, it's just, it's on automatic or whatever.
+
+[00:29:04] SPEAKER_05
+Yeah, that usually comes on and off.
+
+[00:29:06] SPEAKER_06
+That means it's, I think it's still up there on helium.
+
+[00:29:09] SPEAKER_06
+Yeah.
+
+[00:29:09] SPEAKER_05
+Maybe it's, maybe it's still.
+
+[00:29:11] SPEAKER_07
+Or it's like wedged in a little bit.
+
+[00:29:13] SPEAKER_05
+Oh yeah, it could be.
+
+[00:29:14] SPEAKER_05
+I think it could be wedged.
+
+[00:29:15] SPEAKER_07
+Yeah.
+
+[00:29:15] SPEAKER_05
+Because I tried to get it out of that corner and it started to fall.
+
+[00:29:20] SPEAKER_05
+So I had to remove weight from the balloon to get it back in the sky.
+
+[00:29:26] SPEAKER_05
+And it went up and then it immediately ended up in that corner again and I haven't touched
+
+[00:29:30] SPEAKER_05
+it since.
+
+[00:29:31] SPEAKER_07
+That's where it wants to be.
+
+[00:29:32] SPEAKER_05
+That's where it wants to be.
+
+[00:29:33] SPEAKER_05
+And that's my great corner update.
+
+[00:29:35] SPEAKER_05
+Jeff, what were you going to say?
+
+[00:29:36] SPEAKER_07
+I was just going to say, summer is officially over now.
+
+[00:29:40] SPEAKER_07
+We're through summer and we're in the spummer, I guess.
+
+[00:29:43] SPEAKER_07
+Uh, but I looked up the, cause we talked about it earlier.
+
+[00:29:47] SPEAKER_07
+I looked up the songs of the summer, the billboard top 10 global songs of the summer for 2024.
+
+[00:29:54] SPEAKER_07
+And I was wondering if you guys had your finger on the pulse enough to be able to name any
+
+[00:29:58] SPEAKER_07
+of them.
+
+[00:29:59] SPEAKER_07
+Like, what would you guys think?
+
+[00:30:00] SPEAKER_07
+Globally?
+
+[00:30:01] SPEAKER_07
+Billboard would say the song of the summer was.
+
+[00:30:03] SPEAKER_05
+Uh, I think, uh, the, the double shot of whiskey song is up there.
+
+[00:30:09] SPEAKER_05
+Yeah, that, that one's up there.
+
+[00:30:11] SPEAKER_04
+And I think espresso is probably on there.
+
+[00:30:14] SPEAKER_04
+Um, I would say probably is, oh, not like us.
+
+[00:30:20] SPEAKER_04
+Yeah.
+
+[00:30:20] SPEAKER_04
+That has to be the number one.
+
+[00:30:22] SPEAKER_04
+If it's not, if it's not number one, it's definitely in the top five.
+
+[00:30:26] SPEAKER_04
+Um, what else was big on Tik TOK?
+
+[00:30:29] SPEAKER_04
+Uh, what was that song?
+
+[00:30:31] SPEAKER_04
+I want apple, baby.
+
+[00:30:33] SPEAKER_04
+That one that like you never heard the full song of.
+
+[00:30:35] SPEAKER_04
+Million Dollar Baby.
+
+[00:30:36] SPEAKER_04
+That's probably on there.
+
+[00:30:37] SPEAKER_04
+Um.
+
+[00:30:38] SPEAKER_06
+What about that Apple one?
+
+[00:30:39] SPEAKER_04
+I don't think that.
+
+[00:30:40] SPEAKER_04
+No, I think that came, I think that came out too late for it to be on there.
+
+[00:30:43] SPEAKER_05
+What about, um, I like my whiskey, man.
+
+[00:30:48] SPEAKER_05
+That one.
+
+[00:30:49] SPEAKER_05
+You know that one?
+
+[00:30:50] SPEAKER_05
+Yeah, I know that one.
+
+[00:30:52] SPEAKER_05
+That, uh.
+
+[00:30:54] SPEAKER_04
+Pavarazzi?
+
+[00:30:54] SPEAKER_04
+I think you're probably, what?
+
+[00:30:56] SPEAKER_07
+I, I think I know what you're talking about, but I don't want to say it and be wrong and
+
+[00:31:00] SPEAKER_07
+give one away.
+
+[00:31:01] SPEAKER_04
+Uh, oh.
+
+[00:31:03] SPEAKER_04
+I'm thinking that we said, did Hosier sing that?
+
+[00:31:07] SPEAKER_04
+We said, yes, I think he did.
+
+[00:31:09] SPEAKER_04
+Um, we said espresso, but I think please, please, please is probably on there also.
+
+[00:31:13] SPEAKER_04
+Yeah, that's also.
+
+[00:31:14] SPEAKER_04
+And if that's on there, that means that Billie Eilish song is on there, uh, Birds of a
+
+[00:31:18] SPEAKER_04
+Feather.
+
+[00:31:18] SPEAKER_04
+That might be too recent.
+
+[00:31:20] SPEAKER_04
+No.
+
+[00:31:20] SPEAKER_04
+Otherwise you're right.
+
+[00:31:21] SPEAKER_04
+No shot.
+
+[00:31:22] SPEAKER_07
+You guys are so good at this.
+
+[00:31:25] SPEAKER_07
+I'm so impressed with you.
+
+[00:31:27] SPEAKER_07
+I really am.
+
+[00:31:28] SPEAKER_04
+It's just the stuff that you hear on TikTok, like on repeat.
+
+[00:31:31] SPEAKER_07
+You get, but you guys nailed it.
+
+[00:31:32] SPEAKER_07
+You guys got almost everything.
+
+[00:31:33] SPEAKER_07
+Number 10.
+
+[00:31:34] SPEAKER_07
+I don't know what it is, but number 10 is Gata Only by Floyd Menor X Chris MJ.
+
+[00:31:40] SPEAKER_07
+I don't know.
+
+[00:31:41] SPEAKER_07
+Uh, which is like their gamer tag, I guess.
+
+[00:31:43] SPEAKER_07
+Uh, number nine is that Too Sweet by Hosier.
+
+[00:31:47] SPEAKER_07
+Okay.
+
+[00:31:48] SPEAKER_07
+Number eight is something called Million Dollar Baby by Tommy Richmond.
+
+[00:31:51] SPEAKER_04
+That's it.
+
+[00:31:52] SPEAKER_04
+That was right.
+
+[00:31:53] SPEAKER_07
+Number seven is Beautiful Things by Benson Boone.
+
+[00:31:57] SPEAKER_07
+Uh, I don't know what that is.
+
+[00:31:58] SPEAKER_07
+Number six is I Had Some Help by Post Malone featuring Morgan Wallen.
+
+[00:32:03] SPEAKER_07
+Now that Morgan Wallen song.
+
+[00:32:04] SPEAKER_04
+Yep.
+
+[00:32:05] SPEAKER_04
+Yep.
+
+[00:32:05] SPEAKER_07
+That's his like country crossover shit.
+
+[00:32:07] SPEAKER_07
+Number five is Not Like Us by Kendrick Lamar.
+
+[00:32:09] SPEAKER_07
+Number four is Please, Please, Please by Sabrina Carpenter.
+
+[00:32:11] SPEAKER_07
+Number three is A Bar Song Tipsy by Shaboozy.
+
+[00:32:15] SPEAKER_04
+Oh, that's, yeah.
+
+[00:32:17] SPEAKER_04
+Yeah.
+
+[00:32:17] SPEAKER_07
+And then number two was Billie Eilish, Birds of a Feather.
+
+[00:32:19] SPEAKER_07
+Number one was Sabrina Carpenter Espresso.
+
+[00:32:21] SPEAKER_07
+So the song of the summer was Espresso by Sabrina Carpenter.
+
+[00:32:24] SPEAKER_04
+I called that going into the summer.
+
+[00:32:26] SPEAKER_04
+The first time I heard that song, I went, oh, this is going to be everywhere all the time.
+
+[00:32:30] SPEAKER_06
+Oh.
+
+[00:32:31] SPEAKER_06
+Am I crazy though?
+
+[00:32:32] SPEAKER_06
+That's already a song, right?
+
+[00:32:33] SPEAKER_06
+Like that's been a song before.
+
+[00:32:35] SPEAKER_07
+What?
+
+[00:32:36] SPEAKER_07
+Mm, I don't know what you mean.
+
+[00:32:37] SPEAKER_07
+Which one?
+
+[00:32:38] SPEAKER_07
+Like she released it previously or you recognize it sounds similar to something else.
+
+[00:32:42] SPEAKER_06
+It sounds like 95% of the way to a song that's old.
+
+[00:32:47] SPEAKER_06
+What song?
+
+[00:32:48] SPEAKER_06
+I don't know.
+
+[00:32:48] SPEAKER_06
+It's pissing me off for three months.
+
+[00:32:51] SPEAKER_04
+No, like the, do you know the story, like the story behind the song is the, the producer
+
+[00:32:55] SPEAKER_04
+took like sample stuff from, oh, what the fuck is that website?
+
+[00:33:02] SPEAKER_04
+There's like a, a, a sampling website where you can just download, hey, get like these
+
+[00:33:08] SPEAKER_04
+samples and then like you adjust them and everything.
+
+[00:33:10] SPEAKER_04
+He just took the straight samples and then plussed up sort of like some background around
+
+[00:33:15] SPEAKER_04
+it and then repeated it.
+
+[00:33:16] SPEAKER_04
+And that's the song.
+
+[00:33:17] SPEAKER_04
+Like nobody performed anything on it.
+
+[00:33:19] SPEAKER_04
+He just got, he got like two samples.
+
+[00:33:21] SPEAKER_06
+A garage band demo?
+
+[00:33:22] SPEAKER_04
+Yeah.
+
+[00:33:22] SPEAKER_04
+It was just like, oh, here's two samples, put it together.
+
+[00:33:24] SPEAKER_04
+And that was it.
+
+[00:33:25] SPEAKER_07
+This song cost me $17 to make off sounddogs.com.
+
+[00:33:29] SPEAKER_04
+Uh, yeah, right.
+
+[00:33:30] SPEAKER_04
+It was, uh, so he went to the main riff and drums featured are on the song are loops from
+
+[00:33:36] SPEAKER_04
+a splice sample track called power tools, sample pack three.
+
+[00:33:41] SPEAKER_07
+God is a power tools.
+
+[00:33:43] SPEAKER_07
+That's so funny.
+
+[00:33:44] SPEAKER_06
+Well, it's like the, the, uh, the like gonging sound and beat it by Michael Jackson was like
+
+[00:33:52] SPEAKER_06
+just a sound demo from, it was like a, a synthesizer demo disc.
+
+[00:33:57] SPEAKER_06
+And he just took the whole thing and put it in the song.
+
+[00:34:00] SPEAKER_06
+Yeah.
+
+[00:34:00] SPEAKER_05
+Oh, wow.
+
+[00:34:01] SPEAKER_05
+That's crazy.
+
+[00:34:02] SPEAKER_05
+Yeah.
+
+[00:34:02] SPEAKER_05
+Stuff like that is awesome.
+
+[00:34:04] SPEAKER_05
+Like there's one recent, like relatively recently I saw of, uh, gorillas, Clint Eastwood,
+
+[00:34:09] SPEAKER_05
+the whole like thing was the default for a keyboard.
+
+[00:34:12] SPEAKER_05
+He bought the entire rhythm of it.
+
+[00:34:15] SPEAKER_05
+Like he didn't come up with any of it.
+
+[00:34:16] SPEAKER_05
+I saw one recently, uh, with the, like a G six, like the, the kind of alarm in that was
+
+[00:34:22] SPEAKER_05
+an accidentally made sound because he put the bell into the wrong track.
+
+[00:34:26] SPEAKER_05
+Yeah.
+
+[00:34:27] SPEAKER_05
+That was intended for bait.
+
+[00:34:28] SPEAKER_05
+Like, Oh, I love that stuff for music.
+
+[00:34:30] SPEAKER_07
+There's an action Bronson song where he raps over the hold music at like a limo company
+
+[00:34:36] SPEAKER_07
+or something.
+
+[00:34:36] SPEAKER_07
+And he just turns into a whole song.
+
+[00:34:38] SPEAKER_07
+I thought that was fun.
+
+[00:34:40] SPEAKER_05
+That's great.
+
+[00:34:41] SPEAKER_05
+All that shit is stuff like Shaggy's.
+
+[00:34:45] SPEAKER_05
+It wasn't me.
+
+[00:34:46] SPEAKER_05
+The vocals on that were like a test recording.
+
+[00:34:49] SPEAKER_05
+Like they were, they're not even like finalized properly recorded vocals.
+
+[00:34:52] SPEAKER_05
+Cause it was uncertain if that would even be a song.
+
+[00:34:55] SPEAKER_05
+I just, I find listening about like how music and records are produced.
+
+[00:35:00] SPEAKER_05
+So interesting.
+
+[00:35:01] SPEAKER_04
+Oh yeah.
+
+[00:35:02] SPEAKER_04
+I love that.
+
+[00:35:02] SPEAKER_04
+Gavin, what did you just send?
+
+[00:35:03] SPEAKER_04
+That sounds like something from crash bandicoot.
+
+[00:35:07] SPEAKER_06
+Uh, are you at the right time?
+
+[00:35:09] SPEAKER_04
+I don't know what time am I supposed to be at?
+
+[00:35:12] SPEAKER_06
+Like seven 11, I guess.
+
+[00:35:14] SPEAKER_04
+Okay.
+
+[00:35:15] SPEAKER_04
+What, what am I, what am I listening to?
+
+[00:35:20] SPEAKER_07
+Do you think that sounds like espresso?
+
+[00:35:23] SPEAKER_07
+You might've.
+
+[00:35:24] SPEAKER_04
+What do you, I don't know.
+
+[00:35:26] SPEAKER_04
+You said seven 11.
+
+[00:35:28] SPEAKER_04
+I don't know.
+
+[00:35:28] SPEAKER_04
+I went to the thing.
+
+[00:35:29] SPEAKER_06
+Seven 15.
+
+[00:35:32] SPEAKER_04
+Okay.
+
+[00:35:33] SPEAKER_04
+So that's not what Jesus Christ.
+
+[00:35:35] SPEAKER_04
+Oh, that was really loud.
+
+[00:35:37] SPEAKER_05
+Yeah.
+
+[00:35:37] SPEAKER_05
+It's the gong.
+
+[00:35:39] SPEAKER_04
+Right.
+
+[00:35:40] SPEAKER_05
+I thought we're still talking about espresso with you.
+
+[00:35:43] SPEAKER_04
+I thought you found it.
+
+[00:35:44] SPEAKER_04
+No, he found the gong thing from the Michael Jackson thing.
+
+[00:35:47] SPEAKER_04
+But what he's, but he linked to it.
+
+[00:35:49] SPEAKER_04
+Seven 11 sounds like something from crash.
+
+[00:35:52] SPEAKER_04
+Yeah.
+
+[00:35:53] SPEAKER_06
+Yeah.
+
+[00:35:54] SPEAKER_06
+I, I, I just was looking at the comments cause my sound isn't coming through.
+
+[00:35:57] SPEAKER_06
+Right.
+
+[00:35:58] SPEAKER_07
+It sounds like Jerry trying to twinkle toes, sneak by Tom.
+
+[00:36:03] SPEAKER_06
+What if Michael Jackson used that instead of the gong sound?
+
+[00:36:07] SPEAKER_04
+We, last night we were talking about songs we'd heard the most in our lives.
+
+[00:36:13] SPEAKER_04
+And I said, the national anthem is probably like way up there for me.
+
+[00:36:17] SPEAKER_04
+And then we were saying like, Oh, Jeff, you probably heard that a lot in the army.
+
+[00:36:20] SPEAKER_04
+And then we're like, Oh no, what's the song they play on the dude, dude, dude, dude, dude, dude.
+
+[00:36:24] SPEAKER_04
+And Jeff and Nick started humming Duel of the Fates.
+
+[00:36:30] SPEAKER_04
+Like that's the song they woke up to.
+
+[00:36:32] SPEAKER_06
+The army song.
+
+[00:36:33] SPEAKER_06
+And we, we would have started going Nick thought that was revelry.
+
+[00:36:49] SPEAKER_05
+With the transition from summer into fall, NFL season is on.
+
+[00:36:57] SPEAKER_05
+We did a kicker picker.
+
+[00:36:58] SPEAKER_05
+We all pick kickers.
+
+[00:37:00] SPEAKER_05
+We're tracking that throughout the next few months, seeing who will get the most points.
+
+[00:37:05] SPEAKER_05
+The field goal field goals and extra points.
+
+[00:37:07] SPEAKER_05
+We also did as part of, I thought, you know, it'd be so much fun for the August Falcon event.
+
+[00:37:13] SPEAKER_05
+If we did an eliminator pool, which is something I've never done before, but I've always wanted to do it.
+
+[00:37:19] SPEAKER_05
+It always seems like fun.
+
+[00:37:20] SPEAKER_05
+The idea being that you pick one team every week.
+
+[00:37:25] SPEAKER_05
+And if you're the team, you pick is if they lose, you're eliminated.
+
+[00:37:29] SPEAKER_05
+If they win, you continue, but you can't pick that team again.
+
+[00:37:33] SPEAKER_05
+They're eliminated from your choices.
+
+[00:37:34] SPEAKER_05
+So I organized a whole Falcon thing around it.
+
+[00:37:38] SPEAKER_05
+I made, I think, 11 different leagues so that we could have multiple winners, which I thought was fun.
+
+[00:37:44] SPEAKER_05
+Put it all together.
+
+[00:37:45] SPEAKER_05
+We started it.
+
+[00:37:46] SPEAKER_05
+And I said to the I pitched this the night before to everybody here, letting them know that I had done this.
+
+[00:37:52] SPEAKER_05
+And we were going to share an account and we'd go in an egg order.
+
+[00:37:56] SPEAKER_05
+Me starting first.
+
+[00:37:58] SPEAKER_05
+Then we'd go to Nick and Eric, Jeff and Gavin and see how long we could keep this chain going.
+
+[00:38:06] SPEAKER_05
+I was real excited about it.
+
+[00:38:08] SPEAKER_05
+And how far did we get?
+
+[00:38:11] SPEAKER_05
+Guys, who's who's ready for your next your pick?
+
+[00:38:15] SPEAKER_07
+Do you want to talk about your awesome fucking pick?
+
+[00:38:17] SPEAKER_05
+Yeah, yeah, you're you're really smart.
+
+[00:38:19] SPEAKER_05
+Good pick.
+
+[00:38:20] SPEAKER_05
+Yeah, I could pick any team.
+
+[00:38:22] SPEAKER_05
+And I scrolled through and I was like, well, the first week, you know, you want to go for a favorite because you don't necessarily know how bad the other teams are.
+
+[00:38:31] SPEAKER_05
+So I went to Bengals against the Patriots in week one.
+
+[00:38:35] SPEAKER_05
+And I didn't even pay attention to that game until late into the morning.
+
+[00:38:39] SPEAKER_05
+And I checked and the Bengals were down by, I believe, nine or eight when I looked and I said, what the fuck is happening?
+
+[00:38:48] SPEAKER_05
+And we're out of the pool.
+
+[00:38:51] SPEAKER_05
+We're eliminated.
+
+[00:38:52] SPEAKER_05
+I am so sorry, guys.
+
+[00:38:54] SPEAKER_07
+Fucking week one, dude.
+
+[00:38:56] SPEAKER_07
+We were out before I even understood what you were doing.
+
+[00:38:59] SPEAKER_07
+He still doesn't understand what you did.
+
+[00:39:01] SPEAKER_05
+I still don't.
+
+[00:39:01] SPEAKER_05
+Don't it was less than 24 hours from me describing what we were going to do and how we're going to rotate who makes the picks to me eliminating us from the pool.
+
+[00:39:13] SPEAKER_05
+There are plenty of other Falcons still in it and I'm tracking it and I'm dudes.
+
+[00:39:17] SPEAKER_05
+I'm watching.
+
+[00:39:18] SPEAKER_05
+It's a lot of fun, but I fucking suck.
+
+[00:39:20] SPEAKER_05
+I'm bad at this apparently.
+
+[00:39:22] SPEAKER_05
+So do the Falcons already know that we're out?
+
+[00:39:24] SPEAKER_05
+Uh, and some of the leagues, it's very obvious and other leagues.
+
+[00:39:29] SPEAKER_05
+No, but now they will.
+
+[00:39:30] SPEAKER_05
+They will all know that we are out of this race.
+
+[00:39:33] SPEAKER_07
+I watched that whole Bengals game because they're one.
+
+[00:39:36] SPEAKER_07
+It's in my scrubs, as I call it, and it was a train wreck.
+
+[00:39:41] SPEAKER_07
+It was unbelievable.
+
+[00:39:42] SPEAKER_05
+Also, we're monitoring Stevenson looks awesome this season, but in my defense, I think it was probably the biggest upset of the weekend and make probably the biggest ups.
+
+[00:39:52] SPEAKER_05
+Like, they were huge underdogs, the Patriots, going into that matchup.
+
+[00:39:56] SPEAKER_05
+Nobody had them winning.
+
+[00:39:58] SPEAKER_07
+No, it's true.
+
+[00:39:59] SPEAKER_07
+I don't think anybody on earth thought that they were going to win that game.
+
+[00:40:02] SPEAKER_05
+And I picked them and we got eliminated from the pool.
+
+[00:40:05] SPEAKER_05
+But that's not only where my fucking my luck ends with football.
+
+[00:40:10] SPEAKER_05
+It's been a terrible start for me and the NFL.
+
+[00:40:13] SPEAKER_05
+We did a kicker picker, which is a supplemental you can watch or listen to where we went through the NFL.
+
+[00:40:18] SPEAKER_05
+We each picked kickers.
+
+[00:40:19] SPEAKER_05
+We have a roster of kickers.
+
+[00:40:22] SPEAKER_05
+And part of that process that we discuss is if a kicker gets hurt or they get released or whatever, you cannot replace them.
+
+[00:40:32] SPEAKER_05
+And I got betrayed by Cade York.
+
+[00:40:36] SPEAKER_05
+Cade York, one of my picks, got fucking fired from his job in week one.
+
+[00:40:41] SPEAKER_05
+Cade York, he is cut from the team.
+
+[00:40:46] SPEAKER_06
+Why?
+
+[00:40:46] SPEAKER_05
+Because he missed two kicks in the first week.
+
+[00:40:50] SPEAKER_05
+And so the team fired him.
+
+[00:40:53] SPEAKER_05
+And I'm down a kicker unless somebody else hires.
+
+[00:40:57] SPEAKER_05
+Look at him.
+
+[00:40:58] SPEAKER_05
+I picked him because he had this dumb smile.
+
+[00:41:01] SPEAKER_05
+He seems so happy.
+
+[00:41:02] SPEAKER_05
+But everyone else is serious.
+
+[00:41:04] SPEAKER_05
+And I now have beef with Cade York.
+
+[00:41:07] SPEAKER_05
+I mean, I'm sure he's more upset than I am that he doesn't have a job currently.
+
+[00:41:12] SPEAKER_05
+What team was he on?
+
+[00:41:14] SPEAKER_05
+He was on the Commanders.
+
+[00:41:15] SPEAKER_07
+He was the Washington Commanders kicker.
+
+[00:41:17] SPEAKER_07
+Did you have an acronym that that now fucks up for you?
+
+[00:41:20] SPEAKER_07
+No.
+
+[00:41:21] SPEAKER_07
+Oh.
+
+[00:41:22] SPEAKER_07
+Well, never mind.
+
+[00:41:22] SPEAKER_07
+I can't remember all the, I can't, it's just so much to, like, you gotta watch six teams
+
+[00:41:28] SPEAKER_07
+and follow six teams all at once.
+
+[00:41:29] SPEAKER_06
+It's hard.
+
+[00:41:30] SPEAKER_06
+Now that he's not kicking for them, can we hire him if ever we need something kicked?
+
+[00:41:36] SPEAKER_06
+What, do you need something kicked?
+
+[00:41:38] SPEAKER_06
+Not currently, but it's nice to have an official kicker for us.
+
+[00:41:40] SPEAKER_05
+Okay, well, let me rephrase that question.
+
+[00:41:42] SPEAKER_05
+Do you need something kicked accurately?
+
+[00:41:48] SPEAKER_05
+As if not, I got your guy.
+
+[00:41:50] SPEAKER_06
+Kick a kiwi into my mouth.
+
+[00:41:54] SPEAKER_05
+Oh.
+
+[00:41:55] SPEAKER_05
+Aim small, miss small.
+
+[00:41:58] SPEAKER_05
+You think it would be juicier to have a kiwi kicked into your mouth than if you were
+
+[00:42:01] SPEAKER_05
+to bite into it?
+
+[00:42:02] SPEAKER_05
+The explosion?
+
+[00:42:03] SPEAKER_05
+Yeah.
+
+[00:42:04] SPEAKER_06
+There'd be an explosion of teeth, alright.
+
+[00:42:07] SPEAKER_06
+Can I add something to, are we still doing the supplemental stuff tomorrow?
+
+[00:42:11] SPEAKER_07
+Yeah.
+
+[00:42:12] SPEAKER_06
+I think so.
+
+[00:42:13] SPEAKER_06
+Can I add something to the itinerary?
+
+[00:42:15] SPEAKER_06
+Yeah.
+
+[00:42:15] SPEAKER_06
+Eric told me that there is no amount of blue cheese on something that is too much.
+
+[00:42:22] SPEAKER_06
+Oh, no.
+
+[00:42:23] SPEAKER_04
+Oh, no.
+
+[00:42:24] SPEAKER_04
+I love blue cheese.
+
+[00:42:26] SPEAKER_06
+I want to make something that's pretty heavily loaded with blue cheese to see if Eric can
+
+[00:42:30] SPEAKER_06
+get through it.
+
+[00:42:31] SPEAKER_07
+I think that's a good idea.
+
+[00:42:32] SPEAKER_07
+Also, should we, and I don't know if I'll be able to do it, so I'm asking the group because
+
+[00:42:37] SPEAKER_07
+I have a washing machine repairman coming at 9 a.m., but should we pick up all that candy
+
+[00:42:42] SPEAKER_07
+that we talked about so we can do the blind taste test with Gavin?
+
+[00:42:44] SPEAKER_07
+Oh, yeah.
+
+[00:42:45] SPEAKER_07
+From the supplemental.
+
+[00:42:46] SPEAKER_07
+That'd be easy to accomplish now.
+
+[00:42:48] SPEAKER_04
+I mean, do we want to meet at a different time tomorrow, or is that time still good?
+
+[00:42:51] SPEAKER_07
+The time is still good.
+
+[00:42:52] SPEAKER_07
+There just might be a guy outside the room fixing the washer.
+
+[00:42:55] SPEAKER_04
+Okay, but then we have to go get the candy, right?
+
+[00:42:58] SPEAKER_07
+I was just going to see if somebody could pick it up beforehand.
+
+[00:43:01] SPEAKER_04
+So here's what the issue is with what we're talking about.
+
+[00:43:05] SPEAKER_04
+We is not me.
+
+[00:43:07] SPEAKER_07
+That's why I'm addressing the group.
+
+[00:43:09] SPEAKER_07
+We could be Nick.
+
+[00:43:10] SPEAKER_07
+It could be Gavin.
+
+[00:43:11] SPEAKER_07
+It could be.
+
+[00:43:12] SPEAKER_05
+Anybody could pick the candy up today.
+
+[00:43:14] SPEAKER_05
+Is anyone, any four of you going out today?
+
+[00:43:17] SPEAKER_07
+You know what?
+
+[00:43:18] SPEAKER_07
+I can go pick up the candy today after this.
+
+[00:43:20] SPEAKER_07
+I'll do that.
+
+[00:43:21] SPEAKER_07
+There we go.
+
+[00:43:21] SPEAKER_07
+I just need a list of what to get.
+
+[00:43:23] SPEAKER_06
+Eric has turned we is not me into me never is.
+
+[00:43:27] SPEAKER_06
+What?
+
+[00:43:27] SPEAKER_06
+Like, I never said Eric's name.
+
+[00:43:29] SPEAKER_07
+I addressed the group, and I said, could somebody maybe, if I can't do it, and then Eric said,
+
+[00:43:35] SPEAKER_07
+it's not me.
+
+[00:43:36] SPEAKER_07
+And I was like, I get it.
+
+[00:43:36] SPEAKER_07
+I didn't say you, but it could be Gavin.
+
+[00:43:38] SPEAKER_07
+It could be Nick.
+
+[00:43:39] SPEAKER_07
+It would be hard to be Andrew.
+
+[00:43:39] SPEAKER_07
+That's how all that went.
+
+[00:43:40] SPEAKER_07
+Yeah, yeah.
+
+[00:43:40] SPEAKER_07
+That sounds right.
+
+[00:43:41] SPEAKER_07
+I mean, isn't that how that went?
+
+[00:43:43] SPEAKER_07
+No.
+
+[00:43:43] SPEAKER_07
+Am I crazy?
+
+[00:43:44] SPEAKER_05
+Yes.
+
+[00:43:44] SPEAKER_05
+Yeah.
+
+[00:43:45] SPEAKER_05
+You could have it even delivered to you, potentially.
+
+[00:43:47] SPEAKER_05
+Am I crazy?
+
+[00:43:49] SPEAKER_05
+Yes.
+
+[00:43:49] SPEAKER_07
+Did you really think I was talking to you?
+
+[00:43:51] SPEAKER_04
+Yes.
+
+[00:43:51] SPEAKER_04
+Because that's the way this stuff because, yes.
+
+[00:43:54] SPEAKER_04
+I didn't get that tool.
+
+[00:43:55] SPEAKER_04
+Because when this defaults.
+
+[00:43:56] SPEAKER_04
+No, because here's the issue, and I'm fine with it.
+
+[00:43:58] SPEAKER_04
+But I'm fine with talking about it and figuring it out.
+
+[00:44:02] SPEAKER_04
+I'm trying to get ahead of it because a lot of this is like, I get worried when we go
+
+[00:44:07] SPEAKER_04
+into these things late that something falls, and then the supplemental that we wanted to
+
+[00:44:13] SPEAKER_04
+do, we couldn't do it because I didn't get around to it because the rest of my day is
+
+[00:44:17] SPEAKER_04
+packed.
+
+[00:44:18] SPEAKER_07
+But Jesus Christ, dude.
+
+[00:44:20] SPEAKER_07
+That's why I addressed the group and said, can somebody get the fucking candy ahead of
+
+[00:44:24] SPEAKER_07
+time so we're not caught flat-footed?
+
+[00:44:26] SPEAKER_07
+I didn't say, Eric, can you get the candy?
+
+[00:44:28] SPEAKER_07
+I was addressing the group.
+
+[00:44:30] SPEAKER_07
+I don't know why you took it as you.
+
+[00:44:32] SPEAKER_07
+I was addressed to all of us.
+
+[00:44:34] SPEAKER_07
+I apologize.
+
+[00:44:34] SPEAKER_07
+No, you're right.
+
+[00:44:35] SPEAKER_07
+I just don't want us to be stuck in the room and realize that we could have made more
+
+[00:44:40] SPEAKER_07
+than we're going to.
+
+[00:44:42] SPEAKER_07
+Yeah, definitely.
+
+[00:44:43] SPEAKER_07
+I will take on the candy.
+
+[00:44:44] SPEAKER_06
+I don't want to make this even more complicated, but we could also try potato-st.
+
+[00:44:48] SPEAKER_05
+You as they.
+
+[00:44:48] SPEAKER_06
+I think that's a great idea as well.
+
+[00:44:50] SPEAKER_05
+Well, it's funny.
+
+[00:44:52] SPEAKER_05
+Uh, me.
+
+[00:44:53] SPEAKER_05
+Is we?
+
+[00:44:55] SPEAKER_06
+What?
+
+[00:44:55] SPEAKER_05
+What?
+
+[00:44:56] SPEAKER_05
+Alright.
+
+[00:44:56] SPEAKER_05
+I'm going to make a list.
+
+[00:44:58] SPEAKER_06
+I'm lost.
+
+[00:44:59] SPEAKER_05
+Oh, I was never found.
+
+[00:45:01] SPEAKER_05
+Um, speaking of potato-st.
+
+[00:45:05] SPEAKER_06
+Yeah.
+
+[00:45:06] SPEAKER_05
+I came prepared.
+
+[00:45:07] SPEAKER_05
+Oh, you got some?
+
+[00:45:08] SPEAKER_05
+I have created a sandwich, which I, uh...
+
+[00:45:14] SPEAKER_06
+Open or closed?
+
+[00:45:16] SPEAKER_05
+Uh, open.
+
+[00:45:16] SPEAKER_05
+It is the Open-Faced Mash Hash Cash Sandwich, is what I've created.
+
+[00:45:24] SPEAKER_05
+Now, a slight wrinkle with it.
+
+[00:45:27] SPEAKER_05
+Uh, I ordered all this stuff this morning to make it, uh, and I did not know that the
+
+[00:45:33] SPEAKER_05
+mashed potatoes would automatically come with gravy.
+
+[00:45:35] SPEAKER_05
+That was not stated in the thing.
+
+[00:45:40] SPEAKER_05
+Uh, let me take a photo of, uh, open, the Open-Faced Mash Hash Cash Sandwich.
+
+[00:45:47] SPEAKER_05
+Now, what an Open-Faced...
+
+[00:45:48] SPEAKER_05
+How can the gravy be already in it?
+
+[00:45:50] SPEAKER_05
+...Mash Hash Cash Sandwiches.
+
+[00:45:52] SPEAKER_05
+You have your toast.
+
+[00:45:53] SPEAKER_05
+You have the mash on top of the toast.
+
+[00:45:58] SPEAKER_05
+You have then some hash browns on top of the mash.
+
+[00:46:03] SPEAKER_05
+And then I had a, I'm gonna be honest, it was originally gonna be the Open-Faced Mash
+
+[00:46:09] SPEAKER_05
+Hash Stash Sandwich, because I had a fake mustache somewhere in my desk, but I couldn't
+
+[00:46:15] SPEAKER_05
+find it.
+
+[00:46:16] SPEAKER_05
+However, I did find a $5 bill.
+
+[00:46:18] SPEAKER_05
+Pretty good day for me.
+
+[00:46:20] SPEAKER_05
+Uh, and it also still rhymes with mash.
+
+[00:46:22] SPEAKER_05
+So it works.
+
+[00:46:22] SPEAKER_04
+Did you eat...
+
+[00:46:23] SPEAKER_04
+Did you eat around the five?
+
+[00:46:25] SPEAKER_05
+No, I haven't tried it yet.
+
+[00:46:26] SPEAKER_05
+But I was waiting.
+
+[00:46:29] SPEAKER_05
+Wait, where's the rest of the bread?
+
+[00:46:29] SPEAKER_05
+There are no whites taken out of this?
+
+[00:46:31] SPEAKER_05
+Is that half of, half the bread's been eaten?
+
+[00:46:33] SPEAKER_05
+No, it's, I just put, I ordered toast, and I get, I was given two full slices, but they
+
+[00:46:38] SPEAKER_05
+were cut in halves, and I didn't have utensils, so that was the best I could do without getting
+
+[00:46:44] SPEAKER_05
+gravy everywhere.
+
+[00:46:45] SPEAKER_05
+Because I was not...
+
+[00:46:46] SPEAKER_06
+I wouldn't want to go downstairs.
+
+[00:46:47] SPEAKER_05
+I did this in the small...
+
+[00:46:50] SPEAKER_05
+Whatever.
+
+[00:46:51] SPEAKER_05
+Doesn't matter.
+
+[00:46:52] SPEAKER_05
+Are you not...
+
+[00:46:53] SPEAKER_05
+Can you not just be happy that I have the Open-Faced Mash Hash Hash Sandwich, and instead
+
+[00:46:59] SPEAKER_05
+criticize all these small details?
+
+[00:47:02] SPEAKER_06
+Is that bag of peanuts behind it?
+
+[00:47:03] SPEAKER_05
+No, those are...
+
+[00:47:04] SPEAKER_05
+It's called Dragon Boat Mix.
+
+[00:47:06] SPEAKER_05
+They sell it at Save on Foods.
+
+[00:47:07] SPEAKER_05
+It's delicious.
+
+[00:47:08] SPEAKER_05
+Oh.
+
+[00:47:09] SPEAKER_06
+It looks good.
+
+[00:47:10] SPEAKER_05
+They're peanuts with a shell casing.
+
+[00:47:13] SPEAKER_05
+It's a little shell.
+
+[00:47:14] SPEAKER_05
+I don't know what the shell is made of, but it's peanuts in a shell.
+
+[00:47:16] SPEAKER_05
+So, very good, but it is probably not as good as the Open-Faced Mash Hash Hash Sandwich,
+
+[00:47:23] SPEAKER_05
+which I'm prepared to take a bite of.
+
+[00:47:26] SPEAKER_06
+So, you've not tried any yet?
+
+[00:47:28] SPEAKER_05
+Haven't tried a bite yet.
+
+[00:47:30] SPEAKER_06
+I've noticed that the entire plate is on top of your keyboard?
+
+[00:47:33] SPEAKER_05
+No, on top of my laptop, actually.
+
+[00:47:36] SPEAKER_06
+Okay.
+
+[00:47:37] SPEAKER_06
+Which has a keyboard?
+
+[00:47:38] SPEAKER_05
+Which does have a keyboard.
+
+[00:47:40] SPEAKER_05
+That is correct.
+
+[00:47:41] SPEAKER_05
+Open laptop.
+
+[00:47:42] SPEAKER_05
+Closed laptop.
+
+[00:47:44] SPEAKER_05
+Why can I see the keys?
+
+[00:47:45] SPEAKER_05
+You've got keys on the top of your lid?
+
+[00:47:47] SPEAKER_05
+No, no, no, no.
+
+[00:47:47] SPEAKER_05
+No.
+
+[00:47:48] SPEAKER_05
+We've been over this before.
+
+[00:47:49] SPEAKER_05
+I have two keyboards.
+
+[00:47:51] SPEAKER_06
+Wait, wait, wait, wait.
+
+[00:47:52] SPEAKER_05
+So, it's on top of your keyboard, but it's on top of my keyboard.
+
+[00:47:56] SPEAKER_06
+No, it's not on my keyboard.
+
+[00:47:57] SPEAKER_06
+It's on my laptop.
+
+[00:47:58] SPEAKER_06
+My laptop's closed, and there's a keyboard on top of it.
+
+[00:48:00] SPEAKER_05
+Okay.
+
+[00:48:01] SPEAKER_05
+Okay, so the keyboard is below the laptop in front of it.
+
+[00:48:07] SPEAKER_05
+It's below and in front, and that's how it gets crumbs.
+
+[00:48:10] SPEAKER_05
+That's how it gets crumbs on it, is because I put the plate on the closed laptop lid,
+
+[00:48:16] SPEAKER_05
+and then crummage happens between me.
+
+[00:48:19] SPEAKER_06
+I've got a solution for this, by the way.
+
+[00:48:20] SPEAKER_06
+Yeah, what's the solution?
+
+[00:48:22] SPEAKER_06
+Put the plate literally anywhere else.
+
+[00:48:24] SPEAKER_05
+I can't.
+
+[00:48:25] SPEAKER_05
+No room.
+
+[00:48:26] SPEAKER_05
+Desk is full.
+
+[00:48:28] SPEAKER_05
+Only space I can fit a plate at the moment.
+
+[00:48:32] SPEAKER_05
+It's like living in an airstream.
+
+[00:48:34] SPEAKER_05
+That, you know what, pivots to something else I could do after this we'll talk about,
+
+[00:48:38] SPEAKER_05
+but first, I'm going to have a bite of this delicious, cold, open-faced.
+
+[00:48:44] SPEAKER_06
+Oh, I wonder if we'll hear the crunch.
+
+[00:48:47] SPEAKER_05
+I don't, I'll try.
+
+[00:48:49] SPEAKER_06
+You say it's cold?
+
+[00:48:50] SPEAKER_05
+Uh-huh.
+
+[00:48:51] SPEAKER_07
+Oh, it's not very cloisty.
+
+[00:48:56] SPEAKER_07
+It's not very cloisty.
+
+[00:48:59] SPEAKER_07
+Yeah, you definitely said cloisty.
+
+[00:49:01] SPEAKER_07
+I feel like cold would not be the way to do it.
+
+[00:49:04] SPEAKER_07
+Nah.
+
+[00:49:05] SPEAKER_07
+Like cold mashed potatoes, aren't.
+
+[00:49:06] SPEAKER_04
+How, would you heat up each element individually, or do you think that now that you've put the
+
+[00:49:11] SPEAKER_04
+$5 bill on it, you just toss that in the microwave and get it going is one thing?
+
+[00:49:14] SPEAKER_07
+Yeah, the $5 bill keeps it from making a mess.
+
+[00:49:20] SPEAKER_04
+It kind of operates like, it's like a steam blanket.
+
+[00:49:23] SPEAKER_04
+Yeah.
+
+[00:49:23] SPEAKER_04
+With the mashed potatoes.
+
+[00:49:26] SPEAKER_04
+He's so silent.
+
+[00:49:27] SPEAKER_04
+Did you choke and die?
+
+[00:49:29] SPEAKER_04
+I'm just, I'm eating it.
+
+[00:49:30] SPEAKER_06
+Canadian money is plastic, right?
+
+[00:49:32] SPEAKER_06
+Yeah.
+
+[00:49:32] SPEAKER_05
+Yeah.
+
+[00:49:33] SPEAKER_05
+You know what?
+
+[00:49:35] SPEAKER_05
+It's actually pretty good.
+
+[00:49:36] SPEAKER_05
+I wouldn't order that, but the hash creates a little bit of a fun texture with the mash,
+
+[00:49:44] SPEAKER_05
+and the bread surprisingly combines both things very well.
+
+[00:49:49] SPEAKER_05
+That was pretty good.
+
+[00:49:51] SPEAKER_05
+As I said, I would not expect an open-faced mash hash cash sandwich to be on a menu,
+
+[00:49:57] SPEAKER_05
+and I don't think I'd order it twice if it was.
+
+[00:50:00] SPEAKER_05
+But I'm excited to see your guys' results with this, because I think it was pretty good.
+
+[00:50:06] SPEAKER_07
+I thought that we were one and done with the cookbook, but it's pretty clear to me that we're
+
+[00:50:10] SPEAKER_07
+going to have to make a second one, because we keep coming up with recipes.
+
+[00:50:13] SPEAKER_02
+Um.
+
+[00:50:15] SPEAKER_02
+Welcome aboard Via Rail.
+
+[00:50:17] SPEAKER_02
+Please sit and enjoy.
+
+[00:50:20] SPEAKER_02
+Please sit and stretch.
+
+[00:50:22] SPEAKER_02
+Steep.
+
+[00:50:23] SPEAKER_02
+Flip.
+
+[00:50:25] SPEAKER_02
+Or that.
+
+[00:50:27] SPEAKER_02
+And enjoy.
+
+[00:50:28] SPEAKER_02
+Via Rail.
+
+[00:50:29] SPEAKER_02
+Love the way.
+
+[00:50:30] SPEAKER_03
+At Desjardins Insurance, we know that when you own a nail salon, everything needs to be perfect
+
+[00:50:38] SPEAKER_03
+from tip to toe.
+
+[00:50:40] SPEAKER_03
+That's why our agents go the extra mile to understand your business
+
+[00:50:43] SPEAKER_03
+and provide tailored solutions for all its unique needs.
+
+[00:50:47] SPEAKER_03
+You put your heart into your company, so we put our heart into making sure it's protected.
+
+[00:50:52] SPEAKER_03
+Get insurance that's really big on care.
+
+[00:50:55] SPEAKER_03
+Find an agent today at Desjardins.com slash business coverage.
+
+[00:51:01] SPEAKER_03
+Yeah, that was good.
+
+[00:51:02] SPEAKER_05
+I'm excited to see what you guys try to do with this sandwich setup.
+
+[00:51:05] SPEAKER_05
+So what do I need to prepare for potatoes?
+
+[00:51:08] SPEAKER_05
+That's a good question, Gavin.
+
+[00:51:09] SPEAKER_05
+What do you expect?
+
+[00:51:10] SPEAKER_06
+Well, what I originally wanted was to spread the mash on toast.
+
+[00:51:14] SPEAKER_06
+Uh-huh.
+
+[00:51:14] SPEAKER_06
+And then put the little crispy onion.
+
+[00:51:17] SPEAKER_06
+Onion.
+
+[00:51:17] SPEAKER_06
+Crispy onion.
+
+[00:51:18] SPEAKER_06
+Sprinkles with a bit of black pepper.
+
+[00:51:20] SPEAKER_06
+Okay.
+
+[00:51:20] SPEAKER_06
+Because in my head, it can just stay pasted to the bread.
+
+[00:51:24] SPEAKER_06
+Like, if you tip the bread upside down, it would all still be on there.
+
+[00:51:27] SPEAKER_07
+And the crispy onion sprinkles are just like the ones you have that, like, on top
+
+[00:51:30] SPEAKER_07
+of, uh, you have it, like, Thanksgiving, right?
+
+[00:51:33] SPEAKER_07
+That's what you're talking about.
+
+[00:51:34] SPEAKER_07
+Uh, yeah, we can make that work for sure.
+
+[00:51:36] SPEAKER_04
+Yeah, I think it's like the, like the, the French's onion crispy things.
+
+[00:51:40] SPEAKER_06
+Right.
+
+[00:51:40] SPEAKER_06
+Okay.
+
+[00:51:40] SPEAKER_05
+Speaking of things that we need to clean up, uh, Eric, I'm sending you a slack right
+
+[00:51:45] SPEAKER_05
+now.
+
+[00:51:46] SPEAKER_05
+Okay.
+
+[00:51:46] SPEAKER_05
+We're getting into something serious that we've been putting off for a while, but I
+
+[00:51:49] SPEAKER_05
+believe we're all ready to talk about it now.
+
+[00:51:52] SPEAKER_07
+Uh-oh.
+
+[00:51:53] SPEAKER_07
+Uh.
+
+[00:51:53] SPEAKER_05
+We did puzzles.
+
+[00:51:55] SPEAKER_05
+We had a puzzle competition.
+
+[00:51:57] SPEAKER_05
+Do we turn times in?
+
+[00:51:58] SPEAKER_05
+I don't think we have times from everyone.
+
+[00:52:00] SPEAKER_05
+Gavin said he, he was done and he had a time to submit.
+
+[00:52:03] SPEAKER_05
+Is that incorrect?
+
+[00:52:05] SPEAKER_06
+Should I have submitted it already?
+
+[00:52:07] SPEAKER_05
+Okay.
+
+[00:52:08] SPEAKER_05
+Just submit it to Eric via slack right now.
+
+[00:52:11] SPEAKER_05
+Do you have a time that you can submit?
+
+[00:52:14] SPEAKER_07
+It's been so long.
+
+[00:52:15] SPEAKER_07
+I don't remember my time.
+
+[00:52:16] SPEAKER_07
+I need a picture as well.
+
+[00:52:18] SPEAKER_05
+Okay.
+
+[00:52:18] SPEAKER_05
+What does, what do you mean that you need?
+
+[00:52:20] SPEAKER_04
+I'm going to send Eric my time.
+
+[00:52:22] SPEAKER_04
+Now here's, I think the issue.
+
+[00:52:25] SPEAKER_04
+I have to find where Jeff put his time.
+
+[00:52:27] SPEAKER_06
+Which would have been.
+
+[00:52:28] SPEAKER_06
+Okay.
+
+[00:52:28] SPEAKER_06
+All right.
+
+[00:52:29] SPEAKER_06
+Three months ago.
+
+[00:52:30] SPEAKER_04
+Yeah.
+
+[00:52:30] SPEAKER_04
+Don't.
+
+[00:52:31] SPEAKER_04
+Yeah.
+
+[00:52:31] SPEAKER_04
+All right.
+
+[00:52:33] SPEAKER_06
+Where do you want this Eric on slack?
+
+[00:52:34] SPEAKER_05
+You can slack it to me.
+
+[00:52:35] SPEAKER_05
+It's fine.
+
+[00:52:35] SPEAKER_05
+Now Gavin seemed worried that he, he had some issue with his, and that made me feel a lot
+
+[00:52:42] SPEAKER_05
+better about mine.
+
+[00:52:43] SPEAKER_05
+Cause I definitely had some issues that we will get into.
+
+[00:52:46] SPEAKER_05
+Mm-hmm.
+
+[00:52:47] SPEAKER_05
+Yeah.
+
+[00:52:48] SPEAKER_05
+There's a, I'm like mad at you.
+
+[00:52:54] SPEAKER_04
+I think.
+
+[00:52:54] SPEAKER_04
+Oh my God.
+
+[00:52:55] SPEAKER_04
+Which one?
+
+[00:52:56] SPEAKER_04
+Who?
+
+[00:52:56] SPEAKER_04
+Which one?
+
+[00:52:57] SPEAKER_04
+I'm mad at Andrew.
+
+[00:52:59] SPEAKER_04
+Okay.
+
+[00:53:00] SPEAKER_04
+Yeah.
+
+[00:53:01] SPEAKER_04
+We'll get into this.
+
+[00:53:04] SPEAKER_04
+This is not, I'm mad at everyone.
+
+[00:53:06] SPEAKER_04
+Jeff is the only one.
+
+[00:53:09] SPEAKER_04
+Hey Jeff, I'm just letting you know, you win.
+
+[00:53:12] SPEAKER_04
+Oh, here's, here's what's going on.
+
+[00:53:15] SPEAKER_04
+Here's what's going on.
+
+[00:53:16] SPEAKER_06
+Didn't even get a drum roll.
+
+[00:53:16] SPEAKER_04
+No, no.
+
+[00:53:18] SPEAKER_04
+This sucks.
+
+[00:53:20] SPEAKER_04
+This sucks.
+
+[00:53:21] SPEAKER_04
+This.
+
+[00:53:21] SPEAKER_04
+We'll go through each entry.
+
+[00:53:23] SPEAKER_04
+Go through and then we can explain.
+
+[00:53:25] SPEAKER_04
+I'm trying to find Jeff's time.
+
+[00:53:27] SPEAKER_04
+It doesn't matter.
+
+[00:53:28] SPEAKER_04
+He wins by default.
+
+[00:53:30] SPEAKER_07
+I just, I think I just posted it in the chat.
+
+[00:53:34] SPEAKER_04
+Oh, there we go.
+
+[00:53:34] SPEAKER_04
+Did a great job.
+
+[00:53:36] SPEAKER_04
+Jeff did a great job.
+
+[00:53:37] SPEAKER_04
+I think that's why I couldn't find it.
+
+[00:53:38] SPEAKER_04
+Cause it was, uh, four hours, four hours, three minutes, 26, 26.
+
+[00:53:44] SPEAKER_04
+Wow.
+
+[00:53:45] SPEAKER_04
+That's really good, Jeff.
+
+[00:53:46] SPEAKER_04
+That's, that's really good.
+
+[00:53:48] SPEAKER_07
+That puzzle was a motherfucker.
+
+[00:53:49] SPEAKER_04
+It was.
+
+[00:53:50] SPEAKER_04
+It was.
+
+[00:53:51] SPEAKER_04
+And Gavin's time was one hour and five minutes.
+
+[00:53:55] SPEAKER_04
+What?
+
+[00:53:56] SPEAKER_04
+Yep.
+
+[00:53:57] SPEAKER_04
+Uh, however, that's the image that Gavin submitted to me.
+
+[00:54:03] SPEAKER_06
+So that's where I was after an hour and five minutes, pause the timer, had to go out, uh,
+
+[00:54:10] SPEAKER_06
+came back and the cats had kicked it, kicked the shit out of it.
+
+[00:54:15] SPEAKER_06
+And let's face it.
+
+[00:54:16] SPEAKER_06
+If I was at that point at an hour and five minutes, I would have been like for 24 hours.
+
+[00:54:19] SPEAKER_06
+Yeah.
+
+[00:54:20] SPEAKER_06
+I, I hate that puzzle so much.
+
+[00:54:22] SPEAKER_06
+The entire rim is green and trees.
+
+[00:54:25] SPEAKER_06
+You don't know what you're working on.
+
+[00:54:27] SPEAKER_06
+It's bullshit.
+
+[00:54:29] SPEAKER_06
+I hated it.
+
+[00:54:31] SPEAKER_06
+It was the worst hour.
+
+[00:54:32] SPEAKER_07
+That might be the least impressive amount of work in an hour I've ever seen.
+
+[00:54:38] SPEAKER_06
+Oh, interesting.
+
+[00:54:39] SPEAKER_06
+And that was, that was entirely focused only on the puzzle for an hour straight.
+
+[00:54:43] SPEAKER_06
+And that's what I got out of it.
+
+[00:54:44] SPEAKER_06
+Uh-huh.
+
+[00:54:45] SPEAKER_04
+Uh, Jeff, would you like to see Andrew's puzzle time?
+
+[00:54:48] SPEAKER_07
+Yeah.
+
+[00:54:48] SPEAKER_07
+Just for the record, he connected 26 puzzle pieces in an hour and five minutes.
+
+[00:54:53] SPEAKER_07
+I counted.
+
+[00:54:56] SPEAKER_07
+That's about one every three minutes, I guess.
+
+[00:55:00] SPEAKER_07
+So this is my time.
+
+[00:55:01] SPEAKER_07
+And it was all edge pieces.
+
+[00:55:03] SPEAKER_07
+Yeah.
+
+[00:55:03] SPEAKER_07
+Okay.
+
+[00:55:04] SPEAKER_04
+And then, um, and then here's Andrew's submitted time.
+
+[00:55:08] SPEAKER_04
+My puzzle time, August 13th, 1140 AM.
+
+[00:55:11] SPEAKER_05
+Um, so I started August 13th, 1140 AM.
+
+[00:55:16] SPEAKER_05
+We've talked about, I don't have a table.
+
+[00:55:18] SPEAKER_05
+And so my plan was to take the things off my desk, which I did.
+
+[00:55:24] SPEAKER_05
+I removed my whole setup and it wasn't enough space for the puzzle.
+
+[00:55:29] SPEAKER_05
+I, I just had a giant pile of pieces and I spent two hours trying to put it together and
+
+[00:55:40] SPEAKER_05
+I was struggling because I couldn't see the pieces.
+
+[00:55:43] SPEAKER_05
+I did about as many as Gavin did in two hours and realized I cannot complete it under these
+
+[00:55:50] SPEAKER_05
+conditions.
+
+[00:55:51] SPEAKER_05
+Why don't you just do it on the floor?
+
+[00:55:52] SPEAKER_05
+Oh yeah.
+
+[00:55:53] SPEAKER_05
+And we're great for you.
+
+[00:55:54] SPEAKER_05
+That's a great plan.
+
+[00:55:56] SPEAKER_05
+Great suggestion, buddy.
+
+[00:55:59] SPEAKER_05
+Good call.
+
+[00:56:01] SPEAKER_05
+Cause I knew if I left it on the floor, it would get fucked up in some way.
+
+[00:56:04] SPEAKER_05
+So I couldn't do that.
+
+[00:56:05] SPEAKER_05
+I just didn't have a surface for it.
+
+[00:56:07] SPEAKER_05
+I could have done on my bed, I guess, but that also, it just, there was no great outcome
+
+[00:56:11] SPEAKER_05
+for me.
+
+[00:56:12] SPEAKER_05
+How would she do a puzzle in a bed?
+
+[00:56:15] SPEAKER_05
+It was a lot larger area than I had on my desk.
+
+[00:56:18] SPEAKER_05
+And the problem was I had to pile the pieces.
+
+[00:56:20] SPEAKER_05
+So I had all of the edge pieces and I had a lot of fun setting that up, but it just, I
+
+[00:56:26] SPEAKER_05
+didn't have the space to follow through on my puzzle.
+
+[00:56:30] SPEAKER_05
+Where's the picture of your progress though?
+
+[00:56:32] SPEAKER_05
+I didn't take a photo of the pro cause there was no, it didn't even occur to me to take,
+
+[00:56:36] SPEAKER_05
+it was so pitiful.
+
+[00:56:37] SPEAKER_05
+I like, I would look at what you did and it would never consider, like, I wouldn't consider
+
+[00:56:41] SPEAKER_05
+taking a photo cause I knew Jeff would have aced this thing.
+
+[00:56:46] SPEAKER_06
+Can I admit something though?
+
+[00:56:48] SPEAKER_06
+Of course.
+
+[00:56:48] SPEAKER_06
+I didn't know I was even a part of this puzzle thing until one arrived.
+
+[00:56:51] SPEAKER_06
+I thought that was just you and Jeff doing it.
+
+[00:56:53] SPEAKER_05
+No, that was absolutely all of us.
+
+[00:56:55] SPEAKER_06
+Yeah.
+
+[00:56:56] SPEAKER_05
+From the beginning.
+
+[00:56:57] SPEAKER_05
+So Nick and Eric did it?
+
+[00:56:58] SPEAKER_99
+No.
+
+[00:56:59] SPEAKER_05
+No, it was the three of you.
+
+[00:57:00] SPEAKER_07
+It was pretty clearly covered.
+
+[00:57:02] SPEAKER_05
+I feel like I felt like it was also pretty clearly covered and I completely hand up.
+
+[00:57:07] SPEAKER_05
+I salad creamed mine a hundred percent.
+
+[00:57:10] SPEAKER_05
+Absolutely fucked it.
+
+[00:57:12] SPEAKER_05
+I would love, I will do this puzzle when I have the space to do it.
+
+[00:57:16] SPEAKER_05
+There will be an update on that.
+
+[00:57:18] SPEAKER_05
+I haven't had a table in this place for three years.
+
+[00:57:21] SPEAKER_05
+So my, you know, I don't know when that will happen, but I had a lot of fun doing it.
+
+[00:57:26] SPEAKER_05
+And Jeff, I am genuinely incredibly impressed because even with a full table, I don't think
+
+[00:57:32] SPEAKER_05
+my time would come close to yours.
+
+[00:57:34] SPEAKER_05
+Your puzzle skills shined.
+
+[00:57:37] SPEAKER_07
+Oh, well, that's very kind of you.
+
+[00:57:39] SPEAKER_07
+As the only one who competed, I feel pretty good about myself.
+
+[00:57:41] SPEAKER_04
+Yeah, no kidding.
+
+[00:57:43] SPEAKER_07
+I'd love to do this again someday, maybe when we're all in different places in our lives
+
+[00:57:47] SPEAKER_07
+and can accommodate the space of a 500 piece puzzle.
+
+[00:57:51] SPEAKER_07
+A thousand piece.
+
+[00:57:51] SPEAKER_07
+It was a 1000 piece puzzle.
+
+[00:57:53] SPEAKER_07
+That was a 500 piece puzzle.
+
+[00:57:54] SPEAKER_07
+And, uh, that's why I picked it.
+
+[00:57:57] SPEAKER_07
+Yeah.
+
+[00:57:58] SPEAKER_07
+A thousand piece puzzle would have taken forever.
+
+[00:58:00] SPEAKER_04
+We can go to seven.
+
+[00:58:01] SPEAKER_04
+I mean, if seven works a little bit better for you guys.
+
+[00:58:03] SPEAKER_04
+Was it 500?
+
+[00:58:03] SPEAKER_07
+I was very unhappy with my time.
+
+[00:58:06] SPEAKER_07
+Took about an hour longer than I thought.
+
+[00:58:08] SPEAKER_07
+I would like to do it again someday with a different puzzle.
+
+[00:58:12] SPEAKER_06
+Where did you struggle?
+
+[00:58:13] SPEAKER_06
+Is it all the trees in the top?
+
+[00:58:14] SPEAKER_07
+The trees and the leaves.
+
+[00:58:16] SPEAKER_07
+I thought it was such a nightmare.
+
+[00:58:18] SPEAKER_07
+Like the way to tackle that puzzle is you do the, you do the border real fast.
+
+[00:58:22] SPEAKER_07
+You knock it out.
+
+[00:58:22] SPEAKER_07
+That's not hard.
+
+[00:58:23] SPEAKER_07
+And then you pull all the fur out to the side and deal with the bears later.
+
+[00:58:27] SPEAKER_07
+The easiest thing to tackle then is the sky.
+
+[00:58:30] SPEAKER_07
+So you do the sun, all the red and the orange.
+
+[00:58:32] SPEAKER_07
+Once that's, uh, done, you don't have much room for the blue.
+
+[00:58:35] SPEAKER_07
+So you fill the blue in and then it gets hard.
+
+[00:58:37] SPEAKER_07
+Then you got to work the trees out.
+
+[00:58:39] SPEAKER_07
+And that's where it gets real sucky.
+
+[00:58:40] SPEAKER_04
+I, I'm such a big fan of you saying that you just knock out the border real quick.
+
+[00:58:45] SPEAKER_04
+And I went, just scrolled back up to look at Gavin's picture.
+
+[00:58:48] SPEAKER_06
+I could not figure out which tree was on which side.
+
+[00:58:51] SPEAKER_06
+I could not figure it out.
+
+[00:58:53] SPEAKER_05
+Gavin, you certainly have a table.
+
+[00:58:54] SPEAKER_05
+Why did you choose to make it on the floor?
+
+[00:58:57] SPEAKER_06
+That's just, that's always where I've done puzzles.
+
+[00:59:00] SPEAKER_06
+Do you do, I don't think I've ever done a puzzle on a table.
+
+[00:59:03] SPEAKER_99
+What?
+
+[00:59:04] SPEAKER_05
+That's a, it's a weird choice.
+
+[00:59:08] SPEAKER_05
+Is it?
+
+[00:59:09] SPEAKER_05
+Yeah.
+
+[00:59:09] SPEAKER_05
+I thought the floor was like the go-to place to do a puzzle.
+
+[00:59:11] SPEAKER_06
+No.
+
+[00:59:12] SPEAKER_99
+For a kid.
+
+[00:59:13] SPEAKER_06
+Easy to kick.
+
+[00:59:14] SPEAKER_04
+I mean, Jeff, you're the, you're the puzzle professional here.
+
+[00:59:17] SPEAKER_04
+What do you think?
+
+[00:59:18] SPEAKER_07
+I always do it at a, like on a table.
+
+[00:59:20] SPEAKER_07
+Yeah.
+
+[00:59:21] SPEAKER_07
+I've always done it on a table.
+
+[00:59:22] SPEAKER_07
+I, I, I did that one on my kitchen counter, which is why I had to do it in one sitting.
+
+[00:59:27] SPEAKER_07
+So I just sat down and did it.
+
+[00:59:28] SPEAKER_05
+And then, yeah, that was my plan.
+
+[00:59:30] SPEAKER_05
+I have very fond memories of like going to my grandparents' house and they would have
+
+[00:59:34] SPEAKER_05
+a table with a puzzle on it and you could just work away when you felt like it.
+
+[00:59:38] SPEAKER_07
+I don't know that I've ever done a puzzle in one sitting like that before.
+
+[00:59:42] SPEAKER_07
+That was interesting.
+
+[00:59:43] SPEAKER_07
+You, cause you know, for me, it's like a stress reliever thing, like you're describing with
+
+[00:59:46] SPEAKER_07
+your grandparents.
+
+[00:59:46] SPEAKER_07
+So I do it like an hour a day or a half hour a day.
+
+[00:59:49] SPEAKER_07
+That was, it was fun to do it that focused.
+
+[00:59:52] SPEAKER_06
+So it was a pleasant four hours.
+
+[00:59:54] SPEAKER_06
+It, it flew by.
+
+[00:59:56] SPEAKER_06
+Did you have anything on listening to or like watching TV or something?
+
+[00:59:58] SPEAKER_07
+Yeah, I was listening to podcasts.
+
+[01:00:00] SPEAKER_07
+Uh, I think I was probably listening to like Bill Simmons or something.
+
+[01:00:02] SPEAKER_05
+Where did you go?
+
+[01:00:04] SPEAKER_05
+Yeah.
+
+[01:00:04] SPEAKER_05
+Like, what did you have to do, Gavin, that interrupted you from the puzzle?
+
+[01:00:07] SPEAKER_06
+Oh, I don't remember.
+
+[01:00:08] SPEAKER_06
+It's like a two months ago.
+
+[01:00:10] SPEAKER_06
+I had to go out.
+
+[01:00:12] SPEAKER_05
+I just, I don't know why, like if you had to leave in an hour, I don't know why you'd
+
+[01:00:16] SPEAKER_05
+start a floor puzzle.
+
+[01:00:17] SPEAKER_05
+Yeah.
+
+[01:00:18] SPEAKER_06
+I didn't know how long it would take.
+
+[01:00:19] SPEAKER_05
+I thought you could do it in less than an hour.
+
+[01:00:22] SPEAKER_07
+I definitely got to say as a person who owns a lot of cats and has owned them for a while,
+
+[01:00:27] SPEAKER_07
+a floor anything seems like an odd choice.
+
+[01:00:30] SPEAKER_06
+I think this might be the first puzzle I've done in 20 years.
+
+[01:00:37] SPEAKER_06
+I think I just, okay.
+
+[01:00:39] SPEAKER_06
+I don't think I ever got good at them.
+
+[01:00:40] SPEAKER_06
+You just overconfident.
+
+[01:00:42] SPEAKER_06
+Oh yeah.
+
+[01:00:42] SPEAKER_05
+Done is a strong word.
+
+[01:00:44] SPEAKER_05
+You and I did not do a puzzle.
+
+[01:00:46] SPEAKER_06
+Well, I mean, as far as I, I know you could have just written the date.
+
+[01:00:49] SPEAKER_06
+You didn't, you didn't even put any time in.
+
+[01:00:52] SPEAKER_06
+There's no evidence that you did anything apart from write the date down.
+
+[01:00:56] SPEAKER_05
+Okay.
+
+[01:00:56] SPEAKER_05
+You're right.
+
+[01:00:57] SPEAKER_05
+Give me, I'll, I'll take 15 minutes and I'll throw the pieces on the floor and combine 26
+
+[01:01:03] SPEAKER_05
+pieces.
+
+[01:01:04] SPEAKER_05
+All right.
+
+[01:01:05] SPEAKER_06
+Well, okay.
+
+[01:01:05] SPEAKER_06
+Genius.
+
+[01:01:06] SPEAKER_06
+Genius.
+
+[01:01:06] SPEAKER_06
+Put together the bottom row in 15 minutes.
+
+[01:01:10] SPEAKER_05
+Let me get the pieces out.
+
+[01:01:13] SPEAKER_05
+There's no winning though.
+
+[01:01:14] SPEAKER_05
+Like, I don't know.
+
+[01:01:14] SPEAKER_05
+Like, even if I do that, 15 pieces, it's what, what's the bottom row?
+
+[01:01:21] SPEAKER_05
+Listen, we both fucked this up tremendously.
+
+[01:01:24] SPEAKER_05
+I was so worried about mine knowing I had fucked mine up.
+
+[01:01:28] SPEAKER_05
+And then when you express doubt about submitting stuff and concern, I felt so much better.
+
+[01:01:34] SPEAKER_06
+Well, I want to go back to the original episode and see if I was ever a part of this.
+
+[01:01:38] SPEAKER_06
+Yep.
+
+[01:01:39] SPEAKER_06
+Well, it's available online for free, so you can do that whenever you choose to.
+
+[01:01:44] SPEAKER_05
+And as the person who typically proofs them, you should be the most aware.
+
+[01:01:50] SPEAKER_05
+Well, not if it was never said.
+
+[01:01:53] SPEAKER_07
+Listen, I can't wait to record episode, what is this, 21?
+
+[01:01:58] SPEAKER_07
+I can't wait to record episode 22 for Gavin to go, I got a clip.
+
+[01:02:03] SPEAKER_07
+I've got a clip.
+
+[01:02:04] SPEAKER_07
+You better have a goddamn clip.
+
+[01:02:07] SPEAKER_07
+Either way.
+
+[01:02:07] SPEAKER_07
+I'm sure.
+
+[01:02:08] SPEAKER_07
+He's only going to have a clip if it exonerates him.
+
+[01:02:10] SPEAKER_07
+No, I've had clips against me before.
+
+[01:02:13] SPEAKER_06
+Okay.
+
+[01:02:13] SPEAKER_06
+Oh yeah, that's true.
+
+[01:02:14] SPEAKER_06
+Okay, yes.
+
+[01:02:14] SPEAKER_06
+Fair enough.
+
+[01:02:15] SPEAKER_06
+Fair enough.
+
+[01:02:15] SPEAKER_06
+Look, we can...
+
+[01:02:16] SPEAKER_06
+It was...
+
+[01:02:17] SPEAKER_06
+We'll be taken down.
+
+[01:02:18] SPEAKER_04
+It was back in June.
+
+[01:02:22] SPEAKER_04
+The end...
+
+[01:02:22] SPEAKER_04
+June...
+
+[01:02:23] SPEAKER_04
+Let's see.
+
+[01:02:24] SPEAKER_04
+Let's see what episode this was.
+
+[01:02:25] SPEAKER_04
+I'm trying to narrow in on it.
+
+[01:02:27] SPEAKER_04
+Uh, Jeff shared puzzles, and we talked about puzzles for a while.
+
+[01:02:36] SPEAKER_04
+I really, like, the reason I bought and sent you a puzzle is because you were part of it.
+
+[01:02:40] SPEAKER_04
+So, I don't know, man.
+
+[01:02:42] SPEAKER_04
+I don't know what to tell you.
+
+[01:02:43] SPEAKER_06
+What episode was it?
+
+[01:02:44] SPEAKER_06
+I'm gonna listen to it after this.
+
+[01:02:45] SPEAKER_04
+That's what I'm looking at right now, to see if there's a...
+
+[01:02:48] SPEAKER_04
+It might be eight.
+
+[01:02:50] SPEAKER_04
+Potentially could be eight.
+
+[01:02:51] SPEAKER_04
+That was 500 pieces.
+
+[01:02:53] SPEAKER_07
+Yeah.
+
+[01:02:56] SPEAKER_07
+A thousand piece puzzle would have been a fucking nightmare to do in one sitting.
+
+[01:02:59] SPEAKER_07
+For the record, by the way, this went almost exactly as I expected it to go.
+
+[01:03:06] SPEAKER_04
+Yeah.
+
+[01:03:07] SPEAKER_07
+I was on...
+
+[01:03:07] SPEAKER_06
+I was furious.
+
+[01:03:09] SPEAKER_04
+What?
+
+[01:03:09] SPEAKER_06
+Why?
+
+[01:03:10] SPEAKER_06
+I started it quite excited, and I can't believe how livid I was after about half an hour.
+
+[01:03:15] SPEAKER_05
+I also was very excited.
+
+[01:03:16] SPEAKER_04
+Why didn't you just let Meg help you?
+
+[01:03:19] SPEAKER_04
+She wanted to put together the puzzle so bad.
+
+[01:03:21] SPEAKER_04
+Oh, she did the puzzle.
+
+[01:03:22] SPEAKER_04
+She did it...
+
+[01:03:23] SPEAKER_06
+What?
+
+[01:03:24] SPEAKER_06
+She had it finished, like, less than a week later.
+
+[01:03:25] SPEAKER_06
+She'd already done it.
+
+[01:03:28] SPEAKER_05
+Did she do it on a table?
+
+[01:03:30] SPEAKER_06
+Yeah.
+
+[01:03:37] SPEAKER_05
+Oh, my God.
+
+[01:03:38] SPEAKER_05
+I was trying to find the puzzle.
+
+[01:03:40] SPEAKER_05
+I was like, where did I...
+
+[01:03:41] SPEAKER_05
+Where did I put it?
+
+[01:03:43] SPEAKER_05
+And then I remembered...
+
+[01:03:44] SPEAKER_05
+Oh, it's actually...
+
+[01:03:45] SPEAKER_05
+Remember how I had the Norm DVD supporting the laptop, and I swapped it, and the number
+
+[01:03:52] SPEAKER_05
+was under my nose the entire time.
+
+[01:03:54] SPEAKER_05
+It's just right there.
+
+[01:03:55] SPEAKER_04
+Don't stop.
+
+[01:03:56] SPEAKER_04
+You have to stop showing Gavin your keyboard.
+
+[01:03:58] SPEAKER_04
+He's going to go insane.
+
+[01:04:00] SPEAKER_05
+He's going to get so mad.
+
+[01:04:02] SPEAKER_05
+Absolutely disgusted.
+
+[01:04:03] SPEAKER_05
+That is the honey mustard remnants that I told you about.
+
+[01:04:07] SPEAKER_07
+Yeah.
+
+[01:04:07] SPEAKER_05
+I spilled it.
+
+[01:04:09] SPEAKER_05
+It's a little honey mustard remnants.
+
+[01:04:13] SPEAKER_07
+I, uh...
+
+[01:04:15] SPEAKER_07
+Can I tell you guys, I, uh...
+
+[01:04:16] SPEAKER_07
+I gave myself a good, old-fashioned f*** face the other day.
+
+[01:04:21] SPEAKER_07
+Yeah, you did.
+
+[01:04:22] SPEAKER_07
+Yesterday.
+
+[01:04:22] SPEAKER_07
+What did you do?
+
+[01:04:23] SPEAKER_07
+And I feel like I should share it.
+
+[01:04:24] SPEAKER_07
+I told them last night, Andrew, but you haven't heard it yet.
+
+[01:04:26] SPEAKER_07
+So, yesterday morning, Nick posted to the group a list of about 20 episodes of f*** face that
+
+[01:04:36] SPEAKER_07
+he needed clean audio from.
+
+[01:04:38] SPEAKER_07
+The reason being, we're going back and we're making, like, best ofs and compilations and
+
+[01:04:42] SPEAKER_07
+stuff, and we're doing a sort of, like, a compilation of different periods of the
+
+[01:04:46] SPEAKER_07
+show, and we need to strip out the licensed music.
+
+[01:04:50] SPEAKER_07
+The old intro to the show, because we no longer...
+
+[01:04:53] SPEAKER_07
+Like, I guess we can keep the old episodes up that already have it that were paid for,
+
+[01:04:57] SPEAKER_07
+but we can't, like, reuse it, right?
+
+[01:04:59] SPEAKER_07
+I just thought we couldn't use it for this.
+
+[01:05:01] SPEAKER_06
+Or for this, right?
+
+[01:05:02] SPEAKER_06
+But the old thing is the old thing.
+
+[01:05:04] SPEAKER_04
+The old thing is the old thing.
+
+[01:05:05] SPEAKER_04
+Where we had the rights for it, and then...
+
+[01:05:07] SPEAKER_04
+Right.
+
+[01:05:07] SPEAKER_04
+But if we re-upload now, like, we don't have...
+
+[01:05:11] SPEAKER_07
+It's still the old thing.
+
+[01:05:12] SPEAKER_07
+I don't know.
+
+[01:05:14] SPEAKER_07
+I actually like stripping it out for the purposes of what we're doing here.
+
+[01:05:17] SPEAKER_07
+I think it makes it cleaner.
+
+[01:05:18] SPEAKER_04
+Yeah, I just...
+
+[01:05:19] SPEAKER_04
+I don't know.
+
+[01:05:19] SPEAKER_04
+Like, I'll say, yeah, man, go ahead and just put it up with the music, and then we
+
+[01:05:23] SPEAKER_04
+just deal with the consequences, I guess.
+
+[01:05:25] SPEAKER_04
+I mean, I'm not the arbiter of this.
+
+[01:05:27] SPEAKER_07
+Well, listen, I already f***ed myself, so there's no reason to do all that.
+
+[01:05:32] SPEAKER_07
+So, anyway, he posted a list of, like, 20 episodes.
+
+[01:05:35] SPEAKER_07
+The first one was episode four.
+
+[01:05:38] SPEAKER_07
+It went up into the 50s, right?
+
+[01:05:40] SPEAKER_07
+And he said, like, I just need everybody's audio from these episodes.
+
+[01:05:43] SPEAKER_07
+And I thought, I'm gonna fucking...
+
+[01:05:44] SPEAKER_07
+I'm gung-ho about this.
+
+[01:05:46] SPEAKER_07
+I want to...
+
+[01:05:46] SPEAKER_07
+Anytime Nick needs anything, I feel like Nick does a lot of work for regulation that requires
+
+[01:05:52] SPEAKER_07
+other people to send stuff to him, and I never want to be the holdup for Nick to get shit
+
+[01:05:57] SPEAKER_07
+done.
+
+[01:05:57] SPEAKER_07
+And so I always try to get it done immediately.
+
+[01:05:59] SPEAKER_07
+And so I sat down to find those episodes, and then I realized a couple of things all at
+
+[01:06:02] SPEAKER_07
+once.
+
+[01:06:03] SPEAKER_07
+One, my favorite thing to do at Rooster Teeth was to mislabel every file I ever created.
+
+[01:06:10] SPEAKER_07
+I started doing that to Bernie, like, around season two of Red vs. Blue, and then I did
+
+[01:06:14] SPEAKER_07
+it to Jack for years at Achievement Hunter and the editors, and then I did it to Regulation,
+
+[01:06:20] SPEAKER_07
+to Nick and the editors of F*** Face and Regulation.
+
+[01:06:23] SPEAKER_07
+And what I have is 205 episodes of F*** Face that are labeled things like Sonic's Nutsack
+
+[01:06:31] SPEAKER_07
+dot wave, or Jeff and Eric and Gav and Andrew and Nick talk about something dot wave, or...
+
+[01:06:40] SPEAKER_06
+I'll go and put my folder up.
+
+[01:06:41] SPEAKER_06
+Mine's like, you know, F*** Face 193 Gav, and I'll already see a file in there called like
+
+[01:06:46] SPEAKER_06
+Thursday Mouth Sounds dot wave.
+
+[01:06:50] SPEAKER_06
+Yeah.
+
+[01:06:50] SPEAKER_06
+Words with my face.
+
+[01:06:52] SPEAKER_07
+Yeah.
+
+[01:06:52] SPEAKER_07
+A lot of that stuff.
+
+[01:06:53] SPEAKER_07
+And so that makes it real hard.
+
+[01:06:56] SPEAKER_07
+The other thing that really fucks you is pleasantries are a motherfucker, because the episode starts
+
+[01:07:03] SPEAKER_07
+somewhere between like 90 seconds and 18 minutes into the recording.
+
+[01:07:08] SPEAKER_07
+And you're only getting your feed, so you're listening to a third or a quarter of conversations
+
+[01:07:14] SPEAKER_07
+trying to figure out where the goddamn episode is gonna start.
+
+[01:07:18] SPEAKER_07
+And then, uh, we didn't label the episodes with numbers on the f***ing, uh, podcast apps
+
+[01:07:24] SPEAKER_07
+for the first like 65 episodes, so those are no help.
+
+[01:07:27] SPEAKER_07
+So you're like, just trying to pick a rate, it's, it f***ing hurts so bad.
+
+[01:07:32] SPEAKER_07
+And then another thing that we did that really sucks is I, we just wouldn't do intros, right?
+
+[01:07:36] SPEAKER_07
+So then even if you find the f***ing intro of the episode, you don't say what episode
+
+[01:07:40] SPEAKER_07
+number it is, sometimes we say it at the end.
+
+[01:07:42] SPEAKER_07
+And so finding 20 distinct episodes where I mislabeled them, we don't talk about it for
+
+[01:07:50] SPEAKER_07
+the first nine minutes.
+
+[01:07:51] SPEAKER_07
+When we do talk about it, we refuse to say what episode number it is, and then we don't
+
+[01:07:55] SPEAKER_07
+publish the episode number when we put it online, made it almost f***ing impossible for me to
+
+[01:08:00] SPEAKER_07
+help Nick out, but I did it.
+
+[01:08:02] SPEAKER_07
+It took two and a half hours to find 20 f***ing episodes, and I wanted to pull my f***ing
+
+[01:08:07] SPEAKER_07
+hair out by the end of it.
+
+[01:08:08] SPEAKER_07
+I karmically f***ed faced myself so hard for 22 years of being a d***head with file naming,
+
+[01:08:14] SPEAKER_07
+and I just want everybody that I have wronged in the past through that to know it got me,
+
+[01:08:20] SPEAKER_07
+it got me hard yesterday.
+
+[01:08:22] SPEAKER_06
+Can I, can I tell you what I would have done?
+
+[01:08:24] SPEAKER_06
+Yeah.
+
+[01:08:25] SPEAKER_06
+Uh, I would have looked at the date that the folder was created, and then looked at
+
+[01:08:28] SPEAKER_06
+the date on my file.
+
+[01:08:29] SPEAKER_07
+The date the folder was created was just like an empty folder that didn't have anything
+
+[01:08:34] SPEAKER_07
+in it.
+
+[01:08:35] SPEAKER_07
+It was like created the day, like yesterday.
+
+[01:08:37] SPEAKER_07
+The Google Drive folder?
+
+[01:08:39] SPEAKER_07
+Where I was uploading stuff, yeah.
+
+[01:08:41] SPEAKER_05
+Yeah, those are new.
+
+[01:08:42] SPEAKER_06
+Those are new.
+
+[01:08:42] SPEAKER_06
+But you could just type in, you could just go to the folder of f***ing face 103 or something,
+
+[01:08:46] SPEAKER_06
+and it'll tell you the date.
+
+[01:08:48] SPEAKER_06
+Do we have access to those old Google Drives?
+
+[01:08:50] SPEAKER_06
+I don't think so.
+
+[01:08:51] SPEAKER_06
+I don't think we do.
+
+[01:08:52] SPEAKER_07
+I do.
+
+[01:08:53] SPEAKER_07
+Don't you?
+
+[01:08:54] SPEAKER_07
+No.
+
+[01:08:54] SPEAKER_05
+I think?
+
+[01:08:56] SPEAKER_07
+Yeah, can you send that to Nick?
+
+[01:08:58] SPEAKER_07
+Yeah.
+
+[01:08:58] SPEAKER_04
+Just as an example of what Jeff's talking about, this is a random episode of the f***ing
+
+[01:09:04] SPEAKER_04
+face podcast, and his audio is uploaded as whofuckingknows.wave.
+
+[01:09:11] SPEAKER_06
+Yeah.
+
+[01:09:12] SPEAKER_06
+The only person who never uploaded to these was Nick.
+
+[01:09:15] SPEAKER_06
+Do you have them and not upload them so you're the only person on earth who can actually recreate
+
+[01:09:20] SPEAKER_06
+an episode of f***ing face in its pure form?
+
+[01:09:23] SPEAKER_06
+I am so important right now.
+
+[01:09:26] SPEAKER_06
+Well, you also didn't know about these folders.
+
+[01:09:30] SPEAKER_06
+It's an interesting way to view it, but okay.
+
+[01:09:32] SPEAKER_07
+Well, anyway, anything you can do to make Nick's life easier.
+
+[01:09:34] SPEAKER_07
+It comes too late to help me in any way whatsoever, but that's fine.
+
+[01:09:38] SPEAKER_07
+The universe, it got its pound of flesh yesterday.
+
+[01:09:44] SPEAKER_05
+Do you have any favorite file names, Jeff?
+
+[01:09:45] SPEAKER_05
+Or is it just like, you do the joke and it's gone?
+
+[01:09:48] SPEAKER_07
+Yeah, usually the joke is only for me that makes sense to something that happened to me
+
+[01:09:54] SPEAKER_07
+15 minutes to an hour earlier, and I forget it one second after I make it to myself.
+
+[01:09:59] SPEAKER_07
+Yeah, it doesn't stick with me.
+
+[01:10:02] SPEAKER_07
+They don't look like anything to me.
+
+[01:10:04] SPEAKER_07
+I don't know what they mean when I look back on them.
+
+[01:10:07] SPEAKER_05
+Somebody brought up, I saw a post of my desktop with things, that I apparently have an audacity
+
+[01:10:13] SPEAKER_05
+file called Commercial Takes, that AUP.
+
+[01:10:16] SPEAKER_05
+Oh, that's the one you were talking about.
+
+[01:10:17] SPEAKER_05
+I wonder if that's the like 25 minutes of me just doing different takes.
+
+[01:10:22] SPEAKER_05
+Oh my God.
+
+[01:10:22] SPEAKER_05
+And if so, we should probably release that.
+
+[01:10:25] SPEAKER_07
+If so, we should release that.
+
+[01:10:28] SPEAKER_05
+Because that commercial never came out.
+
+[01:10:30] SPEAKER_05
+I never learned which take they would have went with.
+
+[01:10:34] SPEAKER_04
+Yep.
+
+[01:10:34] SPEAKER_04
+Oh man.
+
+[01:10:36] SPEAKER_04
+Well, we should wrap this episode up.
+
+[01:10:37] SPEAKER_04
+We should.
+
+[01:10:38] SPEAKER_04
+And we should look at that commercial takes thing, because boy, that could be some
+
+[01:10:41] SPEAKER_04
+good supplemental content of just noises.
+
+[01:10:45] SPEAKER_07
+As we wrap this up, let me leave you guys with a thought for some potential supplemental
+
+[01:10:48] SPEAKER_07
+content that I don't think we should make.
+
+[01:10:50] SPEAKER_07
+You guys have heard of time capsules, right?
+
+[01:10:53] SPEAKER_05
+Yeah.
+
+[01:10:54] SPEAKER_07
+Yes.
+
+[01:10:54] SPEAKER_07
+What if we all made a special kind of time capsule where each one of us went and stole
+
+[01:10:59] SPEAKER_07
+one thing from somewhere in the world, and we all put it into a time capsule, we call
+
+[01:11:03] SPEAKER_07
+it a crime capsule, and then we bury it.
+
+[01:11:05] SPEAKER_07
+And if anyone finds it, we all go to jail.
+
+[01:11:08] SPEAKER_04
+Dude, crime capsule rules.
+
+[01:11:13] SPEAKER_07
+Yeah, those are my notes.
+
+[01:11:14] SPEAKER_06
+Oh my God.
+
+[01:11:16] SPEAKER_06
+So we just have to make sure the result of a crime is in there.
+
+[01:11:21] SPEAKER_06
+Yeah.
+
+[01:11:21] SPEAKER_06
+Yeah.
+
+[01:11:22] SPEAKER_06
+Crime capsule.
+
+[01:11:23] SPEAKER_05
+The crime capsule is such a funny sketch where it's like, oh, this is, I didn't pay for the
+
+[01:11:30] SPEAKER_05
+movie.
+
+[01:11:30] SPEAKER_05
+Like it's a low stakes thing.
+
+[01:11:32] SPEAKER_05
+And somebody just puts in a bloody knife.
+
+[01:11:35] SPEAKER_04
+Oh, absolutely.
+
+[01:11:36] SPEAKER_04
+Yeah.
+
+[01:11:36] SPEAKER_04
+Yeah.
+
+[01:11:36] SPEAKER_04
+The escalation, like the heightening for that sketch is so good.
+
+[01:11:40] SPEAKER_04
+That's awesome.
+
+[01:11:41] SPEAKER_04
+Oh, that's so, that's such a funny premise, Jeff.
+
+[01:11:45] SPEAKER_07
+Oh, well, thank you.
+
+[01:11:46] SPEAKER_07
+There you go.
+
+[01:11:46] SPEAKER_07
+Let's think about our, think about our crime capsules and what we would put in there.
+
+[01:11:50] SPEAKER_04
+Wow.
+
+[01:11:50] SPEAKER_04
+I love the crime capsule.
+
+[01:11:53] SPEAKER_07
+All right.
+
+[01:11:53] SPEAKER_07
+Well, thanks for listening to the podcast.
+
+[01:11:56] SPEAKER_07
+What would you put in your crime capsule?
+
+[01:11:58] SPEAKER_07
+Don't actually do it.
+
+[01:11:59] SPEAKER_07
+And if you do do it, don't credit us with it.
+
+[01:12:01] SPEAKER_07
+It was a joke.
+
+[01:12:02] SPEAKER_07
+We're not trying to get anybody killed and put into a capsule, but you should listen to
+
+[01:12:07] SPEAKER_07
+our podcast.
+
+[01:12:08] SPEAKER_07
+Subscribe to our Patreon.
+
+[01:12:09] SPEAKER_07
+If you want to, you can just go to regulatory on.com or Jeff.
+
+[01:12:14] SPEAKER_07
+Jeff.
+
+[01:12:15] SPEAKER_07
+That sucks.
+
+[01:12:16] SPEAKER_07
+I think.
+
+[01:12:17] SPEAKER_07
+Good luck's calling my name.
+
+[01:12:19] SPEAKER_05
+And we'll see you next week.
+
+[01:12:20] SPEAKER_05
+Is putting a swordfish in your ass a crime?
+
+[01:12:23] SPEAKER_05
+Okay.
+
+[01:12:25] SPEAKER_00
+Want to see your rewards go further?
+
+[01:12:28] SPEAKER_00
+Now at Shell, Scene Plus members can fill up on points at the pump, on snacks, car wash,
+
+[01:12:33] SPEAKER_00
+and more.
+
+[01:12:34] SPEAKER_00
+Plus, Scotiabank and Tangerine cardholders can get up to 10 cents per liter in value with
+
+[01:12:39] SPEAKER_00
+a linked card.
+
+[01:12:41] SPEAKER_00
+New rewards partners, new ways to save and earn at Shell.
+
+[01:12:44] SPEAKER_00
+Get more, go further.
+
+[01:12:46] SPEAKER_00
+At participating Shell locations, conditions and limits apply.
+
+[01:12:50] SPEAKER_00
+Actual value may be lower.
+
+[01:12:51] SPEAKER_00
+Visit shell.ca slash loyalty for full details.

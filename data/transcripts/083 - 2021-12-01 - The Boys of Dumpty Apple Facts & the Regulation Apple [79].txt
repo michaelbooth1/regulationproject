@@ -1,0 +1,5580 @@
+# Episode 83: The Boys of Dumpty // Apple Facts & the Regulation Apple [79]
+published: 2021-12-01T08:00:00+00:00  |  duration: 01:12:28
+source: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER4798937471.mp3?updated=1773964813
+transcribed: 2026-08-07T13:58:53.738505-04:00  |  model: large-v3-turbo
+diarization: pyannote/speaker-diarization-3.1
+
+
+[00:00:00] SPEAKER_00
+Gregus believes in the art of living, in choosing the pleasurable over the practical.
+
+[00:00:06] SPEAKER_00
+It's why we craft our premium vodka in France using pure spring water from Genzac.
+
+[00:00:11] SPEAKER_00
+And why you hear the celebratory pop of our cork reminding us to make every martini cocktail count.
+
+[00:00:18] SPEAKER_00
+So go on and make every moment count because there's no better time than now.
+
+[00:00:25] SPEAKER_00
+Gregus. Make. Time. Wait. Sip responsibly.
+
+[00:00:30] SPEAKER_06
+Oh, and welcome to another episode of this podcast called F**kface.
+
+[00:00:44] SPEAKER_06
+Geoff, Gavin, Andrew. How's everybody been in the last eight seconds?
+
+[00:00:49] SPEAKER_06
+Great.
+
+[00:00:50] SPEAKER_05
+That might be the shortest time. Oh, shit. My audio.
+
+[00:00:53] SPEAKER_05
+It might be the shortest time between recording you've ever had.
+
+[00:00:56] SPEAKER_05
+Oh, if I start a new file, it starts repeating myself in my own ears and I got confused.
+
+[00:01:01] SPEAKER_06
+I don't know how it happened. I don't know how. Episode 79, by the way.
+
+[00:01:04] SPEAKER_06
+I don't know how it happened, but I ended. We just ended the podcast and I felt great.
+
+[00:01:08] SPEAKER_06
+I was like on top. I was like, oh, I got my energy back. I had some Gatorade. I'm feeling good.
+
+[00:01:12] SPEAKER_06
+And then the second we started this podcast, it went away.
+
+[00:01:15] SPEAKER_06
+Really? No.
+
+[00:01:17] SPEAKER_06
+Why don't we do a different day then?
+
+[00:01:18] SPEAKER_06
+No, no, no. We got to get through it. Next week's Thanksgiving. We got to do this.
+
+[00:01:22] SPEAKER_06
+It's Thanksgiving for one day and then Black Friday. There's still a whole week before that.
+
+[00:01:26] SPEAKER_06
+Okay. You're making yourself available. Is that what you're saying?
+
+[00:01:29] SPEAKER_06
+Next week I'm available.
+
+[00:01:30] SPEAKER_06
+Mm-hmm.
+
+[00:01:31] SPEAKER_01
+Next week is Nick and Eric.
+
+[00:01:33] SPEAKER_01
+I can. Yeah, I'm good. You guys want to do Tuesday? I mean, we're already recording,
+
+[00:01:38] SPEAKER_01
+so I don't know why we're going to stop.
+
+[00:01:39] SPEAKER_06
+What are we doing? Here's what we should do. Here's what we should do. Let's record.
+
+[00:01:42] SPEAKER_04
+We scheduled what?
+
+[00:01:44] SPEAKER_04
+In the middle of... What do you mean?
+
+[00:01:46] SPEAKER_06
+Let's record next week as well.
+
+[00:01:48] SPEAKER_06
+Oh.
+
+[00:01:49] SPEAKER_06
+Okay. Well, I assume we were going to record next week anyway.
+
+[00:01:52] SPEAKER_06
+I assumed we weren't because it was a holiday week.
+
+[00:01:53] SPEAKER_06
+I also assumed we weren't.
+
+[00:01:55] SPEAKER_06
+Oh, okay.
+
+[00:01:56] SPEAKER_06
+But, you know, with the problem here, Eric, you and Nick and I are the Americans.
+
+[00:02:01] SPEAKER_06
+You know what?
+
+[00:02:02] SPEAKER_06
+Thanksgiving means shit to these two.
+
+[00:02:04] SPEAKER_06
+Yeah, yeah, yeah, yeah.
+
+[00:02:05] SPEAKER_06
+I still barely know what it is.
+
+[00:02:06] SPEAKER_06
+It's our second biggest holiday.
+
+[00:02:08] SPEAKER_04
+It's... I celebrate it.
+
+[00:02:10] SPEAKER_04
+I'll have a turkey going on Thursday.
+
+[00:02:12] SPEAKER_04
+The mashed potatoes and everything.
+
+[00:02:14] SPEAKER_04
+That's awesome.
+
+[00:02:14] SPEAKER_04
+You got to.
+
+[00:02:15] SPEAKER_04
+You got it.
+
+[00:02:15] SPEAKER_04
+You have to.
+
+[00:02:16] SPEAKER_04
+If you watch sports, you have to because I got sick of like, well, also just on social
+
+[00:02:20] SPEAKER_04
+media, you're seeing turkey all day and you feel left out.
+
+[00:02:23] SPEAKER_04
+You need to have it.
+
+[00:02:23] SPEAKER_04
+But even if I didn't work for an American company, I would be celebrating this because
+
+[00:02:28] SPEAKER_04
+it's just...
+
+[00:02:28] SPEAKER_04
+You can't...
+
+[00:02:29] SPEAKER_04
+There's only so much turkey you can have shoved in your face without having it.
+
+[00:02:33] SPEAKER_04
+It ruins my day.
+
+[00:02:35] SPEAKER_04
+Lack of cranberry sauce on Thanksgiving.
+
+[00:02:38] SPEAKER_04
+No mashed potatoes.
+
+[00:02:39] SPEAKER_04
+It's like it's fucking ruined.
+
+[00:02:40] SPEAKER_04
+There's no replacement.
+
+[00:02:41] SPEAKER_04
+Do you get it in that can and it like sloughs out?
+
+[00:02:44] SPEAKER_04
+No.
+
+[00:02:44] SPEAKER_04
+Like a soda.
+
+[00:02:44] SPEAKER_04
+No, no, no, no, no.
+
+[00:02:45] SPEAKER_04
+I'm making my own cranberry sauce.
+
+[00:02:47] SPEAKER_04
+You don't make your own cranberry.
+
+[00:02:48] SPEAKER_04
+You got to make your own.
+
+[00:02:49] SPEAKER_05
+You got to make your own.
+
+[00:02:50] SPEAKER_05
+Yeah.
+
+[00:02:50] SPEAKER_05
+What?
+
+[00:02:51] SPEAKER_05
+You actually like buy cranberries?
+
+[00:02:52] SPEAKER_04
+You buy cranberries, you put them in the pan, they start popping.
+
+[00:02:56] SPEAKER_04
+Oh, it's a time, Gavin.
+
+[00:02:57] SPEAKER_05
+You put them in a glass of water, you eat them in the bar.
+
+[00:02:59] SPEAKER_04
+When you have your five-star meal in my bathtub, I'm going to get a candle for you.
+
+[00:03:04] SPEAKER_04
+I'll make you some fresh cranberry sauce.
+
+[00:03:05] SPEAKER_04
+It's going to be a great time.
+
+[00:03:07] SPEAKER_06
+You put on your favorite, Maya, you put on your favorite Dolphins fight song.
+
+[00:03:11] SPEAKER_06
+Yeah.
+
+[00:03:12] SPEAKER_06
+Or maybe it's the Chicago Bears if you want to support your rookie.
+
+[00:03:15] SPEAKER_06
+And you just pop a few.
+
+[00:03:16] SPEAKER_06
+Oh, somebody needs to.
+
+[00:03:17] SPEAKER_06
+The coach isn't helping.
+
+[00:03:19] SPEAKER_04
+Someone needs to support Justin Fields.
+
+[00:03:21] SPEAKER_04
+He has no offensive line.
+
+[00:03:22] SPEAKER_06
+I got a thing about that, too.
+
+[00:03:23] SPEAKER_06
+That's talking about stuff not being evergreen.
+
+[00:03:26] SPEAKER_06
+First off, can I just at the top hit a couple of notes just so I can feel like I made some
+
+[00:03:31] SPEAKER_06
+progress on myself?
+
+[00:03:32] SPEAKER_06
+Yeah, please.
+
+[00:03:32] SPEAKER_06
+Please do.
+
+[00:03:33] SPEAKER_06
+Number one, here's the first thing I wrote down.
+
+[00:03:34] SPEAKER_06
+Let's all record our farts and then see if we can tell them apart.
+
+[00:03:39] SPEAKER_06
+Oh, I can't do them.
+
+[00:03:40] SPEAKER_05
+You can't fart?
+
+[00:03:41] SPEAKER_05
+Well, they're just really quiet.
+
+[00:03:44] SPEAKER_05
+I'd have to have a microphone in my colon to get any sound, I think.
+
+[00:03:47] SPEAKER_06
+Well, I'm not opposed to that if we need to do it.
+
+[00:03:53] SPEAKER_06
+I'm about to do a whole colon thing tomorrow.
+
+[00:03:55] SPEAKER_06
+I can pick up some pointers from the doctor about inserting cameras and shit.
+
+[00:04:00] SPEAKER_06
+I think it would be fun.
+
+[00:04:01] SPEAKER_06
+We get a bunch.
+
+[00:04:02] SPEAKER_06
+Everybody farts.
+
+[00:04:03] SPEAKER_06
+We label it with some random name so we don't know who it is.
+
+[00:04:06] SPEAKER_06
+And then we mix it up and then we give it to Nick or somebody.
+
+[00:04:09] SPEAKER_06
+Well, I would like Nick to be a part of it, actually.
+
+[00:04:10] SPEAKER_06
+So we give it to somebody who's outside of the episode.
+
+[00:04:13] SPEAKER_06
+And then we listen to it and we all see if we can get it right.
+
+[00:04:18] SPEAKER_06
+I think it could be fun.
+
+[00:04:20] SPEAKER_06
+Gavin, if you can't fart, that in itself will be fun.
+
+[00:04:22] SPEAKER_06
+You'll be easy to figure out because you'll be the one that goes...
+
+[00:04:25] SPEAKER_06
+Maybe I'll eat two tins of beans and see what I can work up.
+
+[00:04:29] SPEAKER_04
+The Fiber One bars, I'm telling you.
+
+[00:04:32] SPEAKER_04
+Get some Fiber One bars going.
+
+[00:04:33] SPEAKER_04
+You'll get a fire.
+
+[00:04:34] SPEAKER_04
+Oh, you'll be going.
+
+[00:04:36] SPEAKER_06
+Eric said good name.
+
+[00:04:37] SPEAKER_06
+Gavin, you didn't get credit for that.
+
+[00:04:38] SPEAKER_06
+I might have missed it.
+
+[00:04:39] SPEAKER_06
+What was the name?
+
+[00:04:40] SPEAKER_06
+Wheel of Fartune.
+
+[00:04:41] SPEAKER_06
+That's a great...
+
+[00:04:42] SPEAKER_04
+Oh, that is a great name.
+
+[00:04:43] SPEAKER_04
+Wheel of Fartune.
+
+[00:04:43] SPEAKER_06
+That is a great name.
+
+[00:04:44] SPEAKER_06
+Wheel of Fartune.
+
+[00:04:45] SPEAKER_04
+That's a fantastic name.
+
+[00:04:46] SPEAKER_04
+I was trying to conjure a fart during the Cosmic Crisp review the entire time as a protest
+
+[00:04:50] SPEAKER_04
+move and I just couldn't.
+
+[00:04:51] SPEAKER_04
+It wasn't...
+
+[00:04:52] SPEAKER_05
+You were going to fart in the middle of us to eat apples?
+
+[00:04:54] SPEAKER_05
+You're an animal.
+
+[00:04:54] SPEAKER_04
+I was...
+
+[00:04:55] SPEAKER_04
+No, I was trying really hard.
+
+[00:04:56] SPEAKER_04
+It was the only thing I could do.
+
+[00:04:58] SPEAKER_04
+It's the only weapon I had and I couldn't build it in time.
+
+[00:05:00] SPEAKER_04
+The bomb was not ready.
+
+[00:05:01] SPEAKER_04
+I should have went in prepared.
+
+[00:05:02] SPEAKER_06
+Oh, you know what I think we should do while the Cosmic Crisp apples still exist at our
+
+[00:05:07] SPEAKER_06
+tea?
+
+[00:05:07] SPEAKER_06
+Yeah.
+
+[00:05:08] SPEAKER_06
+I think...
+
+[00:05:09] SPEAKER_06
+And then, Andrew, obviously...
+
+[00:05:10] SPEAKER_06
+Actually, maybe we should wait until you're able to get one.
+
+[00:05:13] SPEAKER_06
+But the day you get a Cosmic Crisp, I think all of us, Nick and Eric included, should put
+
+[00:05:18] SPEAKER_06
+a Cosmic Crisp apple in our fridge in the back and then we all agree to pull it out 365
+
+[00:05:25] SPEAKER_06
+days later and eat it.
+
+[00:05:26] SPEAKER_04
+Yep.
+
+[00:05:27] SPEAKER_06
+I think we got it.
+
+[00:05:28] SPEAKER_06
+We got to test.
+
+[00:05:29] SPEAKER_06
+We got to test the longevity of the apple.
+
+[00:05:30] SPEAKER_06
+It's one of their major bragging points.
+
+[00:05:33] SPEAKER_06
+It's one of the major selling points about that apple.
+
+[00:05:35] SPEAKER_05
+What about when this winter all of my power goes off for four days?
+
+[00:05:38] SPEAKER_06
+What do I do then?
+
+[00:05:39] SPEAKER_06
+You'll be fine because it's 20 degrees outside when your power goes off.
+
+[00:05:42] SPEAKER_06
+The apples will be...
+
+[00:05:43] SPEAKER_06
+Oh, take it out of the fridge and put it outside.
+
+[00:05:45] SPEAKER_04
+It'll be fine.
+
+[00:05:45] SPEAKER_04
+Okay.
+
+[00:05:46] SPEAKER_04
+Wait a second.
+
+[00:05:47] SPEAKER_04
+You're the guy that was giving me shit about refrigerating my apples.
+
+[00:05:50] SPEAKER_04
+Did you just ask me what would happen if you were not able to refrigerate an apple?
+
+[00:05:54] SPEAKER_04
+Is that what just happened?
+
+[00:05:55] SPEAKER_05
+I'm saying if I'm like 10 months in...
+
+[00:05:56] SPEAKER_05
+Is that what just happened?
+
+[00:05:57] SPEAKER_05
+Am I like fridge locked to it?
+
+[00:05:59] SPEAKER_04
+Oh, so at what point does it become acceptable to like refrigerate an apple, according to
+
+[00:06:04] SPEAKER_04
+you?
+
+[00:06:05] SPEAKER_99
+What?
+
+[00:06:06] SPEAKER_05
+No, my only point was I don't buy enough apples to need to store them that long.
+
+[00:06:10] SPEAKER_06
+Yeah.
+
+[00:06:11] SPEAKER_06
+I'll just eat them as they're out.
+
+[00:06:12] SPEAKER_06
+And it feels weird to eat a cold apple versus a room temperature apple.
+
+[00:06:15] SPEAKER_06
+Yeah.
+
+[00:06:15] SPEAKER_06
+I agree.
+
+[00:06:15] SPEAKER_06
+But the selling point of...
+
+[00:06:17] SPEAKER_06
+But this is...
+
+[00:06:18] SPEAKER_06
+Irrespective of Gavin and whatever we agree or disagree with in him, the major selling
+
+[00:06:23] SPEAKER_06
+point of the Cosmic Crisp is that it lasts up to a year in a fridge, so I want to see
+
+[00:06:26] SPEAKER_06
+that.
+
+[00:06:27] SPEAKER_06
+I think we need to test it.
+
+[00:06:28] SPEAKER_04
+I agree.
+
+[00:06:29] SPEAKER_04
+No, I completely agree.
+
+[00:06:30] SPEAKER_04
+I think it's a great idea.
+
+[00:06:31] SPEAKER_06
+So the day you get your hand on a Cosmic Crisp, let us know, and we'll figure it out on this
+
+[00:06:38] SPEAKER_06
+end.
+
+[00:06:38] SPEAKER_05
+I just really want to find out if the 8 rating stands for an apple you've eaten.
+
+[00:06:45] SPEAKER_05
+Yeah.
+
+[00:06:45] SPEAKER_05
+I do too.
+
+[00:06:46] SPEAKER_04
+We'll find out.
+
+[00:06:47] SPEAKER_04
+Let me see if I can...
+
+[00:06:50] SPEAKER_04
+I'll check right now.
+
+[00:06:51] SPEAKER_04
+I don't think I'll be able to order one, but there's a website.
+
+[00:06:54] SPEAKER_04
+It doesn't matter.
+
+[00:06:55] SPEAKER_04
+Anyway, continue.
+
+[00:06:55] SPEAKER_04
+Sorry.
+
+[00:06:56] SPEAKER_04
+What other notes do you have, Jack?
+
+[00:06:57] SPEAKER_06
+Man, I got so much.
+
+[00:06:58] SPEAKER_06
+I realized we had a comment lever regulation listener named Ben Davis, who's really awesome.
+
+[00:07:06] SPEAKER_06
+He's very communicative on social, who made a really cool action figure of me in a port-a-potty
+
+[00:07:14] SPEAKER_06
+that I want to show you guys at some point that I think I should have talked about last
+
+[00:07:17] SPEAKER_06
+episode, but I was fucking...
+
+[00:07:19] SPEAKER_06
+You've seen a little bit of it.
+
+[00:07:19] SPEAKER_06
+That's really cool.
+
+[00:07:20] SPEAKER_06
+I also wanted to show you guys, I got a really, really cool baseball card out of a random
+
+[00:07:28] SPEAKER_06
+ass drop the other day, and I was so blown away by it that I had to...
+
+[00:07:33] SPEAKER_06
+I have to...
+
+[00:07:33] SPEAKER_06
+I wanted to show you guys immediately, but I figured it'd be better to do it on camera.
+
+[00:07:37] SPEAKER_06
+This is a baseball card I legit pulled from a pack.
+
+[00:07:39] SPEAKER_06
+I bought it at a baseball card shop the other day.
+
+[00:07:41] SPEAKER_06
+Didn't know this card existed.
+
+[00:07:42] SPEAKER_06
+It's a cool...
+
+[00:07:42] SPEAKER_06
+Oh.
+
+[00:07:43] SPEAKER_06
+Oh, the boys of Zimmer.
+
+[00:07:45] SPEAKER_06
+The boys of Zimmer.
+
+[00:07:47] SPEAKER_06
+It's Ryan Sandberg, Andre Dawson, and Greg Maddox.
+
+[00:07:50] SPEAKER_06
+These would have been Chicago Cubs in probably 1990, 1991, and I was so blown away, I thought
+
+[00:07:58] SPEAKER_06
+it would be fun for us.
+
+[00:08:00] SPEAKER_06
+We need to remake this baseball card with us and sell it as a poster.
+
+[00:08:05] SPEAKER_06
+Boys of Zimmer.
+
+[00:08:06] SPEAKER_05
+Which one would you be?
+
+[00:08:08] SPEAKER_05
+Jeff, you'd have to be in the middle.
+
+[00:08:10] SPEAKER_06
+I would like to be Andre Dawson, if I'm being honest with you.
+
+[00:08:13] SPEAKER_06
+He is...
+
+[00:08:14] SPEAKER_06
+All those guys are Hall of Famers, but Andre Dawson's the coolest motherfucker, and he's
+
+[00:08:18] SPEAKER_06
+got a cool pose.
+
+[00:08:19] SPEAKER_04
+I want a bat.
+
+[00:08:19] SPEAKER_04
+I want to hold the bat.
+
+[00:08:20] SPEAKER_04
+All right.
+
+[00:08:21] SPEAKER_04
+Andrew's the bat.
+
+[00:08:22] SPEAKER_04
+Andrew's Ryan Sandberg.
+
+[00:08:23] SPEAKER_05
+I'm Greg Maddox, and I'm just holding my own hand.
+
+[00:08:26] SPEAKER_05
+You are.
+
+[00:08:26] SPEAKER_05
+Looking like...
+
+[00:08:26] SPEAKER_05
+It looks like you're holding your dick, dude.
+
+[00:08:30] SPEAKER_05
+And I'm also looking at the others.
+
+[00:08:32] SPEAKER_04
+What you're doing is you're covering your phone.
+
+[00:08:35] SPEAKER_04
+You have just received a text from Jeff, and you're affectionately looking at how great
+
+[00:08:39] SPEAKER_04
+the text was.
+
+[00:08:40] SPEAKER_04
+That's what I'm doing.
+
+[00:08:42] SPEAKER_05
+I'm really excited to respond.
+
+[00:08:44] SPEAKER_06
+Anyway, just a little thing, but fucking very, very cool.
+
+[00:08:48] SPEAKER_06
+I thought that I would share that with you guys.
+
+[00:08:50] SPEAKER_06
+Don Zimmer continues to make his presence known in our lives weekly, despite the fact
+
+[00:08:57] SPEAKER_06
+that the man is dead.
+
+[00:08:58] SPEAKER_06
+Did he coach all three of them?
+
+[00:09:00] SPEAKER_06
+I guess he must have.
+
+[00:09:01] SPEAKER_06
+Yeah.
+
+[00:09:02] SPEAKER_04
+What?
+
+[00:09:03] SPEAKER_04
+What a weird...
+
+[00:09:04] SPEAKER_04
+What?
+
+[00:09:05] SPEAKER_04
+Did he coach all...
+
+[00:09:06] SPEAKER_04
+No, he coached two of them, and one of them never met him.
+
+[00:09:08] SPEAKER_04
+It's the boys' Zimmer card.
+
+[00:09:10] SPEAKER_04
+What are you fucking talking about?
+
+[00:09:11] SPEAKER_04
+Maybe the dumbest question I've ever heard you ask.
+
+[00:09:13] SPEAKER_04
+Two of them were his players.
+
+[00:09:15] SPEAKER_04
+I was just a Zimmer fan.
+
+[00:09:16] SPEAKER_05
+No, but it might be like, they're an organization.
+
+[00:09:18] SPEAKER_05
+I don't know, one person knew him, I don't know.
+
+[00:09:21] SPEAKER_04
+Oh, yeah, the baseball team, the Zimmers, everyone's favorite.
+
+[00:09:24] SPEAKER_04
+These are the boys.
+
+[00:09:26] SPEAKER_04
+Do you think these are his sons, Gavin?
+
+[00:09:27] SPEAKER_04
+Like, what are you fucking...
+
+[00:09:29] SPEAKER_04
+What are you asking?
+
+[00:09:30] SPEAKER_04
+Did they play for him?
+
+[00:09:32] SPEAKER_04
+What did you say?
+
+[00:09:33] SPEAKER_04
+Did you...
+
+[00:09:34] SPEAKER_04
+Was a player even know?
+
+[00:09:36] SPEAKER_04
+Did they know him?
+
+[00:09:37] SPEAKER_04
+Had they met Don Zimmer?
+
+[00:09:39] SPEAKER_04
+The fucking boys' Zimmer card.
+
+[00:09:42] SPEAKER_05
+So you're putting that up there, top three dumbest questions on the Facebook
+
+[00:09:45] SPEAKER_05
+cast, do you think?
+
+[00:09:47] SPEAKER_04
+I'm not saying overall.
+
+[00:09:48] SPEAKER_04
+I'm saying it's one of the dumbest questions I've ever heard you ask on this show.
+
+[00:09:52] SPEAKER_05
+I'm just surprised his face isn't on there.
+
+[00:09:54] SPEAKER_05
+That's mainly it.
+
+[00:09:55] SPEAKER_05
+I'm just like, what do these people have to do with it?
+
+[00:09:56] SPEAKER_04
+Well, he's not a boy of himself.
+
+[00:09:58] SPEAKER_04
+Why would he be on the...
+
+[00:09:59] SPEAKER_04
+These are the boys of Zimmer.
+
+[00:10:01] SPEAKER_04
+Boys of me.
+
+[00:10:04] SPEAKER_04
+They're not his sons.
+
+[00:10:06] SPEAKER_04
+What the fuck?
+
+[00:10:07] SPEAKER_04
+Like, it's a teletop...
+
+[00:10:08] SPEAKER_04
+You want fucking Zimmer's head in the top right, just looking down on them?
+
+[00:10:11] SPEAKER_04
+Like, what do you want?
+
+[00:10:12] SPEAKER_04
+Where's Zimmer in this card?
+
+[00:10:13] SPEAKER_05
+It's just expecting a lot.
+
+[00:10:14] SPEAKER_05
+It's expecting every single person who sees that to know who Don Zimmer is.
+
+[00:10:18] SPEAKER_04
+Sure.
+
+[00:10:19] SPEAKER_04
+But, like, what are you...
+
+[00:10:21] SPEAKER_04
+I don't...
+
+[00:10:22] SPEAKER_04
+I'm so...
+
+[00:10:23] SPEAKER_04
+I don't know how to reply to that.
+
+[00:10:24] SPEAKER_04
+I got so many issues with that statement.
+
+[00:10:26] SPEAKER_04
+I don't know where to begin.
+
+[00:10:27] SPEAKER_04
+You're buying baseball cards.
+
+[00:10:28] SPEAKER_06
+In the world of baseball, Don Zimmer is so famous that simply putting the boys of Zimmer on a card, instantly every baseball fan on earth knows who they're talking about.
+
+[00:10:38] SPEAKER_04
+I don't think there's a single person, Gavin, who knows who the guys on the card are, who would then not know who Zimmer is.
+
+[00:10:45] SPEAKER_04
+It's like a baseball card.
+
+[00:10:51] SPEAKER_05
+It's like a baseball card that just said, the boys of Baker, and it was a picture of three hands.
+
+[00:10:56] SPEAKER_06
+If it was Dusty Baker, that would make sense.
+
+[00:10:58] SPEAKER_06
+Would it?
+
+[00:11:03] SPEAKER_06
+Well, if it was three Houston Astros, I guess.
+
+[00:11:06] SPEAKER_06
+Okay.
+
+[00:11:07] SPEAKER_04
+But they were called the...
+
+[00:11:09] SPEAKER_04
+It was a whole...
+
+[00:11:10] SPEAKER_04
+I think you're taking the boy thing is where it's really thrown you, Gavin.
+
+[00:11:13] SPEAKER_04
+It's like, it's what they were called.
+
+[00:11:14] SPEAKER_04
+It was the boys of Zimmer.
+
+[00:11:15] SPEAKER_04
+The whole team was.
+
+[00:11:17] SPEAKER_04
+Because the tape, that VHS that we're going to watch, isn't that called, like, the boys of Zimmer as well?
+
+[00:11:21] SPEAKER_04
+I think so.
+
+[00:11:22] SPEAKER_06
+Yeah.
+
+[00:11:23] SPEAKER_04
+I believe it was.
+
+[00:11:23] SPEAKER_06
+And it's like a playoff, the boys of summer, right?
+
+[00:11:26] SPEAKER_99
+Yeah.
+
+[00:11:27] SPEAKER_06
+Other little one I just threw up.
+
+[00:11:28] SPEAKER_06
+It's just a picture of Humpty Dumpty that I ran into when I was in Detroit.
+
+[00:11:31] SPEAKER_06
+I had a whole Apple weekend.
+
+[00:11:32] SPEAKER_06
+I kind of covered it in the supplemental episode, so I don't need to go through it again.
+
+[00:11:37] SPEAKER_06
+But I couldn't remember if I shared that creepy ass fucking Humpty Dumpty with y'all or not.
+
+[00:11:44] SPEAKER_06
+But it definitely stuck out to me.
+
+[00:11:47] SPEAKER_06
+Once again, Humpty Dumpty also.
+
+[00:11:48] SPEAKER_06
+Don Zimmer, Humpty Dumpty, they're everywhere in the world.
+
+[00:11:51] SPEAKER_06
+You just don't realize it until you open your eyes.
+
+[00:11:53] SPEAKER_06
+See, that would make sense.
+
+[00:11:55] SPEAKER_06
+The boys of Dumpty and Three Eggs.
+
+[00:11:57] SPEAKER_05
+Everyone would know who that would talk about.
+
+[00:12:04] SPEAKER_05
+What's wrong, Eric?
+
+[00:12:05] SPEAKER_05
+What don't you get?
+
+[00:12:06] SPEAKER_05
+The boys of Dumpty?
+
+[00:12:09] SPEAKER_05
+Well, it's the same format.
+
+[00:12:11] SPEAKER_04
+I don't know.
+
+[00:12:12] SPEAKER_04
+It's a global name.
+
+[00:12:15] SPEAKER_04
+Guess who just got back today?
+
+[00:12:20] SPEAKER_04
+The boys of Dumpty that had been away.
+
+[00:12:27] SPEAKER_05
+Jesus.
+
+[00:12:29] SPEAKER_05
+And I'd also be wondering their connection to Dumpty himself.
+
+[00:12:35] SPEAKER_05
+Are they affiliated?
+
+[00:12:36] SPEAKER_05
+Like, were they in the same packet of eggs?
+
+[00:12:38] SPEAKER_01
+Were they also cannons?
+
+[00:12:40] SPEAKER_05
+Yeah, were they cannons?
+
+[00:12:41] SPEAKER_05
+Were they muskets?
+
+[00:12:43] SPEAKER_01
+That's where my confusion is, because we talked about how Humpty Dumpty wasn't necessarily an egg.
+
+[00:12:50] SPEAKER_01
+And so your thing is, it would be an egg, but then he wouldn't be on there as an egg, but we know he's a cannon.
+
+[00:12:58] SPEAKER_01
+So it's just three eggs?
+
+[00:13:01] SPEAKER_01
+And it says, boys of Dumpty?
+
+[00:13:03] SPEAKER_01
+I just don't think it's a strong format.
+
+[00:13:12] SPEAKER_01
+I agree.
+
+[00:13:15] SPEAKER_01
+If it said, if the first thing we saw was boys of Dumpty and three eggs, I would say this format's incredibly weak.
+
+[00:13:29] SPEAKER_06
+This is so funny.
+
+[00:13:30] SPEAKER_06
+I feel bad for the, I feel bad about the last episode.
+
+[00:13:33] SPEAKER_01
+Oh, God.
+
+[00:13:37] SPEAKER_04
+Oh, God.
+
+[00:13:38] SPEAKER_04
+Do you think, Gavin, did somebody have to sit the eggs down?
+
+[00:13:43] SPEAKER_04
+Did someone have to sit the boys down and explain what happened to Humpty?
+
+[00:13:47] SPEAKER_04
+It was a tragic accident.
+
+[00:13:51] SPEAKER_04
+We tried.
+
+[00:13:53] SPEAKER_01
+We could not put it back.
+
+[00:13:55] SPEAKER_05
+It was three sad eggs.
+
+[00:13:57] SPEAKER_05
+Oh.
+
+[00:13:58] SPEAKER_04
+I'm also deeply alarmed by the slushy flavors in that photo.
+
+[00:14:01] SPEAKER_04
+What the fuck is a blue razz?
+
+[00:14:03] SPEAKER_04
+What is a blue razz?
+
+[00:14:05] SPEAKER_05
+Blue slushy is a raspberry flavor, aren't they?
+
+[00:14:08] SPEAKER_04
+But, what?
+
+[00:14:10] SPEAKER_05
+It's like the universal slushy color for a raspberry to differentiate from straws.
+
+[00:14:15] SPEAKER_03
+Really?
+
+[00:14:16] SPEAKER_05
+I think so.
+
+[00:14:17] SPEAKER_04
+Okay.
+
+[00:14:18] SPEAKER_04
+Like a blue slush puppy?
+
+[00:14:20] SPEAKER_04
+I never would associate that as like a raspberry.
+
+[00:14:23] SPEAKER_04
+Huh.
+
+[00:14:23] SPEAKER_04
+You wouldn't?
+
+[00:14:25] SPEAKER_04
+No.
+
+[00:14:25] SPEAKER_04
+It's just blue.
+
+[00:14:26] SPEAKER_04
+It just tastes blue.
+
+[00:14:28] SPEAKER_04
+It has a blue taste.
+
+[00:14:29] SPEAKER_04
+I mean, you know it's all based on a fruit, right?
+
+[00:14:31] SPEAKER_04
+What fruit would you think?
+
+[00:14:33] SPEAKER_04
+I would assume blueberry.
+
+[00:14:35] SPEAKER_04
+If you're going blue.
+
+[00:14:36] SPEAKER_04
+Like typically you make the color match the fruit that it is, not the other way.
+
+[00:14:41] SPEAKER_05
+But does anyone really, on the tip of their tongue, know what a blueberry flavor tastes like?
+
+[00:14:46] SPEAKER_05
+Yeah, I love blueberry.
+
+[00:14:47] SPEAKER_05
+What are you talking about?
+
+[00:14:48] SPEAKER_06
+I'm a big blueberry fan too.
+
+[00:14:50] SPEAKER_06
+It's up there.
+
+[00:14:51] SPEAKER_05
+I mean, I'm a fan.
+
+[00:14:52] SPEAKER_05
+I like the flavor.
+
+[00:14:53] SPEAKER_05
+It's just not, you can't like pluck it from memory as easy as a strawberry.
+
+[00:14:57] SPEAKER_04
+I don't even know what you're saying at that point.
+
+[00:14:59] SPEAKER_04
+I don't know how to argue.
+
+[00:15:02] SPEAKER_03
+The memory.
+
+[00:15:05] SPEAKER_05
+Like it doesn't remember well.
+
+[00:15:08] SPEAKER_05
+What does that mean?
+
+[00:15:09] SPEAKER_05
+It what?
+
+[00:15:11] SPEAKER_06
+It what?
+
+[00:15:13] SPEAKER_06
+It doesn't remember well?
+
+[00:15:15] SPEAKER_05
+Like what does a dragon fruit taste like?
+
+[00:15:17] SPEAKER_05
+Do you remember?
+
+[00:15:17] SPEAKER_04
+I've never had one.
+
+[00:15:18] SPEAKER_04
+I don't think I've never had one.
+
+[00:15:19] SPEAKER_04
+Never tasted it.
+
+[00:15:19] SPEAKER_05
+Okay.
+
+[00:15:20] SPEAKER_05
+Bad example.
+
+[00:15:22] SPEAKER_04
+There's not a single fruit that I've had that I couldn't like remember what it tasted like.
+
+[00:15:27] SPEAKER_06
+Really?
+
+[00:15:28] SPEAKER_06
+Yeah.
+
+[00:15:29] SPEAKER_06
+What do you mean?
+
+[00:15:30] SPEAKER_06
+I think I'm with Andrew on that one.
+
+[00:15:31] SPEAKER_06
+Yeah.
+
+[00:15:32] SPEAKER_05
+Oh shit.
+
+[00:15:33] SPEAKER_05
+You have fruit forgetfulness.
+
+[00:15:35] SPEAKER_05
+It's only a little bit.
+
+[00:15:36] SPEAKER_05
+Like if I ate one, I'd be like, that's definitely a blueberry.
+
+[00:15:39] SPEAKER_05
+Like if I ate one blindfolded.
+
+[00:15:40] SPEAKER_05
+Right.
+
+[00:15:41] SPEAKER_05
+You would recognize it.
+
+[00:15:42] SPEAKER_06
+If I drank blueberry flavor, I don't think.
+
+[00:15:45] SPEAKER_06
+Oh.
+
+[00:15:46] SPEAKER_06
+I didn't mean to send the.
+
+[00:15:47] SPEAKER_06
+Sorry.
+
+[00:15:47] SPEAKER_06
+Continue.
+
+[00:15:48] SPEAKER_04
+So, okay.
+
+[00:15:49] SPEAKER_04
+Gavin, if we're doing, if we're making a poster that said the boys of berries, what berries
+
+[00:15:54] SPEAKER_04
+are you putting on?
+
+[00:15:55] SPEAKER_04
+What are the three?
+
+[00:15:57] SPEAKER_04
+What are your berry types?
+
+[00:15:59] SPEAKER_05
+Well, strawberry and raspberry are in and probably banana.
+
+[00:16:04] SPEAKER_04
+A banana is a berry.
+
+[00:16:05] SPEAKER_04
+I remember that was a crazy.
+
+[00:16:07] SPEAKER_04
+Banana is still chalky.
+
+[00:16:08] SPEAKER_04
+I will stand to that.
+
+[00:16:10] SPEAKER_04
+It is a chalky texture.
+
+[00:16:11] SPEAKER_05
+You got bad banana memory.
+
+[00:16:13] SPEAKER_04
+You don't even have fruit memory.
+
+[00:16:14] SPEAKER_04
+I can't trust anything that you say about what fruit tastes like.
+
+[00:16:18] SPEAKER_04
+You don't remember.
+
+[00:16:19] SPEAKER_05
+They're not chalky.
+
+[00:16:20] SPEAKER_05
+Chalky to me is like almost like powdery in terms of texture and taste.
+
+[00:16:26] SPEAKER_04
+I don't know.
+
+[00:16:27] SPEAKER_04
+I'm just, I'm telling you, I'm telling you how it is.
+
+[00:16:29] SPEAKER_04
+And I think is the, I think is the highest ranked Halo Infinite player here.
+
+[00:16:34] SPEAKER_04
+I think my opinion stands above yours.
+
+[00:16:36] SPEAKER_04
+What are you gold for?
+
+[00:16:38] SPEAKER_04
+As, as the, as a diamond, as a diamond one.
+
+[00:16:41] SPEAKER_04
+Okay.
+
+[00:16:42] SPEAKER_04
+I don't want to, your, your fruit opinions are wrong and I will hold to this.
+
+[00:16:46] SPEAKER_06
+What's the correlation between fruit and Halo?
+
+[00:16:49] SPEAKER_04
+Oh, it's just rank.
+
+[00:16:50] SPEAKER_04
+You know, Jeff, as you brought up, it's a military ranking in the past.
+
+[00:16:53] SPEAKER_04
+I just feel like I, I hold a higher standing.
+
+[00:16:55] SPEAKER_04
+In an argument, I could just, I'll pull rank.
+
+[00:16:58] SPEAKER_04
+I'll pull Halo rank.
+
+[00:16:59] SPEAKER_06
+Regardless of how relevant it is.
+
+[00:17:01] SPEAKER_06
+You'll pull Halo rank.
+
+[00:17:02] SPEAKER_06
+You got to be careful of that because Gavin could get himself promoted real quickly.
+
+[00:17:06] SPEAKER_06
+There's no way Gavin's ever going to pass me in Halo rank.
+
+[00:17:09] SPEAKER_04
+There's a 0% chance.
+
+[00:17:11] SPEAKER_05
+It could happen.
+
+[00:17:11] SPEAKER_05
+I could play with some good people.
+
+[00:17:13] SPEAKER_05
+They could track me up.
+
+[00:17:15] SPEAKER_04
+I don't know about that.
+
+[00:17:17] SPEAKER_06
+Maybe some of Jeff's new friends.
+
+[00:17:18] SPEAKER_06
+Yeah.
+
+[00:17:19] SPEAKER_06
+Wait till I find my new friends.
+
+[00:17:20] SPEAKER_06
+You can play with them.
+
+[00:17:21] SPEAKER_06
+Then they won't be my friends anymore.
+
+[00:17:22] SPEAKER_06
+They'll leave me for you.
+
+[00:17:23] SPEAKER_06
+Hey, do you want to play Halo tonight?
+
+[00:17:25] SPEAKER_06
+Uh, yeah.
+
+[00:17:26] SPEAKER_06
+With you?
+
+[00:17:27] SPEAKER_06
+Yeah.
+
+[00:17:28] SPEAKER_04
+Yeah.
+
+[00:17:28] SPEAKER_04
+Andrew?
+
+[00:17:29] SPEAKER_04
+Are we doing ranked or like, what are we, what are we doing?
+
+[00:17:32] SPEAKER_04
+Do some, do some ranked?
+
+[00:17:33] SPEAKER_04
+Uh, uh, ranked.
+
+[00:17:37] SPEAKER_05
+Face, place, Halo?
+
+[00:17:38] SPEAKER_06
+I like that.
+
+[00:17:39] SPEAKER_06
+I like that.
+
+[00:17:40] SPEAKER_06
+One thing I would like to add, uh, before we move on, just cause he, he did such a great
+
+[00:17:44] SPEAKER_06
+job with it.
+
+[00:17:44] SPEAKER_06
+I just, I wanted to send this poster or this picture of the accessories been made to go
+
+[00:17:50] SPEAKER_06
+along with this action figure, including a, an iced coffee, four different hands so that
+
+[00:17:56] SPEAKER_06
+I can have different hand articulations, a butterfly net, uh, to, I don't know, to catch
+
+[00:18:01] SPEAKER_06
+apples with, uh, and then a fish and pull.
+
+[00:18:03] SPEAKER_04
+So I've been getting updates on this, Jeff, for like a year at this point.
+
+[00:18:07] SPEAKER_04
+I've been, a lot of people have apparently.
+
+[00:18:09] SPEAKER_04
+I've seen piece by piece.
+
+[00:18:10] SPEAKER_04
+Yeah.
+
+[00:18:10] SPEAKER_04
+And it is amazing.
+
+[00:18:11] SPEAKER_04
+And then seeing it all come together.
+
+[00:18:12] SPEAKER_04
+It is wonderful.
+
+[00:18:13] SPEAKER_04
+I love the, uh, the port-a-potty photo shoot.
+
+[00:18:16] SPEAKER_04
+It's perfect.
+
+[00:18:17] SPEAKER_04
+Yeah.
+
+[00:18:17] SPEAKER_04
+He shot it in the real port-a-potty.
+
+[00:18:19] SPEAKER_06
+Yeah.
+
+[00:18:20] SPEAKER_06
+Cause he, how did he do it though?
+
+[00:18:22] SPEAKER_06
+Uh, well, I think talent, uh, but it's like how many different talents do you need to do
+
+[00:18:27] SPEAKER_06
+that?
+
+[00:18:27] SPEAKER_06
+So he works in the film industry in England and he is in, uh, like art department.
+
+[00:18:32] SPEAKER_06
+I, I, I'm not exactly sure of what his, and he told me, but you know, uh, it's hard to
+
+[00:18:38] SPEAKER_06
+remember the particulars, but he is in the art department.
+
+[00:18:40] SPEAKER_06
+He, he does a lot of graphic work.
+
+[00:18:42] SPEAKER_06
+He does some physical work and then he, uh, I guess is real tight with all the other people
+
+[00:18:47] SPEAKER_06
+in the art department and they do this kind of stuff for fun occasionally.
+
+[00:18:50] SPEAKER_06
+Like, and so he got some other people to make maquettes and, and they, yeah, it's fucking,
+
+[00:18:55] SPEAKER_06
+it's the craziest thing about it is I took my clothes off.
+
+[00:18:57] SPEAKER_06
+I got a dick and it's not bad.
+
+[00:18:59] SPEAKER_06
+It's like a real dick.
+
+[00:19:02] SPEAKER_06
+He took me.
+
+[00:19:03] SPEAKER_06
+Do you guys want to see my dick?
+
+[00:19:04] SPEAKER_06
+I'll show you.
+
+[00:19:04] SPEAKER_06
+No, I think I'm good.
+
+[00:19:06] SPEAKER_06
+No, I want to see.
+
+[00:19:08] SPEAKER_06
+And, uh, he's, he's got, he's in the fucking Don Pedro shirt.
+
+[00:19:12] SPEAKER_06
+My, all my tattoos are there physically, the real tattoos, which is insanity.
+
+[00:19:16] SPEAKER_06
+Is my nose on there?
+
+[00:19:18] SPEAKER_06
+Uh, I believe so.
+
+[00:19:19] SPEAKER_06
+Yes.
+
+[00:19:20] SPEAKER_06
+I'm excited about taking this photo of my fucking cock.
+
+[00:19:22] SPEAKER_06
+All right.
+
+[00:19:27] SPEAKER_06
+Pull your little pants back up, Jeffy.
+
+[00:19:29] SPEAKER_06
+Pull your little pants up.
+
+[00:19:30] SPEAKER_06
+Jesus.
+
+[00:19:32] SPEAKER_06
+Stuck on your butt.
+
+[00:19:33] SPEAKER_06
+Okay.
+
+[00:19:34] SPEAKER_06
+There we go.
+
+[00:19:40] SPEAKER_06
+So stupid.
+
+[00:19:41] SPEAKER_06
+It's like a real doll.
+
+[00:19:42] SPEAKER_06
+Well, TBD, I'll let you know how it fucks.
+
+[00:19:48] SPEAKER_06
+If I, he, Eric said it's like a real doll, so I said I'll let you know how it fucks.
+
+[00:19:52] SPEAKER_06
+Uh, no, I, not actually going to have sex with it, but.
+
+[00:19:56] SPEAKER_04
+I, yeah.
+
+[00:19:57] SPEAKER_04
+Oh.
+
+[00:19:58] SPEAKER_06
+Oh, God.
+
+[00:20:00] SPEAKER_06
+There's pubes on it and bulls.
+
+[00:20:01] SPEAKER_06
+I got a bell, I've got a bell in.
+
+[00:20:04] SPEAKER_06
+You're circumcised.
+
+[00:20:06] SPEAKER_06
+I am circumcised.
+
+[00:20:07] SPEAKER_06
+I got a dick.
+
+[00:20:08] SPEAKER_06
+I can't wait.
+
+[00:20:10] SPEAKER_06
+Why did he put that?
+
+[00:20:14] SPEAKER_06
+Well, I'll tell you something else, Gavin.
+
+[00:20:16] SPEAKER_06
+Our artists are an interesting bunch.
+
+[00:20:18] SPEAKER_06
+Did you know that this is years and years and years ago at the day job, we had an online
+
+[00:20:23] SPEAKER_06
+comic called RT Comics.
+
+[00:20:25] SPEAKER_06
+And another Canadian, a guy named Luke McKay, he drew it and then my ex-wife wrote the comics.
+
+[00:20:31] SPEAKER_06
+And Luke would draw us.
+
+[00:20:33] SPEAKER_06
+It was all the RT characters and like, you know, whatever scenarios that she wrote for
+
+[00:20:38] SPEAKER_06
+them.
+
+[00:20:38] SPEAKER_06
+He drew our dicks under every pair of pants.
+
+[00:20:42] SPEAKER_06
+Every time he drew anybody from our company, he drew a dick before he put the pants on.
+
+[00:20:46] SPEAKER_06
+He showed me in Photoshop layers.
+
+[00:20:48] SPEAKER_06
+He's like, when I put the books together, you know, because we had like five books, he
+
+[00:20:51] SPEAKER_06
+would show me.
+
+[00:20:51] SPEAKER_06
+He'd be like, hey, you want to see your dick?
+
+[00:20:52] SPEAKER_06
+There it is.
+
+[00:20:53] SPEAKER_06
+Every fucking time he drew any of us from the, from the knees up, they had a dick the entire
+
+[00:20:58] SPEAKER_06
+time.
+
+[00:20:58] SPEAKER_06
+How was the detail?
+
+[00:21:00] SPEAKER_06
+It was a commissar with the rest of his art, you know, similar.
+
+[00:21:03] SPEAKER_06
+In vain and style.
+
+[00:21:05] SPEAKER_06
+That's interesting.
+
+[00:21:06] SPEAKER_04
+I can't wait for Jack to look at these images without context.
+
+[00:21:09] SPEAKER_04
+That's going to be a good one.
+
+[00:21:12] SPEAKER_05
+We should start, we should start having Jack record like one minute summaries of the episodes,
+
+[00:21:17] SPEAKER_05
+but he hasn't listened to them yet.
+
+[00:21:20] SPEAKER_05
+And put them as like, next week on F*** Face.
+
+[00:21:24] SPEAKER_06
+Oh, oh, how about this?
+
+[00:21:27] SPEAKER_06
+Do you guys think we need some sort of a hand signal or handshake?
+
+[00:21:31] SPEAKER_06
+Because I came up with one.
+
+[00:21:32] SPEAKER_04
+Well, I feel like that was, yeah, we talked about that, right?
+
+[00:21:36] SPEAKER_04
+Like, we're going to invent the next.
+
+[00:21:37] SPEAKER_04
+Yeah, that was the whole thing we discussed.
+
+[00:21:39] SPEAKER_06
+When did we discuss that?
+
+[00:21:40] SPEAKER_04
+That was like two episodes ago, like around the Dusty Baker thing, which kind of led into
+
+[00:21:44] SPEAKER_04
+the high five different things of like a long distance, a new version of it.
+
+[00:21:49] SPEAKER_06
+I guess that must have been why it was rattling around in the back of my head.
+
+[00:21:52] SPEAKER_06
+And but I hit me the other day.
+
+[00:21:53] SPEAKER_06
+I think I came up with something.
+
+[00:21:55] SPEAKER_06
+We asked people to send them.
+
+[00:21:57] SPEAKER_06
+OK, well, I came up with one of my own.
+
+[00:21:58] SPEAKER_06
+Did anybody send any?
+
+[00:22:00] SPEAKER_04
+Yeah, there was one that I think was like called the belly flop or something, or it
+
+[00:22:03] SPEAKER_04
+was like both hands downward.
+
+[00:22:06] SPEAKER_04
+I want to say this is a few weeks ago at this point.
+
+[00:22:08] SPEAKER_04
+So it's not clear.
+
+[00:22:10] SPEAKER_04
+It's not fresh in my mind, but I'm excited to see yours.
+
+[00:22:13] SPEAKER_06
+Nothing of note.
+
+[00:22:14] SPEAKER_06
+I think I'm going to film it right now just because it's easier to show you guys.
+
+[00:22:17] SPEAKER_06
+So let me put my video.
+
+[00:22:18] SPEAKER_06
+I'm going to record.
+
+[00:22:20] SPEAKER_06
+We starts with a baseball baseball bat.
+
+[00:22:22] SPEAKER_06
+Choke up swing into an apple.
+
+[00:22:24] SPEAKER_06
+And then you take a bite out of it.
+
+[00:22:27] SPEAKER_04
+It sounds like you're just doing a tick tock dance.
+
+[00:22:29] SPEAKER_06
+No, no.
+
+[00:22:30] SPEAKER_06
+I feel like I just heard a tick tock dance.
+
+[00:22:32] SPEAKER_06
+There's no dancing going on.
+
+[00:22:34] SPEAKER_06
+Let me just.
+
+[00:22:35] SPEAKER_06
+Can I get that up?
+
+[00:22:37] SPEAKER_05
+Let's watch this be too big for this.
+
+[00:22:39] SPEAKER_04
+It's going to be too big.
+
+[00:22:40] SPEAKER_04
+So I'm holding my hands like I'm holding a bat.
+
+[00:22:43] SPEAKER_04
+Is that phase one?
+
+[00:22:45] SPEAKER_06
+Yeah.
+
+[00:22:45] SPEAKER_06
+Phase one is the bat.
+
+[00:22:46] SPEAKER_04
+OK, so are both people doing this or is one hand of each person?
+
+[00:22:52] SPEAKER_04
+No, you just don't when you see somebody.
+
+[00:22:54] SPEAKER_05
+OK, yeah.
+
+[00:22:54] SPEAKER_05
+All right.
+
+[00:22:55] SPEAKER_05
+I'm going to watch this now.
+
+[00:22:56] SPEAKER_04
+I don't know.
+
+[00:22:56] SPEAKER_04
+Where's the high five part?
+
+[00:22:58] SPEAKER_05
+There is no high five.
+
+[00:22:59] SPEAKER_04
+What are we?
+
+[00:23:01] SPEAKER_04
+What was the what was that?
+
+[00:23:03] SPEAKER_04
+Well, it was a hand signal.
+
+[00:23:05] SPEAKER_04
+OK, a hand signal.
+
+[00:23:06] SPEAKER_04
+Got it.
+
+[00:23:06] SPEAKER_06
+Yeah, I didn't say anything about a high five.
+
+[00:23:08] SPEAKER_06
+I just said that we need like a handshake or a signal.
+
+[00:23:10] SPEAKER_05
+Maybe if you do that into a crowd of people and anyone does it back, they know that you're
+
+[00:23:14] SPEAKER_05
+a f*** facer.
+
+[00:23:15] SPEAKER_05
+They know that you're a regulation listener.
+
+[00:23:17] SPEAKER_06
+Like NBA players, when they when they go out onto the court, they do like 75 different wacky
+
+[00:23:21] SPEAKER_06
+hand side, like handshake thing.
+
+[00:23:24] SPEAKER_06
+And they like touch their toe and then touch their elbows and do a cool thing.
+
+[00:23:26] SPEAKER_06
+I thought it'd be cool if we had our own version of it.
+
+[00:23:28] SPEAKER_06
+OK.
+
+[00:23:28] SPEAKER_06
+And I think it hits baseball because we used to be a baseball podcast and then it hits
+
+[00:23:32] SPEAKER_06
+apples because we are an Apple podcast.
+
+[00:23:34] SPEAKER_06
+And I thought it's like it's a combination of the old and the new.
+
+[00:23:37] SPEAKER_04
+I feel like it's a universal sign if you're a boy of Zimmer or not.
+
+[00:23:40] SPEAKER_06
+You got to be careful.
+
+[00:23:42] SPEAKER_06
+It's that like the only area you got to worry about is when you're making the Apple sign
+
+[00:23:45] SPEAKER_06
+with your hands.
+
+[00:23:46] SPEAKER_06
+So you got to be careful.
+
+[00:23:47] SPEAKER_06
+You're not making one of those anime hearts that everybody loves to do because it's not
+
+[00:23:50] SPEAKER_06
+it's an Apple.
+
+[00:23:51] SPEAKER_06
+We're not taking a bite out of a heart.
+
+[00:23:52] SPEAKER_06
+Oh, I bite out of a big Apple.
+
+[00:23:54] SPEAKER_05
+I just don't think I've ever taken a bite out of an Apple that I'm holding with both
+
+[00:23:57] SPEAKER_05
+hands.
+
+[00:24:01] SPEAKER_06
+I need both hands to make the Apple the representation of the Apple.
+
+[00:24:07] SPEAKER_06
+Why do you have to be difficult?
+
+[00:24:08] SPEAKER_04
+Do you?
+
+[00:24:09] SPEAKER_04
+Yeah, I feel like you could.
+
+[00:24:10] SPEAKER_04
+Otherwise, you just have a half of one hand.
+
+[00:24:12] SPEAKER_04
+I feel like you got to like pretend that you're like rubbing it off on your shirt.
+
+[00:24:15] SPEAKER_06
+And then you know, well, now that's interesting.
+
+[00:24:19] SPEAKER_06
+Rubbing it off on your shirt is interesting.
+
+[00:24:20] SPEAKER_06
+I do think, though, if you you you so you start with part one, the swing, you swing that
+
+[00:24:24] SPEAKER_06
+if any of you just come with one hand and you make like a half circle, it just looks
+
+[00:24:27] SPEAKER_06
+like you're taking a you've got a baseball now because you've just hit something with
+
+[00:24:30] SPEAKER_06
+a baseball bat.
+
+[00:24:31] SPEAKER_06
+I think the Apple sells it.
+
+[00:24:32] SPEAKER_05
+So you're saying that the second hand differentiates a baseball from an Apple.
+
+[00:24:36] SPEAKER_06
+Yes, the second hand differentiates a baseball from an Apple.
+
+[00:24:39] SPEAKER_06
+Thank you.
+
+[00:24:40] SPEAKER_04
+I will say I think if you just show a photo of to people of you doing your Apple gesture,
+
+[00:24:46] SPEAKER_04
+I don't know how many of them would say that you're making an Apple with your hands.
+
+[00:24:49] SPEAKER_06
+Well, that's because it's designed to be viewed fluidly as a video.
+
+[00:24:52] SPEAKER_06
+It's not a stat.
+
+[00:24:53] SPEAKER_06
+It's not a static thing.
+
+[00:24:55] SPEAKER_06
+Do you have an Apple shirt on?
+
+[00:24:56] SPEAKER_06
+I do have an Apple shirt on.
+
+[00:24:57] SPEAKER_06
+Yeah.
+
+[00:24:58] SPEAKER_05
+So have you been more into apples or cider?
+
+[00:25:00] SPEAKER_05
+Like, what was that trip mainly about?
+
+[00:25:01] SPEAKER_05
+Was it about I guess you're not drinking like alcoholic cider?
+
+[00:25:04] SPEAKER_06
+No, that trip was it was my yearly Apple trip.
+
+[00:25:06] SPEAKER_06
+Uh, and it's, it's honestly, it's about two things.
+
+[00:25:09] SPEAKER_06
+It's a well, three things.
+
+[00:25:10] SPEAKER_06
+It's about cider, fresh, hot cider on a cold day.
+
+[00:25:15] SPEAKER_06
+It's about, uh, apple cinnamon donuts, like these hot apple cinnamon donuts you get in,
+
+[00:25:21] SPEAKER_06
+in, in Michigan.
+
+[00:25:23] SPEAKER_06
+And, and it's about, uh, apple sliced apples with caramel drizzled on it and nuts.
+
+[00:25:27] SPEAKER_06
+That's what I always get when I go.
+
+[00:25:28] SPEAKER_06
+Those are like the big three things, but it's like, it's like an apple orgy, dude.
+
+[00:25:32] SPEAKER_06
+Andrew would lose his fucking mind.
+
+[00:25:34] SPEAKER_06
+It's, it's insane.
+
+[00:25:36] SPEAKER_06
+It's in Detroit.
+
+[00:25:36] SPEAKER_06
+It would, it would be like Shangri-La outside of, outside of Detroit.
+
+[00:25:39] SPEAKER_06
+Yeah.
+
+[00:25:39] SPEAKER_06
+Like in Grosse Pointe, that area.
+
+[00:25:40] SPEAKER_06
+Yeah.
+
+[00:25:41] SPEAKER_06
+There's apples, there's cider mills everywhere.
+
+[00:25:43] SPEAKER_06
+And it's just like apples for days.
+
+[00:25:45] SPEAKER_06
+Huh?
+
+[00:25:45] SPEAKER_06
+Yeah.
+
+[00:25:45] SPEAKER_06
+It's really cool.
+
+[00:25:46] SPEAKER_06
+That's where I got the shirt from.
+
+[00:25:47] SPEAKER_04
+Could I, is there like, hmm, could we, is there like a days of summer type thing,
+
+[00:25:53] SPEAKER_04
+but with apples just touring like different parts of the U S getting the apples as they
+
+[00:25:58] SPEAKER_04
+ripen across the season?
+
+[00:26:00] SPEAKER_06
+I think that's a great idea.
+
+[00:26:01] SPEAKER_04
+Maybe that's like a journey I go on fully embrace the apple lifestyle.
+
+[00:26:05] SPEAKER_04
+I think there's a lot you could learn from it.
+
+[00:26:07] SPEAKER_06
+I like, for instance, I have a bunch of apple facts I could throw out.
+
+[00:26:10] SPEAKER_06
+Ooh, I'd love an apple fact.
+
+[00:26:13] SPEAKER_06
+Did you know that apples are the second most valuable fruit in the United States?
+
+[00:26:17] SPEAKER_06
+Oranges are the first.
+
+[00:26:19] SPEAKER_06
+These are, um, there were a bunch of apple signs and I just took pictures of all of them
+
+[00:26:22] SPEAKER_06
+at the cider mill so I could say.
+
+[00:26:24] SPEAKER_04
+Sounds like a top tier fruit.
+
+[00:26:25] SPEAKER_06
+Johnny Appleseed Chapman brought a small variety of apples from Europe.
+
+[00:26:29] SPEAKER_06
+He spent his life planting apple trees across America.
+
+[00:26:31] SPEAKER_06
+Who cares?
+
+[00:26:32] SPEAKER_06
+Uh, don't care about him.
+
+[00:26:33] SPEAKER_06
+Uh, here we go.
+
+[00:26:34] SPEAKER_06
+The most beautiful apples are known to grow in the state of what?
+
+[00:26:38] SPEAKER_06
+The most beautiful.
+
+[00:26:39] SPEAKER_06
+We're talking just apple beautiful.
+
+[00:26:41] SPEAKER_06
+Where are the most beautiful?
+
+[00:26:42] SPEAKER_06
+There's a little bit of apple trivia for you.
+
+[00:26:44] SPEAKER_06
+Maine.
+
+[00:26:45] SPEAKER_06
+All right.
+
+[00:26:45] SPEAKER_06
+That Gavin's answer is Maine.
+
+[00:26:47] SPEAKER_06
+Andrew, where do you think the most beautiful apples in America are going?
+
+[00:26:50] SPEAKER_04
+Uh, uh, let's, I'm going to, I'm going to say they're going to keep it.
+
+[00:26:54] SPEAKER_04
+They're going to, it's a humble brag.
+
+[00:26:55] SPEAKER_04
+They're ragging about themselves.
+
+[00:26:56] SPEAKER_04
+I'm going to say Michigan.
+
+[00:26:57] SPEAKER_06
+Michigan.
+
+[00:26:58] SPEAKER_06
+All right.
+
+[00:26:58] SPEAKER_06
+And Eric, your answer is Washington.
+
+[00:27:00] SPEAKER_06
+Nick, do you have a, you have, do you want to weigh in here?
+
+[00:27:02] SPEAKER_06
+Do you care?
+
+[00:27:03] SPEAKER_06
+I mean, Washington have like the, the organization, don't they?
+
+[00:27:06] SPEAKER_06
+The answer is Washington.
+
+[00:27:08] SPEAKER_06
+Yeah.
+
+[00:27:08] SPEAKER_06
+The most beautiful apples are known to grow in the state of Washington.
+
+[00:27:11] SPEAKER_06
+However, the most flavorful are in the Eastern States.
+
+[00:27:15] SPEAKER_06
+While Washington ranks number one in producing apples in the United States at nearly 60%,
+
+[00:27:19] SPEAKER_06
+New York, believe it or not, is number two at 11%.
+
+[00:27:22] SPEAKER_06
+Michigan is a distant third with 8%.
+
+[00:27:26] SPEAKER_04
+Cosmic crisp apple is from Washington.
+
+[00:27:28] SPEAKER_04
+That is, that is correct.
+
+[00:27:30] SPEAKER_04
+Eric was asking.
+
+[00:27:31] SPEAKER_04
+It is, it is a Washington apple.
+
+[00:27:33] SPEAKER_04
+Those are my apple facts.
+
+[00:27:34] SPEAKER_04
+I learned that like the granny Smith apple was made accidentally.
+
+[00:27:38] SPEAKER_04
+Learned that the other day.
+
+[00:27:39] SPEAKER_04
+One was just like throwing apples out her window and accidentally made the granny Smith apple.
+
+[00:27:43] SPEAKER_05
+Wait, what?
+
+[00:27:44] SPEAKER_04
+The, the, the inventor of the granny Smith apple accidentally made it.
+
+[00:27:48] SPEAKER_04
+She was throwing crab apples out her window and they lived on like an orchard and it just
+
+[00:27:53] SPEAKER_04
+happened to mix with a different type of apple and it, it created the, the granny Smith apple.
+
+[00:27:59] SPEAKER_04
+Complete accident.
+
+[00:28:01] SPEAKER_04
+That brings up a question I have.
+
+[00:28:04] SPEAKER_04
+What's so funny about that, Gavin?
+
+[00:28:05] SPEAKER_04
+She died two years later.
+
+[00:28:06] SPEAKER_04
+She never even got to live in the world of the granny Smith apple.
+
+[00:28:10] SPEAKER_04
+Was her last name Smith?
+
+[00:28:12] SPEAKER_04
+Uh, it was, it was her husband's last name and they both died two years later.
+
+[00:28:16] SPEAKER_04
+And then somebody bought the orchard and was like, I'll just call them granny Smith apples.
+
+[00:28:20] SPEAKER_04
+And then they became super famous.
+
+[00:28:22] SPEAKER_05
+What a, what a sweet homage.
+
+[00:28:24] SPEAKER_05
+Yeah.
+
+[00:28:24] SPEAKER_05
+If they didn't realize what they'd come up with though, why would it be a memorable story?
+
+[00:28:29] SPEAKER_04
+What do you mean?
+
+[00:28:30] SPEAKER_04
+What are you asking?
+
+[00:28:31] SPEAKER_04
+Sorry.
+
+[00:28:32] SPEAKER_04
+Yeah.
+
+[00:28:32] SPEAKER_04
+Why are you asking?
+
+[00:28:33] SPEAKER_05
+Did they, did they know the success of the apple?
+
+[00:28:36] SPEAKER_05
+Okay.
+
+[00:28:36] SPEAKER_04
+So she made the app, she would like make apples and apple pies.
+
+[00:28:41] SPEAKER_04
+And like sell them.
+
+[00:28:42] SPEAKER_04
+And then she made this apple that was like, holy fuck, this is a good apple.
+
+[00:28:45] SPEAKER_04
+People like this apple.
+
+[00:28:46] SPEAKER_04
+It's a great baking apple.
+
+[00:28:48] SPEAKER_04
+She had some success with it.
+
+[00:28:50] SPEAKER_04
+And she had somebody come in and like characterize and be like, yeah, this is a new species of apple.
+
+[00:28:55] SPEAKER_04
+She started growing it.
+
+[00:28:56] SPEAKER_04
+Then she died.
+
+[00:28:57] SPEAKER_04
+Then her husband died like shortly after.
+
+[00:28:59] SPEAKER_04
+And then somebody just bought the orchard and just mass produced them.
+
+[00:29:03] SPEAKER_04
+So she never got, yeah.
+
+[00:29:05] SPEAKER_04
+Like the person that created the granny Smith apple has no real awareness of how popular it became.
+
+[00:29:10] SPEAKER_04
+It didn't become like a huge success until after the guy bought everything.
+
+[00:29:14] SPEAKER_05
+So what if we just took every single known apple and had like a big food fight with a hundred people throwing these apples?
+
+[00:29:21] SPEAKER_05
+Would we potentially make an apple in the middle somewhere?
+
+[00:29:24] SPEAKER_06
+I don't.
+
+[00:29:25] SPEAKER_06
+Not.
+
+[00:29:26] SPEAKER_06
+Oh, this is such, this is where I wanted to take this.
+
+[00:29:29] SPEAKER_06
+That is phenomenal, Gavin.
+
+[00:29:31] SPEAKER_06
+That's a great idea.
+
+[00:29:32] SPEAKER_06
+I want us to make our own apple.
+
+[00:29:34] SPEAKER_99
+Okay.
+
+[00:29:35] SPEAKER_06
+Why not?
+
+[00:29:37] SPEAKER_06
+Why not?
+
+[00:29:37] SPEAKER_06
+This is what, this is what, that was a note I had written down.
+
+[00:29:39] SPEAKER_06
+And I'm, I'm, I'm seeing you birth the idea in front of me.
+
+[00:29:42] SPEAKER_06
+That's exactly what we need to do.
+
+[00:29:44] SPEAKER_06
+I think we could do a little bit with a little bit more intent, but I love the random nature of it.
+
+[00:29:48] SPEAKER_06
+But like the cosmic crisp was invented in our lifetimes.
+
+[00:29:51] SPEAKER_06
+So why can't we invent the facer or whatever we call it?
+
+[00:29:55] SPEAKER_06
+The regulation apple.
+
+[00:29:56] SPEAKER_06
+Regulation apple.
+
+[00:29:57] SPEAKER_06
+Oh, oh, it's like it was meant to be a regulation apple.
+
+[00:30:03] SPEAKER_06
+That's what everybody needs.
+
+[00:30:05] SPEAKER_06
+Then you know out the gate what you're getting.
+
+[00:30:08] SPEAKER_06
+Oh, we've got to invent it.
+
+[00:30:09] SPEAKER_06
+Oh, we have to invent an apple that's regulation.
+
+[00:30:13] SPEAKER_05
+So what, what are the, uh, requirements for crossbreeding?
+
+[00:30:16] SPEAKER_05
+Do we need, do we need like one seed from one?
+
+[00:30:20] SPEAKER_05
+Like how does an apple, how does an apple make a baby?
+
+[00:30:23] SPEAKER_04
+I feel like I don't, for what it sounds like we just need a viable window.
+
+[00:30:27] SPEAKER_04
+We just need a good window to throw some apples out of.
+
+[00:30:30] SPEAKER_06
+Are we going to get into splicing?
+
+[00:30:32] SPEAKER_06
+I think you have to splice it.
+
+[00:30:34] SPEAKER_06
+I mean, Granny Smith didn't.
+
+[00:30:35] SPEAKER_06
+Granny Smith did not splice.
+
+[00:30:37] SPEAKER_05
+It sounded like she just had a lawn full of rot that made an apple.
+
+[00:30:42] SPEAKER_06
+It sounded like Granny Smith's backyard trash can just yielded unexpected results.
+
+[00:30:49] SPEAKER_06
+Anyway, well, we'll look into it, right?
+
+[00:30:50] SPEAKER_06
+Yeah.
+
+[00:30:51] SPEAKER_06
+I don't know how to make an apple, but I think we could invent one.
+
+[00:30:53] SPEAKER_06
+And then when we invent our own apple, here's where we go with it, right?
+
+[00:30:57] SPEAKER_06
+So we invent the apple, takes the nation by storm, eventually the world, hopefully.
+
+[00:31:02] SPEAKER_06
+Then we follow up with it.
+
+[00:31:03] SPEAKER_06
+We already working on it in the background because it's going to take a while.
+
+[00:31:06] SPEAKER_06
+Then we follow up with our boom, our, our fucking, our badass hot cider, whatever that is.
+
+[00:31:11] SPEAKER_06
+Regulation cider.
+
+[00:31:12] SPEAKER_06
+And that's, people love cider.
+
+[00:31:14] SPEAKER_06
+Great on a cold day.
+
+[00:31:15] SPEAKER_06
+You can, we can make, some people can mix booze with it if they're into that thing.
+
+[00:31:19] SPEAKER_06
+Uh, I see a lot of potential for us here.
+
+[00:31:21] SPEAKER_04
+I, I apologize if we've already covered it.
+
+[00:31:24] SPEAKER_04
+I feel like we let into this episode and then haven't actually touched on the thing.
+
+[00:31:27] SPEAKER_04
+You wanted to create an unscrumpable bag.
+
+[00:31:30] SPEAKER_04
+I feel like this also ties into that.
+
+[00:31:32] SPEAKER_06
+Well, yeah, that's why I asked earlier before I dumped into that, I dove in and I said, are
+
+[00:31:36] SPEAKER_06
+we going to continue with apples or should I peel it back?
+
+[00:31:40] SPEAKER_06
+Get it, peel it back.
+
+[00:31:41] SPEAKER_06
+Should I peel it back?
+
+[00:31:42] SPEAKER_06
+Right.
+
+[00:31:42] SPEAKER_06
+Because, uh, because I don't want to dump a lot of energy into, in, on the apple front
+
+[00:31:46] SPEAKER_06
+if it's not a direction that the podcast is headed.
+
+[00:31:49] SPEAKER_06
+You know, I don't want to just like, I just want to sit and retread old ground.
+
+[00:31:52] SPEAKER_06
+Uh, because there's a whole world of apples out there I was not aware of.
+
+[00:31:55] SPEAKER_06
+Do you guys know there's black apples?
+
+[00:31:57] SPEAKER_06
+I've never heard of a black apple.
+
+[00:31:59] SPEAKER_06
+Yeah.
+
+[00:31:59] SPEAKER_05
+Yeah.
+
+[00:32:00] SPEAKER_05
+Let me find it.
+
+[00:32:00] SPEAKER_05
+I also saw people post the pictures of, uh, of an apple that's like red on the inside.
+
+[00:32:04] SPEAKER_05
+It's like pinkish.
+
+[00:32:06] SPEAKER_04
+I didn't see that.
+
+[00:32:08] SPEAKER_05
+I want to try that one.
+
+[00:32:09] SPEAKER_06
+That looks good.
+
+[00:32:09] SPEAKER_06
+I also want to try it.
+
+[00:32:11] SPEAKER_06
+Yeah.
+
+[00:32:11] SPEAKER_06
+Look at this.
+
+[00:32:12] SPEAKER_06
+Oh, this is a freak out.
+
+[00:32:13] SPEAKER_06
+It's a little freaky.
+
+[00:32:14] SPEAKER_06
+Oh, that's Apple watch.
+
+[00:32:18] SPEAKER_06
+Uh, here we go.
+
+[00:32:19] SPEAKER_06
+Copy.
+
+[00:32:19] SPEAKER_04
+This is called waiting for Jeff to just send his action figure dick again.
+
+[00:32:23] SPEAKER_04
+I'm not like, I'm not, I don't expect that.
+
+[00:32:25] SPEAKER_06
+I warned you.
+
+[00:32:26] SPEAKER_06
+I was sending you my action figure dick.
+
+[00:32:28] SPEAKER_06
+I didn't just throw it at you unannounced.
+
+[00:32:30] SPEAKER_06
+Okay.
+
+[00:32:30] SPEAKER_06
+Uh, boom.
+
+[00:32:31] SPEAKER_06
+There you go.
+
+[00:32:31] SPEAKER_06
+That's what a black diamond apple looks like.
+
+[00:32:33] SPEAKER_06
+Cost about seven bucks an apple.
+
+[00:32:36] SPEAKER_06
+They're expensive.
+
+[00:32:37] SPEAKER_06
+Wonder what the case of it looks like you're looking into space.
+
+[00:32:39] SPEAKER_06
+It looks like you're looking into space.
+
+[00:32:42] SPEAKER_06
+Should we, should we have a rare apple taste?
+
+[00:32:44] SPEAKER_06
+Well, we're going to need, we're going to need apple experience if we're going to invent
+
+[00:32:50] SPEAKER_06
+the next apple.
+
+[00:32:50] SPEAKER_06
+Yeah.
+
+[00:32:52] SPEAKER_06
+Like what, what if our apple was black also?
+
+[00:32:54] SPEAKER_06
+It could be.
+
+[00:32:55] SPEAKER_06
+It really could be.
+
+[00:32:56] SPEAKER_06
+It would match our color palette for the podcast.
+
+[00:32:59] SPEAKER_06
+That's an excellent point.
+
+[00:33:01] SPEAKER_06
+Oh, I wonder if anybody's ever been able to design an apple that you, that, that has
+
+[00:33:07] SPEAKER_06
+the logo branded in it as it's being grown.
+
+[00:33:11] SPEAKER_06
+Like, could we, could we grow an apple that already says regulation apple on it?
+
+[00:33:18] SPEAKER_06
+It could grow an apple that knows English.
+
+[00:33:24] SPEAKER_06
+It's a, well, I don't know much about apples yet, but, uh, I like, I like the black diamond
+
+[00:33:31] SPEAKER_06
+apple so far.
+
+[00:33:33] SPEAKER_06
+Yeah.
+
+[00:33:33] SPEAKER_06
+It's beautiful.
+
+[00:33:34] SPEAKER_06
+It looks like a, it looks like a galaxy kind of, anyway, there's a whole world of apples
+
+[00:33:37] SPEAKER_06
+out there.
+
+[00:33:37] SPEAKER_06
+If that's a direction we want to continue down, if we've already, you know, if we've already
+
+[00:33:41] SPEAKER_06
+beaten the audience over the head with apples for too much, then I don't want to do
+
+[00:33:45] SPEAKER_06
+it.
+
+[00:33:45] SPEAKER_06
+But, uh, I, I think that there's a lot of potential.
+
+[00:33:47] SPEAKER_05
+Maybe it's something to like, come back to.
+
+[00:33:50] SPEAKER_05
+Yeah.
+
+[00:33:50] SPEAKER_05
+I think we got to go into the lab.
+
+[00:33:52] SPEAKER_05
+I feel like we could definitely make, if we, if we got Eric to get a selection of maybe
+
+[00:33:57] SPEAKER_05
+six rare apples in a nice foam case again, and we'll have Andrew watch, we could definitely
+
+[00:34:02] SPEAKER_05
+do a nice new tasting.
+
+[00:34:03] SPEAKER_05
+Give our reviews of each one.
+
+[00:34:05] SPEAKER_05
+That's a great idea.
+
+[00:34:07] SPEAKER_05
+Eric says already working on it.
+
+[00:34:08] SPEAKER_05
+Ooh, that's a great idea.
+
+[00:34:09] SPEAKER_04
+I think I could buy some black apple seeds.
+
+[00:34:13] SPEAKER_05
+Hmm.
+
+[00:34:13] SPEAKER_05
+You don't have to grow the frickin' tree every time.
+
+[00:34:16] SPEAKER_04
+Well, it's just, I can't see any way else to get this apple.
+
+[00:34:19] SPEAKER_04
+I want this apple.
+
+[00:34:20] SPEAKER_04
+I already said I'll fly you here.
+
+[00:34:23] SPEAKER_06
+I'll use Betty White's money.
+
+[00:34:25] SPEAKER_06
+We got 600, we got about 650 bucks after taxes.
+
+[00:34:29] SPEAKER_06
+That's true.
+
+[00:34:29] SPEAKER_06
+We're burning a hole in our pocket.
+
+[00:34:31] SPEAKER_04
+I really want to win the Betty White contest.
+
+[00:34:35] SPEAKER_04
+I want you to.
+
+[00:34:36] SPEAKER_04
+It's already over now by the time this comes out.
+
+[00:34:38] SPEAKER_04
+It is.
+
+[00:34:39] SPEAKER_06
+It would be known if we were picked or not.
+
+[00:34:42] SPEAKER_06
+Can I tell you guys a funny, embarrassing thing that happened to me?
+
+[00:34:46] SPEAKER_06
+Of course.
+
+[00:34:46] SPEAKER_06
+Is it about your bike?
+
+[00:34:48] SPEAKER_06
+Well, sort of, yeah.
+
+[00:34:49] SPEAKER_06
+So, I got bike problems.
+
+[00:34:51] SPEAKER_06
+You gotta get into the bike stuff.
+
+[00:34:52] SPEAKER_06
+All three of my bikes are down.
+
+[00:34:54] SPEAKER_06
+Actually, my bike is back up.
+
+[00:34:55] SPEAKER_06
+But it's been a whole thing.
+
+[00:34:57] SPEAKER_06
+I'm currently in the market.
+
+[00:34:58] SPEAKER_06
+I'm currently shopping for a new bike right now.
+
+[00:35:01] SPEAKER_06
+Okay.
+
+[00:35:01] SPEAKER_06
+But yesterday, I did go for a bike ride, and I've been having a problem with, you know,
+
+[00:35:09] SPEAKER_06
+I guess like butt rash, sore butt from riding my bike too much.
+
+[00:35:11] SPEAKER_06
+It's a common thing.
+
+[00:35:12] SPEAKER_06
+And to combat it, some audience members recommended I buy some of those, I don't know what they're
+
+[00:35:16] SPEAKER_06
+called, but those little bike shorts that it's like a diaper, sort of, but it's like
+
+[00:35:20] SPEAKER_06
+padding on your butt.
+
+[00:35:21] SPEAKER_06
+It's around your gooch and your butt, but it makes you have like a big dumpy bubble butt.
+
+[00:35:26] SPEAKER_06
+I've seen those.
+
+[00:35:27] SPEAKER_06
+Yeah, yeah.
+
+[00:35:27] SPEAKER_06
+So, I bought a couple pair, and they're great.
+
+[00:35:30] SPEAKER_06
+They actually work very well.
+
+[00:35:31] SPEAKER_06
+And so, I wear them every time I go on a bike ride.
+
+[00:35:34] SPEAKER_06
+And the other day, I came home, and like as I was coming home, like the mailman was there,
+
+[00:35:39] SPEAKER_06
+and I needed a sign for something, and then the dog needed to go to the bathroom.
+
+[00:35:42] SPEAKER_06
+And then I realized like, oh shit, I need to go buy some stuff to prepare for the colonoscopy.
+
+[00:35:48] SPEAKER_06
+I needed to buy some like a laxative that I didn't have yet.
+
+[00:35:50] SPEAKER_06
+And I was like, oh shit, I just grabbed my keys, and I ran to the store, and I was standing
+
+[00:35:53] SPEAKER_06
+in line at the grocery store with like me and like, I don't know, like
+
+[00:35:56] SPEAKER_06
+seven or eight like ladies that are just doing their daily shopping.
+
+[00:36:01] SPEAKER_06
+And I noticed one lady kind of giving me a dirty look, and I'm used to it, right?
+
+[00:36:05] SPEAKER_06
+Like, I get it.
+
+[00:36:06] SPEAKER_06
+I get it.
+
+[00:36:07] SPEAKER_06
+You know, I did somebody, I saw, I recently did the RT podcast, and somebody said I look
+
+[00:36:12] SPEAKER_06
+like I do meth at a gas station.
+
+[00:36:15] SPEAKER_06
+So, it's like, I get it, you know?
+
+[00:36:18] SPEAKER_06
+And I'm covered in tattoos and stuff.
+
+[00:36:21] SPEAKER_06
+So, I am used to getting like weird looks, but then another lady gave me kind of a weird
+
+[00:36:25] SPEAKER_06
+look, and I thought, that's weird, because this is Austin, and this is my grocery store.
+
+[00:36:28] SPEAKER_06
+I, you know, I come here all the time.
+
+[00:36:29] SPEAKER_06
+And then I realized when I moved, oh, I've got my dumpy underwear on, and I looked behind
+
+[00:36:34] SPEAKER_06
+me, and I just looked like I was walking around with a fucking, like I had taken seven
+
+[00:36:38] SPEAKER_06
+shits in my pants.
+
+[00:36:40] SPEAKER_06
+It was just like, I had a hanging dumpy asshole.
+
+[00:36:43] SPEAKER_06
+And they were just, and it was very noticeable.
+
+[00:36:46] SPEAKER_06
+And I had completely forgotten that I was still wearing them, because normally I take them
+
+[00:36:50] SPEAKER_06
+off immediately.
+
+[00:36:51] SPEAKER_06
+And yeah, so I was a little embarrassed for that, you know?
+
+[00:36:56] SPEAKER_05
+I can't believe you're wearing those.
+
+[00:36:57] SPEAKER_05
+That must be quite a contrast to all the tattoos.
+
+[00:37:00] SPEAKER_05
+I feel like you've actually moved over from person who rides a bike to a cyclist.
+
+[00:37:05] SPEAKER_06
+Oh, well, here's the thing.
+
+[00:37:07] SPEAKER_06
+I definitely am not a cyclist.
+
+[00:37:08] SPEAKER_06
+I was wearing them, Gavin, under my pants.
+
+[00:37:10] SPEAKER_06
+That's the thing.
+
+[00:37:11] SPEAKER_06
+I'm not going to wear them just the shorts and look like a bicyclist asshole.
+
+[00:37:16] SPEAKER_06
+No, I was wearing them under a pair of pants, which is what made it look extra dumpy.
+
+[00:37:19] SPEAKER_06
+It's like, if I was just wearing the cycling shorts, then they would have looked at me
+
+[00:37:22] SPEAKER_06
+and said, oh, he's a cyclist.
+
+[00:37:24] SPEAKER_06
+He's just, he's just gross.
+
+[00:37:26] SPEAKER_06
+What they saw was that guy took a bunch of shits in his actual normal pants and it's just
+
+[00:37:31] SPEAKER_06
+hanging, you know?
+
+[00:37:33] SPEAKER_06
+It's just all like gathering at the bottom and it looks like, it looked like my butt was
+
+[00:37:37] SPEAKER_06
+melting.
+
+[00:37:38] SPEAKER_04
+I, so it's what, how do they, they have more padding?
+
+[00:37:43] SPEAKER_04
+Is that how they're helpful to you?
+
+[00:37:45] SPEAKER_06
+Yeah, they have a ton of padding.
+
+[00:37:46] SPEAKER_04
+And they've solved, they've solved the problem.
+
+[00:37:47] SPEAKER_04
+Would you say it's a more effective solution than covering your ass and tiger bomb?
+
+[00:37:52] SPEAKER_06
+Yes.
+
+[00:37:53] SPEAKER_06
+Okay.
+
+[00:37:53] SPEAKER_06
+Yes.
+
+[00:37:53] SPEAKER_04
+As long as we've moved forward from there.
+
+[00:37:55] SPEAKER_06
+Yes.
+
+[00:37:55] SPEAKER_06
+We're not going to do that again.
+
+[00:37:57] SPEAKER_06
+We've, uh, we've definitely, uh, we've learned our, we've learned some lessons there that
+
+[00:38:01] SPEAKER_06
+will, that will not be happening again.
+
+[00:38:03] SPEAKER_06
+Uh, I don't even know, like I have for a guy who rides his bike seven days, six or seven
+
+[00:38:08] SPEAKER_06
+days a week.
+
+[00:38:08] SPEAKER_06
+I think I've ridden my bike three times in the past six weeks.
+
+[00:38:12] SPEAKER_05
+Oh, wow.
+
+[00:38:13] SPEAKER_06
+So what's the main issue with some of your bikes?
+
+[00:38:15] SPEAKER_06
+Okay.
+
+[00:38:16] SPEAKER_06
+So I have three bikes, right?
+
+[00:38:17] SPEAKER_06
+I have my bike.
+
+[00:38:18] SPEAKER_06
+I have Emily's bike and I have Millie's bike.
+
+[00:38:21] SPEAKER_06
+Uh, they're all the same bike.
+
+[00:38:23] SPEAKER_06
+Uh, mine's just a little bigger.
+
+[00:38:24] SPEAKER_06
+Right.
+
+[00:38:24] SPEAKER_06
+Uh, and so, but they're all the same e-bike.
+
+[00:38:27] SPEAKER_06
+Like, so, uh, I was riding mine on a trip and I was riding my bike, uh, the other day
+
+[00:38:37] SPEAKER_06
+and, well, actually I couldn't, here's the deal.
+
+[00:38:39] SPEAKER_06
+I was riding my bike about six weeks ago, seven weeks ago, and, uh, I popped a tire
+
+[00:38:44] SPEAKER_06
+and a spoke and I didn't have a spoke and so I couldn't fix it.
+
+[00:38:48] SPEAKER_06
+So I called to get it repaired.
+
+[00:38:49] SPEAKER_06
+Right.
+
+[00:38:50] SPEAKER_06
+And then the guy was going to, it was going to take the guy about a week to come out and
+
+[00:38:52] SPEAKER_06
+repair it.
+
+[00:38:53] SPEAKER_06
+And, uh, which is fine because I have two backup bikes.
+
+[00:38:55] SPEAKER_06
+I have Millie's and Emily's and they never ride theirs, right?
+
+[00:38:57] SPEAKER_06
+Was the spoke a non-standard size?
+
+[00:38:59] SPEAKER_06
+Uh, everything about an e-bike is non-standard.
+
+[00:39:01] SPEAKER_06
+So, and, and complicated.
+
+[00:39:03] SPEAKER_06
+So, uh, I, uh, I'm like, no problem.
+
+[00:39:06] SPEAKER_06
+I can wait.
+
+[00:39:06] SPEAKER_06
+I have other bikes, right?
+
+[00:39:08] SPEAKER_06
+So I just hop on Emily's bike.
+
+[00:39:09] SPEAKER_06
+I start riding her bike.
+
+[00:39:10] SPEAKER_06
+The second time I ride Emily's bike, I'm about seven miles from home and it just turns
+
+[00:39:17] SPEAKER_06
+off.
+
+[00:39:18] SPEAKER_06
+And an e-bike is an amazing piece of machinery when it's on.
+
+[00:39:23] SPEAKER_06
+When it's off, it's an undriveable behemoth that weighs, it goes from being, uh, I don't
+
+[00:39:31] SPEAKER_06
+know, 12 ounces to 400 pounds.
+
+[00:39:35] SPEAKER_06
+So wait, you can't, when the end, when the little motor dies, it isn't, it doesn't just
+
+[00:39:39] SPEAKER_06
+become a bike.
+
+[00:39:40] SPEAKER_06
+Yeah.
+
+[00:39:41] SPEAKER_06
+It becomes a very inefficient bike.
+
+[00:39:43] SPEAKER_06
+Like you can pedal it, you can work it.
+
+[00:39:44] SPEAKER_06
+It's got gears.
+
+[00:39:45] SPEAKER_06
+It's just heavy as sin and it's, and it doesn't work well.
+
+[00:39:49] SPEAKER_06
+It's a nightmare.
+
+[00:39:51] SPEAKER_04
+I feel like you downplay the effectiveness of the bike when it's working.
+
+[00:39:56] SPEAKER_04
+No, I don't.
+
+[00:39:57] SPEAKER_04
+And now when the bike doesn't work, it's like, oh my God, everything is broken.
+
+[00:40:00] SPEAKER_04
+All of this stuff to assist is gone.
+
+[00:40:03] SPEAKER_06
+Listen, when the, the, the, the effectiveness is great when it's working.
+
+[00:40:06] SPEAKER_06
+I don't think I'm downplaying it.
+
+[00:40:07] SPEAKER_06
+It's just that when it's off, you're it's first off, you've got like a fucking 25 pound
+
+[00:40:11] SPEAKER_06
+battery.
+
+[00:40:12] SPEAKER_06
+The frame is heavy.
+
+[00:40:13] SPEAKER_06
+It's three times as heavy as a normal bike.
+
+[00:40:15] SPEAKER_06
+So it's just more work than a normal bike would be when it's not on.
+
+[00:40:18] SPEAKER_06
+I get that.
+
+[00:40:19] SPEAKER_06
+I have a normal bike.
+
+[00:40:21] SPEAKER_06
+I get that out of storage and start riding it again because I'm getting sick of these
+
+[00:40:23] SPEAKER_06
+e-bikes, but I am still going further down the e-bike road.
+
+[00:40:26] SPEAKER_06
+I'm not giving up on e-bikes cause I love them.
+
+[00:40:28] SPEAKER_06
+Uh, anyway, so I, seven miles away from home, it, it goes dead.
+
+[00:40:32] SPEAKER_06
+So I have to ride it slash walk it home.
+
+[00:40:36] SPEAKER_06
+It's for some reason.
+
+[00:40:37] SPEAKER_06
+And I'm, I swear I'm not kidding.
+
+[00:40:39] SPEAKER_06
+It is any direction I ride from my house coming back is uphill.
+
+[00:40:43] SPEAKER_06
+It's like I live on the tallest, I live in the tallest point of Austin.
+
+[00:40:46] SPEAKER_06
+So I ride this fucking, this hunk of shit, seven miles home, take it apart.
+
+[00:40:53] SPEAKER_06
+The battery just won't turn on anymore.
+
+[00:40:55] SPEAKER_06
+I look, there's scorch marks where the battery part connects.
+
+[00:40:57] SPEAKER_06
+I'm like, Oh, I must've blown the battery out or something.
+
+[00:41:00] SPEAKER_06
+That sucks.
+
+[00:41:01] SPEAKER_06
+Batteries, by the way, 500 bucks to replace.
+
+[00:41:03] SPEAKER_06
+So I'm like, that fucking sucks.
+
+[00:41:05] SPEAKER_06
+Uh, no worries.
+
+[00:41:06] SPEAKER_06
+I'll just ride Millie's bike.
+
+[00:41:08] SPEAKER_06
+Thank God I have a third bike, right?
+
+[00:41:10] SPEAKER_06
+The next day I ride Millie's bike and six miles away from home, it dies in the exact
+
+[00:41:18] SPEAKER_06
+same way.
+
+[00:41:19] SPEAKER_06
+The battery exploded again.
+
+[00:41:21] SPEAKER_06
+I walk, it just stopped working.
+
+[00:41:22] SPEAKER_06
+I walk, push it home, take it apart.
+
+[00:41:25] SPEAKER_06
+Look, same problem.
+
+[00:41:26] SPEAKER_06
+It's scorching.
+
+[00:41:28] SPEAKER_06
+I call, I call the company.
+
+[00:41:29] SPEAKER_06
+They're like, yeah, these batteries only are only rated for two years.
+
+[00:41:32] SPEAKER_06
+So we can't replace them.
+
+[00:41:33] SPEAKER_06
+It's I've had the bikes for a little over two years, of course.
+
+[00:41:36] SPEAKER_06
+So, uh, so I'm like, fuck, well, that's okay.
+
+[00:41:39] SPEAKER_06
+Because like tomorrow the guy's coming to fix my bike.
+
+[00:41:43] SPEAKER_06
+And then I, uh, well, it wasn't tomorrow.
+
+[00:41:47] SPEAKER_06
+It was actually, it was actually, I had, uh, I'm getting it wrong.
+
+[00:41:49] SPEAKER_06
+Sorry.
+
+[00:41:49] SPEAKER_06
+This is, this is a while ago.
+
+[00:41:51] SPEAKER_06
+This is like six weeks of nonsense.
+
+[00:41:52] SPEAKER_06
+Uh, I think what had happened is I had bought another battery in advance.
+
+[00:41:57] SPEAKER_06
+And so then other battery came and I was able to put it back into Emily's bike and the
+
+[00:42:02] SPEAKER_06
+new battery, uh, it just, uh, I was riding about, I was about seven miles from home on
+
+[00:42:09] SPEAKER_06
+the first ride on Emily's bike again, after I put the new battery in and it died.
+
+[00:42:14] SPEAKER_06
+And so I had to walk, push it home again.
+
+[00:42:17] SPEAKER_06
+And six miles is no joke on foot.
+
+[00:42:20] SPEAKER_06
+That's like a two hour walk.
+
+[00:42:21] SPEAKER_06
+It was about two, two to three hours, uh, depending on, yeah, and it's all uphill too.
+
+[00:42:26] SPEAKER_06
+Uh, and it's also, it's also October or, and November, cause this is about six weeks.
+
+[00:42:30] SPEAKER_06
+It's October and November in Austin.
+
+[00:42:32] SPEAKER_06
+So it ranges anywhere from 90 to 105, right?
+
+[00:42:36] SPEAKER_06
+It's hot as shit still.
+
+[00:42:37] SPEAKER_06
+Uh, I am, I'm apoplectic at this point, a miserable.
+
+[00:42:41] SPEAKER_06
+So it's my fourth time, third or fourth time the bike has, I think it's the third time it's,
+
+[00:42:45] SPEAKER_06
+it's broken on me.
+
+[00:42:46] SPEAKER_06
+I get home.
+
+[00:42:48] SPEAKER_06
+I look at it.
+
+[00:42:49] SPEAKER_06
+It's not busted.
+
+[00:42:49] SPEAKER_06
+I turn it on.
+
+[00:42:50] SPEAKER_06
+It just turns back on.
+
+[00:42:51] SPEAKER_06
+It's fine.
+
+[00:42:51] SPEAKER_06
+It just needed to be like re-shocked awake.
+
+[00:42:53] SPEAKER_06
+And I'm like, well, that's fucking weird.
+
+[00:42:54] SPEAKER_06
+Hopefully that never happens again.
+
+[00:42:55] SPEAKER_06
+And I think I'll big brain this.
+
+[00:42:57] SPEAKER_06
+I'll take the battery off the Emily's.
+
+[00:42:58] SPEAKER_06
+I'll put it on Millie's different setup.
+
+[00:43:00] SPEAKER_06
+And then we'll see if it happens again.
+
+[00:43:02] SPEAKER_06
+The next day I ride my bike this time.
+
+[00:43:05] SPEAKER_06
+I'm about nine miles from home and it turns off.
+
+[00:43:08] SPEAKER_06
+Oh no.
+
+[00:43:09] SPEAKER_06
+Yeah.
+
+[00:43:10] SPEAKER_06
+And by the way, every single time this has happened, I need to be somewhere.
+
+[00:43:15] SPEAKER_06
+I have a, I have a, I have a, I have an annual pass to record or I have to pick Millie up
+
+[00:43:20] SPEAKER_06
+from school or she has a doctor's appointment.
+
+[00:43:23] SPEAKER_06
+I, it's never a leisurely thing.
+
+[00:43:25] SPEAKER_06
+I, I, I gotta like hoof it to get home.
+
+[00:43:28] SPEAKER_06
+So, but I'm thinking like, I'm trying to, you try to rationalize it in your head by
+
+[00:43:32] SPEAKER_06
+saying like, I'm getting double exercise today.
+
+[00:43:33] SPEAKER_06
+Right?
+
+[00:43:34] SPEAKER_06
+Like I'm getting in shape.
+
+[00:43:35] SPEAKER_06
+Sure.
+
+[00:43:36] SPEAKER_06
+Then I'm done.
+
+[00:43:37] SPEAKER_06
+I'm like, I can't, I fucking, I'm not going to ride any of these piece of shit bikes
+
+[00:43:40] SPEAKER_06
+anymore.
+
+[00:43:40] SPEAKER_06
+I've been stranded four times.
+
+[00:43:41] SPEAKER_06
+The guy comes to fix my bike.
+
+[00:43:43] SPEAKER_06
+He fixes it.
+
+[00:43:44] SPEAKER_06
+He does a bunch of work on it.
+
+[00:43:46] SPEAKER_06
+Uh, I ask him about these electrical problems in the process, waiting for him to come.
+
+[00:43:50] SPEAKER_06
+I bought a whole new electrical system for my bike and a new battery for, for Millie's
+
+[00:43:55] SPEAKER_06
+other bike.
+
+[00:43:55] SPEAKER_06
+Right.
+
+[00:43:56] SPEAKER_06
+And I bought a whole new electrical system for my bike because of the scorching and stuff.
+
+[00:43:59] SPEAKER_06
+And I thought like, I'll just have the guy comes, he fixes my bike.
+
+[00:44:02] SPEAKER_06
+The other stuff, he won't touch any of the electrical stuff.
+
+[00:44:03] SPEAKER_06
+He won't touch any of the e-bike stuff.
+
+[00:44:05] SPEAKER_06
+Can't find anybody who'll touch any of the e-bike stuff.
+
+[00:44:07] SPEAKER_06
+Right.
+
+[00:44:08] SPEAKER_06
+And I'm like, okay, whatever.
+
+[00:44:10] SPEAKER_06
+So, uh, I get it all.
+
+[00:44:12] SPEAKER_06
+I just don't put that stuff in.
+
+[00:44:14] SPEAKER_06
+I just get the bike fixed.
+
+[00:44:15] SPEAKER_06
+My bike works fine.
+
+[00:44:16] SPEAKER_06
+The battery never died or anything on my bike.
+
+[00:44:18] SPEAKER_06
+I was just trying to be preventative.
+
+[00:44:20] SPEAKER_06
+Right.
+
+[00:44:20] SPEAKER_06
+I was trying to get ahead of a potential problem.
+
+[00:44:22] SPEAKER_06
+Hop on my bike rides like a charm.
+
+[00:44:24] SPEAKER_06
+I drive seven miles and it doesn't, it doesn't explode.
+
+[00:44:29] SPEAKER_06
+And I go, Oh, my bike didn't turn off at seven miles.
+
+[00:44:31] SPEAKER_06
+Last time I did it at nine.
+
+[00:44:32] SPEAKER_06
+I go nine miles.
+
+[00:44:33] SPEAKER_06
+I'm fine.
+
+[00:44:34] SPEAKER_06
+I go 10 miles.
+
+[00:44:35] SPEAKER_06
+I'm fine.
+
+[00:44:36] SPEAKER_06
+And I go, okay, problem solved.
+
+[00:44:39] SPEAKER_06
+I get about 15 miles away from home.
+
+[00:44:44] SPEAKER_06
+You only go for half a marathon at this point.
+
+[00:44:46] SPEAKER_06
+I know exactly how far away from home I am because I have a, uh, because I have an app
+
+[00:44:51] SPEAKER_06
+that, you know, records all my rides.
+
+[00:44:52] SPEAKER_06
+That's how I made the fart that time.
+
+[00:44:54] SPEAKER_06
+And, uh, I'm right at about 15 miles from home and I'm on the hike and bike trail and
+
+[00:44:57] SPEAKER_06
+I'm zooming and, uh, I have my headphones on so I don't hear anything.
+
+[00:45:02] SPEAKER_06
+But something like jars the bike a little bit and I look and I feel something brush
+
+[00:45:06] SPEAKER_06
+my leg and I look over to see what brushed my leg like a stick or something.
+
+[00:45:09] SPEAKER_06
+And I see this 20 pound battery on my bike shooting about 12 feet out in front of me.
+
+[00:45:17] SPEAKER_06
+It hits my leg and just keeps flying.
+
+[00:45:19] SPEAKER_06
+Like I got a, it goes faster than the bike.
+
+[00:45:22] SPEAKER_06
+Like I got a pedal to catch up with it.
+
+[00:45:24] SPEAKER_06
+And then, and I'm like, I'm just in disbelief.
+
+[00:45:27] SPEAKER_06
+And I look down and there's just a hole where the battery was before it exploded and violently
+
+[00:45:33] SPEAKER_06
+ejected itself from my bike, clipping my leg.
+
+[00:45:37] SPEAKER_06
+And it's just like, it just like hits the ground in a pile.
+
+[00:45:41] SPEAKER_06
+I swerve off.
+
+[00:45:42] SPEAKER_06
+I fucking, I put the bike down.
+
+[00:45:43] SPEAKER_06
+I walk over and I look, I pick up the battery and it's just like, it's just like the bike
+
+[00:45:50] SPEAKER_06
+exploded.
+
+[00:45:51] SPEAKER_06
+I don't know how else to describe it.
+
+[00:45:52] SPEAKER_06
+It's like, I go back to try to put it back together.
+
+[00:45:55] SPEAKER_06
+Everything is sheared.
+
+[00:45:57] SPEAKER_06
+All the bolts are broken in half.
+
+[00:45:59] SPEAKER_06
+The plastic casing is broken in half.
+
+[00:46:01] SPEAKER_06
+The part that it connects to where the, the scorching was on the other bikes, that part
+
+[00:46:05] SPEAKER_06
+is melted to the battery.
+
+[00:46:08] SPEAKER_06
+Like the scorching part has physically melted, like hot melted to the battery.
+
+[00:46:14] SPEAKER_06
+I'm like, what the fuck?
+
+[00:46:16] SPEAKER_06
+And so I'm 15 miles from home.
+
+[00:46:19] SPEAKER_06
+And I think, well, I guess I better get to walking.
+
+[00:46:26] SPEAKER_06
+And so I figure out that bike without the battery is actually kind of light.
+
+[00:46:30] SPEAKER_06
+Like it's a little easier to ride.
+
+[00:46:32] SPEAKER_06
+And so I'm like, ah, I can make this work.
+
+[00:46:33] SPEAKER_06
+But I, the problem is I don't know if this battery is, is savable or not because the
+
+[00:46:37] SPEAKER_06
+stuff is melted to it.
+
+[00:46:38] SPEAKER_06
+But I feel like I can rip it off and I'd see if maybe the battery itself is good or maybe
+
+[00:46:42] SPEAKER_06
+I can get it refurbed because I know that these batteries can be refurbed.
+
+[00:46:45] SPEAKER_06
+Uh, and it's like $550 to replace it.
+
+[00:46:47] SPEAKER_06
+So I'm like, I gotta take this battery home with me.
+
+[00:46:51] SPEAKER_06
+How the fuck do I do this?
+
+[00:46:52] SPEAKER_06
+So I have to hold the battery in my left hand.
+
+[00:46:54] SPEAKER_06
+It's like 20 pounds.
+
+[00:46:55] SPEAKER_06
+Hold the steering wheel with my right hand and pedal home, you know, at one mile an hour
+
+[00:47:00] SPEAKER_06
+because this bike barely goes.
+
+[00:47:01] SPEAKER_06
+And I get about three miles and I'm like, I gotta throw this fucking battery in the
+
+[00:47:06] SPEAKER_06
+river or like, not the river, but I gotta throw this fucking battery in the woods or
+
+[00:47:09] SPEAKER_06
+something, hide it and try to come back for it.
+
+[00:47:11] SPEAKER_06
+And I'm like, nah, I can't do that.
+
+[00:47:13] SPEAKER_06
+But it's too, like, I just gotta take this, I just fucking eat my medicine, just take my
+
+[00:47:17] SPEAKER_06
+medicine and just get home.
+
+[00:47:19] SPEAKER_06
+And I'm about seven miles into the trip of, uh, I have given up on riding.
+
+[00:47:23] SPEAKER_06
+I'm exhausted at this point because holding a 20 pound heavy ass battery that's, you
+
+[00:47:28] SPEAKER_06
+know, 18 inches long and hard to, it's like, there's no way to like, I can't set it on
+
+[00:47:33] SPEAKER_06
+anything.
+
+[00:47:33] SPEAKER_06
+I don't have a backpack.
+
+[00:47:34] SPEAKER_06
+There's no, the only thing I can do is hold it in my hand and try and steer and pedal
+
+[00:47:38] SPEAKER_06
+uphill and I'm, I'm like at muscle failure pretty much.
+
+[00:47:42] SPEAKER_06
+So I get off the bike and I, at about seven miles and I start walking it and I'm about
+
+[00:47:46] SPEAKER_06
+two miles into the walk and I have my headphones on.
+
+[00:47:50] SPEAKER_06
+I'm just listening to like, I don't know, I think I'm listening to like, uh, Polo G or
+
+[00:47:53] SPEAKER_06
+some really, really loud rap.
+
+[00:47:55] SPEAKER_06
+And, uh, and I just sent something out of the corner of my eye.
+
+[00:47:58] SPEAKER_06
+I'm on like Lamar Boulevard on a sidewalk and I look over and I see a dude in a truck like
+
+[00:48:02] SPEAKER_06
+screaming at me.
+
+[00:48:03] SPEAKER_06
+I'm like, what the fuck is that?
+
+[00:48:05] SPEAKER_06
+And then I realized it's my friend Joey who has nothing to do with RT.
+
+[00:48:08] SPEAKER_06
+He is one of his friend for my girlfriend, the guy from the boat, the boat, the fucking
+
+[00:48:14] SPEAKER_06
+boat guy, the go, go now.
+
+[00:48:16] SPEAKER_06
+My friend, Joey.
+
+[00:48:16] SPEAKER_06
+Yeah.
+
+[00:48:16] SPEAKER_06
+Boat guy, Boat guy, Joey.
+
+[00:48:18] SPEAKER_06
+And, uh, and he was just driving down the road and he saw me walking a bike and he's like,
+
+[00:48:23] SPEAKER_06
+Hey man, you need a fucking ride.
+
+[00:48:24] SPEAKER_06
+And I was like, Oh my God.
+
+[00:48:25] SPEAKER_06
+And he gave me a ride home.
+
+[00:48:26] SPEAKER_06
+So I only had to walk like nine of the 15 miles.
+
+[00:48:29] SPEAKER_06
+But so in five out of, I think like the last, I think out of like seven bike excursions,
+
+[00:48:39] SPEAKER_06
+five of them ended with me walking a minimum of six miles.
+
+[00:48:43] SPEAKER_06
+Uh, anyway, I get the bike home.
+
+[00:48:46] SPEAKER_06
+I fucking am angry.
+
+[00:48:47] SPEAKER_06
+I won't look at it for like four days.
+
+[00:48:49] SPEAKER_06
+Then I finally, I look at it.
+
+[00:48:50] SPEAKER_06
+I see everything that's broken and I start calling around and nobody wants to touch this
+
+[00:48:55] SPEAKER_06
+fucking bike.
+
+[00:48:56] SPEAKER_06
+And I'm like, God damn it.
+
+[00:48:57] SPEAKER_06
+And I, I, I don't know if you, I don't know if you guys know this about me, but I don't
+
+[00:49:00] SPEAKER_06
+like working on stuff.
+
+[00:49:01] SPEAKER_06
+I like, I grew up in Alabama in a very like mechanically minded family where, you know,
+
+[00:49:07] SPEAKER_06
+I'd go, I'd drive home.
+
+[00:49:08] SPEAKER_06
+I might, I'd be like, I think something's wrong with my car, grandpa.
+
+[00:49:11] SPEAKER_06
+And he'd be like, go get the toolbox.
+
+[00:49:12] SPEAKER_06
+And then my entire weekend would be me and my grandpa fixing something on the car.
+
+[00:49:15] SPEAKER_06
+And which was a bonding experience for him.
+
+[00:49:17] SPEAKER_06
+I hated it.
+
+[00:49:18] SPEAKER_06
+I love my grandpa.
+
+[00:49:18] SPEAKER_06
+I just, I'm not, I just, I don't like, I was a, I was a tool repairman in high school.
+
+[00:49:23] SPEAKER_06
+I hated that.
+
+[00:49:23] SPEAKER_06
+Although I liked the job.
+
+[00:49:25] SPEAKER_06
+I just hated, I just don't like, yeah, I just don't like fixing shit.
+
+[00:49:28] SPEAKER_06
+I'm not, it just frustrates me, you know?
+
+[00:49:30] SPEAKER_06
+And so I try to avoid it if at all possible and I couldn't, so I'm like, fuck it.
+
+[00:49:34] SPEAKER_06
+And I have all the parts.
+
+[00:49:35] SPEAKER_06
+So I sit down to fix my bike.
+
+[00:49:36] SPEAKER_06
+It took me 12 minutes to fix this piece of shit bike.
+
+[00:49:40] SPEAKER_06
+And now it works great.
+
+[00:49:41] SPEAKER_06
+So what happened though?
+
+[00:49:42] SPEAKER_06
+Why did it explode?
+
+[00:49:43] SPEAKER_03
+Yeah.
+
+[00:49:44] SPEAKER_06
+I don't know.
+
+[00:49:45] SPEAKER_06
+Is it like a, like a lithium vent on it or something?
+
+[00:49:48] SPEAKER_06
+I don't know.
+
+[00:49:49] SPEAKER_06
+I don't know if it like, if I just hit up, I don't think I could have hit a bump or anything
+
+[00:49:54] SPEAKER_06
+hard enough to, to shear them like the screws in half and to break the casing.
+
+[00:50:00] SPEAKER_06
+But, and I was going downhill on a smooth ride.
+
+[00:50:02] SPEAKER_06
+So I don't know if the bike, like if the battery had like a, cause it's all melted and
+
+[00:50:06] SPEAKER_06
+stuff.
+
+[00:50:07] SPEAKER_06
+Like I assume that there was some sort of event where it, it exploded and the force of that
+
+[00:50:11] SPEAKER_06
+shot it off my bike, but it didn't do any structural damage to the bike.
+
+[00:50:14] SPEAKER_06
+And since I had re-bought all the electrical stuff, I had to splice some wires.
+
+[00:50:18] SPEAKER_06
+I had to re, I said 12 minutes.
+
+[00:50:19] SPEAKER_06
+It probably took me more than that.
+
+[00:50:21] SPEAKER_06
+Um, it may have taken, God.
+
+[00:50:22] SPEAKER_05
+I just would love to see, like, can you imagine being a guy just jogging the other way and
+
+[00:50:27] SPEAKER_05
+then a bicycle shoots a missile at you?
+
+[00:50:29] SPEAKER_06
+Like, yeah, it was like that.
+
+[00:50:31] SPEAKER_06
+It was like a 20 pound missile shooting at you.
+
+[00:50:33] SPEAKER_04
+Yeah.
+
+[00:50:33] SPEAKER_04
+It's fucking, it was brutal.
+
+[00:50:35] SPEAKER_04
+So when did, when did this happen?
+
+[00:50:37] SPEAKER_04
+How long has it been since you've had a bike issue?
+
+[00:50:39] SPEAKER_04
+Did it just happen?
+
+[00:50:40] SPEAKER_06
+I have ridden my bike twice since then.
+
+[00:50:43] SPEAKER_06
+Okay.
+
+[00:50:44] SPEAKER_06
+Uh, both times this week.
+
+[00:50:46] SPEAKER_06
+So it was last week or the week before that this happened.
+
+[00:50:48] SPEAKER_06
+You're not selling me on these e-bikes.
+
+[00:50:50] SPEAKER_06
+I'll be honest.
+
+[00:50:50] SPEAKER_06
+Two weeks, two weeks ago, this happened.
+
+[00:50:52] SPEAKER_06
+Well, I'm not trying to sell you on this e-bike.
+
+[00:50:55] SPEAKER_06
+You were before.
+
+[00:50:55] SPEAKER_06
+I am going to try to sell you on a different e-bike that I am currently shopping around
+
+[00:50:59] SPEAKER_06
+for.
+
+[00:50:59] SPEAKER_06
+I'm, I've been going to e-bike stores and talking to people and doing my research and
+
+[00:51:03] SPEAKER_06
+I'm, I've got some, some clues.
+
+[00:51:05] SPEAKER_06
+I got some good leads on some good new bikes, but, uh, yeah, it was, it was unbelievable.
+
+[00:51:10] SPEAKER_06
+Now the bike works fucking great, of course.
+
+[00:51:12] SPEAKER_06
+But, uh, I, it might be the most frustrated I've been.
+
+[00:51:16] SPEAKER_06
+I can't even tell you.
+
+[00:51:17] SPEAKER_06
+Like every time I'd get on my bike and I go like, today's the day I don't get stranded.
+
+[00:51:20] SPEAKER_06
+And then just at the most inopportune moment when I'm just happy and, you know, heading
+
+[00:51:24] SPEAKER_06
+the clouds, enjoying a ride, beautiful weather, listening to music, whatever.
+
+[00:51:28] SPEAKER_06
+I was just like, suddenly, suddenly it's like, and you're like, Oh fuck, here we go
+
+[00:51:33] SPEAKER_06
+again.
+
+[00:51:33] SPEAKER_04
+You say the bike is working great.
+
+[00:51:35] SPEAKER_04
+I assume if you were asked before it exploded, if it was working great, you would have said
+
+[00:51:40] SPEAKER_04
+yes.
+
+[00:51:40] SPEAKER_04
+How do you know that the bike is in fact working great and you're not just like moments
+
+[00:51:44] SPEAKER_05
+away from, well, everything's great until it explodes.
+
+[00:51:48] SPEAKER_05
+Exactly.
+
+[00:51:48] SPEAKER_05
+Yeah.
+
+[00:51:48] SPEAKER_06
+No, totally.
+
+[00:51:49] SPEAKER_06
+I have no idea.
+
+[00:51:50] SPEAKER_06
+You're right.
+
+[00:51:51] SPEAKER_06
+I'm saying it works.
+
+[00:51:52] SPEAKER_06
+It's working great as of this moment, but it might not be working great in an hour.
+
+[00:51:56] SPEAKER_06
+I don't know.
+
+[00:51:57] SPEAKER_06
+That's why I'm buying a new bike.
+
+[00:51:59] SPEAKER_06
+That's why I'm getting another better bike.
+
+[00:52:00] SPEAKER_06
+I'm getting, I'm paying more money to get a better bike, uh, that lasts longer.
+
+[00:52:04] SPEAKER_06
+The bikes I was looking at yesterday, the guy told me they should last 10 to 11 years
+
+[00:52:08] SPEAKER_06
+before I have any of these kinds of problems.
+
+[00:52:10] SPEAKER_06
+I explained every problem I had.
+
+[00:52:11] SPEAKER_06
+And it's like we, yeah, we, uh, I think that there's a bike out there for me.
+
+[00:52:15] SPEAKER_06
+I just, uh, I was just at my wits end with this motherfucker.
+
+[00:52:18] SPEAKER_06
+I can't, I can't believe I had three bikes all break at the same time and strand me as
+
+[00:52:23] SPEAKER_06
+far as 15 miles away from home, five out of seven times.
+
+[00:52:27] SPEAKER_04
+I'm amazed that you're willing to still ride the bike.
+
+[00:52:30] SPEAKER_04
+Cause I don't, I think if I am sitting in a vehicle that explodes, I'm not getting back
+
+[00:52:35] SPEAKER_04
+in that vehicle.
+
+[00:52:35] SPEAKER_04
+Even if I think I may have fixed it, that is how, that is how dire the need for bike riding
+
+[00:52:43] SPEAKER_06
+is.
+
+[00:52:44] SPEAKER_06
+What if you became a one wheel guy?
+
+[00:52:46] SPEAKER_04
+Ooh, and I feel like there's something physically about like moving and the pedaling, even though
+
+[00:52:52] SPEAKER_04
+it's consistent.
+
+[00:52:53] SPEAKER_06
+Can you, can you ride your one wheel from home to the office?
+
+[00:52:57] SPEAKER_06
+I've not done that, but it has the range.
+
+[00:52:59] SPEAKER_06
+I mean, I would be interested in the one wheel as an addition.
+
+[00:53:05] SPEAKER_06
+To a really good e-bike and a really good normal bike.
+
+[00:53:10] SPEAKER_06
+I have one.
+
+[00:53:10] SPEAKER_06
+I just need to pull it out of storage for when this kind of stuff happens again, because
+
+[00:53:13] SPEAKER_06
+I, I, I've realized I don't want to stop riding.
+
+[00:53:16] SPEAKER_06
+Like I still need to ride my bike.
+
+[00:53:18] SPEAKER_06
+It's like, it's how I maintain my sanity.
+
+[00:53:20] SPEAKER_06
+And so it's gotta happen.
+
+[00:53:21] SPEAKER_06
+I gotta have a, so I need to have a backup.
+
+[00:53:23] SPEAKER_06
+Uh, I thought I had three.
+
+[00:53:24] SPEAKER_06
+I thought I had a bunch of backups, but it turns out it didn't.
+
+[00:53:27] SPEAKER_04
+So I wrote, cause I was going to say, I feel like the last time we talked about you
+
+[00:53:33] SPEAKER_04
+and your bike issues, the story ended with you saying that you had ordered a
+
+[00:53:36] SPEAKER_04
+bunch of spare parts for that was the spare parts.
+
+[00:53:40] SPEAKER_04
+Yeah.
+
+[00:53:40] SPEAKER_04
+Yeah.
+
+[00:53:40] SPEAKER_04
+Just for extra shit.
+
+[00:53:41] SPEAKER_04
+Yeah.
+
+[00:53:42] SPEAKER_04
+It was, your tail is like Goldilocks.
+
+[00:53:44] SPEAKER_04
+If she just fucked up every option, every time, like it was just all three constantly
+
+[00:53:49] SPEAKER_04
+broken.
+
+[00:53:50] SPEAKER_04
+None of them were right.
+
+[00:53:52] SPEAKER_04
+They were all broken in various ways.
+
+[00:53:54] SPEAKER_04
+Do you have a bike entry?
+
+[00:53:56] SPEAKER_04
+No, no, I don't.
+
+[00:53:57] SPEAKER_04
+Of any variety.
+
+[00:53:59] SPEAKER_04
+E-bike, standard pedal.
+
+[00:54:01] SPEAKER_05
+So if you, if you want to go somewhere that's, it's walkable, but you need to get that quick.
+
+[00:54:06] SPEAKER_05
+What do you, what do you go for?
+
+[00:54:07] SPEAKER_04
+I leave early.
+
+[00:54:09] SPEAKER_04
+Oh, that's pretty good.
+
+[00:54:11] SPEAKER_06
+What an answer.
+
+[00:54:16] SPEAKER_04
+There's never a situation in which I immediately need to be at a place where I couldn't just
+
+[00:54:21] SPEAKER_04
+like, if I need a cab, I could call a cab or an Uber or whatever.
+
+[00:54:25] SPEAKER_04
+It was similar.
+
+[00:54:27] SPEAKER_04
+Yeah.
+
+[00:54:27] SPEAKER_04
+You just drive.
+
+[00:54:29] SPEAKER_06
+Guys.
+
+[00:54:29] SPEAKER_06
+That's why.
+
+[00:54:30] SPEAKER_06
+We talked about everything on my list.
+
+[00:54:33] SPEAKER_06
+I didn't think we did.
+
+[00:54:33] SPEAKER_06
+Did we?
+
+[00:54:34] SPEAKER_03
+That's exciting.
+
+[00:54:35] SPEAKER_03
+I'm glad we were through your list.
+
+[00:54:36] SPEAKER_06
+Not everything.
+
+[00:54:38] SPEAKER_06
+There were three other things.
+
+[00:54:39] SPEAKER_06
+I've invented a new blow dryer that I wanted to show you guys, but I need to make a prototype
+
+[00:54:42] SPEAKER_06
+for it.
+
+[00:54:43] SPEAKER_04
+No, wait.
+
+[00:54:43] SPEAKER_04
+What?
+
+[00:54:44] SPEAKER_04
+No.
+
+[00:54:44] SPEAKER_04
+You can't be like, I finished the list and then be like, I invented a new product.
+
+[00:54:48] SPEAKER_04
+Yeah, yeah.
+
+[00:54:48] SPEAKER_06
+I just, I saw the part I missed.
+
+[00:54:50] SPEAKER_06
+Yeah.
+
+[00:54:50] SPEAKER_06
+I invented a new product.
+
+[00:54:52] SPEAKER_06
+I have to make a prototype for it.
+
+[00:54:53] SPEAKER_06
+I'm very excited about it.
+
+[00:54:54] SPEAKER_06
+It's for blowing, it's for blow drying your hair on the go.
+
+[00:54:56] SPEAKER_06
+I think you guys are going to love it.
+
+[00:54:57] SPEAKER_06
+I think it's going to be a big seller for us.
+
+[00:54:59] SPEAKER_06
+Okay.
+
+[00:55:00] SPEAKER_06
+Also, one other thing, and this is, this is a bit of a bummer.
+
+[00:55:04] SPEAKER_06
+Uh, two weeks ago, Andrew, our rookies played each other.
+
+[00:55:07] SPEAKER_04
+They did.
+
+[00:55:09] SPEAKER_06
+In the NFL, the, uh, they did the, the teams played, uh, it was Najee Harris versus, uh,
+
+[00:55:15] SPEAKER_06
+your guy, Justin Fields.
+
+[00:55:17] SPEAKER_06
+Yeah.
+
+[00:55:17] SPEAKER_06
+And, uh, um, uh, my team won, of course.
+
+[00:55:21] SPEAKER_06
+Uh, and it was, it was a little touch and go for a while.
+
+[00:55:25] SPEAKER_06
+I was watching it in bed and I decided at that moment I had been trying, I talked about
+
+[00:55:30] SPEAKER_06
+this earlier.
+
+[00:55:31] SPEAKER_06
+I'd been trying to let Najee work through his rookie season on his own without any help
+
+[00:55:35] SPEAKER_06
+from me, but I was a little nervous going head to head against you.
+
+[00:55:39] SPEAKER_06
+So, uh, for the first time in, in our magic competition, I did some incantations and some
+
+[00:55:45] SPEAKER_06
+good luck spells, did two different good luck spells, uh, multiple times.
+
+[00:55:50] SPEAKER_06
+And, uh, you know, they won.
+
+[00:55:54] SPEAKER_06
+So I think that, I think the first time I, I felt the need to, to inject magic.
+
+[00:56:01] SPEAKER_06
+Into the competition, it worked.
+
+[00:56:03] SPEAKER_06
+So I just, I gotta let you know, I'm using magic.
+
+[00:56:06] SPEAKER_04
+I hate that Gavin is currently winning this bet.
+
+[00:56:09] SPEAKER_04
+McCorkle!
+
+[00:56:10] SPEAKER_04
+That is the worst part of this.
+
+[00:56:12] SPEAKER_04
+And I also hate that we didn't, I feel like if we all would have known that his name was
+
+[00:56:16] SPEAKER_04
+actually Michael Jones and the McCorkle thing, I feel like that would have been the guy.
+
+[00:56:20] SPEAKER_04
+Like, that's just, it's so, it's a clear sign.
+
+[00:56:22] SPEAKER_04
+Yeah, it's iconic.
+
+[00:56:23] SPEAKER_05
+I feel like, also no magic.
+
+[00:56:25] SPEAKER_04
+Yeah, no magic.
+
+[00:56:26] SPEAKER_04
+Like that's, it's just, it's upsetting at several levels.
+
+[00:56:29] SPEAKER_04
+I'm still, I believe in Justin Fields.
+
+[00:56:31] SPEAKER_04
+You should believe in Harris, Jeff.
+
+[00:56:32] SPEAKER_04
+He looks phenomenal.
+
+[00:56:34] SPEAKER_04
+He looks great.
+
+[00:56:35] SPEAKER_04
+It just, it's going to be tough.
+
+[00:56:37] SPEAKER_06
+It turns out the real magic is in the McCorkle.
+
+[00:56:40] SPEAKER_04
+It is.
+
+[00:56:42] SPEAKER_04
+Did you see that?
+
+[00:56:44] SPEAKER_04
+Like there was when they played, the announcers made like a big deal of the fact talking
+
+[00:56:49] SPEAKER_04
+about, I guess, Najee Harris grew up homeless and they told this story about how like, yeah,
+
+[00:56:54] SPEAKER_04
+when he went to college, he slept on the floor for a few weeks because he just, he didn't,
+
+[00:56:57] SPEAKER_04
+he didn't feel comfortable with it.
+
+[00:56:59] SPEAKER_04
+And then after the game, he was like, I didn't fucking, where did you get that from?
+
+[00:57:02] SPEAKER_04
+They never happened.
+
+[00:57:04] SPEAKER_04
+He's like, I slept in my bed.
+
+[00:57:06] SPEAKER_04
+Why would I not sleep in my bed?
+
+[00:57:07] SPEAKER_04
+What are you saying?
+
+[00:57:09] SPEAKER_04
+I did not sleep on the floor in college, but I'm upset.
+
+[00:57:12] SPEAKER_04
+I'm upset that, uh, I don't feel like fields.
+
+[00:57:16] SPEAKER_06
+You better start doing some magic, man.
+
+[00:57:17] SPEAKER_04
+I have been pushing magic really hard.
+
+[00:57:21] SPEAKER_04
+I've been, I've been doing my, I feel like the fact that Justin Fields became starter when
+
+[00:57:25] SPEAKER_04
+he did, I, I would like to take some credit for that.
+
+[00:57:28] SPEAKER_04
+I feel like I deserve a little bit.
+
+[00:57:30] SPEAKER_04
+I think that's fair.
+
+[00:57:31] SPEAKER_04
+Putting potions and magic and all that towards.
+
+[00:57:34] SPEAKER_04
+What kind of, what kind of magic have you cost?
+
+[00:57:37] SPEAKER_04
+I just, you know, it feels weird for me saying I deserve credit for it, but for putting the
+
+[00:57:41] SPEAKER_04
+ball in motion, for putting those who are capable at casting such things in the direction
+
+[00:57:45] SPEAKER_04
+of him playing, I feel like some credit is deserved.
+
+[00:57:49] SPEAKER_04
+I feel like this show, let's not say me, this show, the people in Chicago.
+
+[00:57:55] SPEAKER_04
+Okay.
+
+[00:57:56] SPEAKER_04
+Well, for most of the 80% of the show deserves some level of credit for Justin Fields starting
+
+[00:58:03] SPEAKER_04
+when he did Andy Dalton being on, being on the bench.
+
+[00:58:06] SPEAKER_06
+All I'm saying is, hiring people, enlisting help on the magic front, I think is super valid
+
+[00:58:14] SPEAKER_06
+and useful, but if you haven't already, throw a person, throw some, throw some magic his
+
+[00:58:21] SPEAKER_06
+way via yourself, you know?
+
+[00:58:22] SPEAKER_06
+Pick up that wand, do some spells.
+
+[00:58:25] SPEAKER_06
+It worked out well.
+
+[00:58:26] SPEAKER_06
+That's okay.
+
+[00:58:27] SPEAKER_04
+I think I might get into that.
+
+[00:58:28] SPEAKER_04
+It's worth a shot.
+
+[00:58:29] SPEAKER_04
+I'm going to look into that.
+
+[00:58:30] SPEAKER_05
+Andrew.
+
+[00:58:31] SPEAKER_04
+Yes.
+
+[00:58:32] SPEAKER_05
+Have you noticed that your redemption year is coming to an end?
+
+[00:58:37] SPEAKER_04
+Oh.
+
+[00:58:37] SPEAKER_05
+I'm going to look close.
+
+[00:58:39] SPEAKER_04
+No, well, hmm.
+
+[00:58:40] SPEAKER_04
+This is a weird.
+
+[00:58:42] SPEAKER_04
+No, it's not.
+
+[00:58:42] SPEAKER_04
+Is it a redemption year or a redemption season?
+
+[00:58:43] SPEAKER_04
+No, it's not.
+
+[00:58:44] SPEAKER_04
+No, it's not.
+
+[00:58:45] SPEAKER_04
+Because it was the end of the first year of the podcast.
+
+[00:58:48] SPEAKER_04
+Yeah.
+
+[00:58:48] SPEAKER_04
+So the redemption year, year two, doesn't end in 2021.
+
+[00:58:52] SPEAKER_04
+It ends in when?
+
+[00:58:54] SPEAKER_04
+June?
+
+[00:58:54] SPEAKER_04
+I think the first week of June.
+
+[00:58:55] SPEAKER_04
+Oh, so you're halfway through the redemption year.
+
+[00:58:57] SPEAKER_04
+So we're halfway through redemption.
+
+[00:58:58] SPEAKER_04
+We just started redeeming, Gavin.
+
+[00:59:01] SPEAKER_04
+Okay, yeah.
+
+[00:59:02] SPEAKER_05
+Wasn't it on your birthday that we started redeeming?
+
+[00:59:04] SPEAKER_04
+No, it was the start of the podcast.
+
+[00:59:07] SPEAKER_04
+It was year two, and we did the year the show's been going on for a calendar year.
+
+[00:59:11] SPEAKER_04
+Year two, redemption year.
+
+[00:59:13] SPEAKER_05
+Yeah, Nick asks a great question.
+
+[00:59:16] SPEAKER_05
+What's left to redeem?
+
+[00:59:17] SPEAKER_04
+Uh, still, obviously, the marathon's the thing that needs to happen at some point, and I think
+
+[00:59:23] SPEAKER_04
+that's, uh, I feel like I've gotten redemption on most things at that point.
+
+[00:59:28] SPEAKER_04
+I think that kind of covers it.
+
+[00:59:30] SPEAKER_04
+Yeah?
+
+[00:59:31] SPEAKER_04
+Yeah, I think pretty good about a lot of the things that, I mean, I feel like, I don't know
+
+[00:59:36] SPEAKER_04
+if you guys have any, what do you think needs redeemed at this stage?
+
+[00:59:40] SPEAKER_04
+I'd say that was, it's about it.
+
+[00:59:42] SPEAKER_04
+I'd say it's kind of the only loose thread at this point.
+
+[00:59:44] SPEAKER_04
+I redid the salad, I think the salad cream 2.0 turned out great.
+
+[00:59:49] SPEAKER_04
+I redeemed the chocolate, I redeemed the, uh, the, uh, soda, tried that again.
+
+[00:59:56] SPEAKER_04
+I can't think of a single thing you're missing here.
+
+[01:00:00] SPEAKER_04
+I think I, I think I covered everything.
+
+[01:00:02] SPEAKER_06
+Hey, I noticed that Nick is the one that told us to stop talking.
+
+[01:00:06] SPEAKER_06
+Does that mean Eric's gone?
+
+[01:00:08] SPEAKER_06
+Eric seems to have left a long time ago.
+
+[01:00:10] SPEAKER_04
+Assume that Eric's internet dropped once again.
+
+[01:00:12] SPEAKER_04
+He has been gone for a while.
+
+[01:00:17] SPEAKER_06
+Oh, that's, that's beautiful.
+
+[01:00:20] SPEAKER_06
+That's beautiful.
+
+[01:00:21] SPEAKER_06
+Because earlier today, I left a meeting early, the one where they were pranking me.
+
+[01:00:26] SPEAKER_06
+Uh, I left a meeting early because I sat down to get ready for this podcast with about
+
+[01:00:30] SPEAKER_06
+30 minutes to go and had an audio, like, conflict.
+
+[01:00:33] SPEAKER_06
+And I told him in that meeting, I was like, I'm going to leave this meeting early to fix
+
+[01:00:36] SPEAKER_06
+my setup.
+
+[01:00:37] SPEAKER_06
+And he was like, Oh my God, you and your fucking setup again.
+
+[01:00:39] SPEAKER_06
+And I'm like, I know, I'm just going to get, I don't, it won't be a problem for the episode.
+
+[01:00:43] SPEAKER_06
+I'll get it fixed.
+
+[01:00:43] SPEAKER_06
+And I did.
+
+[01:00:44] SPEAKER_06
+But where's our fearless producer having tech problems again?
+
+[01:00:49] SPEAKER_06
+Aye, aye, aye.
+
+[01:00:51] SPEAKER_06
+Should we call him?
+
+[01:00:53] SPEAKER_06
+No.
+
+[01:00:53] SPEAKER_06
+Then we'd have to talk to him.
+
+[01:00:55] SPEAKER_06
+Tsk, tsk.
+
+[01:00:55] SPEAKER_06
+As Nick said.
+
+[01:00:58] SPEAKER_04
+We could go on forever.
+
+[01:00:59] SPEAKER_04
+There's nobody to stop.
+
+[01:01:00] SPEAKER_04
+We could just continue on.
+
+[01:01:00] SPEAKER_06
+Well, we don't want to, Nick's got, Nick's got a family.
+
+[01:01:03] SPEAKER_06
+He doesn't, he doesn't.
+
+[01:01:03] SPEAKER_06
+That's true.
+
+[01:01:03] SPEAKER_06
+You know what?
+
+[01:01:04] SPEAKER_06
+You're right.
+
+[01:01:05] SPEAKER_06
+I do have, I do have one question though.
+
+[01:01:07] SPEAKER_06
+I feel like a couple of weeks ago, a couple of episodes ago, who knows what it was.
+
+[01:01:11] SPEAKER_06
+We dropped a pretty big thing in, in the face being officially represented by a superhero.
+
+[01:01:18] SPEAKER_06
+What was that guy's naming in the, the something sportsman?
+
+[01:01:21] SPEAKER_06
+Marty Baxter.
+
+[01:01:23] SPEAKER_04
+Yeah.
+
+[01:01:23] SPEAKER_04
+But his, the care.
+
+[01:01:24] SPEAKER_04
+So that's, I just want to point out the fact it's not, we haven't actually, we don't want
+
+[01:01:28] SPEAKER_04
+to sign a superhero.
+
+[01:01:29] SPEAKER_04
+We want to sign a guy that has arthritis who is possessed by an alien.
+
+[01:01:33] SPEAKER_04
+Technically not a superhero who we're getting at this stage.
+
+[01:01:36] SPEAKER_04
+And what, what, what is his superhero name again?
+
+[01:01:39] SPEAKER_04
+Uh, the smashing sportsman.
+
+[01:01:41] SPEAKER_04
+Smashing sportsman.
+
+[01:01:42] SPEAKER_04
+That's right.
+
+[01:01:42] SPEAKER_04
+Yes.
+
+[01:01:43] SPEAKER_04
+So, uh, I just, where, where are we on that?
+
+[01:01:45] SPEAKER_04
+I, uh, we talked about it and then I forgot about it.
+
+[01:01:47] SPEAKER_04
+I, I would love an update on it.
+
+[01:01:49] SPEAKER_04
+I don't know how to push that ball forward internally.
+
+[01:01:52] SPEAKER_04
+That is something that, uh, I, I, I don't know.
+
+[01:01:55] SPEAKER_04
+You'd have to.
+
+[01:01:55] SPEAKER_06
+Sounds like, sounds like it's on Eric.
+
+[01:01:57] SPEAKER_06
+Sounds like an Eric.
+
+[01:01:58] SPEAKER_06
+She was here.
+
+[01:01:58] SPEAKER_06
+If only he was here.
+
+[01:02:01] SPEAKER_06
+Well, if you, if you, uh, if you're related to the, like a distant relative of the smashing
+
+[01:02:05] SPEAKER_06
+sportsman or, you know, you know, his family in some way, Marty Baxter, or, uh, or maybe
+
+[01:02:10] SPEAKER_06
+if you're like the president of DC comics or Warner brothers and you want to, uh, hit us
+
+[01:02:14] SPEAKER_06
+up and allow us to, to use, uh, that character as our official superhero.
+
+[01:02:18] SPEAKER_06
+We, uh, we promise, uh, we promise to do good.
+
+[01:02:21] SPEAKER_05
+Now we should probably throw it to, uh, minor league fan, Jack Petillo to tell us what's
+
+[01:02:26] SPEAKER_05
+coming up on next week's face on next week.
+
+[01:02:30] SPEAKER_04
+What do you mean?
+
+[01:02:31] SPEAKER_04
+Your idea was that he'd look at the images for what, what are you talking about?
+
+[01:02:37] SPEAKER_05
+Like we would record next week and we would let him read the chat and then he would record
+
+[01:02:44] SPEAKER_05
+a based on that.
+
+[01:02:45] SPEAKER_05
+And we stick it on this one.
+
+[01:02:47] SPEAKER_05
+I'm so we're just going to edit this in.
+
+[01:02:48] SPEAKER_06
+No, he's, he's right.
+
+[01:02:50] SPEAKER_05
+He's right.
+
+[01:02:50] SPEAKER_05
+Like, imagine what we did today, but next week we came up with the idea in this one.
+
+[01:02:54] SPEAKER_05
+So we can't do this one.
+
+[01:02:56] SPEAKER_03
+Okay.
+
+[01:02:57] SPEAKER_05
+Okay.
+
+[01:02:57] SPEAKER_04
+As long as we're always one ahead, we can, but we don't even know is what's weird about
+
+[01:03:02] SPEAKER_04
+it.
+
+[01:03:02] SPEAKER_04
+We don't know what's coming next week.
+
+[01:03:04] SPEAKER_04
+That's why I feel like comfortable about this, but Jack does.
+
+[01:03:08] SPEAKER_04
+You're right.
+
+[01:03:08] SPEAKER_05
+Or he will next week.
+
+[01:03:09] SPEAKER_05
+They can shoot it and see how accurate it was.
+
+[01:03:12] SPEAKER_05
+You're right.
+
+[01:03:13] SPEAKER_05
+I think that's a fantastic idea.
+
+[01:03:16] SPEAKER_02
+We'll try it out.
+
+[01:03:17] SPEAKER_02
+We'll experiment with it.
+
+[01:03:21] SPEAKER_02
+Hey guys, minor league fan Jack here to give you a preview of next week's episode of face.
+
+[01:03:25] SPEAKER_02
+Jeff gives an update on his pitching.
+
+[01:03:28] SPEAKER_02
+The gang gives their thoughts on karate movies.
+
+[01:03:30] SPEAKER_02
+Jeff goes on about his favorite Apple related film.
+
+[01:03:33] SPEAKER_02
+Andrew loses his mind about dark chocolate candy.
+
+[01:03:36] SPEAKER_02
+Jeff returns from the proctologist and makes a shocking discovery.
+
+[01:03:40] SPEAKER_02
+And once again, Andrew does not eat the pencil.
+
+[01:03:43] SPEAKER_02
+All this and more on the next episode of face.
+
+[01:03:48] SPEAKER_06
+I got to drink so much gross water.
+
+[01:03:51] SPEAKER_06
+Good luck with your colon.
+
+[01:03:53] SPEAKER_06
+46 ounces in the next like hour.
+
+[01:03:57] SPEAKER_06
+That's not a lot.
+
+[01:03:58] SPEAKER_06
+How much is an ounce?
+
+[01:03:59] SPEAKER_06
+It's not just water.
+
+[01:04:00] SPEAKER_06
+And now it's about an ounce.
+
+[01:04:02] SPEAKER_06
+How much is an ounce?
+
+[01:04:04] SPEAKER_06
+It's the amount.
+
+[01:04:04] SPEAKER_06
+How many cups in an ounce?
+
+[01:04:06] SPEAKER_06
+Oh, like a diet Coke.
+
+[01:04:07] SPEAKER_06
+Like a Coke can is like 12 ounces, right?
+
+[01:04:10] SPEAKER_06
+16 ounces, something like that.
+
+[01:04:11] SPEAKER_04
+Okay, so like a Coke.
+
+[01:04:13] SPEAKER_04
+So you need to drink what?
+
+[01:04:14] SPEAKER_04
+Like three cans of Coke, essentially?
+
+[01:04:17] SPEAKER_06
+I think it's probably closer to four.
+
+[01:04:19] SPEAKER_06
+But it's not just water.
+
+[01:04:20] SPEAKER_06
+It's like a solution that's gross.
+
+[01:04:22] SPEAKER_04
+I remember when I got x-rayed, I was told it would taste like a milkshake.
+
+[01:04:26] SPEAKER_04
+And that's one of the most, like the worst lies anyone's ever told me.
+
+[01:04:30] SPEAKER_04
+I've never felt more betrayed, especially as a child who had never had a milkshake before.
+
+[01:04:35] SPEAKER_04
+I was like, I'm going to get to fucking try a milkshake today.
+
+[01:04:37] SPEAKER_04
+I'm going to get some lab work done.
+
+[01:04:39] SPEAKER_04
+I'm so excited.
+
+[01:04:40] SPEAKER_04
+I remember the person saying when I got there being like, yeah, you're going to have to
+
+[01:04:43] SPEAKER_04
+drink the solution.
+
+[01:04:45] SPEAKER_04
+And as a kid, I remember replying, yeah, I heard it tastes like a milkshake.
+
+[01:04:48] SPEAKER_04
+Can't wait.
+
+[01:04:49] SPEAKER_04
+And just seeing the confusion on their face like that.
+
+[01:04:52] SPEAKER_04
+Oh, somebody is clearly lied to you and registering like that was a weird facial response
+
+[01:04:58] SPEAKER_04
+to my deck.
+
+[01:04:59] SPEAKER_04
+One of the worst drinks I've ever had.
+
+[01:05:01] SPEAKER_04
+It was a traumatic experience.
+
+[01:05:03] SPEAKER_04
+Maybe that's why I've never had a milkshake to this day.
+
+[01:05:05] SPEAKER_04
+Maybe we're going deep into the core.
+
+[01:05:07] SPEAKER_04
+You've never had a milkshake?
+
+[01:05:08] SPEAKER_04
+How can you drop that on us when we're ending the episode?
+
+[01:05:13] SPEAKER_04
+I feel like we've talked about the fact I've never had a milkshake.
+
+[01:05:16] SPEAKER_04
+I'm sure it's been mentioned in a list of things I haven't done.
+
+[01:05:19] SPEAKER_06
+Nick doesn't remember it.
+
+[01:05:21] SPEAKER_06
+I don't.
+
+[01:05:22] SPEAKER_06
+Gavin, do you remember him ever saying he's never had a fucking...
+
+[01:05:23] SPEAKER_05
+I know, I feel like I always dwell on the eggs and meatballs, but milkshake as well?
+
+[01:05:29] SPEAKER_05
+I'm going to make you dinner when I come to stay.
+
+[01:05:31] SPEAKER_05
+I'm going to cook you a three-course meal and I'll give it to you in the bar.
+
+[01:05:34] SPEAKER_04
+Okay, you cook the meal.
+
+[01:05:37] SPEAKER_04
+I will design the toilet table to make it look really nice.
+
+[01:05:40] SPEAKER_04
+You're having eggs and meatballs and milkshakes.
+
+[01:05:44] SPEAKER_04
+And pickles, right?
+
+[01:05:46] SPEAKER_04
+I've had pickles.
+
+[01:05:47] SPEAKER_04
+I've never, like, I've tried pickles.
+
+[01:05:48] SPEAKER_04
+I've never, this is not a big, yeah, not a big pickle guy.
+
+[01:05:53] SPEAKER_06
+Bananas.
+
+[01:05:53] SPEAKER_04
+Maple syrup.
+
+[01:05:54] SPEAKER_04
+Bananas suck.
+
+[01:05:55] SPEAKER_04
+I tried them again.
+
+[01:05:56] SPEAKER_04
+I went in with an open mind.
+
+[01:05:57] SPEAKER_04
+Have you ever had a banana split?
+
+[01:06:00] SPEAKER_04
+No.
+
+[01:06:01] SPEAKER_06
+Goddamn, man.
+
+[01:06:02] SPEAKER_04
+Is that like, is that, would that elevate the banana?
+
+[01:06:04] SPEAKER_04
+Because I'm putting in other things so I could see it.
+
+[01:06:06] SPEAKER_04
+Because I don't have an issue with the taste.
+
+[01:06:08] SPEAKER_04
+It's the, purely the texture.
+
+[01:06:11] SPEAKER_06
+I mean, it's pretty fucking fantastic.
+
+[01:06:13] SPEAKER_06
+But you've never had a milkshake, so you won't have anything to, I don't know, we need,
+
+[01:06:16] SPEAKER_06
+Kevin's right, we need to spend some time with you.
+
+[01:06:20] SPEAKER_05
+Putting stuff in your mouth.
+
+[01:06:21] SPEAKER_05
+Because all the time I've spent with you so far, I've apparently forgotten about, so
+
+[01:06:23] SPEAKER_05
+I need some memorable time with you.
+
+[01:06:26] SPEAKER_04
+That's, uh, I don't know how to, that feels like an insult.
+
+[01:06:30] SPEAKER_04
+That feels like a dig.
+
+[01:06:31] SPEAKER_04
+Yeah, we went through that.
+
+[01:06:31] SPEAKER_04
+I've just got bad memory.
+
+[01:06:32] SPEAKER_04
+That feels like a dig on the way out.
+
+[01:06:34] SPEAKER_05
+Nah.
+
+[01:06:34] SPEAKER_05
+I'm going to cook you, I'm going to cook you dinner.
+
+[01:06:36] SPEAKER_04
+I thought you were about to say, I'm going to cook you a milkshake, which would be an
+
+[01:06:40] SPEAKER_04
+alarming, I truly don't know how they work.
+
+[01:06:43] SPEAKER_06
+This is a, I'm going to say this right now, Andrew, this is an honor that you should,
+
+[01:06:47] SPEAKER_06
+and you should feel as such.
+
+[01:06:49] SPEAKER_06
+Gavin lived with me off and on, uh, for years, over the span of like seven or eight
+
+[01:06:55] SPEAKER_06
+years, but he legit lived with me for a couple of years, like day in, day out.
+
+[01:07:00] SPEAKER_06
+And I don't think he ever cooked anything for me once the entire time.
+
+[01:07:06] SPEAKER_06
+He certainly ate a lot of food I cooked for him.
+
+[01:07:08] SPEAKER_06
+I don't think he ever cooked me anything.
+
+[01:07:09] SPEAKER_05
+You threw out on the meat once while you were grilling.
+
+[01:07:13] SPEAKER_06
+So what I'm saying is, savor it.
+
+[01:07:16] SPEAKER_06
+It's not often you get, it's not often you get world famous Gavin Free to cook you a meal.
+
+[01:07:20] SPEAKER_04
+You threw a stick at his head when he was suntanning in the front lawn once.
+
+[01:07:25] SPEAKER_04
+I feel like that also might have a factor.
+
+[01:07:26] SPEAKER_06
+I certainly, certainly did not.
+
+[01:07:28] SPEAKER_06
+And that was, that was toward the tail end of it.
+
+[01:07:31] SPEAKER_06
+And maybe, and if I did throw a stick, it might've been because the motherfucker never
+
+[01:07:35] SPEAKER_06
+lifted a finger to help cook.
+
+[01:07:36] SPEAKER_04
+I like you going like full OJ on this.
+
+[01:07:41] SPEAKER_04
+I didn't do it, but let me explain if I did.
+
+[01:07:44] SPEAKER_04
+If I did, that would've.
+
+[01:07:46] SPEAKER_06
+Here's why I did.
+
+[01:07:48] SPEAKER_06
+Here's why I would've done it.
+
+[01:07:52] SPEAKER_04
+I didn't do it, but I have plenty of motive and let me explain to you why.
+
+[01:07:56] SPEAKER_04
+Let me tell you all the reasons that I, I rightfully, you should give me credit that
+
+[01:08:00] SPEAKER_04
+I didn't do this because this is all of the ammo I have for why I should have.
+
+[01:08:04] SPEAKER_06
+Holy shit.
+
+[01:08:09] SPEAKER_06
+Good couple of eps.
+
+[01:08:10] SPEAKER_06
+Well, this one was pretty good.
+
+[01:08:11] SPEAKER_06
+The last one I wasn't crazy about, but we've done, we've done it again.
+
+[01:08:15] SPEAKER_06
+I was, I was, I was so off.
+
+[01:08:18] SPEAKER_04
+Oh, you should have heard Jeff before you got there, Gavin.
+
+[01:08:21] SPEAKER_05
+Oh boy.
+
+[01:08:22] SPEAKER_05
+He was.
+
+[01:08:22] SPEAKER_05
+Did you, did you piss him off before we started?
+
+[01:08:24] SPEAKER_05
+Is that what happened?
+
+[01:08:25] SPEAKER_05
+I quit the podcast before we started.
+
+[01:08:27] SPEAKER_04
+Yeah, it was a bad, he was not happy.
+
+[01:08:30] SPEAKER_06
+It was just like the exact, I just like, it was like, it was a perfect confluence of
+
+[01:08:35] SPEAKER_06
+things.
+
+[01:08:36] SPEAKER_06
+Like I, uh, you know, I feel like hammered shit and I mean, I just, I haven't eaten a
+
+[01:08:43] SPEAKER_06
+meal in days, so I'm loopy.
+
+[01:08:45] SPEAKER_06
+I know my blood sugar's all fucked up.
+
+[01:08:47] SPEAKER_06
+I'm thirsty or not thirsty.
+
+[01:08:49] SPEAKER_06
+I'm just fucking, I'm like full of liquid.
+
+[01:08:51] SPEAKER_06
+I'm, I'm literally like shooting piss out of my butthole, like a fire hose.
+
+[01:08:57] SPEAKER_06
+It's very uncomfortable.
+
+[01:08:59] SPEAKER_06
+I spent two and a half hours on us just on the toilet this morning before I even got up.
+
+[01:09:04] SPEAKER_06
+So I'm just so diminished.
+
+[01:09:05] SPEAKER_06
+And then I sit down, I have to have a quick 30 minute meeting about merch.
+
+[01:09:09] SPEAKER_06
+I realized I don't have a lot prepared because I wasn't, I was in bed until the moment I got
+
+[01:09:13] SPEAKER_06
+up to have that meeting and I sit down and I, while I'm having the meeting, I'm setting
+
+[01:09:18] SPEAKER_06
+up audio for the podcast and suddenly none of it works.
+
+[01:09:21] SPEAKER_06
+Even though all I do on this computer is slack and this podcast, I don't even go in this
+
+[01:09:27] SPEAKER_06
+room unless I'm podcasting.
+
+[01:09:29] SPEAKER_06
+So I don't know how it all, how it all got fucked.
+
+[01:09:31] SPEAKER_06
+Well, yeah.
+
+[01:09:32] SPEAKER_06
+Well, it's, it's a problem.
+
+[01:09:33] SPEAKER_06
+I never wanted this to be my office because I knew when it became my office, I wouldn't
+
+[01:09:35] SPEAKER_06
+want to come in here anymore because I would associate it with work.
+
+[01:09:37] SPEAKER_06
+And unfortunately the pandemic made that happen before the pandemic.
+
+[01:09:41] SPEAKER_06
+This was the, I spent all my time here post pandemic.
+
+[01:09:44] SPEAKER_06
+I look at it and I see work.
+
+[01:09:46] SPEAKER_06
+Uh, anyway, so I sit down and then all that shit's broken.
+
+[01:09:49] SPEAKER_06
+And then immediately I'm like, all right, I'm going to have to leave.
+
+[01:09:51] SPEAKER_06
+This meeting early so that I can fix this.
+
+[01:09:54] SPEAKER_06
+So it doesn't affect the podcast.
+
+[01:09:55] SPEAKER_06
+Eric's immediately yelling at me about all my stuff's always broken.
+
+[01:09:58] SPEAKER_06
+And I'm like, got it.
+
+[01:09:59] SPEAKER_06
+Need definitely, definitely needed to hear that right now.
+
+[01:10:01] SPEAKER_06
+Uh, then, uh, then I'm like, as I'm leaving, I think, oh, I'm leaving Andrew and Eric in
+
+[01:10:06] SPEAKER_06
+a meeting without me.
+
+[01:10:09] SPEAKER_06
+They're gonna fuck with me.
+
+[01:10:11] SPEAKER_06
+And then I sit down, I finally get it all working.
+
+[01:10:14] SPEAKER_06
+I sit down to start.
+
+[01:10:14] SPEAKER_06
+And then they start recounting how I had already agreed to sign hundreds of items for something
+
+[01:10:20] SPEAKER_06
+that we hadn't talked about.
+
+[01:10:21] SPEAKER_06
+And I was just like, not doing it right now.
+
+[01:10:23] SPEAKER_06
+I was like, I'm not having it.
+
+[01:10:24] SPEAKER_06
+I'm not doing it.
+
+[01:10:25] SPEAKER_06
+I'm not doing the gaslighting thing.
+
+[01:10:26] SPEAKER_06
+I'm barely hanging in here.
+
+[01:10:28] SPEAKER_06
+And they doubled down.
+
+[01:10:29] SPEAKER_06
+And so I was just like, I'm done.
+
+[01:10:30] SPEAKER_06
+I'll be back at two when the podcast starts.
+
+[01:10:32] SPEAKER_06
+And I just put my headphones down and I left and I came back.
+
+[01:10:34] SPEAKER_06
+In that case, I'm impressed you managed to pull it back mid-episode.
+
+[01:10:38] SPEAKER_06
+That makes it even better.
+
+[01:10:40] SPEAKER_06
+Yeah.
+
+[01:10:41] SPEAKER_06
+I, uh, more than anything, it was just energy and nausea.
+
+[01:10:44] SPEAKER_06
+You know, like my stomach, my stomach improved a little bit and then I wasn't feeling so
+
+[01:10:47] SPEAKER_06
+sick to sick.
+
+[01:10:49] SPEAKER_04
+Should we end this episode?
+
+[01:10:50] SPEAKER_04
+Yeah.
+
+[01:10:51] SPEAKER_06
+What time we plan Halo tonight?
+
+[01:10:53] SPEAKER_04
+I don't, I feel like Jeff just gave me a huge list of reasons of not, why not to play
+
+[01:10:57] SPEAKER_04
+Halo with Jeff right now.
+
+[01:10:58] SPEAKER_04
+What does that mean?
+
+[01:10:59] SPEAKER_04
+Oh, you're sick.
+
+[01:11:00] SPEAKER_04
+You're, you're under the, this is a serious, this is a serious thing.
+
+[01:11:04] SPEAKER_06
+What else am I going to do?
+
+[01:11:05] SPEAKER_06
+I got nothing to, I got nothing but time to sit and stare at the wall.
+
+[01:11:08] SPEAKER_06
+You want to do seven?
+
+[01:11:10] SPEAKER_03
+That's five for you, Andrew.
+
+[01:11:13] SPEAKER_03
+Uh, okay.
+
+[01:11:14] SPEAKER_03
+Maybe, maybe I'll be there.
+
+[01:11:16] SPEAKER_03
+Maybe I'll be eight.
+
+[01:11:17] SPEAKER_03
+Maybe I'll be there.
+
+[01:11:18] SPEAKER_06
+Well, when's convenient for you?
+
+[01:11:19] SPEAKER_06
+All three of us want to play.
+
+[01:11:20] SPEAKER_06
+Seven's, seven's better for me.
+
+[01:11:22] SPEAKER_03
+Okay, I'll do eight.
+
+[01:11:23] SPEAKER_03
+I'll do eight.
+
+[01:11:24] SPEAKER_06
+I wanted to play at seven.
+
+[01:11:30] SPEAKER_03
+You can play with, you know what?
+
+[01:11:31] SPEAKER_03
+It's okay.
+
+[01:11:31] SPEAKER_04
+You know, no, no, no.
+
+[01:11:32] SPEAKER_04
+I'll make it work at eight.
+
+[01:11:33] SPEAKER_04
+I'll make it work at eight.
+
+[01:11:33] SPEAKER_04
+No, you play at seven.
+
+[01:11:35] SPEAKER_04
+You guys have a great time.
+
+[01:11:36] SPEAKER_04
+I can show up at eight.
+
+[01:11:37] SPEAKER_05
+Why is this so aggressive?
+
+[01:11:39] SPEAKER_05
+We're just making it a nice play.
+
+[01:11:40] SPEAKER_05
+No, no, no.
+
+[01:11:41] SPEAKER_04
+We'll have a nice play.
+
+[01:11:42] SPEAKER_04
+Why don't we do both?
+
+[01:11:43] SPEAKER_04
+Because we'll play for more than an hour.
+
+[01:11:45] SPEAKER_06
+Here's what's going on behind the scenes, Gavin.
+
+[01:11:46] SPEAKER_06
+I'm going to eat lunch.
+
+[01:11:47] SPEAKER_06
+Here's what's going on behind the scenes.
+
+[01:11:49] SPEAKER_06
+Uh, Andrew doesn't want to play video games with me.
+
+[01:11:51] SPEAKER_06
+It's clear.
+
+[01:11:51] SPEAKER_06
+No, I would love to play video games with you.
+
+[01:11:54] SPEAKER_06
+I'll be there at, I'll be there at eight to play with whoever wants to play.
+
+[01:11:57] SPEAKER_06
+I love you guys.
+
+[01:11:58] SPEAKER_06
+Uh, irrespective of how you feel about me.
+
+[01:12:00] SPEAKER_06
+I love this podcast.
+
+[01:12:02] SPEAKER_06
+I love you, Nick.
+
+[01:12:03] SPEAKER_06
+I love you, comment leavers.
+
+[01:12:04] SPEAKER_06
+I love you regulation listeners.
+
+[01:12:07] SPEAKER_06
+Uh, I love Halo.
+
+[01:12:09] SPEAKER_06
+Uh, some would say that Halo is the reason we're all here talking right now.
+
+[01:12:13] SPEAKER_06
+But, uh, if you feel the need to exclude me from it further, that's fine too.
+
+[01:12:16] SPEAKER_06
+Thanks for listening.
+
+[01:12:17] SPEAKER_06
+See you guys next week.
+
+[01:12:18] SPEAKER_06
+See you tonight.

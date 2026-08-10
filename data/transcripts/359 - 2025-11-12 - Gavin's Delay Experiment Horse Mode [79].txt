@@ -1,0 +1,5889 @@
+# Episode 359: Gavin's Delay Experiment // Horse Mode [79]
+published: 2025-11-12T08:00:00+00:00  |  duration: 01:19:05
+source: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/REGULATIONCOMPANYLLC6668547437.mp3?updated=1770741632
+transcribed: 2026-08-08T17:37:58.495316-04:00  |  model: large-v3-turbo
+diarization: pyannote/speaker-diarization-3.1
+
+
+[00:00:00] SPEAKER_01
+Prime presents Perfect Pairings. What pairs with Reacher on Prime? Reaching for a sparkling punch delivered with Prime. You can enjoy a punch just like Reacher. Entertainment meets fast delivery. It's on Prime.
+
+[00:00:15] SPEAKER_09
+Welcome aboard Via Rail. Please sit and enjoy. Please sit and sip. Play. Post. Taste. View. And enjoy. Via Rail. Love the way.
+
+[00:00:30] SPEAKER_03
+I'm going to mute, but just know there's nothing wrong.
+
+[00:00:33] SPEAKER_03
+You are muted.
+
+[00:00:35] SPEAKER_03
+I can't mute now. Something's wrong. Something's wrong.
+
+[00:00:43] SPEAKER_03
+My little macro for being mute is like double pressing now.
+
+[00:00:47] SPEAKER_03
+I love it.
+
+[00:00:48] SPEAKER_05
+Hello and welcome to another episode of The Regulation Podcast.
+
+[00:00:54] SPEAKER_05
+My name is Geoff Ramsey and with me as always, Andrew Panton, Gavin Free, Nick Schwartz, Eric Baudour.
+
+[00:00:58] SPEAKER_05
+This is episode 79. Take it away, Gavin.
+
+[00:01:02] SPEAKER_05
+Hello.
+
+[00:01:04] SPEAKER_03
+Nailed it.
+
+[00:01:05] SPEAKER_07
+You know what I love about Gavin?
+
+[00:01:06] SPEAKER_07
+Absolutely nailed it.
+
+[00:01:08] SPEAKER_03
+I have a button.
+
+[00:01:09] SPEAKER_03
+It's like a little floor button for muting my Discord.
+
+[00:01:12] SPEAKER_03
+But I think what happens is sometimes Smee sits on it, so it buffers like 1,800 presses of the button.
+
+[00:01:18] SPEAKER_03
+Oh.
+
+[00:01:19] SPEAKER_03
+And my Discord has been going nuts.
+
+[00:01:21] SPEAKER_03
+You have a kick pedal for muting?
+
+[00:01:23] SPEAKER_03
+Yeah.
+
+[00:01:24] SPEAKER_07
+Why?
+
+[00:01:25] SPEAKER_05
+You're the only person on Earth that has that problem right now, I bet.
+
+[00:01:29] SPEAKER_03
+Probably.
+
+[00:01:30] SPEAKER_03
+Yeah, I was using it for some pinball recording, but now it's just in my office.
+
+[00:01:35] SPEAKER_06
+I see.
+
+[00:01:36] SPEAKER_06
+That makes sense.
+
+[00:01:37] SPEAKER_03
+Don't have enough hands.
+
+[00:01:38] SPEAKER_06
+I want to know what Andrew was going to say about what he loved about Gavin.
+
+[00:01:40] SPEAKER_06
+What do you love about Gavin?
+
+[00:01:41] SPEAKER_07
+Oh, what I love about Gavin is that there's like sort of this idea of there are no bad ideas
+
+[00:01:46] SPEAKER_07
+and just throwing ideas out and see where they can evolve, and he doesn't have that fear.
+
+[00:01:50] SPEAKER_07
+He just says something that like he'll say an idea and he won't even like it, and it won't
+
+[00:01:58] SPEAKER_07
+be for anyone, but he'll just say it with the same confidence and energy he would have with
+
+[00:02:04] SPEAKER_07
+one of his best ideas.
+
+[00:02:07] SPEAKER_03
+What's an example of one of my-
+
+[00:02:08] SPEAKER_07
+You want to pitch what you just pitched us, Gavin?
+
+[00:02:10] SPEAKER_03
+Okay, my idea was, what if we tried to record a podcast where we were all on a different
+
+[00:02:15] SPEAKER_03
+minute delay?
+
+[00:02:19] SPEAKER_03
+And who is that?
+
+[00:02:20] SPEAKER_03
+Who wants that?
+
+[00:02:22] SPEAKER_07
+I think it'd be a fun experiment.
+
+[00:02:23] SPEAKER_07
+Who wants that?
+
+[00:02:25] SPEAKER_07
+Oh, no one.
+
+[00:02:25] SPEAKER_07
+What does it prove?
+
+[00:02:26] SPEAKER_07
+Okay, what is the experiment proving?
+
+[00:02:28] SPEAKER_03
+Either way.
+
+[00:02:30] SPEAKER_03
+Well, imagine it like, so say Jeff had no delay, right?
+
+[00:02:34] SPEAKER_03
+He's just normal talking.
+
+[00:02:36] SPEAKER_03
+But you were on a one-minute delay of what Jeff said, and then I was on a two-minute
+
+[00:02:42] SPEAKER_03
+delay.
+
+[00:02:43] SPEAKER_03
+Let's test this out.
+
+[00:02:44] SPEAKER_03
+And we would all try and talk.
+
+[00:02:45] SPEAKER_06
+Well, how are we going to create-
+
+[00:02:46] SPEAKER_06
+We should not test this out.
+
+[00:02:48] SPEAKER_06
+No, we can't test this out.
+
+[00:02:49] SPEAKER_06
+Hey, Andrew, pretend you're on a one-minute delay.
+
+[00:02:51] SPEAKER_07
+One minute is such a long amount of time.
+
+[00:02:54] SPEAKER_05
+Hey, Andrew, did you watch Survivor last night?
+
+[00:02:59] SPEAKER_06
+And then we would-
+
+[00:03:00] SPEAKER_06
+This is the worst podcast we've ever done.
+
+[00:03:06] SPEAKER_06
+It was such a bad idea.
+
+[00:03:07] SPEAKER_06
+He came in, just came in, had a muting issue, asked if he was okay, then had a big muting
+
+[00:03:14] SPEAKER_06
+issue when we were trying to sync.
+
+[00:03:15] SPEAKER_06
+Like, I don't know, it feels like you're all over the place, Gavin.
+
+[00:03:23] SPEAKER_06
+That's all right.
+
+[00:03:23] SPEAKER_06
+I'll be on a two-minute delay.
+
+[00:03:26] SPEAKER_99
+From who?
+
+[00:03:28] SPEAKER_05
+I'm still waiting on Andrew to chime in.
+
+[00:03:31] SPEAKER_05
+We haven't reached one minute.
+
+[00:03:32] SPEAKER_05
+We have not reached one minute.
+
+[00:03:34] SPEAKER_06
+It's a bad idea.
+
+[00:03:35] SPEAKER_06
+We had to suffer through this through the pandemic.
+
+[00:03:37] SPEAKER_06
+Why do we have to do it now on purpose?
+
+[00:03:39] SPEAKER_02
+It's an experiment.
+
+[00:03:41] SPEAKER_06
+To do what?
+
+[00:03:41] SPEAKER_06
+We still don't know what it proves.
+
+[00:03:43] SPEAKER_03
+I don't know.
+
+[00:03:46] SPEAKER_03
+Well, doing it without a real delay proves nothing.
+
+[00:03:49] SPEAKER_03
+Man, I-
+
+[00:03:50] SPEAKER_05
+What?
+
+[00:03:50] SPEAKER_05
+How is the-
+
+[00:03:51] SPEAKER_05
+What are you saying?
+
+[00:03:52] SPEAKER_05
+How is my simulated delay any different than the real delay if the time differentiation
+
+[00:03:56] SPEAKER_05
+is identical?
+
+[00:03:57] SPEAKER_03
+Because we wouldn't be able to chat in while this minute runs out.
+
+[00:03:59] SPEAKER_05
+No, I'm not watching Survivor this season.
+
+[00:04:02] SPEAKER_05
+Oh, that's a shame.
+
+[00:04:04] SPEAKER_05
+You-
+
+[00:04:04] SPEAKER_05
+It's-
+
+[00:04:05] SPEAKER_05
+Well, it's been pretty boring up until recently, but it's just starting to heat up.
+
+[00:04:08] SPEAKER_05
+You know how it is when they-
+
+[00:04:09] SPEAKER_05
+Yeah, it takes a while.
+
+[00:04:09] SPEAKER_05
+When they finally merge.
+
+[00:04:10] SPEAKER_05
+Nah, you should respond to it too soon!
+
+[00:04:11] SPEAKER_05
+Oh, you wrecked the delay.
+
+[00:04:13] SPEAKER_05
+All right, so it doesn't work.
+
+[00:04:14] SPEAKER_07
+It's not good.
+
+[00:04:14] SPEAKER_07
+No, I was done.
+
+[00:04:14] SPEAKER_07
+We tried it once.
+
+[00:04:15] SPEAKER_07
+It was good enough.
+
+[00:04:16] SPEAKER_07
+One minute is too long.
+
+[00:04:17] SPEAKER_06
+Gavin, you said-
+
+[00:04:18] SPEAKER_06
+You said a fake delay doesn't prove anything.
+
+[00:04:20] SPEAKER_06
+What does a real delay prove?
+
+[00:04:25] SPEAKER_06
+Well, you'd have to try-
+
+[00:04:27] SPEAKER_06
+Stop.
+
+[00:04:29] SPEAKER_06
+Just tell me what it proves.
+
+[00:04:31] SPEAKER_03
+It'd be five people talking to themselves.
+
+[00:04:34] SPEAKER_03
+I just don't-
+
+[00:04:35] SPEAKER_03
+I don't think we know what it could prove.
+
+[00:04:37] SPEAKER_99
+What?
+
+[00:04:38] SPEAKER_05
+One of those things where you don't know what you don't know?
+
+[00:04:40] SPEAKER_03
+We don't know until we try it.
+
+[00:04:41] SPEAKER_03
+I don't-
+
+[00:04:42] SPEAKER_06
+Think of the possibilities, Eric!
+
+[00:04:44] SPEAKER_06
+Listen, I don't do this often, but Andrew, do something.
+
+[00:04:48] SPEAKER_06
+Please.
+
+[00:04:48] SPEAKER_06
+I just, I want to know why, I guess.
+
+[00:04:55] SPEAKER_07
+Like, typically when people pitch something, there is an intent for it.
+
+[00:04:59] SPEAKER_07
+Hold on, shut up.
+
+[00:05:00] SPEAKER_07
+Hold on.
+
+[00:05:00] SPEAKER_07
+Hold on one sec.
+
+[00:05:01] SPEAKER_07
+Okay.
+
+[00:05:02] SPEAKER_03
+Man, great question, Jeff.
+
+[00:05:03] SPEAKER_03
+I can't wait to see what Andrew says.
+
+[00:05:06] SPEAKER_07
+Oh, okay.
+
+[00:05:06] SPEAKER_03
+That was two minutes.
+
+[00:05:08] SPEAKER_03
+Me too.
+
+[00:05:08] SPEAKER_07
+Yeah.
+
+[00:05:09] SPEAKER_07
+So do you think it would be funny?
+
+[00:05:11] SPEAKER_07
+Is that what the point of it is?
+
+[00:05:13] SPEAKER_07
+We proved it's not.
+
+[00:05:15] SPEAKER_03
+Well, also, I deliberately said it before.
+
+[00:05:18] SPEAKER_03
+We started recording, so it didn't become a thing.
+
+[00:05:21] SPEAKER_03
+Like, exactly.
+
+[00:05:22] SPEAKER_03
+Oh, my alarm's going off.
+
+[00:05:23] SPEAKER_07
+No, but it's a thing.
+
+[00:05:24] SPEAKER_07
+Well, you suggested it.
+
+[00:05:26] SPEAKER_07
+Oh, God.
+
+[00:05:27] SPEAKER_07
+I'm just, like, fascinated by it.
+
+[00:05:30] SPEAKER_07
+Not in a way of, like, any judgment.
+
+[00:05:32] SPEAKER_07
+It's just, like, I don't know.
+
+[00:05:34] SPEAKER_07
+I have lots of judgment.
+
+[00:05:36] SPEAKER_03
+You can have your judgment.
+
+[00:05:38] SPEAKER_03
+I think a lot of our good content has come from shit ideas.
+
+[00:05:41] SPEAKER_03
+Absolutely.
+
+[00:05:41] SPEAKER_03
+I don't see a lot of shit has come from shit ideas, but, you know, you never know until.
+
+[00:05:44] SPEAKER_03
+A lot of shit has come from good ideas.
+
+[00:05:46] SPEAKER_03
+That's true.
+
+[00:05:50] SPEAKER_07
+There have been great ideas that ended up shit and vice versa, but I just, I, it's fun
+
+[00:05:57] SPEAKER_07
+when you get an idea where, like, you don't understand what the purpose is from the person
+
+[00:06:01] SPEAKER_07
+who even suggested it, because I don't think you'd want to listen to that.
+
+[00:06:05] SPEAKER_07
+For?
+
+[00:06:06] SPEAKER_07
+No.
+
+[00:06:07] SPEAKER_05
+No.
+
+[00:06:11] SPEAKER_05
+Speaking of not wanting to listen to something, I did something so stupid yesterday.
+
+[00:06:17] SPEAKER_05
+It hurt my brain.
+
+[00:06:19] SPEAKER_05
+Was it yesterday?
+
+[00:06:19] SPEAKER_05
+It was two days ago now.
+
+[00:06:21] SPEAKER_05
+Yeah.
+
+[00:06:21] SPEAKER_05
+I, uh, so, I told, I, I, I, uh, I teased the guys yesterday.
+
+[00:06:25] SPEAKER_05
+We had to meet up and, uh, go to the bank for a thing.
+
+[00:06:28] SPEAKER_05
+And, uh, I teased the guys yesterday, but Andrew, I did something.
+
+[00:06:32] SPEAKER_05
+I, I am the architect of my own stupidity.
+
+[00:06:36] SPEAKER_07
+Can I take a guess at what you did?
+
+[00:06:38] SPEAKER_07
+Please do.
+
+[00:06:39] SPEAKER_07
+Did you have everybody go to a restaurant and then order the wrong item for the point
+
+[00:06:43] SPEAKER_07
+of what, what the whole idea was?
+
+[00:06:45] SPEAKER_07
+No, that was the last time.
+
+[00:06:47] SPEAKER_07
+That was, that was the time before.
+
+[00:06:48] SPEAKER_06
+Yeah, yeah, yeah.
+
+[00:06:48] SPEAKER_06
+Got it.
+
+[00:06:49] SPEAKER_05
+No, no, no.
+
+[00:06:49] SPEAKER_05
+I, I didn't do that.
+
+[00:06:50] SPEAKER_05
+No.
+
+[00:06:51] SPEAKER_05
+Uh, I, I was running errands.
+
+[00:06:55] SPEAKER_05
+Uh, on Tuesday, right?
+
+[00:06:56] SPEAKER_05
+So I got up, I had to go to the gas station.
+
+[00:06:58] SPEAKER_05
+I had to go to, uh, I had to go to the bank.
+
+[00:07:01] SPEAKER_05
+I had to go vote in the election.
+
+[00:07:06] SPEAKER_05
+Uh, I got a sandwich and then I had to go to the post office.
+
+[00:07:08] SPEAKER_05
+And so I get up, I leave.
+
+[00:07:10] SPEAKER_05
+I want to get a bunch of stuff done.
+
+[00:07:12] SPEAKER_05
+I want to be super productive.
+
+[00:07:12] SPEAKER_05
+Then I was going to go by the office and do a little bit of admin work there.
+
+[00:07:15] SPEAKER_05
+And so I hop into my car, got my sunglasses, my keys and everything.
+
+[00:07:18] SPEAKER_05
+Hop into my cargo, driving around town.
+
+[00:07:21] SPEAKER_05
+And as I'm about halfway through with my, uh, right as a, it's about time for me to go
+
+[00:07:25] SPEAKER_05
+to the post office, which is about 15 minutes away.
+
+[00:07:27] SPEAKER_05
+I get a notification that I need to call our bank and talk to somebody on the phone about
+
+[00:07:32] SPEAKER_05
+an issue.
+
+[00:07:33] SPEAKER_05
+It's not a big issue.
+
+[00:07:34] SPEAKER_05
+It's not a bad thing.
+
+[00:07:35] SPEAKER_05
+It's not, it's not, it's nothing.
+
+[00:07:36] SPEAKER_05
+Okay.
+
+[00:07:36] SPEAKER_05
+Earth shattering.
+
+[00:07:37] SPEAKER_05
+It's just an administrative thing that has to be remedied by talking to a physical person.
+
+[00:07:42] SPEAKER_05
+Right.
+
+[00:07:42] SPEAKER_05
+Got it.
+
+[00:07:42] SPEAKER_05
+Which is annoying.
+
+[00:07:43] SPEAKER_05
+Cause it's like my least favorite thing on earth to do is talk to people on the phone,
+
+[00:07:46] SPEAKER_05
+but I'm like, no problem.
+
+[00:07:47] SPEAKER_05
+I call, actually I go to the app for the bank because that's what they want you to do.
+
+[00:07:52] SPEAKER_05
+Right.
+
+[00:07:52] SPEAKER_05
+I always use the app and I can't find a contact link or number anywhere on the app, like anywhere,
+
+[00:07:57] SPEAKER_05
+nowhere on the app.
+
+[00:07:58] SPEAKER_05
+Can I find a way to get from the app to a human being?
+
+[00:08:00] SPEAKER_05
+So I'm like, God damn it.
+
+[00:08:02] SPEAKER_05
+Uh, and then I think like, this is where technology sucks.
+
+[00:08:04] SPEAKER_05
+Right.
+
+[00:08:04] SPEAKER_05
+So then I Google the phone number to the bank, Google AI returns, you know, a number I call
+
+[00:08:09] SPEAKER_05
+it, I immediately get put on hold, which is fine because I expect it to be put on hold.
+
+[00:08:15] SPEAKER_05
+It does that thing where it says, Hey, if you want to press one to get a call back, go ahead
+
+[00:08:19] SPEAKER_05
+and do that, but there's, we expect there to be about a six minute wait time.
+
+[00:08:23] SPEAKER_05
+So usually I press one, I decided not to press one because I was driving anyway, and it was
+
+[00:08:29] SPEAKER_05
+going to be in the car for more than six minutes.
+
+[00:08:31] SPEAKER_05
+So I was like, yeah, what's the point?
+
+[00:08:33] SPEAKER_05
+I'll just sit on hold and listen to their dumb hold music.
+
+[00:08:35] SPEAKER_05
+So I'm on hold.
+
+[00:08:37] SPEAKER_05
+I get all the way to the post office.
+
+[00:08:39] SPEAKER_05
+I've now been on hold for over 10 minutes and I'm scared to go into the garage because
+
+[00:08:44] SPEAKER_05
+I don't want to lose the signal.
+
+[00:08:46] SPEAKER_05
+And I think, you know what?
+
+[00:08:47] SPEAKER_05
+Fuck it.
+
+[00:08:48] SPEAKER_05
+I'll just press one.
+
+[00:08:49] SPEAKER_05
+I'll get the call back and then I'll just deal with it later.
+
+[00:08:51] SPEAKER_05
+Whenever the call back comes in, that option has been taken away at this point.
+
+[00:08:55] SPEAKER_05
+Like once you say no to the one call back, they're like, sorry, it's off the table.
+
+[00:08:59] SPEAKER_05
+You're in it now, buddy.
+
+[00:09:00] SPEAKER_05
+There's no, we're not calling, we're not calling shit.
+
+[00:09:02] SPEAKER_05
+So now I'm just stuck on hold.
+
+[00:09:03] SPEAKER_05
+Right.
+
+[00:09:04] SPEAKER_05
+So I go, well, fuck, this is weird.
+
+[00:09:07] SPEAKER_05
+And so I think I'll just, I'll just park on the street near the post office and I'll
+
+[00:09:10] SPEAKER_05
+continue to wait on hold.
+
+[00:09:12] SPEAKER_05
+And, uh, surely it won't be too much longer.
+
+[00:09:14] SPEAKER_05
+Another 10 minutes of that.
+
+[00:09:16] SPEAKER_05
+And I'm just looking at a clock while every 30 seconds, the lady comes in and says, thanks
+
+[00:09:19] SPEAKER_05
+for holding.
+
+[00:09:20] SPEAKER_05
+And, uh, and I'm just looking at the day evaporate in front of me.
+
+[00:09:23] SPEAKER_05
+And I'm like, I can't fucking do this.
+
+[00:09:25] SPEAKER_05
+I've been on hold for 20 minutes at this point.
+
+[00:09:27] SPEAKER_05
+And so I just drive into the garage and I say, fuck it.
+
+[00:09:30] SPEAKER_05
+If I lose the connection, I lose the connection.
+
+[00:09:31] SPEAKER_05
+I'll call back.
+
+[00:09:32] SPEAKER_05
+I drive into the garage.
+
+[00:09:34] SPEAKER_05
+Uh, I park, I'm able to get out.
+
+[00:09:35] SPEAKER_05
+I'm still on hold.
+
+[00:09:36] SPEAKER_05
+I'm like, well now, okay, I'll just go into the post office.
+
+[00:09:38] SPEAKER_05
+I go into the post office and I get our mail from the PO box and we have a package.
+
+[00:09:42] SPEAKER_05
+We have to go talk to the dude for, and I have to mail some packages out to the audience
+
+[00:09:45] SPEAKER_05
+and to my mom and everything.
+
+[00:09:46] SPEAKER_05
+So I just put the phone on speakerphone and stick it in my back pocket.
+
+[00:09:50] SPEAKER_05
+And I think like, I'm fucked.
+
+[00:09:51] SPEAKER_05
+I'm going to go up.
+
+[00:09:52] SPEAKER_05
+And as soon as I say hello to the guy, the agent's going to pop in and I'm going to have
+
+[00:09:57] SPEAKER_05
+to hang up on the agent and I'm extra fucked.
+
+[00:09:59] SPEAKER_05
+But who knows?
+
+[00:10:00] SPEAKER_05
+You know, I just leave the jingle on in my back pocket.
+
+[00:10:03] SPEAKER_05
+I'm able to go through.
+
+[00:10:04] SPEAKER_05
+I'm able to get two giant packages from the guy who has to go in the back to get them.
+
+[00:10:08] SPEAKER_05
+Right.
+
+[00:10:08] SPEAKER_05
+Then I'm able to mail something to my mom and then mail something to a couple of regulation
+
+[00:10:12] SPEAKER_05
+community members.
+
+[00:10:14] SPEAKER_05
+And then the fucking phone still hasn't picked it up yet.
+
+[00:10:18] SPEAKER_05
+I'm still on hold.
+
+[00:10:19] SPEAKER_05
+So I go, wow, I actually feel lucky.
+
+[00:10:22] SPEAKER_05
+I actually feel lucky that they didn't pick up so I didn't have to hang up.
+
+[00:10:25] SPEAKER_05
+So then I take these boxes and I go all the way back into the parking garage and I put
+
+[00:10:28] SPEAKER_05
+them in my trunk and then I get in and I sit in the seatbelt or sit in the car and
+
+[00:10:33] SPEAKER_05
+I get buckled up and I turn the car and everything and I take my phone out of my pocket and I
+
+[00:10:36] SPEAKER_05
+put it on the console where it sits when I'm driving.
+
+[00:10:40] SPEAKER_05
+And as I do that, I see, uh, I see on the phone, it says, uh, do you've been on hold
+
+[00:10:45] SPEAKER_05
+with the bank of America for 29 minutes now?
+
+[00:10:47] SPEAKER_05
+And I thought, well, that's, that's cool.
+
+[00:10:50] SPEAKER_04
+Except, uh, we don't have bank of America.
+
+[00:10:53] SPEAKER_04
+That's not our fucking bank.
+
+[00:10:55] SPEAKER_04
+I've been on hold with the wrong guy for half an hour.
+
+[00:10:59] SPEAKER_04
+No, I don't know if I stupidly Googled the wrong bank and it returned the right number
+
+[00:11:04] SPEAKER_05
+or if Google AI just fucked me and sent me bank of America's number, I'm not going to
+
+[00:11:10] SPEAKER_05
+say what bank we do have, but it is definitely not bank of America.
+
+[00:11:13] SPEAKER_05
+As soon as I realized that the real dumb thing is I've been listening to the lady say, uh,
+
+[00:11:17] SPEAKER_05
+we at bank of America appreciate your customer, your patronage, please continue to hold.
+
+[00:11:22] SPEAKER_05
+She must've said it 80, 80 fucking times over 30 minutes.
+
+[00:11:25] SPEAKER_05
+And I just in one ear and out the other.
+
+[00:11:27] SPEAKER_05
+I was so fucking defeated that I drove to in and out burger.
+
+[00:11:33] SPEAKER_05
+I got a hamburger and then I drove to the office and I sat on the ground in the break
+
+[00:11:39] SPEAKER_05
+room and I ate a hamburger, felt stupid and just organized cards and moped for an hour.
+
+[00:11:46] SPEAKER_05
+I just sat on the floor and just organized shit in the break room and just like sat in
+
+[00:11:51] SPEAKER_05
+misery at my own stupidity.
+
+[00:11:52] SPEAKER_05
+And then my reward for that, and this is where it gets even better.
+
+[00:11:56] SPEAKER_05
+I get up, it's time to leave.
+
+[00:11:57] SPEAKER_05
+I put everything away.
+
+[00:11:59] SPEAKER_05
+I throw my, my stuff in the, in the trash can.
+
+[00:12:02] SPEAKER_05
+I go, I skip back into my car.
+
+[00:12:04] SPEAKER_05
+I look at myself in the mirror cause I'm about to back up and I get the shock of my life.
+
+[00:12:08] SPEAKER_05
+Something's weird.
+
+[00:12:09] SPEAKER_05
+Something looks weird.
+
+[00:12:09] SPEAKER_05
+I look at myself again and I realize that's because I'm wearing my wife's giant black
+
+[00:12:15] SPEAKER_05
+cat eye sunglasses that I have been wearing all day.
+
+[00:12:19] SPEAKER_05
+I've driven all over town.
+
+[00:12:21] SPEAKER_05
+I stood in line at a library in them to vote.
+
+[00:12:25] SPEAKER_05
+I ordered a sandwich in them.
+
+[00:12:27] SPEAKER_05
+I went to a gas station and bought a soda in them.
+
+[00:12:30] SPEAKER_05
+I navigated the entire post office in my wife's giant, very lady, feminine cat eye sunglasses.
+
+[00:12:37] SPEAKER_05
+And it never cried.
+
+[00:12:38] SPEAKER_05
+Never noticed that I was using the wrong sunglasses.
+
+[00:12:41] SPEAKER_03
+You was talking to the wrong bank in the wrong glasses.
+
+[00:12:44] SPEAKER_05
+Dumbest day of my life.
+
+[00:12:46] SPEAKER_03
+You were like halfway to Emily being on the phone to Bank of America.
+
+[00:12:52] SPEAKER_03
+God damn, dude.
+
+[00:12:54] SPEAKER_03
+Did you notice how I added to this dumb in our texts?
+
+[00:12:58] SPEAKER_03
+No, I didn't.
+
+[00:12:59] SPEAKER_03
+How did you do that?
+
+[00:13:00] SPEAKER_03
+Well, I was asking you, do we know if the problem is on the side of the company that didn't
+
+[00:13:04] SPEAKER_03
+receive our money or chase for not sending the money?
+
+[00:13:07] SPEAKER_03
+And then after that, I realized that chase isn't our bank either.
+
+[00:13:11] SPEAKER_03
+Gosh, Jesus Christ.
+
+[00:13:14] SPEAKER_05
+I did notice you say that, but I just like, I did just want one in and out the other like
+
+[00:13:20] SPEAKER_05
+everything else.
+
+[00:13:20] SPEAKER_05
+So anyway, that's how fucking dumb I am.
+
+[00:13:23] SPEAKER_05
+And that's what you all have to look forward to as your brain starts to crumble with age.
+
+[00:13:28] SPEAKER_07
+There is one positive, though, that you didn't mention.
+
+[00:13:31] SPEAKER_07
+The only part of the story I knew about going into this.
+
+[00:13:34] SPEAKER_07
+You said that was your best burger of the year.
+
+[00:13:36] SPEAKER_05
+It was a fucking awesome burger, man.
+
+[00:13:38] SPEAKER_05
+I've been getting my in and out burgers mustard fried, and it is such a game changer since
+
+[00:13:44] SPEAKER_05
+I did that.
+
+[00:13:45] SPEAKER_05
+Yeah, they squirt a little mustard on it before they flip it, and then it just like fries
+
+[00:13:48] SPEAKER_05
+into the pan.
+
+[00:13:49] SPEAKER_05
+It's so good.
+
+[00:13:51] SPEAKER_05
+It's so good.
+
+[00:13:52] SPEAKER_05
+And that was burger number 30 for you.
+
+[00:13:55] SPEAKER_05
+That was my 30th burger of the year.
+
+[00:13:57] SPEAKER_05
+Yeah.
+
+[00:13:57] SPEAKER_05
+And it was by far the best burger.
+
+[00:14:00] SPEAKER_05
+That was definitely my like fried in my feels burger.
+
+[00:14:03] SPEAKER_07
+I wonder what it would taste like with other condiments fried.
+
+[00:14:08] SPEAKER_05
+Oh, could you ask?
+
+[00:14:09] SPEAKER_07
+I want you know, like how you can't I mean, no onions.
+
+[00:14:11] SPEAKER_07
+Could you be like ketchup fried place?
+
+[00:14:13] SPEAKER_05
+They I don't know.
+
+[00:14:14] SPEAKER_05
+You could.
+
+[00:14:15] SPEAKER_05
+I mean, it's they'll do anything in and out.
+
+[00:14:17] SPEAKER_05
+Huh?
+
+[00:14:19] SPEAKER_07
+That's fascinating.
+
+[00:14:21] SPEAKER_07
+I wonder what type of condiment like I don't like relish, but I wonder if I'd like relish
+
+[00:14:27] SPEAKER_05
+fried fried relish might be delicious.
+
+[00:14:30] SPEAKER_05
+It could be really good.
+
+[00:14:31] SPEAKER_05
+What if we had a hamburger where everything was fried?
+
+[00:14:34] SPEAKER_05
+Everything that goes on the hamburger has to be fried.
+
+[00:14:37] SPEAKER_99
+Friday.
+
+[00:14:38] SPEAKER_99
+Tomorrow.
+
+[00:14:39] SPEAKER_05
+Fried day.
+
+[00:14:40] SPEAKER_03
+Fried day.
+
+[00:14:41] SPEAKER_07
+Fried day.
+
+[00:14:43] SPEAKER_05
+What does fried lettuce taste like?
+
+[00:14:45] SPEAKER_05
+Hold on.
+
+[00:14:45] SPEAKER_05
+I'm going to put fried day up for the bet barrel.
+
+[00:14:48] SPEAKER_05
+It'd probably be wet and wilty.
+
+[00:14:50] SPEAKER_07
+No, no, no.
+
+[00:14:51] SPEAKER_07
+Grilled lettuce is good.
+
+[00:14:52] SPEAKER_05
+I grill lettuce all the time.
+
+[00:14:53] SPEAKER_05
+Yeah, it's great.
+
+[00:14:55] SPEAKER_05
+Good.
+
+[00:14:55] SPEAKER_05
+Grill on dive.
+
+[00:14:57] SPEAKER_05
+Yeah, really nice.
+
+[00:14:57] SPEAKER_05
+What if you deep fried every part of a burger?
+
+[00:15:01] SPEAKER_07
+Deep Friday?
+
+[00:15:02] SPEAKER_07
+Oh, I got a fucking deep fried day.
+
+[00:15:04] SPEAKER_04
+That'll be a sequel.
+
+[00:15:05] SPEAKER_07
+Because that's what I was thinking in my head.
+
+[00:15:07] SPEAKER_07
+Like, you know, when you go to a fair and like they deep fry butter or whatever, like
+
+[00:15:11] SPEAKER_07
+you would do the same process on like the tomato and then the lettuce and the onion.
+
+[00:15:17] SPEAKER_07
+And I guess a deep fried onion is just onion rings.
+
+[00:15:19] SPEAKER_07
+That isn't as crazy.
+
+[00:15:21] SPEAKER_07
+That's an existing product.
+
+[00:15:23] SPEAKER_07
+That's pretty popular.
+
+[00:15:24] SPEAKER_07
+Does a deep fried butter stay together?
+
+[00:15:27] SPEAKER_07
+I don't know.
+
+[00:15:28] SPEAKER_07
+I've never had it.
+
+[00:15:29] SPEAKER_07
+I just know it's a thing that they're capable of, which blows my mind.
+
+[00:15:34] SPEAKER_07
+I don't think anyone should eat that.
+
+[00:15:38] SPEAKER_07
+Well, I mean, you're the protein cube guy.
+
+[00:15:42] SPEAKER_07
+Yeah.
+
+[00:15:43] SPEAKER_07
+Yeah.
+
+[00:15:43] SPEAKER_03
+Give it to me.
+
+[00:15:45] SPEAKER_03
+I think if I was to endorse a product or like have my own range of some product, it
+
+[00:15:51] SPEAKER_03
+would have to be the food cube.
+
+[00:15:52] SPEAKER_05
+I wonder if there's a white label food cube service out there that we can get them can
+
+[00:15:59] SPEAKER_07
+partner with.
+
+[00:16:00] SPEAKER_07
+What's funny about the food cube is that you'd be the number one brand about like it would
+
+[00:16:04] SPEAKER_07
+logically make the most sense for you to lead the product.
+
+[00:16:07] SPEAKER_07
+But you're also the ambassador.
+
+[00:16:08] SPEAKER_07
+I would trust the least.
+
+[00:16:10] SPEAKER_07
+That's a good point.
+
+[00:16:10] SPEAKER_07
+It being a good taste.
+
+[00:16:12] SPEAKER_07
+What do you mean, though?
+
+[00:16:13] SPEAKER_07
+I'd be selling to other food cubies.
+
+[00:16:15] SPEAKER_07
+Yeah, but you want to get more than the food cubies.
+
+[00:16:18] SPEAKER_07
+Do I?
+
+[00:16:19] SPEAKER_07
+I think so.
+
+[00:16:20] SPEAKER_07
+I think the whole point of any advertising is to get more than the people that naturally
+
+[00:16:23] SPEAKER_07
+like the product.
+
+[00:16:24] SPEAKER_99
+Exactly.
+
+[00:16:25] SPEAKER_03
+Hmm.
+
+[00:16:27] SPEAKER_03
+Not sure I necessarily agree with that.
+
+[00:16:28] SPEAKER_03
+You gotta win me or Andrew over.
+
+[00:16:29] SPEAKER_06
+I found stuff that is like protein cubes.
+
+[00:16:34] SPEAKER_06
+Chilled protein cubes.
+
+[00:16:36] SPEAKER_06
+The problem, I think, is that it comes in three different flavors.
+
+[00:16:40] SPEAKER_06
+Vanilla chocolate and peppermint mocha, which I feel goes against sort of what Gavin
+
+[00:16:46] SPEAKER_06
+wants in his protein cube.
+
+[00:16:48] SPEAKER_06
+He doesn't want different flavors.
+
+[00:16:50] SPEAKER_06
+He wants the blandest thing that he can simply consume.
+
+[00:16:54] SPEAKER_03
+That's not necessarily true.
+
+[00:16:55] SPEAKER_03
+Right?
+
+[00:16:56] SPEAKER_03
+I'm sorry?
+
+[00:16:56] SPEAKER_03
+What?
+
+[00:16:56] SPEAKER_03
+Really?
+
+[00:16:57] SPEAKER_03
+What flavor do you want?
+
+[00:16:59] SPEAKER_03
+Well, I feel like if I was just, that's dessert protein cube to me.
+
+[00:17:02] SPEAKER_03
+I feel like there should be like a beef one.
+
+[00:17:04] SPEAKER_03
+It should be like savory flavors followed by a chocolate.
+
+[00:17:07] SPEAKER_05
+I think Arby's just created a beef protein cube.
+
+[00:17:11] SPEAKER_05
+Isn't it their steak nugget?
+
+[00:17:13] SPEAKER_06
+Yeah, yeah.
+
+[00:17:13] SPEAKER_06
+We just had their steak nugget.
+
+[00:17:15] SPEAKER_06
+Isn't that bouillon?
+
+[00:17:16] SPEAKER_06
+It's just a steak nugget.
+
+[00:17:18] SPEAKER_06
+I found something called Meal Squares.
+
+[00:17:22] SPEAKER_06
+Is Meal Squares closer?
+
+[00:17:23] SPEAKER_06
+It's got whole foods, including five different fruits and vegetables.
+
+[00:17:28] SPEAKER_03
+It's very Snowpiercer.
+
+[00:17:30] SPEAKER_05
+Yeah.
+
+[00:17:30] SPEAKER_05
+It's got a complete nutrition profile, though.
+
+[00:17:33] SPEAKER_05
+Yeah.
+
+[00:17:33] SPEAKER_05
+That's all you need.
+
+[00:17:35] SPEAKER_07
+You could live off just that, I bet.
+
+[00:17:37] SPEAKER_07
+You know what would be interesting, though, is if you put in a food cube or whatever in
+
+[00:17:42] SPEAKER_07
+your mouth and you didn't get any taste until a minute later.
+
+[00:17:46] SPEAKER_07
+It had a minute delay.
+
+[00:17:47] SPEAKER_07
+And the more you ate, the more the delay was.
+
+[00:17:52] SPEAKER_07
+Different foods have different flavor delays.
+
+[00:17:55] SPEAKER_07
+Yeah.
+
+[00:17:56] SPEAKER_07
+I think that'd be interesting.
+
+[00:17:57] SPEAKER_07
+Now, this is something I could get on board for with this delay.
+
+[00:18:00] SPEAKER_07
+I like the idea you put the food in your mouth and someone says you like it and you
+
+[00:18:03] SPEAKER_07
+have to say, I don't know yet.
+
+[00:18:04] SPEAKER_07
+We're waiting.
+
+[00:18:05] SPEAKER_03
+I'll tell you in an hour.
+
+[00:18:06] SPEAKER_05
+Give me 40 seconds.
+
+[00:18:07] SPEAKER_05
+It'd be cool if you could delay stuff in food.
+
+[00:18:09] SPEAKER_05
+Like, you could delay the calories.
+
+[00:18:11] SPEAKER_05
+Like, they're still coming, but you could delay them until after you get back from the
+
+[00:18:14] SPEAKER_05
+beach, you know?
+
+[00:18:16] SPEAKER_03
+I think it'd be interesting.
+
+[00:18:17] SPEAKER_03
+I think it'd be a more affordable way to eat because you could potentially eat one
+
+[00:18:20] SPEAKER_03
+little bite of something delicious, like a, you know, like a nice sushi piece or like
+
+[00:18:26] SPEAKER_03
+a hunk of chocolate or something.
+
+[00:18:28] SPEAKER_03
+Sure.
+
+[00:18:28] SPEAKER_03
+And then an hour later, just eat a bowl of gruel and it would taste really good.
+
+[00:18:32] SPEAKER_03
+Oh, that's cheating.
+
+[00:18:35] SPEAKER_03
+You think, wait, an hour later, you eat a bowl of gruel and then I'm getting the flavor
+
+[00:18:42] SPEAKER_03
+from the first thing I ate.
+
+[00:18:45] SPEAKER_07
+Yeah.
+
+[00:18:46] SPEAKER_07
+But then later you'd suffer the consequences of the gruel.
+
+[00:18:51] SPEAKER_07
+Later, you'll be walking down the street and it'll just be fucking gruel all over.
+
+[00:18:56] SPEAKER_07
+But at least then I'm not actually eating it.
+
+[00:18:58] SPEAKER_07
+I would just be like, it makes the difference at that point.
+
+[00:19:00] SPEAKER_07
+And I think you're still suffering the consequence unless you find an activity to counter the
+
+[00:19:05] SPEAKER_07
+gruel.
+
+[00:19:05] SPEAKER_07
+Like what if you timed it so that the gruel would hit while you were on a roller coaster?
+
+[00:19:10] SPEAKER_07
+So you didn't even really notice.
+
+[00:19:11] SPEAKER_03
+I probably want to throw up more.
+
+[00:19:13] SPEAKER_03
+I feel like it, that it would just taste like I just, wait, what?
+
+[00:19:18] SPEAKER_03
+No, it would, I feel like the 10 seconds after you eat something bad is a lot better
+
+[00:19:25] SPEAKER_03
+than while you're eating something bad, isn't it?
+
+[00:19:29] SPEAKER_03
+What?
+
+[00:19:30] SPEAKER_03
+Say that one more time.
+
+[00:19:31] SPEAKER_06
+Say it one more time.
+
+[00:19:32] SPEAKER_06
+Say it one more time for me.
+
+[00:19:33] SPEAKER_06
+Yeah, yeah, yeah.
+
+[00:19:33] SPEAKER_03
+What don't you like eating, Eric?
+
+[00:19:36] SPEAKER_03
+Pickles.
+
+[00:19:37] SPEAKER_03
+You're eating a pickle.
+
+[00:19:38] SPEAKER_03
+Pretty grim, right?
+
+[00:19:39] SPEAKER_03
+Yeah.
+
+[00:19:40] SPEAKER_03
+But after you're done eating it, you've still got a little bit of the taste, but it's not
+
+[00:19:43] SPEAKER_03
+as bad because you've eaten it.
+
+[00:19:44] SPEAKER_05
+That's like saying, I feel like getting bit by a snake is worse than 10 seconds after being
+
+[00:19:52] SPEAKER_05
+bit by a snake.
+
+[00:19:54] SPEAKER_06
+Why is everything with you today all about delays?
+
+[00:19:58] SPEAKER_06
+What is going on?
+
+[00:19:59] SPEAKER_06
+What do you need?
+
+[00:20:01] SPEAKER_03
+But what you would experience is basically the feeling like you just ate gruel, but you're
+
+[00:20:06] SPEAKER_03
+not actually eating it.
+
+[00:20:07] SPEAKER_03
+So it wouldn't be as bad as eating it.
+
+[00:20:08] SPEAKER_03
+But when you were eating it, you were getting the delicious taste of choccy in there.
+
+[00:20:13] SPEAKER_03
+I don't.
+
+[00:20:14] SPEAKER_06
+Why don't you just eat gruel that tastes good?
+
+[00:20:17] SPEAKER_03
+What are you?
+
+[00:20:18] SPEAKER_03
+I still don't understand what point you're proving.
+
+[00:20:22] SPEAKER_03
+Well, Jeff was saying an hour later, after I've eaten the mingin gruel, I'd be tasting
+
+[00:20:27] SPEAKER_03
+the gruel, but I'm not actually eating the gruel.
+
+[00:20:29] SPEAKER_03
+What is gruel?
+
+[00:20:34] SPEAKER_06
+What the hell is it?
+
+[00:20:36] SPEAKER_06
+I don't think.
+
+[00:20:37] SPEAKER_06
+I don't know, but we're going to suffer the consequences of it.
+
+[00:20:41] SPEAKER_07
+Yeah.
+
+[00:20:41] SPEAKER_07
+Like, that's what I don't seem to think you get is that if you delay the consequence, it's
+
+[00:20:48] SPEAKER_03
+still the consequence.
+
+[00:20:49] SPEAKER_03
+I just think the consequence of the taste of something you're not eating isn't as bad
+
+[00:20:53] SPEAKER_03
+as eating something that you don't like.
+
+[00:20:55] SPEAKER_07
+I think what you're saying is that you think if you're not in the act of doing it, the consequence
+
+[00:21:01] SPEAKER_07
+is lesser than the effect of it.
+
+[00:21:04] SPEAKER_07
+But I disagree.
+
+[00:21:05] SPEAKER_07
+I think that if you break your arm and you don't feel any of the pain until an hour later,
+
+[00:21:11] SPEAKER_07
+it's equally as bad.
+
+[00:21:13] SPEAKER_07
+I think that you're just like weirdly disassociating these things because that's not how we experience
+
+[00:21:19] SPEAKER_07
+things.
+
+[00:21:20] SPEAKER_03
+Well, I'm separating the texture from the taste.
+
+[00:21:23] SPEAKER_07
+That's true.
+
+[00:21:24] SPEAKER_07
+But the consequence of I guess if you're only upset by the texture, then that that would
+
+[00:21:29] SPEAKER_07
+make sense.
+
+[00:21:30] SPEAKER_07
+It's like the only context in which what you're saying makes sense.
+
+[00:21:32] SPEAKER_07
+But but it still doesn't make sense because you the texture doesn't go away.
+
+[00:21:38] SPEAKER_07
+You would still have the texture.
+
+[00:21:41] SPEAKER_07
+It's the taste that's delayed.
+
+[00:21:43] SPEAKER_03
+But if you had a really mingin texture with a phenomenal taste, wouldn't I get you through
+
+[00:21:48] SPEAKER_03
+it?
+
+[00:21:51] SPEAKER_05
+What's up?
+
+[00:21:51] SPEAKER_05
+I mean, does that already exist?
+
+[00:21:53] SPEAKER_05
+Is there something that you like trying to think like you don't like how you eat it
+
+[00:21:57] SPEAKER_05
+necessarily?
+
+[00:21:58] SPEAKER_05
+It's a great question.
+
+[00:21:59] SPEAKER_07
+I guess bananas for me is like the closest I can.
+
+[00:22:03] SPEAKER_07
+I can see that.
+
+[00:22:03] SPEAKER_07
+Yeah.
+
+[00:22:04] SPEAKER_07
+Yeah.
+
+[00:22:04] SPEAKER_07
+We're like, I don't mind the taste of it, but I hate the texture.
+
+[00:22:07] SPEAKER_07
+I don't like eating an apple, but I like apples.
+
+[00:22:10] SPEAKER_05
+Oh, you don't like apple texture.
+
+[00:22:12] SPEAKER_05
+That's interesting.
+
+[00:22:13] SPEAKER_05
+I just don't like the skin and brain.
+
+[00:22:15] SPEAKER_05
+I like if I cut them up and stuff, I'm OK with it.
+
+[00:22:17] SPEAKER_05
+I just don't like to eat an apple.
+
+[00:22:18] SPEAKER_07
+Oh, I like feeling like a horse.
+
+[00:22:20] SPEAKER_07
+I like full horse mode.
+
+[00:22:22] SPEAKER_07
+If you could one bite an apple, would you go for it?
+
+[00:22:27] SPEAKER_07
+What?
+
+[00:22:28] SPEAKER_05
+If you could see an apple out like in a cartoon?
+
+[00:22:33] SPEAKER_07
+There's OK.
+
+[00:22:34] SPEAKER_07
+There's two ways they eat apples.
+
+[00:22:35] SPEAKER_07
+If we're going to really get into the mindset of this for me.
+
+[00:22:38] SPEAKER_07
+OK.
+
+[00:22:38] SPEAKER_07
+I either go full horse mode and that's fun.
+
+[00:22:41] SPEAKER_07
+That's a great way to eat an apple.
+
+[00:22:42] SPEAKER_07
+Or I may have a knife and cut the pieces of the apple with the knife guy.
+
+[00:22:49] SPEAKER_07
+That also adds a little layer to this little spot.
+
+[00:22:52] SPEAKER_06
+Can I ask what full horse mode is for you?
+
+[00:22:54] SPEAKER_07
+It's like taking the biggest chunk you can possibly take.
+
+[00:22:58] SPEAKER_07
+Like not being strategic.
+
+[00:23:01] SPEAKER_05
+Just like chunking that apple.
+
+[00:23:02] SPEAKER_05
+Dude, I feel like if I did that in 2025, I'd leave four teeth in the apple.
+
+[00:23:09] SPEAKER_03
+I think apples are dangerous when you do the big bite there.
+
+[00:23:12] SPEAKER_03
+Because you can bite off chunks bigger than your mouth.
+
+[00:23:15] SPEAKER_03
+Like sometimes the apple will split and it'll be way bigger than a mouthful.
+
+[00:23:19] SPEAKER_07
+So I've never had more than a mouthful of apple when going horse mode.
+
+[00:23:25] SPEAKER_07
+Really?
+
+[00:23:26] SPEAKER_07
+Yeah.
+
+[00:23:27] SPEAKER_05
+You know, Gav, I heard about a product recently from actually, I think, from Mark the Frog,
+
+[00:23:33] SPEAKER_05
+of all people, go figure, that might be right up your alley.
+
+[00:23:37] SPEAKER_05
+There is a meat-based food cube that exists.
+
+[00:23:41] SPEAKER_05
+Have you ever heard of something called Scrapple?
+
+[00:23:46] SPEAKER_05
+No.
+
+[00:23:46] SPEAKER_05
+Allow me to present Scrapple to you.
+
+[00:23:50] SPEAKER_06
+I hadn't even, dude, I hadn't even thought about Scrapple.
+
+[00:23:53] SPEAKER_06
+Scrapple?
+
+[00:23:54] SPEAKER_06
+It didn't even cross my mind.
+
+[00:23:55] SPEAKER_06
+You knew about Scrapple?
+
+[00:23:56] SPEAKER_05
+Yeah.
+
+[00:23:57] SPEAKER_99
+Yeah, I've had it.
+
+[00:23:58] SPEAKER_05
+It's a Pennsylvania thing, I think.
+
+[00:24:00] SPEAKER_05
+It is a Pennsylvania Dutch thing.
+
+[00:24:02] SPEAKER_05
+It is, uh...
+
+[00:24:03] SPEAKER_05
+It is good!
+
+[00:24:04] SPEAKER_05
+It is a traditional mush of fried pork scraps and trimmings combined with cornmeal and
+
+[00:24:11] SPEAKER_05
+wheat flour and then, and pressed into a cube.
+
+[00:24:15] SPEAKER_99
+Yeah.
+
+[00:24:15] SPEAKER_05
+I'll be honest, it's one of the ugliest looking things I've ever seen.
+
+[00:24:20] SPEAKER_99
+It's delicious!
+
+[00:24:20] SPEAKER_03
+I think I only like the idea of the food cube on paper, because the picture of meal squares
+
+[00:24:25] SPEAKER_03
+and the Scrapple is not doing anything for me.
+
+[00:24:29] SPEAKER_99
+Let's try Scrapple!
+
+[00:24:30] SPEAKER_06
+You said you already have eaten it and you love it.
+
+[00:24:35] SPEAKER_06
+You just want us to get you Scrapple.
+
+[00:24:38] SPEAKER_07
+Yeah, we can't get it here.
+
+[00:24:39] SPEAKER_07
+Scrapple Scrundase.
+
+[00:24:40] SPEAKER_07
+I'm realizing that I put the same weight in food opinions from Nick and Gavin.
+
+[00:24:47] SPEAKER_07
+They're equal, just for different reasons.
+
+[00:24:50] SPEAKER_07
+Oh!
+
+[00:24:51] SPEAKER_07
+Two ends of the spectrum.
+
+[00:24:52] SPEAKER_07
+Yeah!
+
+[00:24:53] SPEAKER_07
+You're such a food guy, you saying something's incredible, doesn't move the meter for me.
+
+[00:24:59] SPEAKER_07
+Yeah.
+
+[00:24:59] SPEAKER_07
+Smart.
+
+[00:25:00] SPEAKER_07
+Because he likes everything.
+
+[00:25:01] SPEAKER_07
+In the same way that Gavin...
+
+[00:25:02] SPEAKER_07
+Yeah.
+
+[00:25:03] SPEAKER_07
+It's just the reverse.
+
+[00:25:04] SPEAKER_07
+It's the opposite end.
+
+[00:25:05] SPEAKER_07
+Yeah.
+
+[00:25:05] SPEAKER_05
+It's like when Jack Patillo recommends a TV show.
+
+[00:25:08] SPEAKER_06
+Yeah, I'm glad you're like cluing in on this.
+
+[00:25:10] SPEAKER_06
+I'm glad you're fine.
+
+[00:25:11] SPEAKER_06
+I'm glad people are starting to understand.
+
+[00:25:13] SPEAKER_06
+This is good.
+
+[00:25:13] SPEAKER_03
+Andrew, you've focused in on me not enjoying tastes.
+
+[00:25:17] SPEAKER_03
+But I do like the taste of stuff.
+
+[00:25:19] SPEAKER_03
+I just don't like a meal being 90 minutes long.
+
+[00:25:23] SPEAKER_05
+In Andrew's defense, you have multiple times said that taste is unnecessary and you'd rather
+
+[00:25:27] SPEAKER_05
+get the food down than spend time tasting it.
+
+[00:25:28] SPEAKER_05
+Yeah, you're an efficiency guy.
+
+[00:25:30] SPEAKER_03
+What if I could trade taste for time?
+
+[00:25:32] SPEAKER_03
+I would do it.
+
+[00:25:33] SPEAKER_05
+Yeah.
+
+[00:25:34] SPEAKER_03
+It's right in front of you.
+
+[00:25:35] SPEAKER_03
+Scrapple.
+
+[00:25:36] SPEAKER_03
+Yeah.
+
+[00:25:36] SPEAKER_03
+I just don't think I could get that down.
+
+[00:25:38] SPEAKER_03
+That looks...
+
+[00:25:39] SPEAKER_03
+You gotta fry it.
+
+[00:25:41] SPEAKER_06
+You fry that?
+
+[00:25:42] SPEAKER_06
+You gotta fry it.
+
+[00:25:43] SPEAKER_06
+It's fried leftover pig shit.
+
+[00:25:46] SPEAKER_06
+Yeah, it's for our fried days.
+
+[00:25:48] SPEAKER_06
+You just fry up some Scrapple.
+
+[00:25:50] SPEAKER_05
+Probably, it's probably identical from an ingredient standpoint to a hot dog just produced differently.
+
+[00:25:56] SPEAKER_05
+Oh, that's interesting.
+
+[00:25:56] SPEAKER_07
+Give me the end of the trilogy.
+
+[00:25:59] SPEAKER_03
+Has anyone made a Scrapple dog?
+
+[00:26:03] SPEAKER_05
+That grossed me out.
+
+[00:26:08] SPEAKER_03
+Cut it to a perfect cylinder.
+
+[00:26:11] SPEAKER_04
+I don't know why that got me.
+
+[00:26:15] SPEAKER_04
+That got me real hard.
+
+[00:26:17] SPEAKER_04
+Nick.
+
+[00:26:18] SPEAKER_03
+Nick, it didn't...
+
+[00:26:19] SPEAKER_03
+Jeff's not gonna go for it, but would you try a Scrapple dog?
+
+[00:26:22] SPEAKER_04
+Absolutely, I would.
+
+[00:26:24] SPEAKER_04
+We've gotta do this.
+
+[00:26:25] SPEAKER_04
+I don't know why that's really gross.
+
+[00:26:28] SPEAKER_04
+I don't ever get got like that.
+
+[00:26:30] SPEAKER_06
+I found a place that did a Scrapple dog and they put lobster on it.
+
+[00:26:35] SPEAKER_06
+Lobster top Scrapple dog.
+
+[00:26:36] SPEAKER_07
+Oh my god!
+
+[00:26:38] SPEAKER_07
+Surf and turf!
+
+[00:26:40] SPEAKER_03
+They can't cool that turf.
+
+[00:26:46] SPEAKER_07
+It's like, Nick is like, if Joey Chestnut's competitiveness had joy, Nick's the joy of Joey Chestnut.
+
+[00:26:54] SPEAKER_07
+Like, that's a man that I think just does that because he's competitive about it.
+
+[00:27:01] SPEAKER_07
+If it was for the love of the game, Nick is the physical embodiment of Joey Chestnut.
+
+[00:27:06] SPEAKER_07
+Love of the game.
+
+[00:27:07] SPEAKER_01
+Prime presents Perfect Pairings.
+
+[00:27:14] SPEAKER_01
+What pairs with Reacher on Prime?
+
+[00:27:16] SPEAKER_01
+Reaching for a sparkling punch delivered with Prime.
+
+[00:27:20] SPEAKER_01
+It's an unbelievable feeling when you're enjoying a punch.
+
+[00:27:25] SPEAKER_01
+At the same time, Reacher is enjoying punching people.
+
+[00:27:31] SPEAKER_01
+Wow, he's still punching people.
+
+[00:27:33] SPEAKER_01
+Entertainment meets fast delivery.
+
+[00:27:38] SPEAKER_01
+It's on Prime.
+
+[00:27:41] SPEAKER_09
+Welcome aboard V-A-Rail.
+
+[00:27:43] SPEAKER_09
+Please sit and enjoy.
+
+[00:27:45] SPEAKER_09
+Please sit and sip.
+
+[00:27:47] SPEAKER_09
+Play.
+
+[00:27:48] SPEAKER_09
+Post.
+
+[00:27:49] SPEAKER_09
+Taste.
+
+[00:27:50] SPEAKER_09
+View.
+
+[00:27:52] SPEAKER_09
+And enjoy.
+
+[00:27:53] SPEAKER_09
+V-A-Rail.
+
+[00:27:54] SPEAKER_07
+Love the way.
+
+[00:27:55] SPEAKER_07
+Well, did you ever...
+
+[00:27:57] SPEAKER_07
+Have you...
+
+[00:27:58] SPEAKER_07
+Just to put a ribbon on your dumb day, Jeff.
+
+[00:28:03] SPEAKER_07
+Did you resolve that problem yet?
+
+[00:28:05] SPEAKER_05
+Or is it still unresolved because of that?
+
+[00:28:08] SPEAKER_05
+No, I resolved it while I was on the floor moping.
+
+[00:28:10] SPEAKER_05
+I was on hold.
+
+[00:28:11] SPEAKER_05
+Got it.
+
+[00:28:11] SPEAKER_05
+Okay.
+
+[00:28:12] SPEAKER_05
+Don't worry.
+
+[00:28:13] SPEAKER_05
+I spent 25...
+
+[00:28:13] SPEAKER_05
+I thought you punted on it.
+
+[00:28:14] SPEAKER_05
+I didn't realize.
+
+[00:28:15] SPEAKER_05
+No, no, no.
+
+[00:28:15] SPEAKER_05
+I spent 25 minutes on hold with the right bank before I go to the bank.
+
+[00:28:20] SPEAKER_05
+Yeah, I did a good hour between the two banks.
+
+[00:28:24] SPEAKER_07
+I wonder if anyone's called the bank to be like, persuade me.
+
+[00:28:28] SPEAKER_07
+This isn't my bank.
+
+[00:28:30] SPEAKER_07
+Convince me.
+
+[00:28:31] SPEAKER_05
+This is the second time I've done this in my life.
+
+[00:28:34] SPEAKER_05
+I was reminded when I did it of many years ago.
+
+[00:28:36] SPEAKER_05
+We have two plumbing companies in Austin.
+
+[00:28:39] SPEAKER_05
+One called Radiant Plumbing, which is kind of locally famous.
+
+[00:28:42] SPEAKER_05
+They actually had a bid on John Oliver where he made a commercial for him and stuff.
+
+[00:28:46] SPEAKER_05
+And then we have another plumbing place called Reliant Plumbing.
+
+[00:28:49] SPEAKER_05
+And I bought an air conditioner from one of them and called the other one and then tried
+
+[00:28:53] SPEAKER_05
+to convince them that they needed to come out and service it.
+
+[00:28:55] SPEAKER_05
+And they were like, you are not our customer.
+
+[00:28:57] SPEAKER_05
+And then after about like five minutes of running around and me getting real angry, the lady
+
+[00:29:01] SPEAKER_05
+goes, I think he meant to call Radiant.
+
+[00:29:02] SPEAKER_05
+And I was like, oh, I certainly did.
+
+[00:29:05] SPEAKER_05
+And I was like, does this happen a lot?
+
+[00:29:07] SPEAKER_05
+And she was like, not really.
+
+[00:29:08] SPEAKER_05
+Oh, I bet you guys get this all the time.
+
+[00:29:12] SPEAKER_05
+No, first time.
+
+[00:29:13] SPEAKER_05
+That was like 2022, 2023.
+
+[00:29:15] SPEAKER_07
+Oh, I think it's funny.
+
+[00:29:20] SPEAKER_07
+The idea of calling multiple things in the same field and trying to negotiate between them.
+
+[00:29:25] SPEAKER_07
+Yeah.
+
+[00:29:26] SPEAKER_07
+Be like, oh, I'm getting this rate by this plumber.
+
+[00:29:29] SPEAKER_07
+Well, what can you do for me?
+
+[00:29:31] SPEAKER_07
+Or calling a bank about it.
+
+[00:29:34] SPEAKER_07
+Every financial decision in your life, you phone the bank for it.
+
+[00:29:37] SPEAKER_07
+You're like, what would you do?
+
+[00:29:39] SPEAKER_07
+Any advice for me?
+
+[00:29:40] SPEAKER_05
+The thing about it, too, is that like Bank of America, when I called the number, they
+
+[00:29:44] SPEAKER_05
+asked for the last four digits of my Social Security card.
+
+[00:29:47] SPEAKER_05
+And I'm like, yeah, I typed it in.
+
+[00:29:49] SPEAKER_05
+And that wasn't a red flag.
+
+[00:29:50] SPEAKER_05
+They were like, all right, cool.
+
+[00:29:50] SPEAKER_05
+Got it.
+
+[00:29:51] SPEAKER_05
+Not like we don't have you as a customer.
+
+[00:29:54] SPEAKER_05
+That's a weird one.
+
+[00:29:55] SPEAKER_05
+Nothing came back.
+
+[00:29:56] SPEAKER_05
+That doesn't match the number you called.
+
+[00:29:58] SPEAKER_05
+None of that.
+
+[00:29:58] SPEAKER_05
+They were just like, cool.
+
+[00:29:59] SPEAKER_05
+Got it.
+
+[00:29:59] SPEAKER_05
+Which made me think, do I have a Bank of America account?
+
+[00:30:02] SPEAKER_05
+I'm not aware of.
+
+[00:30:03] SPEAKER_05
+I do not.
+
+[00:30:04] SPEAKER_07
+That is always scary.
+
+[00:30:07] SPEAKER_07
+There are certain accounts that you can't get rid of.
+
+[00:30:10] SPEAKER_07
+Like, I couldn't cancel Quibi.
+
+[00:30:13] SPEAKER_07
+And so what?
+
+[00:30:15] SPEAKER_07
+How could they charge you?
+
+[00:30:16] SPEAKER_07
+I don't think they exist anymore.
+
+[00:30:17] SPEAKER_07
+No, they don't.
+
+[00:30:18] SPEAKER_07
+That's why I stopped paying for Quibi.
+
+[00:30:20] SPEAKER_07
+I think I've I talked about it at the show at the time, but I registered for Quibi when
+
+[00:30:23] SPEAKER_07
+it came out and then I couldn't because I did it through like an Apple thing.
+
+[00:30:27] SPEAKER_07
+I wasn't able to deactivate it.
+
+[00:30:31] SPEAKER_07
+So I just kept getting charged Quibi per month.
+
+[00:30:33] SPEAKER_07
+And then I was so happy when that company died because it ended my subscription with them.
+
+[00:30:38] SPEAKER_05
+I had a really hard time canceling my Paramount Plus a little while ago.
+
+[00:30:43] SPEAKER_05
+It was not easy.
+
+[00:30:44] SPEAKER_07
+That is like the only advantage to me of I really enjoy going through Amazon for everything
+
+[00:30:51] SPEAKER_07
+because I hate having to deal with Apple TV's login thing or like specific companies login.
+
+[00:30:57] SPEAKER_07
+Being able to have one hub for all of it is so much more efficient.
+
+[00:31:01] SPEAKER_05
+Can can I actually this brings up something I wanted to complain to you guys about?
+
+[00:31:04] SPEAKER_05
+Can I bitch about something real fast?
+
+[00:31:05] SPEAKER_05
+Yeah, please talking about these multiple apps and watching television, right?
+
+[00:31:09] SPEAKER_05
+This is the fucking this is the gripe of my 50s.
+
+[00:31:11] SPEAKER_05
+I've decided yesterday.
+
+[00:31:14] SPEAKER_05
+Yesterday, I wanted to watch a documentary that somebody recommended to me on Canon films.
+
+[00:31:18] SPEAKER_05
+The documentary is called Electric Boogaloo, the wild untold story of Canon films or whatever.
+
+[00:31:23] SPEAKER_05
+Right.
+
+[00:31:24] SPEAKER_05
+So I thought that's a lot to type.
+
+[00:31:26] SPEAKER_05
+I should Google where it's going to be before I type it in the wrong fucking app.
+
+[00:31:30] SPEAKER_05
+And Google said, cool, you can watch this.
+
+[00:31:32] SPEAKER_05
+You can watch this on Amazon.
+
+[00:31:34] SPEAKER_05
+You can watch it on Netflix and you can watch it on YouTube premium.
+
+[00:31:38] SPEAKER_05
+Not a problem.
+
+[00:31:38] SPEAKER_05
+I have all of those.
+
+[00:31:39] SPEAKER_05
+I was in front of Amazon.
+
+[00:31:41] SPEAKER_05
+So I load up Amazon and I go to the search and I type in electric and nothing's coming
+
+[00:31:45] SPEAKER_05
+up trick space.
+
+[00:31:47] SPEAKER_05
+Still nothing.
+
+[00:31:48] SPEAKER_05
+Boo.
+
+[00:31:48] SPEAKER_05
+Finally, it pops up and it says, oh, yeah, it's not available here.
+
+[00:31:51] SPEAKER_05
+The Internet lied to you.
+
+[00:31:52] SPEAKER_05
+And I'm like, fuck.
+
+[00:31:52] SPEAKER_05
+OK, so I open up Netflix and I go to search and I type L and nothing's coming up trick space.
+
+[00:32:00] SPEAKER_05
+Boo.
+
+[00:32:00] SPEAKER_05
+And then it finally says that we don't have that here.
+
+[00:32:02] SPEAKER_05
+Oh, fuck.
+
+[00:32:03] SPEAKER_05
+So then I go to YouTube and I type in electric space, boot, nothing.
+
+[00:32:08] SPEAKER_05
+Galoo space, nothing documentary.
+
+[00:32:11] SPEAKER_05
+Boom.
+
+[00:32:12] SPEAKER_05
+It pops up and I get to watch it.
+
+[00:32:13] SPEAKER_05
+And I'm thinking the entire time, why doesn't copy and paste exist from app to app?
+
+[00:32:19] SPEAKER_05
+Like surely the Apple TV can figure out how to transfer my I should be able to copy what
+
+[00:32:24] SPEAKER_05
+I type in Amazon and then be able to paste it in Netflix in the same search window.
+
+[00:32:28] SPEAKER_05
+Sure.
+
+[00:32:29] SPEAKER_05
+We can we can go to Mars.
+
+[00:32:31] SPEAKER_05
+We can't figure out how to make it easier for me to type electric boogaloo three times
+
+[00:32:34] SPEAKER_03
+on Apple TV.
+
+[00:32:37] SPEAKER_05
+Yeah, I think you can share the clipboard from fire or on fire stick or on any of it.
+
+[00:32:43] SPEAKER_03
+Mm hmm.
+
+[00:32:43] SPEAKER_03
+Yeah, I think that people are always talking about like having subdermal chips put in and
+
+[00:32:48] SPEAKER_03
+shit for like storage of data, which sounds scary as hell.
+
+[00:32:51] SPEAKER_03
+But I would definitely have a clipboard like in my finger.
+
+[00:32:57] SPEAKER_03
+I'd love that.
+
+[00:32:58] SPEAKER_05
+It's a fucking it's stupid.
+
+[00:32:59] SPEAKER_05
+It's stupid that I have to type it all over again from three apps on the same device when
+
+[00:33:05] SPEAKER_05
+all the device does is service those apps.
+
+[00:33:08] SPEAKER_05
+It's the only purpose of the device.
+
+[00:33:10] SPEAKER_03
+You could probably voice to text it all.
+
+[00:33:12] SPEAKER_03
+What's that?
+
+[00:33:13] SPEAKER_03
+You could probably just say it into the into the app.
+
+[00:33:16] SPEAKER_03
+And to my little Apple remote?
+
+[00:33:19] SPEAKER_99
+Oh, yeah.
+
+[00:33:20] SPEAKER_03
+Yeah, you just go electric boogaloo.
+
+[00:33:23] SPEAKER_03
+There's a microphone button on it.
+
+[00:33:26] SPEAKER_07
+The way you said it.
+
+[00:33:29] SPEAKER_05
+The least confident I've ever heard somebody say something.
+
+[00:33:31] SPEAKER_07
+Yeah, he did bail out.
+
+[00:33:33] SPEAKER_07
+Just you say to my little Apple and imagining you like hunched over to your Apple thing going
+
+[00:33:39] SPEAKER_07
+electric boogaloo, cannon, cannon, electric boogaloo.
+
+[00:33:48] SPEAKER_05
+I don't want to have to talk to my TV.
+
+[00:33:50] SPEAKER_05
+Yeah, I agree.
+
+[00:33:51] SPEAKER_05
+We're not friends.
+
+[00:33:52] SPEAKER_05
+We're not buddies.
+
+[00:33:53] SPEAKER_05
+You know, it's enough that I have to ask Alexa what the weather is.
+
+[00:33:57] SPEAKER_05
+That's that's that's enough.
+
+[00:33:59] SPEAKER_05
+I don't.
+
+[00:34:00] SPEAKER_05
+I don't want to have to talk to shit.
+
+[00:34:02] SPEAKER_05
+I'm in my house watching the documentary.
+
+[00:34:04] SPEAKER_05
+I did.
+
+[00:34:04] SPEAKER_05
+It was awesome.
+
+[00:34:05] SPEAKER_05
+It's fucking awesome.
+
+[00:34:06] SPEAKER_05
+Yeah, it's really fantastic documentary.
+
+[00:34:08] SPEAKER_03
+I feel like I only talk to stuff if I'm alone.
+
+[00:34:12] SPEAKER_03
+I don't I don't want someone to hear me talking to a piece of technology.
+
+[00:34:16] SPEAKER_07
+I feel the opposite.
+
+[00:34:17] SPEAKER_05
+I don't want to hear me talking to a piece of technology.
+
+[00:34:20] SPEAKER_05
+But you're hearing you say that now.
+
+[00:34:22] SPEAKER_04
+I don't want to talk to the fucking remote control or the television.
+
+[00:34:27] SPEAKER_05
+That's dumb.
+
+[00:34:28] SPEAKER_05
+That's not a future I want to live in.
+
+[00:34:30] SPEAKER_05
+Also, it wouldn't work.
+
+[00:34:31] SPEAKER_05
+It would work like dog shit.
+
+[00:34:32] SPEAKER_05
+It works like when I ask Alexa something and I'm like, hey, Alexa, what's the score
+
+[00:34:36] SPEAKER_05
+of the Celtics game?
+
+[00:34:36] SPEAKER_05
+And then she's like, uh, I don't know.
+
+[00:34:40] SPEAKER_05
+She's like Anthony Bourdain died in 2021.
+
+[00:34:42] SPEAKER_05
+That's not what I asked.
+
+[00:34:47] SPEAKER_03
+Technology is so shit.
+
+[00:34:48] SPEAKER_03
+Twenty twenty five.
+
+[00:34:50] SPEAKER_07
+So funny, because I feel the opposite.
+
+[00:34:52] SPEAKER_07
+I would rather talk to technology with someone around than a person with someone else around.
+
+[00:34:58] SPEAKER_03
+What did you just say?
+
+[00:34:59] SPEAKER_07
+I don't understand what that you just said.
+
+[00:35:02] SPEAKER_07
+You said that you would rather.
+
+[00:35:05] SPEAKER_07
+What did you say?
+
+[00:35:06] SPEAKER_03
+You don't want to talk to a person in front of someone.
+
+[00:35:10] SPEAKER_07
+You said you want to say that you if someone was you said you would only talk to technology
+
+[00:35:14] SPEAKER_07
+if no one else was around.
+
+[00:35:16] SPEAKER_07
+Yeah, I feel indifferent about it.
+
+[00:35:19] SPEAKER_07
+I would feel weirder talking to somebody with another person around.
+
+[00:35:23] SPEAKER_07
+If there is a person in the peripheral, I'd rather be talking to technology than another
+
+[00:35:29] SPEAKER_07
+person.
+
+[00:35:31] SPEAKER_03
+So so you wouldn't want to you wouldn't want me to be in the room if you were on the phone.
+
+[00:35:36] SPEAKER_07
+Yes, I get that.
+
+[00:35:38] SPEAKER_07
+That is significantly worse for me than if I were just talking to a piece of technology.
+
+[00:35:46] SPEAKER_07
+Because with another person in the peripheral, it feels rude to me in a sense.
+
+[00:35:51] SPEAKER_07
+I feel like there's pressure.
+
+[00:35:53] SPEAKER_03
+Yes, judgment.
+
+[00:35:54] SPEAKER_07
+There is pressure.
+
+[00:35:55] SPEAKER_07
+There is both the layer of like this person could be hearing what I'm saying and judging
+
+[00:36:00] SPEAKER_07
+it and also a layer potentially of like I need to try to get this person involved in this
+
+[00:36:05] SPEAKER_07
+conversation that isn't part of it.
+
+[00:36:07] SPEAKER_07
+I don't want them to feel unwelcomed.
+
+[00:36:09] SPEAKER_07
+Where if I'm just talking to my TV, who cares?
+
+[00:36:12] SPEAKER_07
+Man, doesn't matter.
+
+[00:36:14] SPEAKER_05
+You're right about one thing.
+
+[00:36:15] SPEAKER_05
+I have never felt pressure in my life like having to call American Express to get a card
+
+[00:36:19] SPEAKER_05
+unlocked in the Achievement Hunter office in front of five assholes.
+
+[00:36:23] SPEAKER_05
+Oh, my God.
+
+[00:36:25] SPEAKER_03
+Oh, and I had to do it twice a week for, I don't know, six years.
+
+[00:36:31] SPEAKER_03
+I got I want to start a series where I would film you every time you were doing
+
+[00:36:35] SPEAKER_03
+it, and I think I filmed like seven or eight of them, and then it just got to the point
+
+[00:36:39] SPEAKER_03
+where it was sad.
+
+[00:36:40] SPEAKER_99
+Yeah.
+
+[00:36:41] SPEAKER_03
+Every time we bought something on Steam.
+
+[00:36:43] SPEAKER_03
+Because it wasted like 25 minutes of your day every two weeks.
+
+[00:36:48] SPEAKER_03
+Mm hmm.
+
+[00:36:49] SPEAKER_03
+And you would always say, can you please can you please make a note?
+
+[00:36:53] SPEAKER_03
+And they would say, yes, we're making a note.
+
+[00:36:55] SPEAKER_03
+This will never happen again.
+
+[00:36:56] SPEAKER_03
+And sometimes it would happen again like an hour later.
+
+[00:36:59] SPEAKER_05
+And I would say, don't say that because I'll be talking to you in an hour.
+
+[00:37:02] SPEAKER_07
+Uh, you're going to regret saying that.
+
+[00:37:06] SPEAKER_07
+What's the worst documentary you've seen?
+
+[00:37:08] SPEAKER_07
+Uh, least enjoyable.
+
+[00:37:10] SPEAKER_05
+I saw a documentary on the Beatles being, uh, like Paul McCartney being dead and then replacing
+
+[00:37:17] SPEAKER_05
+him with a fake Paul McCartney.
+
+[00:37:19] SPEAKER_05
+Sure.
+
+[00:37:19] SPEAKER_05
+I couldn't get through it.
+
+[00:37:20] SPEAKER_05
+I tried to watch it like 2016 or something.
+
+[00:37:22] SPEAKER_07
+I hate the press my luck documentary.
+
+[00:37:25] SPEAKER_07
+That guy.
+
+[00:37:26] SPEAKER_07
+What's that about?
+
+[00:37:27] SPEAKER_07
+It's so boring.
+
+[00:37:27] SPEAKER_07
+It's about the guy that like broke the game show.
+
+[00:37:31] SPEAKER_07
+Press my luck because he just realized that it's a game where you hit a button and you
+
+[00:37:35] SPEAKER_07
+need to avoid landing on certain squares.
+
+[00:37:38] SPEAKER_07
+And he realized that they just use like the same five patterns over and over again so
+
+[00:37:43] SPEAKER_07
+he could predict.
+
+[00:37:43] SPEAKER_07
+And they made a documentary about him.
+
+[00:37:46] SPEAKER_07
+And what I just described is the entirety of the story.
+
+[00:37:49] SPEAKER_07
+There's nothing more to that story, but it's like 90 minutes long.
+
+[00:37:53] SPEAKER_07
+They just made a movie about it.
+
+[00:37:54] SPEAKER_07
+They did.
+
+[00:37:55] SPEAKER_07
+I don't understand the fascination with the press my luck guy.
+
+[00:37:59] SPEAKER_07
+I don't know.
+
+[00:37:59] SPEAKER_07
+It's not that compelling of a story.
+
+[00:38:02] SPEAKER_07
+I think the action, the like the most interesting part of it was and I don't remember if it was
+
+[00:38:07] SPEAKER_07
+related to his winnings from press my luck.
+
+[00:38:09] SPEAKER_07
+It must have been there was like a radio show that was doing a promotion where if you could
+
+[00:38:15] SPEAKER_07
+guess the serial number of a dollar bill they had, uh, you would get a certain amount
+
+[00:38:21] SPEAKER_07
+of money and so he like pulled all of his money into cash to just like try to figure out the
+
+[00:38:27] SPEAKER_07
+serial number that they're going to use.
+
+[00:38:29] SPEAKER_07
+Did he do it?
+
+[00:38:30] SPEAKER_07
+No.
+
+[00:38:31] SPEAKER_07
+No.
+
+[00:38:31] SPEAKER_07
+Cool.
+
+[00:38:32] SPEAKER_07
+I think the guy trying something.
+
+[00:38:34] SPEAKER_07
+That's awesome.
+
+[00:38:35] SPEAKER_07
+It is.
+
+[00:38:35] SPEAKER_07
+It's like 90 minutes of like, yeah, this guy was like really shitty and like didn't, uh,
+
+[00:38:40] SPEAKER_07
+he was trying to do scams and stuff and none of it really worked all that well.
+
+[00:38:44] SPEAKER_07
+And then he did press my luck and that worked, but like he got in trouble and there's no,
+
+[00:38:48] SPEAKER_07
+there's like not an interesting art to it.
+
+[00:38:50] SPEAKER_03
+I don't know why he got in trouble though.
+
+[00:38:52] SPEAKER_05
+Cause he was trying to game the system.
+
+[00:38:54] SPEAKER_03
+That's just a floor of the system.
+
+[00:38:56] SPEAKER_99
+Yeah.
+
+[00:38:56] SPEAKER_07
+Hmm.
+
+[00:38:57] SPEAKER_07
+Yes.
+
+[00:38:58] SPEAKER_07
+Yeah.
+
+[00:38:58] SPEAKER_07
+But, but that's the world we live in.
+
+[00:39:00] SPEAKER_07
+That's not how that works.
+
+[00:39:02] SPEAKER_07
+Like casinos are built entirely on the idea of like, you cannot in any way manipulate the
+
+[00:39:07] SPEAKER_07
+odds to you.
+
+[00:39:08] SPEAKER_07
+And by manipulate, we mean use anything that would be skillful.
+
+[00:39:11] SPEAKER_05
+Yeah.
+
+[00:39:12] SPEAKER_05
+Like counting cards in your head.
+
+[00:39:14] SPEAKER_05
+Sure.
+
+[00:39:15] SPEAKER_05
+Hey, uh, speaking of trying.
+
+[00:39:18] SPEAKER_05
+Something new.
+
+[00:39:19] SPEAKER_05
+Ah, fuck.
+
+[00:39:21] SPEAKER_05
+Why don't we have nitro?
+
+[00:39:23] SPEAKER_05
+God damn it.
+
+[00:39:25] SPEAKER_05
+I have nitro.
+
+[00:39:28] SPEAKER_05
+Listen, uh, have we talked to the audience about the next gerbler yet?
+
+[00:39:37] SPEAKER_05
+No, I don't think we have.
+
+[00:39:39] SPEAKER_05
+I have posted a video, two videos, actually.
+
+[00:39:44] SPEAKER_05
+I'm going to post in the merch slack.
+
+[00:39:46] SPEAKER_05
+Cause they're too fucking powerful for a discord.
+
+[00:39:50] SPEAKER_05
+I think maybe it's time to talk about it because we have them.
+
+[00:39:54] SPEAKER_05
+We have samples in and I have sent them to you guys.
+
+[00:39:57] SPEAKER_05
+So that's in my kitchen.
+
+[00:40:00] SPEAKER_05
+Yeah.
+
+[00:40:00] SPEAKER_05
+This is my, me testing it out in my kitchen this morning.
+
+[00:40:03] SPEAKER_05
+Okay.
+
+[00:40:03] SPEAKER_05
+So I've sent you guys some videos.
+
+[00:40:05] SPEAKER_05
+If you want to watch them, they're about four.
+
+[00:40:07] SPEAKER_05
+First video is 42 seconds long.
+
+[00:40:08] SPEAKER_05
+And the second one is 14 seconds long.
+
+[00:40:10] SPEAKER_99
+Okay.
+
+[00:40:11] SPEAKER_06
+All right.
+
+[00:40:11] SPEAKER_06
+Let us, let us know when to hit play on the 42 second one.
+
+[00:40:14] SPEAKER_05
+All right.
+
+[00:40:14] SPEAKER_05
+Well, I'll tell, I'll say if everybody's ready, I'll say go.
+
+[00:40:16] SPEAKER_05
+All right.
+
+[00:40:16] SPEAKER_05
+I'm ready.
+
+[00:40:17] SPEAKER_05
+On your mark.
+
+[00:40:18] SPEAKER_05
+Get set.
+
+[00:40:18] SPEAKER_05
+Go.
+
+[00:40:18] SPEAKER_05
+Okay.
+
+[00:40:20] SPEAKER_03
+So it's a green gerpler.
+
+[00:40:22] SPEAKER_03
+Well, we're not revealing it.
+
+[00:40:23] SPEAKER_03
+Are we?
+
+[00:40:24] SPEAKER_03
+Yeah.
+
+[00:40:24] SPEAKER_03
+Sure.
+
+[00:40:24] SPEAKER_03
+I mean, I don't know.
+
+[00:40:25] SPEAKER_03
+That's what I'm asking.
+
+[00:40:27] SPEAKER_05
+Why wouldn't we reveal it?
+
+[00:40:28] SPEAKER_05
+Why wouldn't we?
+
+[00:40:29] SPEAKER_05
+It comes out in like a month and a half.
+
+[00:40:30] SPEAKER_05
+Yeah.
+
+[00:40:31] SPEAKER_05
+I don't know why we wouldn't reveal it.
+
+[00:40:32] SPEAKER_05
+Jeff is pouring, uh, ice water into what appears to be a normal green gerpler with white
+
+[00:40:39] SPEAKER_05
+litter.
+
+[00:40:41] SPEAKER_06
+What appears to be.
+
+[00:40:42] SPEAKER_06
+What appears to be.
+
+[00:40:44] SPEAKER_06
+What appears to be.
+
+[00:40:45] SPEAKER_06
+Oh, and look at it slowly change.
+
+[00:40:49] SPEAKER_06
+Oh, wow.
+
+[00:40:51] SPEAKER_07
+That's so fucking cool.
+
+[00:40:52] SPEAKER_07
+It's turning purple.
+
+[00:40:54] SPEAKER_06
+The, the lettering text, the lettering that is white is becoming purple.
+
+[00:41:00] SPEAKER_06
+That's really cool.
+
+[00:41:02] SPEAKER_06
+Dude.
+
+[00:41:02] SPEAKER_06
+That looks awesome.
+
+[00:41:04] SPEAKER_05
+And where's the 14 second video?
+
+[00:41:06] SPEAKER_05
+The 14 second video is just me showing the other side and then showing that if you touch
+
+[00:41:11] SPEAKER_05
+the logo with your thumb or something hot, it goes back to white and then purple.
+
+[00:41:15] SPEAKER_05
+Oh, I was just showing how well it works.
+
+[00:41:18] SPEAKER_06
+Are we allowed to see that one or no?
+
+[00:41:20] SPEAKER_06
+Yeah.
+
+[00:41:20] SPEAKER_06
+Go for it.
+
+[00:41:21] SPEAKER_06
+Look at it.
+
+[00:41:21] SPEAKER_06
+It's like, okay.
+
+[00:41:23] SPEAKER_06
+Is it, are you going to send it or is it not uploaded?
+
+[00:41:26] SPEAKER_06
+Oh, sorry.
+
+[00:41:27] SPEAKER_06
+You know, like not send it or you just kind of like, it's like keeping it for yourself.
+
+[00:41:31] SPEAKER_05
+It's says it uploaded.
+
+[00:41:34] SPEAKER_05
+Okay.
+
+[00:41:34] SPEAKER_05
+Is it dishwasherable?
+
+[00:41:36] SPEAKER_05
+Yeah.
+
+[00:41:36] SPEAKER_05
+It's dishwasher safe.
+
+[00:41:37] SPEAKER_05
+Let me try to send it a second time.
+
+[00:41:39] SPEAKER_05
+I mean, I wouldn't put it in the dishwasher, but you could.
+
+[00:41:41] SPEAKER_05
+I, I, I, yeah, probably shouldn't put any of them in the dishwasher, but I think they
+
+[00:41:45] SPEAKER_05
+do say it's dishwasher safe.
+
+[00:41:47] SPEAKER_05
+It is definitely not like, there you go.
+
+[00:41:50] SPEAKER_05
+There you go.
+
+[00:41:50] SPEAKER_05
+So you can see that as well.
+
+[00:41:52] SPEAKER_06
+Okay.
+
+[00:41:52] SPEAKER_06
+So it's purple on the logo.
+
+[00:41:54] SPEAKER_06
+I'm going to put my thumb on it.
+
+[00:41:55] SPEAKER_06
+Oh, and then you're warming it up and it goes white.
+
+[00:41:58] SPEAKER_06
+Oh, that looks awesome.
+
+[00:41:59] SPEAKER_05
+Yeah.
+
+[00:41:59] SPEAKER_05
+And then it goes back to purple.
+
+[00:42:01] SPEAKER_99
+Wow.
+
+[00:42:02] SPEAKER_06
+Dude, the gerpler looks, oh wow.
+
+[00:42:04] SPEAKER_06
+So it's, it's the first, it's the green purple.
+
+[00:42:07] SPEAKER_06
+It's a true gerple with the color change effect.
+
+[00:42:10] SPEAKER_06
+Yeah.
+
+[00:42:11] SPEAKER_05
+Wow.
+
+[00:42:11] SPEAKER_05
+I've never seen one change from cold before.
+
+[00:42:14] SPEAKER_99
+Oh.
+
+[00:42:15] SPEAKER_05
+Yeah.
+
+[00:42:16] SPEAKER_05
+I haven't even tried hot.
+
+[00:42:16] SPEAKER_05
+I only tried cold.
+
+[00:42:18] SPEAKER_05
+I tried blue temperature.
+
+[00:42:18] SPEAKER_06
+You probably should try hot in the plastic cup.
+
+[00:42:20] SPEAKER_06
+I would think not to try hot in it.
+
+[00:42:22] SPEAKER_05
+Maybe just in general.
+
+[00:42:25] SPEAKER_05
+Why wouldn't you put hot water in that cup?
+
+[00:42:27] SPEAKER_05
+I'm not going to put boiling water in it, but warm water would be fine.
+
+[00:42:32] SPEAKER_06
+Yeah.
+
+[00:42:32] SPEAKER_06
+I mean, I guess you could.
+
+[00:42:33] SPEAKER_06
+I just don't, I don't ever think to use a plastic cup for warm water.
+
+[00:42:36] SPEAKER_06
+Do you use plastic cup for warm water?
+
+[00:42:38] SPEAKER_06
+I use plastic cup for everything.
+
+[00:42:39] SPEAKER_05
+Who drinks warm water?
+
+[00:42:41] SPEAKER_05
+I never want room temp water.
+
+[00:42:43] SPEAKER_05
+Yeah.
+
+[00:42:43] SPEAKER_05
+I never really drink warm water, but I wouldn't be scared to put warm water in that super
+
+[00:42:47] SPEAKER_05
+cool pizza hut cup that.
+
+[00:42:48] SPEAKER_05
+Yeah.
+
+[00:42:49] SPEAKER_05
+It's scary.
+
+[00:42:49] SPEAKER_05
+I got scared of it.
+
+[00:42:51] SPEAKER_05
+Anyway, it doesn't do anything at room temperature.
+
+[00:42:54] SPEAKER_05
+Sure.
+
+[00:42:54] SPEAKER_05
+I tried room temperature water and I tried ice water and obviously the colder it gets,
+
+[00:42:58] SPEAKER_05
+the faster it changes.
+
+[00:43:00] SPEAKER_05
+And it is, we're hoping to have it out before the end of the year.
+
+[00:43:05] SPEAKER_05
+We initially tried to get a Halloween girl player out.
+
+[00:43:10] SPEAKER_05
+What we were going to do is we had a, we had a line on a glow in the dark Gerpler that we
+
+[00:43:15] SPEAKER_05
+were very excited about launching for Halloween, but because of supply chain issues and tariffs
+
+[00:43:20] SPEAKER_05
+and everything going on in the world, it was just impossible to get it in time.
+
+[00:43:23] SPEAKER_05
+And we didn't want to release a Halloween deemed Gerpler in December.
+
+[00:43:27] SPEAKER_05
+That seems dumb.
+
+[00:43:28] SPEAKER_05
+Um, so we pivoted to the next idea, which is one that we'd been holding onto for a little
+
+[00:43:33] SPEAKER_05
+bit, which is the hyper color Gerpler that changes color based on, uh, color, uh, water
+
+[00:43:38] SPEAKER_05
+temperature changing.
+
+[00:43:39] SPEAKER_05
+And so we are very excited.
+
+[00:43:41] SPEAKER_05
+This we, we, in fear, we, this has been a cool thing in theory for a while.
+
+[00:43:45] SPEAKER_05
+Like we've been seeing image, we've been seeing videos from the, uh, manufacturer, but to actually
+
+[00:43:50] SPEAKER_05
+have it in our hand and look at it and see that it is in every way, a real Gerpler.
+
+[00:43:53] SPEAKER_05
+And then it actually works, uh, in my kitchen was really fucking cool.
+
+[00:43:58] SPEAKER_05
+And so I think we can finally talk about it.
+
+[00:43:59] SPEAKER_05
+I'm excited to talk about it.
+
+[00:44:00] SPEAKER_05
+We're going to have a Gerpler out.
+
+[00:44:01] SPEAKER_05
+It's going to be cutting it close for Christmas, like tail end.
+
+[00:44:05] SPEAKER_05
+We don't know exactly when we're still waiting to find that out, but it in theory will be
+
+[00:44:10] SPEAKER_05
+out before the end of the year.
+
+[00:44:11] SPEAKER_07
+So if it's based on cold for me, there's that beer where like, you see the mountains or
+
+[00:44:17] SPEAKER_07
+whatever blue mountain, you know, it's like cool.
+
+[00:44:19] SPEAKER_07
+Coors light.
+
+[00:44:20] SPEAKER_07
+Yeah.
+
+[00:44:20] SPEAKER_07
+Yeah.
+
+[00:44:20] SPEAKER_07
+Coors light, yep.
+
+[00:44:21] SPEAKER_07
+When it's Gerpl, you know it's good to drink.
+
+[00:44:24] SPEAKER_06
+That's absolutely right.
+
+[00:44:26] SPEAKER_06
+Yeah, yeah, yeah, yeah, yeah, yeah.
+
+[00:44:27] SPEAKER_06
+It's Gerpl o'clock.
+
+[00:44:28] SPEAKER_99
+It's good.
+
+[00:44:31] SPEAKER_07
+That should be a thing, I think, in more foods and drinks in general.
+
+[00:44:35] SPEAKER_07
+Foods especially.
+
+[00:44:37] SPEAKER_03
+The ready to consume indicator?
+
+[00:44:40] SPEAKER_07
+Yeah.
+
+[00:44:40] SPEAKER_07
+I mean, it would probably be, now that I'm just like saying it out loud, because my first
+
+[00:44:46] SPEAKER_07
+thought was like mashed potatoes.
+
+[00:44:48] SPEAKER_07
+If they change color when they were like, correct doneness, when you hit optimal doneness, what
+
+[00:44:56] SPEAKER_07
+color change?
+
+[00:44:57] SPEAKER_07
+What color did you want your mashed potatoes to be?
+
+[00:44:59] SPEAKER_07
+That's where it became a problem when I worked through this in my head.
+
+[00:45:03] SPEAKER_05
+I mean, have you ever cooked meat?
+
+[00:45:04] SPEAKER_05
+It goes from, it changes color as you cook it.
+
+[00:45:07] SPEAKER_05
+Right.
+
+[00:45:08] SPEAKER_05
+Right.
+
+[00:45:08] SPEAKER_05
+But what about a lot of potatoes?
+
+[00:45:10] SPEAKER_05
+A lot of foods, too.
+
+[00:45:11] SPEAKER_05
+Huh?
+
+[00:45:13] SPEAKER_07
+That's true.
+
+[00:45:14] SPEAKER_07
+It just isn't as obvious.
+
+[00:45:16] SPEAKER_07
+Like, in Sea of Thieves, when I cook a piece of meat, it becomes golden, bright gold when
+
+[00:45:20] SPEAKER_07
+it's done.
+
+[00:45:21] SPEAKER_07
+And there's more subtlety.
+
+[00:45:24] SPEAKER_07
+I mean, I know when it's fully charred that I've gone too far.
+
+[00:45:27] SPEAKER_07
+But typically, there will be a middle in meat that you want to hit.
+
+[00:45:30] SPEAKER_07
+And I just feel like it requires more skill than sometimes I have.
+
+[00:45:35] SPEAKER_07
+It definitely requires more skill in real life than in Sea of Thieves.
+
+[00:45:39] SPEAKER_07
+Like, when I used to cook my hot dogs in the microwave and the plastic were at the top
+
+[00:45:43] SPEAKER_07
+dogs, you would know the top dog was done when the plastic exploded.
+
+[00:45:48] SPEAKER_07
+And then you would realize, like, okay, it's done.
+
+[00:45:53] SPEAKER_07
+Because of the steam, I think.
+
+[00:45:55] SPEAKER_07
+The plastic exploded?
+
+[00:45:57] SPEAKER_07
+Yeah, like it would burst at the seams because it was like it got all steamy.
+
+[00:46:01] SPEAKER_07
+And like, I don't know how some science works.
+
+[00:46:03] SPEAKER_07
+And you're worried about drinking warm water out of a girth wind.
+
+[00:46:06] SPEAKER_07
+I never said that.
+
+[00:46:08] SPEAKER_07
+What?
+
+[00:46:09] SPEAKER_07
+I said I didn't like it.
+
+[00:46:11] SPEAKER_07
+I'm not worried about it.
+
+[00:46:12] SPEAKER_07
+I just don't like room temp water.
+
+[00:46:14] SPEAKER_06
+I'm scared of it.
+
+[00:46:16] SPEAKER_07
+That's fair.
+
+[00:46:17] SPEAKER_07
+That's for bathing is what I would think.
+
+[00:46:19] SPEAKER_07
+When I'm room temperature.
+
+[00:46:22] SPEAKER_07
+Yeah, I'm fine with a room temp bath.
+
+[00:46:24] SPEAKER_07
+No, you're not.
+
+[00:46:25] SPEAKER_07
+Absolutely.
+
+[00:46:27] SPEAKER_05
+No.
+
+[00:46:29] SPEAKER_05
+What's comfortable about room temperature being submerged in room temperature water?
+
+[00:46:34] SPEAKER_05
+Like wet air.
+
+[00:46:36] SPEAKER_07
+I like wet air.
+
+[00:46:37] SPEAKER_07
+I prefer wet air than dry air.
+
+[00:46:40] SPEAKER_07
+Why?
+
+[00:46:41] SPEAKER_07
+I'd say the more moist the air, the better.
+
+[00:46:44] SPEAKER_07
+Depending on the overall heat situation.
+
+[00:46:46] SPEAKER_05
+You would say humidity is the fucking worst.
+
+[00:46:49] SPEAKER_05
+Like, you want to sleep wet?
+
+[00:46:52] SPEAKER_07
+Let me think about this.
+
+[00:46:54] SPEAKER_07
+All right.
+
+[00:46:56] SPEAKER_07
+Go down on it.
+
+[00:46:57] SPEAKER_07
+Cold, cold, cold, cold, wet.
+
+[00:46:59] SPEAKER_07
+Yeah.
+
+[00:46:59] SPEAKER_07
+Cold, wet.
+
+[00:46:59] SPEAKER_07
+Yeah.
+
+[00:47:00] SPEAKER_07
+Yeah.
+
+[00:47:00] SPEAKER_07
+You want to be cold.
+
+[00:47:01] SPEAKER_07
+You want to be cold and wet in bed?
+
+[00:47:03] SPEAKER_07
+Yeah.
+
+[00:47:04] SPEAKER_07
+Oh, yeah, I do.
+
+[00:47:04] SPEAKER_07
+Absolutely.
+
+[00:47:05] SPEAKER_07
+I do.
+
+[00:47:05] SPEAKER_07
+That's great.
+
+[00:47:08] SPEAKER_03
+Nothing great about it.
+
+[00:47:10] SPEAKER_07
+No, my favorite thing when I used to, I don't, I don't do this anymore, but when I was younger,
+
+[00:47:14] SPEAKER_07
+my favorite sleep thing was I would sit and I'd be my shorts all year round and I keep
+
+[00:47:19] SPEAKER_07
+my window open all year round and my feet, they would go like numb from the cold and I wouldn't
+
+[00:47:26] SPEAKER_07
+notice because I was like playing stuff on my computers and then I'd go into bed and I'd
+
+[00:47:30] SPEAKER_07
+realize, wow, my feet are frozen and it was very cozy getting them all heated up because
+
+[00:47:36] SPEAKER_07
+I fell asleep in bed.
+
+[00:47:38] SPEAKER_03
+I feel like maybe you should just get like an ice mat next to your bed, like brush your teeth on ice.
+
+[00:47:43] SPEAKER_07
+And then by the time you get in bed, full cozy, there's an extremeness to ice that I don't like.
+
+[00:47:50] SPEAKER_07
+Ice with a towel on.
+
+[00:47:50] SPEAKER_07
+It's too effective.
+
+[00:47:52] SPEAKER_05
+So there's a temperature range you're looking for that's like above 33 degrees.
+
+[00:47:57] SPEAKER_07
+I need it to be consistent the same, I think, where you get spikes with ice, if that makes sense.
+
+[00:48:06] SPEAKER_03
+I would say ice is very consistent.
+
+[00:48:09] SPEAKER_07
+No, but it mounts and then it becomes less.
+
+[00:48:11] SPEAKER_07
+Ice where cold air is cold air, right?
+
+[00:48:14] SPEAKER_07
+But it, but it remains ice.
+
+[00:48:17] SPEAKER_07
+No, it becomes water.
+
+[00:48:20] SPEAKER_07
+I'm not an ice guy.
+
+[00:48:23] SPEAKER_06
+So we hope you like the Gerpler.
+
+[00:48:26] SPEAKER_06
+We're pretty excited about it.
+
+[00:48:29] SPEAKER_06
+We'll have some other stuff too.
+
+[00:48:30] SPEAKER_06
+We'll have, we'll have some other stuff too at that same time.
+
+[00:48:33] SPEAKER_06
+So stay tuned.
+
+[00:48:33] SPEAKER_06
+We'll have some more information on that stuff soon.
+
+[00:48:35] SPEAKER_06
+Speaking of which, we need to figure out what the next three patches are and get those
+
+[00:48:39] SPEAKER_05
+ordered.
+
+[00:48:39] SPEAKER_05
+Yeah, we'll figure it out.
+
+[00:48:41] SPEAKER_05
+We'll get to the bottom of that.
+
+[00:48:43] SPEAKER_05
+I think Don Pedro, Don Zimmer.
+
+[00:48:46] SPEAKER_05
+I have Don, I have Don Pedro.
+
+[00:48:48] SPEAKER_05
+I have 501.
+
+[00:48:49] SPEAKER_05
+And then we just need a third one.
+
+[00:48:50] SPEAKER_03
+Speaking of 501, did our best days of the week draft come out already?
+
+[00:48:55] SPEAKER_03
+Yeah.
+
+[00:48:55] SPEAKER_03
+Yeah.
+
+[00:48:56] SPEAKER_03
+Yeah, it did.
+
+[00:48:57] SPEAKER_03
+Best and worst.
+
+[00:48:58] SPEAKER_03
+I didn't realize.
+
+[00:48:58] SPEAKER_03
+What about it?
+
+[00:48:59] SPEAKER_03
+I, I unintentionally, this is a Patreon only one, is it?
+
+[00:49:02] SPEAKER_03
+Although back, the worst day was Patreon.
+
+[00:49:04] SPEAKER_03
+The worst days was.
+
+[00:49:05] SPEAKER_03
+Okay.
+
+[00:49:05] SPEAKER_03
+So it's public.
+
+[00:49:06] SPEAKER_03
+I accidentally drafted 501.
+
+[00:49:08] SPEAKER_07
+Oh, you did?
+
+[00:49:09] SPEAKER_03
+I did the first of May, but I was thinking English, so it didn't occur to me, but.
+
+[00:49:13] SPEAKER_07
+Wow.
+
+[00:49:15] SPEAKER_07
+Interesting.
+
+[00:49:16] SPEAKER_07
+An accidental great pick.
+
+[00:49:18] SPEAKER_07
+Yeah.
+
+[00:49:18] SPEAKER_07
+That's awesome, dude.
+
+[00:49:19] SPEAKER_99
+Wow.
+
+[00:49:21] SPEAKER_06
+You probably could have done, like, Nixon's depressed.
+
+[00:49:24] SPEAKER_06
+Well, it's almost Thanksgiving, so he's focused on something else.
+
+[00:49:27] SPEAKER_06
+Don't worry about that, Nick.
+
+[00:49:29] SPEAKER_05
+He's got his best and worst days of the year ahead of him.
+
+[00:49:32] SPEAKER_06
+He's locked and loaded.
+
+[00:49:33] SPEAKER_06
+He's like, where he's just a couple weeks out from the highs and lows.
+
+[00:49:37] SPEAKER_07
+It would be interesting to take some of our numerical stuff and focus on the dates and evaluate how those days were in the year.
+
+[00:49:48] SPEAKER_07
+So you got 16, one, six.
+
+[00:49:51] SPEAKER_07
+So January 6th, you have one day first, as you just said.
+
+[00:49:57] SPEAKER_07
+September 8th would be another one.
+
+[00:50:01] SPEAKER_07
+I don't, do we have another number?
+
+[00:50:05] SPEAKER_06
+Hmm.
+
+[00:50:06] SPEAKER_06
+Three, four, five, six, seven, eight.
+
+[00:50:07] SPEAKER_06
+Seven, eight, nine, ten.
+
+[00:50:09] SPEAKER_07
+Not related to the show.
+
+[00:50:11] SPEAKER_05
+Numbers were kind of, like, late in there.
+
+[00:50:13] SPEAKER_05
+I mean, those are, those are goof world holidays.
+
+[00:50:15] SPEAKER_05
+They're pretty related to the show.
+
+[00:50:17] SPEAKER_07
+But I mean, like, longer running bits.
+
+[00:50:20] SPEAKER_07
+I see.
+
+[00:50:22] SPEAKER_07
+Like, 16 is a very established number.
+
+[00:50:24] SPEAKER_07
+98, the last great year.
+
+[00:50:26] SPEAKER_07
+Very established.
+
+[00:50:28] SPEAKER_07
+501, as Gavin said.
+
+[00:50:29] SPEAKER_07
+I don't think we have another one.
+
+[00:50:30] SPEAKER_03
+I was thinking of, like, how, like, the Halo day was, like, the 343rd day of the year.
+
+[00:50:37] SPEAKER_03
+Uh-huh.
+
+[00:50:37] SPEAKER_03
+And then I was trying to figure out what the 501st day of the year was.
+
+[00:50:41] SPEAKER_03
+Dude, come on.
+
+[00:50:43] SPEAKER_03
+God damn.
+
+[00:50:44] SPEAKER_03
+You would have to, you'd have to do that every two years.
+
+[00:50:46] SPEAKER_03
+But you can figure it out.
+
+[00:50:48] SPEAKER_07
+All right, go.
+
+[00:50:49] SPEAKER_07
+All right, go.
+
+[00:50:55] SPEAKER_03
+501 minus 365 is 136.
+
+[00:51:03] SPEAKER_03
+136 days into the next year.
+
+[00:51:09] SPEAKER_03
+So would that be, like, April or something?
+
+[00:51:11] SPEAKER_05
+What is the 136th day of 2020?
+
+[00:51:19] SPEAKER_05
+What would the day be?
+
+[00:51:20] SPEAKER_05
+May 17th, maybe?
+
+[00:51:22] SPEAKER_05
+Oh, wow.
+
+[00:51:24] SPEAKER_05
+How's that right?
+
+[00:51:25] SPEAKER_05
+Maybe it is.
+
+[00:51:26] SPEAKER_05
+So, May 17th.
+
+[00:51:28] SPEAKER_05
+I don't fucking, listen, I don't trust Google since she gave me the wrong fucking banks phone number ever again.
+
+[00:51:33] SPEAKER_06
+You're the one that keeps reading the Google AI thing.
+
+[00:51:36] SPEAKER_06
+Stop reading the Google AI thing.
+
+[00:51:37] SPEAKER_06
+I know.
+
+[00:51:38] SPEAKER_06
+Skip it.
+
+[00:51:38] SPEAKER_06
+Don't say I know.
+
+[00:51:39] SPEAKER_06
+Stop doing it.
+
+[00:51:40] SPEAKER_06
+What am I going to do?
+
+[00:51:41] SPEAKER_06
+Talk to it?
+
+[00:51:42] SPEAKER_06
+That's even worse.
+
+[00:51:43] SPEAKER_06
+Scroll past it.
+
+[00:51:44] SPEAKER_06
+Scroll down.
+
+[00:51:45] SPEAKER_03
+So maybe every May 17th we'll celebrate the 501st day of last year.
+
+[00:51:50] SPEAKER_03
+That's fun.
+
+[00:51:52] SPEAKER_03
+Yeah, May 17th is 501 day.
+
+[00:51:54] SPEAKER_99
+Yeah.
+
+[00:51:55] SPEAKER_03
+Not to be confused with May 1st.
+
+[00:51:58] SPEAKER_03
+501.
+
+[00:51:59] SPEAKER_06
+Which would be the better pick?
+
+[00:52:01] SPEAKER_06
+It would just, May 1st would just be the better pick for this.
+
+[00:52:04] SPEAKER_06
+I don't know why we would do.
+
+[00:52:06] SPEAKER_06
+We're celebrating the 501st day of 2025 in 2020.
+
+[00:52:11] SPEAKER_06
+Yeah.
+
+[00:52:12] SPEAKER_05
+I mean, that seems very much like us.
+
+[00:52:14] SPEAKER_06
+Yeah, yeah.
+
+[00:52:15] SPEAKER_06
+But we have the option to shift that gear and do something stronger.
+
+[00:52:19] SPEAKER_06
+I tell you what, we should do this.
+
+[00:52:20] SPEAKER_06
+We have the ability.
+
+[00:52:21] SPEAKER_03
+We should add all of the face episodes to regulation episodes and figure out episode 501.
+
+[00:52:27] SPEAKER_03
+When it comes around, do something special.
+
+[00:52:30] SPEAKER_06
+I think we're well past it, aren't we?
+
+[00:52:32] SPEAKER_03
+No.
+
+[00:52:33] SPEAKER_99
+No.
+
+[00:52:34] SPEAKER_06
+Are we not?
+
+[00:52:35] SPEAKER_06
+Nick, if you had to guess, what do you think we're at?
+
+[00:52:37] SPEAKER_05
+206, 207, 290?
+
+[00:52:41] SPEAKER_06
+300 something.
+
+[00:52:43] SPEAKER_06
+Oh, wow.
+
+[00:52:43] SPEAKER_06
+Is that it?
+
+[00:52:44] SPEAKER_06
+Jeez.
+
+[00:52:44] SPEAKER_06
+We suck.
+
+[00:52:45] SPEAKER_05
+Well, we only went like 206 episodes of face and then 79 of this one.
+
+[00:52:50] SPEAKER_03
+501 would be pushing 10 years of weekly episodes.
+
+[00:52:54] SPEAKER_06
+Yeah.
+
+[00:52:54] SPEAKER_06
+Have we not been doing that?
+
+[00:52:56] SPEAKER_06
+It feels like it.
+
+[00:52:57] SPEAKER_06
+Yeah.
+
+[00:52:57] SPEAKER_06
+No, it just feels like it, I guess.
+
+[00:52:58] SPEAKER_06
+Yeah.
+
+[00:52:59] SPEAKER_01
+Prime presents Perfect Pairings.
+
+[00:53:03] SPEAKER_01
+What pairs with Reacher on Prime?
+
+[00:53:06] SPEAKER_01
+Reaching for a sparkling punch delivered with Prime.
+
+[00:53:10] SPEAKER_01
+It's an unbelievable feeling when you're enjoying a punch.
+
+[00:53:15] SPEAKER_01
+At the same time, Reacher is enjoying punching people.
+
+[00:53:21] SPEAKER_01
+Wow, he's still punching people.
+
+[00:53:25] SPEAKER_01
+Entertainment meets fast delivery.
+
+[00:53:28] SPEAKER_01
+It's on Prime.
+
+[00:53:29] SPEAKER_07
+Have you guys seen the AI Coke commercial for Christmas this year?
+
+[00:53:49] SPEAKER_07
+Yeah.
+
+[00:53:49] SPEAKER_07
+Oh, no.
+
+[00:53:50] SPEAKER_07
+No.
+
+[00:53:51] SPEAKER_07
+Let me put it in here.
+
+[00:53:52] SPEAKER_07
+I have a question.
+
+[00:53:53] SPEAKER_07
+I've been thinking about this a lot.
+
+[00:53:55] SPEAKER_07
+It's terrible, as you would anticipate with it being an AI thing.
+
+[00:53:59] SPEAKER_07
+It just looks like AI.
+
+[00:54:01] SPEAKER_07
+But I was taken aback.
+
+[00:54:03] SPEAKER_07
+And I know Coke kind of has a history of this a little bit, but I feel like this is it to
+
+[00:54:06] SPEAKER_07
+its extreme.
+
+[00:54:08] SPEAKER_07
+Here's the commercial for you guys.
+
+[00:54:10] SPEAKER_07
+It's not really all that important.
+
+[00:54:12] SPEAKER_07
+Just start watching it, I guess.
+
+[00:54:13] SPEAKER_07
+You don't need audio for it.
+
+[00:54:15] SPEAKER_07
+It's just a visual thing.
+
+[00:54:16] SPEAKER_07
+I was watching this commercial.
+
+[00:54:18] SPEAKER_07
+It looks like and it's yeah, it does look like shit.
+
+[00:54:21] SPEAKER_07
+It's Santa.
+
+[00:54:21] SPEAKER_07
+He opens Coke and it's a car or whatever.
+
+[00:54:24] SPEAKER_07
+It was a really long 18 wheeler.
+
+[00:54:26] SPEAKER_07
+It is.
+
+[00:54:27] SPEAKER_07
+Yeah.
+
+[00:54:27] SPEAKER_07
+I mean, as a as truck boys, we know that's absurd.
+
+[00:54:32] SPEAKER_07
+It's like animals and stuff and they're like all excited for the Coke.
+
+[00:54:35] SPEAKER_07
+Is that a panda?
+
+[00:54:37] SPEAKER_07
+What the fuck is a panda doing?
+
+[00:54:39] SPEAKER_06
+Is that a is that a Christmas panda?
+
+[00:54:41] SPEAKER_06
+I believe it is.
+
+[00:54:42] SPEAKER_06
+It's a Christmas sloth.
+
+[00:54:44] SPEAKER_06
+A sloth?
+
+[00:54:45] SPEAKER_06
+What the fuck?
+
+[00:54:45] SPEAKER_06
+What is going on?
+
+[00:54:47] SPEAKER_06
+River seals.
+
+[00:54:48] SPEAKER_07
+Birds go south for the winter, damn you.
+
+[00:54:50] SPEAKER_06
+Why did you why did they make this?
+
+[00:54:53] SPEAKER_06
+This is this sucks shit.
+
+[00:54:57] SPEAKER_07
+This is so bad.
+
+[00:54:59] SPEAKER_07
+This is awful.
+
+[00:55:00] SPEAKER_07
+This isn't even the commercial I was thinking it was, but this is fine.
+
+[00:55:04] SPEAKER_07
+It still applies to my point.
+
+[00:55:07] SPEAKER_07
+Does the Coca-Cola company know that people drink their drink, that people buy their drink?
+
+[00:55:13] SPEAKER_07
+No.
+
+[00:55:14] SPEAKER_07
+Like everything that they do is generated towards animals for their advertising.
+
+[00:55:20] SPEAKER_05
+I'll say this about Coca-Cola.
+
+[00:55:21] SPEAKER_05
+They are fucking crushing the competition.
+
+[00:55:24] SPEAKER_05
+Yeah.
+
+[00:55:25] SPEAKER_05
+Pepsi is barely in stores anymore.
+
+[00:55:27] SPEAKER_05
+So whatever they're doing, polar bears or frogs or whatever the fuck it is, it's working.
+
+[00:55:32] SPEAKER_07
+It tastes better.
+
+[00:55:34] SPEAKER_05
+Well, I disagree.
+
+[00:55:35] SPEAKER_05
+I think I think Pepsi is better, but fucking Coke is definitely demolishing them with their
+
+[00:55:40] SPEAKER_05
+AI animals.
+
+[00:55:41] SPEAKER_03
+I feel like there's so many companies that go in on an animal that are nothing to do with
+
+[00:55:45] SPEAKER_03
+animals.
+
+[00:55:46] SPEAKER_07
+Yeah.
+
+[00:55:46] SPEAKER_07
+I was thinking about like products like Charmin.
+
+[00:55:50] SPEAKER_03
+I've never seen a person use their product.
+
+[00:55:52] SPEAKER_03
+It's always bears and shit.
+
+[00:55:53] SPEAKER_03
+Andrex puppy.
+
+[00:55:54] SPEAKER_03
+You got the Geico gecko.
+
+[00:55:56] SPEAKER_03
+Charmin had Mr. Whipple though, right?
+
+[00:55:58] SPEAKER_03
+Yeah.
+
+[00:55:58] SPEAKER_03
+That was like a long time ago.
+
+[00:56:00] SPEAKER_06
+I don't know what that is.
+
+[00:56:01] SPEAKER_06
+Yeah.
+
+[00:56:01] SPEAKER_06
+Don't squeeze the Charmin.
+
+[00:56:02] SPEAKER_06
+That's what that guy is.
+
+[00:56:04] SPEAKER_06
+Don't squeeze the Charmin.
+
+[00:56:05] SPEAKER_07
+Yeah.
+
+[00:56:06] SPEAKER_05
+We talked about that guy.
+
+[00:56:07] SPEAKER_05
+Yeah.
+
+[00:56:07] SPEAKER_05
+I forgot about Whipple.
+
+[00:56:09] SPEAKER_05
+It's weird though.
+
+[00:56:09] SPEAKER_05
+You know, he's probably been dead.
+
+[00:56:11] SPEAKER_03
+For 30 years.
+
+[00:56:12] SPEAKER_03
+It's with around like 21 seconds on the ad.
+
+[00:56:16] SPEAKER_03
+The logo is like glitching all around.
+
+[00:56:18] SPEAKER_03
+Like they didn't even clean up their own logo.
+
+[00:56:20] SPEAKER_06
+It's really strange.
+
+[00:56:21] SPEAKER_06
+And I want to propose to Pepsi, who's definitely listening to this right now.
+
+[00:56:25] SPEAKER_06
+Pepsi, make a Christmas commercial, hire actors and make a Christmas commercial and
+
+[00:56:31] SPEAKER_06
+like spike the lens and just talk about how Pepsi is for Christmas.
+
+[00:56:35] SPEAKER_05
+Now, have Kendall Jenner put a flower in a gun.
+
+[00:56:42] SPEAKER_06
+But at Christmas.
+
+[00:56:44] SPEAKER_06
+But at Christmas.
+
+[00:56:45] SPEAKER_06
+Yeah.
+
+[00:56:45] SPEAKER_06
+Santa.
+
+[00:56:46] SPEAKER_06
+She's putting a flower in Santa's gun.
+
+[00:56:48] SPEAKER_07
+What I think a lot about with Coke is that it's like the number one drink in the world
+
+[00:56:53] SPEAKER_07
+and they they sell, you know, like a base of of all sodas obviously is water and they
+
+[00:56:59] SPEAKER_07
+sell a bottled water called the Sonny.
+
+[00:57:01] SPEAKER_07
+That is like the most hated bottled water in utter dog shit.
+
+[00:57:06] SPEAKER_07
+People fucking hate it.
+
+[00:57:07] SPEAKER_07
+But Coke is the number one drink in the world, which I'm assuming is the base.
+
+[00:57:12] SPEAKER_07
+The Sonny is the base of the number one drink.
+
+[00:57:14] SPEAKER_07
+So it's almost like if Nickelback was like the foundation of the Beatles.
+
+[00:57:20] SPEAKER_07
+And I think about that a lot.
+
+[00:57:22] SPEAKER_07
+Like the most hated dog shit thing is the foundation of the top product.
+
+[00:57:29] SPEAKER_07
+Like the Beatles, the Nickelback premium.
+
+[00:57:32] SPEAKER_07
+Yes.
+
+[00:57:32] SPEAKER_07
+Like the Beatles couldn't exist without the groundwork that Nickelback laid out.
+
+[00:57:38] SPEAKER_07
+This idea of like the shittiest thing being the the base of undeniable greatness, I think
+
+[00:57:50] SPEAKER_07
+is so funny.
+
+[00:57:52] SPEAKER_07
+I've never thought of it like I can't think of other examples of that.
+
+[00:57:54] SPEAKER_05
+We're like half the if I ever found out there was Dasani water in my Coke, I would never drink
+
+[00:57:59] SPEAKER_05
+Coke again as long as I live.
+
+[00:58:01] SPEAKER_05
+See, that's that fucking Dasani water tastes like drinking an oil slick.
+
+[00:58:05] SPEAKER_03
+I think it got banned from England because they came over and just started selling local
+
+[00:58:09] SPEAKER_03
+water with like magnesium in it.
+
+[00:58:12] SPEAKER_07
+I don't think it got.
+
+[00:58:12] SPEAKER_07
+So I looked maybe maybe that's a different thing.
+
+[00:58:16] SPEAKER_07
+I know it failed in the UK because it's, I guess, no different than tap water essentially.
+
+[00:58:21] SPEAKER_07
+And that really hurt the market.
+
+[00:58:23] SPEAKER_03
+I think they were literally just bottling the tap water in their warehouse.
+
+[00:58:28] SPEAKER_07
+That's one of my most trash opinions is I actually really like Dasani, but I know like
+
+[00:58:32] SPEAKER_07
+it objectively is a bad one.
+
+[00:58:33] SPEAKER_07
+That's crazy.
+
+[00:58:34] SPEAKER_07
+I know it is.
+
+[00:58:35] SPEAKER_03
+You like it more than just tap water or like different bottles?
+
+[00:58:39] SPEAKER_07
+Well, I drink a lot of tap water, so I don't think I necessarily like it more.
+
+[00:58:43] SPEAKER_07
+But if it's there, more popular bottled waters, I like significantly less than Dasani.
+
+[00:58:49] SPEAKER_05
+God, we should do a blind water taste test with Andrew at some point.
+
+[00:58:52] SPEAKER_05
+Yeah, I think we've talked about doing one of those.
+
+[00:58:54] SPEAKER_07
+I absolutely hate.
+
+[00:58:58] SPEAKER_07
+Oh, I'm forgetting even what the brand is called.
+
+[00:59:00] SPEAKER_07
+I hate it so much.
+
+[00:59:01] SPEAKER_07
+It's a popular one.
+
+[00:59:01] SPEAKER_07
+How do you feel about Fiji?
+
+[00:59:03] SPEAKER_07
+Fiji's fine.
+
+[00:59:04] SPEAKER_07
+I feel about smart water.
+
+[00:59:06] SPEAKER_07
+Smart water is fine.
+
+[00:59:08] SPEAKER_07
+Ozarka Springs.
+
+[00:59:09] SPEAKER_07
+Evian.
+
+[00:59:10] SPEAKER_07
+What?
+
+[00:59:11] SPEAKER_07
+Is Evian the one I hate?
+
+[00:59:13] SPEAKER_07
+There's one that's very silky.
+
+[00:59:16] SPEAKER_07
+Yeah, it's Evian.
+
+[00:59:17] SPEAKER_07
+That might be Evian.
+
+[00:59:19] SPEAKER_07
+Yeah, I don't like Evian.
+
+[00:59:20] SPEAKER_07
+Dasani way better.
+
+[00:59:22] SPEAKER_03
+Silky.
+
+[00:59:23] SPEAKER_07
+Yeah, it has a silky taste to it.
+
+[00:59:25] SPEAKER_07
+I don't like it.
+
+[00:59:26] SPEAKER_03
+Dasani to me has like a filmy taste.
+
+[00:59:28] SPEAKER_03
+Like I could almost see the surface.
+
+[00:59:30] SPEAKER_03
+It does, yeah.
+
+[00:59:30] SPEAKER_03
+I feel the same way.
+
+[00:59:31] SPEAKER_07
+It's fucking oily.
+
+[00:59:32] SPEAKER_07
+That's what it is.
+
+[00:59:34] SPEAKER_07
+It absolutely is, yeah.
+
+[00:59:35] SPEAKER_07
+It was kind of a draft concept I had of like worst opinions, and that would be one of my
+
+[00:59:41] SPEAKER_07
+leading ones, as I know.
+
+[00:59:42] SPEAKER_03
+Oh, that's a great idea for a draft.
+
+[00:59:43] SPEAKER_03
+I like that idea.
+
+[00:59:44] SPEAKER_03
+What if we took all the bottled waters and just boiled them off until there was nothing
+
+[00:59:49] SPEAKER_03
+left and just looked at what was left on the plate and see which had the weirdest shit?
+
+[00:59:54] SPEAKER_03
+It would have to be Dasani, right?
+
+[00:59:56] SPEAKER_03
+Just all the extra mineral stuff they put in.
+
+[00:59:59] SPEAKER_99
+Oh, yeah.
+
+[01:00:00] SPEAKER_03
+Maybe.
+
+[01:00:01] SPEAKER_03
+Maybe.
+
+[01:00:02] SPEAKER_07
+Well, I think, I think Dasani is a weird one where it actually has a lot less than the
+
+[01:00:06] SPEAKER_07
+minerals.
+
+[01:00:08] SPEAKER_07
+Because I think it's reverse engineered Coke.
+
+[01:00:11] SPEAKER_07
+If I'm correct.
+
+[01:00:13] SPEAKER_03
+What is Coke with the Coke?
+
+[01:00:14] SPEAKER_03
+Take it out.
+
+[01:00:15] SPEAKER_07
+Yeah.
+
+[01:00:15] SPEAKER_07
+What?
+
+[01:00:16] SPEAKER_07
+What?
+
+[01:00:18] SPEAKER_07
+I think it's like boiled down Coke, essentially.
+
+[01:00:20] SPEAKER_07
+There's no way.
+
+[01:00:22] SPEAKER_06
+What are you?
+
+[01:00:24] SPEAKER_05
+What are you saying?
+
+[01:00:25] SPEAKER_04
+What are we going to do with all this extra Coke?
+
+[01:00:27] SPEAKER_04
+I'll boil it down.
+
+[01:00:28] SPEAKER_06
+Like, what are you saying?
+
+[01:00:30] SPEAKER_06
+I just don't even understand.
+
+[01:00:32] SPEAKER_03
+So you're saying like they're evaporating off Coke.
+
+[01:00:35] SPEAKER_03
+They're collecting the water.
+
+[01:00:36] SPEAKER_03
+It becomes Dasani.
+
+[01:00:37] SPEAKER_03
+And then what?
+
+[01:00:38] SPEAKER_03
+They're having to throw away a vat of Coke sludge.
+
+[01:00:41] SPEAKER_06
+I don't know.
+
+[01:00:42] SPEAKER_03
+Maybe that's where Slurpees come from.
+
+[01:00:45] SPEAKER_07
+Maybe that's where Slurpees come from.
+
+[01:00:48] SPEAKER_07
+That's awesome.
+
+[01:00:49] SPEAKER_07
+Is Dasani boiled down Coke?
+
+[01:00:51] SPEAKER_07
+Yeah.
+
+[01:00:51] SPEAKER_03
+What do you mean?
+
+[01:00:56] SPEAKER_03
+The inefficiency.
+
+[01:00:57] SPEAKER_03
+All the energy spending heating up all that Coke.
+
+[01:01:01] SPEAKER_07
+To undo the Coke they made.
+
+[01:01:03] SPEAKER_07
+Well, here's the thing.
+
+[01:01:03] SPEAKER_07
+The AI overview says no, which makes me feel pretty good about it.
+
+[01:01:07] SPEAKER_07
+I think it might be right.
+
+[01:01:11] SPEAKER_07
+No, it doesn't.
+
+[01:01:14] SPEAKER_07
+Yeah, I don't know where I got that from.
+
+[01:01:16] SPEAKER_03
+You didn't really get that in a serious way, though, Sean.
+
+[01:01:19] SPEAKER_03
+You didn't think, oh, yeah.
+
+[01:01:21] SPEAKER_07
+Yeah, they take Coke and make water.
+
+[01:01:24] SPEAKER_07
+Cycle.
+
+[01:01:25] SPEAKER_07
+Water.
+
+[01:01:28] SPEAKER_06
+Soldering the price.
+
+[01:01:31] SPEAKER_06
+What do you what do you think you're going to find?
+
+[01:01:33] SPEAKER_06
+You think it's going to you think you're going to find it?
+
+[01:01:36] SPEAKER_07
+It's just a thing.
+
+[01:01:38] SPEAKER_07
+I feel like I read that, like, and that kind of made like not the.
+
+[01:01:41] SPEAKER_07
+OK, so the concept of that it had nothing of value in it because they were reverse engineering in some way made sense to me.
+
+[01:01:50] SPEAKER_07
+Reverse engineering.
+
+[01:01:52] SPEAKER_05
+That's like trying to get flour out of bread.
+
+[01:01:56] SPEAKER_05
+I don't know who would do that.
+
+[01:01:58] SPEAKER_05
+We got to deconstruct this cake back into its original ingredient.
+
+[01:02:02] SPEAKER_07
+To me, it felt like I wondered if because Coca-Cola is their leading product, right?
+
+[01:02:08] SPEAKER_07
+And they're selling it nonstop.
+
+[01:02:09] SPEAKER_07
+And they're like, you know what?
+
+[01:02:10] SPEAKER_07
+We need a bottled water instead of trying to find a new source of the water for that.
+
+[01:02:16] SPEAKER_07
+But what if we just took what we were currently producing and reversed it into just water?
+
+[01:02:22] SPEAKER_07
+But why wouldn't they just take the water?
+
+[01:02:24] SPEAKER_07
+Yeah, I mean, Coke is 90 percent water already.
+
+[01:02:27] SPEAKER_07
+That would potentially, I guess.
+
+[01:02:31] SPEAKER_07
+OK, this is this is my logic when I hear that, because that would mean theoretically they could produce less Coke.
+
+[01:02:39] SPEAKER_07
+But they're still producing the same amount of Coke.
+
+[01:02:42] SPEAKER_07
+They're just reducing.
+
+[01:02:43] SPEAKER_07
+They can control how much Coke they're using to make water.
+
+[01:02:46] SPEAKER_03
+Control how much Coke they're using to make water.
+
+[01:02:50] SPEAKER_07
+Because Coca-Cola is always going to be profitable.
+
+[01:02:52] SPEAKER_07
+It's always going to sell.
+
+[01:02:54] SPEAKER_07
+And they could be like, you know what?
+
+[01:02:55] SPEAKER_07
+We're going to take and these are small numbers.
+
+[01:02:57] SPEAKER_07
+This is not realistic.
+
+[01:02:58] SPEAKER_07
+We're going to take a gallon of our Coca-Cola and turn that into water.
+
+[01:03:01] SPEAKER_07
+And then they might adjust.
+
+[01:03:03] SPEAKER_07
+They might make less water or more water, depending on how the sales go.
+
+[01:03:06] SPEAKER_03
+But what about the gallon of water they use to make the Coke?
+
+[01:03:09] SPEAKER_03
+The what?
+
+[01:03:12] SPEAKER_05
+They needed a gallon of water to make the Coke,
+
+[01:03:15] SPEAKER_05
+which then you're going to turn around and turn back into the gallon of water.
+
+[01:03:20] SPEAKER_07
+Yeah, but if you just sell the water, then you never had the Coke.
+
+[01:03:24] SPEAKER_04
+Exactly.
+
+[01:03:25] SPEAKER_07
+Right.
+
+[01:03:26] SPEAKER_07
+Right.
+
+[01:03:26] SPEAKER_06
+But the water might not sell, but the Coke, the Coke will.
+
+[01:03:30] SPEAKER_06
+But you're not selling the Coke.
+
+[01:03:31] SPEAKER_06
+You're selling water.
+
+[01:03:32] SPEAKER_07
+Right.
+
+[01:03:33] SPEAKER_06
+Yeah, but you can.
+
+[01:03:34] SPEAKER_06
+OK.
+
+[01:03:36] SPEAKER_03
+I'm trying to stick feathers back on a chicken sandwich.
+
+[01:03:39] SPEAKER_03
+Makes no sense.
+
+[01:03:42] SPEAKER_07
+What I'm trying to say, and I think it makes sense.
+
+[01:03:44] SPEAKER_07
+I think I'm articulating it poorly.
+
+[01:03:46] SPEAKER_07
+No, it doesn't make any sense.
+
+[01:03:47] SPEAKER_07
+It doesn't.
+
+[01:03:48] SPEAKER_03
+If you're articulating it poorly, go again.
+
+[01:03:50] SPEAKER_07
+Yeah.
+
+[01:03:51] SPEAKER_07
+That's what I'm trying to do.
+
+[01:03:52] SPEAKER_07
+Let me back up.
+
+[01:03:53] SPEAKER_07
+Let me try this again.
+
+[01:03:55] SPEAKER_07
+If you were to sell something, right?
+
+[01:03:58] SPEAKER_07
+Yeah.
+
+[01:03:59] SPEAKER_07
+And you know for a fact that item A will sell.
+
+[01:04:02] SPEAKER_07
+But item B may not sell.
+
+[01:04:05] SPEAKER_07
+It might not do as good.
+
+[01:04:06] SPEAKER_05
+Right.
+
+[01:04:06] SPEAKER_05
+It's a Kuzler.
+
+[01:04:07] SPEAKER_05
+Item A is a Gerbler.
+
+[01:04:08] SPEAKER_05
+Item B is a Kuzler.
+
+[01:04:09] SPEAKER_07
+So you make as much of item A as you can, and in the attempt to make item B, it reduces
+
+[01:04:17] SPEAKER_07
+the amount of item A you can make.
+
+[01:04:19] SPEAKER_07
+If you have a constant maximum of item A, you can then distribute that and determine how
+
+[01:04:25] SPEAKER_07
+much of item A you want to turn into B.
+
+[01:04:28] SPEAKER_05
+That makes sense if there's a limited amount of the ingredients for the items, but there's
+
+[01:04:33] SPEAKER_05
+not.
+
+[01:04:34] SPEAKER_05
+They're both drawing from the same limitless amount of water.
+
+[01:04:36] SPEAKER_03
+Yeah, I feel like there's not an unlimited supply of water.
+
+[01:04:41] SPEAKER_03
+I mean, not actually, but for the purposes of the conversation.
+
+[01:04:44] SPEAKER_03
+There's not an unlimited amount of the Coke bit.
+
+[01:04:48] SPEAKER_03
+Like the bottleneck's not the water, surely.
+
+[01:04:51] SPEAKER_03
+It's the shit they make.
+
+[01:04:55] SPEAKER_07
+The Coke bit is rarer than the water, is it not?
+
+[01:05:01] SPEAKER_07
+There's less Coke than drinkable water.
+
+[01:05:03] SPEAKER_05
+Right, so why would you then further reduce the amount of Coke to make more drinkable water
+
+[01:05:10] SPEAKER_05
+when there's already more than enough drinkable water?
+
+[01:05:13] SPEAKER_03
+I love it when you return to me the thing that I just said in like a slightly disgusted voice.
+
+[01:05:21] SPEAKER_07
+No, that wasn't discussed.
+
+[01:05:22] SPEAKER_07
+That was, that was, I'm processing.
+
+[01:05:24] SPEAKER_07
+So there's more.
+
+[01:05:25] SPEAKER_03
+That's what I'm saying.
+
+[01:05:28] SPEAKER_07
+There's way more water than Coke.
+
+[01:05:29] SPEAKER_07
+So Coke, yeah, you know, yeah, no, you're right.
+
+[01:05:32] SPEAKER_07
+You're right.
+
+[01:05:32] SPEAKER_07
+As we talk through this, you're right.
+
+[01:05:34] SPEAKER_07
+Coke is a rare commodity, so it wouldn't make sense to make the rare thing.
+
+[01:05:38] SPEAKER_03
+Like if I sold wooden chairs, right?
+
+[01:05:42] SPEAKER_03
+I'm using a lot of wood to do that.
+
+[01:05:44] SPEAKER_03
+But if I was going to sell people firewood, I wouldn't start smashing the chairs up.
+
+[01:05:49] SPEAKER_03
+I would just not make some of the wood into chairs.
+
+[01:05:54] SPEAKER_07
+That's actually an interesting thought, though.
+
+[01:05:58] SPEAKER_07
+What do you mean?
+
+[01:06:00] SPEAKER_07
+Why would you undo any work?
+
+[01:06:03] SPEAKER_07
+Well, no, just the idea of like, let's say you build a stool company, right?
+
+[01:06:09] SPEAKER_07
+Yeah.
+
+[01:06:10] SPEAKER_07
+And you make the stools a little longer than they need to be because then they can make firewood of them.
+
+[01:06:15] SPEAKER_03
+I just made, I just made them out of firewood, Andrew.
+
+[01:06:19] SPEAKER_03
+They came from the wood.
+
+[01:06:21] SPEAKER_07
+No, but I'm saying reverse that.
+
+[01:06:22] SPEAKER_07
+I'm saying reverse engineer the reverse engineer of what you did.
+
+[01:06:25] SPEAKER_07
+I'm saying non-firewood.
+
+[01:06:27] SPEAKER_07
+My point is, is that you could actually shave wood from furniture to make firewood.
+
+[01:06:32] SPEAKER_07
+And that's interesting to me.
+
+[01:06:34] SPEAKER_07
+You would be, there'd be less furniture, though.
+
+[01:06:37] SPEAKER_07
+Yeah, that's the point, though.
+
+[01:06:38] SPEAKER_07
+That's why it's a stool.
+
+[01:06:39] SPEAKER_07
+It's too tall.
+
+[01:06:43] SPEAKER_06
+So you cut parts of the legs.
+
+[01:06:45] SPEAKER_05
+Eric, Eric.
+
+[01:06:45] SPEAKER_06
+Yeah, I mean, do you see why I thought we had done over 500 episodes?
+
+[01:06:49] SPEAKER_07
+I'm not an innovator.
+
+[01:06:55] SPEAKER_07
+When I want innovation, I go to the Pillsbury Doughboy.
+
+[01:06:58] SPEAKER_99
+That's okay.
+
+[01:07:00] SPEAKER_03
+That's like saying.
+
+[01:07:01] SPEAKER_03
+I like the check-in on him.
+
+[01:07:02] SPEAKER_03
+What if we made all of our Gurplers out of the shells of Xbox Series X's?
+
+[01:07:09] SPEAKER_03
+That'd be expensive, I think.
+
+[01:07:10] SPEAKER_03
+All right, it'd be a bad idea.
+
+[01:07:12] SPEAKER_05
+I don't know.
+
+[01:07:14] SPEAKER_05
+From the way they seem to be selling, there's probably plenty of extra product nobody's using
+
+[01:07:19] SPEAKER_05
+we can pull from.
+
+[01:07:21] SPEAKER_07
+Well, the shell part, I guess, isn't expensive.
+
+[01:07:24] SPEAKER_07
+What's inside the shell.
+
+[01:07:26] SPEAKER_03
+For you to go from, like, plastic pellets to that shell would be expensive.
+
+[01:07:31] SPEAKER_03
+If you had to make that happen.
+
+[01:07:33] SPEAKER_03
+I see what you mean.
+
+[01:07:33] SPEAKER_07
+I guess in my head it's different, though, because nobody's buying shells of Xbox's.
+
+[01:07:39] SPEAKER_07
+People buy the Coca-Cola.
+
+[01:07:43] SPEAKER_02
+What?
+
+[01:07:46] SPEAKER_07
+So if I'm working at, let's say I work at, I'm the CEO of Coke, right?
+
+[01:07:50] SPEAKER_07
+Yeah.
+
+[01:07:50] SPEAKER_03
+Oh, I would love that.
+
+[01:07:51] SPEAKER_03
+Oh, can we do that for a week?
+
+[01:07:53] SPEAKER_07
+I'm the CEO of Coke.
+
+[01:07:54] SPEAKER_07
+And I say, I'm going to take, we could have made 500 gallons of Coca-Cola this month,
+
+[01:08:01] SPEAKER_07
+but instead I chose to make 400 gallons and then sold 100 gallons of water.
+
+[01:08:08] SPEAKER_07
+And I feel like in my head, that's a tougher, like, if that doesn't go well, I'm more at
+
+[01:08:14] SPEAKER_07
+fault than if I would have just made 500 gallons of Coca-Cola and boiled down 100 gallons of
+
+[01:08:22] SPEAKER_06
+it.
+
+[01:08:22] SPEAKER_06
+If you made, if you spent, if you spent all the resources making Coke and then turning
+
+[01:08:29] SPEAKER_06
+it into water and the water didn't sell, I don't know how you wouldn't be in more trouble
+
+[01:08:35] SPEAKER_06
+for wasting.
+
+[01:08:36] SPEAKER_06
+It would be, you might be in prison.
+
+[01:08:38] SPEAKER_05
+So what you're describing is so much more expensive.
+
+[01:08:41] SPEAKER_05
+Okay.
+
+[01:08:42] SPEAKER_05
+This is what.
+
+[01:08:42] SPEAKER_05
+But you're not even saying.
+
+[01:08:44] SPEAKER_05
+You're right.
+
+[01:08:44] SPEAKER_05
+You're right.
+
+[01:08:45] SPEAKER_05
+I'm wrong.
+
+[01:08:45] SPEAKER_05
+No, I'm wrong.
+
+[01:08:45] SPEAKER_07
+I'm wrong.
+
+[01:08:46] SPEAKER_07
+I'm wrong.
+
+[01:08:47] SPEAKER_07
+I'm wrong.
+
+[01:08:49] SPEAKER_07
+Because I'm thinking about these as singular entities.
+
+[01:08:51] SPEAKER_07
+I'm not thinking about the fact that I'm also to make the Coke, their syrup, their
+
+[01:08:55] SPEAKER_07
+sugar.
+
+[01:08:57] SPEAKER_07
+Well, yeah.
+
+[01:08:57] SPEAKER_06
+I wasn't thinking about all the additional like water and Coke both came from like hot
+
+[01:09:03] SPEAKER_06
+springs.
+
+[01:09:04] SPEAKER_06
+Like, what are you talking about?
+
+[01:09:05] SPEAKER_03
+But we could also pick your, your thing apart in two stages.
+
+[01:09:09] SPEAKER_03
+You're not, you're not only saying hold back a hundred gallons.
+
+[01:09:13] SPEAKER_03
+We will make 400 gallons of Coke and sell a hundred gallons of water.
+
+[01:09:17] SPEAKER_03
+You are basically saying make 500 gallons of Coke and then take a hundred gallons to turn
+
+[01:09:23] SPEAKER_03
+back into water.
+
+[01:09:24] SPEAKER_07
+Yeah.
+
+[01:09:24] SPEAKER_07
+Yeah.
+
+[01:09:25] SPEAKER_07
+I think it's probably the most wrong I've been on the show ever.
+
+[01:09:27] SPEAKER_07
+That was the, it's been pretty special.
+
+[01:09:30] SPEAKER_05
+It's been pretty special.
+
+[01:09:32] SPEAKER_05
+Are you still in possession of a Greg card?
+
+[01:09:34] SPEAKER_05
+Would you like to use it here?
+
+[01:09:35] SPEAKER_07
+No, no, no, no, no.
+
+[01:09:36] SPEAKER_07
+There will be worse.
+
+[01:09:37] SPEAKER_07
+There will be a worse thing, but I think this is the most wrong I've been.
+
+[01:09:41] SPEAKER_07
+Okay.
+
+[01:09:42] SPEAKER_07
+I just wasn't thinking about like, yeah, the sugar people would be mad at me.
+
+[01:09:45] SPEAKER_07
+Sure.
+
+[01:09:46] SPEAKER_07
+People would be mad at me.
+
+[01:09:48] SPEAKER_06
+I, yeah.
+
+[01:09:48] SPEAKER_06
+The sugar people I think would be like, so mad at you.
+
+[01:09:50] SPEAKER_06
+Yeah.
+
+[01:09:50] SPEAKER_06
+They're upset.
+
+[01:09:51] SPEAKER_03
+Yeah.
+
+[01:09:51] SPEAKER_03
+Like you could potentially be onto something with sugar, like say that they were making
+
+[01:09:56] SPEAKER_03
+a candy or something.
+
+[01:09:57] SPEAKER_03
+And they actually had a finite amount of sugar to split between the candy and the drinks.
+
+[01:10:01] SPEAKER_03
+But what you're saying is, is so wild.
+
+[01:10:05] SPEAKER_03
+I don't, I, I don't believe that you thought that that could be an actual problem.
+
+[01:10:10] SPEAKER_07
+What I'm trying to figure out now is what I, what there is.
+
+[01:10:14] SPEAKER_07
+Here's the thing about this.
+
+[01:10:15] SPEAKER_07
+Like this is 99% wrong, but there is an inch of something here that was right.
+
+[01:10:23] SPEAKER_06
+That was accurate.
+
+[01:10:26] SPEAKER_06
+It was 99% wrong, but that last inch.
+
+[01:10:29] SPEAKER_06
+I've never been more wrong in the history of the show.
+
+[01:10:33] SPEAKER_06
+So here's where I'm not, I'm not trying to argue why I'm right.
+
+[01:10:37] SPEAKER_06
+No, no, no, no, no.
+
+[01:10:38] SPEAKER_07
+What I'm trying to find is what, what did I misinterpret?
+
+[01:10:42] SPEAKER_07
+I guess, essentially, because there is something I would love to know.
+
+[01:10:45] SPEAKER_07
+In the line of what I was thinking.
+
+[01:10:48] SPEAKER_07
+That was accurate.
+
+[01:10:49] SPEAKER_07
+Tell me about the inch.
+
+[01:10:51] SPEAKER_07
+What bit was right?
+
+[01:10:52] SPEAKER_07
+Or what bit made sense?
+
+[01:10:54] SPEAKER_07
+Sounds to me like this is something for me to get to the bottom of.
+
+[01:10:57] SPEAKER_07
+Andrew and the angry inch.
+
+[01:11:00] SPEAKER_07
+I called Dasani.
+
+[01:11:02] SPEAKER_07
+You called Dasani?
+
+[01:11:05] SPEAKER_07
+I'm just going to Google Dasani phone number.
+
+[01:11:07] SPEAKER_05
+You're going to end up talking to Bank of America.
+
+[01:11:09] SPEAKER_03
+See where they get the water from.
+
+[01:11:11] SPEAKER_03
+Do they get it from water or from Coke?
+
+[01:11:13] SPEAKER_07
+Oh, this is the, uh,
+
+[01:11:15] SPEAKER_07
+I wish I had a bottle on my desk.
+
+[01:11:18] SPEAKER_07
+This would be a lot easier about you there.
+
+[01:11:20] SPEAKER_07
+Okay.
+
+[01:11:20] SPEAKER_07
+It says crisp, clean refreshment in every sip.
+
+[01:11:25] SPEAKER_06
+Okay.
+
+[01:11:25] SPEAKER_06
+That's not a phone number.
+
+[01:11:26] SPEAKER_06
+That's marketing.
+
+[01:11:27] SPEAKER_07
+Yeah.
+
+[01:11:28] SPEAKER_07
+I just, I don't think about drinks on a per sip basis.
+
+[01:11:32] SPEAKER_03
+You have more of a, like a per gulp or a guzzle.
+
+[01:11:35] SPEAKER_07
+I just think of it as like a singular experience.
+
+[01:11:38] SPEAKER_03
+A glug.
+
+[01:11:39] SPEAKER_07
+Need help.
+
+[01:11:40] SPEAKER_07
+Yes.
+
+[01:11:41] SPEAKER_07
+Contact us.
+
+[01:11:42] SPEAKER_03
+It would be fun to sell drinks by the, by the glug or by the sip.
+
+[01:11:48] SPEAKER_03
+Like what would be the biggest unit?
+
+[01:11:49] SPEAKER_03
+A guzzle?
+
+[01:11:51] SPEAKER_03
+I think liters and fluid ounces are boring.
+
+[01:11:57] SPEAKER_07
+Why do we do the thing where we put letters as numbers?
+
+[01:12:01] SPEAKER_03
+What does that mean?
+
+[01:12:02] SPEAKER_07
+It says contact consumer relations.
+
+[01:12:04] SPEAKER_07
+1-800-GET-COKE.
+
+[01:12:05] SPEAKER_07
+And then in brackets, the number that get Coke represents.
+
+[01:12:09] SPEAKER_07
+Why do, why do we do that?
+
+[01:12:11] SPEAKER_07
+Because it's easier to remember to get Coke than the number.
+
+[01:12:14] SPEAKER_07
+But then you have to remember what the letters associate with the numbers.
+
+[01:12:18] SPEAKER_03
+They're, they're on the phone.
+
+[01:12:19] SPEAKER_03
+I think you just look at the phone.
+
+[01:12:21] SPEAKER_03
+If we had a phone number to call you and it was a plus one, eat pencil.
+
+[01:12:27] SPEAKER_05
+That's way easier to remember than three, seven, two, one, two, six, eight, nine, four.
+
+[01:12:32] SPEAKER_05
+Just FYI, not, not to distract us, but, uh, while I'm thinking about it, while we're contacting
+
+[01:12:38] SPEAKER_05
+Dasani, I reached out to the Bell Isle Aquarium today to see about sponsor.
+
+[01:12:42] SPEAKER_05
+Oh, that's so exciting.
+
+[01:12:44] SPEAKER_05
+Just, just so you guys know.
+
+[01:12:45] SPEAKER_05
+Yeah.
+
+[01:12:45] SPEAKER_05
+Nice.
+
+[01:12:46] SPEAKER_06
+So I'll let you know as I hear back.
+
+[01:12:48] SPEAKER_06
+Cool.
+
+[01:12:49] SPEAKER_06
+Uh, while Andrew is trying to reach Dasani by figuring out his phone, we should probably
+
+[01:12:54] SPEAKER_06
+wrap this one up.
+
+[01:12:55] SPEAKER_06
+Uh, we are, we're deep.
+
+[01:12:57] SPEAKER_06
+We're deep in this one.
+
+[01:12:58] SPEAKER_06
+All right.
+
+[01:12:58] SPEAKER_06
+We got to find the end here.
+
+[01:13:01] SPEAKER_02
+Donation requests.
+
+[01:13:02] SPEAKER_02
+Please press one.
+
+[01:13:04] SPEAKER_02
+Oh my God.
+
+[01:13:04] SPEAKER_02
+If you are interested in nutritional information for one of our products, please press two.
+
+[01:13:08] SPEAKER_02
+I think it's at two.
+
+[01:13:09] SPEAKER_06
+I think two.
+
+[01:13:10] SPEAKER_02
+Did you know that you can find nutritional information or information on bioengineered
+
+[01:13:16] SPEAKER_02
+food disclosures online at HTTPS colon forward slash forward slash Coke URL dot com?
+
+[01:13:23] SPEAKER_07
+They lost me.
+
+[01:13:24] SPEAKER_07
+That's, I don't want to, what are they talking about?
+
+[01:13:27] SPEAKER_07
+It's too long.
+
+[01:13:28] SPEAKER_03
+You were calling Pepsi the whole time.
+
+[01:13:30] SPEAKER_03
+I was.
+
+[01:13:31] SPEAKER_06
+Had to get to the bottom of the Pepsi.
+
+[01:13:32] SPEAKER_06
+Coke URL dot com is their website.
+
+[01:13:36] SPEAKER_06
+That was the website.
+
+[01:13:38] SPEAKER_06
+He said Coke URL dot com.
+
+[01:13:39] SPEAKER_06
+I just went to it.
+
+[01:13:40] SPEAKER_06
+It takes you to Coca dash Cola dot com.
+
+[01:13:43] SPEAKER_06
+Coke URL dot com.
+
+[01:13:44] SPEAKER_06
+Oh my God.
+
+[01:13:45] SPEAKER_06
+It does.
+
+[01:13:47] SPEAKER_07
+Weird.
+
+[01:13:47] SPEAKER_07
+I just want it noted that that's the most wrong I've ever been on the.
+
+[01:13:51] SPEAKER_07
+Yeah, yeah, yeah.
+
+[01:13:51] SPEAKER_06
+But there's still one percent that might be right.
+
+[01:13:54] SPEAKER_06
+Apparently.
+
+[01:13:55] SPEAKER_06
+No, not one percent.
+
+[01:13:56] SPEAKER_06
+None of it is right.
+
+[01:13:57] SPEAKER_06
+He's ninety nine percent wrong, but he's one inch right.
+
+[01:14:00] SPEAKER_07
+OK.
+
+[01:14:01] SPEAKER_07
+It might not even be right.
+
+[01:14:03] SPEAKER_07
+I'm just curious why I thought that.
+
+[01:14:05] SPEAKER_07
+Why I believe that.
+
+[01:14:07] SPEAKER_07
+Because it really doesn't make sense on any.
+
+[01:14:08] SPEAKER_07
+You didn't believe that.
+
+[01:14:10] SPEAKER_07
+Well, I thought it was like a fact.
+
+[01:14:12] SPEAKER_07
+I thought it was a fun fact.
+
+[01:14:14] SPEAKER_03
+Also, if you are ninety nine percent wrong and one inch right, that means you were two
+
+[01:14:18] SPEAKER_03
+point seven five yards wrong.
+
+[01:14:24] SPEAKER_05
+There you have it, Andrew.
+
+[01:14:25] SPEAKER_05
+Can I can I see a question as we as we wrap up here?
+
+[01:14:27] SPEAKER_05
+Absolutely.
+
+[01:14:28] SPEAKER_07
+Yeah.
+
+[01:14:28] SPEAKER_05
+Is that a fact?
+
+[01:14:29] SPEAKER_05
+Is that a fun fact you told people in the past?
+
+[01:14:31] SPEAKER_07
+No, I was.
+
+[01:14:32] SPEAKER_07
+It was because I was reading about Dasani recently.
+
+[01:14:35] SPEAKER_07
+OK, so it's not something that you've been saying incorrectly to friends.
+
+[01:14:38] SPEAKER_07
+No, absolutely not.
+
+[01:14:39] SPEAKER_07
+No, no, no, no, no, no.
+
+[01:14:39] SPEAKER_07
+I haven't I haven't spread misinformation about Dasani.
+
+[01:14:43] SPEAKER_07
+I'd heard that like Dasani makes you thirstier when you drink it than you would be on a base
+
+[01:14:49] SPEAKER_07
+of it.
+
+[01:14:50] SPEAKER_07
+And there's something about like there's essentially no mineral content to Dasani water.
+
+[01:14:55] SPEAKER_05
+What is the longest you've been confidently wrong about something?
+
+[01:14:59] SPEAKER_05
+Do you think?
+
+[01:15:00] SPEAKER_07
+Oh, the thing like I believe the most.
+
+[01:15:02] SPEAKER_07
+Yeah.
+
+[01:15:02] SPEAKER_07
+And then realized I was wrong about interest.
+
+[01:15:05] SPEAKER_07
+What is something?
+
+[01:15:07] SPEAKER_07
+Lyrics, probably a lot of lyrics.
+
+[01:15:09] SPEAKER_05
+That's a good one.
+
+[01:15:10] SPEAKER_05
+Like I told way too many people in my 20s that it is completely and totally legal to
+
+[01:15:17] SPEAKER_05
+piss on the street in Germany as long as you face away from the road because of my friend
+
+[01:15:21] SPEAKER_05
+played a prank on me in Germany.
+
+[01:15:23] SPEAKER_05
+And and I spent a month pissing on the street in Germany and somehow didn't get arrested.
+
+[01:15:27] SPEAKER_05
+But I probably told 100 people that with intense honesty, you know, like, oh, if you
+
+[01:15:32] SPEAKER_05
+go to Germany, don't forget, you can piss on the street.
+
+[01:15:34] SPEAKER_05
+Just face away from the road.
+
+[01:15:35] SPEAKER_05
+It's no big deal.
+
+[01:15:36] SPEAKER_05
+Don't look for a bathroom.
+
+[01:15:37] SPEAKER_03
+They invented piss flaps in England.
+
+[01:15:40] SPEAKER_03
+They started putting piss flaps on buildings to get people to face inwards.
+
+[01:15:45] SPEAKER_07
+I think I may I may have had one recently.
+
+[01:15:48] SPEAKER_07
+I think I have a new one.
+
+[01:15:49] SPEAKER_07
+Hugh Jackman is making a Neil Diamond movie that nobody wants and nobody needs a biopic about
+
+[01:15:55] SPEAKER_07
+Neil Diamond.
+
+[01:15:57] SPEAKER_07
+And I think that I thought that one of the Beastie Boys was the son of Neil Diamond.
+
+[01:16:01] SPEAKER_07
+You thought Mike Diamond was the son of Neil Diamond?
+
+[01:16:07] SPEAKER_05
+I think so.
+
+[01:16:09] SPEAKER_05
+There was always that rumor that he and Urkel were brothers back in the day, but they are
+
+[01:16:14] SPEAKER_05
+also not related.
+
+[01:16:15] SPEAKER_05
+Not Urkel.
+
+[01:16:16] SPEAKER_05
+The other one.
+
+[01:16:17] SPEAKER_05
+Screen.
+
+[01:16:17] SPEAKER_05
+What?
+
+[01:16:18] SPEAKER_05
+Dustin Diamond.
+
+[01:16:19] SPEAKER_05
+Dustin Diamond.
+
+[01:16:20] SPEAKER_07
+Oh, yeah.
+
+[01:16:21] SPEAKER_03
+Rest in peace.
+
+[01:16:22] SPEAKER_07
+That's crazy.
+
+[01:16:24] SPEAKER_07
+Because I was watching the trailer for it, which is not good.
+
+[01:16:27] SPEAKER_07
+And I think a great miscalculation about people liking the song Sweet Caroline, where I don't
+
+[01:16:32] SPEAKER_07
+I don't think I know anyone who likes it at this.
+
+[01:16:34] SPEAKER_07
+The entire city of Boston.
+
+[01:16:36] SPEAKER_07
+Yeah, but that's it.
+
+[01:16:37] SPEAKER_07
+And I was watching it and I was thinking, like, it'll be interesting how they tie the
+
+[01:16:42] SPEAKER_07
+Beastie Boys into this.
+
+[01:16:43] SPEAKER_07
+And then I thought, I don't know that to be true.
+
+[01:16:45] SPEAKER_07
+And I did some research.
+
+[01:16:46] SPEAKER_07
+It's not.
+
+[01:16:47] SPEAKER_07
+Although I think his dad, one of the Beastie Boys dad's last name is Diamond.
+
+[01:16:53] SPEAKER_07
+And so I was going to check if there was a relation, but I didn't get around to that.
+
+[01:16:58] SPEAKER_05
+Where does Lou Diamond Phillips fit into all this?
+
+[01:17:01] SPEAKER_06
+Well, it's his middle name.
+
+[01:17:02] SPEAKER_06
+His last name is Phillips.
+
+[01:17:03] SPEAKER_06
+So is he La Bamba?
+
+[01:17:05] SPEAKER_05
+Yes.
+
+[01:17:07] SPEAKER_06
+He is La Bamba.
+
+[01:17:08] SPEAKER_06
+There you go.
+
+[01:17:10] SPEAKER_05
+Another great music movie.
+
+[01:17:13] SPEAKER_05
+Jeff.
+
+[01:17:15] SPEAKER_05
+Yeah, that's me.
+
+[01:17:16] SPEAKER_05
+Wrap it up.
+
+[01:17:17] SPEAKER_05
+Oh, if you want me to.
+
+[01:17:18] SPEAKER_05
+Sure, I can.
+
+[01:17:19] SPEAKER_05
+I can wrap this up.
+
+[01:17:20] SPEAKER_05
+Hey, look at the time.
+
+[01:17:22] SPEAKER_05
+We've it's already over this podcast.
+
+[01:17:25] SPEAKER_05
+Episode 79 is in the books.
+
+[01:17:28] SPEAKER_05
+It is done.
+
+[01:17:30] SPEAKER_05
+Sealed, stamped and delivered.
+
+[01:17:32] SPEAKER_05
+Thank you for listening.
+
+[01:17:33] SPEAKER_05
+Maybe if you would be so kind, you could tell a friend about this podcast and the good work
+
+[01:17:38] SPEAKER_05
+that we're doing here to save the fish of Michigan.
+
+[01:17:40] SPEAKER_05
+And tune in next week for episode 80.
+
+[01:17:43] SPEAKER_05
+We're going to learn something really wrong from Andrew.
+
+[01:17:47] SPEAKER_05
+Maybe.
+
+[01:17:47] SPEAKER_05
+Who knows?
+
+[01:17:48] SPEAKER_07
+I'm going to get to the bottom of it.
+
+[01:17:49] SPEAKER_07
+I'm going to.
+
+[01:17:50] SPEAKER_07
+I'll have an update in the Sassani one or why I thought that.
+
+[01:17:54] SPEAKER_04
+Okay.
+
+[01:17:55] SPEAKER_04
+Bye.
+
+[01:17:59] SPEAKER_07
+I'm going to wait a minute to say bye.
+
+[01:18:01] SPEAKER_07
+I'm on the.
+
+[01:18:05] SPEAKER_08
+Sorry.
+
+[01:18:07] SPEAKER_08
+Investing.
+
+[01:18:07] SPEAKER_08
+Trading.
+
+[01:18:08] SPEAKER_08
+That isn't a personality.
+
+[01:18:10] SPEAKER_08
+You don't need the voice.
+
+[01:18:11] SPEAKER_08
+You don't need the jargon.
+
+[01:18:13] SPEAKER_08
+You don't need the podcast.
+
+[01:18:15] SPEAKER_08
+You already know how to trade.
+
+[01:18:17] SPEAKER_08
+You've done it your whole life.
+
+[01:18:18] SPEAKER_08
+And TD Easy Trade taps into that instinct so you can build something real.
+
+[01:18:23] SPEAKER_08
+No minimums, no monthly fees, 24-hour support, no investor personality required.
+
+[01:18:29] SPEAKER_08
+Because you are made to trade.
+
+[01:18:32] SPEAKER_08
+And TD Easy Trade is made to help.
+
+[01:18:34] SPEAKER_08
+Download it now.
+
+[01:18:36] SPEAKER_00
+Want to see your rewards go further?
+
+[01:18:38] SPEAKER_00
+Now at Shell, Scene Plus members can fill up on points at the pump, on snacks, car wash, and more.
+
+[01:18:45] SPEAKER_00
+Plus, Scotiabank and Tangerine cardholders can get up to 10 cents per liter in value with a linked card.
+
+[01:18:50] SPEAKER_00
+New rewards partners.
+
+[01:18:53] SPEAKER_00
+New ways to save and earn at Shell.
+
+[01:18:55] SPEAKER_00
+Get more.
+
+[01:18:56] SPEAKER_00
+Go further.
+
+[01:18:57] SPEAKER_00
+At participating Shell locations.
+
+[01:18:59] SPEAKER_00
+Conditions and limits apply.
+
+[01:19:00] SPEAKER_00
+Actual value may be lower.
+
+[01:19:02] SPEAKER_00
+Visit shell.ca slash loyalty for full details.

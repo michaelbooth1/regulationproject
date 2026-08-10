@@ -1,0 +1,3960 @@
+# Episode 88: Trading Coin Tossers // Elite Log Management [83]
+published: 2021-12-29T08:00:00+00:00  |  duration: 00:56:31
+source: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER8896009977.mp3?updated=1773965223
+transcribed: 2026-08-07T14:13:47.307284-04:00  |  model: large-v3-turbo
+diarization: pyannote/speaker-diarization-3.1
+
+
+[00:00:00] SPEAKER_08
+Gregus believes in the art of living, in choosing the pleasurable over the practical.
+
+[00:00:06] SPEAKER_08
+It's why we craft our premium vodka in France using pure spring water from Genzac.
+
+[00:00:11] SPEAKER_08
+And why you hear the celebratory pop of our cork reminding us to make every martini cocktail count.
+
+[00:00:18] SPEAKER_08
+So go on and make every moment count because there's no better time than now.
+
+[00:00:25] SPEAKER_08
+Gregus. Make. Time. Wait. Sip responsibly.
+
+[00:00:30] SPEAKER_00
+Question is this.
+
+[00:00:33] SPEAKER_07
+That our neighborhood past summer ads on Oak Street.
+
+[00:00:45] SPEAKER_07
+Producer J.J. Abrams, Anne Hathaway, Ewan McGregor.
+
+[00:00:51] SPEAKER_07
+We're going to survive.
+
+[00:00:53] SPEAKER_07
+The End of Oak Street. Directed by David Robert Mitchell. August 14.
+
+[00:01:10] SPEAKER_04
+We've been going for a second.
+
+[00:01:13] SPEAKER_04
+We're just starting, but I loaded into a rank match just when everybody was like, we're going to go.
+
+[00:01:18] SPEAKER_04
+So I'm in the sand right now in a Halo Infinite rank game.
+
+[00:01:20] SPEAKER_04
+Not expecting us to be to be recording.
+
+[00:01:23] SPEAKER_04
+So I'm doing two things at once at the moment.
+
+[00:01:26] SPEAKER_06
+Jeff, what episode is this?
+
+[00:01:28] SPEAKER_03
+Hello and welcome to another episode of the Face Podcast.
+
+[00:01:34] SPEAKER_03
+My name is Jeff Ramsey with me, as always, Gavin Free.
+
+[00:01:37] SPEAKER_03
+And it sounds like we have one half of Andrew Panton's attention.
+
+[00:01:40] SPEAKER_03
+Oh, more than I'd say.
+
+[00:01:42] SPEAKER_03
+It must be an important soccer match going on if you're not paying attention.
+
+[00:01:45] SPEAKER_02
+I believe this is episode three.
+
+[00:01:48] SPEAKER_02
+I think this is the second or third episode of year two, season three.
+
+[00:01:55] SPEAKER_06
+You've confused me with that, though, because you said 81 should be the first episode of series three, season three.
+
+[00:02:01] SPEAKER_06
+But then you made last episode.
+
+[00:02:02] SPEAKER_03
+Well, see, no, you you're the reason for that.
+
+[00:02:05] SPEAKER_03
+I said 81 should be.
+
+[00:02:08] SPEAKER_02
+And then you said, we don't have to follow a specific path.
+
+[00:02:11] SPEAKER_02
+They don't have to be the same number apart.
+
+[00:02:13] SPEAKER_03
+And I said, OK, they won't be.
+
+[00:02:14] SPEAKER_03
+We'll start the next episode.
+
+[00:02:15] SPEAKER_06
+So there's one episode of difference.
+
+[00:02:17] SPEAKER_06
+So each season will be incrementally longer than the or shorter.
+
+[00:02:21] SPEAKER_06
+Who fucking knows?
+
+[00:02:23] SPEAKER_03
+All I know is that this is officially well into season three, year two.
+
+[00:02:28] SPEAKER_03
+And year three is right around the fucking corner.
+
+[00:02:31] SPEAKER_03
+I don't know about you guys, but I'm very excited to be in year three, season three.
+
+[00:02:35] SPEAKER_03
+That's when I feel like that's when we hit our stride.
+
+[00:02:37] SPEAKER_06
+What if this is the season finale of season three?
+
+[00:02:41] SPEAKER_03
+I like it.
+
+[00:02:42] SPEAKER_04
+Can we see two episodes long?
+
+[00:02:44] SPEAKER_04
+I didn't really want to be in season three, but I'd be I like I'd love to be in season four.
+
+[00:02:49] SPEAKER_06
+I support that season three of a show is always a really good season there.
+
+[00:02:53] SPEAKER_04
+What do you mean?
+
+[00:02:54] SPEAKER_04
+Now, I disagree.
+
+[00:02:55] SPEAKER_04
+I'll go.
+
+[00:02:56] SPEAKER_03
+I'll go further.
+
+[00:02:57] SPEAKER_03
+Season three of Always Sunny was phenomenal.
+
+[00:03:01] SPEAKER_03
+I feel it was the best season at that point and the best season probably till season five.
+
+[00:03:06] SPEAKER_06
+And then season three of Friends, I think, was good.
+
+[00:03:09] SPEAKER_06
+Like shut up with Joey and Chandler had their stuff stolen.
+
+[00:03:13] SPEAKER_06
+That was funny.
+
+[00:03:14] SPEAKER_04
+Did they?
+
+[00:03:15] SPEAKER_06
+Oh, is that season four?
+
+[00:03:16] SPEAKER_06
+That might be season four.
+
+[00:03:17] SPEAKER_04
+Is that the one where Joey and Chandler had their stuff stolen?
+
+[00:03:20] SPEAKER_04
+Is it the episode title?
+
+[00:03:21] SPEAKER_04
+What is the or is it a plot?
+
+[00:03:24] SPEAKER_06
+I don't remember.
+
+[00:03:24] SPEAKER_04
+I feel like the Lost season three.
+
+[00:03:27] SPEAKER_04
+I feel like sucks.
+
+[00:03:28] SPEAKER_04
+I feel like Lost season three.
+
+[00:03:29] SPEAKER_03
+Well, I feel like Lost sucks.
+
+[00:03:32] SPEAKER_03
+How about like when you look at that show in its totality, you're like, no wasted my time.
+
+[00:03:37] SPEAKER_03
+Absolutely not.
+
+[00:03:38] SPEAKER_03
+I couldn't disagree more.
+
+[00:03:40] SPEAKER_04
+This is as bad as your Home Alone opinions, which we don't need to get into now.
+
+[00:03:44] SPEAKER_03
+First off, you're going to piss off Eric.
+
+[00:03:46] SPEAKER_03
+First off, let me finish.
+
+[00:03:49] SPEAKER_03
+I was going to say it's not just TV shows and things with seasons that are the third of the best.
+
+[00:03:54] SPEAKER_03
+I think the third song on an album is almost always the best song on the album.
+
+[00:04:00] SPEAKER_03
+You guys ever notice that?
+
+[00:04:01] SPEAKER_03
+No.
+
+[00:04:02] SPEAKER_03
+What was the first?
+
+[00:04:03] SPEAKER_03
+If I listen to a new album, I listen to the third song first every time because I know that's where the...
+
+[00:04:08] SPEAKER_03
+Because the first song is always going to be a fuck around intro bit.
+
+[00:04:11] SPEAKER_03
+Then the second song is like, and the third song is when like you get, you get like fucking, that's when they kick it in.
+
+[00:04:15] SPEAKER_03
+And that's when it gets weird.
+
+[00:04:16] SPEAKER_06
+What was the third song on Thriller?
+
+[00:04:20] SPEAKER_06
+Beat it.
+
+[00:04:21] SPEAKER_06
+I don't know, but it's probably the best song.
+
+[00:04:22] SPEAKER_03
+Yeah.
+
+[00:04:22] SPEAKER_03
+There you go.
+
+[00:04:23] SPEAKER_06
+Oh, is that the right?
+
+[00:04:24] SPEAKER_06
+And that's just a list of singles.
+
+[00:04:25] SPEAKER_06
+Track listing.
+
+[00:04:26] SPEAKER_06
+The Girl Is Mine.
+
+[00:04:29] SPEAKER_03
+A run-danger from the album.
+
+[00:04:31] SPEAKER_03
+And it's a great song.
+
+[00:04:32] SPEAKER_04
+What are you talking about?
+
+[00:04:33] SPEAKER_04
+The Girl Is Mine's a phenomenal song.
+
+[00:04:34] SPEAKER_04
+It's not the song of the album now.
+
+[00:04:37] SPEAKER_04
+Your whole point was the best song of the album is always the third song.
+
+[00:04:40] SPEAKER_04
+It's not the best song of that album.
+
+[00:04:42] SPEAKER_03
+I wouldn't say always.
+
+[00:04:42] SPEAKER_03
+Well, I guess I did say always.
+
+[00:04:43] SPEAKER_03
+But I find it to be the case more often than not.
+
+[00:04:46] SPEAKER_03
+There's probably exceptions to every rule.
+
+[00:04:49] SPEAKER_03
+But I find it to be more often than not, the third song is the best song.
+
+[00:04:53] SPEAKER_06
+Oh, God.
+
+[00:04:54] SPEAKER_06
+Cat just jumped.
+
+[00:04:56] SPEAKER_03
+How many songs did he do with Paul McCartney?
+
+[00:04:58] SPEAKER_03
+Michael Jackson?
+
+[00:04:59] SPEAKER_06
+Yeah.
+
+[00:05:00] SPEAKER_03
+He did Say, Say, Say.
+
+[00:05:02] SPEAKER_03
+Right?
+
+[00:05:02] SPEAKER_03
+And The Girl Is Mine, apparently.
+
+[00:05:04] SPEAKER_03
+And The Girl Is Mine.
+
+[00:05:05] SPEAKER_03
+That's more than I realized.
+
+[00:05:07] SPEAKER_03
+And that might be it that I can think of.
+
+[00:05:13] SPEAKER_04
+I don't.
+
+[00:05:14] SPEAKER_04
+So this is what I know, is that Michael, didn't Michael Jackson own the Beatles catalog?
+
+[00:05:20] SPEAKER_04
+Wasn't that a whole thing?
+
+[00:05:22] SPEAKER_03
+Well, it's, yeah, it's funnier than that.
+
+[00:05:24] SPEAKER_04
+I see, like, I kind of, it's a thing that I vaguely know about.
+
+[00:05:27] SPEAKER_04
+And the way it's described is almost like Paul McCartney got drunk and lost it in a poker game.
+
+[00:05:32] SPEAKER_04
+Like, I don't understand how.
+
+[00:05:33] SPEAKER_03
+No, no, I can, I can, I can tell you, I can tell you the story as I remember it.
+
+[00:05:37] SPEAKER_03
+I'd love to hear it.
+
+[00:05:39] SPEAKER_03
+Paul McCartney and Michael Jackson were friends.
+
+[00:05:41] SPEAKER_03
+They played those songs together.
+
+[00:05:42] SPEAKER_03
+They were, Michael Jackson was getting advice.
+
+[00:05:44] SPEAKER_03
+They were just talking about careers and stuff.
+
+[00:05:45] SPEAKER_03
+And Paul McCartney said, gave Michael Jackson the best fucking advice you can probably give a musician.
+
+[00:05:52] SPEAKER_03
+It's what Taylor Swift's going through right now.
+
+[00:05:54] SPEAKER_03
+We said, you should own all your own music.
+
+[00:05:56] SPEAKER_03
+So you should, if you can, you should buy back the rights to all your music.
+
+[00:06:00] SPEAKER_03
+You should buy, you should own the rights to music.
+
+[00:06:02] SPEAKER_03
+And Michael Jackson went, oh, that's really smart.
+
+[00:06:04] SPEAKER_03
+And then he went and said, why, why would I just buy my music?
+
+[00:06:07] SPEAKER_03
+The Beatles are really good.
+
+[00:06:08] SPEAKER_03
+I'll buy their stuff too.
+
+[00:06:09] SPEAKER_03
+And he had the money to do it.
+
+[00:06:11] SPEAKER_03
+He said, I'll just own, own the rights to your shit too.
+
+[00:06:13] SPEAKER_03
+Well, I'm at it.
+
+[00:06:13] SPEAKER_03
+Why not?
+
+[00:06:13] SPEAKER_03
+It's great advice.
+
+[00:06:15] SPEAKER_04
+That is fantastic.
+
+[00:06:16] SPEAKER_04
+And he didn't, it wasn't a move to be like, hey, I got this for you.
+
+[00:06:19] SPEAKER_04
+Merry Christmas.
+
+[00:06:20] SPEAKER_04
+Could you imagine coming downstairs?
+
+[00:06:22] SPEAKER_03
+That was really smart.
+
+[00:06:23] SPEAKER_03
+I'm going to make, I'm going to build Wonderland, Neverland Ranch now off the proceeds of Apple
+
+[00:06:28] SPEAKER_03
+Records or whatever.
+
+[00:06:28] SPEAKER_04
+I couldn't imagine a cooler Christmas gift than coming downstairs and then seeing the entire
+
+[00:06:34] SPEAKER_04
+Beatles catalog is now yours.
+
+[00:06:36] SPEAKER_04
+You just own this.
+
+[00:06:37] SPEAKER_04
+Open up the gifts, just all of the Beatles rights.
+
+[00:06:40] SPEAKER_04
+What a time.
+
+[00:06:42] SPEAKER_04
+What a weird thing.
+
+[00:06:43] SPEAKER_04
+Why didn't Paul McCartney do that ahead of time?
+
+[00:06:47] SPEAKER_04
+Why did he not, why, how did he have the foresight?
+
+[00:06:50] SPEAKER_03
+I don't think he realized that Michael Jackson was going to turn around and buy all his shit.
+
+[00:06:56] SPEAKER_04
+No, but if he knew that was a great idea, how did he, like, how did he know enough that
+
+[00:07:01] SPEAKER_04
+you should do that yet didn't, what does he own?
+
+[00:07:04] SPEAKER_04
+Who's not, did he just have his, like, is this just, uh, I give great advice, but don't
+
+[00:07:09] SPEAKER_03
+follow it?
+
+[00:07:10] SPEAKER_03
+No, I'm sure he probably owns like the full catalog to Wings, which was a huge band.
+
+[00:07:15] SPEAKER_03
+Uh, and, uh, probably all of his solo stuff and who knows, maybe he owns, maybe he owns
+
+[00:07:21] SPEAKER_03
+the rights to some of the Beatles stuff he wrote.
+
+[00:07:23] SPEAKER_03
+I have no idea.
+
+[00:07:24] SPEAKER_03
+I'm not close.
+
+[00:07:24] SPEAKER_03
+Paul and I aren't close.
+
+[00:07:25] SPEAKER_03
+I'm just retelling the story that I remember as I remember it from when I was a kid.
+
+[00:07:29] SPEAKER_04
+I feel like there could be worse people that own the entire Beatles catalog than aren't,
+
+[00:07:34] SPEAKER_04
+that aren't, that aren't Jackson.
+
+[00:07:36] SPEAKER_04
+Like, I feel like weirdly, and I, people like unfairly take digs at Ringo.
+
+[00:07:40] SPEAKER_04
+It just, it would be hilarious to me if Ringo ended up with it all.
+
+[00:07:45] SPEAKER_04
+I like Ringo Starr so much.
+
+[00:07:47] SPEAKER_04
+He has so many albums.
+
+[00:07:49] SPEAKER_04
+He has too many, too many albums.
+
+[00:07:50] SPEAKER_04
+And I say that with peace and love.
+
+[00:07:52] SPEAKER_06
+One of us should buy, one of us should buy f*** face.
+
+[00:07:54] SPEAKER_03
+Yeah?
+
+[00:07:55] SPEAKER_03
+What's it worth?
+
+[00:07:56] SPEAKER_03
+Uh, I don't know, but you're the one, it sounds like you're volunteering.
+
+[00:07:59] SPEAKER_03
+Let's get a price.
+
+[00:08:00] SPEAKER_03
+Eric, what's it worth?
+
+[00:08:01] SPEAKER_04
+Yeah, I was going to say, I feel like this is just a scam where Eric will tell us an amount
+
+[00:08:05] SPEAKER_04
+and we'll give it to him and he'll just like write on a piece of paper that you own it.
+
+[00:08:09] SPEAKER_05
+This is a great idea.
+
+[00:08:10] SPEAKER_05
+This is how NFTs work, I think.
+
+[00:08:12] SPEAKER_05
+So, we'll say, we'll say 60,000.
+
+[00:08:16] SPEAKER_05
+60,000?
+
+[00:08:18] SPEAKER_05
+Yeah.
+
+[00:08:18] SPEAKER_05
+So, if you want to make that checkout to me, that's fine.
+
+[00:08:21] SPEAKER_05
+I'll put five, I'll put 500 bucks in.
+
+[00:08:23] SPEAKER_05
+Wow.
+
+[00:08:24] SPEAKER_05
+Gavin, you come up with the rest.
+
+[00:08:27] SPEAKER_04
+Could I just buy episodes or do I have to buy the entire catalog?
+
+[00:08:30] SPEAKER_05
+Yeah, you can buy individual episodes, however, they, they are more expensive that way.
+
+[00:08:34] SPEAKER_05
+All the cart options.
+
+[00:08:36] SPEAKER_03
+You get a volume deal.
+
+[00:08:38] SPEAKER_06
+Well, I have no idea if 60,000 is an absolute bargain or a complete ripoff.
+
+[00:08:44] SPEAKER_06
+I have, what?
+
+[00:08:45] SPEAKER_06
+I literally have no idea which way that would go.
+
+[00:08:48] SPEAKER_04
+Can we buy somebody, can we buy something?
+
+[00:08:51] SPEAKER_04
+Can we enter the market?
+
+[00:08:52] SPEAKER_03
+I mean, we're trying to buy a fucking superhero and it's not working.
+
+[00:08:55] SPEAKER_04
+That's, I feel like we're more likely to buy some like, kind of, who is like an artist that
+
+[00:09:01] SPEAKER_04
+is known but not known?
+
+[00:09:03] SPEAKER_04
+Like, not, like, it wouldn't be, I don't know.
+
+[00:09:05] SPEAKER_04
+Trying to think.
+
+[00:09:06] SPEAKER_03
+You would think we'd be more likely to buy the shit that we already own.
+
+[00:09:10] SPEAKER_03
+This is our podcast.
+
+[00:09:12] SPEAKER_04
+Yeah, but I mean, it didn't work out well for Paul McCartney.
+
+[00:09:15] SPEAKER_03
+Well, maybe we should, I think, I'm gonna go, I'm gonna, well, he's dead as dicks, but
+
+[00:09:20] SPEAKER_03
+I'm gonna, I'm gonna assume Paul McCartney's doing just fine.
+
+[00:09:23] SPEAKER_03
+Oh, totally fine.
+
+[00:09:25] SPEAKER_03
+Financially and otherwise.
+
+[00:09:26] SPEAKER_06
+If we pull a Jackson, maybe we could just buy, like, Black Box Down or something.
+
+[00:09:30] SPEAKER_03
+I was gonna say, yeah.
+
+[00:09:31] SPEAKER_06
+Oh, that's what we want to do.
+
+[00:09:33] SPEAKER_03
+Like, we'll go, yeah, let's go buy Face Jam.
+
+[00:09:36] SPEAKER_05
+That'd be fucking awesome.
+
+[00:09:37] SPEAKER_05
+What is?
+
+[00:09:38] SPEAKER_05
+We'll buy one of our.
+
+[00:09:38] SPEAKER_05
+That's fine.
+
+[00:09:39] SPEAKER_05
+One of our.
+
+[00:09:39] SPEAKER_05
+You can, that's 60,000 also.
+
+[00:09:41] SPEAKER_05
+You can just write me a check for 60,000.
+
+[00:09:44] SPEAKER_03
+Do you know what I wish we could do?
+
+[00:09:46] SPEAKER_03
+Go ahead.
+
+[00:09:46] SPEAKER_03
+Eric was just saying that he probably owns the wing stuff and I was just gonna say that's,
+
+[00:09:50] SPEAKER_03
+I'm just gonna say, I don't, I don't think Wings gets enough credit.
+
+[00:09:52] SPEAKER_03
+It was a fantastic band.
+
+[00:09:54] SPEAKER_03
+Fantastic music.
+
+[00:09:55] SPEAKER_06
+Were they, were they, uh, Live and Let Die?
+
+[00:09:57] SPEAKER_03
+Was that technically Wings?
+
+[00:09:58] SPEAKER_03
+I believe so, yeah.
+
+[00:09:59] SPEAKER_03
+And Band on the Run and, yeah, there were so many.
+
+[00:10:02] SPEAKER_04
+What were they running from?
+
+[00:10:06] SPEAKER_03
+Michael Jackson.
+
+[00:10:11] SPEAKER_03
+I love the idea that Paul McCartney regrets that and he's like, he's like 78 years old
+
+[00:10:15] SPEAKER_03
+and sitting at his fucking kitchen table balancing his checkbook going,
+
+[00:10:19] SPEAKER_03
+God damn it, Jackson.
+
+[00:10:22] SPEAKER_03
+Here I am broke trying to pay the bills.
+
+[00:10:24] SPEAKER_03
+I'd only listen to my own advice.
+
+[00:10:26] SPEAKER_03
+To what?
+
+[00:10:27] SPEAKER_04
+And could, could we just like throw it on eBay as like an auction?
+
+[00:10:30] SPEAKER_04
+Like, could that, is that like a path?
+
+[00:10:32] SPEAKER_04
+What are the rules to, I feel like there must be rules to this.
+
+[00:10:35] SPEAKER_04
+You can't just buy.
+
+[00:10:36] SPEAKER_04
+It's not just like an open market.
+
+[00:10:38] SPEAKER_04
+There has to be like a shadowy.
+
+[00:10:39] SPEAKER_04
+Well, it has to be for sale.
+
+[00:10:40] SPEAKER_03
+I think step one, you gotta find something that's for sale.
+
+[00:10:43] SPEAKER_00
+Hmm.
+
+[00:10:44] SPEAKER_03
+Yeah.
+
+[00:10:44] SPEAKER_03
+I think, I think that's where you're gonna get hung up.
+
+[00:10:46] SPEAKER_03
+We, you're right.
+
+[00:10:47] SPEAKER_03
+You can't just buy anything.
+
+[00:10:48] SPEAKER_06
+It has to, well, I mean, if the price is right, I'm sure you could buy anything.
+
+[00:10:53] SPEAKER_03
+Unless it's a pinball machine.
+
+[00:10:57] SPEAKER_06
+Those, tough negotiations.
+
+[00:10:59] SPEAKER_06
+Yeah.
+
+[00:11:00] SPEAKER_06
+I was trying to buy a pinball machine recently.
+
+[00:11:01] SPEAKER_06
+And the guy basically was like, you know what?
+
+[00:11:03] SPEAKER_06
+I'm not going to sell it.
+
+[00:11:05] SPEAKER_06
+My kid wants it.
+
+[00:11:06] SPEAKER_06
+And I assumed he was, you just wanted more money.
+
+[00:11:08] SPEAKER_06
+Cause he was like, you know, maybe if the price is right, I'll give my kid the difference
+
+[00:11:12] SPEAKER_06
+and that will justify him losing his pinball machine.
+
+[00:11:15] SPEAKER_06
+So I was like, oh, this fricking guy trying to, trying to con me out of money.
+
+[00:11:19] SPEAKER_06
+So I offered him more and he was like, no, seriously, my son really wants to keep it.
+
+[00:11:24] SPEAKER_06
+The negotiation just died.
+
+[00:11:26] SPEAKER_06
+I was like, why is it on the market?
+
+[00:11:29] SPEAKER_06
+Doesn't sound like it is.
+
+[00:11:31] SPEAKER_06
+Yeah.
+
+[00:11:31] SPEAKER_06
+So some, I guess I, I should have just kept offering, like, not that I would pay it,
+
+[00:11:36] SPEAKER_06
+but I, I should have just seen what the guy's price truly was at what point will he betray
+
+[00:11:41] SPEAKER_04
+the request of his kid?
+
+[00:11:42] SPEAKER_04
+I'd love to know what that number is.
+
+[00:11:44] SPEAKER_06
+Do you ever wish that you could just try stuff out that's illegal, but like, well,
+
+[00:11:52] SPEAKER_06
+I basically, I wish you could try stuff, but, but upfront say that it's just a joke.
+
+[00:11:57] SPEAKER_06
+So like, don't apply the law to it.
+
+[00:11:59] SPEAKER_06
+No.
+
+[00:11:59] SPEAKER_06
+What are you talking about?
+
+[00:12:02] SPEAKER_06
+Good example was I was watching.
+
+[00:12:04] SPEAKER_06
+Uh, I was, I was just like falling asleep to crap on YouTube.
+
+[00:12:07] SPEAKER_06
+And at some point, I guess it steered into the realm of like customs agents, like documentaries
+
+[00:12:12] SPEAKER_06
+about airports and stuff.
+
+[00:12:14] SPEAKER_06
+And they were like X-raying bags to see like, Oh, there's a 8,000 cigarettes.
+
+[00:12:20] SPEAKER_06
+So this, this one, Oh, there's a little bag of Coke in this one.
+
+[00:12:24] SPEAKER_06
+And it's always like, it always starts with the X-ray where they're looking for like containers
+
+[00:12:29] SPEAKER_06
+that stand out from the rest of stuff.
+
+[00:12:31] SPEAKER_06
+But then I just thought, what if you just filled an entire suitcase with just loose
+
+[00:12:37] SPEAKER_06
+cocaine, like full to the brim of only cocaine?
+
+[00:12:41] SPEAKER_06
+What would that show up like on the X-ray?
+
+[00:12:44] SPEAKER_06
+And I thought it'd be really funny to try to see if I could get like an only cocaine suitcase
+
+[00:12:48] SPEAKER_06
+through customs.
+
+[00:12:49] SPEAKER_06
+Cause it would just look like nothing.
+
+[00:12:51] SPEAKER_06
+Gavin, you're just, so I don't, go ahead.
+
+[00:12:53] SPEAKER_04
+You're just describing a hidden camera prank show is all you're doing.
+
+[00:12:57] SPEAKER_04
+This is all you've done.
+
+[00:12:58] SPEAKER_04
+Yeah, but you can't usually do like class A drugs.
+
+[00:13:01] SPEAKER_04
+Gavin just invented punked.
+
+[00:13:03] SPEAKER_04
+It doesn't need to be actual cocaine.
+
+[00:13:06] SPEAKER_04
+You can get something that looks like, you can do the exact same.
+
+[00:13:09] SPEAKER_04
+There is.
+
+[00:13:09] SPEAKER_04
+Yeah.
+
+[00:13:10] SPEAKER_04
+Exact.
+
+[00:13:10] SPEAKER_04
+Ashton Kutcher is just waiting in the, you just didn't punk.
+
+[00:13:13] SPEAKER_04
+Your idea is punked.
+
+[00:13:15] SPEAKER_03
+Yeah.
+
+[00:13:17] SPEAKER_03
+Congratulations.
+
+[00:13:17] SPEAKER_04
+Also like what a weird fucking, do you ever wish that like you get a jet, get out of jail
+
+[00:13:24] SPEAKER_04
+free card is how you set it up.
+
+[00:13:25] SPEAKER_04
+And then your get out of jail free card is just being caught with a giant bag of coke.
+
+[00:13:30] SPEAKER_04
+Like it's not.
+
+[00:13:31] SPEAKER_03
+Yeah.
+
+[00:13:31] SPEAKER_03
+The problem with the get out of jail free card is you would use it immediately on something
+
+[00:13:35] SPEAKER_03
+dumb.
+
+[00:13:36] SPEAKER_03
+Yeah.
+
+[00:13:36] SPEAKER_03
+I wouldn't actually want to do.
+
+[00:13:38] SPEAKER_03
+Oh, yeah.
+
+[00:13:39] SPEAKER_03
+I don't want to do a real crime.
+
+[00:13:41] SPEAKER_06
+I didn't want to sell the coke or anything.
+
+[00:13:43] SPEAKER_06
+I just want to see.
+
+[00:13:43] SPEAKER_04
+Okay.
+
+[00:13:44] SPEAKER_04
+He just wants to do the coke.
+
+[00:13:45] SPEAKER_04
+He doesn't want to sell it.
+
+[00:13:46] SPEAKER_04
+Like, let's say you get applied a get out of jail free card, right?
+
+[00:13:50] SPEAKER_04
+Except it immediately is used the moment you break any law of any kind.
+
+[00:13:55] SPEAKER_04
+How much more complicated your life would be.
+
+[00:13:57] SPEAKER_04
+Jaywalking, technically a fine.
+
+[00:13:59] SPEAKER_04
+Like you got to always use the line.
+
+[00:14:00] SPEAKER_04
+Your life would become so much more inconvenienced by like the small weird laws.
+
+[00:14:05] SPEAKER_04
+What would you be saving it for though?
+
+[00:14:06] SPEAKER_04
+Or do you just kill somebody immediately?
+
+[00:14:09] SPEAKER_04
+Do you just immediately murder somebody?
+
+[00:14:11] SPEAKER_04
+Like what do you do?
+
+[00:14:12] SPEAKER_06
+You still have to live with the memory and the guilt.
+
+[00:14:16] SPEAKER_06
+Of murdering someone.
+
+[00:14:17] SPEAKER_06
+I don't see how that's used for anyone.
+
+[00:14:19] SPEAKER_06
+No, no, no.
+
+[00:14:19] SPEAKER_04
+I wouldn't.
+
+[00:14:19] SPEAKER_04
+No, I would immediately try to rob a bank.
+
+[00:14:22] SPEAKER_04
+Robin Hood did it.
+
+[00:14:23] SPEAKER_04
+He seemed good.
+
+[00:14:24] SPEAKER_04
+Well, he didn't rob a bank.
+
+[00:14:24] SPEAKER_03
+You know there would be.
+
+[00:14:25] SPEAKER_03
+You know there'd be some sort of a bullshit loophole where you try to rob the bank and
+
+[00:14:29] SPEAKER_03
+the cops come up and you're like, no, no, no, no.
+
+[00:14:31] SPEAKER_03
+I have this get out of free jail.
+
+[00:14:33] SPEAKER_03
+Or get out of jail free card.
+
+[00:14:34] SPEAKER_03
+Or get out of free jail card.
+
+[00:14:36] SPEAKER_03
+And the cop was saying, this is only valid in the continental United States.
+
+[00:14:40] SPEAKER_03
+This had to be presented before you committed the crime.
+
+[00:14:45] SPEAKER_03
+It's invalid if he walked on the way to the bank.
+
+[00:14:47] SPEAKER_04
+Those fucking bullshit UNA rules.
+
+[00:14:50] SPEAKER_03
+It's like technically, yes, but you are going to get out of jail free for breaking the glass
+
+[00:14:55] SPEAKER_03
+to get into the bank.
+
+[00:14:56] SPEAKER_03
+But every offense after that is a cover.
+
+[00:14:59] SPEAKER_06
+Technically saying put the money in the bag dickhead was assault and that was your first
+
+[00:15:03] SPEAKER_06
+crime.
+
+[00:15:03] SPEAKER_06
+Yeah, the crime would have to be victimless.
+
+[00:15:12] SPEAKER_06
+And I think you'd have to really read up on all of the laws because I assume people break
+
+[00:15:18] SPEAKER_06
+the like road laws all the time.
+
+[00:15:20] SPEAKER_04
+Oh, constantly.
+
+[00:15:20] SPEAKER_06
+Without even realizing maybe.
+
+[00:15:23] SPEAKER_04
+I wonder if there's like once you read, can I, is there just a book of laws?
+
+[00:15:29] SPEAKER_04
+Can I just, like, where do I find the book of laws?
+
+[00:15:32] SPEAKER_06
+What's the law, isn't it?
+
+[00:15:33] SPEAKER_04
+It's like the document.
+
+[00:15:34] SPEAKER_04
+I know it is.
+
+[00:15:35] SPEAKER_04
+Okay.
+
+[00:15:35] SPEAKER_04
+Is there a document?
+
+[00:15:36] SPEAKER_04
+Can I, can I like air bud rule it and be like, there's no law saying I can't like,
+
+[00:15:41] SPEAKER_06
+when you're defending someone in court, they're not saying like, they're not quoting laws from
+
+[00:15:46] SPEAKER_06
+nowhere that it's written.
+
+[00:15:48] SPEAKER_06
+Like the law is in place physically somewhere.
+
+[00:15:51] SPEAKER_06
+Where do I download the law?
+
+[00:15:53] SPEAKER_04
+I want to read all the laws.
+
+[00:15:57] SPEAKER_04
+How big is the PDF of the law?
+
+[00:16:00] SPEAKER_04
+Canadian book of laws.
+
+[00:16:02] SPEAKER_04
+I'm assuming is what it would be called.
+
+[00:16:05] SPEAKER_04
+Yeah.
+
+[00:16:05] SPEAKER_03
+The Canadian book of laws.
+
+[00:16:06] SPEAKER_03
+Now, now we know what to get you for Christmas.
+
+[00:16:08] SPEAKER_04
+Oh, I cannot wait to read because we can find our recently and very comparable.
+
+[00:16:13] SPEAKER_04
+I just recently read through the entire NFL rule book and there's some, there's some fun
+
+[00:16:17] SPEAKER_04
+stuff in there.
+
+[00:16:18] SPEAKER_04
+There's some room to do whatever you want to do.
+
+[00:16:20] SPEAKER_04
+There's a thing.
+
+[00:16:21] SPEAKER_04
+Speaking of it, this is actually a perfect segue.
+
+[00:16:24] SPEAKER_04
+Fucking Gavin won seven, seven coin tosses in a row.
+
+[00:16:28] SPEAKER_04
+Last episode we recorded or released.
+
+[00:16:31] SPEAKER_03
+That was fun to listen to, by the way.
+
+[00:16:34] SPEAKER_03
+I heard just that part.
+
+[00:16:37] SPEAKER_04
+In the NFL, there's a rule where for the coin toss.
+
+[00:16:41] SPEAKER_04
+So every game opens with a coin toss and the away team has to make the call.
+
+[00:16:45] SPEAKER_04
+And then they essentially decide if you win, if you want the ball in the first half or the
+
+[00:16:49] SPEAKER_04
+second half is your decision.
+
+[00:16:50] SPEAKER_04
+And there's, I think, an advantage to having it in the second half.
+
+[00:16:53] SPEAKER_04
+So there's, it's, you want to win the coin toss.
+
+[00:16:56] SPEAKER_04
+Technically speaking, the people that are allowed to take the coin toss are, I think,
+
+[00:17:01] SPEAKER_04
+captains of the team, either on the roster, off the roster, or an honorary captain, which
+
+[00:17:08] SPEAKER_04
+typically is used for like members of the armed forces or like just like heroes of some
+
+[00:17:13] SPEAKER_04
+kind.
+
+[00:17:13] SPEAKER_04
+But technically speaking, you could hire a coin toss specialist as a team and have somebody
+
+[00:17:20] SPEAKER_04
+who's just really good at coin tosses.
+
+[00:17:21] SPEAKER_04
+I would love to take an NFL coin toss.
+
+[00:17:24] SPEAKER_04
+How could he be good at coin tosses?
+
+[00:17:26] SPEAKER_04
+I think you could, what you say that you won seven in a row last week.
+
+[00:17:31] SPEAKER_04
+You were exceptional.
+
+[00:17:33] SPEAKER_06
+Not only did I not flip any of the coins or I didn't even call the coins.
+
+[00:17:37] SPEAKER_06
+You took the one I was going to have and I was left with the dregs.
+
+[00:17:40] SPEAKER_04
+Yeah, but you, you won seven in a row.
+
+[00:17:43] SPEAKER_04
+That coin tilted towards your favor.
+
+[00:17:45] SPEAKER_04
+I think you're, you are an above average coin tosser and there's sadly no official tournaments.
+
+[00:17:51] SPEAKER_03
+I actually think it's the opposite.
+
+[00:17:54] SPEAKER_03
+I think you're exceptionally bad.
+
+[00:17:56] SPEAKER_03
+I think it was, I don't think it was a Gavin being good because he's, he's had coin toss
+
+[00:18:01] SPEAKER_03
+problems in the past.
+
+[00:18:02] SPEAKER_03
+Okay.
+
+[00:18:02] SPEAKER_03
+Go get your coins, Eric.
+
+[00:18:03] SPEAKER_03
+I think it's, I think it's your.
+
+[00:18:05] SPEAKER_03
+Jeff versus Gavin.
+
+[00:18:07] SPEAKER_03
+I am not that at all.
+
+[00:18:08] SPEAKER_03
+I'm just saying, I think it had more to do with you and less to do with him.
+
+[00:18:11] SPEAKER_03
+I do think you're onto something though.
+
+[00:18:12] SPEAKER_03
+Like, I don't know why if you're a team, uh, I don't know, Los Angeles Rams, uh, Eric's
+
+[00:18:18] SPEAKER_03
+favorite team.
+
+[00:18:19] SPEAKER_03
+Uh, what if you, what have you hired like the amazing Kreskin or Frederick to Silva or
+
+[00:18:25] SPEAKER_03
+some like famous mentalist like Shimlin or like someone or like, or like, uh, one of
+
+[00:18:30] SPEAKER_03
+those like people that the cops hire in to come in and who's like psychic and tell you
+
+[00:18:35] SPEAKER_03
+how to like touch a piece of fabric and tell you how somebody was died.
+
+[00:18:38] SPEAKER_03
+Like I would have that person on retainer for every coin flip.
+
+[00:18:42] SPEAKER_04
+I don't like initially when I read it, I thought, Oh, they have to be a part of the staff.
+
+[00:18:47] SPEAKER_04
+So like, or maybe an active player, which you have a cap on.
+
+[00:18:50] SPEAKER_04
+So like, I would understand maybe not worth having a coin toss specialist, but it doesn't
+
+[00:18:55] SPEAKER_04
+have to be.
+
+[00:18:56] SPEAKER_04
+You could just have somebody that that's all they do and it doesn't impact you in any
+
+[00:19:00] SPEAKER_04
+other way.
+
+[00:19:01] SPEAKER_04
+And I feel like teams are not utilizing the fact that they could have a specialist in that
+
+[00:19:05] SPEAKER_04
+position, such as Gavin.
+
+[00:19:07] SPEAKER_03
+No, I agree.
+
+[00:19:07] SPEAKER_03
+I think, I think you've, I think you've found a glaring loophole in the bylaw NFL
+
+[00:19:13] SPEAKER_03
+bylaws that could be exploited to the extreme.
+
+[00:19:17] SPEAKER_06
+Can all teams share the same tosser or the same coin guy, the coin toss specialist.
+
+[00:19:24] SPEAKER_04
+I love the idea of another team hijacking the coin toss specialist next season.
+
+[00:19:29] SPEAKER_04
+What a play that would be.
+
+[00:19:31] SPEAKER_04
+Uh, no, I, well, I mean, I think per game, I don't know how that'd work.
+
+[00:19:36] SPEAKER_04
+I guess it would depend on what contract and exclusivity you signed with the person you
+
+[00:19:40] SPEAKER_04
+deemed your specialist.
+
+[00:19:41] SPEAKER_03
+Could you, here's the thing too, that thing snowballs, right?
+
+[00:19:43] SPEAKER_03
+Like, let's say, I don't know, Eric's favorite team, the Rams, they, uh, they hire a coin
+
+[00:19:47] SPEAKER_03
+toss specialist.
+
+[00:19:48] SPEAKER_03
+They hire like, like somebody from Vegas who's a mentalist who's really good at it, right?
+
+[00:19:51] SPEAKER_03
+Pro coin tosser.
+
+[00:19:52] SPEAKER_03
+Goes really well.
+
+[00:19:54] SPEAKER_03
+It's so fucking successful that they put them on retainer on contract, right?
+
+[00:19:57] SPEAKER_03
+He's now like on contract with the, the Eric's favorite team, the Rams.
+
+[00:20:01] SPEAKER_03
+And, uh, and then other fucking teams start to do it.
+
+[00:20:05] SPEAKER_03
+How long until teams are trading coin tossers back and forth like players?
+
+[00:20:11] SPEAKER_03
+More valuable.
+
+[00:20:12] SPEAKER_03
+I would love to see the coin toss trade.
+
+[00:20:14] SPEAKER_03
+It's like, yeah, all right, we'll trade Adam Vinatieri and, and, uh, this mentalist
+
+[00:20:19] SPEAKER_03
+for, uh, two first round draft picks.
+
+[00:20:22] SPEAKER_06
+It would be such low value.
+
+[00:20:23] SPEAKER_06
+It's like when you're trying to do a trade in Monopoly and someone's like throwing their
+
+[00:20:27] SPEAKER_06
+get out of jail free card into the mix.
+
+[00:20:29] SPEAKER_06
+It's like, wow, 50 bucks.
+
+[00:20:31] SPEAKER_04
+Little did they know they jaywalked right before.
+
+[00:20:33] SPEAKER_04
+Like it added, it's completely useless.
+
+[00:20:36] SPEAKER_04
+Um, I agree.
+
+[00:20:38] SPEAKER_04
+I think it would be amazing.
+
+[00:20:39] SPEAKER_04
+And, uh, it's something teams should take advantage of.
+
+[00:20:43] SPEAKER_04
+It's, it's upsetting that they don't.
+
+[00:20:45] SPEAKER_04
+There's another, just like quick other pivot for rules for a moment.
+
+[00:20:48] SPEAKER_04
+You're not allowed to block a field goal.
+
+[00:20:50] SPEAKER_04
+That's going in under the grounds of like, if you, so it's, it's impossible.
+
+[00:20:54] SPEAKER_04
+First of all, cause the ball is flying like 30, 40, too short, too short.
+
+[00:20:59] SPEAKER_04
+But if you were able to do it, they could still disqualify it on the grounds of that's just
+
+[00:21:04] SPEAKER_04
+unfair.
+
+[00:21:05] SPEAKER_04
+So like if you, it's like a weird, like side rule where if you, if you had a team of players
+
+[00:21:10] SPEAKER_04
+drag a tree out in the middle of the play to block the kick, it's, I mean, there's technically
+
+[00:21:15] SPEAKER_04
+no rule against that, but it's unfair.
+
+[00:21:17] SPEAKER_06
+I like that.
+
+[00:21:18] SPEAKER_06
+That's what you go.
+
+[00:21:18] SPEAKER_06
+You go for a, get a tree.
+
+[00:21:20] SPEAKER_06
+You, you, you don't go for something that's actually doable, like throw a helmet or kick
+
+[00:21:24] SPEAKER_03
+a shoe or how about you, how about you have like taco fall or minute bowl or Lexi poke
+
+[00:21:31] SPEAKER_03
+a team did that seven and a half foot tall dude who just shows up to block extra point.
+
+[00:21:36] SPEAKER_03
+I don't know why they don't do that.
+
+[00:21:38] SPEAKER_04
+No, they, they did that.
+
+[00:21:39] SPEAKER_04
+There's a team that did that and it didn't work.
+
+[00:21:41] SPEAKER_04
+Cause he's even at like seven feet tall, you're way too short for how high the ball
+
+[00:21:44] SPEAKER_04
+goes.
+
+[00:21:46] SPEAKER_04
+That's like a thing.
+
+[00:21:47] SPEAKER_04
+That was the initial setting of the rule, but it's just, I love the clarification.
+
+[00:21:50] SPEAKER_04
+It's unfair.
+
+[00:21:52] SPEAKER_04
+Like just, there's no specifics to that.
+
+[00:21:54] SPEAKER_04
+What do you deem as unfair?
+
+[00:21:56] SPEAKER_04
+And I would argue, Gavin, it's easier to drag a tree out onto the field than it is to hit
+
+[00:22:02] SPEAKER_04
+a field goal kick with your helmet by throwing it.
+
+[00:22:05] SPEAKER_04
+I agree.
+
+[00:22:07] SPEAKER_06
+I feel like if you can, if you can throw a helmet at a kicked ball, you deserve to block
+
+[00:22:13] SPEAKER_06
+the field goal.
+
+[00:22:14] SPEAKER_04
+Yeah.
+
+[00:22:14] SPEAKER_04
+You should actually get points for that.
+
+[00:22:16] SPEAKER_04
+I just really want to see them like staple a Jersey to the front of a tree and have it
+
+[00:22:21] SPEAKER_04
+on a wagon and just see a team of like 11 guys immediately try to pull it out.
+
+[00:22:25] SPEAKER_03
+So that, or it's probably hard to hit a field goal with a helmet, but there's 11 people on
+
+[00:22:33] SPEAKER_03
+the field.
+
+[00:22:34] SPEAKER_03
+So what if you're throwing 11 helmets at once?
+
+[00:22:38] SPEAKER_03
+It's like you're carpet bombing.
+
+[00:22:41] SPEAKER_03
+It's like that the uprights with helmets that makes a pretty good wall.
+
+[00:22:45] SPEAKER_06
+When a plane takes off through like a flock of buds, it's like blows out one of the edges.
+
+[00:22:53] SPEAKER_04
+That's your defense.
+
+[00:22:54] SPEAKER_06
+Like you don't even rush the kicker.
+
+[00:22:56] SPEAKER_04
+Everybody just stands in place and throws their helmets in the air like it's a graduation
+
+[00:23:00] SPEAKER_04
+and just hope.
+
+[00:23:01] SPEAKER_04
+This is great.
+
+[00:23:02] SPEAKER_04
+We are innovating in the NFL.
+
+[00:23:05] SPEAKER_03
+Yeah, we are.
+
+[00:23:06] SPEAKER_03
+I feel like we're going to, I've been thinking a lot about 2022.
+
+[00:23:08] SPEAKER_03
+That's next year, right?
+
+[00:23:09] SPEAKER_03
+2022?
+
+[00:23:10] SPEAKER_03
+That's the one?
+
+[00:23:10] SPEAKER_03
+Yes.
+
+[00:23:11] SPEAKER_06
+Is this in 2022 yet?
+
+[00:23:12] SPEAKER_06
+Is this the last one of 2021?
+
+[00:23:14] SPEAKER_03
+I'm going to need some Eric on that.
+
+[00:23:16] SPEAKER_05
+This is the last one of 2021.
+
+[00:23:18] SPEAKER_03
+Okay.
+
+[00:23:19] SPEAKER_03
+Well, that's good.
+
+[00:23:19] SPEAKER_03
+I was trying to, I was thinking about next year and then I realized, this is about an
+
+[00:23:22] SPEAKER_03
+hour ago.
+
+[00:23:23] SPEAKER_03
+Then I realized, I don't know what this year is.
+
+[00:23:24] SPEAKER_03
+And I had to sit down and figure out it was 2021 still.
+
+[00:23:28] SPEAKER_03
+So next year is 2022.
+
+[00:23:29] SPEAKER_03
+I've been thinking about content and what we can do.
+
+[00:23:33] SPEAKER_03
+And I think, I think that we can hit sports in a big way next year.
+
+[00:23:38] SPEAKER_03
+And maybe this is it.
+
+[00:23:40] SPEAKER_03
+Maybe we need to, like, but maybe we need to, we need to be rule innovators.
+
+[00:23:44] SPEAKER_03
+In, in professional sports.
+
+[00:23:47] SPEAKER_03
+I think that'd be great.
+
+[00:23:48] SPEAKER_03
+That's Puss Puss.
+
+[00:23:49] SPEAKER_03
+No, no, that's, that's not Puss Puss.
+
+[00:23:51] SPEAKER_03
+Thank you.
+
+[00:23:51] SPEAKER_03
+That's a football.
+
+[00:23:52] SPEAKER_03
+He's got a squeaky football.
+
+[00:23:54] SPEAKER_03
+Nothing else on earth matters or has mattered to Henry Hatfield in the last 60 days other than
+
+[00:24:02] SPEAKER_03
+this fucking football.
+
+[00:24:04] SPEAKER_03
+And it is resilient.
+
+[00:24:05] SPEAKER_03
+He usually destroys the squeaky toy by now or the, the squeaky mechanism.
+
+[00:24:09] SPEAKER_03
+This thing is going strong.
+
+[00:24:11] SPEAKER_06
+I don't know if the audience has ever noticed, but you only hear the squeaks when Jeff's talking.
+
+[00:24:16] SPEAKER_06
+That's because I assume Nick has to cut out the squeaks from all of the other time during the podcast.
+
+[00:24:26] SPEAKER_04
+It's constant work.
+
+[00:24:27] SPEAKER_04
+It's one of my favorite things to hear somebody else talking and like nobody else speaking except you just hear the squeak.
+
+[00:24:34] SPEAKER_04
+Just the squeak in the background and someone else talking.
+
+[00:24:37] SPEAKER_04
+It's great.
+
+[00:24:38] SPEAKER_03
+What's funny too is, is like, and I, I truly believe this dog is as intelligent as a human.
+
+[00:24:44] SPEAKER_03
+Just, just doesn't have the vocal cords because this motherfucker has been in this room with me all day.
+
+[00:24:49] SPEAKER_03
+I've had three meetings in here, like hour long meetings.
+
+[00:24:52] SPEAKER_03
+He is silent.
+
+[00:24:54] SPEAKER_03
+He doesn't care, but he knows, like he knows when f*** face starts, it's time to start squeaking.
+
+[00:24:59] SPEAKER_03
+He doesn't do it on other podcasts that I sit in on, other videos that I guest in on.
+
+[00:25:05] SPEAKER_03
+No conference calls, no Zoom calls, no nothing.
+
+[00:25:07] SPEAKER_03
+But this particular podcast, he's like, he's like wakes up.
+
+[00:25:11] SPEAKER_03
+He's like, oh shit, I'm sorry.
+
+[00:25:12] SPEAKER_03
+I'm on the clock.
+
+[00:25:13] SPEAKER_03
+I gotta get, gotta get to it.
+
+[00:25:14] SPEAKER_03
+It's bizarre.
+
+[00:25:15] SPEAKER_03
+Oh man, I just looked at him and the way he's sitting, I saw into his asshole.
+
+[00:25:22] SPEAKER_03
+It was a lot of dog butthole.
+
+[00:25:28] SPEAKER_00
+This checkout line is not moving, but hey, maybe that's not so bad.
+
+[00:25:35] SPEAKER_00
+You've got a little extra time to remember that thing you forgot.
+
+[00:25:39] SPEAKER_00
+And that small win feels kind of huge.
+
+[00:25:42] SPEAKER_00
+Just like the surprisingly incredible taste of Minute Maid Zero Sugar.
+
+[00:25:46] SPEAKER_00
+Bring the juice with Minute Maid Zero Sugar.
+
+[00:25:48] SPEAKER_00
+Visit the chill juice aisle in your local grocery store today.
+
+[00:25:53] SPEAKER_06
+Have you ever seen those little things that people like put around the tails of their cats and stuff
+
+[00:25:58] SPEAKER_06
+and it like drapes a little anus blocker down so it like hangs in front of their asshole?
+
+[00:26:04] SPEAKER_03
+Like an asshole curtain?
+
+[00:26:07] SPEAKER_06
+Yeah, it's like if you don't want to see your cat's anus, don't get a cat.
+
+[00:26:11] SPEAKER_06
+Like what, that's the most, what if we sold a f***ed face anus curtain?
+
+[00:26:16] SPEAKER_03
+I hate this.
+
+[00:26:17] SPEAKER_03
+Oh, I love it.
+
+[00:26:18] SPEAKER_03
+I hate it.
+
+[00:26:19] SPEAKER_03
+Oh, is that a kitty butt plug?
+
+[00:26:20] SPEAKER_03
+Oh, that's even worse because that seems sexual.
+
+[00:26:22] SPEAKER_03
+No, it's not a plug.
+
+[00:26:23] SPEAKER_06
+It doesn't go in their ass.
+
+[00:26:24] SPEAKER_06
+What?
+
+[00:26:25] SPEAKER_06
+Eric showed is.
+
+[00:26:26] SPEAKER_06
+No, I think that's hanging around its tail.
+
+[00:26:28] SPEAKER_06
+It's hanging around its tail.
+
+[00:26:29] SPEAKER_03
+Oh, it looks like, it almost looks like a Medal of Honor.
+
+[00:26:32] SPEAKER_03
+You think they put that inside the cat?
+
+[00:26:35] SPEAKER_03
+I'm looking at a tiny thumbnail of a cat with a blue disc sticking out of its ass.
+
+[00:26:39] SPEAKER_03
+I don't know how it got there.
+
+[00:26:41] SPEAKER_03
+I don't.
+
+[00:26:43] SPEAKER_04
+What?
+
+[00:26:43] SPEAKER_04
+I don't.
+
+[00:26:45] SPEAKER_04
+Here's my issue with this product.
+
+[00:26:47] SPEAKER_04
+To me, it implies that you're looking at your cat's asshole so much that you bought a product
+
+[00:26:52] SPEAKER_04
+to stop doing it, that you just naturally weren't.
+
+[00:26:54] SPEAKER_04
+The fact that you had to spend money to get rid of this problem, I don't, it's just, it's
+
+[00:27:00] SPEAKER_04
+a strange vibe that that gives.
+
+[00:27:02] SPEAKER_04
+Yeah, it's kind of like, it's kind of like at that point, like you're the one that keeps
+
+[00:27:05] SPEAKER_04
+looking.
+
+[00:27:05] SPEAKER_99
+Yeah.
+
+[00:27:07] SPEAKER_04
+The way that Nick is defending this product, it's like he owned six of them.
+
+[00:27:10] SPEAKER_04
+It's like he's a big.
+
+[00:27:12] SPEAKER_03
+Nick is sitting on a cache of these things.
+
+[00:27:15] SPEAKER_03
+That, that being said, this is a product I want to sell now that I know it exists.
+
+[00:27:20] SPEAKER_03
+I absolutely want to put a face logo on that.
+
+[00:27:23] SPEAKER_06
+You should make sure it's not cruel.
+
+[00:27:25] SPEAKER_06
+Like it doesn't get in their way when they're cleaning themselves and stuff.
+
+[00:27:28] SPEAKER_06
+Because it doesn't seem right to hang something over the anus of another creature.
+
+[00:27:33] SPEAKER_03
+It doesn't.
+
+[00:27:35] SPEAKER_03
+Yeah, we do it to ourselves all day, every day.
+
+[00:27:37] SPEAKER_03
+Oh, that's true.
+
+[00:27:41] SPEAKER_03
+Like I've never, Gavin, you and I have been friends.
+
+[00:27:43] SPEAKER_03
+How old are you?
+
+[00:27:44] SPEAKER_03
+30, what?
+
+[00:27:45] SPEAKER_03
+33.
+
+[00:27:46] SPEAKER_03
+39, 33 years old.
+
+[00:27:47] SPEAKER_03
+I've known you since you were 15.
+
+[00:27:49] SPEAKER_03
+So what is that?
+
+[00:27:50] SPEAKER_03
+28 years?
+
+[00:27:51] SPEAKER_03
+15, 18 years?
+
+[00:27:52] SPEAKER_03
+Whatever, I don't know.
+
+[00:27:53] SPEAKER_03
+Whatever the math is.
+
+[00:27:55] SPEAKER_03
+18 years?
+
+[00:27:57] SPEAKER_03
+I've never seen your asshole.
+
+[00:27:58] SPEAKER_03
+I've never even come close to seeing your asshole.
+
+[00:28:00] SPEAKER_03
+You've never seen my penis either.
+
+[00:28:02] SPEAKER_03
+I've never seen your penis.
+
+[00:28:04] SPEAKER_03
+Unfortunately, that doesn't go, that conversation, we can't say that both ways.
+
+[00:28:08] SPEAKER_03
+You've seen my penis so much.
+
+[00:28:10] SPEAKER_03
+But yeah, I have no idea what your butthole looks like.
+
+[00:28:13] SPEAKER_03
+I mean, I don't entirely know.
+
+[00:28:15] SPEAKER_06
+I've never sort of gone in front of a mirror.
+
+[00:28:18] SPEAKER_03
+It's not an easy thing to get a look at.
+
+[00:28:20] SPEAKER_06
+What percent of Gavin have you seen?
+
+[00:28:22] SPEAKER_06
+Asks Eric.
+
+[00:28:23] SPEAKER_06
+He must have seen 90.
+
+[00:28:24] SPEAKER_06
+You see me in like swim trunks.
+
+[00:28:27] SPEAKER_03
+I've seen, I would say I've seen like 87% of Gavin.
+
+[00:28:32] SPEAKER_06
+I've probably seen 10% of Andrew.
+
+[00:28:34] SPEAKER_06
+Yeah.
+
+[00:28:35] SPEAKER_04
+I'm trying to think, like how do I even equate that?
+
+[00:28:37] SPEAKER_06
+Hands and face, pretty much.
+
+[00:28:39] SPEAKER_06
+Shins.
+
+[00:28:39] SPEAKER_04
+First, as a big shorts guy, I feel like 10% is a low number.
+
+[00:28:45] SPEAKER_04
+I feel like I think a pants guy, you can maybe make that case.
+
+[00:28:49] SPEAKER_06
+I mean, if I'd ever seen your back, I would probably have seen 80% of you, I assume.
+
+[00:28:53] SPEAKER_04
+Because it is all back.
+
+[00:28:55] SPEAKER_04
+Yeah, you're right.
+
+[00:28:56] SPEAKER_04
+You're right.
+
+[00:28:57] SPEAKER_04
+That's actually a great point.
+
+[00:28:58] SPEAKER_04
+It is 80% back.
+
+[00:29:01] SPEAKER_04
+I have a question for you, Gavin.
+
+[00:29:03] SPEAKER_06
+Okay.
+
+[00:29:03] SPEAKER_04
+Because we're talking about, Jeff and I were talking, and it kind of relates to something
+
+[00:29:06] SPEAKER_04
+else we should talk about that we're actually going to sell that we haven't mentioned on
+
+[00:29:10] SPEAKER_04
+this show yet.
+
+[00:29:12] SPEAKER_04
+Is that what I think it is?
+
+[00:29:13] SPEAKER_04
+Yeah.
+
+[00:29:14] SPEAKER_04
+But before we get to that, I'd love to hear Gavin's thought on this.
+
+[00:29:17] SPEAKER_04
+If you were to sell a niche product for a face and you knew it would be like, it would
+
+[00:29:23] SPEAKER_04
+be fine.
+
+[00:29:23] SPEAKER_04
+It would be profitable.
+
+[00:29:24] SPEAKER_04
+People would buy it.
+
+[00:29:25] SPEAKER_04
+Doesn't matter what it is.
+
+[00:29:26] SPEAKER_04
+What would you pick?
+
+[00:29:28] SPEAKER_06
+Oh my God.
+
+[00:29:29] SPEAKER_06
+Has it got to be something funny?
+
+[00:29:31] SPEAKER_04
+No, it can be whatever you want.
+
+[00:29:32] SPEAKER_04
+It doesn't have to be funny at all.
+
+[00:29:33] SPEAKER_06
+One of those things that goes over the bread bag to keep it closed.
+
+[00:29:39] SPEAKER_04
+What do you mean?
+
+[00:29:40] SPEAKER_04
+Like a clamp?
+
+[00:29:43] SPEAKER_04
+Like a bread clamp?
+
+[00:29:44] SPEAKER_06
+Not necessarily a clamp.
+
+[00:29:45] SPEAKER_06
+Sometimes you get those things where it's kind of like a...
+
+[00:29:47] SPEAKER_04
+Those plastic things?
+
+[00:29:50] SPEAKER_06
+Yeah, it looks like a dog tag with a little divot cut in the middle and you just kind of
+
+[00:29:54] SPEAKER_06
+shove it over the spun around bread packet.
+
+[00:29:58] SPEAKER_03
+Looks kind of like Henry's anus, actually, now that I think about it.
+
+[00:30:01] SPEAKER_04
+I don't feel like I'm imagining the right thing or Jeff is wildly incorrect based on
+
+[00:30:07] SPEAKER_04
+that description or...
+
+[00:30:08] SPEAKER_04
+I'm thinking of...
+
+[00:30:10] SPEAKER_04
+The thing that closes a bread...
+
+[00:30:11] SPEAKER_04
+Like when you buy it from the store, one of those plastic clips, right?
+
+[00:30:15] SPEAKER_04
+Yeah.
+
+[00:30:16] SPEAKER_04
+I'm thinking of the...
+
+[00:30:17] SPEAKER_02
+Hold on, I'm going to pull up a...
+
+[00:30:18] SPEAKER_04
+I would immediately...
+
+[00:30:19] SPEAKER_04
+Like, I appreciate...
+
+[00:30:20] SPEAKER_04
+I mean, that's a...
+
+[00:30:22] SPEAKER_04
+That's loading.
+
+[00:30:24] SPEAKER_04
+Oh, yeah.
+
+[00:30:25] SPEAKER_04
+Okay.
+
+[00:30:26] SPEAKER_04
+That's just a fascinating way to describe that, Jeff.
+
+[00:30:30] SPEAKER_03
+Holy shit!
+
+[00:30:31] SPEAKER_03
+That came out on my birthday, June 19th!
+
+[00:30:34] SPEAKER_03
+That's awesome!
+
+[00:30:38] SPEAKER_03
+That's fucking badass!
+
+[00:30:39] SPEAKER_03
+Me and the bread clip have the same birthday!
+
+[00:30:48] SPEAKER_06
+The bread expired on your birthday.
+
+[00:30:53] SPEAKER_06
+Look at a picture like that.
+
+[00:30:54] SPEAKER_06
+Do you ever wonder, who took that?
+
+[00:30:57] SPEAKER_06
+Like, who thought...
+
+[00:30:57] SPEAKER_06
+I'll get a close-up of this and post it.
+
+[00:31:01] SPEAKER_06
+Was it taken specifically for Wikipedia?
+
+[00:31:05] SPEAKER_06
+I don't...
+
+[00:31:06] SPEAKER_06
+Yeah.
+
+[00:31:06] SPEAKER_06
+Oh, dude, that's the official Wikipedia one?
+
+[00:31:09] SPEAKER_06
+Is Jeff's birthday?
+
+[00:31:10] SPEAKER_03
+That's amazing!
+
+[00:31:13] SPEAKER_03
+That's so good!
+
+[00:31:15] SPEAKER_03
+I don't know what that means, but it means...
+
+[00:31:17] SPEAKER_03
+It definitely means something.
+
+[00:31:20] SPEAKER_04
+Yeah.
+
+[00:31:21] SPEAKER_04
+Oh, I love it.
+
+[00:31:22] SPEAKER_04
+Face one of them.
+
+[00:31:23] SPEAKER_04
+I...
+
+[00:31:23] SPEAKER_04
+Do you use those?
+
+[00:31:24] SPEAKER_04
+I never use those.
+
+[00:31:26] SPEAKER_04
+After the first use.
+
+[00:31:28] SPEAKER_06
+Are you a...
+
+[00:31:29] SPEAKER_06
+Are you like a spinner and then crusher kind of guy?
+
+[00:31:32] SPEAKER_04
+Yeah, the spade and use the weight of the bread on the...
+
+[00:31:35] SPEAKER_04
+Yeah.
+
+[00:31:35] SPEAKER_04
+Yeah, generally.
+
+[00:31:37] SPEAKER_04
+They're a little tedious.
+
+[00:31:37] SPEAKER_04
+I find...
+
+[00:31:38] SPEAKER_04
+Those things.
+
+[00:31:39] SPEAKER_03
+I...
+
+[00:31:39] SPEAKER_03
+I...
+
+[00:31:40] SPEAKER_03
+A spin and tuck is what you do...
+
+[00:31:42] SPEAKER_03
+What's a spin and tuck?
+
+[00:31:43] SPEAKER_03
+It's exactly what we just described.
+
+[00:31:45] SPEAKER_03
+Yeah, you spin it and then you put the end under the bread and let gravity handle it.
+
+[00:31:49] SPEAKER_03
+Yeah.
+
+[00:31:50] SPEAKER_03
+I do that as well, but only after that piece of shit little clip breaks on the second use.
+
+[00:31:54] SPEAKER_03
+Because they suck.
+
+[00:31:55] SPEAKER_03
+So if we had a high quality...
+
+[00:31:56] SPEAKER_03
+I mean, that one's probably good.
+
+[00:31:57] SPEAKER_03
+That's a display model.
+
+[00:31:58] SPEAKER_03
+I'm sure that one's made out of titanium or something, but yeah.
+
+[00:32:00] SPEAKER_06
+What if we had a high quality aluminium custom cut f*** face bread closer?
+
+[00:32:08] SPEAKER_06
+I don't think you'd be a spin and tuck guy after that.
+
+[00:32:11] SPEAKER_06
+What if it was really nice and smooth to put on too?
+
+[00:32:14] SPEAKER_06
+You didn't have to like get it caught in the plastic.
+
+[00:32:16] SPEAKER_06
+It was just like a deluxe premium item.
+
+[00:32:18] SPEAKER_04
+I love this idea because I feel like this product was invented and hasn't been innovated on since that time.
+
+[00:32:24] SPEAKER_04
+It's been the exact same for however many years.
+
+[00:32:27] SPEAKER_04
+We could even make it collectible.
+
+[00:32:28] SPEAKER_03
+Yeah.
+
+[00:32:29] SPEAKER_04
+Collectible bread clip?
+
+[00:32:31] SPEAKER_04
+Yeah, like everyone has a different date on it and there's one for every day of the year.
+
+[00:32:35] SPEAKER_03
+You know how we could get away with this too?
+
+[00:32:37] SPEAKER_03
+This is how we capitalize on this.
+
+[00:32:39] SPEAKER_03
+This is great.
+
+[00:32:40] SPEAKER_03
+This is the new metal straw.
+
+[00:32:42] SPEAKER_03
+Do you remember when everybody got all up in arms about straws and then they were like,
+
+[00:32:46] SPEAKER_03
+holy shit, they're destroying the environment?
+
+[00:32:47] SPEAKER_03
+This is plastic too.
+
+[00:32:49] SPEAKER_03
+We gotta eradicate plastic bread clips.
+
+[00:32:51] SPEAKER_03
+They're destroying the fish.
+
+[00:32:53] SPEAKER_03
+That's a fish killer right there.
+
+[00:32:54] SPEAKER_03
+You're looking at that thing murdered a trout.
+
+[00:32:57] SPEAKER_03
+You need a metal aluminium permanent bread clip.
+
+[00:33:00] SPEAKER_03
+You buy it once you have it for the rest of your f***ing life and you save the fish.
+
+[00:33:05] SPEAKER_03
+Save the world.
+
+[00:33:06] SPEAKER_03
+Think about future generations.
+
+[00:33:07] SPEAKER_03
+Think about our children for God's sakes.
+
+[00:33:09] SPEAKER_03
+But are they selling the bread just open then?
+
+[00:33:11] SPEAKER_06
+Like how are they closing it in the stores?
+
+[00:33:13] SPEAKER_03
+Probably with a twist tie.
+
+[00:33:15] SPEAKER_04
+I thought you were saying.
+
+[00:33:17] SPEAKER_04
+I thought your point, Jeff, was that we make an alternative to that.
+
+[00:33:22] SPEAKER_04
+Yeah.
+
+[00:33:22] SPEAKER_04
+And then it's just the whole world adopts the f***ing face bread clip.
+
+[00:33:26] SPEAKER_04
+Yeah.
+
+[00:33:27] SPEAKER_04
+We take it over.
+
+[00:33:27] SPEAKER_04
+I love it.
+
+[00:33:28] SPEAKER_04
+I like this idea a lot.
+
+[00:33:29] SPEAKER_04
+I feel like I must have 10,000 of those in my house because I lose every one and I've
+
+[00:33:34] SPEAKER_04
+never seen them again.
+
+[00:33:35] SPEAKER_04
+I don't know where they go.
+
+[00:33:36] SPEAKER_03
+I have pieces of 10,000 of them for sure.
+
+[00:33:38] SPEAKER_06
+Why do you keep them?
+
+[00:33:42] SPEAKER_06
+What do you mean?
+
+[00:33:43] SPEAKER_06
+You said you had a load of them.
+
+[00:33:44] SPEAKER_06
+They get lost.
+
+[00:33:45] SPEAKER_04
+Yeah.
+
+[00:33:45] SPEAKER_04
+Like I lose them immediately and I've never seen them again.
+
+[00:33:49] SPEAKER_04
+So I feel they're somewhere.
+
+[00:33:50] SPEAKER_04
+So they have to be somewhere.
+
+[00:33:51] SPEAKER_06
+Ours needs to be magnetic then.
+
+[00:33:53] SPEAKER_06
+So you can have like a little storage spot for it when you've got no bread in.
+
+[00:33:59] SPEAKER_06
+And then you know exactly where it is every time you buy bread.
+
+[00:34:01] SPEAKER_04
+I love it.
+
+[00:34:02] SPEAKER_04
+OK, well, if it has to whatever we do, it has to be compatible with the wrist pocket and
+
+[00:34:09] SPEAKER_04
+how that carries, whether it's Velcro, whatever it is that needs to be part of that.
+
+[00:34:14] SPEAKER_03
+I feel like we've gotten off track on some of our wrist innovations the last couple of
+
+[00:34:18] SPEAKER_03
+weeks, which I mean, it's the holidays.
+
+[00:34:20] SPEAKER_03
+We've got a lot going on.
+
+[00:34:21] SPEAKER_03
+There's a lot of business to close at the end of the year.
+
+[00:34:23] SPEAKER_03
+So I think that we're going to dive back into that early, early in 2022.
+
+[00:34:27] SPEAKER_03
+And I agree with you.
+
+[00:34:28] SPEAKER_03
+I think this is we're going to end up.
+
+[00:34:30] SPEAKER_03
+Oh, my God.
+
+[00:34:31] SPEAKER_03
+We're going to have the most amazing utility belt of dumb shit when we're done with this
+
+[00:34:35] SPEAKER_03
+thing.
+
+[00:34:37] SPEAKER_03
+Speaking of dumb ideas, I literally just had the best dumb idea while while you guys were
+
+[00:34:42] SPEAKER_03
+talking about this.
+
+[00:34:42] SPEAKER_03
+I was thinking of shit we could sell that people don't currently sell that makes so
+
+[00:34:47] SPEAKER_03
+much sense.
+
+[00:34:48] SPEAKER_03
+We sell two left socks, right?
+
+[00:34:49] SPEAKER_03
+That's a dumb joke that we have because of my sock issue.
+
+[00:34:52] SPEAKER_06
+We kind of know what nobody saw the left left sock on the right.
+
+[00:34:56] SPEAKER_03
+Yeah, we saw the left left sock on the right left sock.
+
+[00:34:58] SPEAKER_03
+Do you know what nobody on earth sells?
+
+[00:35:01] SPEAKER_03
+Go for it.
+
+[00:35:02] SPEAKER_03
+A pair of socks that has an extra sock.
+
+[00:35:05] SPEAKER_03
+Three socks.
+
+[00:35:07] SPEAKER_03
+Three socks.
+
+[00:35:08] SPEAKER_03
+Because you always lose a sock in the dryer, right?
+
+[00:35:11] SPEAKER_03
+So you buy a pack of socks, but it has a third extra sock.
+
+[00:35:15] SPEAKER_03
+Then you set that aside.
+
+[00:35:17] SPEAKER_03
+And in a month, when you can't find your other fucking sock because you did your laundry
+
+[00:35:21] SPEAKER_03
+and it's gone forever, you just break out the extra sock.
+
+[00:35:24] SPEAKER_03
+Boom.
+
+[00:35:24] SPEAKER_03
+It's the same thing as when you buy a button-up shirt and they sew that extra button on the
+
+[00:35:29] SPEAKER_03
+inside.
+
+[00:35:30] SPEAKER_03
+Yeah, but it's like they sew a shirt onto the inside of the shirt.
+
+[00:35:33] SPEAKER_03
+It makes no sense.
+
+[00:35:34] SPEAKER_03
+No, it makes total sense.
+
+[00:35:36] SPEAKER_03
+It makes total sense.
+
+[00:35:37] SPEAKER_03
+Everybody loses socks.
+
+[00:35:39] SPEAKER_03
+No, I agree.
+
+[00:35:40] SPEAKER_03
+I have a drawer full of unmatching socks because socks go missing constantly.
+
+[00:35:45] SPEAKER_03
+This makes sense.
+
+[00:35:47] SPEAKER_03
+Nobody should ever sell two socks again.
+
+[00:35:49] SPEAKER_03
+You should only sell socks in pairs of threes.
+
+[00:35:51] SPEAKER_06
+But if you're worried about it, buy two pairs of everything.
+
+[00:35:53] SPEAKER_06
+Four is better than three.
+
+[00:35:54] SPEAKER_06
+Why would you ever want three?
+
+[00:35:56] SPEAKER_06
+Because at least with four, you can use both pairs until you drop one.
+
+[00:36:00] SPEAKER_06
+That's ludicrous.
+
+[00:36:01] SPEAKER_03
+That's ludicrous.
+
+[00:36:02] SPEAKER_03
+Why stop at four?
+
+[00:36:03] SPEAKER_04
+Buy a hundred.
+
+[00:36:04] SPEAKER_04
+I agree with Jeff.
+
+[00:36:04] SPEAKER_04
+I think all socks need to be sold.
+
+[00:36:06] SPEAKER_04
+I do.
+
+[00:36:07] SPEAKER_04
+They need to be sold in odd numbers and then you have a separate drawer that is you're for
+
+[00:36:11] SPEAKER_04
+not in use socks.
+
+[00:36:13] SPEAKER_04
+And then whenever you're missing, you lose a sock, you go into the not in use socks.
+
+[00:36:17] SPEAKER_06
+Immediately at the beginning, you have spares.
+
+[00:36:20] SPEAKER_06
+If you have four, there's no waste from storing spares.
+
+[00:36:24] SPEAKER_06
+You just have socks all the time that can be worn.
+
+[00:36:26] SPEAKER_04
+No, because then I'll be upset that I've now lost.
+
+[00:36:29] SPEAKER_04
+Okay, so if I have three socks, let's say I have four.
+
+[00:36:32] SPEAKER_04
+Let's say I have two pairs, right?
+
+[00:36:33] SPEAKER_04
+I lose one sock.
+
+[00:36:35] SPEAKER_04
+Now I have a pair and a half.
+
+[00:36:37] SPEAKER_04
+And then I might lose another.
+
+[00:36:38] SPEAKER_04
+Then I have one pair.
+
+[00:36:39] SPEAKER_04
+If I have three socks.
+
+[00:36:39] SPEAKER_04
+It's the psychology behind it.
+
+[00:36:41] SPEAKER_04
+Yeah.
+
+[00:36:41] SPEAKER_04
+If I lose one.
+
+[00:36:42] SPEAKER_06
+You just described the worst case scenario being what you want.
+
+[00:36:46] SPEAKER_06
+You were like, that'll be down to the third.
+
+[00:36:48] SPEAKER_06
+No, no, no, no, no, no, no, no, it's inevitable.
+
+[00:36:49] SPEAKER_06
+No, no, no, no, he's right.
+
+[00:36:50] SPEAKER_04
+It will happen, but instead of losing two pairs, I have just gained one because I had a third.
+
+[00:36:57] SPEAKER_03
+Exactly.
+
+[00:36:57] SPEAKER_03
+When I buy four socks, I can't break.
+
+[00:37:00] SPEAKER_03
+Like, even if I'm buying, say I buy a pair of socks that comes with two extras.
+
+[00:37:03] SPEAKER_03
+I'm not buying a pair of socks that comes with two extras.
+
+[00:37:05] SPEAKER_03
+I'm buying two pairs of socks so that when I lose one of the socks, now I'm down a pair
+
+[00:37:10] SPEAKER_03
+of socks.
+
+[00:37:10] SPEAKER_03
+That fucking sucks.
+
+[00:37:11] SPEAKER_03
+But if I only buy one pair of socks, and then I lose a sock, if I can break out the
+
+[00:37:15] SPEAKER_03
+extra, then I'll back up a pair.
+
+[00:37:16] SPEAKER_03
+It makes total sense.
+
+[00:37:18] SPEAKER_03
+Oh my God.
+
+[00:37:19] SPEAKER_04
+We got to do this tomorrow.
+
+[00:37:22] SPEAKER_04
+I just, Jeff and I looking at a package that says one pair of socks plus two spares and
+
+[00:37:27] SPEAKER_04
+just be like, you can't fucking trick me.
+
+[00:37:29] SPEAKER_04
+That's just two pairs.
+
+[00:37:30] SPEAKER_04
+I'm not buying this bullshit.
+
+[00:37:35] SPEAKER_04
+Oh my God.
+
+[00:37:36] SPEAKER_06
+You're both psychopaths.
+
+[00:37:37] SPEAKER_03
+We're going to be rich psychopaths and we're going to be sitting on a fucking pile of gold
+
+[00:37:41] SPEAKER_03
+that socks built.
+
+[00:37:42] SPEAKER_04
+And then you know what we're going to do once we got all that fucking sock money, Gavin?
+
+[00:37:45] SPEAKER_04
+We're going to buy your bread clip right from underneath you.
+
+[00:37:47] SPEAKER_04
+We're going to jackson you and then there's nothing you can do about it.
+
+[00:37:51] SPEAKER_06
+You two are both about just kidding yourself.
+
+[00:37:54] SPEAKER_06
+It's like people who set their clocks 10 minutes.
+
+[00:37:56] SPEAKER_06
+Fuck.
+
+[00:37:57] SPEAKER_06
+What?
+
+[00:37:59] SPEAKER_04
+Did you travel in time 10 minutes when you said that?
+
+[00:38:04] SPEAKER_04
+Like it was, you left this plane of existence.
+
+[00:38:08] SPEAKER_04
+This is too annoying.
+
+[00:38:10] SPEAKER_03
+I love when your brain can't catch up to your mouth.
+
+[00:38:14] SPEAKER_03
+It is one of my favorite things.
+
+[00:38:16] SPEAKER_03
+Oh, shit.
+
+[00:38:19] SPEAKER_03
+You know what I mean?
+
+[00:38:20] SPEAKER_03
+Oh my God.
+
+[00:38:21] SPEAKER_04
+I wish I did.
+
+[00:38:22] SPEAKER_04
+I have two product ideas.
+
+[00:38:27] SPEAKER_04
+Okay.
+
+[00:38:28] SPEAKER_04
+Before Jeff has a new one.
+
+[00:38:29] SPEAKER_04
+I forgot you asked me this question.
+
+[00:38:31] SPEAKER_04
+Yeah, that's how we got here.
+
+[00:38:32] SPEAKER_06
+I'm saying what you wanted to come up with.
+
+[00:38:34] SPEAKER_04
+Do you want to say yours, Jeff?
+
+[00:38:35] SPEAKER_04
+Because yours were great, too.
+
+[00:38:37] SPEAKER_04
+I don't feel like we had a bad idea of this.
+
+[00:38:39] SPEAKER_03
+Mine are toilet related, typically.
+
+[00:38:43] SPEAKER_03
+I would like to sell face bidets.
+
+[00:38:47] SPEAKER_03
+I mean, we already humped bidets for fucking advertisers, right?
+
+[00:38:50] SPEAKER_03
+And it's something that I use every day of my life, multiple times a day.
+
+[00:38:54] SPEAKER_03
+It's something that's brought me a lot.
+
+[00:38:54] SPEAKER_03
+It's changed my life.
+
+[00:38:56] SPEAKER_03
+So in all seriousness, a face-branded bidet, I think, would be great.
+
+[00:39:01] SPEAKER_03
+Because I feel like it'd be spreading cleanliness to the world.
+
+[00:39:04] SPEAKER_03
+And I want to promote that.
+
+[00:39:05] SPEAKER_03
+The second one is more of a joke.
+
+[00:39:07] SPEAKER_03
+I think we should sell giant pink porta-potties.
+
+[00:39:09] SPEAKER_03
+I think that would be fun, too.
+
+[00:39:11] SPEAKER_03
+Full-size?
+
+[00:39:11] SPEAKER_03
+Like, functional?
+
+[00:39:13] SPEAKER_03
+Yeah.
+
+[00:39:13] SPEAKER_03
+Like, you always go down to, like, the park or, like, a construction site, and you see
+
+[00:39:19] SPEAKER_03
+it's, like, shit-o-matic, or, like, whatever their fucking brand is.
+
+[00:39:24] SPEAKER_03
+You know, the turd bird, or whatever.
+
+[00:39:26] SPEAKER_03
+Why not want it just says f*** face?
+
+[00:39:28] SPEAKER_03
+Yeah.
+
+[00:39:29] SPEAKER_03
+Yeah.
+
+[00:39:31] SPEAKER_06
+Yeah, I feel like...
+
+[00:39:32] SPEAKER_06
+F*** face, but for your butt.
+
+[00:39:35] SPEAKER_06
+It'd be cool to be at venues, like, when you see them all in a line.
+
+[00:39:38] SPEAKER_06
+Like, festival shitters.
+
+[00:39:40] SPEAKER_06
+If they all just said f*** face on them.
+
+[00:39:41] SPEAKER_06
+I just feel like no one's gonna buy a one-off f*** face bog.
+
+[00:39:46] SPEAKER_04
+I suggested we get some, like, bootleg Legos and have a build-your-own-shitter type thing.
+
+[00:39:51] SPEAKER_04
+Have your own little set, which could be great.
+
+[00:39:54] SPEAKER_03
+To which I suggested we should sell dioramas of Andrew's apartment room.
+
+[00:40:00] SPEAKER_03
+Let people, like, let people navigate around and move the sushi container, and, yeah, it'd
+
+[00:40:06] SPEAKER_03
+be fun.
+
+[00:40:07] SPEAKER_06
+I want to, like, a shot-for-shot remake of that Halo 3 diorama trailer.
+
+[00:40:11] SPEAKER_06
+I love it with all this s*** from Andrew's apartment.
+
+[00:40:15] SPEAKER_03
+Was that Halo 3, or was that Reach?
+
+[00:40:17] SPEAKER_06
+It was Halo 3.
+
+[00:40:18] SPEAKER_03
+Because it was Master Chief.
+
+[00:40:19] SPEAKER_03
+That was an amazing, amazing commercial.
+
+[00:40:22] SPEAKER_04
+So I have two product ideas, and one of them Jeff knows about.
+
+[00:40:25] SPEAKER_04
+Okay.
+
+[00:40:26] SPEAKER_04
+Okay.
+
+[00:40:27] SPEAKER_04
+Should I go with the one you know about Jeff, or should I go with the one I have today?
+
+[00:40:30] SPEAKER_04
+Because I think the one I have today is a real f***ing winner, as well.
+
+[00:40:33] SPEAKER_03
+Oh, let's go with the old one, and then we'll...
+
+[00:40:35] SPEAKER_03
+Okay, so the first one, this is, like, a strange...
+
+[00:40:37] SPEAKER_04
+I can't wait to hear your reaction to this.
+
+[00:40:39] SPEAKER_04
+You know the channel, Gavin, where it's just a burning log, and it's for, like, they play
+
+[00:40:43] SPEAKER_04
+it over the holiday season?
+
+[00:40:45] SPEAKER_04
+Yeah.
+
+[00:40:45] SPEAKER_04
+I want us to do one of those, but there's, like, no bit.
+
+[00:40:48] SPEAKER_04
+I just want us to make one of those, and I want to be the log guy, because I feel like
+
+[00:40:52] SPEAKER_04
+I'd be a great log guy.
+
+[00:40:54] SPEAKER_04
+I watch those...
+
+[00:40:55] SPEAKER_06
+What does the log guy do?
+
+[00:40:56] SPEAKER_04
+Yeah, he, like, throws an extra log in.
+
+[00:40:58] SPEAKER_04
+He pokes the fire.
+
+[00:40:59] SPEAKER_04
+He distributes it.
+
+[00:40:59] SPEAKER_04
+He keeps the flame going.
+
+[00:41:01] SPEAKER_04
+You gotta have good technique.
+
+[00:41:01] SPEAKER_04
+I'll watch those for a long time, and I've got a lot of opinions on log technique.
+
+[00:41:05] SPEAKER_04
+Some of them, the guy just has no log management skills at all.
+
+[00:41:08] SPEAKER_04
+His placement is all off.
+
+[00:41:09] SPEAKER_04
+I would love to do one of those.
+
+[00:41:11] SPEAKER_04
+Do you see the log guy?
+
+[00:41:13] SPEAKER_04
+Yeah, every once in a while, you see the hand come into frame, and they start poking it
+
+[00:41:16] SPEAKER_04
+with the fire poker, and they throw another log in.
+
+[00:41:18] SPEAKER_04
+The log management, by some people in these tapes, leaves a lot to be desired, and I think
+
+[00:41:23] SPEAKER_04
+we could go in and fill this market up.
+
+[00:41:25] SPEAKER_06
+So we'll just see, like, your arms and shins?
+
+[00:41:27] SPEAKER_04
+Yeah, you'll just see my arm come in every once in a while.
+
+[00:41:29] SPEAKER_04
+And a poker.
+
+[00:41:30] SPEAKER_04
+You see me throw a log in.
+
+[00:41:31] SPEAKER_04
+When you see that fire be maintained, I will keep that fire going for the entirety of however
+
+[00:41:35] SPEAKER_04
+long this tape is.
+
+[00:41:36] SPEAKER_06
+You do realize there'll be tremendous judgment on your log management skills.
+
+[00:41:40] SPEAKER_04
+I am ready.
+
+[00:41:41] SPEAKER_06
+Because you've talked it up.
+
+[00:41:42] SPEAKER_04
+I've been practicing in the shadows for years, Gavin, and I am ready to be judged.
+
+[00:41:47] SPEAKER_04
+I have an elite log management skill, I believe.
+
+[00:41:50] SPEAKER_03
+Do you have access today to a fireplace?
+
+[00:41:53] SPEAKER_03
+No, I do not.
+
+[00:41:54] SPEAKER_03
+We need to get one.
+
+[00:41:56] SPEAKER_03
+Seriously, we need to get one.
+
+[00:41:57] SPEAKER_03
+We need to film this.
+
+[00:41:58] SPEAKER_03
+And then we just need to put it up on the face of YouTube.
+
+[00:42:01] SPEAKER_03
+We need to put the appropriate metadata on it.
+
+[00:42:06] SPEAKER_03
+Oh, it's got a loop.
+
+[00:42:06] SPEAKER_03
+It's got to be hours long.
+
+[00:42:08] SPEAKER_04
+Oh, it has to be so long.
+
+[00:42:09] SPEAKER_04
+At least eight hours, I'd assume.
+
+[00:42:11] SPEAKER_04
+Eight hours of real time?
+
+[00:42:12] SPEAKER_04
+Yeah, eight hours of real time.
+
+[00:42:13] SPEAKER_04
+Because you've got to have real time to put new logs in.
+
+[00:42:16] SPEAKER_04
+You've got to be able to display the log management skills.
+
+[00:42:19] SPEAKER_06
+I bet you don't even know how many logs you'll need.
+
+[00:42:22] SPEAKER_04
+Oh, you don't think I'm a big fucking fireplace guy around the holidays?
+
+[00:42:27] SPEAKER_04
+In my head, you're a long rookie.
+
+[00:42:29] SPEAKER_04
+Mmm.
+
+[00:42:30] SPEAKER_04
+These are some fucking...
+
+[00:42:31] SPEAKER_04
+You know what?
+
+[00:42:32] SPEAKER_04
+I was going to do it.
+
+[00:42:34] SPEAKER_04
+I was going to buy your dumb bread clip just as a gag.
+
+[00:42:37] SPEAKER_04
+It's now personal.
+
+[00:42:38] SPEAKER_04
+I'm not coming for that bread clip.
+
+[00:42:39] SPEAKER_04
+I'm going to get a patent in right now.
+
+[00:42:41] SPEAKER_04
+As soon as we're done recording, I'm patenting our new version.
+
+[00:42:43] SPEAKER_04
+It's only exists.
+
+[00:42:44] SPEAKER_04
+It's a bread clip.
+
+[00:42:45] SPEAKER_04
+No, not our new version.
+
+[00:42:47] SPEAKER_04
+Not the new version with the magnets and whatnot.
+
+[00:42:50] SPEAKER_04
+I'm just taking it.
+
+[00:42:52] SPEAKER_03
+I'm patenting it.
+
+[00:42:53] SPEAKER_03
+Can I say, Andrew, that this reminds me...
+
+[00:42:55] SPEAKER_03
+This is in support of your phenomenal idea.
+
+[00:42:58] SPEAKER_03
+This reminds me of a conversation I just had with my girlfriend on Sunday.
+
+[00:43:03] SPEAKER_03
+Before I even knew about this, before you even posed this question to me
+
+[00:43:06] SPEAKER_03
+and you explained the fire idea to me,
+
+[00:43:09] SPEAKER_03
+my girlfriend and I, we had a party at the house on Sunday for a work party for her.
+
+[00:43:14] SPEAKER_03
+And I, on the TV, just so you don't have like a fucking blame off TV,
+
+[00:43:19] SPEAKER_03
+I would turn on, we turned on one of those fire,
+
+[00:43:21] SPEAKER_03
+one of those like Christmas, you know, fireplace videos on YouTube.
+
+[00:43:24] SPEAKER_03
+And then we got obsessed with trying to find the seam in it
+
+[00:43:28] SPEAKER_03
+of where it repeats because it's clear that the log is not burning down.
+
+[00:43:35] SPEAKER_03
+And we probably fucked around with that thing throughout the course of the night.
+
+[00:43:40] SPEAKER_03
+Probably spent about, I probably spent about 20 minutes staring at that thing
+
+[00:43:43] SPEAKER_03
+just trying to catch it repeating and never able to
+
+[00:43:46] SPEAKER_03
+and just driving myself mad trying to figure out if the log was actually burning down
+
+[00:43:50] SPEAKER_03
+or if it was just, if it was just repeating.
+
+[00:43:53] SPEAKER_03
+And, uh, I'm all about it.
+
+[00:43:56] SPEAKER_03
+I think it's, I, I, now it's all I can think about is, uh,
+
+[00:43:59] SPEAKER_03
+I want, I want to watch a fire actually go down over the course of like eight hours.
+
+[00:44:05] SPEAKER_03
+I don't want to watch three minutes of a fire on loop for six hours.
+
+[00:44:09] SPEAKER_03
+No, those are bullshit.
+
+[00:44:10] SPEAKER_03
+I want to watch eight hours of Andrew tending a fire.
+
+[00:44:13] SPEAKER_03
+And I wish we, I wish I could film it today.
+
+[00:44:15] SPEAKER_03
+I could film it here.
+
+[00:44:16] SPEAKER_03
+I have a gas fireplace, unfortunately, so it'd be boring and lame.
+
+[00:44:20] SPEAKER_03
+We should future proof it.
+
+[00:44:21] SPEAKER_03
+We should shoot it in like 8K or something.
+
+[00:44:24] SPEAKER_03
+Oh my God, that's a great idea.
+
+[00:44:25] SPEAKER_03
+8K of footage of the fire.
+
+[00:44:31] SPEAKER_03
+Do you have the ability to shoot an 8K, Gavin?
+
+[00:44:34] SPEAKER_03
+Yeah.
+
+[00:44:36] SPEAKER_03
+Okay.
+
+[00:44:36] SPEAKER_03
+Coming in 2022, at some point, some point during year three, season three, four, or five,
+
+[00:44:44] SPEAKER_03
+potentially, F*** Face is going to release an eight hour fire tending film on YouTube
+
+[00:44:51] SPEAKER_03
+that is going to, you will ring in every holiday for the rest of your life in stunning 8K.
+
+[00:44:57] SPEAKER_03
+It is going to be so crisp.
+
+[00:44:59] SPEAKER_03
+The fire is going to be so well tended.
+
+[00:45:01] SPEAKER_03
+You'll swear you can feel the heat.
+
+[00:45:03] SPEAKER_03
+I'm going to need some more memory cards.
+
+[00:45:07] SPEAKER_06
+How big will that file be?
+
+[00:45:09] SPEAKER_06
+Oh, 20 terabytes.
+
+[00:45:14] SPEAKER_04
+Well, you got most of a year to figure it out.
+
+[00:45:16] SPEAKER_04
+Oh yeah.
+
+[00:45:17] SPEAKER_04
+This is product to you.
+
+[00:45:18] SPEAKER_04
+I mean, first one, I mean, that sounds viable within itself.
+
+[00:45:21] SPEAKER_04
+That's happening now.
+
+[00:45:22] SPEAKER_04
+That's locked in.
+
+[00:45:23] SPEAKER_04
+Second one, I think we could do.
+
+[00:45:25] SPEAKER_04
+It's a summer item.
+
+[00:45:26] SPEAKER_04
+So I think we're going into the season for it.
+
+[00:45:28] SPEAKER_04
+It's perfectly timed.
+
+[00:45:31] SPEAKER_04
+This is what I want to do.
+
+[00:45:32] SPEAKER_04
+Let me save a photo of this.
+
+[00:45:35] SPEAKER_04
+Summer.
+
+[00:45:35] SPEAKER_04
+What is a staple of summer?
+
+[00:45:37] SPEAKER_04
+Summer fun.
+
+[00:45:37] SPEAKER_04
+It's outside.
+
+[00:45:38] SPEAKER_04
+You're going to play.
+
+[00:45:39] SPEAKER_04
+What is a great childhood item?
+
+[00:45:43] SPEAKER_04
+A toy, I guess you could call it.
+
+[00:45:45] SPEAKER_04
+Paddling pool.
+
+[00:45:46] SPEAKER_04
+Paddling pool is a great one.
+
+[00:45:47] SPEAKER_04
+You're in the right.
+
+[00:45:48] SPEAKER_04
+Nick immediately nailed it.
+
+[00:45:51] SPEAKER_04
+Slip and slide.
+
+[00:45:52] SPEAKER_04
+A slip and slide is a fantastic thing.
+
+[00:45:54] SPEAKER_04
+My images don't want to update, so I'm not going to use an example.
+
+[00:45:57] SPEAKER_04
+I'm just going to explain it.
+
+[00:45:58] SPEAKER_04
+This is what I want.
+
+[00:45:59] SPEAKER_04
+Slip and slide.
+
+[00:46:00] SPEAKER_04
+You know how they have those things that you can inflate over a slip and slide?
+
+[00:46:03] SPEAKER_04
+Or maybe it's a little bit to the left of it.
+
+[00:46:05] SPEAKER_04
+I want one of those.
+
+[00:46:06] SPEAKER_04
+What's that of it?
+
+[00:46:07] SPEAKER_04
+Oh, it's just like a piece of it.
+
+[00:46:08] SPEAKER_04
+Sometimes it's an elephant.
+
+[00:46:09] SPEAKER_04
+Sometimes it's just like a visual prop.
+
+[00:46:11] SPEAKER_04
+It doesn't necessarily really matter.
+
+[00:46:17] SPEAKER_04
+The top of it is Pedro Martinez, and you can be Don Zimmer.
+
+[00:46:21] SPEAKER_04
+You run at Pedro Martinez, then slide down the slip and slide.
+
+[00:46:26] SPEAKER_04
+Get the real Don Zimmer experience.
+
+[00:46:29] SPEAKER_04
+I think we should do a Zimmer slide is what I think we should sell.
+
+[00:46:32] SPEAKER_06
+Is he holding out like an inflatable arm at the end that you just have to have hit you
+
+[00:46:35] SPEAKER_06
+right in the middle of the head and push you down?
+
+[00:46:37] SPEAKER_04
+I'm open to ideas.
+
+[00:46:40] SPEAKER_04
+I just want to slip and slide with Pedro Martinez at the front of it.
+
+[00:46:44] SPEAKER_03
+I think we should fully investigate that.
+
+[00:46:48] SPEAKER_03
+And assuming that we, for whatever reason, Pedro Martinez is not on board with this.
+
+[00:46:54] SPEAKER_03
+And obviously, he and the Zimmer estate would be.
+
+[00:46:57] SPEAKER_03
+But if we run into any kind of licensing issues, when you were saying it, I thought you kept
+
+[00:47:01] SPEAKER_03
+saying slip inside, and that got me thinking, what if we made a slip inside, a slip and slide
+
+[00:47:06] SPEAKER_03
+that's got a, like, it's like a tube that you, it's like inflatable.
+
+[00:47:11] SPEAKER_03
+And then so you slip, it's like instead of going on a slip and slide, you go through a
+
+[00:47:15] SPEAKER_03
+slip inside, and then you call it slip inside.
+
+[00:47:17] SPEAKER_03
+What's the benefit of thinking?
+
+[00:47:19] SPEAKER_03
+No, no, no, no, no, no.
+
+[00:47:20] SPEAKER_03
+You put some lights or something in it.
+
+[00:47:22] SPEAKER_03
+I don't know.
+
+[00:47:22] SPEAKER_04
+It's just like, I can round this idea out.
+
+[00:47:25] SPEAKER_04
+When you enter the tunnel, as you progress through it, it goes, which perfectly say
+
+[00:47:43] SPEAKER_04
+anyways, to what we need to talk about.
+
+[00:47:49] SPEAKER_03
+Nick doesn't, Nick doesn't know about this.
+
+[00:47:52] SPEAKER_03
+He wasn't here.
+
+[00:47:53] SPEAKER_06
+Eric, tell Nick, tell Nick what it sounds like.
+
+[00:47:56] SPEAKER_05
+Hey, Nick, we have, we talked about on our last break shit, we needed to create a new
+
+[00:48:02] SPEAKER_05
+piece of thing that, you know, that tube that turns over that goes, yeah, they're called
+
+[00:48:09] SPEAKER_05
+grown tubes, and baby, we're making them.
+
+[00:48:13] SPEAKER_03
+It's better than that, Nick.
+
+[00:48:15] SPEAKER_03
+And I'd like to apologize to the audience.
+
+[00:48:17] SPEAKER_03
+We made a promise a long, long time ago.
+
+[00:48:20] SPEAKER_03
+Maybe promise is a strong word.
+
+[00:48:21] SPEAKER_03
+We made a statement a long, long time ago that we were going to try to keep main, like
+
+[00:48:27] SPEAKER_03
+main face cannon out of the side stuff.
+
+[00:48:30] SPEAKER_03
+Like the face break shit is like side content.
+
+[00:48:33] SPEAKER_03
+I don't want, if you just want to listen to the podcast, I don't want you to miss stuff
+
+[00:48:36] SPEAKER_03
+by that happens in the break shit because you don't want to watch that content.
+
+[00:48:40] SPEAKER_03
+I get it.
+
+[00:48:41] SPEAKER_03
+But unfortunately, something happened so brilliant on the last break shit that they, as the episode
+
+[00:48:48] SPEAKER_03
+was starting, which by the way, feel free to watch this on YouTube or the Rooster Teeth
+
+[00:48:52] SPEAKER_03
+site.
+
+[00:48:52] SPEAKER_03
+It's a phenomenal video.
+
+[00:48:53] SPEAKER_03
+As the episode was starting, the guys got into a conversation about those grown tubes
+
+[00:48:59] SPEAKER_03
+and what they were called.
+
+[00:49:00] SPEAKER_03
+And before the episode was over, merch had, our e-com had already, had already mocked up,
+
+[00:49:07] SPEAKER_03
+mocked up a version of it and submitted.
+
+[00:49:10] SPEAKER_03
+We approved it.
+
+[00:49:11] SPEAKER_03
+Eric approved it.
+
+[00:49:12] SPEAKER_03
+And we had already submitted the order.
+
+[00:49:14] SPEAKER_03
+They are on their way right now.
+
+[00:49:16] SPEAKER_03
+Before the face break shit episode was over, this product was on order and we're going to
+
+[00:49:22] SPEAKER_03
+call it the fuck stick.
+
+[00:49:23] SPEAKER_03
+And I think it's phenomenal.
+
+[00:49:26] SPEAKER_03
+And I, we also discovered I'd never, I had never seen or heard of these things before.
+
+[00:49:30] SPEAKER_03
+I don't know how you've avoided them.
+
+[00:49:31] SPEAKER_03
+It makes no sense.
+
+[00:49:32] SPEAKER_03
+They didn't exist when I was a kid.
+
+[00:49:34] SPEAKER_05
+It was three people on set just going, and Jeff going, what, what, what?
+
+[00:49:42] SPEAKER_05
+It was perfect.
+
+[00:49:43] SPEAKER_06
+Should we all do it now?
+
+[00:49:44] SPEAKER_06
+Should we all do it at the same time to recreate what it was like?
+
+[00:49:46] SPEAKER_05
+Yeah, go ahead.
+
+[00:49:55] SPEAKER_03
+So if you, if you didn't watch the face break shit, you missed an hour and a half of that.
+
+[00:50:00] SPEAKER_03
+Anyway, I thought that was, that was a brilliant example of, of creativity and action.
+
+[00:50:08] SPEAKER_03
+Had the idea.
+
+[00:50:09] SPEAKER_03
+And before the show was over, it was, it was already being built.
+
+[00:50:13] SPEAKER_03
+I fucking, I don't know when they're going to come out, but.
+
+[00:50:15] SPEAKER_03
+You can watch it all on YouTube.
+
+[00:50:16] SPEAKER_03
+You can.
+
+[00:50:17] SPEAKER_03
+Yeah, yeah, yeah.
+
+[00:50:17] SPEAKER_03
+We have a YouTube channel.
+
+[00:50:18] SPEAKER_03
+It's going to be, go to, and you, I'll be honest, I'm not trying to market our shit
+
+[00:50:22] SPEAKER_03
+here or anything.
+
+[00:50:23] SPEAKER_03
+Far be it.
+
+[00:50:23] SPEAKER_03
+But you should probably go to that YouTube channel and bookmark it anyway, because in some
+
+[00:50:27] SPEAKER_03
+six months to a year, the world's best 8K fire footage is going to come
+
+[00:50:32] SPEAKER_03
+out and you're going to want to go back and watch it.
+
+[00:50:35] SPEAKER_04
+I would be terrible for the environment, but it would be really funny to do one of those
+
+[00:50:39] SPEAKER_04
+where it is one of those videos for like seven hours.
+
+[00:50:42] SPEAKER_04
+And then the fire leaves the fireplace.
+
+[00:50:45] SPEAKER_04
+And then by like the end of the stream, the entire house around it burns down.
+
+[00:50:49] SPEAKER_04
+Everything's destroyed.
+
+[00:50:51] SPEAKER_04
+It just slowly zooms out as more catches on fire.
+
+[00:50:55] SPEAKER_04
+Yeah.
+
+[00:50:55] SPEAKER_04
+Or maybe it never even leaves frame.
+
+[00:50:56] SPEAKER_04
+It's just like you, you kind of pull out from the beginning and can see the whole
+
+[00:50:59] SPEAKER_04
+fireplace instead of being like right up in it like it typically is.
+
+[00:51:03] SPEAKER_04
+And just like, I don't know, maybe like a stocking catches on fire and then it just
+
+[00:51:07] SPEAKER_04
+expands and then the whole wall eventually goes.
+
+[00:51:10] SPEAKER_04
+I'd be right.
+
+[00:51:11] SPEAKER_04
+Terrible.
+
+[00:51:11] SPEAKER_04
+Shouldn't do it.
+
+[00:51:12] SPEAKER_04
+But it'd be funny.
+
+[00:51:13] SPEAKER_06
+I mean, worse is done for movies.
+
+[00:51:15] SPEAKER_06
+They burn shit all the time.
+
+[00:51:16] SPEAKER_04
+That's fair.
+
+[00:51:17] SPEAKER_04
+It's true.
+
+[00:51:17] SPEAKER_04
+It's a very good point.
+
+[00:51:19] SPEAKER_03
+As long as you get the shot, that's all that matters.
+
+[00:51:20] SPEAKER_04
+It is.
+
+[00:51:21] SPEAKER_04
+Yes.
+
+[00:51:22] SPEAKER_04
+Literally all that matters.
+
+[00:51:23] SPEAKER_03
+I'm very excited to get my hands on a fuck stick and make the noise because I only know
+
+[00:51:28] SPEAKER_03
+the noise through you guys.
+
+[00:51:30] SPEAKER_03
+And so I'm excited to see it in action.
+
+[00:51:33] SPEAKER_06
+Which movie has the worst carbon footprint, do you think?
+
+[00:51:36] SPEAKER_06
+In terms of like how much stuff or how much explosions or maybe something like Apollo 13
+
+[00:51:41] SPEAKER_06
+where they actually kept doing like vomit comet to get the zero G stuff.
+
+[00:51:46] SPEAKER_06
+I bet that was terrible for the environment.
+
+[00:51:49] SPEAKER_03
+Oh, man.
+
+[00:51:50] SPEAKER_03
+I watched.
+
+[00:51:51] SPEAKER_03
+Oh, hold on.
+
+[00:51:52] SPEAKER_03
+You talk amongst yourselves.
+
+[00:51:52] SPEAKER_03
+I'm going to Google something.
+
+[00:51:55] SPEAKER_03
+I'm trying to think.
+
+[00:51:58] SPEAKER_04
+Does it have to be that sound?
+
+[00:52:00] SPEAKER_04
+Can we make it whatever we want?
+
+[00:52:01] SPEAKER_04
+Like what is how does that sound get created?
+
+[00:52:04] SPEAKER_06
+I think it's certainly physics of it.
+
+[00:52:06] SPEAKER_04
+Yeah.
+
+[00:52:06] SPEAKER_04
+I was going to say nobody picked that sound.
+
+[00:52:08] SPEAKER_04
+That just had to have been the result of there wasn't someone somewhere accidentally
+
+[00:52:12] SPEAKER_04
+put something in a tube once and went Jesus.
+
+[00:52:15] SPEAKER_04
+It's not like taking it back to Breaking Bad where they're trying the different dipping
+
+[00:52:19] SPEAKER_04
+sauces.
+
+[00:52:19] SPEAKER_04
+There's no guy sitting at a table flipping those over to a variety of noises.
+
+[00:52:24] SPEAKER_04
+It was like that one.
+
+[00:52:25] SPEAKER_06
+I want that one.
+
+[00:52:26] SPEAKER_06
+I feel like they didn't audition that sound.
+
+[00:52:28] SPEAKER_06
+What do you think the alternative sounds would have been if they were creating them deliberately?
+
+[00:52:37] SPEAKER_04
+I don't know, but I like the idea of it being like a child invented it.
+
+[00:52:41] SPEAKER_04
+It was just like, dad, I want a toy that goes.
+
+[00:52:43] SPEAKER_06
+If a slide whistle is from heaven, the stick thing is from hell in terms of the noise it makes.
+
+[00:52:54] SPEAKER_04
+Undeniable.
+
+[00:52:55] SPEAKER_04
+Are you done Googling, Jeff?
+
+[00:52:56] SPEAKER_04
+Yeah.
+
+[00:52:56] SPEAKER_04
+What is Jeff doing?
+
+[00:52:57] SPEAKER_04
+Yeah.
+
+[00:52:58] SPEAKER_04
+Like what?
+
+[00:52:58] SPEAKER_04
+How long?
+
+[00:52:59] SPEAKER_04
+No, I'm working on it.
+
+[00:53:00] SPEAKER_04
+I'm working on it.
+
+[00:53:01] SPEAKER_04
+Working on what?
+
+[00:53:02] SPEAKER_04
+He's trying to find a movie thing.
+
+[00:53:04] SPEAKER_03
+I'm just trying to find a...
+
+[00:53:05] SPEAKER_03
+I watched a movie last year.
+
+[00:53:07] SPEAKER_03
+We're talking about carbon footprint and just like terrible things.
+
+[00:53:11] SPEAKER_03
+I watched this movie.
+
+[00:53:12] SPEAKER_03
+You're filling Eric in like he wasn't listening.
+
+[00:53:15] SPEAKER_03
+I watched this movie.
+
+[00:53:16] SPEAKER_03
+You haven't been here the whole time.
+
+[00:53:17] SPEAKER_05
+I got it.
+
+[00:53:18] SPEAKER_05
+You don't have to reset.
+
+[00:53:19] SPEAKER_05
+It's a podcast.
+
+[00:53:19] SPEAKER_03
+Yeah, I'm trying to find the name of the movie.
+
+[00:53:25] SPEAKER_03
+It was, I believe it was a Michael Antonioni film from the 60s and I believe it starred Monica Vitti.
+
+[00:53:35] SPEAKER_03
+But I can't seem to track it down.
+
+[00:53:37] SPEAKER_03
+Anyway, the point is it was a really cool movie about, I don't know, just people in Italy in the 50s that were disconnected from their lives.
+
+[00:53:49] SPEAKER_03
+But it was kind of like a, it had kind of like a weird like industrial, almost like pre-David Lynch industrial kind of like portending that industrialization is going to destroy society kind of bent to it.
+
+[00:54:04] SPEAKER_03
+And it was a black and white film, but they wanted to, even such, they wanted to like desaturate the world.
+
+[00:54:12] SPEAKER_03
+And so they cut a bunch of lead, like silver paint and gray paint and they painted all the trees and all of the nature permanently with this paint and just killed all the foliage in this area of Italy to make it look more industrial.
+
+[00:54:29] SPEAKER_03
+Then, you know, they didn't realize what they were doing at the time.
+
+[00:54:30] SPEAKER_03
+But yeah, it was just fucking brutal.
+
+[00:54:32] SPEAKER_03
+And I bet that kind of shit happened all the time from like 1920 to like 1960.
+
+[00:54:36] SPEAKER_04
+I was going to say Michael Bay, but I think you won.
+
+[00:54:39] SPEAKER_04
+I think you won.
+
+[00:54:40] SPEAKER_04
+I think you took it with that.
+
+[00:54:41] SPEAKER_03
+Yeah, it was fucked up.
+
+[00:54:43] SPEAKER_03
+It's terrible.
+
+[00:54:44] SPEAKER_03
+Was it Lenote?
+
+[00:54:45] SPEAKER_03
+No, it wasn't that one.
+
+[00:54:46] SPEAKER_03
+Anyway, I'll figure it out some of it.
+
+[00:54:48] SPEAKER_03
+It's not important.
+
+[00:54:48] SPEAKER_03
+You guys are never going to watch it.
+
+[00:54:49] SPEAKER_03
+Yeah.
+
+[00:54:50] SPEAKER_03
+Well, since we have to record two of these, we should wrap this up.
+
+[00:54:53] SPEAKER_03
+Happy New Year to everyone watching.
+
+[00:54:55] SPEAKER_03
+Happy New Year.
+
+[00:54:56] SPEAKER_04
+Yes.
+
+[00:54:57] SPEAKER_04
+Absolutely.
+
+[00:54:57] SPEAKER_03
+What are you guys going to do for New Year?
+
+[00:54:59] SPEAKER_03
+What were, I guess, yeah, what are your big New Year's plans?
+
+[00:55:01] SPEAKER_03
+Do you guys have anything crazy you're going to do?
+
+[00:55:03] SPEAKER_04
+New Year's plans.
+
+[00:55:06] SPEAKER_04
+Well, immediately when we're done here, I'm going to the patents office and I'm going
+
+[00:55:10] SPEAKER_04
+to file a new product called the Edgewise.
+
+[00:55:22] SPEAKER_06
+People were kicking off about Edgewise, comparing it to like, well, what about like clockwise?
+
+[00:55:29] SPEAKER_06
+And it's like, how does that make any sense either?
+
+[00:55:32] SPEAKER_06
+You want to slowly rotate your point into a conversation?
+
+[00:55:37] SPEAKER_06
+What do you want about?
+
+[00:55:38] SPEAKER_04
+There's nothing I love more than slowly rotating my point into one of our podcast conversations.
+
+[00:55:43] SPEAKER_04
+It's something I strive for every show we record.
+
+[00:55:48] SPEAKER_03
+And that's a wrap on 2021.
+
+[00:55:51] SPEAKER_03
+See you guys next year.
+
+[00:55:52] SPEAKER_03
+Here's a little preview of 2022 from Mr. Petillo.
+
+[00:55:56] SPEAKER_01
+Hey guys, minor league fan Jack here with a look at next week's episode of F*** Face.
+
+[00:56:00] SPEAKER_01
+Andrew needs a new computer very badly.
+
+[00:56:03] SPEAKER_01
+And he didn't look at the circle.
+
+[00:56:06] SPEAKER_01
+Gavin thinks he's funny.
+
+[00:56:07] SPEAKER_01
+Seriously, Andrew needs a new computer.
+
+[00:56:10] SPEAKER_01
+Jeff continues to defend Home Alone.
+
+[00:56:13] SPEAKER_01
+And once again, Andrew does not eat the pencil.
+
+[00:56:16] SPEAKER_01
+All that and more on the next episode of F*** Face.
+
+[00:56:19] SPEAKER_01
+Thanks for having me.
+
+[00:56:19] SPEAKER_99
+Thanks for having me on this.

@@ -1,0 +1,7400 @@
+{
+ "index": 267,
+ "title": "Kicker Picker 2024 // Regulation Supplemental",
+ "pub_date": "2024-09-12T13:00:00+00:00",
+ "model": "large-v3-turbo",
+ "diarization_model": "pyannote/speaker-diarization-3.1",
+ "language": "en",
+ "language_probability": 1,
+ "duration_sec": 2172.4201875,
+ "speaker_embeddings": {
+  "SPEAKER_00": [
+   -0.252272,
+   0.185644,
+   -0.054403,
+   -0.246563,
+   -0.126563,
+   0.105051,
+   0.205126,
+   -0.024575,
+   0.263041,
+   -0.054313,
+   0.009896,
+   0.311682,
+   0.208599,
+   -0.04424,
+   0.138769,
+   -0.395789,
+   -0.055024,
+   -0.164829,
+   0.382564,
+   0.092067,
+   -0.172079,
+   0.065761,
+   -0.098061,
+   0.095724,
+   0.220234,
+   0.066312,
+   0.052096,
+   0.189966,
+   -0.184205,
+   0.110459,
+   0.024857,
+   0.086142,
+   0.039616,
+   -0.423111,
+   -0.002986,
+   -0.036321,
+   -0.192784,
+   -0.110891,
+   0.210615,
+   -0.178623,
+   -0.005995,
+   -0.23561,
+   0.157779,
+   -0.180535,
+   -0.181025,
+   0.003789,
+   -0.13206,
+   0.009189,
+   0.034609,
+   0.399494,
+   0.41986,
+   0.129841,
+   0.228086,
+   -0.125582,
+   0.096464,
+   0.060537,
+   0.017052,
+   -0.124038,
+   -0.125375,
+   0.131706,
+   0.124985,
+   -0.081773,
+   0.171576,
+   -0.063074,
+   0.14735,
+   0.247284,
+   -0.009392,
+   0.001647,
+   -0.389584,
+   -0.132409,
+   -0.277693,
+   -0.199473,
+   0.00882,
+   -0.617399,
+   0.075651,
+   0.182426,
+   -0.186479,
+   -0.14843,
+   0.147668,
+   0.16674,
+   -0.082375,
+   -0.1757,
+   -0.033575,
+   0.129462,
+   0.176574,
+   0.029977,
+   0.004243,
+   -0.037501,
+   0.023509,
+   -0.204738,
+   0.290207,
+   0.043842,
+   -0.14247,
+   -0.083625,
+   0.007775,
+   -0.299109,
+   0.413987,
+   0.307578,
+   -0.246471,
+   0.371582,
+   0.085155,
+   0.092557,
+   0.204141,
+   -0.132753,
+   -0.220848,
+   0.031235,
+   -0.082885,
+   -0.191643,
+   -0.082698,
+   -0.096872,
+   0.359275,
+   -0.077012,
+   -0.081543,
+   0.158285,
+   -0.306753,
+   -0.063862,
+   -0.166696,
+   -0.22269,
+   -0.330303,
+   -0.232286,
+   0.277533,
+   -0.078546,
+   0.139156,
+   0.303864,
+   -0.180448,
+   0.220756,
+   -0.07688,
+   -0.046463,
+   -0.092603,
+   0.234855,
+   -0.271383,
+   0.280002,
+   0.188562,
+   0.192041,
+   0.124715,
+   -0.175503,
+   -0.388065,
+   0.425156,
+   0.137867,
+   -0.056284,
+   -0.018428,
+   0.224939,
+   0.321419,
+   -0.159537,
+   -0.314377,
+   -0.042159,
+   -0.271643,
+   0.05879,
+   0.12536,
+   0.137947,
+   0.157903,
+   -0.215651,
+   -0.232325,
+   0.198803,
+   -0.243165,
+   -0.091581,
+   -0.178031,
+   0.006785,
+   0.177636,
+   -0.016255,
+   0.044399,
+   0.266126,
+   -0.019925,
+   0.240002,
+   -0.014057,
+   0.090818,
+   -0.121318,
+   0.237759,
+   -0.261191,
+   -0.410756,
+   -0.089719,
+   0.216593,
+   0.001562,
+   0.14579,
+   0.200364,
+   -0.160235,
+   0.28933,
+   -0.045761,
+   -0.201408,
+   -0.14676,
+   -0.030987,
+   -0.176388,
+   -0.33291,
+   0.147295,
+   0.143852,
+   0.099378,
+   0.114337,
+   0.061388,
+   -0.317388,
+   0.155191,
+   -0.237421,
+   0.184477,
+   -0.171856,
+   -0.170088,
+   -0.132979,
+   0.253137,
+   -0.007307,
+   0.092413,
+   0.245033,
+   0.073016,
+   0.063245,
+   -0.28763,
+   0.174686,
+   0.30967,
+   0.049111,
+   -0.002972,
+   0.123276,
+   -0.176709,
+   0.007766,
+   0.023897,
+   -0.098003,
+   -0.159267,
+   -0.023582,
+   -0.114915,
+   0.015812,
+   -0.301429,
+   -0.011773,
+   -0.32596,
+   0.003767,
+   -0.020111,
+   -0.174101,
+   0.057373,
+   -0.103898,
+   0.20525,
+   -0.024052,
+   -0.262098,
+   0.239241,
+   -0.545789,
+   -0.194977,
+   -0.391981,
+   0.081436,
+   -0.097449,
+   -0.177144,
+   0.171399,
+   0.246975,
+   0.075014,
+   -0.175823,
+   0.043772,
+   -0.18847,
+   -0.268218,
+   -0.334192,
+   0.079534,
+   0.140507,
+   -0.294988,
+   -0.201375,
+   -0.014454,
+   0.096534,
+   -0.021436,
+   0.194935,
+   0.080918,
+   -0.080503,
+   -0.134144,
+   0.083362,
+   0.136361,
+   0.02152,
+   0.028198
+  ],
+  "SPEAKER_01": [
+   -0.28344,
+   -0.041562,
+   -0.053419,
+   -0.21607,
+   0.079418,
+   -0.066914,
+   0.322178,
+   0.081863,
+   -0.087816,
+   0.180548,
+   0.116807,
+   -0.008399,
+   -0.05782,
+   0.199655,
+   -0.171557,
+   -0.387788,
+   -0.314937,
+   -0.103092,
+   0.170944,
+   -0.084853,
+   -0.400223,
+   0.12156,
+   0.170124,
+   0.174113,
+   0.150065,
+   0.126355,
+   0.370105,
+   -0.020369,
+   -0.206213,
+   0.126284,
+   0.29693,
+   0.09433,
+   -0.134394,
+   -0.241179,
+   -0.175762,
+   -0.196741,
+   0.124398,
+   -0.032812,
+   0.082203,
+   -0.086798,
+   0.14088,
+   0.020343,
+   -0.132078,
+   0.082752,
+   0.236986,
+   -0.007756,
+   -0.2208,
+   0.026647,
+   0.246077,
+   0.146268,
+   0.14215,
+   -0.049283,
+   -0.079655,
+   -0.131879,
+   0.334683,
+   -0.079303,
+   0.101556,
+   -0.101062,
+   -0.234583,
+   -0.073661,
+   -0.033453,
+   -0.250149,
+   0.033408,
+   0.115083,
+   -0.02169,
+   0.02497,
+   -0.085969,
+   0.036407,
+   0.246921,
+   0.006089,
+   -0.184531,
+   0.014531,
+   0.138373,
+   -0.410555,
+   0.018867,
+   0.050723,
+   -0.382337,
+   -0.043975,
+   -0.097449,
+   -0.139677,
+   -0.08015,
+   -0.353667,
+   0.230264,
+   -0.249211,
+   -0.203918,
+   -0.041246,
+   0.053697,
+   0.207228,
+   0.155513,
+   -0.160928,
+   0.219705,
+   0.13891,
+   0.441305,
+   0.174036,
+   0.088706,
+   -0.074656,
+   -0.008207,
+   0.051655,
+   0.251338,
+   0.03765,
+   -0.1179,
+   -0.124141,
+   0.141538,
+   -0.144908,
+   -0.185604,
+   -0.014494,
+   0.26956,
+   0.212716,
+   0.021828,
+   -0.393809,
+   -0.018003,
+   -0.269222,
+   -0.113045,
+   -0.245799,
+   -0.063811,
+   0.045754,
+   -0.150961,
+   0.009306,
+   -0.257296,
+   0.189318,
+   -0.054391,
+   0.125852,
+   0.154691,
+   0.133725,
+   -0.212048,
+   0.357289,
+   0.008679,
+   -0.24539,
+   -0.223004,
+   0.180714,
+   -0.142404,
+   0.055496,
+   0.11115,
+   0.140726,
+   -0.136298,
+   -0.23592,
+   -0.018459,
+   -0.286452,
+   0.160596,
+   -0.027671,
+   -0.082115,
+   0.195844,
+   0.201019,
+   0.163626,
+   -0.361436,
+   -0.173799,
+   -0.115008,
+   0.138525,
+   0.083907,
+   0.127139,
+   0.065672,
+   -0.262148,
+   -0.214223,
+   0.164503,
+   -0.128504,
+   0.151202,
+   -0.088487,
+   0.196644,
+   0.073595,
+   -0.071326,
+   0.183107,
+   -0.073039,
+   -0.161356,
+   -0.210096,
+   -0.057144,
+   0.038975,
+   -0.05168,
+   0.241865,
+   0.264721,
+   -0.123676,
+   -0.045983,
+   0.097928,
+   0.002418,
+   -0.005759,
+   0.251309,
+   -0.336542,
+   -0.071317,
+   -0.197926,
+   -0.180717,
+   -0.021252,
+   -0.412074,
+   -0.102415,
+   0.036371,
+   0.033842,
+   -0.185417,
+   0.222496,
+   -0.199321,
+   0.12385,
+   -0.078855,
+   -0.015021,
+   0.126399,
+   0.074218,
+   -0.396847,
+   -0.086399,
+   0.024005,
+   0.252086,
+   0.185174,
+   0.354442,
+   0.061005,
+   -0.234585,
+   0.044459,
+   0.276252,
+   -0.190974,
+   0.153376,
+   0.144187,
+   0.067205,
+   0.179808,
+   -0.148342,
+   -0.176187,
+   0.132005,
+   0.143644,
+   0.288243,
+   -0.137467,
+   -0.1654,
+   -0.113662,
+   -0.089863,
+   -0.134575,
+   -0.00613,
+   0.316973,
+   0.412983,
+   0.138385,
+   0.093327,
+   -0.003761,
+   0.045423,
+   -0.038466,
+   -0.259259,
+   -0.062187,
+   -0.288626,
+   0.16972,
+   -0.17699,
+   -0.0444,
+   -0.348283,
+   0.346258,
+   0.11523,
+   0.076085,
+   -0.038128,
+   -0.077346,
+   0.070881,
+   0.249598,
+   -0.387817,
+   0.135394,
+   0.129829,
+   0.1337,
+   -0.006093,
+   -0.016169,
+   0.034443,
+   0.219224,
+   0.040398,
+   -0.105082,
+   -0.08627,
+   -0.209029,
+   0.058072,
+   0.01416,
+   -0.150062,
+   0.298673,
+   0.034881
+  ],
+  "SPEAKER_02": [
+   -0.293945,
+   0.033878,
+   -0.197574,
+   -0.136254,
+   -0.098803,
+   0.093389,
+   0.323804,
+   0.021978,
+   0.250614,
+   -0.211631,
+   0.094149,
+   -0.025936,
+   -0.074002,
+   -0.065635,
+   0.15734,
+   -0.353802,
+   -0.193714,
+   -0.109916,
+   0.025099,
+   -0.057728,
+   -0.251938,
+   -0.038996,
+   0.375683,
+   -0.001019,
+   0.015209,
+   0.049856,
+   0.133829,
+   -0.127381,
+   -0.187177,
+   -0.097285,
+   0.204877,
+   0.062957,
+   0.034823,
+   -0.142848,
+   0.031769,
+   -0.114644,
+   0.075794,
+   -0.343637,
+   0.005224,
+   -0.164135,
+   -0.029819,
+   -0.304118,
+   0.086166,
+   0.173062,
+   -0.03653,
+   0.053365,
+   -0.004476,
+   -0.212916,
+   0.189078,
+   0.448399,
+   0.030316,
+   0.167525,
+   0.163164,
+   0.076634,
+   0.11513,
+   0.272364,
+   0.009629,
+   -0.063336,
+   -0.364409,
+   0.045339,
+   0.241867,
+   -0.083922,
+   -0.030181,
+   0.05306,
+   -0.218755,
+   0.035098,
+   -0.160925,
+   -0.116815,
+   0.090761,
+   0.084145,
+   0.007717,
+   -0.137066,
+   0.295266,
+   -0.119694,
+   0.147765,
+   0.117946,
+   -0.362086,
+   -0.185045,
+   0.025444,
+   0.008568,
+   -0.243036,
+   -0.182052,
+   0.171718,
+   -0.235644,
+   -0.042336,
+   -0.11776,
+   -0.029611,
+   0.017112,
+   -0.250721,
+   -0.125131,
+   0.233589,
+   -0.037093,
+   0.068609,
+   0.106855,
+   -0.029085,
+   -0.091878,
+   0.038673,
+   0.003895,
+   0.082491,
+   0.006674,
+   0.052448,
+   -0.115845,
+   -0.05581,
+   -0.19613,
+   -0.125439,
+   0.063678,
+   0.03334,
+   -0.012715,
+   -0.209108,
+   -0.104125,
+   -0.196483,
+   0.093462,
+   0.122575,
+   0.024596,
+   0.108579,
+   -0.08584,
+   -0.172736,
+   -0.27156,
+   -0.219419,
+   -0.090916,
+   0.087369,
+   0.19573,
+   -0.188156,
+   0.174368,
+   -0.089972,
+   0.22591,
+   -0.102637,
+   -0.090653,
+   -0.182479,
+   0.10552,
+   -0.360479,
+   0.04618,
+   -0.202177,
+   0.220966,
+   -0.214985,
+   -0.164146,
+   0.139626,
+   0.008748,
+   0.087202,
+   -0.011688,
+   -0.026748,
+   0.229517,
+   0.355429,
+   0.005524,
+   -0.217411,
+   -0.134373,
+   0.00611,
+   -0.038111,
+   0.045438,
+   -0.011789,
+   0.021707,
+   0.04842,
+   -0.053442,
+   0.257285,
+   -0.048416,
+   0.168831,
+   0.042339,
+   -0.116598,
+   0.057439,
+   -0.045659,
+   0.184344,
+   0.178104,
+   -0.170437,
+   -0.046444,
+   -0.161376,
+   0.183063,
+   0.019656,
+   0.163413,
+   0.03758,
+   -0.345117,
+   -0.186637,
+   -0.072535,
+   -0.143988,
+   -0.099903,
+   0.111804,
+   -0.129436,
+   0.13662,
+   0.159638,
+   0.186811,
+   -0.201751,
+   -0.077433,
+   0.148804,
+   -0.175686,
+   -0.080648,
+   -0.118576,
+   -0.012437,
+   0.056289,
+   0.055584,
+   -0.103846,
+   -0.116386,
+   0.02833,
+   -0.008288,
+   -0.033327,
+   -0.062603,
+   -0.286278,
+   0.11256,
+   0.13232,
+   0.081198,
+   0.069067,
+   -0.036039,
+   -0.014398,
+   -0.043588,
+   0.035641,
+   0.00724,
+   0.129915,
+   -0.244558,
+   0.052033,
+   -0.208378,
+   0.066771,
+   -0.056619,
+   -0.080141,
+   -0.098562,
+   -0.019733,
+   -0.084224,
+   0.044633,
+   0.19544,
+   0.041766,
+   -0.146999,
+   0.196392,
+   0.261833,
+   -0.017588,
+   -0.059735,
+   0.206951,
+   0.121038,
+   0.157982,
+   -0.13079,
+   0.088711,
+   -0.197667,
+   -0.014535,
+   -0.05111,
+   0.045436,
+   -0.144456,
+   0.049948,
+   0.024085,
+   0.254917,
+   0.235996,
+   -0.131109,
+   0.044181,
+   0.042147,
+   -0.284306,
+   -0.046571,
+   0.045137,
+   0.133396,
+   -0.265364,
+   -0.235778,
+   0.078743,
+   0.223301,
+   -0.383419,
+   0.04024,
+   -0.016676,
+   -0.161097,
+   0.05718,
+   -0.045729,
+   -0.229475,
+   0.090735,
+   -0.122345
+  ],
+  "SPEAKER_03": [
+   -0.17056,
+   0.107521,
+   -0.055882,
+   0.039569,
+   -0.266312,
+   -0.059612,
+   0.42018,
+   -0.094726,
+   0.174373,
+   0.223138,
+   0.229497,
+   0.085273,
+   0.106827,
+   0.031808,
+   -0.007701,
+   -0.23771,
+   -0.213443,
+   -0.129318,
+   0.118498,
+   0.047117,
+   -0.266836,
+   0.105169,
+   0.476543,
+   0.19973,
+   0.093968,
+   0.064099,
+   0.031126,
+   -0.031261,
+   -0.042362,
+   -0.122961,
+   0.524162,
+   0.134825,
+   0.055647,
+   -0.267438,
+   -0.124262,
+   -0.107898,
+   0.027911,
+   -0.177257,
+   0.057336,
+   0.174424,
+   -0.127274,
+   0.110407,
+   0.268733,
+   0.197604,
+   -0.139831,
+   -0.139493,
+   -0.014065,
+   -0.092779,
+   0.5058,
+   0.536266,
+   0.091784,
+   0.053199,
+   0.084573,
+   -0.106805,
+   -0.05207,
+   0.267843,
+   -0.129542,
+   -0.257432,
+   -0.060948,
+   -0.081445,
+   0.261114,
+   -0.050299,
+   0.049254,
+   -0.058964,
+   0.019565,
+   0.124445,
+   -0.120991,
+   -0.148525,
+   -0.017426,
+   0.175127,
+   -0.219368,
+   -0.103735,
+   0.062355,
+   -0.331777,
+   0.013004,
+   0.151413,
+   -0.199207,
+   0.099061,
+   0.114051,
+   -0.051145,
+   -0.270701,
+   -0.116863,
+   0.205397,
+   -0.085162,
+   -0.158684,
+   0.049289,
+   -0.101568,
+   -0.07499,
+   -0.196534,
+   -0.181149,
+   0.204088,
+   0.256031,
+   0.248254,
+   0.06323,
+   0.012269,
+   -0.095844,
+   0.095915,
+   0.12063,
+   0.077578,
+   -0.003448,
+   0.072673,
+   -0.110367,
+   -0.036461,
+   -0.045791,
+   -0.309561,
+   -0.062516,
+   0.173086,
+   0.06101,
+   -0.043527,
+   -0.191585,
+   0.162741,
+   0.079356,
+   -0.151751,
+   -0.11612,
+   -0.009635,
+   -0.336595,
+   -0.012753,
+   -0.018168,
+   -0.169803,
+   0.20873,
+   0.446885,
+   0.123407,
+   -0.057283,
+   0.116257,
+   -0.071944,
+   0.252303,
+   -0.018168,
+   0.061528,
+   -0.330962,
+   0.075641,
+   -0.232322,
+   0.042633,
+   0.093248,
+   0.159265,
+   0.230039,
+   -0.241128,
+   0.076296,
+   0.102939,
+   0.284827,
+   -0.422068,
+   -0.229003,
+   0.104483,
+   0.287768,
+   0.217227,
+   -0.21588,
+   -0.125747,
+   0.120539,
+   -0.102848,
+   -0.131106,
+   0.009708,
+   0.098159,
+   -0.196699,
+   -0.316378,
+   -0.18864,
+   -0.205775,
+   0.152869,
+   -0.082951,
+   -0.099524,
+   -0.026576,
+   0.053846,
+   0.204988,
+   -0.03579,
+   -0.001298,
+   0.001824,
+   -0.178189,
+   -0.098017,
+   -0.150746,
+   0.009888,
+   -0.030995,
+   -0.111816,
+   -0.161099,
+   0.170202,
+   0.096754,
+   -0.167571,
+   0.017496,
+   -0.287298,
+   -0.185935,
+   0.049824,
+   0.01177,
+   -0.098177,
+   -0.259642,
+   0.196695,
+   0.143845,
+   0.163873,
+   -0.003404,
+   -0.019244,
+   -0.081349,
+   0.233146,
+   -0.196207,
+   -0.243272,
+   -0.204767,
+   0.085876,
+   -0.060545,
+   -0.059917,
+   -0.097231,
+   0.169282,
+   0.260987,
+   0.132203,
+   0.048818,
+   0.232073,
+   0.014264,
+   -0.115476,
+   -0.005317,
+   0.067837,
+   -0.308986,
+   -0.118126,
+   0.052355,
+   -0.347428,
+   -0.034215,
+   0.09377,
+   0.072855,
+   0.127397,
+   -0.090317,
+   -0.213021,
+   -0.158067,
+   0.050672,
+   -0.062776,
+   -0.010533,
+   0.379793,
+   0.51895,
+   0.210558,
+   0.044188,
+   0.195776,
+   0.217692,
+   0.10841,
+   -0.262832,
+   0.356361,
+   -0.306488,
+   0.004616,
+   -0.325155,
+   0.029864,
+   -0.270593,
+   0.056291,
+   0.510535,
+   0.120041,
+   0.15234,
+   -0.327098,
+   -0.032633,
+   0.035278,
+   -0.479718,
+   -0.205042,
+   -0.211954,
+   -0.137967,
+   -0.144175,
+   -0.038178,
+   -0.209524,
+   0.165584,
+   -0.090238,
+   -0.042138,
+   0.045941,
+   -0.024909,
+   -0.014631,
+   0.270374,
+   0.250059,
+   0.450741,
+   -0.073136
+  ],
+  "SPEAKER_04": [
+   -0.185364,
+   -0.067983,
+   0.094775,
+   -0.232511,
+   0.074085,
+   0.082664,
+   0.197548,
+   -0.150134,
+   0.146005,
+   0.120727,
+   0.032517,
+   0.215255,
+   0.034349,
+   -0.170906,
+   -0.001307,
+   -0.103882,
+   0.034098,
+   -0.061812,
+   0.18782,
+   0.08181,
+   -0.274595,
+   0.154321,
+   0.020225,
+   0.345181,
+   0.065488,
+   0.151047,
+   -0.069916,
+   0.009023,
+   -0.02057,
+   0.057484,
+   -0.027858,
+   0.040757,
+   0.044207,
+   -0.3654,
+   -0.189602,
+   -0.054456,
+   0.080683,
+   -0.270961,
+   0.050797,
+   0.082511,
+   0.050528,
+   -0.11861,
+   -0.034167,
+   0.11842,
+   -0.0909,
+   0.1309,
+   -0.171699,
+   -0.112357,
+   0.039544,
+   0.324272,
+   -0.018375,
+   0.044733,
+   0.04641,
+   0.146806,
+   -0.103513,
+   0.08988,
+   0.213848,
+   -0.228751,
+   -0.541383,
+   -0.032845,
+   0.154832,
+   -0.168058,
+   -0.068839,
+   -0.018562,
+   0.088229,
+   0.049098,
+   0.021589,
+   0.063324,
+   -0.168169,
+   0.201356,
+   0.024408,
+   -0.120476,
+   0.135681,
+   -0.131451,
+   -0.328553,
+   0.004344,
+   -0.388691,
+   -0.122486,
+   -0.045775,
+   0.060815,
+   -0.224175,
+   0.063457,
+   0.035721,
+   -0.124517,
+   -0.00046,
+   0.133921,
+   -0.057358,
+   -0.126427,
+   0.166897,
+   -0.041152,
+   0.193332,
+   -0.181178,
+   -0.208595,
+   0.114508,
+   0.111439,
+   -0.072678,
+   -0.15139,
+   0.031944,
+   0.090322,
+   -0.085487,
+   -0.03121,
+   0.119484,
+   0.005402,
+   -0.140938,
+   -0.17617,
+   0.11326,
+   0.10018,
+   0.06243,
+   0.17345,
+   -0.111145,
+   0.274607,
+   0.071034,
+   -0.227319,
+   -0.04838,
+   0.143741,
+   -0.014198,
+   -0.107612,
+   -0.007555,
+   0.001113,
+   0.150128,
+   0.062285,
+   -0.045018,
+   0.203139,
+   -0.033181,
+   -0.094836,
+   0.394798,
+   -0.083243,
+   0.092113,
+   0.115828,
+   -0.04503,
+   -0.236981,
+   -0.089415,
+   0.171973,
+   0.08571,
+   0.029208,
+   -0.165691,
+   -0.131353,
+   0.165692,
+   0.007316,
+   -0.527612,
+   0.029557,
+   0.179237,
+   0.239858,
+   -0.106877,
+   -0.239889,
+   -0.14342,
+   -0.120267,
+   0.047015,
+   -0.255444,
+   -0.31882,
+   0.090083,
+   0.118941,
+   -0.065238,
+   0.271482,
+   0.167447,
+   -0.125964,
+   -0.24951,
+   0.046489,
+   -0.130281,
+   -0.08746,
+   0.177837,
+   -0.125285,
+   -0.113875,
+   -0.148283,
+   -0.234591,
+   0.062595,
+   -0.079932,
+   0.141425,
+   0.056971,
+   -0.361543,
+   -0.155051,
+   0.422452,
+   -0.216526,
+   0.103917,
+   -0.018063,
+   -0.098001,
+   0.108272,
+   -0.023246,
+   0.193267,
+   -0.115135,
+   -0.259826,
+   -0.323452,
+   -0.24217,
+   0.089817,
+   0.231412,
+   0.124942,
+   0.0751,
+   0.23207,
+   -0.166694,
+   -0.099634,
+   0.050914,
+   0.158469,
+   0.092071,
+   -0.149497,
+   0.013318,
+   0.213959,
+   -0.08532,
+   0.252907,
+   0.240889,
+   0.319859,
+   0.110116,
+   -0.304158,
+   0.062672,
+   -0.111413,
+   0.093165,
+   -0.003317,
+   0.039197,
+   -0.136705,
+   0.142119,
+   -0.015445,
+   -0.457965,
+   -0.066929,
+   0.255126,
+   -0.075769,
+   -0.065721,
+   0.200514,
+   0.061019,
+   0.14966,
+   -0.035674,
+   0.053631,
+   0.106271,
+   -0.141847,
+   -0.328164,
+   -0.04411,
+   -0.04153,
+   -0.313742,
+   0.125609,
+   -0.261684,
+   0.165278,
+   -0.30257,
+   -0.083638,
+   -0.301033,
+   -0.03575,
+   0.046012,
+   0.228819,
+   -0.11993,
+   -0.150226,
+   0.278874,
+   0.106587,
+   -0.241759,
+   -0.283367,
+   -0.145879,
+   0.197969,
+   -0.272665,
+   -0.282582,
+   -0.053929,
+   0.149103,
+   -0.133292,
+   0.00429,
+   -0.098842,
+   0.101451,
+   -0.019485,
+   -0.039089,
+   -0.125349,
+   0.447263,
+   -0.084634
+  ]
+ },
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 27.6,
+   "text": "Hello and welcome to another supplemental. As Eric described, this is kicker picker. We got a kicker picker on our hands. The Summer Movie League is coming to an end and this is going to be the next thing that lasts several months competition for us to keep updated on. But before we begin, I have a key question for Gavin that he hasn't responded to in days. I asked him for a clarification. He never got back to me after my clarification. What was this?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 27.6,
+   "end": 32.76,
+   "text": "How do you feel about a kick being worth three points as opposed to it being worth one?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 33.3,
+   "end": 33.88,
+   "text": "Oh, in football?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 34.66,
+   "end": 35.6,
+   "text": "Yeah, in football.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 35.72,
+   "end": 35.74,
+   "text": "In soccer?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 36.44,
+   "end": 39.0,
+   "text": "Soccer. I was saying soccer hypothetically.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 39.1,
+   "end": 40.38,
+   "text": "I had a follow-up question, didn't I?",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 41.08,
+   "end": 42.56,
+   "text": "Yeah, and then I replied to it.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 42.84,
+   "end": 48.28,
+   "text": "Oh, shit. Fascinating. My question was, what would be worth one point?",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 48.8,
+   "end": 57.16,
+   "text": "So I came up with the whole system. I was trying to, because Gavin, his problem with football in the past has been that one point is worth six. Too high.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 57.6,
+   "end": 66.0,
+   "text": "So I was trying to find a lower ground, which is kickers. Also, Gavin loves soccer, a.k.a. football.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 66.58,
+   "end": 76.12,
+   "text": "So I thought the best way to get us all on board, because the rest of us have varying degrees of interest in football already, is to focus on football, but just the kicking part.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 76.6,
+   "end": 80.96,
+   "text": "Just the part where they kick the ball into a goal, because Gavin likes that already.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 80.96,
+   "end": 88.84,
+   "text": "But before we can pick, we need to decide, are we only focusing on one kick, one point, or is Gavin okay with one kick being worth three points?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 88.84,
+   "end": 94.62,
+   "text": "If you kicked it within the keeper box, it's one, but further out, it's three.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 94.82,
+   "end": 100.84,
+   "text": "That analogy really isn't specific to this. That was me trying to equate soccer to football.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 100.86,
+   "end": 103.12,
+   "text": "It's not a distance thing. It's a situational thing.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 103.66,
+   "end": 114.26,
+   "text": "And sometimes a kick in American football, or gridiron, as you people call it, is worth three points when it's a field goal, and one point when it's an extra point scored after a touchdown.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 114.26,
+   "end": 117.2,
+   "text": "I would think that we'd want to maintain that integrity.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 117.6,
+   "end": 123.1,
+   "text": "I just wanted to see where Gavin was at with it before we advanced, if he was okay with that.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 123.78,
+   "end": 127.12,
+   "text": "Sure. I mean, I just grew up with the, you know, everything's one point.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 128.46,
+   "end": 131.4,
+   "text": "But that's not even, okay, fair enough. You're right.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 131.52,
+   "end": 135.44,
+   "text": "But there are soccer games where the ball's worth more than one. That's fine.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 135.82,
+   "end": 136.66,
+   "text": "Like a golden goal.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 137.0,
+   "end": 138.96,
+   "text": "You're like a golden goal scenario. Exactly.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 139.42,
+   "end": 144.22,
+   "text": "Anyway, we have a board of all the NFL kickers we're looking at.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 144.26,
+   "end": 147.08,
+   "text": "In front of us. I have listed their teams.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 147.48,
+   "end": 151.08,
+   "text": "I've listed how many times they've kicked the ball in the NFL.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 151.48,
+   "end": 154.48,
+   "text": "And a photo of who they are alongside it.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 154.88,
+   "end": 159.54,
+   "text": "The photo really helps. I think the photo is such an improvement here.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 159.64,
+   "end": 161.74,
+   "text": "I think you've got to really lock in on the photos.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 161.98,
+   "end": 167.9,
+   "text": "And these are their official NFL profile photos, which is sort of insane for some of them.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 168.58,
+   "end": 169.54,
+   "text": "We have a whole list.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 169.76,
+   "end": 171.26,
+   "text": "White guy, white guy, white guy, white guy, white guy.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 171.28,
+   "end": 172.06,
+   "text": "It's all white guys.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 172.2,
+   "end": 173.6,
+   "text": "White guy, white guy, white guy, white guy.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 173.6,
+   "end": 175.02,
+   "text": "It doesn't stop.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 175.68,
+   "end": 176.48,
+   "text": "It's a bunch of white guys.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 177.04,
+   "end": 177.2,
+   "text": "Interesting.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 177.24,
+   "end": 179.86,
+   "text": "Oh, no, there's one, at least, that isn't white.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 180.08,
+   "end": 181.52,
+   "text": "Oh, the Falcons kicker. That's pretty cool.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 181.54,
+   "end": 181.94,
+   "text": "Yeah, young Ogu.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 182.54,
+   "end": 182.82,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 183.36,
+   "end": 184.04,
+   "text": "Awesome kicker.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 184.38,
+   "end": 185.26,
+   "text": "So we are going to go through.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 185.42,
+   "end": 185.94,
+   "text": "We're going to pick.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 187.62,
+   "end": 190.14,
+   "text": "Every field goal gets us three points.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 190.56,
+   "end": 192.42,
+   "text": "At the end of the season, whoever has the most points wins.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 193.08,
+   "end": 193.74,
+   "text": "Pretty simple.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 194.38,
+   "end": 196.16,
+   "text": "We're each picking six kickers.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 197.42,
+   "end": 197.74,
+   "text": "Sixers?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 197.74,
+   "end": 198.82,
+   "text": "And, uh, yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 199.24,
+   "end": 200.46,
+   "text": "A six-pack kick pack?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 201.06,
+   "end": 201.82,
+   "text": "Six-pack?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 202.0,
+   "end": 203.64,
+   "text": "Eric, you are on fire today.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 204.16,
+   "end": 204.76,
+   "text": "Six-pack kick pack.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 204.76,
+   "end": 205.76,
+   "text": "This is my wheelhouse.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 206.14,
+   "end": 208.14,
+   "text": "This is the only thing I'm good at.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 208.28,
+   "end": 210.6,
+   "text": "It's this and then putting something on a calendar.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 212.0,
+   "end": 214.5,
+   "text": "Yeah, but you fucking, you kill it on the calendar.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 214.8,
+   "end": 215.0,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 215.0,
+   "end": 215.4,
+   "text": "Thanks, buddy.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 215.82,
+   "end": 216.7,
+   "text": "Yeah, the calendar is great.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 217.18,
+   "end": 217.44,
+   "text": "Mm-hmm.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 217.9,
+   "end": 219.42,
+   "text": "How do we want to pick who goes first?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 219.42,
+   "end": 227.64,
+   "text": "Well, we have the, that fan made that draft, the official, like, the unofficial official draft.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 227.84,
+   "end": 228.1,
+   "text": "Uh-huh.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 228.5,
+   "end": 232.46,
+   "text": "Uh, I think we can just use that to randomize and see how it goes.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 232.56,
+   "end": 233.32,
+   "text": "How do you feel about that?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 233.48,
+   "end": 233.62,
+   "text": "Do you?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 233.82,
+   "end": 234.42,
+   "text": "Ah, no problem.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 234.86,
+   "end": 236.32,
+   "text": "You remember that, uh, website?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 236.6,
+   "end": 237.56,
+   "text": "Not in the slightest.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 237.88,
+   "end": 239.02,
+   "text": "Not at all.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 239.52,
+   "end": 240.62,
+   "text": "Yeah, I don't see it.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 240.92,
+   "end": 242.7,
+   "text": "Uh, random.org it is.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 243.18,
+   "end": 245.04,
+   "text": "All right, let's just do, how about this?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 245.08,
+   "end": 246.12,
+   "text": "We've never done this before.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 246.38,
+   "end": 248.32,
+   "text": "Let's do one randomize.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 248.68,
+   "end": 249.12,
+   "text": "Okay.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 249.76,
+   "end": 250.08,
+   "text": "Whoa.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 250.82,
+   "end": 252.54,
+   "text": "This first one's always so bad.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 253.06,
+   "end": 255.5,
+   "text": "Just start, just start an egg and then we just hit it once.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 255.76,
+   "end": 256.16,
+   "text": "Ooh.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 256.38,
+   "end": 257.18,
+   "text": "Are you on your VPN?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 257.96,
+   "end": 258.32,
+   "text": "No.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 258.76,
+   "end": 258.98,
+   "text": "No.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 259.56,
+   "end": 259.82,
+   "text": "Okay.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 259.94,
+   "end": 260.36,
+   "text": "That's all right.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 260.4,
+   "end": 261.2,
+   "text": "We're only doing it once.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 261.26,
+   "end": 261.5,
+   "text": "It's okay.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 261.88,
+   "end": 265.06,
+   "text": "Just take a screenshot of the thing when it happens.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 265.34,
+   "end": 265.58,
+   "text": "Okay.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 265.58,
+   "end": 266.18,
+   "text": "All right, here we go.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 266.86,
+   "end": 268.34,
+   "text": "I mean, you said you're recording your own thing.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 269.04,
+   "end": 269.56,
+   "text": "Not anymore.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 270.5,
+   "end": 271.7,
+   "text": "You seem to be, so it looks better.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 272.24,
+   "end": 278.62,
+   "text": "I just, like, the pivot without talking to anyone is, like, the craziest thing.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 278.62,
+   "end": 278.96,
+   "text": "This is crazy.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 278.96,
+   "end": 280.8,
+   "text": "You can do for this fucking show.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 281.12,
+   "end": 281.98,
+   "text": "Like, why?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 282.3,
+   "end": 288.82,
+   "text": "Without saying anything, to totally pivot off of what you were doing and just expect that,",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 288.82,
+   "end": 290.98,
+   "text": "oh, yeah, nothing should change here?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 291.52,
+   "end": 292.26,
+   "text": "Like, you're nuts.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 292.26,
+   "end": 292.38,
+   "text": "I get it.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 292.66,
+   "end": 293.06,
+   "text": "You know what?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 293.08,
+   "end": 293.76,
+   "text": "You're nuts.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 293.9,
+   "end": 294.32,
+   "text": "That's fair.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 294.32,
+   "end": 294.66,
+   "text": "I get it, Nick.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 294.88,
+   "end": 295.36,
+   "text": "That's fair.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 295.36,
+   "end": 298.54,
+   "text": "But also, I wanted what we saw to be what the audience sees.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 298.7,
+   "end": 301.2,
+   "text": "And if I was just sitting on this page, they wouldn't see the same thing.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 301.28,
+   "end": 302.88,
+   "text": "Anyway, randomize.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 304.18,
+   "end": 305.1,
+   "text": "I appreciate this.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 305.1,
+   "end": 305.74,
+   "text": "An egg order.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 305.9,
+   "end": 306.74,
+   "text": "One randomization.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 306.92,
+   "end": 307.74,
+   "text": "Here it comes.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 309.48,
+   "end": 309.84,
+   "text": "Yes!",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 309.84,
+   "end": 312.78,
+   "text": "Nick, Eric, Jeff, Andrew, Gavin.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 313.12,
+   "end": 315.38,
+   "text": "Nick, Eric, Jeff, Andrew, Gavin.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 315.84,
+   "end": 316.34,
+   "text": "The gag.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 318.84,
+   "end": 319.24,
+   "text": "Careful.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 319.68,
+   "end": 319.9,
+   "text": "Uh-oh.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 319.94,
+   "end": 320.36,
+   "text": "Uh-oh.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 320.62,
+   "end": 321.1,
+   "text": "Uh-oh.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 321.1,
+   "end": 323.18,
+   "text": "Can we all edit this?",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 323.82,
+   "end": 324.0,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 325.28,
+   "end": 325.76,
+   "text": "Yep.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 326.62,
+   "end": 329.02,
+   "text": "Nick, Eric, Jeff, Andrew, Gavin.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 329.66,
+   "end": 331.08,
+   "text": "Nick, Eric.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 331.78,
+   "end": 332.08,
+   "text": "Uh-huh.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 332.76,
+   "end": 333.82,
+   "text": "Jeff, Andrew.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 334.42,
+   "end": 334.76,
+   "text": "Uh-huh.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 335.48,
+   "end": 337.94,
+   "text": "Somebody else is changing it, so I'm not clicking on anything.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 339.32,
+   "end": 340.82,
+   "text": "I'm going to guess that's Gavin.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 341.18,
+   "end": 341.44,
+   "text": "Nah.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 342.22,
+   "end": 342.7,
+   "text": "Oh, that's me?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 342.7,
+   "end": 342.88,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 343.48,
+   "end": 348.86,
+   "text": "Again, the communication that this team has is insane to me.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 349.36,
+   "end": 351.06,
+   "text": "Just call out, I'll do it.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 353.58,
+   "end": 356.3,
+   "text": "Nick, Eric, Jeff, Andrew, Gavin.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 356.62,
+   "end": 359.3,
+   "text": "Why is it happening this way?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 359.66,
+   "end": 359.88,
+   "text": "Okay.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 360.0,
+   "end": 362.88,
+   "text": "How are we so successfully dysfunctional?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 362.98,
+   "end": 364.78,
+   "text": "I just don't understand.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 365.66,
+   "end": 365.98,
+   "text": "Ugh.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 366.26,
+   "end": 367.06,
+   "text": "Who put me twice?",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 367.9,
+   "end": 368.46,
+   "text": "Nobody else.",
+   "speaker": "SPEAKER_99"
+  },
+  {
+   "start": 369.88,
+   "end": 370.88,
+   "text": "What's going on?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 371.5,
+   "end": 371.78,
+   "text": "It's you.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 371.78,
+   "end": 374.34,
+   "text": "I, dude, I don't.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 374.34,
+   "end": 374.64,
+   "text": "Nick, Eric, Jeff, Andrew, Gavin.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 375.24,
+   "end": 377.16,
+   "text": "Maybe we designate a toucher.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 377.34,
+   "end": 381.06,
+   "text": "You're the design, that person for the rest of this episode is the designated toucher.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 381.4,
+   "end": 385.06,
+   "text": "They do all the touching and diddling and fondling of the CSV file.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 385.62,
+   "end": 388.9,
+   "text": "Everybody move your cursor outside of the video section.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 389.02,
+   "end": 390.46,
+   "text": "Andrew, would you like to?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 391.28,
+   "end": 393.0,
+   "text": "Andrew, do you want to diddle the file?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 394.26,
+   "end": 394.72,
+   "text": "I don't.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 394.98,
+   "end": 395.58,
+   "text": "Am I qualified?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 395.7,
+   "end": 396.84,
+   "text": "Yeah, I can diddle the file.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 397.92,
+   "end": 399.0,
+   "text": "Nick, where do you want my cursor?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 400.08,
+   "end": 400.24,
+   "text": "What?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 400.28,
+   "end": 401.96,
+   "text": "Well, you're going to be moving it around so you can do whatever you want.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 401.96,
+   "end": 402.34,
+   "text": "Yeah, so it's fine.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 402.44,
+   "end": 402.64,
+   "text": "Whatever.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 403.02,
+   "end": 404.88,
+   "text": "Okay, I'm not in cursor jail.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 405.02,
+   "end": 407.5,
+   "text": "Hey, who is that ball?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 407.98,
+   "end": 410.1,
+   "text": "Oh, I see what you're doing, piss boy.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 410.46,
+   "end": 411.24,
+   "text": "I'm not piss boy.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 412.92,
+   "end": 413.98,
+   "text": "That's the old show.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 413.98,
+   "end": 418.62,
+   "text": "Are we going to start this?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 418.62,
+   "end": 419.12,
+   "text": "Yeah, are we going to.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 419.16,
+   "end": 419.6,
+   "text": "Let's do it.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 420.08,
+   "end": 420.34,
+   "text": "Okay.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 420.72,
+   "end": 421.66,
+   "text": "Nick, you're on the board.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 421.78,
+   "end": 422.76,
+   "text": "Take your first kicker.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 423.2,
+   "end": 424.78,
+   "text": "Well, I do follow football.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 425.08,
+   "end": 432.02,
+   "text": "This guy was a kicker at both the college I went to and now for the Ravens.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 432.08,
+   "end": 434.3,
+   "text": "It's Justin Tucker, number 26 on this list.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 434.3,
+   "end": 434.42,
+   "text": "God damn it.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 434.68,
+   "end": 436.84,
+   "text": "Yeah, I mean, that's the one.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 436.94,
+   "end": 437.66,
+   "text": "He's the money maker.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 438.46,
+   "end": 440.04,
+   "text": "Yeah, that's, he's, he's it.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 442.46,
+   "end": 442.94,
+   "text": "That's tough.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 442.94,
+   "end": 446.92,
+   "text": "On the older end, one of the most kicks in the league, 438 kicks.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 447.76,
+   "end": 448.54,
+   "text": "Kicking for a while.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 449.16,
+   "end": 450.4,
+   "text": "All right, what are you going to pick, Eric?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 451.56,
+   "end": 454.04,
+   "text": "Well, it's, it's tough.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 454.44,
+   "end": 457.6,
+   "text": "There's a lot that we have here that we can choose from.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 457.6,
+   "end": 462.32,
+   "text": "I could have Will Reichardt, who has never kicked a kick in the NFL.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 462.88,
+   "end": 466.54,
+   "text": "You could have Nick Folk, who appears to be the oldest man playing in the NFL.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 466.54,
+   "end": 470.36,
+   "text": "Nick Folk looks like he's ready to grill for all of the kids.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 470.6,
+   "end": 474.0,
+   "text": "He's like, he looked that way 10 years ago, too.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 474.18,
+   "end": 474.44,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 475.32,
+   "end": 477.4,
+   "text": "He does crawfish boils.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 477.74,
+   "end": 477.88,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 478.04,
+   "end": 478.22,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 478.62,
+   "end": 484.6,
+   "text": "There, there's a lot, there's a lot to choose from, but I'm going to take a young gun and",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 484.6,
+   "end": 487.32,
+   "text": "I'm going to go Dallas Cowboys, Brandon Aubrey.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 487.84,
+   "end": 489.2,
+   "text": "Oh, yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 489.72,
+   "end": 491.24,
+   "text": "I was getting ready to auto fill that for Nick.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 491.76,
+   "end": 492.74,
+   "text": "I know he's a cowboy guy.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 492.84,
+   "end": 494.56,
+   "text": "That's, you got to take it out from under Nick.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 494.56,
+   "end": 496.74,
+   "text": "I feel good about it.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 496.9,
+   "end": 497.28,
+   "text": "I don't.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 498.18,
+   "end": 504.56,
+   "text": "I think that the Cowboys are mostly going to be settling for field goals all year long.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 505.52,
+   "end": 506.76,
+   "text": "I feel really good about my pick.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 506.94,
+   "end": 507.18,
+   "text": "All right.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 507.2,
+   "end": 507.92,
+   "text": "I'm sitting right here, man.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 510.0,
+   "end": 510.36,
+   "text": "Okay.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 510.46,
+   "end": 512.04,
+   "text": "Well, I'm going to go with my pick.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 512.6,
+   "end": 513.76,
+   "text": "I'm not going to move the board.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 513.84,
+   "end": 515.06,
+   "text": "I'm going to let Andrew do it.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 515.42,
+   "end": 516.8,
+   "text": "I'm going to be respectful of the rules.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 517.42,
+   "end": 521.8,
+   "text": "Andrew, would you go ahead and select for me, go down to the, down to the R's, please.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 522.2,
+   "end": 522.44,
+   "text": "Okay.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 522.44,
+   "end": 522.5,
+   "text": "All right.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 524.66,
+   "end": 524.7,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 525.0,
+   "end": 525.6,
+   "text": "We're looking at Rams.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 525.9,
+   "end": 526.96,
+   "text": "It's Raiders.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 527.12,
+   "end": 527.64,
+   "text": "There we go.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 527.74,
+   "end": 529.52,
+   "text": "I want Daniel Carlson, please.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 529.82,
+   "end": 530.48,
+   "text": "Daniel Carlson.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 530.76,
+   "end": 531.38,
+   "text": "Oh, interesting.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 531.72,
+   "end": 531.74,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 531.74,
+   "end": 537.9,
+   "text": "The, uh, the, uh, the only kicker in the NFL to hit at least 90% of his field goals in",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 537.9,
+   "end": 539.18,
+   "text": "each of his past three seasons.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 539.52,
+   "end": 539.7,
+   "text": "Wow.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 539.7,
+   "end": 540.22,
+   "text": "Is that right?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 540.94,
+   "end": 541.34,
+   "text": "Supposedly.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 541.72,
+   "end": 542.02,
+   "text": "Wow.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 542.08,
+   "end": 542.36,
+   "text": "According to Google.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 543.94,
+   "end": 544.34,
+   "text": "Wow.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 545.34,
+   "end": 549.46,
+   "text": "Andrew, we've had the Ravens, the Cowboys, the Raiders are off the board.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 549.88,
+   "end": 550.82,
+   "text": "Oh, this is tough.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 550.92,
+   "end": 551.7,
+   "text": "See, I'm looking down.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 551.82,
+   "end": 553.72,
+   "text": "Eric, you want to scroll down to the Vikings?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 553.88,
+   "end": 554.22,
+   "text": "Will Riker.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 554.42,
+   "end": 554.62,
+   "text": "I can't.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 554.66,
+   "end": 555.68,
+   "text": "Oh, the Vikings.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 556.02,
+   "end": 560.04,
+   "text": "I don't know if I'm going to take him, but he looks like the asshole in a horror movie.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 560.24,
+   "end": 564.64,
+   "text": "He looks like a kind of obnoxious jock that dies early.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 564.76,
+   "end": 566.68,
+   "text": "I don't know if I want that on my squad.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 566.94,
+   "end": 567.24,
+   "text": "Uh-huh.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 567.52,
+   "end": 570.68,
+   "text": "Uh, Blake Group looks like he is being forced to smile.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 570.82,
+   "end": 574.52,
+   "text": "And also, yeah, that's, that's the picture when I was scrolling earlier and I started",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 574.52,
+   "end": 574.92,
+   "text": "laughing.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 574.92,
+   "end": 577.08,
+   "text": "It's because I saw Blake Group for the Saints.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 577.32,
+   "end": 579.36,
+   "text": "That's a rough trade, but.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 579.36,
+   "end": 582.74,
+   "text": "Jake Bates looks like he is fresh out of high school.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 583.32,
+   "end": 584.42,
+   "text": "I like the energy.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 584.54,
+   "end": 586.52,
+   "text": "I like the, he's got some good vibes.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 586.6,
+   "end": 591.02,
+   "text": "He looks like he is going to be the CW star of the next football show.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 591.38,
+   "end": 593.8,
+   "text": "Uh, so I'm going to go with the lines and Jake Bates.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 593.98,
+   "end": 597.22,
+   "text": "Also, I think a line could kick a ball pretty far if it needed to.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 597.22,
+   "end": 598.96,
+   "text": "Okay, so we're just going off vibes then.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 599.04,
+   "end": 599.96,
+   "text": "There's no actual thought.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 600.04,
+   "end": 602.04,
+   "text": "Yeah, I'm going for, he doesn't have any kicks.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 602.72,
+   "end": 603.78,
+   "text": "Securely off vibes.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 604.1,
+   "end": 604.96,
+   "text": "Okay, I like it.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 605.94,
+   "end": 608.3,
+   "text": "Dumb shit is next on the board, apparently.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 609.44,
+   "end": 610.28,
+   "text": "I have a.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 612.84,
+   "end": 614.0,
+   "text": "Hey guys, dumb shit here.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 614.2,
+   "end": 614.82,
+   "text": "I have a question.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 616.7,
+   "end": 617.9,
+   "text": "I just have a small question.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 618.4,
+   "end": 619.08,
+   "text": "It's how he's on my phone.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 619.56,
+   "end": 620.3,
+   "text": "What is this?",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 620.3,
+   "end": 620.9,
+   "text": "What are we doing?",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 620.98,
+   "end": 621.62,
+   "text": "What is this?",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 622.42,
+   "end": 623.3,
+   "text": "What are we doing?",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 623.7,
+   "end": 624.82,
+   "text": "What are you talking about?",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 624.82,
+   "end": 627.68,
+   "text": "What is everyone talking about?",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 628.06,
+   "end": 629.14,
+   "text": "It's a kicker picker.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 629.78,
+   "end": 631.28,
+   "text": "What do you mean it's a kicker picker?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 631.3,
+   "end": 631.78,
+   "text": "What am I doing?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 632.38,
+   "end": 634.56,
+   "text": "I got you to confirm the scoring.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 635.74,
+   "end": 636.18,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 636.2,
+   "end": 642.44,
+   "text": "And then I said, whoever gets the most points via, via kicks going through wins.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 642.92,
+   "end": 644.48,
+   "text": "So here's what's going to happen, Gavin.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 644.58,
+   "end": 645.68,
+   "text": "These are all the kickers.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 645.76,
+   "end": 648.8,
+   "text": "This is the, this is the kicker for every team in the NFL.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 648.8,
+   "end": 652.88,
+   "text": "I explained that we're all picking our, our six kickers.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 652.98,
+   "end": 658.92,
+   "text": "I'm going to watch the entire season and every point they make will count to us.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 658.96,
+   "end": 661.54,
+   "text": "Then at the end, whoever has the most points wins.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 661.7,
+   "end": 663.38,
+   "text": "I explained that he did.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 663.46,
+   "end": 664.14,
+   "text": "He explained it all.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 664.2,
+   "end": 665.0,
+   "text": "I'm just reiterating.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 665.38,
+   "end": 666.56,
+   "text": "Does that make sense?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 667.58,
+   "end": 667.96,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 668.5,
+   "end": 670.96,
+   "text": "When do they, when do they kick off to the touchdown?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 671.42,
+   "end": 671.66,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_99"
+  },
+  {
+   "start": 671.98,
+   "end": 673.3,
+   "text": "Or if they kick a field goal.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 673.44,
+   "end": 673.88,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 674.12,
+   "end": 675.6,
+   "text": "It's either we'll count extra points.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 675.6,
+   "end": 680.08,
+   "text": "So whenever they score a touchdown, they kick and if they're like, oh, we're close, but",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 680.08,
+   "end": 682.18,
+   "text": "we can't, we're not going to make it.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 682.3,
+   "end": 684.76,
+   "text": "They kick your PATs count the same.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 685.16,
+   "end": 685.56,
+   "text": "No.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 685.98,
+   "end": 686.84,
+   "text": "That's what I want to do.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 687.5,
+   "end": 689.2,
+   "text": "What do we do with PATs?",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 689.8,
+   "end": 690.2,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 691.84,
+   "end": 693.96,
+   "text": "Gavin's always concerned about the PATs.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 693.96,
+   "end": 694.32,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 695.1,
+   "end": 697.38,
+   "text": "I assumed we were counting PATs, but we don't have to.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 697.44,
+   "end": 698.26,
+   "text": "We can just do field goals.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 698.26,
+   "end": 701.0,
+   "text": "Let's just do all the kicks, all the kicks that they're involved with.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 702.14,
+   "end": 703.36,
+   "text": "Anytime they score.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 703.68,
+   "end": 703.86,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 703.86,
+   "end": 704.18,
+   "text": "Yep.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 704.18,
+   "end": 706.8,
+   "text": "Uh, Eddie Pinero.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 707.56,
+   "end": 708.8,
+   "text": "Why are you feeling Eddie Pinero?",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 708.9,
+   "end": 709.26,
+   "text": "Dumb shit.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 709.7,
+   "end": 712.02,
+   "text": "What, what number, what, what team is he on?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 712.26,
+   "end": 713.14,
+   "text": "Who's Eddie Pinero?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 714.16,
+   "end": 714.6,
+   "text": "Panthers.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 714.8,
+   "end": 717.38,
+   "text": "Uh, I had Pinero bread yesterday for lunch.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 717.96,
+   "end": 718.24,
+   "text": "Uh-huh.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 718.54,
+   "end": 718.84,
+   "text": "Okay.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 721.72,
+   "end": 722.64,
+   "text": "Eddie Pinero.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 722.9,
+   "end": 723.7,
+   "text": "You're on there.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 724.0,
+   "end": 724.88,
+   "text": "You got it.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 725.34,
+   "end": 725.84,
+   "text": "I love it.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 725.86,
+   "end": 726.9,
+   "text": "Gavin, it's your turn again.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 727.34,
+   "end": 727.82,
+   "text": "Yeah, Gavin.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 727.96,
+   "end": 730.08,
+   "text": "What did you eat for lunch the previous day?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 730.9,
+   "end": 733.6,
+   "text": "Uh, oh, I, I don't remember.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 733.6,
+   "end": 736.06,
+   "text": "But, but there's a GoPro on my desk.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 736.18,
+   "end": 737.12,
+   "text": "That's a little camera.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 737.44,
+   "end": 737.9,
+   "text": "Cam Little.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 738.4,
+   "end": 738.76,
+   "text": "Wow.",
+   "speaker": "SPEAKER_99"
+  },
+  {
+   "start": 738.88,
+   "end": 741.14,
+   "text": "Oh, you took Cam Little out from under me.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 741.14,
+   "end": 741.42,
+   "text": "Cam Little.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 741.94,
+   "end": 742.28,
+   "text": "Damn.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 742.48,
+   "end": 744.32,
+   "text": "I love, I love the Cam Little pick.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 744.58,
+   "end": 746.14,
+   "text": "Yeah, that's a good, that's a pretty good pick.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 746.46,
+   "end": 751.54,
+   "text": "Um, and then what, what you're going to want to do is when you, uh, pick someone, you want",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 751.54,
+   "end": 752.66,
+   "text": "to let us know what team they're on.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 752.7,
+   "end": 753.68,
+   "text": "So you say Jaguars.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 754.06,
+   "end": 754.74,
+   "text": "Uh, Cam Little.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 754.74,
+   "end": 758.82,
+   "text": "Yeah, I mean, I wouldn't say Jaguars because that's not what that says, but, um.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 759.62,
+   "end": 761.04,
+   "text": "What would you, what would you say?",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 762.08,
+   "end": 763.22,
+   "text": "Oh, Jaguar, you mean?",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 763.76,
+   "end": 764.22,
+   "text": "The Jaguar.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 765.16,
+   "end": 765.56,
+   "text": "Jaguar.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 766.14,
+   "end": 766.58,
+   "text": "Jaguar.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 766.82,
+   "end": 767.1,
+   "text": "Okay.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 767.48,
+   "end": 767.7,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 767.78,
+   "end": 768.9,
+   "text": "Well, that's exactly how it's spelt.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 770.32,
+   "end": 772.7,
+   "text": "Oh, is that, is that the way this language works?",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 772.7,
+   "end": 773.34,
+   "text": "Jaguar.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 776.6,
+   "end": 777.74,
+   "text": "Here's the word gugment.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 782.1,
+   "end": 782.46,
+   "text": "Um.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 787.74,
+   "end": 789.44,
+   "text": "Well, Jeff, you've been away.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 790.96,
+   "end": 793.08,
+   "text": "Dumpshits had me in a real moody tootie.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 793.76,
+   "end": 797.28,
+   "text": "So with my pick, I'm going to go with the 49ers, Jake Moody.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 797.54,
+   "end": 798.0,
+   "text": "Damn it.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 798.14,
+   "end": 798.42,
+   "text": "Fuck.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 798.52,
+   "end": 799.4,
+   "text": "That was going to be my pick.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 799.56,
+   "end": 801.3,
+   "text": "I think that's a, I think that's a really strong pick.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 801.3,
+   "end": 804.9,
+   "text": "Like, he looks like an approachable dude in a country bar.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 805.44,
+   "end": 807.3,
+   "text": "Yeah, I think that's, I think that's pretty good.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 807.38,
+   "end": 809.76,
+   "text": "Are you, uh, you filling out that D column there, bud, or what?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 810.42,
+   "end": 811.36,
+   "text": "I sure can.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 811.44,
+   "end": 813.98,
+   "text": "I felt like you hopped in, so then I backed off.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 814.02,
+   "end": 815.26,
+   "text": "I'm, I'm taking care.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 815.36,
+   "end": 817.68,
+   "text": "I'm taking care of what's going on in the main board.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 817.98,
+   "end": 818.38,
+   "text": "Got it.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 818.46,
+   "end": 818.82,
+   "text": "Okay.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 819.54,
+   "end": 819.94,
+   "text": "Uh.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 820.98,
+   "end": 822.02,
+   "text": "Okay, it's my turn.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 822.42,
+   "end": 822.62,
+   "text": "Yep.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 822.66,
+   "end": 823.12,
+   "text": "I'm Jeff.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 823.92,
+   "end": 824.28,
+   "text": "Uh.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 825.08,
+   "end": 826.72,
+   "text": "I'm pretty excited about this one.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 826.72,
+   "end": 829.82,
+   "text": "I think it's going to be a good year for the Indianapolis Colts.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 829.82,
+   "end": 835.46,
+   "text": "Uh, they have a great kicker, great name, Matt Gay.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 836.18,
+   "end": 836.98,
+   "text": "Very good.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 838.1,
+   "end": 838.56,
+   "text": "Interesting.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 838.56,
+   "end": 838.96,
+   "text": "Very good kicker.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 839.28,
+   "end": 839.96,
+   "text": "Very good team.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 840.08,
+   "end": 841.92,
+   "text": "Very, on the, on the rise, that team.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 842.1,
+   "end": 842.58,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 842.62,
+   "end": 846.06,
+   "text": "In 2022, he hit 93.3% of his field goals.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 846.38,
+   "end": 846.86,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 846.96,
+   "end": 848.88,
+   "text": "He did it the gay way, as they say.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 849.38,
+   "end": 854.48,
+   "text": "Well, if we're going by, if we're going by great names, I think you've chosen a great",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 854.48,
+   "end": 854.78,
+   "text": "one.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 859.82,
+   "end": 864.72,
+   "text": "Kickers, and if you're talking kickers, you better be talking dickers.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 864.98,
+   "end": 867.42,
+   "text": "Cameron Dicker is my pick.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 867.52,
+   "end": 871.04,
+   "text": "The dicker kicker is my picker to win this whole thing.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 871.42,
+   "end": 872.58,
+   "text": "Nickname Dicker the kicker.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 872.7,
+   "end": 873.3,
+   "text": "No joke.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 874.26,
+   "end": 878.16,
+   "text": "That's, I don't know that it's a nickname so much as it is a name and a description of",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 878.16,
+   "end": 878.72,
+   "text": "his job.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 879.1,
+   "end": 881.08,
+   "text": "It was his nickname at UT.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 882.08,
+   "end": 883.3,
+   "text": "Oh, is that where he kicked?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 883.66,
+   "end": 883.98,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 884.68,
+   "end": 885.38,
+   "text": "So thanks for taking.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 885.78,
+   "end": 886.22,
+   "text": "Yeah, I know.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 886.46,
+   "end": 886.72,
+   "text": "I saw.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 886.92,
+   "end": 887.12,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 887.36,
+   "end": 889.16,
+   "text": "I think, uh, I think Nick's a little annoyed.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 889.66,
+   "end": 889.9,
+   "text": "Uh.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 890.3,
+   "end": 892.62,
+   "text": "I took a cowboy and I took the UT guy.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 892.68,
+   "end": 893.3,
+   "text": "That's pretty cool.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 893.6,
+   "end": 893.74,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 893.8,
+   "end": 893.92,
+   "text": "You're, uh.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 893.92,
+   "end": 894.96,
+   "text": "Nick's in a Jake Booty.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 895.58,
+   "end": 895.74,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 899.74,
+   "end": 900.52,
+   "text": "Hey, dumb shit.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 900.58,
+   "end": 901.32,
+   "text": "That was pretty good.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 901.88,
+   "end": 902.66,
+   "text": "That was funny.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 903.12,
+   "end": 903.38,
+   "text": "Thanks.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 903.38,
+   "end": 906.7,
+   "text": "That made me, that made me laugh.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 906.78,
+   "end": 908.38,
+   "text": "So I'm going with Chase McLaughlin.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 908.38,
+   "end": 909.22,
+   "text": "That's McLaughlin.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 909.36,
+   "end": 910.12,
+   "text": "That's McLaughlin.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 910.26,
+   "end": 911.12,
+   "text": "Oh, for the bucks.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 911.74,
+   "end": 912.4,
+   "text": "Good joke.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 912.54,
+   "end": 914.24,
+   "text": "Doesn't even, it's not even spelt laugh.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 914.34,
+   "end": 916.02,
+   "text": "No, that's a V-C-H.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 916.4,
+   "end": 918.48,
+   "text": "He took that name and tried to make it clay.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 918.82,
+   "end": 920.58,
+   "text": "According to Gavin, that would be Layuchlin.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 923.7,
+   "end": 924.14,
+   "text": "Layuchlin.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 929.94,
+   "end": 931.02,
+   "text": "Oh, man.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 931.16,
+   "end": 933.02,
+   "text": "You're back on the board, Nick.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 933.4,
+   "end": 934.42,
+   "text": "Nick, you got it again.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 934.42,
+   "end": 942.57,
+   "text": "Oh, you know, I'm going to go with Graham Gano from the Giants.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 943.21,
+   "end": 943.61,
+   "text": "Damn it.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 943.69,
+   "end": 944.79,
+   "text": "I was going to pick that.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 945.79,
+   "end": 948.39,
+   "text": "Oh, because it's three G's.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 948.61,
+   "end": 949.43,
+   "text": "It is.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 949.61,
+   "end": 950.65,
+   "text": "Oh, he's triple G.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 950.97,
+   "end": 952.53,
+   "text": "Oh, guys, grocery games.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 953.51,
+   "end": 955.97,
+   "text": "That's what you think of when you hear triple G.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 956.13,
+   "end": 956.29,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 956.33,
+   "end": 956.91,
+   "text": "That's what the nickname.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 957.79,
+   "end": 963.31,
+   "text": "Uh, we talked about how this was, uh, a pool of a lot of similar looking dudes and I'm",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 963.31,
+   "end": 964.23,
+   "text": "going the other way.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 964.61,
+   "end": 968.15,
+   "text": "Um, young ho coup from the Falcons.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 968.29,
+   "end": 969.99,
+   "text": "He's my guy.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 970.09,
+   "end": 974.75,
+   "text": "I think, I think the Falcons, again, I'm trying to pick teams that are not making",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 974.75,
+   "end": 976.15,
+   "text": "it to the end zone.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 976.15,
+   "end": 980.09,
+   "text": "So from about 26 yards out, they're going to have to settle for three.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 980.33,
+   "end": 981.69,
+   "text": "I'm feeling good about my pick so far.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 982.37,
+   "end": 983.01,
+   "text": "That's a good one.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 983.71,
+   "end": 984.77,
+   "text": "Uh, all right.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 984.77,
+   "end": 985.43,
+   "text": "It's my turn.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 985.67,
+   "end": 988.97,
+   "text": "Uh, I'm gonna give some real football analysis here.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 988.97,
+   "end": 995.47,
+   "text": "I think the Pittsburgh Steelers are going to have a, a fun season of watching a, uh, Justin",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 995.47,
+   "end": 1003.43,
+   "text": "Fields and, uh, and Russell Wilson fight over who can be the most mid quarterback in",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1003.43,
+   "end": 1003.93,
+   "text": "the NFL.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1003.93,
+   "end": 1007.79,
+   "text": "Well, and so I think they're going to have to rely pretty heavily on Chris Boswell for",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1007.79,
+   "end": 1008.27,
+   "text": "points.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1008.75,
+   "end": 1011.51,
+   "text": "You see a lot of field goals for the Steelers kicker.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1011.99,
+   "end": 1012.31,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1012.43,
+   "end": 1015.53,
+   "text": "I think, uh, I think that's probably a pretty safe.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1015.97,
+   "end": 1016.85,
+   "text": "That's a pretty safe one.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1017.33,
+   "end": 1020.27,
+   "text": "Um, they are not making the end zone very much.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1020.37,
+   "end": 1021.23,
+   "text": "It's going to be pretty exciting.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1021.83,
+   "end": 1022.15,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1022.51,
+   "end": 1022.67,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1022.67,
+   "end": 1025.81,
+   "text": "I do think they're going to do the Russell Wilson thing where it's like, how many games",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1025.81,
+   "end": 1028.83,
+   "text": "does it take for him to throw as many touchdowns as he has bathrooms in his house",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1028.83,
+   "end": 1029.23,
+   "text": "again?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1029.23,
+   "end": 1032.17,
+   "text": "I didn't see that last time.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1032.59,
+   "end": 1033.01,
+   "text": "Oh, really?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1033.21,
+   "end": 1033.59,
+   "text": "Oh yeah.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1033.63,
+   "end": 1036.59,
+   "text": "It was like, how long does it take before he gets to nine touchdowns?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1036.63,
+   "end": 1040.75,
+   "text": "The number of bathrooms he has in his home took a long time.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1040.95,
+   "end": 1041.91,
+   "text": "It took a long time.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1041.91,
+   "end": 1046.71,
+   "text": "Do you think if you had nine bathrooms in your house, you'd make it a point to shit in everyone",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1046.71,
+   "end": 1047.51,
+   "text": "quickly?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1048.05,
+   "end": 1048.31,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1048.93,
+   "end": 1049.25,
+   "text": "No.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1049.25,
+   "end": 1050.15,
+   "text": "Do you need to save one?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1050.25,
+   "end": 1053.07,
+   "text": "Just be like, I want to leave one clean, pristine.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1053.93,
+   "end": 1054.11,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1054.21,
+   "end": 1055.53,
+   "text": "For like a special occasion.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1055.63,
+   "end": 1057.29,
+   "text": "They don't stay good though.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1057.83,
+   "end": 1059.17,
+   "text": "No, I, Gavin's right.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1059.23,
+   "end": 1061.79,
+   "text": "Like, I definitely think it's an issue.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1061.97,
+   "end": 1062.15,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1062.61,
+   "end": 1064.11,
+   "text": "What do you mean they don't stay good?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1064.33,
+   "end": 1068.81,
+   "text": "Like the, if you, if you have a bog that's not used, the water evaporates out and it goes",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 1068.81,
+   "end": 1069.03,
+   "text": "on.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 1069.11,
+   "end": 1069.25,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 1069.29,
+   "end": 1071.25,
+   "text": "The water will like, no, really?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1071.49,
+   "end": 1071.89,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1071.97,
+   "end": 1072.25,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1072.25,
+   "end": 1072.95,
+   "text": "It's bad.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1073.23,
+   "end": 1074.13,
+   "text": "Keep them flushed.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1074.29,
+   "end": 1075.73,
+   "text": "That's how Russell Wilson stays fit.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1076.25,
+   "end": 1076.45,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1076.45,
+   "end": 1078.03,
+   "text": "That's how he, that's his workout routine.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1078.03,
+   "end": 1079.55,
+   "text": "He just runs up and down stairs.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1080.37,
+   "end": 1081.13,
+   "text": "Drills flush.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1081.25,
+   "end": 1081.65,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1081.97,
+   "end": 1082.41,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1082.41,
+   "end": 1084.05,
+   "text": "That's why he's fucking sucks.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1088.85,
+   "end": 1089.25,
+   "text": "Shit.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1089.25,
+   "end": 1090.71,
+   "text": "Uh, but now it's Andrew's pick.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1091.11,
+   "end": 1091.85,
+   "text": "Oh man.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1092.89,
+   "end": 1094.95,
+   "text": "There's so many good names still on the board.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1095.01,
+   "end": 1097.91,
+   "text": "So many, when I say good names, I mean literally good names.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1098.07,
+   "end": 1098.45,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1098.49,
+   "end": 1099.79,
+   "text": "You know, bass fishing.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1100.87,
+   "end": 1105.23,
+   "text": "Uh, how do I want to, you know what?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1105.23,
+   "end": 1110.07,
+   "text": "Uh, I'm going to go with Cade York cause he just looks happy to be here.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1110.31,
+   "end": 1114.49,
+   "text": "I think the commanders are not going to command themselves into the end zone all that often.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1115.21,
+   "end": 1120.05,
+   "text": "And, uh, he just, he has a, he's got a chill vibe to him.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1120.61,
+   "end": 1120.91,
+   "text": "Okay.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1121.01,
+   "end": 1122.09,
+   "text": "He's got the mustache.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1122.77,
+   "end": 1124.73,
+   "text": "Looks like a wacky sheriff almost.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1124.83,
+   "end": 1125.19,
+   "text": "I don't know.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1125.51,
+   "end": 1126.89,
+   "text": "I'm liking Cade York.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1127.37,
+   "end": 1130.95,
+   "text": "I guess he looks like the deputy who gets shot.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1132.09,
+   "end": 1132.75,
+   "text": "He does.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1133.01,
+   "end": 1133.17,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1133.25,
+   "end": 1136.63,
+   "text": "He lives though, but he ends up, he gets shot in the, in the shoulder.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1136.83,
+   "end": 1137.03,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1137.41,
+   "end": 1138.33,
+   "text": "Oh, sheriff.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1138.55,
+   "end": 1140.03,
+   "text": "We got to stop him.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1140.41,
+   "end": 1144.13,
+   "text": "At the end of the movie, he's, he's got a sling and you're like, oh, thank God you made it.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1144.13,
+   "end": 1145.01,
+   "text": "Oh, he lived.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1145.09,
+   "end": 1145.37,
+   "text": "That's cool.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1145.41,
+   "end": 1146.97,
+   "text": "They shot him in the gut, but he has a sling.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1147.03,
+   "end": 1147.45,
+   "text": "That's cool.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1148.05,
+   "end": 1151.73,
+   "text": "Uh, Gavin, I know you're really locked in on this.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1152.15,
+   "end": 1153.23,
+   "text": "Oh, locked all the way.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 1153.53,
+   "end": 1153.87,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1153.93,
+   "end": 1154.11,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1154.11,
+   "end": 1156.73,
+   "text": "But now it's time for you to make your next two picks.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1156.91,
+   "end": 1160.35,
+   "text": "I'm now looking at the, you know, who's been picked so far and we've got some, you know,",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 1160.35,
+   "end": 1161.81,
+   "text": "some childish giggle names.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 1161.91,
+   "end": 1163.29,
+   "text": "We've got gay and Dicker.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 1163.37,
+   "end": 1165.93,
+   "text": "And I thought, let me find one of those right in between.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 1166.07,
+   "end": 1167.67,
+   "text": "We've got Harrison Butker.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 1168.07,
+   "end": 1171.55,
+   "text": "Oh, you, you do, you do.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1171.55,
+   "end": 1173.65,
+   "text": "The chiefs, that's pretty good.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1174.25,
+   "end": 1178.43,
+   "text": "And, and, and it could be a death by a thousand cuts because it's going to, they're going to",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1178.43,
+   "end": 1183.81,
+   "text": "get, he's going to get a lot of, uh, point after one here and there, like over and",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1183.81,
+   "end": 1184.49,
+   "text": "over and over again.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1184.49,
+   "end": 1194.01,
+   "text": "So, so I've been gone for what fucking two weeks or something.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1194.13,
+   "end": 1194.29,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1194.47,
+   "end": 1194.87,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1195.07,
+   "end": 1196.73,
+   "text": "I've been sick the entire time.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1196.73,
+   "end": 1199.11,
+   "text": "Oh, yeah, pretty much.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1199.19,
+   "end": 1199.33,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1200.15,
+   "end": 1203.09,
+   "text": "I got some, I picked up something in Detroit and I've been trying to get rid of it.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1203.19,
+   "end": 1203.71,
+   "text": "Oh no.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1203.91,
+   "end": 1204.95,
+   "text": "Hey, Hey, you know what?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1204.97,
+   "end": 1207.05,
+   "text": "At least you're back and you just get to relax now, man.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1207.09,
+   "end": 1207.37,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1207.37,
+   "end": 1209.83,
+   "text": "I, I, until like, I'm on a plane at noon tomorrow.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1210.07,
+   "end": 1210.55,
+   "text": "Oh, right.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1210.67,
+   "end": 1210.81,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1210.81,
+   "end": 1211.05,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1211.89,
+   "end": 1214.43,
+   "text": "Gavin, have fun with that Butker, uh, pick.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1214.49,
+   "end": 1216.71,
+   "text": "He's, uh, he's been in the news a bit lately.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1216.77,
+   "end": 1217.55,
+   "text": "Oh yeah.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1217.65,
+   "end": 1219.89,
+   "text": "He made himself a real ass in the off season.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1220.23,
+   "end": 1222.29,
+   "text": "I mean, surely for good things, right?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1222.35,
+   "end": 1222.61,
+   "text": "Jeff.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1223.33,
+   "end": 1223.55,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1223.55,
+   "end": 1228.99,
+   "text": "He gave a speech at a, uh, I believe it was at a, uh, college graduation that, uh,",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1228.99,
+   "end": 1230.13,
+   "text": "ruffled a few feathers.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1230.55,
+   "end": 1230.91,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1231.79,
+   "end": 1232.11,
+   "text": "What?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1232.11,
+   "end": 1233.37,
+   "text": "What's he done?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1233.39,
+   "end": 1233.57,
+   "text": "What?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1233.59,
+   "end": 1234.53,
+   "text": "You didn't know about that?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1234.97,
+   "end": 1235.33,
+   "text": "No.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1236.17,
+   "end": 1239.19,
+   "text": "I mean, I, I expect Gavin to be on top of NFL news.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1239.33,
+   "end": 1245.53,
+   "text": "Uh, he's sort of a, uh, sort of a women belong in the kitchen and not at colleges learning",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1245.53,
+   "end": 1246.49,
+   "text": "kind of vibe.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1246.77,
+   "end": 1246.91,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1246.91,
+   "end": 1247.69,
+   "text": "I thought you'd like this.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1247.69,
+   "end": 1252.83,
+   "text": "Uh, real, uh, real, uh, real big in the, in the MAGA movement I hear.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1253.65,
+   "end": 1254.05,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1254.17,
+   "end": 1256.97,
+   "text": "Do you not, I, I thought this was like your boy right here, dude.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1257.89,
+   "end": 1260.07,
+   "text": "I'm immediately going to distance myself from the boy.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 1260.21,
+   "end": 1261.47,
+   "text": "He's been raised picked obviously.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 1261.47,
+   "end": 1265.35,
+   "text": "Because of a funny name, but I'll say this.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 1265.39,
+   "end": 1266.41,
+   "text": "He's a really good kicker.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1266.49,
+   "end": 1268.67,
+   "text": "I, I, I look at him and I went, he is elite.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1268.87,
+   "end": 1269.39,
+   "text": "Damn it.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1269.47,
+   "end": 1272.61,
+   "text": "I, I, uh, I skipped over him, but yeah, I forgot about that.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1272.69,
+   "end": 1273.45,
+   "text": "Thanks for taking him, Gavin.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1273.69,
+   "end": 1273.87,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1273.87,
+   "end": 1275.83,
+   "text": "We, I think everybody appreciates you taking him.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 1275.83,
+   "end": 1275.95,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 1276.01,
+   "end": 1276.79,
+   "text": "Took a bullet there.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 1277.01,
+   "end": 1283.87,
+   "text": "Uh, this name's it's messing with my brain because it's almost entirely Ray Narvaez, but",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 1283.87,
+   "end": 1286.69,
+   "text": "it isn't, it's Brayden Narvaez.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 1287.43,
+   "end": 1289.45,
+   "text": "A lot of the letters are in there.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 1289.45,
+   "end": 1290.11,
+   "text": "Oh yeah.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 1290.11,
+   "end": 1291.67,
+   "text": "And he looks exactly like Ray.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 1293.33,
+   "end": 1293.73,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1293.83,
+   "end": 1296.11,
+   "text": "You think, you think he looks exactly like Ray?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1296.41,
+   "end": 1298.61,
+   "text": "You think that's what Ray looks like?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1300.61,
+   "end": 1301.01,
+   "text": "Twins.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1302.29,
+   "end": 1303.61,
+   "text": "Do you know about that?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1303.67,
+   "end": 1305.33,
+   "text": "Do you know about that kicker that looks like Ray?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1306.07,
+   "end": 1307.53,
+   "text": "Did he punch a woman or something?",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 1308.07,
+   "end": 1308.35,
+   "text": "No.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1308.49,
+   "end": 1308.69,
+   "text": "What?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1308.89,
+   "end": 1309.03,
+   "text": "What?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1309.67,
+   "end": 1310.15,
+   "text": "Oh, okay.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 1310.85,
+   "end": 1311.11,
+   "text": "I don't know.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 1311.11,
+   "end": 1312.15,
+   "text": "I was just prepared for the worst.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 1313.01,
+   "end": 1313.33,
+   "text": "What?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1314.47,
+   "end": 1314.83,
+   "text": "Whoa.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 1314.99,
+   "end": 1316.13,
+   "text": "Why would you say that?",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 1316.19,
+   "end": 1318.23,
+   "text": "Well, after butt kiss or whatever, who'd I ask for?",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 1318.79,
+   "end": 1319.87,
+   "text": "That's you, dude.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 1319.97,
+   "end": 1321.15,
+   "text": "I don't know what you're like.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1321.27,
+   "end": 1323.37,
+   "text": "What, what are you talking about?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1325.13,
+   "end": 1325.85,
+   "text": "I'm learning.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 1326.01,
+   "end": 1327.33,
+   "text": "What, what did he, what did this guy do?",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 1327.91,
+   "end": 1328.25,
+   "text": "Nothing.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1328.47,
+   "end": 1328.61,
+   "text": "What?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1328.61,
+   "end": 1329.83,
+   "text": "He just looks like Ray.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1329.93,
+   "end": 1330.55,
+   "text": "He didn't do anything.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1330.77,
+   "end": 1334.27,
+   "text": "It's just that this is a, this is the NFL kicker that looks like Ray.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1334.57,
+   "end": 1334.79,
+   "text": "Wow.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1334.83,
+   "end": 1335.59,
+   "text": "He's got the wrong name.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1336.07,
+   "end": 1336.91,
+   "text": "That's true.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1337.33,
+   "end": 1338.75,
+   "text": "Rod the kicker three.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1338.89,
+   "end": 1341.03,
+   "text": "And I don't think he, I don't know if he's even in the league anymore.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1341.05,
+   "end": 1343.43,
+   "text": "He does look a little bit like Ray though, doesn't he?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1343.81,
+   "end": 1343.99,
+   "text": "Yep.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1344.77,
+   "end": 1346.97,
+   "text": "See, you think that's Ray photoshopped in there.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1347.11,
+   "end": 1347.49,
+   "text": "It's not.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1347.65,
+   "end": 1348.95,
+   "text": "That's just what the guy looks like.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1349.11,
+   "end": 1349.75,
+   "text": "That's incredible.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1350.31,
+   "end": 1350.47,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1350.47,
+   "end": 1351.07,
+   "text": "Isn't that crazy?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1351.53,
+   "end": 1352.01,
+   "text": "Isn't that weird?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1352.79,
+   "end": 1353.99,
+   "text": "Oh, wow.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1354.77,
+   "end": 1355.91,
+   "text": "Why can't we pick him?",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 1356.49,
+   "end": 1356.73,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1357.03,
+   "end": 1357.95,
+   "text": "He's not in the league.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1358.43,
+   "end": 1358.61,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1358.69,
+   "end": 1359.07,
+   "text": "I don't know.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1359.13,
+   "end": 1361.15,
+   "text": "He might be in the league, but he's not on this list.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1361.31,
+   "end": 1364.89,
+   "text": "Ah, but Andrew, it's time for you to make your pick from who's on this list.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1364.97,
+   "end": 1365.35,
+   "text": "Oh shit.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1365.39,
+   "end": 1365.95,
+   "text": "It's my turn.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1367.05,
+   "end": 1368.57,
+   "text": "That's how this thing has worked so far.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1368.63,
+   "end": 1368.75,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1369.27,
+   "end": 1369.47,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1369.47,
+   "end": 1370.95,
+   "text": "Well, listen, I was caught up in Gavin.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1372.69,
+   "end": 1373.99,
+   "text": "Not knowing who Ray is.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1377.99,
+   "end": 1379.77,
+   "text": "It's weird because they kind of work together.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1380.21,
+   "end": 1381.29,
+   "text": "Not very long though.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1381.35,
+   "end": 1383.17,
+   "text": "It's not nearly as long as everybody remembers.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1383.35,
+   "end": 1383.93,
+   "text": "No, that's true.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1384.23,
+   "end": 1384.53,
+   "text": "That's fair.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1385.27,
+   "end": 1390.29,
+   "text": "I think I'm going to go with some Mario Karti, Joshua Karti with the ramps, 25.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1390.59,
+   "end": 1391.43,
+   "text": "He looks happy.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1391.79,
+   "end": 1393.87,
+   "text": "I'm going with a good vibe squad.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1394.69,
+   "end": 1395.59,
+   "text": "Joshua Karti.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1396.33,
+   "end": 1397.67,
+   "text": "He's got a big smile.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1398.19,
+   "end": 1398.83,
+   "text": "He does.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1399.65,
+   "end": 1400.49,
+   "text": "He also likes the name.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1400.55,
+   "end": 1404.77,
+   "text": "I can't tell if he's got like the little chin goatee thing, but maybe it's just a shadow.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1404.81,
+   "end": 1405.45,
+   "text": "It might be a shadow.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1406.39,
+   "end": 1406.53,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1407.13,
+   "end": 1409.55,
+   "text": "Kind of looks like Andy from Toy Story growing up.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1409.55,
+   "end": 1411.27,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1411.27,
+   "end": 1414.51,
+   "text": "About as much as Brayden, Narvis, and looks like Ray.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1414.63,
+   "end": 1414.73,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1414.81,
+   "end": 1417.35,
+   "text": "No, I think my comparable is a lot better than that.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1418.95,
+   "end": 1419.81,
+   "text": "Whatever you say, man.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1420.51,
+   "end": 1421.09,
+   "text": "It is what I say.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1421.65,
+   "end": 1422.05,
+   "text": "Jeff.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1422.55,
+   "end": 1428.03,
+   "text": "I'm going to go with a completely boring, non-controversial or funny pick in any way.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1428.19,
+   "end": 1429.43,
+   "text": "Jake Elliott for the Eagles.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1429.89,
+   "end": 1430.23,
+   "text": "Okay.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1430.55,
+   "end": 1430.99,
+   "text": "Go Eagles.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1430.99,
+   "end": 1432.05,
+   "text": "He's going to get a lot of action.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1432.41,
+   "end": 1432.63,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1433.69,
+   "end": 1435.69,
+   "text": "I think you're probably right.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1437.47,
+   "end": 1441.89,
+   "text": "I'm going with the Bears, Cairo Santos.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1442.41,
+   "end": 1445.11,
+   "text": "I don't really have much of a reason.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1445.41,
+   "end": 1446.69,
+   "text": "I think it's a great name.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1446.97,
+   "end": 1453.39,
+   "text": "I think the Bears are going to, you know, you got to pick someone who's still on.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1453.47,
+   "end": 1455.39,
+   "text": "Cam Little got chosen, so what am I supposed to do?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1455.51,
+   "end": 1456.77,
+   "text": "I'm going to go with Cairo Santos.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1457.93,
+   "end": 1458.77,
+   "text": "Nick, you got two.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1458.77,
+   "end": 1464.85,
+   "text": "You know, I'm going to go with, I think, from the Cardinals, Matt Prater.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1465.75,
+   "end": 1465.89,
+   "text": "Okay.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1465.89,
+   "end": 1470.33,
+   "text": "Because I don't know that they're going to hit the end zone a lot, but if they do, at",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1470.33,
+   "end": 1471.59,
+   "text": "least they'll get the PATs then.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1472.35,
+   "end": 1473.73,
+   "text": "Old as fuck, Matt Prater.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1473.89,
+   "end": 1474.53,
+   "text": "I think he's 43.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1475.21,
+   "end": 1478.99,
+   "text": "He's got a lot of experience, 481 kicks already, so he's hopefully still accurate.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1478.99,
+   "end": 1480.27,
+   "text": "That's a really nice way of saying old.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1480.73,
+   "end": 1482.49,
+   "text": "Well, he's got some mileage.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1482.65,
+   "end": 1483.09,
+   "text": "How about that?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1485.09,
+   "end": 1486.77,
+   "text": "And then I'm going to go with...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1488.77,
+   "end": 1490.61,
+   "text": "Oh, the Browns.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1491.37,
+   "end": 1491.79,
+   "text": "I have a feeling...",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1491.79,
+   "end": 1492.51,
+   "text": "Oh, we keep going?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1492.73,
+   "end": 1493.53,
+   "text": "How many are we doing?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1494.07,
+   "end": 1494.39,
+   "text": "Six.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1494.67,
+   "end": 1494.99,
+   "text": "Six.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1495.33,
+   "end": 1496.21,
+   "text": "Let me explain this.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1496.21,
+   "end": 1496.79,
+   "text": "It was over.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1500.74,
+   "end": 1502.78,
+   "text": "You've got to pick two more times, asshole.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1503.42,
+   "end": 1503.66,
+   "text": "All right.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1504.12,
+   "end": 1504.5,
+   "text": "Good deal.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1504.64,
+   "end": 1508.74,
+   "text": "I think the Browns are going to be a shit show, but I think they're going to be in field",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1508.74,
+   "end": 1509.18,
+   "text": "goal range.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1509.34,
+   "end": 1510.18,
+   "text": "Lucas, have a risk.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1510.56,
+   "end": 1510.98,
+   "text": "Have a risk.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1511.14,
+   "end": 1511.22,
+   "text": "Okay.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1512.58,
+   "end": 1513.38,
+   "text": "We'll see how they do it.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1513.38,
+   "end": 1514.12,
+   "text": "I think you nailed it.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1514.36,
+   "end": 1514.54,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1514.96,
+   "end": 1515.72,
+   "text": "I think that's great.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1515.92,
+   "end": 1516.6,
+   "text": "I'm feeling confident.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1517.44,
+   "end": 1518.16,
+   "text": "Loving my team.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1519.16,
+   "end": 1521.04,
+   "text": "Now it's back to me.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1521.54,
+   "end": 1529.94,
+   "text": "And I think, man, how about Jason Sanders for the Dolphins?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1529.94,
+   "end": 1536.14,
+   "text": "Nothing funny about that pick, but if they score a lot of touchdowns, he'll give me some",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1536.14,
+   "end": 1539.8,
+   "text": "numbers, but if they're just in the range and they can't quite get there, I think he's",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1539.8,
+   "end": 1541.56,
+   "text": "going to be a guy that you see a lot of.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1545.15,
+   "end": 1545.59,
+   "text": "Jeff.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1546.59,
+   "end": 1548.69,
+   "text": "I'm going to pick Seahawks.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1549.17,
+   "end": 1550.57,
+   "text": "It should be Jason Myers.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1550.83,
+   "end": 1551.07,
+   "text": "No.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1552.61,
+   "end": 1554.87,
+   "text": "Two-time Pro Bowl or Jason Myers.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1555.49,
+   "end": 1556.45,
+   "text": "That's going to be my pick.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1556.53,
+   "end": 1557.33,
+   "text": "I feel pretty good about that.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1557.47,
+   "end": 1557.61,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1557.67,
+   "end": 1558.05,
+   "text": "Thank you.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1558.37,
+   "end": 1559.05,
+   "text": "There he goes.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1559.21,
+   "end": 1561.29,
+   "text": "He's got a serial killer last name and first name.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1561.73,
+   "end": 1562.69,
+   "text": "He's a killer killer.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1562.95,
+   "end": 1563.31,
+   "text": "Halloween.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1564.27,
+   "end": 1564.93,
+   "text": "He's unstoppable.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1565.87,
+   "end": 1566.89,
+   "text": "Andrew, who are you thinking?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1566.89,
+   "end": 1572.37,
+   "text": "Oh, this is really tough because there's an important thing to this that you need to",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1572.37,
+   "end": 1575.35,
+   "text": "consider of I'm going to be yelling potential.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1575.47,
+   "end": 1579.91,
+   "text": "I need somebody's name that is fun to just yell for when they disappoint me or excite me.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1579.99,
+   "end": 1581.09,
+   "text": "Probably disappoint me.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1581.83,
+   "end": 1585.15,
+   "text": "I'm trying to decide if it's more fun to yell lutz or group.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1586.09,
+   "end": 1587.03,
+   "text": "It's tough.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1587.55,
+   "end": 1589.37,
+   "text": "Well, you know, you have two picks.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1589.51,
+   "end": 1591.71,
+   "text": "You can get them both in there.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1591.71,
+   "end": 1592.65,
+   "text": "I'm not a swing.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1593.71,
+   "end": 1594.07,
+   "text": "Fourth.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1596.75,
+   "end": 1598.09,
+   "text": "Well, I have two picks remaining.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1598.21,
+   "end": 1598.55,
+   "text": "That's true.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1599.05,
+   "end": 1600.97,
+   "text": "But I'm going to go with lutz.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1602.51,
+   "end": 1603.53,
+   "text": "Like, lutz.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1603.87,
+   "end": 1607.15,
+   "text": "Like, is what I said confusing in any way?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1607.27,
+   "end": 1608.57,
+   "text": "No, I just was clarifying that.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1608.69,
+   "end": 1610.83,
+   "text": "You know, I don't have a guarantee to lock them up.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1611.29,
+   "end": 1613.33,
+   "text": "Gavin could swoop in and take some group.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1615.31,
+   "end": 1617.63,
+   "text": "You know, I really like the look of Blake's group.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1618.15,
+   "end": 1620.05,
+   "text": "Yeah, you son of a bitch!",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 1621.71,
+   "end": 1622.79,
+   "text": "He plays for the Saints.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 1623.21,
+   "end": 1623.91,
+   "text": "He does.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1624.03,
+   "end": 1625.35,
+   "text": "He does play for the Saints.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1625.65,
+   "end": 1625.67,
+   "text": "Group.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1625.83,
+   "end": 1627.01,
+   "text": "And he is Blake group.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1627.31,
+   "end": 1628.55,
+   "text": "What a great pick, Gavin.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1628.67,
+   "end": 1629.49,
+   "text": "That's really smart.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1631.37,
+   "end": 1632.27,
+   "text": "Oh, that's a good question.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 1632.41,
+   "end": 1633.93,
+   "text": "Why else is fun to yell?",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 1634.51,
+   "end": 1634.83,
+   "text": "Uh-huh.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1635.07,
+   "end": 1635.73,
+   "text": "You have one more.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1635.81,
+   "end": 1636.39,
+   "text": "You got one more.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1638.88,
+   "end": 1639.52,
+   "text": "Nick Folk.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 1641.36,
+   "end": 1641.84,
+   "text": "Oh.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1642.04,
+   "end": 1642.82,
+   "text": "And what's he on?",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1643.26,
+   "end": 1643.68,
+   "text": "The Titans.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1644.14,
+   "end": 1644.46,
+   "text": "Titans.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 1644.46,
+   "end": 1645.3,
+   "text": "The Titans.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 1645.66,
+   "end": 1647.78,
+   "text": "Look at his big, big jaw.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 1648.9,
+   "end": 1649.34,
+   "text": "Nick Folk.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1649.34,
+   "end": 1651.48,
+   "text": "Discord kind of like cut out when you said it.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1651.56,
+   "end": 1653.42,
+   "text": "So it sort of sounded like you said Nick Fuck.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1653.7,
+   "end": 1656.48,
+   "text": "You're picking Nick Fuck for the Titans.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1657.88,
+   "end": 1660.16,
+   "text": "Okay, Gavin's got all of his kickers locked up.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1660.26,
+   "end": 1664.34,
+   "text": "Now it's time for Andrew to finally make his last pick, and you can't take group.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1664.34,
+   "end": 1665.92,
+   "text": "Group's off the list, dude.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1667.08,
+   "end": 1669.76,
+   "text": "I don't like the look of Chad Ryland, just personally.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1670.14,
+   "end": 1670.58,
+   "text": "Okay.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1670.82,
+   "end": 1671.12,
+   "text": "That's just my opinion.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1671.4,
+   "end": 1671.72,
+   "text": "Okay.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1672.2,
+   "end": 1672.62,
+   "text": "I get it.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1674.16,
+   "end": 1674.88,
+   "text": "Oh, man.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1675.16,
+   "end": 1678.16,
+   "text": "There's still a lot of kickers here that you can feel pretty good about.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1678.16,
+   "end": 1678.56,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1679.62,
+   "end": 1680.14,
+   "text": "You know what?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1680.14,
+   "end": 1682.6,
+   "text": "I'm going to do some bass fishing.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1682.9,
+   "end": 1684.24,
+   "text": "I'm taking that Tyler Bass.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1684.66,
+   "end": 1684.96,
+   "text": "Damn.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1685.04,
+   "end": 1686.32,
+   "text": "That was going to be my pick, man.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1686.38,
+   "end": 1686.84,
+   "text": "That's a good.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1686.9,
+   "end": 1688.02,
+   "text": "I think that's going to be a good pick.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1688.02,
+   "end": 1689.66,
+   "text": "I'm going to like me some Tyler Bass.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1689.98,
+   "end": 1690.26,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1690.68,
+   "end": 1690.98,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1690.98,
+   "end": 1692.14,
+   "text": "I think that's going to be pretty good.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1693.9,
+   "end": 1695.56,
+   "text": "How about you, Jeff?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1696.1,
+   "end": 1696.66,
+   "text": "Oh, my God.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1696.76,
+   "end": 1698.08,
+   "text": "Can I see who's left?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1698.22,
+   "end": 1698.28,
+   "text": "Yes.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1698.28,
+   "end": 1699.38,
+   "text": "I got Evan McPherson.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1699.9,
+   "end": 1700.12,
+   "text": "Yep.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1700.12,
+   "end": 1704.18,
+   "text": "You also have, here's Austin Seabert.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1704.18,
+   "end": 1708.2,
+   "text": "Austin Seabert or Chad Ryland.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1709.46,
+   "end": 1719.8,
+   "text": "Chad Ryland, Kaimi Fairburn, and Will Reichardt, who is brand new and might die first.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1719.86,
+   "end": 1720.28,
+   "text": "I'm not sure.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1721.9,
+   "end": 1722.86,
+   "text": "That's tough, dude.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1722.94,
+   "end": 1724.0,
+   "text": "Here's what I'm going to go with.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1724.12,
+   "end": 1727.74,
+   "text": "I'm going to go with, these are all fucking quarterback heavy teams.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1728.06,
+   "end": 1729.54,
+   "text": "I'm going to go with...",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1730.12,
+   "end": 1734.78,
+   "text": "Evan McPherson with the Bengals, because I think there's a pretty good chance that Joe",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1734.78,
+   "end": 1735.58,
+   "text": "Burrow gets hurt.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1735.78,
+   "end": 1742.36,
+   "text": "I think he might be glass, and so they may have to lean heavily on their kickers.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1744.4,
+   "end": 1749.8,
+   "text": "I am going to grab Kaimi Fairburn from the Texans.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1750.3,
+   "end": 1751.36,
+   "text": "Don't know who he is.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1751.44,
+   "end": 1752.28,
+   "text": "Never heard of him.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1752.62,
+   "end": 1757.9,
+   "text": "Don't care much for the Texans, but I'm going to lock him up and see if he brings me in those",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1757.9,
+   "end": 1758.3,
+   "text": "points.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1758.3,
+   "end": 1762.1,
+   "text": "And Nick, with the final pick of the kicker picker draft.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1762.44,
+   "end": 1763.92,
+   "text": "Well, I'm going with the guy who's going to die first.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1764.02,
+   "end": 1765.46,
+   "text": "That's Will Reichardt from the Vikings.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1765.68,
+   "end": 1766.54,
+   "text": "They play indoors.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1767.06,
+   "end": 1770.78,
+   "text": "I don't like their offense, so I think they're going to have to settle for field goals a lot.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1770.88,
+   "end": 1774.12,
+   "text": "And they play, like I said, they play inside, so it should be easier for a rookie to get",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1774.12,
+   "end": 1774.6,
+   "text": "some kicks.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1775.34,
+   "end": 1777.2,
+   "text": "So I'm not going to go through who we've all picked.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1777.28,
+   "end": 1781.48,
+   "text": "I think this is a pretty, I think it's pretty like locked in, but I will point out that",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1781.48,
+   "end": 1787.8,
+   "text": "we did not pick the Jets, Austin Seabert, or the Patriots, Chad Rylan.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1787.8,
+   "end": 1788.46,
+   "text": "Same division.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1789.2,
+   "end": 1798.46,
+   "text": "Those are the two, and they are bad teams that are notorious for falling apart, and those",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1798.46,
+   "end": 1800.84,
+   "text": "guys could be guys that you really hang it on this year.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1800.84,
+   "end": 1804.26,
+   "text": "This might be the worst Patriots team in 20 years.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1804.44,
+   "end": 1805.22,
+   "text": "Oh, isn't it awesome?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1805.48,
+   "end": 1806.32,
+   "text": "It's the best.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1806.46,
+   "end": 1807.76,
+   "text": "It's so fun to watch.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1807.92,
+   "end": 1808.68,
+   "text": "God, it rocks.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1809.16,
+   "end": 1813.24,
+   "text": "Chad Rylan looks like he was made in a lab to be the Patriots kicker.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1813.7,
+   "end": 1819.28,
+   "text": "Dude, if that guy's not from Boston, he's going to fit right in.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1819.68,
+   "end": 1821.98,
+   "text": "It looks like Mac Jones in disguise.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1822.34,
+   "end": 1822.54,
+   "text": "He does!",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1822.54,
+   "end": 1824.86,
+   "text": "He's like, I'm still useful.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1825.06,
+   "end": 1825.8,
+   "text": "I'm going to kick them.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1826.44,
+   "end": 1829.82,
+   "text": "He's going to shake everyone and just be like, you motherfuckers, you should have cut",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1829.82,
+   "end": 1830.08,
+   "text": "me.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1830.4,
+   "end": 1830.82,
+   "text": "I'm back.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1831.58,
+   "end": 1834.42,
+   "text": "I will say this respectfully about Austin Seabert.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1834.68,
+   "end": 1840.44,
+   "text": "He looks like he is being used to promote that hair powder thing that we got for Does",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1840.44,
+   "end": 1840.84,
+   "text": "It Do?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1841.5,
+   "end": 1843.82,
+   "text": "That is what the profile image looks like to me.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1844.34,
+   "end": 1846.0,
+   "text": "Like he is a successful user.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1847.98,
+   "end": 1849.24,
+   "text": "Those are our last two.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1849.24,
+   "end": 1854.52,
+   "text": "So I will say, Nick, with your pick, he might be the first to die or he'll be the psycho",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1854.52,
+   "end": 1855.66,
+   "text": "that makes it to the end.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1855.86,
+   "end": 1856.78,
+   "text": "And oh, wow.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1856.88,
+   "end": 1857.1,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1857.36,
+   "end": 1857.66,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1857.66,
+   "end": 1859.1,
+   "text": "You get a lot of points there off that.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1859.2,
+   "end": 1859.68,
+   "text": "I like that.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1860.28,
+   "end": 1861.26,
+   "text": "I'm I feel confident.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1861.8,
+   "end": 1866.42,
+   "text": "Speaking of that top pick thing, I forgot to mention to you guys when I was watching the",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1866.42,
+   "end": 1871.04,
+   "text": "Love Island UK season that I eventually bailed on to watch the US because it was better",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1871.04,
+   "end": 1871.58,
+   "text": "this year.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1872.26,
+   "end": 1874.1,
+   "text": "There was a dude who had kind of weird hair.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1874.1,
+   "end": 1878.6,
+   "text": "And then I saw an interview with him later where he said, like, he put top pick on his",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1878.6,
+   "end": 1879.8,
+   "text": "hair the entire time he was there.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1880.36,
+   "end": 1880.68,
+   "text": "Really?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1880.88,
+   "end": 1881.84,
+   "text": "And that's why it looked weird.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1881.92,
+   "end": 1882.6,
+   "text": "Yeah, I saw that.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1882.96,
+   "end": 1883.62,
+   "text": "I saw that.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1883.62,
+   "end": 1885.68,
+   "text": "He's like, yeah, the production was really cool about it.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1885.7,
+   "end": 1887.04,
+   "text": "They knew it was just like a thing I do.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1887.14,
+   "end": 1889.72,
+   "text": "And like he was and I was like, fuck, that's the stuff we used.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1890.24,
+   "end": 1891.04,
+   "text": "That works.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1891.36,
+   "end": 1892.5,
+   "text": "That, you know, see it out in the wild.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1892.96,
+   "end": 1893.62,
+   "text": "If it works, it works.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1893.62,
+   "end": 1894.78,
+   "text": "How do you feel about your squad, Gavin?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1895.46,
+   "end": 1896.14,
+   "text": "Oh, I'm going to win.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1896.76,
+   "end": 1897.92,
+   "text": "All your research pay off.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1898.28,
+   "end": 1898.5,
+   "text": "Yep.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1899.28,
+   "end": 1899.68,
+   "text": "Locked in.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1899.98,
+   "end": 1903.34,
+   "text": "Panthers, Jaguars, Chiefs, Packers, Saints and Titans.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1904.04,
+   "end": 1904.42,
+   "text": "Not bad.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1905.74,
+   "end": 1909.8,
+   "text": "Andrew's got Lions, 49ers, Commanders, Rams, Broncos, Bills.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1910.54,
+   "end": 1911.66,
+   "text": "What are 49ers?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1912.7,
+   "end": 1913.56,
+   "text": "What are 49ers?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1913.6,
+   "end": 1914.2,
+   "text": "They're minors.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1914.32,
+   "end": 1914.88,
+   "text": "Yeah, they're minors.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 1915.02,
+   "end": 1915.16,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1915.5,
+   "end": 1915.92,
+   "text": "Oh, really?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1916.04,
+   "end": 1916.26,
+   "text": "Okay.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1916.58,
+   "end": 1918.62,
+   "text": "Yeah, they were the California gold rush.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1919.3,
+   "end": 1919.64,
+   "text": "Got it.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1919.68,
+   "end": 1921.22,
+   "text": "Oh, I'm getting the gold.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1921.82,
+   "end": 1923.28,
+   "text": "Oh, this ties back to the Olympics.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1926.02,
+   "end": 1932.96,
+   "text": "Jeff, the Raiders, the Colts, the Steelers, the Eagles, the Seahawks and the Bengals.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1933.34,
+   "end": 1939.44,
+   "text": "I've got the Cowboys, the Chargers, the Falcons, the Bears, the Dolphins, the Texans, and Nick.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1940.06,
+   "end": 1944.46,
+   "text": "Ravens, Bucks, Giants, Cards, Browns, Vikings.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1944.66,
+   "end": 1947.54,
+   "text": "I think they're a great, great disbursement all around from everyone.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1947.66,
+   "end": 1949.92,
+   "text": "Very, very good for the kicker picker.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1951.92,
+   "end": 1953.94,
+   "text": "Jeff is really close to going all animal.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1954.88,
+   "end": 1955.24,
+   "text": "Oh, yeah.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1956.06,
+   "end": 1956.46,
+   "text": "Whoa.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1957.2,
+   "end": 1957.7,
+   "text": "He's too wet.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1957.96,
+   "end": 1960.82,
+   "text": "Well, I mean, the Raiders are like animals if you really look at them.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1965.0,
+   "end": 1969.5,
+   "text": "You see the, have you ever seen the super fan of the Raiders that dresses in the full gorilla",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1969.5,
+   "end": 1969.78,
+   "text": "suit?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1970.54,
+   "end": 1970.88,
+   "text": "Oh, yeah.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1971.02,
+   "end": 1971.24,
+   "text": "No.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1971.4,
+   "end": 1972.0,
+   "text": "Oh, he's great.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 1972.54,
+   "end": 1973.06,
+   "text": "I love that guy.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1973.7,
+   "end": 1977.26,
+   "text": "I, they are, man, they are a weird team.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1977.26,
+   "end": 1977.96,
+   "text": "Insane people.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1978.38,
+   "end": 1979.0,
+   "text": "Yeah, they are.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1979.1,
+   "end": 1979.22,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1979.34,
+   "end": 1980.56,
+   "text": "I mean, they're Raiders fans.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1980.74,
+   "end": 1982.18,
+   "text": "They're crazy to begin with.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1982.54,
+   "end": 1987.9,
+   "text": "But like, man, they are truly an insane group.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1988.34,
+   "end": 1989.62,
+   "text": "Now we need to make one.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1989.9,
+   "end": 1990.32,
+   "text": "There we go.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1990.34,
+   "end": 1991.34,
+   "text": "That's my guy.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1993.24,
+   "end": 1994.44,
+   "text": "He's a super fan.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1994.92,
+   "end": 1996.42,
+   "text": "Aren't you sad you didn't get this team, Gavin?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1997.86,
+   "end": 1998.3,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 1999.78,
+   "end": 2000.18,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2002.04,
+   "end": 2007.24,
+   "text": "Now before we're fully locked in, we need to make a decision because we have two kickers",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 2007.24,
+   "end": 2013.24,
+   "text": "left, if a kicker gets hurt, which is going to happen, one of us, are we able to swap",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 2013.24,
+   "end": 2015.26,
+   "text": "them or are we just locked in with what we have?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 2015.28,
+   "end": 2017.46,
+   "text": "I think we have to be locked in because I agree.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2017.66,
+   "end": 2020.4,
+   "text": "Like so much of like the kicker stuff is going to change.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2020.98,
+   "end": 2021.12,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2022.32,
+   "end": 2027.44,
+   "text": "It, it, like there are kickers on here that I didn't know that they were the kickers for",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2027.44,
+   "end": 2028.1,
+   "text": "their teams.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2028.28,
+   "end": 2028.46,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2028.46,
+   "end": 2034.6,
+   "text": "Uh, I was under the impression that the kicker for the Jets was Greg Zerline.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2034.6,
+   "end": 2038.36,
+   "text": "I went off their depth chart.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2038.82,
+   "end": 2040.08,
+   "text": "I mean, it might be right.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2040.16,
+   "end": 2044.04,
+   "text": "He might have gotten knocked way down and he might not be the kicker there anymore.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2044.24,
+   "end": 2044.78,
+   "text": "Maybe he's not.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2044.86,
+   "end": 2046.42,
+   "text": "I was just under the impression he still was.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2046.7,
+   "end": 2047.34,
+   "text": "Maybe he's not anymore.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2047.84,
+   "end": 2050.12,
+   "text": "I mean, I bought, I bought a movie that didn't fricking come out.",
+   "speaker": "SPEAKER_04"
+  },
+  {
+   "start": 2050.2,
+   "end": 2054.98,
+   "text": "I think if you get into it, it's a great point.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2055.16,
+   "end": 2057.16,
+   "text": "I also think it's not by team.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2057.22,
+   "end": 2062.54,
+   "text": "Like if, if Matt gay for the Colts is out and they bring someone else in, you don't get",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2062.54,
+   "end": 2064.18,
+   "text": "those points, you got Matt gay points, baby.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2064.24,
+   "end": 2064.62,
+   "text": "That's it.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2065.1,
+   "end": 2065.46,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2066.22,
+   "end": 2068.14,
+   "text": "You're betting on the durability of your kicker.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2068.42,
+   "end": 2068.82,
+   "text": "Exactly.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2070.02,
+   "end": 2070.54,
+   "text": "Top of fair.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2071.32,
+   "end": 2072.3,
+   "text": "That is a great point.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 2072.6,
+   "end": 2077.16,
+   "text": "We'll say Packers pulled a fast one, cut their kicker, brought in a new guy like eight hours",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 2077.16,
+   "end": 2078.62,
+   "text": "ago as of yesterday.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 2079.26,
+   "end": 2079.62,
+   "text": "What?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 2079.84,
+   "end": 2080.14,
+   "text": "Really?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 2080.6,
+   "end": 2080.88,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 2080.98,
+   "end": 2086.26,
+   "text": "I like, I made the full list and then yesterday, uh, during the middle of the day, they cut",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 2086.26,
+   "end": 2088.68,
+   "text": "the guy that I put on the list who was listed.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 2089.04,
+   "end": 2089.4,
+   "text": "Wow.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 2090.06,
+   "end": 2091.58,
+   "text": "Oh, holy shit.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2092.46,
+   "end": 2093.36,
+   "text": "That's crazy.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2093.84,
+   "end": 2094.96,
+   "text": "Um, good luck, fellas.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2095.34,
+   "end": 2095.7,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2095.72,
+   "end": 2096.18,
+   "text": "No kidding.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2096.32,
+   "end": 2098.1,
+   "text": "Oh, I'm excited to see how this all plays out.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2098.32,
+   "end": 2101.48,
+   "text": "Um, thank you for watching this kicker picker draft.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2101.86,
+   "end": 2107.54,
+   "text": "Uh, somebody is going to make a website about this and keep track of how these scores go.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2107.6,
+   "end": 2107.72,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2107.76,
+   "end": 2111.36,
+   "text": "There will be updates in some fashion at some point in time in the future.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2111.76,
+   "end": 2111.98,
+   "text": "Yeah.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2112.26,
+   "end": 2113.12,
+   "text": "But now I'm excited.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2113.2,
+   "end": 2114.56,
+   "text": "I got, I got something to watch.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2114.62,
+   "end": 2115.7,
+   "text": "I'm watching red zone, baby.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2115.7,
+   "end": 2116.72,
+   "text": "I'm watching my boys.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2116.86,
+   "end": 2117.22,
+   "text": "Hell yeah.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2117.88,
+   "end": 2120.12,
+   "text": "NFL season starts next Thursday from this recording.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 2120.46,
+   "end": 2121.32,
+   "text": "So we are.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 2121.46,
+   "end": 2122.48,
+   "text": "Who's the, what's the first game?",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 2123.02,
+   "end": 2127.38,
+   "text": "Uh, it's Chiefs versus Ravens.",
+   "speaker": "SPEAKER_03"
+  },
+  {
+   "start": 2127.46,
+   "end": 2127.86,
+   "text": "Ravens.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 2127.86,
+   "end": 2128.48,
+   "text": "Oh, wow.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2128.48,
+   "end": 2131.7,
+   "text": "It's a classic Nick versus Gavin matchup guys.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2131.7,
+   "end": 2132.22,
+   "text": "It is.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2132.38,
+   "end": 2134.38,
+   "text": "It's the duo that you love.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2134.54,
+   "end": 2138.86,
+   "text": "Gavin and Nick together again in head to head competition.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2139.42,
+   "end": 2139.86,
+   "text": "Bring it on.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2139.86,
+   "end": 2140.92,
+   "text": "It's a kickoff.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2141.12,
+   "end": 2141.8,
+   "text": "Oh, I got you already.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 2142.2,
+   "end": 2143.52,
+   "text": "It's a kickoff.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2145.7,
+   "end": 2146.72,
+   "text": "It's a kickoff.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2148.12,
+   "end": 2149.54,
+   "text": "Well, thanks for watching this.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2149.66,
+   "end": 2151.06,
+   "text": "Let us know who you think is going to win.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2151.26,
+   "end": 2152.5,
+   "text": "Uh, let us know who you would have picked.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2152.8,
+   "end": 2156.78,
+   "text": "Uh, go to patreon.com slash the regulation pod.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2156.92,
+   "end": 2159.92,
+   "text": "You can, uh, go subscribe there and see everything that we put up there.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2160.0,
+   "end": 2161.94,
+   "text": "It's a lot more of this and a lot weirder stuff.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2161.94,
+   "end": 2166.4,
+   "text": "So thanks for watching and we'll see you next time.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2167.06,
+   "end": 2167.7,
+   "text": "Bye.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2168.82,
+   "end": 2169.56,
+   "text": "All right.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2169.64,
+   "end": 2170.04,
+   "text": "Can't believe it.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2170.14,
+   "end": 2171.08,
+   "text": "Can't believe I picked this.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 2171.08,
+   "end": 2172.14,
+   "text": "Through the uprights.",
+   "speaker": "SPEAKER_03"
+  }
+ ]
+}

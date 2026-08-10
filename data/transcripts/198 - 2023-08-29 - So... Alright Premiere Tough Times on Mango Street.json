@@ -1,0 +1,2240 @@
+{
+ "index": 198,
+ "title": "So... Alright Premiere: Tough Times on Mango Street",
+ "pub_date": "2023-08-29T07:00:00+00:00",
+ "model": "large-v3-turbo",
+ "diarization_model": "pyannote/speaker-diarization-3.1",
+ "language": "en",
+ "language_probability": 1,
+ "duration_sec": 1053.8308125,
+ "speaker_embeddings": {
+  "SPEAKER_00": [
+   -0.102186,
+   0.064034,
+   -0.096846,
+   -0.202452,
+   -0.123682,
+   0.152392,
+   0.205465,
+   -0.119862,
+   0.255512,
+   0.003094,
+   -0.092948,
+   0.386056,
+   0.272948,
+   -0.24729,
+   0.138751,
+   -0.549189,
+   -0.15643,
+   -0.124003,
+   0.402272,
+   0.197028,
+   -0.047296,
+   0.123176,
+   -0.163674,
+   0.14453,
+   0.3316,
+   0.184652,
+   -0.018526,
+   0.247011,
+   -0.087747,
+   -0.024976,
+   0.046643,
+   0.275457,
+   -0.059651,
+   -0.407527,
+   0.190832,
+   -0.019969,
+   -0.079927,
+   -0.049975,
+   -0.046145,
+   -0.162915,
+   -0.133633,
+   -0.198315,
+   0.201214,
+   -0.209543,
+   -0.296606,
+   -0.078512,
+   -0.254726,
+   0.262983,
+   -0.138886,
+   0.478472,
+   0.410618,
+   0.161183,
+   0.235925,
+   -0.212452,
+   0.008395,
+   0.004909,
+   0.060206,
+   -0.223559,
+   -0.257455,
+   0.135794,
+   0.11044,
+   0.181864,
+   0.105693,
+   0.025068,
+   0.125105,
+   0.340362,
+   -0.064971,
+   -0.097508,
+   -0.540078,
+   -0.139823,
+   -0.190477,
+   -0.251232,
+   -0.048624,
+   -0.655257,
+   -0.051291,
+   0.197978,
+   -0.03473,
+   -0.237437,
+   0.291748,
+   0.31981,
+   0.047403,
+   -0.311534,
+   -0.139108,
+   0.314806,
+   0.129375,
+   0.115966,
+   0.089828,
+   -0.089773,
+   0.009482,
+   -0.196828,
+   0.054718,
+   0.053289,
+   -0.183528,
+   -0.129595,
+   0.006015,
+   -0.237679,
+   0.431062,
+   0.459768,
+   -0.080181,
+   0.374822,
+   0.003146,
+   0.045802,
+   0.10932,
+   -0.276655,
+   -0.258483,
+   0.024751,
+   -0.176073,
+   -0.09693,
+   0.097734,
+   -0.089355,
+   0.569336,
+   0.243901,
+   -0.021897,
+   0.306536,
+   -0.130492,
+   0.071956,
+   -0.205678,
+   -0.237483,
+   -0.528177,
+   -0.316817,
+   0.284668,
+   -0.162905,
+   0.05907,
+   0.240279,
+   -0.230732,
+   0.32374,
+   0.01201,
+   -0.012449,
+   0.1094,
+   0.472971,
+   -0.253725,
+   0.29825,
+   0.265403,
+   0.055406,
+   0.323504,
+   -0.200107,
+   -0.551396,
+   0.599516,
+   0.249079,
+   -0.071061,
+   -0.132974,
+   0.166672,
+   0.243337,
+   -0.183947,
+   -0.170528,
+   0.012742,
+   -0.37721,
+   -0.071848,
+   0.256795,
+   0.171775,
+   0.100046,
+   -0.234223,
+   -0.283699,
+   0.045007,
+   -0.201123,
+   -0.074864,
+   -0.089265,
+   0.152958,
+   0.345247,
+   0.128946,
+   -0.071387,
+   0.18825,
+   0.027228,
+   0.234718,
+   -0.012566,
+   0.086226,
+   -0.273585,
+   0.184847,
+   -0.34486,
+   -0.373223,
+   -0.177139,
+   0.265335,
+   -0.089189,
+   0.024024,
+   0.278556,
+   -0.195583,
+   0.537498,
+   -0.095738,
+   -0.143455,
+   -0.276554,
+   -0.037712,
+   -0.067816,
+   -0.252757,
+   0.316191,
+   0.164074,
+   0.209104,
+   -0.001363,
+   -0.044575,
+   -0.448188,
+   0.169862,
+   -0.351224,
+   0.138557,
+   -0.074379,
+   -0.230533,
+   -0.007432,
+   0.29885,
+   -0.127477,
+   0.100469,
+   0.317493,
+   -0.009044,
+   0.124728,
+   -0.300604,
+   0.130673,
+   0.356625,
+   -0.062921,
+   -0.03117,
+   0.071186,
+   -0.156694,
+   0.044078,
+   0.193659,
+   -0.159543,
+   -0.247413,
+   0.038397,
+   0.011725,
+   -0.080734,
+   -0.228895,
+   -0.029167,
+   -0.378154,
+   -0.090902,
+   0.042988,
+   -0.197577,
+   0.21742,
+   -0.177164,
+   0.296672,
+   0.003718,
+   -0.248029,
+   0.053082,
+   -0.624719,
+   -0.222889,
+   -0.27481,
+   0.055359,
+   -0.172825,
+   -0.30028,
+   0.220692,
+   0.241444,
+   0.152374,
+   -0.308597,
+   -0.019834,
+   -0.006599,
+   -0.2379,
+   -0.376853,
+   0.026958,
+   0.167046,
+   -0.311749,
+   -0.038577,
+   0.027026,
+   0.168138,
+   0.059525,
+   0.16865,
+   0.090784,
+   -0.126983,
+   -0.132532,
+   0.034376,
+   0.23671,
+   -0.120964,
+   0.131503
+  ],
+  "SPEAKER_01": [
+   -0.059368,
+   0.040024,
+   0.338195,
+   -0.30016,
+   -0.091771,
+   -0.123141,
+   0.237868,
+   0.681877,
+   0.01981,
+   0.287643,
+   0.266231,
+   0.111651,
+   0.080147,
+   0.002748,
+   -0.011509,
+   0.372,
+   -0.079401,
+   0.127292,
+   -0.005382,
+   -0.142471,
+   -0.290164,
+   0.049148,
+   -0.063556,
+   -0.107893,
+   0.14578,
+   -0.010083,
+   0.073018,
+   -0.382899,
+   -0.006812,
+   -0.032332,
+   0.261419,
+   0.246907,
+   0.195707,
+   0.082361,
+   0.265779,
+   -0.024713,
+   0.09806,
+   -0.128845,
+   0.008907,
+   -0.063979,
+   -0.254339,
+   -0.260517,
+   -0.423705,
+   -0.07743,
+   -0.212123,
+   0.119894,
+   0.0046,
+   0.340984,
+   0.235895,
+   -0.069612,
+   -0.092708,
+   0.11503,
+   -0.350335,
+   0.0322,
+   -0.121524,
+   0.46408,
+   0.121176,
+   0.222042,
+   0.102432,
+   0.440769,
+   -0.243337,
+   -0.421747,
+   0.394062,
+   0.031726,
+   0.144622,
+   0.10878,
+   -0.050004,
+   -0.214728,
+   0.044858,
+   -0.284034,
+   -0.105848,
+   -0.009871,
+   0.142578,
+   0.044328,
+   0.225027,
+   -0.037644,
+   -0.200644,
+   -0.148612,
+   -0.113903,
+   -0.046611,
+   0.0278,
+   -0.204959,
+   -0.282638,
+   -0.005917,
+   0.209543,
+   0.094069,
+   -0.327284,
+   -0.191895,
+   0.081101,
+   -0.226763,
+   0.147561,
+   0.019927,
+   0.373941,
+   -0.126672,
+   -0.074645,
+   -0.030972,
+   -0.492928,
+   -0.021639,
+   0.110016,
+   0.318459,
+   -0.353474,
+   -0.09736,
+   -0.075692,
+   -0.049121,
+   0.470135,
+   0.069624,
+   0.220189,
+   0.166442,
+   -0.23578,
+   -0.0971,
+   0.131758,
+   0.057297,
+   0.174724,
+   0.123721,
+   -0.560651,
+   0.235238,
+   -0.125335,
+   -0.344171,
+   -0.137415,
+   -0.118031,
+   -0.465299,
+   0.166293,
+   -0.04081,
+   0.116666,
+   0.086665,
+   0.128376,
+   0.17883,
+   0.221262,
+   -0.104839,
+   0.024596,
+   -0.017754,
+   0.084175,
+   0.022955,
+   -0.142485,
+   0.286893,
+   -0.084796,
+   -0.390278,
+   0.435937,
+   0.273554,
+   0.05757,
+   -0.21794,
+   0.16112,
+   0.224671,
+   -0.465824,
+   -0.458912,
+   -0.790021,
+   -0.021767,
+   0.229953,
+   -0.285401,
+   0.035825,
+   0.444131,
+   0.419128,
+   0.156036,
+   -0.227465,
+   -0.355261,
+   -0.137076,
+   0.193969,
+   0.193375,
+   -0.078877,
+   -0.12424,
+   0.017651,
+   0.041891,
+   0.27129,
+   -0.104192,
+   0.092834,
+   0.163406,
+   0.081226,
+   -0.182251,
+   -0.314416,
+   0.320815,
+   -0.140387,
+   -0.309515,
+   -0.347166,
+   0.275192,
+   -0.323737,
+   -0.249794,
+   -0.448066,
+   -0.295572,
+   0.093703,
+   0.303988,
+   -0.516019,
+   0.353845,
+   -0.228803,
+   0.136908,
+   -0.003588,
+   -0.164605,
+   -0.159902,
+   0.539651,
+   -0.209915,
+   -0.412576,
+   0.010804,
+   0.246635,
+   -0.065858,
+   -0.060166,
+   -0.153093,
+   -0.092381,
+   -0.164689,
+   0.25465,
+   0.140923,
+   0.000246,
+   -0.115692,
+   -0.024654,
+   0.006919,
+   -0.054169,
+   0.169847,
+   -0.116693,
+   0.123329,
+   -0.54251,
+   0.174886,
+   0.033349,
+   -0.096407,
+   -0.270702,
+   -0.19188,
+   -0.489494,
+   -0.134737,
+   -0.028955,
+   0.046351,
+   -0.095238,
+   0.139746,
+   0.056351,
+   -0.014698,
+   -0.121831,
+   -0.327235,
+   -0.095331,
+   -0.925512,
+   -0.052096,
+   -0.061245,
+   0.224001,
+   0.187991,
+   0.523371,
+   -0.070203,
+   0.253464,
+   0.123003,
+   -0.018581,
+   -0.090791,
+   0.168622,
+   0.122743,
+   -0.011502,
+   0.220576,
+   0.158926,
+   -0.085118,
+   -0.066079,
+   0.220543,
+   0.218131,
+   0.218133,
+   0.107851,
+   -0.264531,
+   0.372312,
+   -0.34025,
+   -0.252122,
+   0.011808,
+   -0.395953,
+   0.574811,
+   0.150826,
+   -0.063832,
+   0.035208
+  ],
+  "SPEAKER_02": [
+   -0.263034,
+   -0.080514,
+   0.04506,
+   -0.097075,
+   0.017577,
+   0.058925,
+   -0.05677,
+   0.062412,
+   0.144787,
+   -0.201863,
+   0.069498,
+   -0.138756,
+   0.02704,
+   -0.148467,
+   -0.097827,
+   -0.111795,
+   0.198383,
+   0.135425,
+   -0.124617,
+   0.001445,
+   -0.088982,
+   -0.078569,
+   0.00349,
+   -0.054009,
+   -0.071538,
+   0.079813,
+   0.101701,
+   -0.150466,
+   -0.061093,
+   0.034368,
+   0.21666,
+   0.218498,
+   -0.064374,
+   0.037274,
+   0.091433,
+   -0.126753,
+   0.247996,
+   -0.062086,
+   -0.129897,
+   0.037874,
+   0.040902,
+   -0.045533,
+   -0.05733,
+   0.061316,
+   0.182429,
+   0.05962,
+   0.226226,
+   -0.035176,
+   0.130392,
+   -0.177264,
+   0.102455,
+   -0.020802,
+   0.099519,
+   -0.009242,
+   0.069526,
+   0.013523,
+   0.010209,
+   -0.033652,
+   -0.065823,
+   0.175835,
+   -0.08795,
+   -0.108868,
+   0.332794,
+   -0.266986,
+   0.161068,
+   0.106769,
+   0.109675,
+   -0.030043,
+   0.07896,
+   0.213732,
+   -0.11627,
+   0.207751,
+   -0.015087,
+   -0.030315,
+   0.280948,
+   -0.121686,
+   0.204938,
+   0.091428,
+   -0.178435,
+   -0.081167,
+   0.054527,
+   -0.037422,
+   -0.04157,
+   -0.05193,
+   0.17115,
+   0.046978,
+   -0.109814,
+   -0.074637,
+   0.011185,
+   -0.1004,
+   0.090019,
+   0.05199,
+   0.001059,
+   0.058787,
+   -0.055134,
+   0.080918,
+   0.187694,
+   0.329774,
+   -0.213527,
+   0.047052,
+   -0.112292,
+   0.075135,
+   0.195011,
+   0.19505,
+   0.085123,
+   -0.075025,
+   -0.244816,
+   -0.128985,
+   -0.171212,
+   -0.002473,
+   -0.115397,
+   0.105755,
+   0.022246,
+   0.022135,
+   -0.059268,
+   -0.066486,
+   0.095163,
+   -0.095747,
+   -0.068463,
+   -0.039546,
+   0.070828,
+   0.100105,
+   -0.024501,
+   -0.136331,
+   0.006926,
+   0.098348,
+   0.218646,
+   -0.034512,
+   -0.170109,
+   0.011956,
+   0.05628,
+   0.019217,
+   0.044745,
+   0.080529,
+   -0.142483,
+   -0.077085,
+   -0.130538,
+   0.03106,
+   0.191947,
+   0.016322,
+   -0.1581,
+   0.016959,
+   -0.014489,
+   0.228126,
+   -0.027818,
+   -0.150716,
+   0.142899,
+   -0.059652,
+   0.095283,
+   0.053036,
+   0.01404,
+   0.054426,
+   0.060217,
+   0.102678,
+   -0.173474,
+   0.108302,
+   0.270045,
+   0.108434,
+   0.034605,
+   0.18857,
+   0.027848,
+   0.089438,
+   0.03113,
+   -0.115928,
+   0.207875,
+   0.01757,
+   -0.071535,
+   -0.029491,
+   0.052454,
+   0.081847,
+   0.081467,
+   0.238287,
+   -0.075205,
+   -0.024862,
+   0.156408,
+   0.022475,
+   0.107231,
+   -0.046193,
+   -0.021544,
+   -0.003377,
+   -0.077349,
+   0.276103,
+   -0.119998,
+   0.036164,
+   0.038255,
+   0.010635,
+   0.02742,
+   0.236474,
+   -0.007085,
+   0.151236,
+   -0.171914,
+   -0.123836,
+   0.031328,
+   -0.055324,
+   0.070336,
+   0.002178,
+   -0.177358,
+   0.009248,
+   0.016819,
+   -0.067741,
+   0.182431,
+   -0.09068,
+   -0.043232,
+   0.084519,
+   -0.146051,
+   -0.192088,
+   0.032153,
+   -0.03169,
+   0.021804,
+   -0.024047,
+   -0.208751,
+   -0.271465,
+   -0.077642,
+   0.097168,
+   -0.109183,
+   0.141328,
+   -0.012675,
+   0.047785,
+   -0.041792,
+   0.051197,
+   0.124699,
+   -0.026516,
+   0.000773,
+   0.074493,
+   -0.10522,
+   -0.085362,
+   -0.03037,
+   -0.118535,
+   0.130109,
+   0.18012,
+   0.136388,
+   0.03212,
+   -0.010073,
+   -0.019316,
+   0.051333,
+   0.222568,
+   -0.127509,
+   -0.017619,
+   0.123814,
+   0.023307,
+   0.127953,
+   0.233868,
+   0.050989,
+   0.013111,
+   -0.008967,
+   0.006629,
+   0.093866,
+   0.078933,
+   -0.050614,
+   0.121272,
+   0.255705,
+   0.254258,
+   0.074022,
+   -0.085239,
+   -0.001647,
+   -0.044972
+  ]
+ },
+ "segments": [
+  {
+   "start": 0.24,
+   "end": 13.62,
+   "text": "So, I was riding my bike and listening to music the other day. It's the time I usually spend trying to come up with ideas for either F**kface or for Anma, the other two podcasts.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 14.64,
+   "end": 27.48,
+   "text": "And I was just listening to music and kind of zoning out. And I have this giant playlist on Spotify where I just add new music constantly and then it just runs on random and repeat.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 28.3,
+   "end": 35.98,
+   "text": "And so, I never know what's coming up. And then I just listen to it. And if it's something new that I put in that I don't like, I just immediately dump it.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 36.16,
+   "end": 40.34,
+   "text": "And otherwise, I'll just listen to it until I start to get sick of it. And then I'll rotate out.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 40.68,
+   "end": 54.8,
+   "text": "So, I added a bunch of new music recently. And I've been kind of into like, I don't know, like pre-Townes Van Zandt kind of like vaguely Western folk music, I guess, has been kind of interesting to me.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 54.8,
+   "end": 60.6,
+   "text": "And so, there's this dude, David McWilliams, that I'd heard a song by. And so, I added a bunch of his stuff.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 61.16,
+   "end": 68.14,
+   "text": "And the music he makes, I placed it in my head like mid-60s. And I think that that's ended up being where it existed.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 68.14,
+   "end": 73.56,
+   "text": "But, I always just assumed he was like, in my head, he was like some dude from El Paso or Amarillo.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 73.84,
+   "end": 87.2,
+   "text": "Anyway, one of his songs came on and it's this like really kind of dark, almost like a Mack the Knife feeling song about, I don't know, this scary, dirty town at night.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 87.2,
+   "end": 98.76,
+   "text": "Kind of desolate and rough. I had only heard this song like once before. And so, I'm like half listening and he just keeps referring to this place, Mango Street and how rough it is on Mango Street.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 99.56,
+   "end": 108.44,
+   "text": "And I couldn't get that out of my head after I keyed in on that. So, when I got home, I thought like, how bad can it be to live on Mango Street?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 108.52,
+   "end": 112.3,
+   "text": "Mango Street sounds, honestly, it sounds pretty fucking joyous.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 112.3,
+   "end": 118.44,
+   "text": "So, I MLS'd a bunch of Mango Streets. I found one in Lake Jackson, Texas. There's a house for sale.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 119.18,
+   "end": 123.34,
+   "text": "I would not want to live on Mango Street in Lake Jackson, Texas. So, I moved on.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 123.92,
+   "end": 130.2,
+   "text": "You can buy plots of land in Mango Street of Eustis, Florida, but it just looks like swamp.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 130.88,
+   "end": 137.92,
+   "text": "I saw a place in Lantana, Florida that's for sale that was a lot of money for a little house and I would not want to live.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 138.16,
+   "end": 141.7,
+   "text": "Anyway, then it gets worse. I found Mango Street in Brea, California.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 141.7,
+   "end": 146.7,
+   "text": "Jesus Christ. And then there was one in, there are a lot of Mango Streets in Florida.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 147.48,
+   "end": 154.2,
+   "text": "Anyway, turns out, oh man, the worst might be the Mango Street in Port Ritchie, Florida.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 154.56,
+   "end": 161.4,
+   "text": "That was pretty scary. Anyway, it turns out maybe Mango Street is a rough and tumble place to live after all.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 161.84,
+   "end": 169.92,
+   "text": "So, anyway, I was kind of laughing about that and I thought, I'm going to listen to that song and pay attention to the lyrics and learn a little bit more about Mango Street.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 169.92,
+   "end": 175.7,
+   "text": "By the way, I found out there's a book in all that searching. I found out there is a...",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 175.7,
+   "end": 182.12,
+   "text": "God, I have so many tabs open of Mango Streets. I found out there... Oops, I just closed a tab.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 182.82,
+   "end": 188.8,
+   "text": "Anyway, I found out there is... Through Google searching about Mango Streets, I found there's a book called The House on Mango Street,",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 188.8,
+   "end": 199.72,
+   "text": "which was a 1984 novel by Mexican-American author Sandra Cisneros about a 12-year-old girl growing up in, I guess, the Hispanic quarter of Chicago.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 200.1,
+   "end": 205.88,
+   "text": "And it's considered a classic. And apparently it has been... I'd never heard of it.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 205.88,
+   "end": 214.8,
+   "text": "But apparently it has been on the banned list for a lot of places. A lot of places have tried to ban the book",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 214.8,
+   "end": 224.1,
+   "text": "because of some challenging themes around, I don't know, domestic and sexual abuse and gender and identity.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 224.98,
+   "end": 232.64,
+   "text": "And so now I want to read that book. If you've read that book, go ahead and send me an email at ericatjeffsboss.com.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 232.64,
+   "end": 240.66,
+   "text": "That's my email address for this podcast, ericatjeffsboss.com. I need to go ahead and make that real fast because that was just a joke.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 240.82,
+   "end": 244.32,
+   "text": "But I think I'll do it. Anyway, if you've read the book, The House on Mango Street, let me know.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 244.66,
+   "end": 247.1,
+   "text": "I think I'll buy it and give it a shot and maybe I'll talk about it later.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 247.92,
+   "end": 256.98,
+   "text": "Read every book. Just a tip in life. Read every book they try to ban. Every time. I promise you. You won't regret it.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 256.98,
+   "end": 261.88,
+   "text": "Anyway, so I go back to look at the lyrics and I find the song is called...",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 261.88,
+   "end": 270.38,
+   "text": "Things run awry very quickly. I find out when I look it up, the song is called 3 O'Clock Flamingo Street.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 270.78,
+   "end": 276.02,
+   "text": "So every time I heard him say Mango Street, he was actually saying Flamingo Street.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 276.74,
+   "end": 281.34,
+   "text": "And I was too embarrassed to look up Flamingo Streets after that.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 281.34,
+   "end": 288.16,
+   "text": "I'd spent so much time. I've probably spent, I don't know, maybe 40 minutes looking up houses for sale on Mango Streets around the country.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 288.52,
+   "end": 290.76,
+   "text": "And I just I couldn't devote any more time to that.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 290.96,
+   "end": 295.0,
+   "text": "I got to say, I thought Mango Street sounded like a lovely place to live.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 295.2,
+   "end": 298.1,
+   "text": "It seems like it's a pretty challenging place to live based on my research.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 298.94,
+   "end": 305.1,
+   "text": "If there's a place that sounds better than Mango Street, it's probably Flamingo Street.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 305.3,
+   "end": 310.64,
+   "text": "And the idea that a Flamingo Street is like a rough part of town, I thought was pretty fucking funny.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 312.16,
+   "end": 315.36,
+   "text": "And then I was looking at the lyrics and they're really quite poetic.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 315.62,
+   "end": 317.42,
+   "text": "Like it's just the first verse.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 317.68,
+   "end": 324.28,
+   "text": "It's a empty sound, deserted town beneath the silvery feathered down of morning's waking breath.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 324.82,
+   "end": 329.4,
+   "text": "Forgotten tunes and silver spoons goes to deeply shadowed gloom and dies a silent death.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 329.56,
+   "end": 331.34,
+   "text": "That's some like cowboy poetry, right?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 331.38,
+   "end": 332.5,
+   "text": "Like I thought that was pretty cool.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 332.86,
+   "end": 336.44,
+   "text": "And I say, man, I really enjoy this, this David McWilliams, dude.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 336.44,
+   "end": 341.38,
+   "text": "So I decided to look up David McWilliams and imagine my surprise.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 341.6,
+   "end": 344.14,
+   "text": "And I guess maybe the name McWilliams should have clued me in.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 344.64,
+   "end": 349.6,
+   "text": "David McWilliams is not from El Paso and he's not from Amarillo and he's not a country and",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 349.6,
+   "end": 351.2,
+   "text": "Western singer at all.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 351.2,
+   "end": 357.38,
+   "text": "It turns out David McWilliams, who was born in 1945, is a singer, songwriter and guitarist",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 357.38,
+   "end": 359.78,
+   "text": "from Ireland, Northern Ireland.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 360.42,
+   "end": 368.94,
+   "text": "I don't know how I got it into my head that I was listening to like Western alternative folk",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 368.94,
+   "end": 370.16,
+   "text": "from the 60s.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 370.5,
+   "end": 372.78,
+   "text": "But goddamn, did it sound like country music to me?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 372.78,
+   "end": 375.72,
+   "text": "And now I'm discombobulated like you wouldn't believe.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 376.4,
+   "end": 378.66,
+   "text": "And so I read a bunch about him.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 379.14,
+   "end": 381.08,
+   "text": "And yeah, he's like an Irish folk singer.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 381.7,
+   "end": 386.16,
+   "text": "So not only was I not listening to a song about Mango Street, a cowboy song about Mango",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 386.16,
+   "end": 390.16,
+   "text": "Street, I also wasn't listening to a cowboy song about Flamingo Street.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 390.4,
+   "end": 394.5,
+   "text": "I was listening to an Irish folk song about a place called Flamingo Street.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 394.78,
+   "end": 399.42,
+   "text": "I still think it's weird that and maybe if you're from Ireland and you can check in, send",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 399.42,
+   "end": 405.78,
+   "text": "an email to eric at jeffsboss.com and let me know, is Flamingo Street like a euphemism",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 405.78,
+   "end": 409.92,
+   "text": "for the wrong side of the tracks, like the tough part of town, you know, like the hell's",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 409.92,
+   "end": 414.94,
+   "text": "kitchen, if you will, of a of a major metropolitan area in Ireland?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 415.42,
+   "end": 417.54,
+   "text": "Because it sounds fucking darling.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 417.8,
+   "end": 419.78,
+   "text": "And are there even I'm going to Google this.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 419.86,
+   "end": 421.12,
+   "text": "Are there flamingos?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 423.2,
+   "end": 424.56,
+   "text": "Flamingos in Ireland?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 425.26,
+   "end": 426.24,
+   "text": "I bet there aren't.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 426.76,
+   "end": 427.42,
+   "text": "Why wouldn't I think?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 427.42,
+   "end": 429.06,
+   "text": "Oh, well, shit.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 429.2,
+   "end": 433.38,
+   "text": "Dublin Zoo is home to a large flock of about 100 Chilean flamingos.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 434.2,
+   "end": 434.5,
+   "text": "Huh?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 435.32,
+   "end": 439.56,
+   "text": "Well, I guess I don't know if they're indigenous or not, but I don't know that I care that",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 439.56,
+   "end": 439.84,
+   "text": "much.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 440.32,
+   "end": 444.26,
+   "text": "You ever run into a flamingo in the wild in Ireland?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 444.52,
+   "end": 446.14,
+   "text": "If you have, let me know.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 446.62,
+   "end": 447.34,
+   "text": "Just send that email.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 455.72,
+   "end": 460.46,
+   "text": "At Desjardins Insurance, we know that when you own a nail salon, everything needs to be",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 460.46,
+   "end": 462.16,
+   "text": "perfect from tip to toe.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 462.16,
+   "end": 467.2,
+   "text": "That's why our agents go the extra mile to understand your business and provide tailored",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 467.2,
+   "end": 469.22,
+   "text": "solutions for all its unique needs.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 469.74,
+   "end": 474.8,
+   "text": "You put your heart into your company, so we put our heart into making sure it's protected.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 475.48,
+   "end": 477.68,
+   "text": "Get insurance that's really big on care.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 478.02,
+   "end": 481.44,
+   "text": "Find an agent today at Desjardins.com slash business coverage.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 481.44,
+   "end": 489.56,
+   "text": "Gregus believes in the art of living, in choosing the pleasurable over the practical.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 489.56,
+   "end": 495.16,
+   "text": "It's why we craft our premium vodka in France using pure spring water from Genzac.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 495.5,
+   "end": 501.24,
+   "text": "And while you hear the celebratory pub of our cork, reminding us to make every martini",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 501.24,
+   "end": 502.36,
+   "text": "cocktail count.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 502.78,
+   "end": 508.78,
+   "text": "So go on and make every moment count because there's no better time than now.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 509.34,
+   "end": 509.9,
+   "text": "Gregus.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 510.36,
+   "end": 512.24,
+   "text": "Make time wait.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 512.64,
+   "end": 513.46,
+   "text": "Sip responsibly.",
+   "speaker": "SPEAKER_02"
+  },
+  {
+   "start": 513.46,
+   "end": 523.56,
+   "text": "Anyway, in this, I started to Google the song Three O'Clock Flamingo Street to see if I",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 523.56,
+   "end": 526.84,
+   "text": "could find, because it still sounds like a, and I've read the lyrics all the way through",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 526.84,
+   "end": 528.16,
+   "text": "and I don't know why it does now.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 528.4,
+   "end": 535.44,
+   "text": "I think it's because the music had this sort of like haunting, cinematic, it feels like,",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 535.6,
+   "end": 536.54,
+   "text": "I don't know how to describe it.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 536.56,
+   "end": 541.42,
+   "text": "A lot of music in the 60s and the 70s had this, like it was designed like of film,",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 541.42,
+   "end": 543.0,
+   "text": "but not for film, if that makes any sense.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 543.78,
+   "end": 548.98,
+   "text": "Just, just very atmospheric in a way that I associate with old movies.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 549.8,
+   "end": 550.84,
+   "text": "Maybe that's just me.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 551.32,
+   "end": 559.0,
+   "text": "Anyway, so I started to Google Flamingo, the Three O'Clock Flamingo Street to see if I could",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 559.0,
+   "end": 565.88,
+   "text": "find anything out about the song and why he wrote this song that, you know, about this,",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 565.98,
+   "end": 569.62,
+   "text": "like, like I said, this like dark place in a town where bad stuff happens.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 569.62,
+   "end": 573.66,
+   "text": "People drink themselves to death and it's, there's a lot of like glitz and glamour and",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 573.66,
+   "end": 577.28,
+   "text": "bright lights, but if you look behind the curtain and kind of in the alleyways and the cracks",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 577.28,
+   "end": 579.98,
+   "text": "and the crevices, it's all very dark and, you know, malevolent.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 580.22,
+   "end": 584.32,
+   "text": "And then I got thrown for another fucking loop because I found out that this other band,",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 584.44,
+   "end": 592.54,
+   "text": "The Bachelors, covered the song and I'd never heard of them and their song is totally, totally",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 592.54,
+   "end": 592.92,
+   "text": "different.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 592.98,
+   "end": 593.64,
+   "text": "It's the same song.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 593.7,
+   "end": 594.82,
+   "text": "It just sounds totally different.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 594.88,
+   "end": 595.44,
+   "text": "It's good.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 595.78,
+   "end": 596.62,
+   "text": "I like it too.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 596.62,
+   "end": 600.46,
+   "text": "I don't like it nearly as much as the David McWilliams version, but I encourage you to",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 600.46,
+   "end": 601.26,
+   "text": "listen to both.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 602.28,
+   "end": 603.74,
+   "text": "So I thought, well, that's fucking weird.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 604.04,
+   "end": 610.12,
+   "text": "And I noticed that the Bachelors version was recorded in 1967 and the McWilliams version",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 610.12,
+   "end": 611.18,
+   "text": "was recorded in 68.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 611.62,
+   "end": 613.68,
+   "text": "And so then I thought, fuck, did these guys write that song?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 614.16,
+   "end": 619.62,
+   "text": "So then I start listening to other Bachelors songs and everything else they've done is",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 619.62,
+   "end": 625.14,
+   "text": "like croony, early Beatles, happy, poppy love shit.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 625.28,
+   "end": 626.76,
+   "text": "And I don't like any of it.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 626.86,
+   "end": 631.86,
+   "text": "I do like the three o'clock, the version of three o'clock Flamingo Street they recorded,",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 632.3,
+   "end": 636.26,
+   "text": "which also is interesting because it's very different from the rest of their music, right?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 636.28,
+   "end": 640.08,
+   "text": "Like the rest of their music is all sappy love songs and heartbreaking shit.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 640.08,
+   "end": 645.24,
+   "text": "And then this song is like, like I said, it's kind of like the 60s version of Mack and",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 645.24,
+   "end": 649.18,
+   "text": "the Knife about just like a rough part of town on a rough night and just like sadness",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 649.18,
+   "end": 649.84,
+   "text": "and despair.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 650.04,
+   "end": 654.02,
+   "text": "And it's got a tonally incredibly different from everything else they've done.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 654.14,
+   "end": 659.3,
+   "text": "And it definitely feels like a David McWilliams song to me because I've heard his other music",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 659.3,
+   "end": 663.02,
+   "text": "and it all kind of strikes the same chord, which is apparently not a country chord at",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 663.02,
+   "end": 663.2,
+   "text": "all.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 663.28,
+   "end": 665.62,
+   "text": "It's a fucking Irish folk chord and I'm an idiot.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 666.18,
+   "end": 669.0,
+   "text": "And so I do a bunch of Googling and I can't find the answer.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 669.0,
+   "end": 670.0,
+   "text": "I really don't know.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 670.12,
+   "end": 671.7,
+   "text": "It's credited to David McWilliams.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 671.76,
+   "end": 674.22,
+   "text": "Most places they shared tour managers.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 674.22,
+   "end": 675.66,
+   "text": "I guess they grew up in the same.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 675.74,
+   "end": 676.5,
+   "text": "I mean, they're both Irish.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 676.64,
+   "end": 678.6,
+   "text": "They were probably from the same fucking town.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 678.72,
+   "end": 682.4,
+   "text": "You know, they probably like they probably played tons of shows together, but I can't",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 682.4,
+   "end": 683.68,
+   "text": "figure out which one of them wrote the song.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 683.98,
+   "end": 685.28,
+   "text": "So if you know, I would love to know.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 686.38,
+   "end": 690.7,
+   "text": "It feels more like a David McWilliams song to me just because, like I said, thematically,",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 690.7,
+   "end": 697.84,
+   "text": "it seems to fit all of his other music, whereas The Bachelor's other music is vastly different",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 697.84,
+   "end": 699.84,
+   "text": "and not nearly as good as that one song.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 700.42,
+   "end": 705.5,
+   "text": "So I was reading up a little bit about The Bachelor's and that is a whole other can of worms.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 706.24,
+   "end": 707.98,
+   "text": "I read one funny thing.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 708.46,
+   "end": 710.08,
+   "text": "They used to be called...",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 710.08,
+   "end": 715.92,
+   "text": "They started as a harmonica band together called the Harmonic Chords, like in 1957.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 716.58,
+   "end": 718.48,
+   "text": "They were also known as the Harmony Chords.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 718.6,
+   "end": 720.96,
+   "text": "I think the Harmonic Chords is quite clever.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 722.18,
+   "end": 727.94,
+   "text": "And I would love to know what a classically styled instrumental harmonica act was.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 727.94,
+   "end": 730.54,
+   "text": "I bet it wasn't a hit with the teens, though.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 730.58,
+   "end": 731.1,
+   "text": "I'll tell you that.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 731.48,
+   "end": 736.28,
+   "text": "Anyway, so they changed their name to The Bachelor's at the suggestion of someone named",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 736.28,
+   "end": 742.68,
+   "text": "Dick Rowe, who did A&R at Decca Records, who I guess is who signed them, because this",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 742.68,
+   "end": 743.9,
+   "text": "is the funniest fucking thing.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 744.36,
+   "end": 749.14,
+   "text": "He recommended the name because that's the kind of boy a girl likes.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 750.1,
+   "end": 753.3,
+   "text": "So as opposed to Bachelor, as opposed to what?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 753.3,
+   "end": 760.22,
+   "text": "Um, I guess married, I would assume all women would prefer a single dude to a married dude",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 760.22,
+   "end": 762.14,
+   "text": "if they are single and looking, looking.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 762.2,
+   "end": 765.48,
+   "text": "But anyway, they changed their name to The Bachelor's because that's the kind of boy a",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 765.48,
+   "end": 765.92,
+   "text": "girl likes.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 766.02,
+   "end": 767.14,
+   "text": "Girls love Bachelors.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 768.04,
+   "end": 772.04,
+   "text": "It's in Wikipedia, so, you know, that's law.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 772.74,
+   "end": 775.94,
+   "text": "Anyway, then I started to read up about that band because, like I said, I had never heard",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 775.94,
+   "end": 778.1,
+   "text": "them before, and they were quite big.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 778.22,
+   "end": 780.94,
+   "text": "Like, they were number one on the charts in Ireland and in the UK.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 780.94,
+   "end": 787.48,
+   "text": "They, they charted the, like, number 10 in the US, I think, maybe even number three on",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 787.48,
+   "end": 787.96,
+   "text": "some charts.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 788.12,
+   "end": 789.94,
+   "text": "So, like, they had a pretty big career.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 790.34,
+   "end": 793.54,
+   "text": "So I was trying to read up a little bit about them because I, I'll be honest with you, the",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 793.54,
+   "end": 798.48,
+   "text": "music, the rest of their music was so uninteresting to me that I, I, uh, I didn't, they even had",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 798.48,
+   "end": 802.82,
+   "text": "like a, I want to say they had like a TV show or something too that they hosted.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 803.22,
+   "end": 809.92,
+   "text": "Anyway, so at some point I, I got led, I, there was like a controversy section on Wikipedia.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 809.92,
+   "end": 814.3,
+   "text": "And so I started doing, uh, going down some more rabbit holes and apparently this band,",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 814.38,
+   "end": 816.56,
+   "text": "The Bachelors, fucking hate each other.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 816.98,
+   "end": 822.4,
+   "text": "And they have like on their website, which by the way, I recommend you go to The Bachelors",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 822.4,
+   "end": 822.82,
+   "text": "website.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 823.14,
+   "end": 832.44,
+   "text": "It is thebachelors.co.uk because it is a slice of history in terms of web design.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 832.44,
+   "end": 838.56,
+   "text": "It is, it is something that, uh, ugly internet would have reviewed scathingly back in the",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 838.56,
+   "end": 838.74,
+   "text": "day.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 838.82,
+   "end": 843.3,
+   "text": "And now I find it to be incredibly charming and fucking confusing to navigate.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 843.46,
+   "end": 848.46,
+   "text": "But at some point I ended up, and I'll be honest with you, I, I got, I got bored with",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 848.46,
+   "end": 850.94,
+   "text": "this pretty quickly because I didn't find it to be that interesting.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 851.18,
+   "end": 857.0,
+   "text": "But there is a whole page about this guy, John Stokes, who was one of the, from what I can",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 857.0,
+   "end": 858.56,
+   "text": "tell, one of the founding members of the band.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 858.56,
+   "end": 862.74,
+   "text": "It was two brothers, Khan and Dec, and then they, they brought this dude in at the beginning.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 863.2,
+   "end": 869.4,
+   "text": "And it's just like this whole long explanation of why they hate him and why they kicked him",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 869.4,
+   "end": 875.58,
+   "text": "out of the band and how he's not a very good singer and how he was a, I guess, a mean guy.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 875.58,
+   "end": 880.38,
+   "text": "And it's like itemized, bulleted, it goes forever.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 880.72,
+   "end": 882.76,
+   "text": "And I, I defy you to get through it.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 882.84,
+   "end": 888.34,
+   "text": "And then there's like fucking pages to, they sued each other and there's like, they have",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 888.34,
+   "end": 893.8,
+   "text": "court documents you can see that say like the dude's not allowed to perform under the name",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 893.8,
+   "end": 897.34,
+   "text": "of the bachelors, only they are, but then he was doing it anyway.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 897.64,
+   "end": 901.72,
+   "text": "And so there's like, there, they tried to get it stopped and they did stop.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 901.72,
+   "end": 906.7,
+   "text": "And so it's this whole thing about how like, don't see his version of the bachelors, only",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 906.7,
+   "end": 908.28,
+   "text": "see their version of the bachelors.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 908.74,
+   "end": 913.32,
+   "text": "I don't know, man, bad blood in the Irish sixties pop scene, apparently.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 913.6,
+   "end": 915.52,
+   "text": "So you can die.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 915.62,
+   "end": 920.26,
+   "text": "If you want to dive in, if that sounds interesting to you, dive in and let me know the finer",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 920.26,
+   "end": 922.48,
+   "text": "points of it because I couldn't keep it straight.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 922.9,
+   "end": 923.2,
+   "text": "All right.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 923.2,
+   "end": 935.82,
+   "text": "So curiosity got the better of me, uh, after I recorded this and I had to go and look up",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 935.82,
+   "end": 938.04,
+   "text": "flamingo streets around the United States.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 938.04,
+   "end": 943.94,
+   "text": "I did an MLS search, vastly different results from mango street.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 943.94,
+   "end": 950.06,
+   "text": "I didn't realize there could be such disparity in America between living on mango street and",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 950.06,
+   "end": 951.3,
+   "text": "living on flamingo street.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 951.66,
+   "end": 954.62,
+   "text": "It is definitely the haves and the have nots.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 954.62,
+   "end": 958.32,
+   "text": "Most of the houses on flamingo street are nice or fancy.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 958.6,
+   "end": 962.26,
+   "text": "Uh, there are a ton of them, by the way, they are.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 962.4,
+   "end": 964.2,
+   "text": "There's one in Atlantic beach.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 964.22,
+   "end": 967.0,
+   "text": "There's a, there's a flamingo street in Philadelphia.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 967.82,
+   "end": 975.72,
+   "text": "There's actually a flamingo drive in Austin, which I am choosing not to count, but there's",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 975.72,
+   "end": 982.9,
+   "text": "no shortage, Michigan, Minnesota, you know, and there's some, there's some modest flamingo",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 982.9,
+   "end": 986.34,
+   "text": "streets, but they're like Lake Placid, Florida.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 987.54,
+   "end": 988.46,
+   "text": "It's okay.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 988.6,
+   "end": 993.32,
+   "text": "Like there's some, there's some, there's some so-so streets, uh, around the country, but",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 993.32,
+   "end": 996.64,
+   "text": "then there's some bangers, just some absolute bangers.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 996.64,
+   "end": 1001.36,
+   "text": "Like flamingo street in new Orleans, it's mansion city.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1002.1,
+   "end": 1003.22,
+   "text": "It is insane.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1003.34,
+   "end": 1009.48,
+   "text": "I, I would love, I got to figure out how to end up on flamingo street.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1009.48,
+   "end": 1013.0,
+   "text": "I want to live in a flamingo, I want to live in flamingo street in new Orleans.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1013.32,
+   "end": 1019.0,
+   "text": "I think it's probably too late in life for me to, to turn that around.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1019.42,
+   "end": 1020.56,
+   "text": "Maybe in another life.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1020.66,
+   "end": 1026.14,
+   "text": "Have you ever lived on a mango street or a flamingo street, uh, at any point in your",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1026.14,
+   "end": 1026.46,
+   "text": "life?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1026.7,
+   "end": 1029.92,
+   "text": "Have you lived on mango or flamingo street in Ireland?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1030.22,
+   "end": 1036.6,
+   "text": "Apparently in Ireland, flamingo street, it's Ireland's flamingo street is America's mango",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1036.6,
+   "end": 1042.26,
+   "text": "street from what I gather, because there are no tough times on flamingo street in America",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1042.26,
+   "end": 1043.84,
+   "text": "from what I, from what I can see.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1044.04,
+   "end": 1051.78,
+   "text": "And I think it's probably mostly, if not only hard times living on mango street, at least",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1051.78,
+   "end": 1053.22,
+   "text": "in the U S all right.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1053.22,
+   "end": 1060.22,
+   "text": "I think it's probably a bit more than a bit more than a bit more than a bit more than a",
+   "speaker": "SPEAKER_00"
+  }
+ ]
+}

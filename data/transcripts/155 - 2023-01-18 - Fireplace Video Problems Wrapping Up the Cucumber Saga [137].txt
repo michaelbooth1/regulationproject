@@ -1,0 +1,4275 @@
+# Episode 155: Fireplace Video Problems // Wrapping Up the Cucumber Saga [137]
+published: 2023-01-18T08:00:00+00:00  |  duration: 00:59:03
+source: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER5244210028.mp3?updated=1774131143
+transcribed: 2026-08-07T16:45:37.385894-04:00  |  model: large-v3-turbo
+diarization: pyannote/speaker-diarization-3.1
+
+
+[00:00:10] SPEAKER_02
+I just want to point out that Gavin was on time to the second this time. This is episode 137. Go ahead.
+
+[00:00:14] SPEAKER_02
+I have every time.
+
+[00:00:15] SPEAKER_05
+Forgot about your clock.
+
+[00:00:16] SPEAKER_05
+Hello and welcome to another episode of the F**kface Podcast. My name is Geoff Ramsey. With me, as always, Andrew Panton and Gavin Free.
+
+[00:00:23] SPEAKER_05
+Happy to report everyone showed up on time today for the last recording of the year. Great job, Gavin. Great job, Andrew. Good job, Geoff.
+
+[00:00:31] SPEAKER_03
+Can you hear me?
+
+[00:00:32] SPEAKER_03
+Now, is this the last recording of the year? Because you guys have, I think, one more tomorrow. Last one I'm involved with.
+
+[00:00:38] SPEAKER_03
+No, last regulation episode of the year.
+
+[00:00:41] SPEAKER_03
+That's fair.
+
+[00:00:42] SPEAKER_03
+Yeah, that's fair. I'm excited for tomorrow. Fireplace.
+
+[00:00:45] SPEAKER_03
+Uh, yeah, I think it'll happen. We'll see.
+
+[00:00:48] SPEAKER_03
+Wait, what? What? What does that mean?
+
+[00:00:52] SPEAKER_05
+Well, we've had some difficulties, and I may have a wrinkle in my schedule that I'm trying to worry about.
+
+[00:00:58] SPEAKER_05
+What?
+
+[00:00:58] SPEAKER_02
+You have to be kidding. Are you serious?
+
+[00:01:02] SPEAKER_02
+Listen.
+
+[00:01:02] SPEAKER_02
+Can you hear me?
+
+[00:01:03] SPEAKER_02
+Yeah, what's that, buddy?
+
+[00:01:04] SPEAKER_02
+Now we can.
+
+[00:01:05] SPEAKER_02
+Sorry.
+
+[00:01:05] SPEAKER_02
+My mic was, uh...
+
+[00:01:08] SPEAKER_02
+This is the worst show I've involved in.
+
+[00:01:11] SPEAKER_04
+I was recording, but I wasn't in the Discord, apparently.
+
+[00:01:15] SPEAKER_05
+Uh, I just have to...
+
+[00:01:17] SPEAKER_05
+Listen, it's not me, it's just that holiday travel has been a nightmare, and Millie, as
+
+[00:01:22] SPEAKER_05
+you know, is flying back from very close to Buffalo, New York, which is apparently the
+
+[00:01:27] SPEAKER_05
+coldest place on Earth.
+
+[00:01:28] SPEAKER_05
+And so, uh, there might be some difficulties with her getting home, so it may require me
+
+[00:01:33] SPEAKER_05
+to drive somewhere to get her. We'll just have to see.
+
+[00:01:35] SPEAKER_05
+To New York?
+
+[00:01:36] SPEAKER_05
+No, up to Dallas, maybe.
+
+[00:01:38] SPEAKER_05
+Oh, okay.
+
+[00:01:38] SPEAKER_05
+If she gets stranded up there.
+
+[00:01:39] SPEAKER_05
+I'll let you know, though, Eric. Don't worry. I'll let you know.
+
+[00:01:41] SPEAKER_05
+You're gonna let me know when?
+
+[00:01:43] SPEAKER_05
+As soon as I find out!
+
+[00:01:45] SPEAKER_04
+I don't know what's gonna happen, Eric.
+
+[00:01:47] SPEAKER_04
+It's gonna be you and me at Alyssa's house, burning blocks.
+
+[00:01:52] SPEAKER_02
+Me and Gavin are gonna be hanging out for eight hours recording an 8K video of fire on
+
+[00:01:59] SPEAKER_02
+like a 73-degree day.
+
+[00:02:02] SPEAKER_04
+It's gonna be the longest we've ever hung out combined. It's gonna be it.
+
+[00:02:06] SPEAKER_05
+It's gonna... Listen, unless I have to... Unless I'm in Dallas or driving home from Dallas
+
+[00:02:12] SPEAKER_05
+to rescue my kid, I'll be there. And believe me, I don't want to be there for eight hours
+
+[00:02:16] SPEAKER_05
+any longer than you guys do. Should we talk about that?
+
+[00:02:19] SPEAKER_04
+Well, Nick already can't do it because of sickness, and then we've got...
+
+[00:02:24] SPEAKER_04
+Andrew doesn't want to do it.
+
+[00:02:25] SPEAKER_04
+Andrew just doesn't want to do it.
+
+[00:02:26] SPEAKER_04
+That's not true.
+
+[00:02:27] SPEAKER_04
+Oh.
+
+[00:02:27] SPEAKER_03
+I can't be there for it.
+
+[00:02:30] SPEAKER_04
+When you're here today, we were gonna do it today.
+
+[00:02:32] SPEAKER_03
+Yeah, but I couldn't... What would my role be in you filming an 8K fireplace?
+
+[00:02:38] SPEAKER_03
+What is my presence, Gavin?
+
+[00:02:40] SPEAKER_03
+I'd love to be there, but I can't.
+
+[00:02:42] SPEAKER_03
+Moral support?
+
+[00:02:43] SPEAKER_03
+Just being, like, vacant?
+
+[00:02:46] SPEAKER_03
+I... Because it was originally pitched as essentially end-of-year Christmas party for
+
+[00:02:51] SPEAKER_03
+the show, and the fire would just be there that you tend to occasionally.
+
+[00:02:55] SPEAKER_03
+This has gone through so many variations of what it is.
+
+[00:02:57] SPEAKER_03
+It's gonna be Eric and I just hammered it into someone else's kitchen.
+
+[00:03:01] SPEAKER_02
+Like, can I just... I hate this bit. I hate the fireplace bit.
+
+[00:03:07] SPEAKER_02
+I don't think it's good. We've totally lost the thread on it.
+
+[00:03:11] SPEAKER_02
+None of it makes sense. It feels like we're doing it out of obligation.
+
+[00:03:15] SPEAKER_02
+I don't like anything about the... It's been such a struggle to get what is going to be
+
+[00:03:22] SPEAKER_02
+an un-uploadable file.
+
+[00:03:24] SPEAKER_02
+With no sound.
+
+[00:03:26] SPEAKER_02
+With no sound!
+
+[00:03:27] SPEAKER_02
+Oh, there's no audio?
+
+[00:03:28] SPEAKER_02
+Like, what are we gonna do?
+
+[00:03:30] SPEAKER_04
+Oh, great.
+
+[00:03:30] SPEAKER_04
+Those videos don't usually have the audio on them, do they?
+
+[00:03:33] SPEAKER_03
+They have, like, a crackling fire, yeah.
+
+[00:03:35] SPEAKER_03
+Or you got, like, some Christmas music. There's something there. There's always something.
+
+[00:03:39] SPEAKER_04
+Yeah, I just didn't think there'd be actual sound from the room.
+
+[00:03:42] SPEAKER_05
+Well, I figured we would get, like, the crackling fire, and then I thought we could release
+
+[00:03:45] SPEAKER_05
+an alternate... I haven't talked to you guys about this yet.
+
+[00:03:47] SPEAKER_05
+I thought we could release an alternate cut where we do the audio track, and we just fully
+
+[00:03:53] SPEAKER_05
+fire with our mouths. Just, like, crackle, crackle, pops.
+
+[00:03:56] SPEAKER_03
+Well, I...
+
+[00:03:57] SPEAKER_05
+Who's gonna edit that 8K video?
+
+[00:04:01] SPEAKER_02
+What are you talking... So, we're going to have one 8K, 8-hour video of the fire.
+
+[00:04:08] SPEAKER_02
+Then we're going to have a second 8K, 8-hour video with Andrew's commentary.
+
+[00:04:15] SPEAKER_02
+Commentary, yeah.
+
+[00:04:16] SPEAKER_02
+Then we're going to have a third 8K, 8-hour video where we just go crackle pop?
+
+[00:04:25] SPEAKER_05
+Potentially, yes.
+
+[00:04:27] SPEAKER_05
+That's what I was...
+
+[00:04:27] SPEAKER_05
+Potentially?
+
+[00:04:27] SPEAKER_05
+And, I mean, that's all I've come up with so far, but we could...
+
+[00:04:30] SPEAKER_05
+There could be... We could... I was even thinking every year we could do a...
+
+[00:04:34] SPEAKER_05
+Every year?
+
+[00:04:35] SPEAKER_05
+We could get together and do a commentary on the video and then re-upload it.
+
+[00:04:38] SPEAKER_04
+Each expo's gonna take me a damn week to do it. They're massive.
+
+[00:04:43] SPEAKER_03
+I mean, if we're adding fireplace content into the mix, I should add in...
+
+[00:04:47] SPEAKER_03
+I should add in myself. I took it upon myself, because I think this originally started,
+
+[00:04:52] SPEAKER_03
+because I said I'd be a great fire guy for tending the fire, but I can't be there.
+
+[00:04:56] SPEAKER_03
+Again, yes, we've lost the thread, but yes, that was it.
+
+[00:04:58] SPEAKER_03
+Ironically, I think, Eric, you're the one that brought the thread to us to begin with.
+
+[00:05:02] SPEAKER_03
+I think you introduced this at the start. I think this is the thing you brought up.
+
+[00:05:07] SPEAKER_03
+But anyway, I don't have a fireplace. I don't know anyone who has a fireplace.
+
+[00:05:11] SPEAKER_03
+But I made my own fireplace. I went out, I bought some clay, and I organized everything.
+
+[00:05:19] SPEAKER_03
+Well, we were not supposed to record today. We were originally supposed to record tomorrow.
+
+[00:05:25] SPEAKER_03
+When we rescheduled for today, I was deep in the clay. I was measuring things out.
+
+[00:05:30] SPEAKER_03
+I was rolling out balls, getting everything ready.
+
+[00:05:32] SPEAKER_04
+You've got a picture of some German clay, by the way.
+
+[00:05:34] SPEAKER_03
+Yeah. Leather effect, too, which wasn't ideal, but you do what you can.
+
+[00:05:39] SPEAKER_03
+Yeah. So I got the clay, put it all down, pop it in the oven. Real easy.
+
+[00:05:44] SPEAKER_03
+That's the photo. I made my little walls. The bottom part is going to be the top,
+
+[00:05:49] SPEAKER_03
+but you need to have gravity, so it's like downward.
+
+[00:05:52] SPEAKER_03
+And then I got a little chimney. See my cute little chimney to the left of it?
+
+[00:05:55] SPEAKER_03
+And I got to say, I haven't worked with clay since maybe like the second grade.
+
+[00:06:00] SPEAKER_03
+Pretty fucking proud. Look at this chimney I made.
+
+[00:06:02] SPEAKER_03
+This little fireplace, this cute little clay fire.
+
+[00:06:07] SPEAKER_03
+All these photos will be in the video version, obviously, and on Instagram, I assume.
+
+[00:06:11] SPEAKER_03
+It's just a standard regulation fireplace.
+
+[00:06:14] SPEAKER_03
+I'd say you got some brick.
+
+[00:06:15] SPEAKER_03
+Bricks on the outside.
+
+[00:06:17] SPEAKER_03
+Yeah.
+
+[00:06:18] SPEAKER_03
+So brick effect on the outside.
+
+[00:06:21] SPEAKER_04
+I'll be honest, it looks delicious.
+
+[00:06:23] SPEAKER_03
+It does. It did look very appetizing.
+
+[00:06:25] SPEAKER_03
+You made it look like chocolate.
+
+[00:06:26] SPEAKER_05
+No, it looks like 70% dark chocolate.
+
+[00:06:29] SPEAKER_05
+Completely edible.
+
+[00:06:30] SPEAKER_03
+Absolutely. Just look like chocolate naturally.
+
+[00:06:32] SPEAKER_03
+That was funny.
+
+[00:06:33] SPEAKER_03
+So then I organized everything.
+
+[00:06:35] SPEAKER_03
+I was worried about, you know, I set off the smoke alarms trying to cook desk dogs.
+
+[00:06:39] SPEAKER_03
+So this was an outside operation.
+
+[00:06:41] SPEAKER_03
+And because of us recording today, I had to do it.
+
+[00:06:45] SPEAKER_03
+As soon as I finished that, it was frantic.
+
+[00:06:47] SPEAKER_03
+I'm in my underwear at night on my balcony, shivering, literally shivering due to how cold
+
+[00:06:53] SPEAKER_03
+it is trying to film it.
+
+[00:06:54] SPEAKER_03
+I prepped my little stand.
+
+[00:06:56] SPEAKER_03
+Since we got a tiny little fireplace, got some toothpicks is the main source.
+
+[00:07:00] SPEAKER_03
+I bought 600 toothpicks as well as pencils, because what else are you going to do but
+
+[00:07:05] SPEAKER_03
+burn them?
+
+[00:07:05] SPEAKER_03
+Yeah.
+
+[00:07:06] SPEAKER_03
+So I had that going.
+
+[00:07:08] SPEAKER_03
+And I initially, as soon as I got the toothpicks out, I had a mistake.
+
+[00:07:13] SPEAKER_03
+I didn't realize toothpicks were bigger than the fireplace, which is a problem.
+
+[00:07:18] SPEAKER_03
+I did not predict, but that's fine.
+
+[00:07:21] SPEAKER_03
+I just have to break them up, get my kindling going.
+
+[00:07:23] SPEAKER_03
+So I broke them up.
+
+[00:07:25] SPEAKER_03
+Did that.
+
+[00:07:25] SPEAKER_03
+This is the end of my podcast journey with this.
+
+[00:07:28] SPEAKER_03
+I refilmed myself making a fireplace video last night that since I'm doing a reaction
+
+[00:07:35] SPEAKER_03
+video to your guys's fireplace, I figured you could do a reaction to my fireplace later.
+
+[00:07:42] SPEAKER_04
+Phenomenal.
+
+[00:07:43] SPEAKER_03
+So we got at least three locked in videos.
+
+[00:07:45] SPEAKER_04
+Does the chimney function?
+
+[00:07:47] SPEAKER_03
+Is it actually?
+
+[00:07:48] SPEAKER_03
+Here's the, I didn't, I couldn't find glue, so I couldn't reattach the chimney.
+
+[00:07:52] SPEAKER_03
+And that's a great point.
+
+[00:07:53] SPEAKER_03
+I realized the overhang was much too low.
+
+[00:07:56] SPEAKER_03
+I couldn't feed in new stuff, so I had to flip my chimney upside down.
+
+[00:08:00] SPEAKER_03
+And what's intended to be the top is now the bottom.
+
+[00:08:02] SPEAKER_04
+Why didn't you just make it while it was soft, like attached?
+
+[00:08:07] SPEAKER_04
+Yeah.
+
+[00:08:08] SPEAKER_03
+Because of solidifying the other parts, I had to like use.
+
+[00:08:12] SPEAKER_03
+Solidify it all together.
+
+[00:08:13] SPEAKER_03
+How am I going to put a little tiny, imagine trying to balance the thing on a finger, Gavin.
+
+[00:08:20] SPEAKER_03
+Like a trap, just one trap where it's not, the weight isn't evenly distributed.
+
+[00:08:24] SPEAKER_03
+Huh?
+
+[00:08:24] SPEAKER_03
+I cooked it upside down.
+
+[00:08:25] SPEAKER_03
+I don't know.
+
+[00:08:26] SPEAKER_03
+I don't know what he's saying either, dude.
+
+[00:08:28] SPEAKER_03
+The wall would fall apart.
+
+[00:08:29] SPEAKER_03
+It wouldn't, how would the top part of the chimney hold itself up while it was cooked?
+
+[00:08:34] SPEAKER_04
+You would mush it into the, you would combine them and then poke a hole through the bricked part.
+
+[00:08:39] SPEAKER_03
+Have you ever worked with clay?
+
+[00:08:41] SPEAKER_03
+Yeah.
+
+[00:08:42] SPEAKER_03
+Okay.
+
+[00:08:42] SPEAKER_03
+Well, then you're more of an expert than I am.
+
+[00:08:44] SPEAKER_03
+I probably could have done that.
+
+[00:08:45] SPEAKER_03
+I haven't.
+
+[00:08:46] SPEAKER_03
+That was my point.
+
+[00:08:47] SPEAKER_03
+I haven't worked with clay since I was like.
+
+[00:08:49] SPEAKER_04
+Do you think that when someone makes like a mug, they make the handle separately and glue it on layer?
+
+[00:08:53] SPEAKER_03
+No, it's just, I had one tiny little package of clay.
+
+[00:08:56] SPEAKER_03
+I'm on a deadline here because people are changing schedules and doing the best I can with what I have.
+
+[00:09:03] SPEAKER_03
+Maybe next year's fireplace, we'll have the chimney built in.
+
+[00:09:06] SPEAKER_03
+We'll have that technology ready.
+
+[00:09:10] SPEAKER_04
+I love it.
+
+[00:09:11] SPEAKER_04
+I think you've, you've nailed that.
+
+[00:09:13] SPEAKER_03
+Yeah.
+
+[00:09:13] SPEAKER_03
+Yeah.
+
+[00:09:13] SPEAKER_04
+The fact that you had to snap your toothpicks is, is amazing.
+
+[00:09:17] SPEAKER_03
+Oh yeah.
+
+[00:09:18] SPEAKER_03
+It was, is a problem.
+
+[00:09:19] SPEAKER_05
+Here's where I think we should be.
+
+[00:09:21] SPEAKER_05
+Uh, we've clearly, Eric is a hundred percent right.
+
+[00:09:24] SPEAKER_05
+We've lost the thread on this.
+
+[00:09:25] SPEAKER_05
+We lost it a while ago, but I was rented stuff for it.
+
+[00:09:29] SPEAKER_05
+I, well, I know what I was going to say.
+
+[00:09:31] SPEAKER_05
+Let me just finish.
+
+[00:09:31] SPEAKER_05
+I've only been keeping it going, uh, because I know nobody wants to do it.
+
+[00:09:36] SPEAKER_05
+I know that you don't want to do it, Gavin.
+
+[00:09:38] SPEAKER_05
+Nobody wants to do it.
+
+[00:09:39] SPEAKER_05
+I know Eric actively hates the idea at this point.
+
+[00:09:43] SPEAKER_05
+I don't want to do it.
+
+[00:09:44] SPEAKER_05
+Andrew doesn't want to be a part of it.
+
+[00:09:46] SPEAKER_05
+Uh, and so it was just stubbornness and annoyance that I kept it going.
+
+[00:09:50] SPEAKER_05
+But in the grand scheme of things, is it a funnier idea to film?
+
+[00:09:58] SPEAKER_05
+Hold on.
+
+[00:09:59] SPEAKER_05
+Is it a funnier idea to film an 8k, 8 hour video of Andrew's fire?
+
+[00:10:05] SPEAKER_05
+Not out.
+
+[00:10:07] SPEAKER_05
+No.
+
+[00:10:08] SPEAKER_03
+Well, how is that?
+
+[00:10:09] SPEAKER_02
+I don't think Andrew's fire would last 8 hours.
+
+[00:10:13] SPEAKER_01
+Like, that fireplace would dissolve.
+
+[00:10:16] SPEAKER_01
+It's just, like, model clay.
+
+[00:10:19] SPEAKER_01
+It would explode.
+
+[00:10:21] SPEAKER_01
+It would just crumble.
+
+[00:10:23] SPEAKER_04
+Wait, so, Andrew, have you actually, like, fired the clay?
+
+[00:10:26] SPEAKER_04
+Have you actually, like, kilndified it?
+
+[00:10:27] SPEAKER_04
+Or is it still soft?
+
+[00:10:29] SPEAKER_03
+No, it's an oven.
+
+[00:10:29] SPEAKER_03
+I threw it in the oven for 30 minutes.
+
+[00:10:32] SPEAKER_03
+So, that's solidified.
+
+[00:10:33] SPEAKER_03
+I've lit it on fire.
+
+[00:10:34] SPEAKER_03
+I have the video.
+
+[00:10:35] SPEAKER_03
+It's done.
+
+[00:10:36] SPEAKER_03
+My fireplace video is complete.
+
+[00:10:37] SPEAKER_05
+Like, if Andrew mailed us that fireplace, and we set it up in front of a real fireplace,
+
+[00:10:43] SPEAKER_05
+and then we got, like, a little skinny, like, we got chopsticks or something that we
+
+[00:10:47] SPEAKER_05
+could pick up and put the pieces of pencil and shit in with it, and just film that until
+
+[00:10:54] SPEAKER_05
+the whole thing just disintegrates on itself.
+
+[00:10:56] SPEAKER_04
+I love the idea of tiny fireplace equipment.
+
+[00:10:59] SPEAKER_04
+Like, tiny pokers and prongs.
+
+[00:11:00] SPEAKER_05
+Yeah, I'm sure they sell those.
+
+[00:11:02] SPEAKER_05
+Like, tiny fireplace prongs.
+
+[00:11:04] SPEAKER_03
+Yeah, I looked into it.
+
+[00:11:05] SPEAKER_03
+They do.
+
+[00:11:06] SPEAKER_03
+They're available.
+
+[00:11:07] SPEAKER_03
+Because I bought a tiny little fireplace thing for this.
+
+[00:11:09] SPEAKER_05
+I saw that.
+
+[00:11:10] SPEAKER_05
+The little wood holder is fucking brilliant.
+
+[00:11:12] SPEAKER_03
+Yeah, it didn't have wood in it in the image, and I couldn't get the wood out of the holder,
+
+[00:11:17] SPEAKER_03
+so I just had to live with it.
+
+[00:11:19] SPEAKER_03
+I think you're making these plans before seeing the video, and seeing the video will really
+
+[00:11:24] SPEAKER_03
+adjust your expectations of what is plausible.
+
+[00:11:27] SPEAKER_03
+Can we see the video?
+
+[00:11:29] SPEAKER_03
+I don't have it uploaded anywhere.
+
+[00:11:31] SPEAKER_03
+I was going to have you guys react to it later, like posh.
+
+[00:11:33] SPEAKER_03
+I just felt like it was a little long for...
+
+[00:11:35] SPEAKER_05
+I just, at the end of the day, because I have been thinking about this, there have been like
+
+[00:11:41] SPEAKER_05
+four or five different text threads with different individuals going on this whole time around
+
+[00:11:46] SPEAKER_05
+this about who's annoyed, who's more annoyed with who, about putting this fireplace video
+
+[00:11:51] SPEAKER_05
+together, but something that did stick with me at some point, which is that at this point,
+
+[00:12:00] SPEAKER_05
+nobody's going to have fun making this, and kind of the whole point of this podcast is
+
+[00:12:05] SPEAKER_05
+that we have fun with each other, and so I don't want to make everybody spend eight hours
+
+[00:12:08] SPEAKER_05
+together just staring at each other and not having a good time.
+
+[00:12:10] SPEAKER_05
+If nobody really wants to do it.
+
+[00:12:13] SPEAKER_02
+I think it would be fun, too.
+
+[00:12:14] SPEAKER_02
+Yeah, if some of us don't have to drive to Dallas, I think it's going to be a really good
+
+[00:12:18] SPEAKER_02
+time.
+
+[00:12:18] SPEAKER_02
+Well, how long is the drive to Dallas?
+
+[00:12:20] SPEAKER_02
+Three and a half hours.
+
+[00:12:21] SPEAKER_02
+Three and a half hours?
+
+[00:12:23] SPEAKER_02
+Hang on.
+
+[00:12:23] SPEAKER_02
+Three and a half hours one way?
+
+[00:12:25] SPEAKER_03
+One way.
+
+[00:12:26] SPEAKER_03
+Seven hours round trip.
+
+[00:12:27] SPEAKER_03
+Yeah, so Jeff could be there for an hour.
+
+[00:12:30] SPEAKER_05
+So if I have to go tomorrow and get my kid and come back, then I'm in the car for at
+
+[00:12:33] SPEAKER_05
+least seven hours, depending on how long.
+
+[00:12:35] SPEAKER_04
+I'm just worried about using the real room audio, if it's just me and Eric, because it's
+
+[00:12:40] SPEAKER_04
+just going to be us complaining that no one else is there.
+
+[00:12:42] SPEAKER_02
+Yes, we cannot use the real room audio.
+
+[00:12:44] SPEAKER_05
+What I figured is that we would use the real room audio, but we wouldn't be in the room.
+
+[00:12:52] SPEAKER_05
+We would have our conversations or something and hang out in a different room, and then
+
+[00:12:56] SPEAKER_05
+every once in a while, somebody would go in and tend to the fire.
+
+[00:12:59] SPEAKER_05
+And you would get snippets of our conversation as we come in and out of the room.
+
+[00:13:02] SPEAKER_05
+Yeah, I mean, it could be an office day.
+
+[00:13:04] SPEAKER_05
+Yeah, right?
+
+[00:13:05] SPEAKER_05
+Like that kind of thing.
+
+[00:13:06] SPEAKER_04
+With that, a trio like an office day, but with the fire on the side.
+
+[00:13:09] SPEAKER_04
+Yeah.
+
+[00:13:10] SPEAKER_04
+And me having to swap the memory card every so often.
+
+[00:13:12] SPEAKER_05
+Because I'll be honest, I've been thinking about this a lot when I was on Christmas break.
+
+[00:13:16] SPEAKER_05
+You guys are officially like my four favorite people outside of my fiance and my daughter
+
+[00:13:23] SPEAKER_05
+and my mom.
+
+[00:13:26] SPEAKER_05
+But I don't know that I want to spend eight straight hours with any of you.
+
+[00:13:29] SPEAKER_05
+Oh, I could do it.
+
+[00:13:30] SPEAKER_02
+Oh, absolutely.
+
+[00:13:31] SPEAKER_02
+Yeah.
+
+[00:13:31] SPEAKER_02
+All right.
+
+[00:13:31] SPEAKER_02
+You lived with me.
+
+[00:13:32] SPEAKER_02
+Spending time together is going to be the fun part if we're all there and some of us aren't
+
+[00:13:36] SPEAKER_02
+in Dallas.
+
+[00:13:37] SPEAKER_05
+Okay, well then that'll only be hard for me.
+
+[00:13:39] SPEAKER_05
+Okay, yeah.
+
+[00:13:39] SPEAKER_05
+Let's do it then.
+
+[00:13:43] SPEAKER_05
+We spent longer than eight hours just building in Minecraft straight.
+
+[00:13:48] SPEAKER_05
+Yeah.
+
+[00:13:48] SPEAKER_05
+What are you talking about?
+
+[00:13:49] SPEAKER_05
+That's kind of my point is that I've been there.
+
+[00:13:52] SPEAKER_05
+I know.
+
+[00:13:54] SPEAKER_02
+I know what I'm getting into.
+
+[00:13:56] SPEAKER_02
+I mean, my hang up with this whole thing is, again, we're going to have how many eight
+
+[00:14:02] SPEAKER_02
+hour, 8K unuploadable videos that we're going to do?
+
+[00:14:07] SPEAKER_05
+Well, like, do we know it's, do we know it's, it's not going to be uploadable, right?
+
+[00:14:12] SPEAKER_04
+Well, I think we can do it.
+
+[00:14:14] SPEAKER_04
+But I think the other ones, the comedy versions, the commentaries, the snap, crackle, and pops,
+
+[00:14:19] SPEAKER_04
+they could be just HD.
+
+[00:14:21] SPEAKER_05
+Yeah, those are fine.
+
+[00:14:22] SPEAKER_05
+That's fine if they're just HD.
+
+[00:14:24] SPEAKER_05
+If we, all right, I'm back on board.
+
+[00:14:26] SPEAKER_05
+You guys, you guys talked me back into it.
+
+[00:14:27] SPEAKER_05
+I was trying to, I was trying to ease us out of this.
+
+[00:14:30] SPEAKER_05
+I was trying to say, like, maybe we don't do the fireplace video.
+
+[00:14:33] SPEAKER_05
+I understand.
+
+[00:14:33] SPEAKER_05
+I'll say we don't do the fireplace video.
+
+[00:14:35] SPEAKER_05
+No, no, no, no.
+
+[00:14:36] SPEAKER_05
+You can't, you can't bring me back from the fire back into the fold and then try to
+
+[00:14:40] SPEAKER_05
+switch, pull the roll back over my eyes.
+
+[00:14:42] SPEAKER_05
+No, we're doing it now and I'm fucking in.
+
+[00:14:44] SPEAKER_05
+You're not even going to be here.
+
+[00:14:45] SPEAKER_05
+We were out.
+
+[00:14:46] SPEAKER_05
+No, I'll be there probably.
+
+[00:14:48] SPEAKER_04
+He'll be there probably.
+
+[00:14:50] SPEAKER_04
+We'll do it, but we have to have everyone there.
+
+[00:14:53] SPEAKER_02
+Probably.
+
+[00:14:53] SPEAKER_02
+Should we do it?
+
+[00:14:54] SPEAKER_02
+Okay, if we have to, we can do it on Friday probably.
+
+[00:14:57] SPEAKER_03
+Jesus, hold on.
+
+[00:14:58] SPEAKER_05
+Let me see.
+
+[00:14:59] SPEAKER_05
+What's Friday?
+
+[00:15:00] SPEAKER_03
+I will say you don't need to worry about my video being eight hours long.
+
+[00:15:03] SPEAKER_05
+Why don't we, why don't we rig it the new year over for fireplace?
+
+[00:15:06] SPEAKER_05
+The most Gavin answer ever from Jeff.
+
+[00:15:11] SPEAKER_05
+All right, Nick.
+
+[00:15:14] SPEAKER_05
+I will say one thing I wanted to do is I bought, I saved the apple that I threw up back into
+
+[00:15:20] SPEAKER_05
+the bag.
+
+[00:15:20] SPEAKER_05
+Oh, and I, that's not all throw up.
+
+[00:15:23] SPEAKER_05
+Most of it's just apple, but I was going to, I was going to throw that on the fire at
+
+[00:15:26] SPEAKER_05
+some point and watch it fucking just like, yeah, disintegrate.
+
+[00:15:30] SPEAKER_05
+And I, I definitely want to do that.
+
+[00:15:33] SPEAKER_05
+All right.
+
+[00:15:33] SPEAKER_05
+Why don't we postpone?
+
+[00:15:35] SPEAKER_05
+Well, we could still do it.
+
+[00:15:35] SPEAKER_05
+I mean, there's still a really good chance I can make it tomorrow.
+
+[00:15:38] SPEAKER_05
+I'll know tonight one way or the other.
+
+[00:15:39] SPEAKER_05
+Okay.
+
+[00:15:40] SPEAKER_02
+We'll, we'll know tonight if we have to, we could do it tomorrow.
+
+[00:15:42] SPEAKER_02
+We could do it the day after we have this card rented until like the third.
+
+[00:15:47] SPEAKER_02
+So we have time.
+
+[00:15:48] SPEAKER_02
+We can figure this stuff out.
+
+[00:15:50] SPEAKER_02
+As long as we're all there, I'm bummed that Nick can't be there, but as long as we're
+
+[00:15:54] SPEAKER_02
+all there, it'll be good.
+
+[00:15:55] SPEAKER_02
+I agree.
+
+[00:15:56] SPEAKER_02
+That's fantastic.
+
+[00:15:56] SPEAKER_05
+By we're all, you just mean Eric, Jeff, and Gavin.
+
+[00:16:00] SPEAKER_02
+Yeah.
+
+[00:16:04] SPEAKER_02
+You know what I mean?
+
+[00:16:06] SPEAKER_02
+Cause I, I'll have like our audio, like on the road and audio recording equipment so
+
+[00:16:11] SPEAKER_02
+we can record something if you want to, but yeah.
+
+[00:16:15] SPEAKER_02
+Okay.
+
+[00:16:15] SPEAKER_02
+We can, we can do something fun.
+
+[00:16:17] SPEAKER_02
+I did.
+
+[00:16:17] SPEAKER_05
+I did figure that if we're going to be together for eight hours, we would probably end up making
+
+[00:16:22] SPEAKER_05
+like 10,000 iPhone videos.
+
+[00:16:24] SPEAKER_05
+Like somebody could bring a frisbee.
+
+[00:16:25] SPEAKER_05
+We could start training Eric on frisbee throws.
+
+[00:16:28] SPEAKER_05
+Like there's all kinds of stuff we could do.
+
+[00:16:29] SPEAKER_04
+Oh, we could play darts.
+
+[00:16:31] SPEAKER_04
+Be amazing.
+
+[00:16:32] SPEAKER_05
+Yeah.
+
+[00:16:32] SPEAKER_99
+Oh, we could play darts.
+
+[00:16:34] SPEAKER_04
+All this, all this project needed was a 20 minute meeting about like what we're going
+
+[00:16:39] SPEAKER_04
+to do.
+
+[00:16:40] SPEAKER_02
+It's a miracle that we're having it, but I'm glad.
+
+[00:16:42] SPEAKER_02
+Okay.
+
+[00:16:43] SPEAKER_05
+Listen, I'm glad, I'm glad you guys are on board.
+
+[00:16:45] SPEAKER_05
+Cause I really felt like after, you know, 20 years in this business, uh, I really felt
+
+[00:16:51] SPEAKER_05
+like I was dragging people to do something that nobody wanted to do just, just to be
+
+[00:16:56] SPEAKER_05
+a dick.
+
+[00:16:56] SPEAKER_05
+But now it's clear, now it's clear to me that everybody's super into it and wants to
+
+[00:17:01] SPEAKER_05
+do it.
+
+[00:17:01] SPEAKER_02
+So I still, I still don't, none of this makes any sense to me still, but we're going to
+
+[00:17:06] SPEAKER_02
+do it.
+
+[00:17:06] SPEAKER_02
+So I like, I'm in, you don't have to convince me any harder.
+
+[00:17:10] SPEAKER_05
+I already said yes.
+
+[00:17:12] SPEAKER_04
+I don't care when we do it, but we should do it.
+
+[00:17:14] SPEAKER_04
+And I've already spent money.
+
+[00:17:15] SPEAKER_04
+I, I've already bought a hard drive.
+
+[00:17:21] SPEAKER_04
+400 bucks in the hole for this fricking fireplace.
+
+[00:17:28] SPEAKER_03
+I think I'm, I think I'm 15.
+
+[00:17:31] SPEAKER_03
+That clay, I got on sale.
+
+[00:17:32] SPEAKER_03
+It was a good deal.
+
+[00:17:33] SPEAKER_03
+Gavin, you don't have to worry about me.
+
+[00:17:34] SPEAKER_03
+I used a 30% off coupon as well.
+
+[00:17:37] SPEAKER_05
+Well, I've, I've been paying in, in fridge space for a year.
+
+[00:17:42] SPEAKER_03
+That's true.
+
+[00:17:43] SPEAKER_03
+Oh, you're getting new apples, by the way.
+
+[00:17:44] SPEAKER_03
+They're going to mail you apples in the new year.
+
+[00:17:46] SPEAKER_05
+Oh, no shit.
+
+[00:17:47] SPEAKER_05
+Cosmic Christmas.
+
+[00:17:48] SPEAKER_05
+That's awesome.
+
+[00:17:49] SPEAKER_99
+Yeah.
+
+[00:17:50] SPEAKER_04
+I had, um, I had one thing I wanted to get done before the end of the year.
+
+[00:17:54] SPEAKER_05
+Uh-huh.
+
+[00:17:55] SPEAKER_04
+Um, Andrew, I beat one of your times.
+
+[00:17:57] SPEAKER_03
+Oh, oh, oh my God.
+
+[00:18:02] SPEAKER_03
+What?
+
+[00:18:04] SPEAKER_03
+I don't remember what this is.
+
+[00:18:05] SPEAKER_03
+Is this Halo?
+
+[00:18:07] SPEAKER_04
+You have 24 hours to respond.
+
+[00:18:08] SPEAKER_03
+Didn't we do this already?
+
+[00:18:10] SPEAKER_04
+Yeah.
+
+[00:18:11] SPEAKER_03
+I felt like we did this already.
+
+[00:18:13] SPEAKER_03
+We clapped.
+
+[00:18:14] SPEAKER_03
+Oh, and we're doing it again.
+
+[00:18:15] SPEAKER_03
+Wait, so we're just doing it again?
+
+[00:18:17] SPEAKER_03
+I didn't know that this could be done.
+
+[00:18:19] SPEAKER_03
+Okay.
+
+[00:18:19] SPEAKER_03
+Do I get to know what game it is?
+
+[00:18:22] SPEAKER_03
+Like, what am I, what am I looking at here?
+
+[00:18:26] SPEAKER_04
+You want to know the game?
+
+[00:18:27] SPEAKER_03
+I mean, that would make it easier.
+
+[00:18:29] SPEAKER_03
+I mean, I could probably figure it out.
+
+[00:18:30] SPEAKER_03
+I'd look at your profile.
+
+[00:18:31] SPEAKER_03
+I'd literally just turn on my Xbox.
+
+[00:18:33] SPEAKER_04
+Trials HD.
+
+[00:18:34] SPEAKER_03
+Trials HD.
+
+[00:18:35] SPEAKER_03
+We're going back to the original Trials?
+
+[00:18:37] SPEAKER_03
+Fucked.
+
+[00:18:37] SPEAKER_03
+No.
+
+[00:18:38] SPEAKER_03
+You're fucked.
+
+[00:18:39] SPEAKER_03
+No, not.
+
+[00:18:39] SPEAKER_03
+You are no.
+
+[00:18:40] SPEAKER_03
+Fucked.
+
+[00:18:41] SPEAKER_03
+You are fucked.
+
+[00:18:43] SPEAKER_03
+Is it the one that took me 100 days to beat?
+
+[00:18:45] SPEAKER_03
+I don't know.
+
+[00:18:46] SPEAKER_04
+I can't remember which one that was.
+
+[00:18:48] SPEAKER_04
+I don't think so.
+
+[00:18:49] SPEAKER_03
+It was the one.
+
+[00:18:50] SPEAKER_03
+You were like 70th in the world on one.
+
+[00:18:52] SPEAKER_03
+Yeah, it's definitely not that one.
+
+[00:18:53] SPEAKER_04
+Literally.
+
+[00:18:54] SPEAKER_04
+That was a freak accident.
+
+[00:18:56] SPEAKER_03
+Okay, so what's the protocol?
+
+[00:18:57] SPEAKER_03
+I have 24 hours to return the time back to you, and then what?
+
+[00:19:01] SPEAKER_04
+And then I have 24 hours after that.
+
+[00:19:03] SPEAKER_03
+Okay, so we're just doing the Halo bad again.
+
+[00:19:05] SPEAKER_03
+Is there?
+
+[00:19:06] SPEAKER_03
+I didn't realize that this could happen.
+
+[00:19:08] SPEAKER_03
+Was there like an end of the year?
+
+[00:19:10] SPEAKER_04
+Loser is a pencil.
+
+[00:19:12] SPEAKER_03
+Yeah, okay.
+
+[00:19:13] SPEAKER_03
+Sure, why not?
+
+[00:19:15] SPEAKER_03
+What did we do last time?
+
+[00:19:16] SPEAKER_04
+What was the prize for?
+
+[00:19:18] SPEAKER_03
+No, you had to eat a piece of gum with my choice, and I've ruined it on the team.
+
+[00:19:25] SPEAKER_04
+All right, it's the gum thing again.
+
+[00:19:26] SPEAKER_03
+Okay, we're doing gum.
+
+[00:19:27] SPEAKER_03
+Gum 2.0.
+
+[00:19:28] SPEAKER_03
+That's fine.
+
+[00:19:29] SPEAKER_03
+I'll start dealing trials.
+
+[00:19:32] SPEAKER_04
+Nick says season six is going to lead off with another lawsuit.
+
+[00:19:36] SPEAKER_03
+I'm glad it's trials and not Monopoly money.
+
+[00:19:40] SPEAKER_03
+In my head, I was like, you mother...
+
+[00:19:41] SPEAKER_03
+You didn't.
+
+[00:19:42] SPEAKER_03
+Yeah.
+
+[00:19:42] SPEAKER_03
+I don't have Monopoly money on my door right now.
+
+[00:19:44] SPEAKER_05
+Hey, should we talk about that today?
+
+[00:19:46] SPEAKER_05
+We're recording this on Wednesday, December 28th, which is actually the day that the Cucumber
+
+[00:19:51] SPEAKER_05
+episode dropped.
+
+[00:19:52] SPEAKER_05
+Gavin, it's pretty clear you're not going to go to Canada and put that Monopoly money on
+
+[00:19:59] SPEAKER_05
+his door, right?
+
+[00:20:00] SPEAKER_05
+Like, that's not going to happen in the next three days, especially if you're going to spend
+
+[00:20:03] SPEAKER_05
+tomorrow or Friday filming a fireplace.
+
+[00:20:06] SPEAKER_04
+The thing was, with all the 20,000 canceled flights last week, and the fact that this fireplace
+
+[00:20:14] SPEAKER_04
+video might happen, I've just missed the window.
+
+[00:20:16] SPEAKER_04
+I was actually, I was looking at flights last week.
+
+[00:20:19] SPEAKER_03
+Yeah.
+
+[00:20:20] SPEAKER_03
+And I figured I had the window.
+
+[00:20:21] SPEAKER_03
+We had the advantage of a massive snowstorm that shut down the Vancouver airport like last
+
+[00:20:26] SPEAKER_03
+week.
+
+[00:20:26] SPEAKER_03
+And then I was like, with the fireplace video and a recording this week, Gavin's window is
+
+[00:20:31] SPEAKER_03
+like one or two days.
+
+[00:20:32] SPEAKER_03
+You're not going to do it on New Year.
+
+[00:20:33] SPEAKER_03
+Like, it was very tight, so I was prepared.
+
+[00:20:35] SPEAKER_04
+I think at this point, I'm limited to doing it on New Year's Eve.
+
+[00:20:38] SPEAKER_03
+Yeah.
+
+[00:20:39] SPEAKER_03
+And I was going to be just fully prepared on New Year's Eve, because I assumed that would
+
+[00:20:42] SPEAKER_03
+be literally the only day you had.
+
+[00:20:44] SPEAKER_03
+You were not cashing out on this.
+
+[00:20:46] SPEAKER_04
+And I don't have the advantage of having a Jeff that lives on Vancouver Island to do
+
+[00:20:52] SPEAKER_04
+all the work for me.
+
+[00:20:52] SPEAKER_03
+No, but you have the advantage of knowing where I live.
+
+[00:20:55] SPEAKER_03
+I didn't have your address.
+
+[00:20:56] SPEAKER_03
+I still don't have your address.
+
+[00:20:58] SPEAKER_03
+I feel like that was the trade-off.
+
+[00:21:00] SPEAKER_03
+You know where I am.
+
+[00:21:01] SPEAKER_03
+I don't know where you are.
+
+[00:21:02] SPEAKER_05
+That's a good point.
+
+[00:21:03] SPEAKER_05
+And I still, I volunteered to go to Canada with you to help participate in any of this.
+
+[00:21:08] SPEAKER_05
+He did.
+
+[00:21:09] SPEAKER_05
+It's true.
+
+[00:21:09] SPEAKER_05
+The reason I bring this up is because I was thinking about it today with all the arguing
+
+[00:21:14] SPEAKER_05
+about whether Andrew's point should count or not, which absolutely it does.
+
+[00:21:18] SPEAKER_05
+It's ridiculous.
+
+[00:21:18] SPEAKER_05
+I realized that we're so far ahead because we had to batch record because of the holidays
+
+[00:21:24] SPEAKER_05
+that we won't be able to respond.
+
+[00:21:26] SPEAKER_05
+Like, this will come out like third week of January or something.
+
+[00:21:29] SPEAKER_05
+Second week of January.
+
+[00:21:30] SPEAKER_05
+So the audience isn't going to find out about the goddamn Monopoly money until February if
+
+[00:21:33] SPEAKER_05
+it happens or not.
+
+[00:21:34] SPEAKER_05
+So I was just thinking we should cut it off right here and not leave them hanging any longer
+
+[00:21:39] SPEAKER_05
+than we have to.
+
+[00:21:40] SPEAKER_05
+And just say, like, it's probably not going to happen.
+
+[00:21:42] SPEAKER_05
+Like, I'm going to assume it's not going to happen.
+
+[00:21:44] SPEAKER_03
+First of all, I want to say that with the cucumbering we did on Gavin, Jeff, I think
+
+[00:21:49] SPEAKER_03
+undeniably the cleanest cucumbering ever done of all time.
+
+[00:21:53] SPEAKER_03
+The fact that there are people that don't think there's cucumbers all over my hands and
+
+[00:21:59] SPEAKER_03
+calling in this attack.
+
+[00:22:01] SPEAKER_03
+Insane.
+
+[00:22:02] SPEAKER_03
+Insane.
+
+[00:22:02] SPEAKER_03
+These people do not respect the RICO laws.
+
+[00:22:05] SPEAKER_03
+They're out in their mind.
+
+[00:22:06] SPEAKER_03
+It's crazy.
+
+[00:22:06] SPEAKER_04
+So what are they saying?
+
+[00:22:07] SPEAKER_04
+That Jeff did all the work and you didn't do anything?
+
+[00:22:08] SPEAKER_03
+Yeah, that I had zero role in it happening, which is fine.
+
+[00:22:12] SPEAKER_03
+That's how clean of a cucumbering it was.
+
+[00:22:14] SPEAKER_03
+The fact that they don't blame me at all.
+
+[00:22:16] SPEAKER_03
+They don't think I'm in the slightest bit guilty.
+
+[00:22:19] SPEAKER_03
+Incredible.
+
+[00:22:20] SPEAKER_03
+It's a historic calling.
+
+[00:22:21] SPEAKER_05
+It's phenomenal because I have got to say, your hands, Andrew, are dripping in cucumber
+
+[00:22:27] SPEAKER_05
+seeds.
+
+[00:22:28] SPEAKER_05
+Dripping in cucumber.
+
+[00:22:29] SPEAKER_05
+They're covered in cucumber slime.
+
+[00:22:31] SPEAKER_05
+Covered.
+
+[00:22:32] SPEAKER_04
+I've been sending Andrew messages recently just because of the way the last one ended
+
+[00:22:37] SPEAKER_04
+and how you're apparently tracking me.
+
+[00:22:39] SPEAKER_04
+I just kept texting Andrew last week just asking, where am I?
+
+[00:22:42] SPEAKER_03
+And he sent me a photo of the Austin airport and it had the Austin airport logo in the photo.
+
+[00:22:48] SPEAKER_03
+But what you don't know, Gavin, is I'm not the one who noticed that.
+
+[00:22:52] SPEAKER_03
+I tweeted that out and then I had somebody delete a subreddit post about it because I
+
+[00:22:56] SPEAKER_03
+couldn't figure it out.
+
+[00:22:57] SPEAKER_03
+I was like, where is he?
+
+[00:22:58] SPEAKER_03
+Because you claimed you weren't in Austin.
+
+[00:23:00] SPEAKER_04
+Yeah, because I was like, where am I?
+
+[00:23:03] SPEAKER_04
+And he's like, Austin.
+
+[00:23:04] SPEAKER_04
+I was like, well, that's true.
+
+[00:23:05] SPEAKER_04
+So then I just sent him a picture that I had in my camera roll of the airport.
+
+[00:23:10] SPEAKER_04
+But it was Austin airport.
+
+[00:23:11] SPEAKER_04
+I was like, where am I?
+
+[00:23:12] SPEAKER_04
+He's like, Austin.
+
+[00:23:13] SPEAKER_04
+I was like, nope.
+
+[00:23:14] SPEAKER_04
+So I was just lying.
+
+[00:23:15] SPEAKER_04
+But apparently the logo of the Austin airport was on the ground.
+
+[00:23:18] SPEAKER_03
+It was on the separators for where people should stand.
+
+[00:23:22] SPEAKER_03
+But it was a whole thing.
+
+[00:23:23] SPEAKER_03
+I asked people.
+
+[00:23:24] SPEAKER_03
+I went to the people to help and it was quickly discovered.
+
+[00:23:27] SPEAKER_03
+So I owe them one and I was scared that you would realize because Jeff, let's just go
+
+[00:23:32] SPEAKER_03
+over all the cucumber things.
+
+[00:23:34] SPEAKER_03
+Let's wrap up on the end.
+
+[00:23:35] SPEAKER_03
+I'm going to tell you who my helper was for the cucumber thing.
+
+[00:23:38] SPEAKER_03
+But let's start at the beginning.
+
+[00:23:41] SPEAKER_03
+So we're wrapping up the cucumber saga right here.
+
+[00:23:45] SPEAKER_03
+Yes, it is.
+
+[00:23:46] SPEAKER_03
+It is.
+
+[00:23:46] SPEAKER_03
+This is the end of it.
+
+[00:23:47] SPEAKER_03
+There's some twists and turns.
+
+[00:23:49] SPEAKER_03
+So initially, I just thought I really like this bet and I want to add field with fire.
+
+[00:23:53] SPEAKER_03
+So I asked my helper, who I'll reveal at the end of this.
+
+[00:23:57] SPEAKER_03
+Would it be an inconvenience for you to take a photo of a cucumber in front of this mural?
+
+[00:24:01] SPEAKER_03
+They're like, absolutely not.
+
+[00:24:03] SPEAKER_03
+So then I posted it and I sent it to you.
+
+[00:24:05] SPEAKER_03
+What I didn't expect was so many people being like, is Andrew in Austin?
+
+[00:24:09] SPEAKER_03
+This is crazy.
+
+[00:24:10] SPEAKER_03
+And I thought, oh, fuck.
+
+[00:24:11] SPEAKER_03
+I guess now I need to try to try to make it seem like I'm in Austin.
+
+[00:24:15] SPEAKER_03
+How can I pull this off?
+
+[00:24:16] SPEAKER_03
+So I immediately started looking at buying plane tickets just to have for the person.
+
+[00:24:21] SPEAKER_03
+A little out of my price range, unfortunately.
+
+[00:24:23] SPEAKER_03
+I thought about getting one that would go to Vegas because I felt that was timely with
+
+[00:24:27] SPEAKER_03
+claiming I'd be in Vegas in November.
+
+[00:24:29] SPEAKER_03
+But just the months didn't line up, obviously, since we were in December.
+
+[00:24:35] SPEAKER_03
+That didn't work.
+
+[00:24:35] SPEAKER_03
+But then I looked online at a hotel I would stay at and I found a room for like $180 when
+
+[00:24:41] SPEAKER_03
+everything else was $250.
+
+[00:24:43] SPEAKER_03
+So I booked that hotel room.
+
+[00:24:45] SPEAKER_03
+Are you serious?
+
+[00:24:46] SPEAKER_03
+Oh, yeah.
+
+[00:24:47] SPEAKER_03
+No, I booked.
+
+[00:24:47] SPEAKER_03
+I legitimately booked a room at the Hilton for this.
+
+[00:24:50] SPEAKER_05
+Can any expense report this here, Eric?
+
+[00:24:55] SPEAKER_01
+For what?
+
+[00:24:56] SPEAKER_01
+What is he?
+
+[00:24:57] SPEAKER_02
+Why did he do?
+
+[00:24:58] SPEAKER_02
+Why is it insane?
+
+[00:25:00] SPEAKER_02
+Yeah, I rented a room.
+
+[00:25:02] SPEAKER_02
+Why?
+
+[00:25:04] SPEAKER_02
+You know.
+
+[00:25:05] SPEAKER_03
+Because I needed to ground that I was there.
+
+[00:25:07] SPEAKER_03
+I needed it to be in a place.
+
+[00:25:08] SPEAKER_02
+Andrew, no one was ever going to believe that you.
+
+[00:25:10] SPEAKER_02
+Like, none of this makes sense.
+
+[00:25:12] SPEAKER_02
+This is.
+
+[00:25:13] SPEAKER_02
+Yeah, whatever expense it.
+
+[00:25:14] SPEAKER_02
+I don't care.
+
+[00:25:15] SPEAKER_02
+Whatever.
+
+[00:25:15] SPEAKER_02
+You beat me.
+
+[00:25:16] SPEAKER_02
+I lose.
+
+[00:25:17] SPEAKER_02
+I don't know.
+
+[00:25:17] SPEAKER_03
+I just wanted to do a ridiculous gag with it.
+
+[00:25:23] SPEAKER_03
+I was just like, well, sure, sure, sure, sure.
+
+[00:25:24] SPEAKER_05
+I just don't want you to be out of a hotel room for nothing.
+
+[00:25:28] SPEAKER_03
+No, it's fine.
+
+[00:25:29] SPEAKER_03
+So I booked a hotel room.
+
+[00:25:32] SPEAKER_03
+I reached out to my helper and I was like, hey, do you have a Mac laptop?
+
+[00:25:35] SPEAKER_03
+And they happen to have it.
+
+[00:25:36] SPEAKER_03
+So do you have a Yeti microphone?
+
+[00:25:37] SPEAKER_03
+They had that.
+
+[00:25:38] SPEAKER_03
+Perfect.
+
+[00:25:39] SPEAKER_03
+What is your availability on this day?
+
+[00:25:41] SPEAKER_03
+They changed their work schedule to do this.
+
+[00:25:43] SPEAKER_03
+They were so on board with being in the bit.
+
+[00:25:45] SPEAKER_03
+They're like, I plans.
+
+[00:25:46] SPEAKER_03
+I can trip with people.
+
+[00:25:48] SPEAKER_03
+So they flipped it.
+
+[00:25:49] SPEAKER_03
+Then I thought, how can I ground this so it's a live thing?
+
+[00:25:53] SPEAKER_03
+And I realized, oh, if they took a photo of our chat, that would put it in current time.
+
+[00:25:58] SPEAKER_03
+And that would be like the thing that would be the most confusing aspect of it.
+
+[00:26:02] SPEAKER_03
+So they booked themselves.
+
+[00:26:04] SPEAKER_03
+They went into the hotel.
+
+[00:26:05] SPEAKER_03
+They live in Austin.
+
+[00:26:06] SPEAKER_03
+They went to the hotel, checked in.
+
+[00:26:08] SPEAKER_03
+They just sat there for the entirety of, I think we did two.
+
+[00:26:12] SPEAKER_03
+And that came up on the second one.
+
+[00:26:14] SPEAKER_03
+Oh, no.
+
+[00:26:15] SPEAKER_03
+They just hung out in the hotel room by themselves.
+
+[00:26:17] SPEAKER_03
+Then if you listen.
+
+[00:26:18] SPEAKER_04
+He was sat there while we recorded the first one and didn't mention it?
+
+[00:26:21] SPEAKER_03
+Yeah.
+
+[00:26:21] SPEAKER_03
+No, he just had it open.
+
+[00:26:23] SPEAKER_03
+He just wasn't paying attention.
+
+[00:26:24] SPEAKER_03
+So it's on his phone.
+
+[00:26:26] SPEAKER_03
+Okay.
+
+[00:26:26] SPEAKER_03
+So that all happens.
+
+[00:26:29] SPEAKER_03
+If you listen, I'm very distracted because I'm like trying to coordinate photos.
+
+[00:26:32] SPEAKER_03
+And I'm like, oh, you got to open Audacity.
+
+[00:26:35] SPEAKER_03
+And you got to do all these things.
+
+[00:26:36] SPEAKER_03
+So then I start, I make the move.
+
+[00:26:38] SPEAKER_03
+I do the post.
+
+[00:26:39] SPEAKER_03
+You guys start peppering.
+
+[00:26:40] SPEAKER_03
+It's more of just coming in.
+
+[00:26:41] SPEAKER_03
+Well, it's just, I didn't, I just wanted to do a gag for it.
+
+[00:26:44] SPEAKER_03
+It was just, there was zero thought.
+
+[00:26:46] SPEAKER_03
+I was just going with the momentum of it.
+
+[00:26:47] SPEAKER_03
+Of course.
+
+[00:26:48] SPEAKER_03
+So then I tweeted, or I didn't tweet.
+
+[00:26:50] SPEAKER_03
+I was messaging him, posted the photos.
+
+[00:26:53] SPEAKER_03
+You guys started peppering me with questions.
+
+[00:26:54] SPEAKER_03
+I'm like, I need to get out of here because this is going to fall apart immediately.
+
+[00:26:57] SPEAKER_03
+And I can't have this fall apart while I have somebody in a hotel room that I booked for
+
+[00:27:02] SPEAKER_03
+this gag.
+
+[00:27:02] SPEAKER_03
+So I leave and then I start going over the photos and I see the photo with Eric in the
+
+[00:27:09] SPEAKER_03
+bottom left of it.
+
+[00:27:10] SPEAKER_03
+And I think I'm fucked.
+
+[00:27:12] SPEAKER_03
+Like, that's it.
+
+[00:27:13] SPEAKER_03
+That's done.
+
+[00:27:13] SPEAKER_03
+That's the damning piece of undeniable evidence that I was using.
+
+[00:27:17] SPEAKER_03
+The reason why I was using the Eric account is because I needed him to be in the chat without
+
+[00:27:22] SPEAKER_03
+anyone noticing.
+
+[00:27:23] SPEAKER_03
+And I remembered I made those dummy accounts in the past for a different bit.
+
+[00:27:26] SPEAKER_03
+So I got him signed up and had him appearing offline.
+
+[00:27:28] SPEAKER_03
+But why do you use your dummy account?
+
+[00:27:30] SPEAKER_03
+Uh, because I just, I didn't consider that it would appear in the bottom left.
+
+[00:27:34] SPEAKER_03
+I just forgot that was a thing.
+
+[00:27:35] SPEAKER_03
+So as I leave, I'm then just watching the discord chat with you guys wondering what's
+
+[00:27:40] SPEAKER_03
+going on and like you're posting things.
+
+[00:27:41] SPEAKER_03
+And I'm like, you're going to eventually notice that it says, Eric, it's the alt account in
+
+[00:27:46] SPEAKER_03
+the bottom left.
+
+[00:27:46] SPEAKER_03
+But what I didn't expect was that you guys would think Eric was in on it.
+
+[00:27:50] SPEAKER_03
+Framing Eric was a total accident.
+
+[00:27:52] SPEAKER_03
+It just, I miscalculated.
+
+[00:27:54] SPEAKER_03
+As soon as you guys rap, I listened to everybody's individual audio track so I could get a grasp
+
+[00:28:00] SPEAKER_03
+of what was going on.
+
+[00:28:02] SPEAKER_03
+So I could try to figure it out.
+
+[00:28:03] SPEAKER_04
+So when we asked you if you'd listened to the forensics and you said, no, you'd already
+
+[00:28:06] SPEAKER_04
+listened to all of us.
+
+[00:28:07] SPEAKER_03
+I listened to it immediately.
+
+[00:28:09] SPEAKER_03
+One at a time.
+
+[00:28:10] SPEAKER_03
+Nick's the one who noticed the Eric, I think.
+
+[00:28:12] SPEAKER_03
+Yeah.
+
+[00:28:13] SPEAKER_03
+And, uh, it was great because you framed it on him, but then you're like, I don't think
+
+[00:28:16] SPEAKER_03
+it's Eric.
+
+[00:28:17] SPEAKER_03
+Eric was so genuinely confused.
+
+[00:28:18] SPEAKER_03
+You then pinned it on a few other people and you're like, I think it has to be someone
+
+[00:28:22] SPEAKER_03
+that works at the company.
+
+[00:28:23] SPEAKER_03
+And then Jack's name got brought up.
+
+[00:28:25] SPEAKER_03
+So then the past, however many weeks I've been trying to frame Jack for this the entire
+
+[00:28:31] SPEAKER_03
+time there, every, that's why when the, the last steps, the one that just came out, Eric
+
+[00:28:36] SPEAKER_03
+is yelling at me.
+
+[00:28:37] SPEAKER_03
+What the, like what?
+
+[00:28:39] SPEAKER_03
+Obviously you have a helper.
+
+[00:28:40] SPEAKER_03
+Nobody believes this.
+
+[00:28:40] SPEAKER_03
+You have a helper.
+
+[00:28:41] SPEAKER_03
+You're, this is insulting.
+
+[00:28:42] SPEAKER_03
+I'm trying to get you guys to say that I have a helper and then it might be Jack.
+
+[00:28:46] SPEAKER_03
+Cause I felt if I said it, you wouldn't buy into it as much as if you came to that conclusion.
+
+[00:28:51] SPEAKER_03
+It's actually very funny where Eric says something along the lines of like, what are
+
+[00:28:54] SPEAKER_03
+you possibly trying to achieve here?
+
+[00:28:56] SPEAKER_03
+And I had a specific goal of trying to get you guys to blame Jack ideally was the plan.
+
+[00:29:02] SPEAKER_03
+That was my thought process with it.
+
+[00:29:04] SPEAKER_03
+And I kept doing that.
+
+[00:29:05] SPEAKER_03
+The thing where I said Slack, my notes for that episode was mentioning you Slack, the
+
+[00:29:09] SPEAKER_03
+person, then fumble trying to pretend that you use Slack.
+
+[00:29:12] SPEAKER_03
+Oh, I was right.
+
+[00:29:14] SPEAKER_03
+That was all that was deliberate.
+
+[00:29:17] SPEAKER_03
+That was great.
+
+[00:29:18] SPEAKER_03
+You did a great job with that.
+
+[00:29:20] SPEAKER_03
+I was, I tried really hard.
+
+[00:29:21] SPEAKER_03
+It never came to the fire, never caught, but it was like, I was trying to build a fire and
+
+[00:29:25] SPEAKER_03
+just hoping something would spark and you would blame Jack.
+
+[00:29:28] SPEAKER_03
+Even when I, let me see if I still have the, Eric, which is hilarious.
+
+[00:29:39] SPEAKER_01
+It's accusing me on Slack away from prying eyes.
+
+[00:29:45] SPEAKER_04
+Nick's accusing you via text and we're accusing you in your ear at the same time.
+
+[00:29:49] SPEAKER_04
+It was the worst.
+
+[00:29:50] SPEAKER_01
+It was the worst.
+
+[00:29:52] SPEAKER_04
+All I'm taking away from this is that when Andrew appears to know nothing about something,
+
+[00:29:57] SPEAKER_04
+he knows everything.
+
+[00:29:58] SPEAKER_04
+So many layers deep about the entire situation.
+
+[00:30:01] SPEAKER_04
+It was his whole survive block Island play.
+
+[00:30:03] SPEAKER_03
+It went so well.
+
+[00:30:04] SPEAKER_03
+My, my stumble, but it just, it didn't, it didn't lead to Jack.
+
+[00:30:09] SPEAKER_03
+Unfortunately.
+
+[00:30:10] SPEAKER_03
+Um, I even went into Jack.
+
+[00:30:12] SPEAKER_03
+Jack was Twitch streaming one day.
+
+[00:30:14] SPEAKER_03
+I popped into his chat.
+
+[00:30:15] SPEAKER_03
+I just posted a cucumber.
+
+[00:30:17] SPEAKER_03
+He didn't see it.
+
+[00:30:18] SPEAKER_03
+Never acknowledged it.
+
+[00:30:19] SPEAKER_03
+Nobody else acknowledged it.
+
+[00:30:20] SPEAKER_03
+Then I left.
+
+[00:30:21] SPEAKER_04
+I was just trying to, whenever you try and steer Jack's chat conversation, it never works.
+
+[00:30:26] SPEAKER_04
+Never.
+
+[00:30:26] SPEAKER_03
+So it's 0% success rate.
+
+[00:30:29] SPEAKER_05
+Jack is so fucking oblivious to that stuff.
+
+[00:30:32] SPEAKER_03
+Cause I think that's, that kind of wraps it up.
+
+[00:30:34] SPEAKER_03
+That's why people were like, it's not going anywhere.
+
+[00:30:36] SPEAKER_03
+I agree.
+
+[00:30:37] SPEAKER_03
+It's not going anywhere.
+
+[00:30:37] SPEAKER_03
+I was trying to get you guys to lead it somewhere and I just wasn't able to do that.
+
+[00:30:41] SPEAKER_03
+So that's my feeling.
+
+[00:30:42] SPEAKER_04
+Phenomenal.
+
+[00:30:43] SPEAKER_03
+Now the reveal of the helper, they're tied to the show.
+
+[00:30:46] SPEAKER_03
+They're part of the show universe already.
+
+[00:30:49] SPEAKER_03
+And they have a weird connection to you, Gavin.
+
+[00:30:50] SPEAKER_03
+I think you're going to like who the helper is.
+
+[00:30:52] SPEAKER_03
+Some people may know them as the fastest applesauce eater around.
+
+[00:30:56] SPEAKER_03
+Other people might know them as the guy that Dan helped get the lasso achievement.
+
+[00:31:01] SPEAKER_03
+Yeah.
+
+[00:31:01] SPEAKER_03
+The lasso guy.
+
+[00:31:02] SPEAKER_03
+The lasso guy has been my helper during the entirety of this.
+
+[00:31:06] SPEAKER_04
+Lasso guy.
+
+[00:31:07] SPEAKER_04
+Is he better at following instructions than he is at Halo?
+
+[00:31:10] SPEAKER_03
+Oh, he's great at following.
+
+[00:31:12] SPEAKER_03
+It's one of my favorite things about him.
+
+[00:31:14] SPEAKER_03
+He's just, whenever there's a bit to be done, he's all in, he's fully in.
+
+[00:31:22] SPEAKER_03
+And that has been the planning of the cucumber.
+
+[00:31:24] SPEAKER_03
+From my end, I don't have any other tricks up my sleeve.
+
+[00:31:26] SPEAKER_03
+I didn't, I have cameras.
+
+[00:31:28] SPEAKER_03
+I didn't even set them up because I thought it'd be funnier if I did no prep for you.
+
+[00:31:31] SPEAKER_03
+Like if you were to come any day, I probably wouldn't have seen it, but it's over.
+
+[00:31:35] SPEAKER_04
+Did, uh, did your helper spend the night in the hotel, make the most of it?
+
+[00:31:40] SPEAKER_03
+That's no, that is a fantastic, they have a dog.
+
+[00:31:42] SPEAKER_03
+So they couldn't, they said,
+
+[00:31:45] SPEAKER_03
+that the person was alarmed when they checked out.
+
+[00:31:47] SPEAKER_03
+Cause they checked in and checked out with the same guy on the same shift.
+
+[00:31:51] SPEAKER_03
+He, as soon as we wrapped, cause I didn't know, I was like,
+
+[00:31:55] SPEAKER_03
+maybe you guys are going to go to the hotel or something.
+
+[00:31:57] SPEAKER_03
+I was like, go, you got to leave.
+
+[00:31:58] SPEAKER_03
+You got to leave now.
+
+[00:31:59] SPEAKER_03
+And he's like, okay, I'm on it.
+
+[00:32:00] SPEAKER_03
+I offered, I said, you could stay if you wanted to, but he said, I have a dog.
+
+[00:32:03] SPEAKER_03
+I can't do that.
+
+[00:32:04] SPEAKER_03
+So we left immediately.
+
+[00:32:05] SPEAKER_04
+If he had gone to the hotel, we wouldn't have known who we were looking for that.
+
+[00:32:09] SPEAKER_04
+We wouldn't have recognized him.
+
+[00:32:10] SPEAKER_03
+You would have seen a man with a laptop and a cucumber.
+
+[00:32:12] SPEAKER_03
+I think it would.
+
+[00:32:13] SPEAKER_03
+Have Gavin or I ever met this person in real life?
+
+[00:32:17] SPEAKER_05
+I don't think so.
+
+[00:32:18] SPEAKER_05
+Okay.
+
+[00:32:18] SPEAKER_05
+So it's not somebody we would recognize.
+
+[00:32:21] SPEAKER_05
+That's kind of what I suspected is that it was somebody like in your larger friend group
+
+[00:32:26] SPEAKER_05
+or Jack.
+
+[00:32:28] SPEAKER_05
+I really, I would have, I would have been happy to believe it was Jack.
+
+[00:32:31] SPEAKER_05
+And I think he would have.
+
+[00:32:32] SPEAKER_03
+I wanted it to be a thing where Jack was blamed, but I never specifically stated it was him,
+
+[00:32:36] SPEAKER_03
+but all of my not speakings implicated him further.
+
+[00:32:40] SPEAKER_03
+Man.
+
+[00:32:40] SPEAKER_03
+That's why I texted both of you independently of like, Hey, did they slack you yet?
+
+[00:32:44] SPEAKER_03
+Saying like, I was trying to build into that.
+
+[00:32:46] SPEAKER_03
+Even in our personal conversation.
+
+[00:32:47] SPEAKER_05
+Your, uh, your friend is really nice.
+
+[00:32:49] SPEAKER_05
+Cause I would have ordered so much fucking room service on that room while I was in there.
+
+[00:32:53] SPEAKER_04
+Well, that would have gone on his own incidentals probably.
+
+[00:32:56] SPEAKER_05
+Uh, well maybe.
+
+[00:32:58] SPEAKER_05
+Wow.
+
+[00:32:59] SPEAKER_05
+That is a great closing to the saga.
+
+[00:33:01] SPEAKER_05
+Yeah.
+
+[00:33:01] SPEAKER_05
+That was a really fantastic, really fantastic closing of the saga.
+
+[00:33:04] SPEAKER_05
+I, I for one thoroughly enjoyed the whole cucumber situation.
+
+[00:33:09] SPEAKER_04
+Can we talk about, you know, last time we were talking about how Eric went gray in that,
+
+[00:33:13] SPEAKER_04
+um, office day and he was just freaking out and it's.
+
+[00:33:16] SPEAKER_03
+Yeah.
+
+[00:33:16] SPEAKER_04
+Yeah.
+
+[00:33:17] SPEAKER_04
+I feel like he went even further after we were discussing the social clip last time and where
+
+[00:33:24] SPEAKER_04
+it should.
+
+[00:33:25] SPEAKER_02
+Eric, I'm so sorry.
+
+[00:33:27] SPEAKER_02
+I just don't like, I'm just trying to coordinate so many pieces in so many different directions.
+
+[00:33:34] SPEAKER_02
+And then like, why would you upload it to a dummy channel?
+
+[00:33:38] SPEAKER_02
+It makes no sense.
+
+[00:33:40] SPEAKER_03
+Just to get a laugh out of Jeff and Gavin, that was all, I'm so sorry.
+
+[00:33:46] SPEAKER_02
+It's been, I almost just quit.
+
+[00:33:49] SPEAKER_02
+I almost just went, someone else can do this.
+
+[00:33:51] SPEAKER_02
+I don't want to do it anymore.
+
+[00:33:52] SPEAKER_02
+Explain what happened.
+
+[00:33:55] SPEAKER_02
+We had the clip needed to go up the clip of, uh, it is face episode one 34 preview.
+
+[00:34:02] SPEAKER_02
+It needed to go up on our social media.
+
+[00:34:06] SPEAKER_02
+However, it's too long to go up on, uh, Twitter.
+
+[00:34:11] SPEAKER_02
+Uh, so we'll upload it on the YouTube account.
+
+[00:34:15] SPEAKER_04
+Well, we said you could upload it unlisted.
+
+[00:34:18] SPEAKER_02
+Right.
+
+[00:34:19] SPEAKER_02
+Doesn't make any sense to do that.
+
+[00:34:21] SPEAKER_02
+So was not going to do that from the very beginning.
+
+[00:34:23] SPEAKER_02
+I, at no point did I ever have a plan to upload a clip unlisted.
+
+[00:34:28] SPEAKER_02
+Makes no sense.
+
+[00:34:29] SPEAKER_04
+Why?
+
+[00:34:30] SPEAKER_04
+It was just for social.
+
+[00:34:31] SPEAKER_04
+What?
+
+[00:34:32] SPEAKER_04
+It's a social clip.
+
+[00:34:33] SPEAKER_04
+What, what do you mean?
+
+[00:34:34] SPEAKER_04
+Why wouldn't it be unlisted?
+
+[00:34:35] SPEAKER_04
+Nah, I agree with, I would agree with Eric.
+
+[00:34:37] SPEAKER_02
+Right.
+
+[00:34:38] SPEAKER_02
+Because I'm right.
+
+[00:34:39] SPEAKER_04
+Yeah.
+
+[00:34:40] SPEAKER_01
+But now that's just a weird preview on that.
+
+[00:34:41] SPEAKER_01
+Yeah, I'm thinking about uploading the clip and making sure nobody sees it.
+
+[00:34:45] SPEAKER_01
+So, um.
+
+[00:34:46] SPEAKER_01
+It's the same amount of people seeing it as if it was uploaded to Twitter, you fool.
+
+[00:34:48] SPEAKER_01
+No, it's not.
+
+[00:34:48] SPEAKER_02
+Because when it's on the YouTube channel, people will stumble.
+
+[00:34:51] SPEAKER_02
+It will be listed for people who subscribe to the YouTube channel.
+
+[00:34:54] SPEAKER_02
+I get that.
+
+[00:34:54] SPEAKER_02
+And then tweet it out.
+
+[00:34:56] SPEAKER_04
+The intent was that it would only be on Twitter and Instagram.
+
+[00:34:59] SPEAKER_02
+Why was that?
+
+[00:34:59] SPEAKER_05
+Why would it happen?
+
+[00:35:01] SPEAKER_05
+It's not a real video, is it?
+
+[00:35:02] SPEAKER_05
+It's just us talking.
+
+[00:35:03] SPEAKER_05
+I think it's a real video.
+
+[00:35:04] SPEAKER_05
+I think it's like five minutes of pure comedy.
+
+[00:35:07] SPEAKER_02
+It's too long.
+
+[00:35:07] SPEAKER_02
+It's too long to go on Twitter.
+
+[00:35:09] SPEAKER_02
+So out of necessity, it had to go on the YouTube channel.
+
+[00:35:12] SPEAKER_02
+And if we're going to upload it on the YouTube channel, why unlist it?
+
+[00:35:15] SPEAKER_02
+All right.
+
+[00:35:15] SPEAKER_05
+Here's the problem with the YouTube channel.
+
+[00:35:18] SPEAKER_05
+That I have, I've been thinking about all week, actually.
+
+[00:35:20] SPEAKER_05
+I had some, I used my Christmas time to think about f*** face.
+
+[00:35:24] SPEAKER_02
+You should have used your Christmas time way better.
+
+[00:35:26] SPEAKER_05
+I did.
+
+[00:35:27] SPEAKER_05
+I mean, I went to Michigan.
+
+[00:35:27] SPEAKER_05
+I had a f***ing blast.
+
+[00:35:29] SPEAKER_05
+Fell in love with Michigan even more.
+
+[00:35:31] SPEAKER_05
+But I have been thinking, the one thing that bugs me about that f***ing YouTube channel
+
+[00:35:37] SPEAKER_05
+is shitty thumbnails.
+
+[00:35:39] SPEAKER_05
+Like, I don't know why we don't have, I'm volunteering.
+
+[00:35:42] SPEAKER_05
+I'll do it.
+
+[00:35:42] SPEAKER_05
+If somebody, whoever handles the uploads currently at Rooster Teeth, can switch out thumbnails,
+
+[00:35:49] SPEAKER_05
+I will go back and remake thumbnails from the Instagram account for every episode that we can upload so that there's consistency.
+
+[00:35:58] SPEAKER_05
+Because that bugs me.
+
+[00:35:59] SPEAKER_05
+Another thing, which is going to really, or Gavin, apparently, I had a great idea that I think now maybe not everybody will agree with.
+
+[00:36:08] SPEAKER_05
+Making that preview and putting it up, I checked in with Dave, who handles our analytics and stuff.
+
+[00:36:15] SPEAKER_05
+It gave us a pretty good boost to the episode, and I think it served as a good trailer for the episode, which got me thinking, we should do that more often.
+
+[00:36:22] SPEAKER_05
+So I would actually like to see more of those shitty videos on YouTube, if possible.
+
+[00:36:26] SPEAKER_05
+Like, why don't we create trailers to promote our stuff?
+
+[00:36:29] SPEAKER_05
+Well, because we don't always talk about each episode separately.
+
+[00:36:32] SPEAKER_05
+Yeah.
+
+[00:36:33] SPEAKER_05
+We don't always, but we could.
+
+[00:36:36] SPEAKER_05
+I could sit down, I could sit down and make a, I could make a trailer to put up on Soja that's like, here's why you're going to want to tune into F*** Face this week.
+
+[00:36:44] SPEAKER_05
+That's fine, I think that's a good strat.
+
+[00:36:46] SPEAKER_04
+Yeah.
+
+[00:36:47] SPEAKER_04
+I'm just saying, if we do that once and stick it up on YouTube along with all the main stuff, like the episodes and the animated show, it's just like, well, what's that one about?
+
+[00:36:55] SPEAKER_04
+It's all a part of the deep lore, man.
+
+[00:36:57] SPEAKER_03
+It's got to be archived.
+
+[00:36:58] SPEAKER_03
+So we're going to do a trailer while also having a next on at the end of the episode?
+
+[00:37:03] SPEAKER_03
+Yeah, but that next on is fake.
+
+[00:37:04] SPEAKER_02
+I mean, hey, Andrew, no, we're not.
+
+[00:37:06] SPEAKER_02
+I mean, none of this is going to happen.
+
+[00:37:08] SPEAKER_02
+None of this is going to come to fruition, so it doesn't matter.
+
+[00:37:11] SPEAKER_02
+But, I mean, I'm all for it.
+
+[00:37:13] SPEAKER_02
+Whatever you guys want to do, let's do it.
+
+[00:37:15] SPEAKER_05
+I'm just thinking in 2023, we should promote what we're doing a little bit more.
+
+[00:37:22] SPEAKER_02
+So anyway, to continue the story.
+
+[00:37:24] SPEAKER_02
+Jesus Christ.
+
+[00:37:25] SPEAKER_02
+So, wanted to put it up on Twitter, couldn't put it up on Twitter, put it up, tried to put it up on YouTube, couldn't get a response from our content ops team.
+
+[00:37:35] SPEAKER_02
+So while that's happening, trying to get it uploaded, Andrew has a dummy YouTube account?
+
+[00:37:42] SPEAKER_02
+So I made, sorry, go ahead.
+
+[00:37:46] SPEAKER_03
+No, no, go ahead.
+
+[00:37:47] SPEAKER_03
+I was going to say, I made, when I made the Anal Passage website, I also made the Anal Passage YouTube channel.
+
+[00:37:54] SPEAKER_03
+And I just haven't, because I have testimonial videos that I need to turn into a thing, which are great.
+
+[00:37:59] SPEAKER_03
+I have like four or five of them.
+
+[00:38:00] SPEAKER_03
+I might just upload them individually.
+
+[00:38:02] SPEAKER_03
+Anyway, I had this channel, and I haven't been able to integrate it yet.
+
+[00:38:05] SPEAKER_03
+And I thought, what a funny way to show that I have this to Jeff and Gavin that Eric will find annoying.
+
+[00:38:12] SPEAKER_03
+I'd say it worked.
+
+[00:38:13] SPEAKER_03
+I'd say it was a success.
+
+[00:38:14] SPEAKER_03
+Yeah, 100% mission accomplished.
+
+[00:38:16] SPEAKER_03
+I will say, I feel bad.
+
+[00:38:17] SPEAKER_03
+I didn't mean to annoy you to the extent that I did, but it was definitely done as a move that absolutely, you're right.
+
+[00:38:23] SPEAKER_03
+It made no sense at all.
+
+[00:38:25] SPEAKER_03
+None.
+
+[00:38:25] SPEAKER_03
+Zero.
+
+[00:38:25] SPEAKER_03
+For some reason, shouldn't have happened.
+
+[00:38:27] SPEAKER_03
+But it was, once again, sort of like the Slack thing.
+
+[00:38:30] SPEAKER_03
+I was just being ridiculous.
+
+[00:38:31] SPEAKER_02
+And you nailed it.
+
+[00:38:33] SPEAKER_02
+So then we uploaded it.
+
+[00:38:34] SPEAKER_02
+I finally got it uploaded, and I have access, myself and Nick both have access to the YouTube channel due to everything that was happening here.
+
+[00:38:41] SPEAKER_02
+So we have everything that we need when we have to do these things deftly.
+
+[00:38:47] SPEAKER_02
+It's just that everything was like, just like a Jenga tower, and everything was just stacking on top.
+
+[00:38:55] SPEAKER_02
+And it was all precarious, and the whole time, it was falling apart as we kept building it.
+
+[00:39:02] SPEAKER_02
+Anyway, it's up there on YouTube.
+
+[00:39:04] SPEAKER_02
+You can go check it out.
+
+[00:39:06] SPEAKER_04
+It's the one where Eric is yelling, screaming at Andrew, but just looking at Nick, which is the funniest part.
+
+[00:39:12] SPEAKER_02
+No, I rewatched it.
+
+[00:39:14] SPEAKER_02
+Also, I rewatched it, and I was right the whole time, which is, again, very, that feels good to watch that and go, I was in the right the entire time.
+
+[00:39:22] SPEAKER_02
+That's good to know.
+
+[00:39:23] SPEAKER_02
+But there was nowhere and nowhere to look at, so I just defaulted to looking at Nick, and I felt bad for that, because I was yelling at Andrew and staring directly at Nick.
+
+[00:39:34] SPEAKER_02
+He had no recourse.
+
+[00:39:36] SPEAKER_04
+You were yelling at Andrew through Nick.
+
+[00:39:38] SPEAKER_04
+I noticed something interesting, but I'm not sure if Andrew noticed in that video.
+
+[00:39:42] SPEAKER_04
+Did you notice that Jeff's headphones are off the entire video?
+
+[00:39:46] SPEAKER_04
+Yep.
+
+[00:39:48] SPEAKER_04
+He's not listening to you until the last, like, 45 seconds.
+
+[00:39:53] SPEAKER_03
+That's great.
+
+[00:39:54] SPEAKER_03
+I don't blame him, honestly.
+
+[00:39:56] SPEAKER_03
+Oh, I didn't notice that.
+
+[00:39:58] SPEAKER_04
+Is that true?
+
+[00:40:00] SPEAKER_04
+Yeah.
+
+[00:40:00] SPEAKER_04
+You're, like, up with your cream on your hand, ready to put it down your pants, and then you just sit down and start talking to us again without your headphones on.
+
+[00:40:08] SPEAKER_05
+Oh, well, I had cream all over my hands.
+
+[00:40:10] SPEAKER_05
+What am I going to do?
+
+[00:40:12] SPEAKER_05
+I don't want to clean the headphones.
+
+[00:40:14] SPEAKER_02
+I can't.
+
+[00:40:15] SPEAKER_02
+I don't know.
+
+[00:40:16] SPEAKER_02
+Anyway, the YouTube channel is going to get cleaned up.
+
+[00:40:19] SPEAKER_02
+Nick has already gone through, or started going through, and numbering all of the episodes, so they will show up numbered everywhere on YouTube.
+
+[00:40:29] SPEAKER_02
+Phenomenal.
+
+[00:40:29] SPEAKER_02
+With seasonality and everything on there, on site, on YouTube, and on audio.
+
+[00:40:35] SPEAKER_02
+Oh, amazing.
+
+[00:40:35] SPEAKER_02
+So Nick's taking care of that.
+
+[00:40:36] SPEAKER_02
+Jeff is going to make brand new thumbnails for every previous episode.
+
+[00:40:42] SPEAKER_02
+Yeah.
+
+[00:40:42] SPEAKER_02
+And we're going to get those uploaded ASAP, so keep an eye out for that.
+
+[00:40:46] SPEAKER_02
+This is coming out on January 18th, like, right around there, so that should probably have happened, hopefully, by now.
+
+[00:40:54] SPEAKER_02
+So just keep an eye on that, and, you know, really looking forward to 2023 and the promotion of F*** Face.
+
+[00:41:00] SPEAKER_04
+I'm working on something, too.
+
+[00:41:02] SPEAKER_02
+What's that?
+
+[00:41:04] SPEAKER_04
+I'm working on the best of.
+
+[00:41:07] SPEAKER_03
+You're doing a best of?
+
+[00:41:08] SPEAKER_04
+Yeah.
+
+[00:41:09] SPEAKER_03
+A best of what?
+
+[00:41:11] SPEAKER_04
+F*** Face.
+
+[00:41:12] SPEAKER_03
+But, like, just general, or, like, year-specific?
+
+[00:41:14] SPEAKER_03
+Season 1 to 5.
+
+[00:41:15] SPEAKER_03
+Or season 1 to 5.
+
+[00:41:18] SPEAKER_03
+A season 1 to 5 best of.
+
+[00:41:20] SPEAKER_03
+Yep.
+
+[00:41:21] SPEAKER_03
+When can we expect the season 1 to 5 best of?
+
+[00:41:23] SPEAKER_03
+Ooh, a couple of weeks?
+
+[00:41:25] SPEAKER_03
+A couple?
+
+[00:41:25] SPEAKER_03
+Wow.
+
+[00:41:25] SPEAKER_03
+That's actually closer than I anticipated.
+
+[00:41:29] SPEAKER_03
+I have a lot of questions about this process, but I also don't want to ruin it for myself.
+
+[00:41:32] SPEAKER_03
+Oh, yeah.
+
+[00:41:33] SPEAKER_04
+You can ask all the questions when you've heard it.
+
+[00:41:35] SPEAKER_03
+Okay.
+
+[00:41:37] SPEAKER_03
+Interesting.
+
+[00:41:39] SPEAKER_05
+So it's...
+
+[00:41:39] SPEAKER_05
+Why?
+
+[00:41:40] SPEAKER_05
+...going to be all five seasons in one video?
+
+[00:41:42] SPEAKER_05
+Or is it a series of videos?
+
+[00:41:44] SPEAKER_03
+It'll be one.
+
+[00:41:46] SPEAKER_03
+Okay.
+
+[00:41:47] SPEAKER_03
+Is there something you have planned as far as releasing this, the timing of it?
+
+[00:41:51] SPEAKER_03
+Like, is this leading into something else, or do you just want it to do a best of?
+
+[00:41:55] SPEAKER_04
+Uh, I was just antsy over Christmas, and, uh...
+
+[00:41:58] SPEAKER_04
+That's fair.
+
+[00:41:59] SPEAKER_04
+...just felt like working on f***ing faith.
+
+[00:42:01] SPEAKER_03
+Yeah.
+
+[00:42:01] SPEAKER_05
+I get that.
+
+[00:42:02] SPEAKER_05
+Oh, I'm excited.
+
+[00:42:03] SPEAKER_05
+How...
+
+[00:42:03] SPEAKER_05
+I'm just gonna ask how everybody's Christmas was.
+
+[00:42:06] SPEAKER_05
+That's what I thought we'd talk about today, and then we're 40 minutes...
+
+[00:42:08] SPEAKER_05
+44 minutes in.
+
+[00:42:10] SPEAKER_03
+That's great.
+
+[00:42:10] SPEAKER_03
+Yeah.
+
+[00:42:11] SPEAKER_03
+Overall, pretty good.
+
+[00:42:12] SPEAKER_03
+Almost flooded my bathtub, but outside of that, pretty good.
+
+[00:42:17] SPEAKER_03
+Did you dam up half the tub and forget that...
+
+[00:42:19] SPEAKER_03
+Like, how did it flood?
+
+[00:42:20] SPEAKER_03
+Oh, yeah.
+
+[00:42:21] SPEAKER_03
+Did I dam up half the tub?
+
+[00:42:22] SPEAKER_03
+I had, like, a little bit of toilet...
+
+[00:42:25] SPEAKER_03
+I think, like, I grabbed some toilet paper to blow my nose with, didn't end up using it,
+
+[00:42:29] SPEAKER_03
+and it just sat on the edge of the tub.
+
+[00:42:31] SPEAKER_03
+Then I had a late night bath, and I noticed, like, huh, this water's getting really high.
+
+[00:42:37] SPEAKER_03
+That's odd, and so I turned the flashlight on on my phone.
+
+[00:42:42] SPEAKER_03
+The water was level with the top of the tub and starting to slowly go over the edge.
+
+[00:42:47] SPEAKER_03
+The toilet paper had fallen into the tub and got stuck in the drain, and so it was
+
+[00:42:53] SPEAKER_03
+this very nervous, like, okay, first I gotta slowly turn the water off.
+
+[00:42:57] SPEAKER_03
+Me moving to turn the water off knocked water onto the floor.
+
+[00:43:00] SPEAKER_03
+Then I had to, like, slowly try to unclog the thing with my toes.
+
+[00:43:06] SPEAKER_04
+So, it was in the, like, the overflow drain.
+
+[00:43:09] SPEAKER_03
+Yeah, it was in the overflow.
+
+[00:43:10] SPEAKER_03
+It was because the water had gone much above the overflow.
+
+[00:43:14] SPEAKER_03
+It was overflowing the actual tub at that point.
+
+[00:43:17] SPEAKER_05
+Do you, real quick, do you live under you?
+
+[00:43:21] SPEAKER_05
+Like, is the below you you still?
+
+[00:43:24] SPEAKER_03
+Yeah, below me you still me.
+
+[00:43:25] SPEAKER_05
+Okay.
+
+[00:43:26] SPEAKER_03
+Thank God.
+
+[00:43:27] SPEAKER_03
+Just layers of me.
+
+[00:43:28] SPEAKER_04
+Why were you taking a bath in the dark?
+
+[00:43:31] SPEAKER_03
+I'll, you know, sometimes you just gotta have a night bath.
+
+[00:43:34] SPEAKER_03
+Yeah.
+
+[00:43:34] SPEAKER_03
+I will say, another thing I've realized, this is, you know, you've given me shit about this
+
+[00:43:40] SPEAKER_03
+in the past.
+
+[00:43:41] SPEAKER_03
+I always forget to, so with my bath, it's a bath-shower combination.
+
+[00:43:45] SPEAKER_03
+You lift the thing up to go into shower mode.
+
+[00:43:48] SPEAKER_03
+I always forget to knock the thing down, but it automatically does it later.
+
+[00:43:52] SPEAKER_03
+So, like, 20 minutes after I have a shower, my bathroom will just go, like,
+
+[00:43:56] SPEAKER_03
+and then all the water will spit out.
+
+[00:43:59] SPEAKER_03
+Like, it does a clung.
+
+[00:44:00] SPEAKER_03
+It, like, coughs the water out, and it's great, but for whatever reason, the last two
+
+[00:44:06] SPEAKER_03
+times my partner has had a shower, it hasn't done that for them, and because I get into
+
+[00:44:12] SPEAKER_03
+the tub first before I turn the water on, I've been getting blasted by my shower recently
+
+[00:44:18] SPEAKER_03
+to the point where I might need to change my routine.
+
+[00:44:20] SPEAKER_03
+The last one really got me, where I flipped it, and I was starting to kneel down to sit
+
+[00:44:25] SPEAKER_03
+in the tub, and just cold water shooting me in the face.
+
+[00:44:30] SPEAKER_03
+Like, it's terrible.
+
+[00:44:31] SPEAKER_03
+It's terrible getting blasted by cold shower water.
+
+[00:44:33] SPEAKER_03
+So I think I'm gonna have to take the approach going forward of turning it on before entering.
+
+[00:44:38] SPEAKER_03
+Because I'm sick of it.
+
+[00:44:39] SPEAKER_04
+I can't believe we have a new tub story.
+
+[00:44:43] SPEAKER_03
+Oh, several.
+
+[00:44:44] SPEAKER_05
+I can't believe you get into the tub and then turn the water on.
+
+[00:44:47] SPEAKER_05
+I always turn it on, get the water appropriate, test it with my foot, and then slide on in
+
+[00:44:51] SPEAKER_05
+when it's just right.
+
+[00:44:52] SPEAKER_05
+Yeah, we've talked about this before.
+
+[00:44:53] SPEAKER_03
+I like to sit as it fills around me.
+
+[00:44:56] SPEAKER_03
+Personal.
+
+[00:44:57] SPEAKER_05
+I guess that's true.
+
+[00:44:58] SPEAKER_05
+We have discussed that.
+
+[00:44:58] SPEAKER_05
+You're right about that.
+
+[00:44:59] SPEAKER_03
+But I might have to change it, because I'm sick of getting fucking blasted by this
+
+[00:45:03] SPEAKER_03
+shower.
+
+[00:45:04] SPEAKER_03
+It sucks.
+
+[00:45:05] SPEAKER_03
+It's so jarring to be like, I'm gonna have a nice, relaxing, toasty, warm bath, and then
+
+[00:45:11] SPEAKER_03
+just cold water in your face immediately while it hisses at you.
+
+[00:45:15] SPEAKER_03
+It's terrible.
+
+[00:45:17] SPEAKER_03
+I didn't really have anything else happen.
+
+[00:45:18] SPEAKER_03
+It was a nice Christmas beyond that.
+
+[00:45:22] SPEAKER_02
+My Christmas was nice.
+
+[00:45:24] SPEAKER_02
+It was great spending time in Austin with my wife, good stuff, et cetera, et cetera.
+
+[00:45:27] SPEAKER_02
+Hey, do you think we won a Signal Award?
+
+[00:45:30] SPEAKER_02
+Oh, that's a great point.
+
+[00:45:31] SPEAKER_02
+No, I doubt it.
+
+[00:45:32] SPEAKER_02
+I think they fucked us just like they fucked us 20 years ago.
+
+[00:45:35] SPEAKER_02
+I agree.
+
+[00:45:36] SPEAKER_02
+I, Jeff, I definitely agree with you.
+
+[00:45:39] SPEAKER_02
+They turned off the views for voting, like, before, I think, like, the 20th or something
+
+[00:45:45] SPEAKER_02
+like that.
+
+[00:45:46] SPEAKER_02
+And now, they announce it.
+
+[00:45:47] SPEAKER_02
+By the time this is out, they'll have announced, if we won or not.
+
+[00:45:52] SPEAKER_05
+Here's how I feel about it, Eric.
+
+[00:45:54] SPEAKER_05
+If we win a Signal Award, then that's fucking awesome.
+
+[00:45:57] SPEAKER_05
+And congratulations to everybody, including the audience, for supporting us.
+
+[00:46:03] SPEAKER_05
+It was definitely a team effort.
+
+[00:46:05] SPEAKER_05
+And if we didn't win a Signal Award, I fucking regret sending one ounce of traffic to those
+
+[00:46:11] SPEAKER_05
+cheater, cheating liars.
+
+[00:46:12] SPEAKER_03
+I'm going to stay on the positive, because if we, if it turns out that we didn't win
+
+[00:46:18] SPEAKER_03
+one, we're going to war with the Signal Awards.
+
+[00:46:20] SPEAKER_03
+And I don't want to unearth that.
+
+[00:46:21] SPEAKER_05
+No, because even that, even going to war with the Signal Awards, would just be giving them
+
+[00:46:26] SPEAKER_05
+more attention and traffic.
+
+[00:46:28] SPEAKER_05
+And it's clear that they, like, if, I don't like this hiding the, yeah, I don't know, dude.
+
+[00:46:33] SPEAKER_05
+Let's just see if we won the stupid thing or not.
+
+[00:46:38] SPEAKER_03
+I'm holding back my cup.
+
+[00:46:38] SPEAKER_03
+We had 80% of the vote before it.
+
+[00:46:41] SPEAKER_03
+So what happened last time?
+
+[00:46:43] SPEAKER_05
+It was years and years and years ago.
+
+[00:46:45] SPEAKER_05
+It was, um, it was the streamies, right, Eric?
+
+[00:46:49] SPEAKER_05
+Isn't that what Gus said?
+
+[00:46:49] SPEAKER_05
+Uh, yeah, I think it was the, it was the streamies or the webbies.
+
+[00:46:52] SPEAKER_05
+It was one of the two.
+
+[00:46:53] SPEAKER_05
+I think it was the streamies, but it could have been the webbies.
+
+[00:46:55] SPEAKER_05
+It was a million years ago.
+
+[00:46:56] SPEAKER_05
+Rooster Teeth got nominated for one in very similar fashion.
+
+[00:46:59] SPEAKER_05
+And we were ahead by, like, thousands upon thousands of votes.
+
+[00:47:04] SPEAKER_05
+Like, we were destroying.
+
+[00:47:06] SPEAKER_05
+And then about, like, a week before, uh, it was over, they took away your ability to see
+
+[00:47:12] SPEAKER_05
+what the percentages were.
+
+[00:47:14] SPEAKER_05
+You had to vote blindly.
+
+[00:47:15] SPEAKER_05
+And then when the award came out, we didn't win.
+
+[00:47:17] SPEAKER_05
+And it was just, like, such an insurmountable, uh, uh, amount.
+
+[00:47:20] SPEAKER_05
+And then Gus, Gus was like, screw this, screw them.
+
+[00:47:23] SPEAKER_05
+It was rigged from the beginning.
+
+[00:47:25] SPEAKER_05
+We're moving on.
+
+[00:47:26] SPEAKER_05
+We don't care about awards anymore.
+
+[00:47:27] SPEAKER_05
+And we haven't cared about awards since that moment, I think.
+
+[00:47:32] SPEAKER_02
+Gavin, do you think we won?
+
+[00:47:34] SPEAKER_04
+Uh, I'll say no.
+
+[00:47:36] SPEAKER_03
+I believe.
+
+[00:47:37] SPEAKER_03
+I don't think the signal is going to screw us like that.
+
+[00:47:41] SPEAKER_03
+It's the same people.
+
+[00:47:41] SPEAKER_03
+I'm going to be up.
+
+[00:47:42] SPEAKER_05
+It's people from the streamies left.
+
+[00:47:43] SPEAKER_02
+Yeah, in case you didn't know, it's the people who started this are the people who, uh, fucked
+
+[00:47:48] SPEAKER_02
+us 20 years ago.
+
+[00:47:50] SPEAKER_02
+I mean, okay.
+
+[00:47:51] SPEAKER_04
+Well.
+
+[00:47:52] SPEAKER_04
+Rich Seed has won streamies before.
+
+[00:47:54] SPEAKER_04
+Not this one.
+
+[00:47:57] SPEAKER_03
+I don't think they've ever won the Best Buddy Award.
+
+[00:48:00] SPEAKER_03
+That definitely has never happened.
+
+[00:48:03] SPEAKER_04
+Yeah, I think the loss will just be a personal hit for us because we're just not, we just
+
+[00:48:06] SPEAKER_04
+won't be award-winning friends.
+
+[00:48:08] SPEAKER_05
+We're award-nominated friends.
+
+[00:48:10] SPEAKER_05
+That's pretty good.
+
+[00:48:11] SPEAKER_02
+Award-nominated friends.
+
+[00:48:15] SPEAKER_02
+Yeah.
+
+[00:48:15] SPEAKER_02
+Look, award-winning friends is great.
+
+[00:48:16] SPEAKER_02
+Award-nominated friends is such a funny way to sell this podcast.
+
+[00:48:20] SPEAKER_02
+Yeah.
+
+[00:48:21] SPEAKER_05
+Our friendship is award-nominated.
+
+[00:48:23] SPEAKER_05
+That's pretty impressive.
+
+[00:48:25] SPEAKER_03
+Yeah, I think it's still valid.
+
+[00:48:26] SPEAKER_03
+Like, you still see in movie trailers, like, Academy Award nominee, this person is in it.
+
+[00:48:31] SPEAKER_03
+Like, they promote that.
+
+[00:48:32] SPEAKER_03
+I think there's value to the nominee.
+
+[00:48:35] SPEAKER_03
+I don't think we're missing out on anything, necessarily.
+
+[00:48:37] SPEAKER_03
+But I think we won.
+
+[00:48:38] SPEAKER_03
+I don't think they would screw us two times.
+
+[00:48:40] SPEAKER_03
+Don't think it happened.
+
+[00:48:41] SPEAKER_05
+Well, we'll see.
+
+[00:48:43] SPEAKER_05
+We'll see.
+
+[00:48:43] SPEAKER_02
+I don't have a lot of faith.
+
+[00:48:45] SPEAKER_02
+Okay, let's say we win.
+
+[00:48:47] SPEAKER_02
+Let's, a perfect world in a perfect storm where we got 80% of the votes.
+
+[00:48:51] SPEAKER_02
+Let's say we won.
+
+[00:48:53] SPEAKER_02
+Who goes to accept the award?
+
+[00:48:55] SPEAKER_02
+And I don't know if that's even a thing.
+
+[00:48:57] SPEAKER_02
+I don't, I think there's like an award show.
+
+[00:48:59] SPEAKER_03
+But what, what do we, I think it's, I would nominate the lasso guy, personally.
+
+[00:49:07] SPEAKER_05
+I think it should be, I think it should be Nick.
+
+[00:49:10] SPEAKER_05
+I think it should be Andrew or Greg.
+
+[00:49:12] SPEAKER_02
+Oh, Greg.
+
+[00:49:13] SPEAKER_02
+Oh.
+
+[00:49:14] SPEAKER_03
+Yeah, Greg's good.
+
+[00:49:14] SPEAKER_02
+Oh, I love the idea of Greg going.
+
+[00:49:18] SPEAKER_02
+That is very, very funny to me.
+
+[00:49:21] SPEAKER_03
+Because they're definitely doing a ceremony.
+
+[00:49:22] SPEAKER_05
+No idea.
+
+[00:49:24] SPEAKER_03
+Also, have they emailed you, Eric, that we've won?
+
+[00:49:26] SPEAKER_03
+Or lost?
+
+[00:49:27] SPEAKER_03
+No.
+
+[00:49:27] SPEAKER_03
+Because I feel like that's, that's the damning thing.
+
+[00:49:30] SPEAKER_03
+No.
+
+[00:49:30] SPEAKER_02
+Because I think they want.
+
+[00:49:31] SPEAKER_02
+I have, I have my eyes peeled.
+
+[00:49:34] SPEAKER_02
+And I've been talking with our PR to make sure we keep an eye out.
+
+[00:49:38] SPEAKER_02
+But.
+
+[00:49:38] SPEAKER_03
+Okay.
+
+[00:49:39] SPEAKER_02
+I haven't heard hide nor hair.
+
+[00:49:41] SPEAKER_02
+But now I'm just really.
+
+[00:49:43] SPEAKER_02
+Now I'm trying to figure out where these signal awards are going to be.
+
+[00:49:46] SPEAKER_02
+And if we can send Greg.
+
+[00:49:51] SPEAKER_04
+Well, my, my, uh, Christmas was uneventful.
+
+[00:49:55] SPEAKER_04
+Pretty nice.
+
+[00:49:55] SPEAKER_04
+Pretty cold.
+
+[00:49:56] SPEAKER_04
+It was a very chilly Christmas.
+
+[00:49:57] SPEAKER_04
+Um, walked around the neighborhood, sort of judging other people's effort in Christmas
+
+[00:50:02] SPEAKER_04
+decorations, as I like to do every year.
+
+[00:50:04] SPEAKER_04
+And then I realized that I want to be a balaclava guy, but I, it's, it's not like socially
+
+[00:50:09] SPEAKER_04
+acceptable really to wear a balaclava if you're not robbing a convenience store.
+
+[00:50:17] SPEAKER_04
+I was hoping that maybe a uniform would get involved and design a balaclava that doesn't
+
+[00:50:21] SPEAKER_04
+look like you're about to commit a crime.
+
+[00:50:24] SPEAKER_04
+Like maybe someone's face on the front of the balaclava.
+
+[00:50:28] SPEAKER_05
+Like a friendly balaclava.
+
+[00:50:30] SPEAKER_04
+Yeah.
+
+[00:50:30] SPEAKER_04
+Like a, don't worry about me balaclava.
+
+[00:50:33] SPEAKER_04
+I've just got a cold face.
+
+[00:50:35] SPEAKER_04
+Not a, not a criminal, just cold.
+
+[00:50:40] SPEAKER_05
+Yeah.
+
+[00:50:40] SPEAKER_05
+I think.
+
+[00:50:41] SPEAKER_05
+I will not rob you written across the front.
+
+[00:50:43] SPEAKER_05
+I like this idea.
+
+[00:50:44] SPEAKER_05
+Or maybe we do like, like a kitty cat or something.
+
+[00:50:47] SPEAKER_05
+So it looks cute.
+
+[00:50:49] SPEAKER_04
+Like, yeah.
+
+[00:50:50] SPEAKER_04
+But what would it look like to have your own face on the front of your own balaclava?
+
+[00:50:54] SPEAKER_03
+I was, I was about to say that.
+
+[00:50:55] SPEAKER_03
+I think that could be the way we go.
+
+[00:50:58] SPEAKER_03
+Eric just posted like an octopus one.
+
+[00:51:00] SPEAKER_03
+That's like a balaclava Cthulhu.
+
+[00:51:02] SPEAKER_03
+It's like Davey Jones.
+
+[00:51:02] SPEAKER_03
+Yeah.
+
+[00:51:03] SPEAKER_05
+Uh, that was pretty scary.
+
+[00:51:05] SPEAKER_05
+Uh, whose face should it be?
+
+[00:51:07] SPEAKER_05
+Like if we could, cause we can only pick one face to balaclava.
+
+[00:51:09] SPEAKER_05
+I think it should be Andrew's, uh, mustache face.
+
+[00:51:12] SPEAKER_05
+Oh yeah.
+
+[00:51:15] SPEAKER_05
+Yeah.
+
+[00:51:16] SPEAKER_03
+It's going to just look like when you would export your face in rainbow six, like the
+
+[00:51:20] SPEAKER_03
+blurriness of it.
+
+[00:51:21] SPEAKER_03
+Oh my God.
+
+[00:51:23] SPEAKER_04
+Eric.
+
+[00:51:23] SPEAKER_04
+I should, I should take the face that I got pasted onto my original rainbow six.
+
+[00:51:29] SPEAKER_04
+Yeah.
+
+[00:51:31] SPEAKER_05
+Eric, can you check with the merch team to see if we can get Andrew face balaclavas
+
+[00:51:36] SPEAKER_05
+made?
+
+[00:51:37] SPEAKER_02
+Yeah.
+
+[00:51:37] SPEAKER_02
+I'm going to send the, I'm going to send the cheetah balaclava thing that I just
+
+[00:51:41] SPEAKER_02
+sent and, uh, see if it's something we can screen print.
+
+[00:51:45] SPEAKER_04
+I would say have a mouth holder, but you don't need it to be a full cup.
+
+[00:51:50] SPEAKER_04
+Yeah.
+
+[00:51:50] SPEAKER_04
+Cause your mouth, if you cut out around Andrew's mouth, then your mouth can take that spot.
+
+[00:51:57] SPEAKER_02
+Like, like, like this.
+
+[00:51:59] SPEAKER_02
+Just, uh, it has like a little mouth.
+
+[00:52:01] SPEAKER_02
+Uh, yeah.
+
+[00:52:01] SPEAKER_02
+Oh yeah.
+
+[00:52:01] SPEAKER_04
+It doesn't have to look so much like a vagina, but it can look like that's not bad.
+
+[00:52:09] SPEAKER_05
+If you take the, if you take the barbed wire and the knot off and then you, or like change
+
+[00:52:14] SPEAKER_05
+not to like extra or super nice.
+
+[00:52:16] SPEAKER_05
+I think that's, that works.
+
+[00:52:18] SPEAKER_04
+Yeah.
+
+[00:52:19] SPEAKER_04
+And I think that that way I'll be more comfortable because I have one.
+
+[00:52:22] SPEAKER_04
+I think I was sent one by the, uh, pub G guys at one point.
+
+[00:52:25] SPEAKER_04
+And it's so, it's so nice to be outside without a cold face and nose and stuff.
+
+[00:52:31] SPEAKER_05
+No, I think you're onto something here.
+
+[00:52:32] SPEAKER_05
+I'm looking online.
+
+[00:52:33] SPEAKER_05
+I'm not seeing a lot of, I'm seeing a lot of options to make them extra scary, but none
+
+[00:52:38] SPEAKER_05
+to make them extra friendly.
+
+[00:52:40] SPEAKER_05
+Oh, that is not bad.
+
+[00:52:42] SPEAKER_03
+I like this idea.
+
+[00:52:43] SPEAKER_03
+I like this idea too.
+
+[00:52:45] SPEAKER_04
+I could try making a test one actually.
+
+[00:52:47] SPEAKER_03
+I want to see your test.
+
+[00:52:48] SPEAKER_03
+I would love to see the test one.
+
+[00:52:50] SPEAKER_03
+We're getting close to an hour.
+
+[00:52:52] SPEAKER_03
+Do you remember Gavin?
+
+[00:52:53] SPEAKER_03
+What the name of, what is Jeff just sent one that looks like they're being eaten by a frog.
+
+[00:52:59] SPEAKER_03
+Yeah.
+
+[00:52:59] SPEAKER_03
+It's a happy, I guess that's how I'd describe that.
+
+[00:53:01] SPEAKER_03
+I would say that's less a happy frog and more.
+
+[00:53:04] SPEAKER_03
+It looks like a frog that shocked to be eating you.
+
+[00:53:06] SPEAKER_03
+That's how I read that.
+
+[00:53:07] SPEAKER_03
+Like the frog looks.
+
+[00:53:08] SPEAKER_03
+Oh, I got the best.
+
+[00:53:09] SPEAKER_03
+By everything that's happened.
+
+[00:53:10] SPEAKER_05
+Oh my God.
+
+[00:53:11] SPEAKER_05
+I got the best one.
+
+[00:53:12] SPEAKER_05
+Oh my.
+
+[00:53:13] SPEAKER_05
+You're going to love this.
+
+[00:53:15] SPEAKER_05
+That's exactly what Gavin's talking about.
+
+[00:53:17] SPEAKER_03
+The Jeff just posted one of, it just looks like a human face, but it's all, it's all fabric.
+
+[00:53:23] SPEAKER_03
+It looks like Raggedy Ann.
+
+[00:53:25] SPEAKER_03
+Yeah.
+
+[00:53:26] SPEAKER_05
+If she were a serial killer.
+
+[00:53:28] SPEAKER_03
+That is terrifying.
+
+[00:53:30] SPEAKER_05
+That's horrendous.
+
+[00:53:33] SPEAKER_05
+You pop that on.
+
+[00:53:35] SPEAKER_05
+You're going to be a okay, Gavin.
+
+[00:53:38] SPEAKER_04
+Everything about that is so weird.
+
+[00:53:39] SPEAKER_04
+Like, I don't know what that picture could have been taken in a 50 year window.
+
+[00:53:44] SPEAKER_05
+When was that?
+
+[00:53:45] SPEAKER_05
+It's got to be very old.
+
+[00:53:47] SPEAKER_05
+It's got to be very old.
+
+[00:53:50] SPEAKER_05
+Dude, there's a lot of really, there's a lot of really bad ones.
+
+[00:53:56] SPEAKER_03
+Oh, it's a whole industry of creepy.
+
+[00:53:59] SPEAKER_03
+Yeah.
+
+[00:53:59] SPEAKER_03
+You have uncovered something horrendous.
+
+[00:54:02] SPEAKER_03
+Now that one's kind of awesome.
+
+[00:54:04] SPEAKER_03
+I like that one.
+
+[00:54:05] SPEAKER_03
+Oh no.
+
+[00:54:05] SPEAKER_03
+Here's a whole family.
+
+[00:54:06] SPEAKER_03
+It's like a, almost a turkey thing that he just posted.
+
+[00:54:09] SPEAKER_03
+It's like red and yellow.
+
+[00:54:11] SPEAKER_03
+Oh my God.
+
+[00:54:12] SPEAKER_03
+So these are just like fully knitted.
+
+[00:54:14] SPEAKER_03
+Is that like knitted or crocheted?
+
+[00:54:16] SPEAKER_03
+What would be the word to describe?
+
+[00:54:17] SPEAKER_03
+I think it's probably crocheted.
+
+[00:54:18] SPEAKER_03
+Yeah.
+
+[00:54:18] SPEAKER_03
+Like these are like crocheted face masks that Jeff is posting.
+
+[00:54:21] SPEAKER_03
+Yeah.
+
+[00:54:21] SPEAKER_03
+Ours would not be crocheted, but God damn, that's funny.
+
+[00:54:23] SPEAKER_04
+I like the idea of Slipknot just not wanting to wear their mask one night and going for the
+
+[00:54:27] SPEAKER_04
+knitted approach on stage.
+
+[00:54:29] SPEAKER_03
+Oh, I'm glad we did this.
+
+[00:54:33] SPEAKER_03
+We talked about maybe not doing this recording because we were ahead.
+
+[00:54:36] SPEAKER_03
+We kind of recorded assuming we wouldn't, but I'm glad we got together to do this end
+
+[00:54:40] SPEAKER_03
+of year recap, which will air in the end of January.
+
+[00:54:46] SPEAKER_05
+Yeah.
+
+[00:54:47] SPEAKER_05
+Was this a good episode?
+
+[00:54:48] SPEAKER_05
+I don't know.
+
+[00:54:49] SPEAKER_05
+I think it was.
+
+[00:54:50] SPEAKER_05
+What happened?
+
+[00:54:51] SPEAKER_05
+Not nothing.
+
+[00:54:52] SPEAKER_05
+What are you bummed out about?
+
+[00:54:54] SPEAKER_05
+No, I just don't know.
+
+[00:54:55] SPEAKER_05
+I don't know that we really accomplished anything in this episode.
+
+[00:54:58] SPEAKER_03
+Other than we ended the cucumber saga, we established the fireplace, we accomplished
+
+[00:55:03] SPEAKER_03
+so much.
+
+[00:55:04] SPEAKER_03
+What do we usually, what are you looking for?
+
+[00:55:06] SPEAKER_03
+Also, you committed to doing a thumbnail.
+
+[00:55:10] SPEAKER_03
+I got challenged and oh, oh yeah, by the way, um, sorry, one sec.
+
+[00:55:15] SPEAKER_03
+Uh, Gavin, it's back in your court.
+
+[00:55:17] SPEAKER_03
+No.
+
+[00:55:18] SPEAKER_03
+It's your, have fun with that.
+
+[00:55:20] SPEAKER_02
+No way.
+
+[00:55:21] SPEAKER_03
+Yeah.
+
+[00:55:21] SPEAKER_03
+I've been playing while we've been talking and I set the score back like 10 minutes
+
+[00:55:26] SPEAKER_03
+ago.
+
+[00:55:26] SPEAKER_03
+So yeah, have fun.
+
+[00:55:27] SPEAKER_02
+Andrew, that is unreal.
+
+[00:55:29] SPEAKER_03
+It's back on you, Gavin.
+
+[00:55:31] SPEAKER_05
+I take back everything I said.
+
+[00:55:33] SPEAKER_05
+This was an awesome episode.
+
+[00:55:35] SPEAKER_05
+As of right now.
+
+[00:55:36] SPEAKER_03
+Holy shit.
+
+[00:55:37] SPEAKER_04
+Yeah.
+
+[00:55:37] SPEAKER_01
+I can't make a, yeah, we might have to move that fireplace back up.
+
+[00:55:42] SPEAKER_01
+Just bring over the Xbox and we'll do it one time.
+
+[00:55:46] SPEAKER_05
+Andrew not only did it in less than 24 hours, he did it in the episode with 30% of his brain
+
+[00:55:52] SPEAKER_05
+power probably.
+
+[00:55:52] SPEAKER_03
+It took me about 10 minutes to do and I did it while we're talking about the Signal Awards.
+
+[00:55:57] SPEAKER_03
+I finished it before the, I started it before that conversation started and I finished it
+
+[00:56:02] SPEAKER_03
+before we ended.
+
+[00:56:03] SPEAKER_04
+I mean, to be fair, it was definitely the easiest time to beat.
+
+[00:56:06] SPEAKER_04
+Uh, it was the one I had to spend the least time on, but well, shit.
+
+[00:56:10] SPEAKER_03
+Well, it's back in your court.
+
+[00:56:11] SPEAKER_03
+Yeah.
+
+[00:56:11] SPEAKER_03
+Have fun.
+
+[00:56:11] SPEAKER_04
+Well, that's nasty.
+
+[00:56:13] SPEAKER_03
+All right.
+
+[00:56:13] SPEAKER_03
+Well, I know.
+
+[00:56:14] SPEAKER_04
+Actually, I, cause I did this the other day.
+
+[00:56:16] SPEAKER_04
+I spent like maybe half an hour on it and I was so worried that you'd spotted me playing
+
+[00:56:22] SPEAKER_04
+it that right before we started recording today, I went and looked to the leaderboard again
+
+[00:56:26] SPEAKER_04
+just to make sure you hadn't pre-beaten me.
+
+[00:56:28] SPEAKER_04
+That's funny.
+
+[00:56:29] SPEAKER_03
+No, I didn't notice.
+
+[00:56:30] SPEAKER_03
+I saw, I thought you were playing, um, the campaign for Infinite.
+
+[00:56:33] SPEAKER_03
+I noticed that.
+
+[00:56:35] SPEAKER_03
+Outside of that, didn't notice you playing it.
+
+[00:56:39] SPEAKER_03
+But yeah, it's your, it's on you.
+
+[00:56:41] SPEAKER_03
+I'm sure you'll get it back and then I'll get it back and it's fine.
+
+[00:56:43] SPEAKER_05
+Gavin, you have, you have until three, three, about three 55 PM tomorrow, I guess.
+
+[00:56:51] SPEAKER_05
+And you're going to be pretty busy, pretty busy filming a fire.
+
+[00:56:54] SPEAKER_05
+I don't know why I did that.
+
+[00:56:55] SPEAKER_04
+I really hate that game.
+
+[00:56:56] SPEAKER_03
+It's so, I don't, uh, yeah, I don't know why you did that either.
+
+[00:57:00] SPEAKER_03
+I didn't even think this was the thing we were doing.
+
+[00:57:02] SPEAKER_03
+This is a wild move by you.
+
+[00:57:03] SPEAKER_04
+I just wanted to, uh, I just wanted to have something.
+
+[00:57:06] SPEAKER_03
+Yeah, no, it's fair.
+
+[00:57:09] SPEAKER_03
+Cause we also, we talked about doing this again with the golden eye remake that comes,
+
+[00:57:13] SPEAKER_03
+that should be out soon.
+
+[00:57:14] SPEAKER_03
+Who knows?
+
+[00:57:14] SPEAKER_03
+I guess I'm not a release, but like there's times in that.
+
+[00:57:17] SPEAKER_03
+Yeah.
+
+[00:57:17] SPEAKER_03
+It was a wild move by you.
+
+[00:57:22] SPEAKER_05
+Well, there you have it.
+
+[00:57:23] SPEAKER_05
+Uh, you've listened to, uh, you've, you've listened to another so stupid podcast.
+
+[00:57:29] SPEAKER_05
+Uh, the last one we recorded in 2022, I'm going to assume, uh, not counting the fire
+
+[00:57:34] SPEAKER_05
+video, which is definitely happening tomorrow.
+
+[00:57:37] SPEAKER_05
+Uh, cause everybody is super on board with it and way more excited about it than I thought
+
+[00:57:40] SPEAKER_05
+they were.
+
+[00:57:41] SPEAKER_05
+Uh, so I'm gonna, I'm not going to be a curmudgeon.
+
+[00:57:43] SPEAKER_05
+I'm going to, I'm going to, I'm going to dive in and be jazzed about it.
+
+[00:57:46] SPEAKER_05
+Just like Gavin and Eric are, uh, hope you guys have a fucking Christ.
+
+[00:57:52] SPEAKER_05
+I was going to wish the audience a happy new year's, but that's, uh, I hope you had a great
+
+[00:57:56] SPEAKER_05
+new year's.
+
+[00:57:57] SPEAKER_05
+I hope you're all your 2023 is off to an awesome start here in the third week of January or
+
+[00:58:02] SPEAKER_05
+whenever this is airing.
+
+[00:58:04] SPEAKER_05
+And, uh, yeah, I guess that's about it for us.
+
+[00:58:09] SPEAKER_03
+What happened to you this episode?
+
+[00:58:11] SPEAKER_03
+What do you mean?
+
+[00:58:12] SPEAKER_03
+I think he got broken by the face masks.
+
+[00:58:15] SPEAKER_03
+I think that took part of them.
+
+[00:58:16] SPEAKER_03
+That's going to take a while to get back.
+
+[00:58:17] SPEAKER_05
+These are great.
+
+[00:58:18] SPEAKER_05
+Look at these.
+
+[00:58:19] SPEAKER_05
+What do you mean?
+
+[00:58:19] SPEAKER_05
+What happened to me?
+
+[00:58:20] SPEAKER_05
+Nothing happened to me.
+
+[00:58:21] SPEAKER_05
+Oh, okay.
+
+[00:58:22] SPEAKER_05
+I put out an awesome, an awesome podcast and thanks for listening to it.
+
+[00:58:26] SPEAKER_00
+Bye.
+
+[00:58:27] SPEAKER_00
+Hey guys, major league fan Jack here with a look at next week's episode of face.
+
+[00:58:32] SPEAKER_00
+No more pleasantries and decides to play trials again.
+
+[00:58:36] SPEAKER_00
+Gavin brings in a ringer.
+
+[00:58:38] SPEAKER_00
+Andrew still hasn't installed discord.
+
+[00:58:40] SPEAKER_00
+Jeff has special underwear.
+
+[00:58:42] SPEAKER_00
+Paul, the condor man.
+
+[00:58:43] SPEAKER_00
+And once again, Andrew does not eat the pencil.
+
+[00:58:46] SPEAKER_00
+All that and more on next week's episode of face.

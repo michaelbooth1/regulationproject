@@ -1,0 +1,4821 @@
+# Episode 277: We Is Not Me Part 2 // Hide and Speak [25]
+published: 2024-10-30T07:00:00+00:00  |  duration: 01:04:19
+source: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/REGULATIONCOMPANYLLC3134876844.mp3?updated=1730234477
+transcribed: 2026-08-08T13:40:53.815310-04:00  |  model: large-v3-turbo
+diarization: pyannote/speaker-diarization-3.1
+
+
+[00:00:00] SPEAKER_01
+Hello and welcome to another episode of The Regulation Podcast. This is episode 025. My name is Geoff Ramsey. With me as always, Nick Schwartz, Andrew Panton, Gavin Free, Eric Baudour, in no particular order. Hello. Hello. How's everybody been in the last three minutes? Great. I'm pretty good. How are you in the last three minutes? Good, good. I had a burp and I accidentally swallowed it and now it's just kind of in there and I don't know if it's going to come out.
+
+[00:00:30] SPEAKER_01
+That's like the saddest thing you can do. Do you want to sit on my lap and I'll pat your back? Careful, there's probably s**t on it. If we didn't. If we can film it and release it on Patreon, absolutely, because boy, we make a killing. Why would s**t be on my lap? Well, weren't we going to do something in Achievement Hunter 100 years ago where I sat in your lap and s**t on you? Do you remember that? Yes.
+
+[00:00:57] SPEAKER_03
+Yeah, I can't remember what the qualifier was for doing that.
+
+[00:01:00] SPEAKER_03
+Yeah.
+
+[00:01:01] SPEAKER_03
+But you wanted to just sit on my lap fully clothed and take a talk.
+
+[00:01:07] SPEAKER_01
+Well, for the record, I no longer have that desire.
+
+[00:01:11] SPEAKER_01
+Oh, good.
+
+[00:01:12] SPEAKER_01
+Because I'm not looking to do that in 2024.
+
+[00:01:15] SPEAKER_01
+Not sure why I wanted to back then.
+
+[00:01:20] SPEAKER_04
+I'm excited to hear Gavin's notes because Gavin earlier in the week said he's pretty excited about his notes.
+
+[00:01:25] SPEAKER_03
+I don't think you want to hear my notes because one of my notes is Andrew is an idiot.
+
+[00:01:28] SPEAKER_04
+No, listen, that's every week.
+
+[00:01:32] SPEAKER_01
+Do you got any notes this week, Andrew?
+
+[00:01:33] SPEAKER_01
+Oh, I got so many notes.
+
+[00:01:35] SPEAKER_01
+I got a few myself.
+
+[00:01:36] SPEAKER_01
+I was in the lab.
+
+[00:01:37] SPEAKER_01
+I came up with some supplemental ideas I want to pitch to you guys today.
+
+[00:01:39] SPEAKER_01
+But let's start with Gavin.
+
+[00:01:41] SPEAKER_01
+Why is Andrew an idiot?
+
+[00:01:42] SPEAKER_01
+Oh, let me prepare some screenshots.
+
+[00:01:45] SPEAKER_01
+Oh, fuck.
+
+[00:01:46] SPEAKER_04
+He brought visual aids.
+
+[00:01:48] SPEAKER_04
+Yeah.
+
+[00:01:49] SPEAKER_04
+He doesn't need proof for this trial.
+
+[00:01:51] SPEAKER_04
+We made the ruling.
+
+[00:01:52] SPEAKER_03
+We put out a little supplemental called Tuned Up.
+
+[00:01:58] SPEAKER_03
+Yeah.
+
+[00:01:59] SPEAKER_03
+A lovely video.
+
+[00:02:00] SPEAKER_04
+Oh.
+
+[00:02:01] SPEAKER_03
+That Andrew wants to make.
+
+[00:02:03] SPEAKER_03
+Here's a little conversation from the Slack.
+
+[00:02:05] SPEAKER_05
+You know what?
+
+[00:02:06] SPEAKER_05
+This is, I feel unwarranted.
+
+[00:02:08] SPEAKER_05
+Now, I see what you're doing here.
+
+[00:02:11] SPEAKER_05
+Is there a way that we can get a dramatic reenactment?
+
+[00:02:15] SPEAKER_05
+Like, Jeff, Nick, you can be Nick.
+
+[00:02:17] SPEAKER_05
+I'll be Andrew if you want to be Gavin, Jeff.
+
+[00:02:21] SPEAKER_05
+I'll be Gavin.
+
+[00:02:22] SPEAKER_05
+Yeah, sure.
+
+[00:02:22] SPEAKER_05
+Hell yeah.
+
+[00:02:23] SPEAKER_05
+Okay.
+
+[00:02:23] SPEAKER_05
+All right.
+
+[00:02:24] SPEAKER_03
+Okay.
+
+[00:02:26] SPEAKER_03
+I'm also going to have to paste.
+
+[00:02:28] SPEAKER_03
+Yeah, go ahead.
+
+[00:02:28] SPEAKER_03
+I'm ready with the second paste.
+
+[00:02:30] SPEAKER_02
+Okay.
+
+[00:02:30] SPEAKER_02
+All right.
+
+[00:02:32] SPEAKER_02
+Any preference on game footage I should use for Tuned Up?
+
+[00:02:35] SPEAKER_02
+Nope.
+
+[00:02:36] SPEAKER_02
+Is it Tuned Up on visual time?
+
+[00:02:39] SPEAKER_02
+The recording of the web toy.
+
+[00:02:40] SPEAKER_03
+I'm sorry.
+
+[00:02:40] SPEAKER_03
+Can we get another?
+
+[00:02:41] SPEAKER_03
+Can we get a second read on that?
+
+[00:02:42] SPEAKER_03
+Oh, okay.
+
+[00:02:42] SPEAKER_00
+Is it Tuned Up on visual thing?
+
+[00:02:48] SPEAKER_00
+Oh, that's way closer.
+
+[00:02:49] SPEAKER_00
+That's way better.
+
+[00:02:50] SPEAKER_00
+Yeah.
+
+[00:02:51] SPEAKER_03
+Sorry.
+
+[00:02:51] SPEAKER_03
+One more.
+
+[00:02:52] SPEAKER_03
+Can we just get a slightly clearer, maybe?
+
+[00:02:54] SPEAKER_03
+Okay.
+
+[00:02:58] SPEAKER_00
+Is it Tuned Up on visual thing?
+
+[00:03:04] SPEAKER_00
+Perfect.
+
+[00:03:04] SPEAKER_00
+The recording of the web toy.
+
+[00:03:06] SPEAKER_05
+Oh, that's pretty good.
+
+[00:03:07] SPEAKER_05
+Yeah, that was good.
+
+[00:03:08] SPEAKER_05
+I like that one.
+
+[00:03:08] SPEAKER_05
+Not the first.
+
+[00:03:09] SPEAKER_05
+The next two are.
+
+[00:03:11] SPEAKER_00
+How would people know what we're reacting to?
+
+[00:03:13] SPEAKER_00
+Sometimes we just went, oh.
+
+[00:03:17] SPEAKER_05
+I believe I articulated updates every guess.
+
+[00:03:21] SPEAKER_05
+Hmm.
+
+[00:03:22] SPEAKER_05
+Mm-hmm.
+
+[00:03:23] SPEAKER_05
+I definitely was mindful of it not being visual, but I'm sure I wasn't perfect in that.
+
+[00:03:29] SPEAKER_00
+I could make those quizzes and just take the screenshots, HR guys.
+
+[00:03:34] SPEAKER_05
+Wait.
+
+[00:03:36] SPEAKER_03
+Did you read that?
+
+[00:03:38] SPEAKER_03
+Okay.
+
+[00:03:38] SPEAKER_05
+It's an extra medium and up-only release, so I assume the vast majority of people who
+
+[00:03:46] SPEAKER_05
+consume it will be via audio.
+
+[00:03:48] SPEAKER_00
+Okay.
+
+[00:03:51] SPEAKER_03
+Now, what I'm referring to is that a lot of the time we would put in a guess for the band
+
+[00:03:55] SPEAKER_03
+or whatever, and it would just throw back a bunch of results, and we'd be talking about
+
+[00:03:59] SPEAKER_03
+the results.
+
+[00:04:00] SPEAKER_03
+We'd be like, oh, you know, reacting to it.
+
+[00:04:01] SPEAKER_03
+But at that point, Andrew had argued his point, and I said, being done with discussing it,
+
+[00:04:06] SPEAKER_03
+okay.
+
+[00:04:07] SPEAKER_03
+Uh-huh.
+
+[00:04:08] SPEAKER_03
+Andrew then wrote this.
+
+[00:04:10] SPEAKER_05
+Uh, I haven't listened back to it, but it certainly works as an audible only.
+
+[00:04:17] SPEAKER_05
+That's the primary way.
+
+[00:04:19] SPEAKER_03
+I haven't listened to it.
+
+[00:04:21] SPEAKER_04
+I never listened to anything that we do.
+
+[00:04:23] SPEAKER_03
+Right.
+
+[00:04:24] SPEAKER_03
+Well, I listened to it.
+
+[00:04:26] SPEAKER_03
+I'm doing, uh, you know, maybe we should have the video.
+
+[00:04:29] SPEAKER_03
+And I get that we didn't record it, right?
+
+[00:04:33] SPEAKER_03
+But what we could have done, and that was-
+
+[00:04:34] SPEAKER_03
+Okay.
+
+[00:04:35] SPEAKER_03
+Because you'd never like it when I say we should have done this, and there's no-
+
+[00:04:39] SPEAKER_03
+No, no, no.
+
+[00:04:39] SPEAKER_03
+There's no, like, alternate thing.
+
+[00:04:41] SPEAKER_03
+So I even suggested, I'll just type them in, I'll take some screenshots of the exact results.
+
+[00:04:45] SPEAKER_03
+You don't have to type in the same band.
+
+[00:04:46] SPEAKER_04
+No, you didn't say that.
+
+[00:04:47] SPEAKER_04
+What?
+
+[00:04:47] SPEAKER_04
+You said we.
+
+[00:04:49] SPEAKER_04
+You said we could.
+
+[00:04:50] SPEAKER_04
+We is not!
+
+[00:04:51] SPEAKER_04
+There is no moment of you saying, I could do this.
+
+[00:04:54] SPEAKER_04
+If you said, I could do this, I would say, absolutely, go ahead.
+
+[00:04:58] SPEAKER_04
+I just meant us as a company.
+
+[00:04:59] SPEAKER_04
+Well, you said if you meant, we never refers to-
+
+[00:05:03] SPEAKER_04
+If it's just, just go do it.
+
+[00:05:05] SPEAKER_04
+Just go do it if you think it's a good idea to do.
+
+[00:05:10] SPEAKER_03
+It's not, just go do it, because it's then, it's like, you know, will the person editing
+
+[00:05:14] SPEAKER_03
+have enough time to put it in?
+
+[00:05:15] SPEAKER_03
+I don't want to just do it for no reason.
+
+[00:05:16] SPEAKER_03
+And you said, no.
+
+[00:05:19] SPEAKER_03
+I didn't say no.
+
+[00:05:20] SPEAKER_03
+I never said no.
+
+[00:05:22] SPEAKER_03
+What did you mean by it's extra medium only, so I assume the vast majority of people who
+
+[00:05:26] SPEAKER_03
+consume it will be via audio?
+
+[00:05:27] SPEAKER_04
+I was giving a point as to why it may not be a big deal.
+
+[00:05:30] SPEAKER_04
+I never said no, don't do that.
+
+[00:05:32] SPEAKER_03
+Okay.
+
+[00:05:32] SPEAKER_03
+Well, either way, I was putting up a suggestion, a solution to the problem, where we could basically
+
+[00:05:38] SPEAKER_03
+re-film it.
+
+[00:05:39] SPEAKER_03
+But, and then, what was the response to the video?
+
+[00:05:43] SPEAKER_03
+There was a lot of, all the visual things were, it should have, should have been a visual.
+
+[00:05:47] SPEAKER_04
+I've got a series of issues with this.
+
+[00:05:49] SPEAKER_04
+First of all, first of all, I already admitted to Gavin he was right, literally the day it happened, and he did not acknowledge it like a little weasel.
+
+[00:05:58] SPEAKER_04
+He just screenshotted all these things, zero acknowledgement to my comment that he was already right privately.
+
+[00:06:05] SPEAKER_04
+How does that make me a weasel?
+
+[00:06:07] SPEAKER_04
+This, this stuff was already screenshotted.
+
+[00:06:09] SPEAKER_04
+That's a little weasel move, not reacting, but taking your little screenshots for your bit on the podcast.
+
+[00:06:16] SPEAKER_04
+I'm reacting right here, I'm saving it for the recording.
+
+[00:06:19] SPEAKER_04
+Second of all, I'm not the one who's editing that.
+
+[00:06:23] SPEAKER_04
+This is a public channel, Nick or whoever, could anybody else could vocalize.
+
+[00:06:30] SPEAKER_04
+I never said no, this isn't about me, I gave an opinion, and nobody else replied.
+
+[00:06:36] SPEAKER_04
+This is not me.
+
+[00:06:37] SPEAKER_03
+Each of your responses was saying we didn't need it.
+
+[00:06:41] SPEAKER_04
+I was just saying that I don't, because you did this, what, the day before it was supposed to come out?
+
+[00:06:47] SPEAKER_04
+And I was just articulating a point as to why I felt it wasn't necessary, but I never said no.
+
+[00:06:54] SPEAKER_04
+And just because I think something is necessary, in the same way that to you, we means also me, and anyone can do it,
+
+[00:07:01] SPEAKER_04
+me vocalizing, I don't think it's necessary, isn't me saying it shouldn't happen.
+
+[00:07:06] SPEAKER_04
+I'm just giving my perspective.
+
+[00:07:07] SPEAKER_03
+I just feel like every response you were saying, don't worry about it.
+
+[00:07:10] SPEAKER_03
+I'm not going to, you know, if you feel like.
+
+[00:07:14] SPEAKER_04
+But that's just me.
+
+[00:07:15] SPEAKER_04
+There's five of us.
+
+[00:07:16] SPEAKER_04
+I don't know.
+
+[00:07:17] SPEAKER_03
+What are the people who read it and didn't reply?
+
+[00:07:19] SPEAKER_04
+Just because I'm the only one who replied.
+
+[00:07:21] SPEAKER_04
+I feel like your issue should be with the three other people.
+
+[00:07:24] SPEAKER_04
+Oh, yeah.
+
+[00:07:24] SPEAKER_04
+Get fucking real.
+
+[00:07:26] SPEAKER_04
+I think the three other people were trying to stay out of this fight.
+
+[00:07:29] SPEAKER_05
+A hundred percent.
+
+[00:07:30] SPEAKER_03
+Zero fight.
+
+[00:07:31] SPEAKER_03
+You have to go at it.
+
+[00:07:32] SPEAKER_03
+No.
+
+[00:07:33] SPEAKER_03
+But Jeff, you were in the recording.
+
+[00:07:34] SPEAKER_03
+What did you think?
+
+[00:07:35] SPEAKER_03
+Did you have an opinion?
+
+[00:07:36] SPEAKER_01
+We did it so long ago, I couldn't remember.
+
+[00:07:38] SPEAKER_01
+I was out of town when you had this argument, so I was on vacation.
+
+[00:07:43] SPEAKER_01
+Wasn't an argument.
+
+[00:07:45] SPEAKER_01
+It seemed like an argument.
+
+[00:07:46] SPEAKER_01
+It wasn't an argument.
+
+[00:07:48] SPEAKER_01
+Eric and Nick, how did you guys take it?
+
+[00:07:51] SPEAKER_01
+I vote it was an argument.
+
+[00:07:52] SPEAKER_04
+Yeah, absolutely.
+
+[00:07:53] SPEAKER_04
+I never viewed it as an argument.
+
+[00:07:55] SPEAKER_01
+That sounds like three votes.
+
+[00:07:56] SPEAKER_04
+It felt like one.
+
+[00:07:57] SPEAKER_04
+The three vote system doesn't work in that context.
+
+[00:08:04] SPEAKER_04
+I only care about Gavin's vote.
+
+[00:08:06] SPEAKER_04
+Gavin, did you think we were arguing?
+
+[00:08:08] SPEAKER_03
+No.
+
+[00:08:08] SPEAKER_03
+I just thought we were having a discussion about the video.
+
+[00:08:11] SPEAKER_04
+I just thought we were talking back and forth about what that was.
+
+[00:08:14] SPEAKER_03
+But usually I don't chime in unless I feel like something's going to be missing.
+
+[00:08:19] SPEAKER_01
+Usually you don't chime in unless the shirt just came out or it's about to come out.
+
+[00:08:23] SPEAKER_01
+And it's too late to do anything about it.
+
+[00:08:24] SPEAKER_03
+I don't know, I chimed in before the shirt came out and when it was about to come out.
+
+[00:08:29] SPEAKER_03
+Maybe I should chime in unless.
+
+[00:08:30] SPEAKER_03
+Right.
+
+[00:08:31] SPEAKER_05
+No, no, no.
+
+[00:08:32] SPEAKER_05
+Chiming is good.
+
+[00:08:33] SPEAKER_05
+No, no.
+
+[00:08:33] SPEAKER_05
+Okay.
+
+[00:08:33] SPEAKER_05
+I think your timing maybe just needs some work, but that's it.
+
+[00:08:37] SPEAKER_05
+I will say it is nice to be on the outside of we is not me part two and seeing just sort
+
+[00:08:44] SPEAKER_05
+of like, that's pretty great.
+
+[00:08:45] SPEAKER_05
+It's not just me.
+
+[00:08:47] SPEAKER_03
+I wrote we because if Andrew was like, oh, yeah, let's do it.
+
+[00:08:51] SPEAKER_03
+I would have just done it.
+
+[00:08:54] SPEAKER_01
+It just happened a couple of days ago where we had a video that we recorded for The Quiet
+
+[00:08:59] SPEAKER_01
+Place and Andrew's footage died and he mentioned it.
+
+[00:09:03] SPEAKER_01
+And then Gavin was like, let's re-record it.
+
+[00:09:05] SPEAKER_01
+And we all jumped in.
+
+[00:09:06] SPEAKER_01
+We're like, let's re-record it.
+
+[00:09:07] SPEAKER_01
+I'm ready to fucking go right now.
+
+[00:09:09] SPEAKER_01
+Yeah.
+
+[00:09:09] SPEAKER_01
+So I feel like we've learned from the first incident and we've already applied that to
+
+[00:09:14] SPEAKER_01
+the following incidents and it seems like we're on the right track going forward.
+
+[00:09:18] SPEAKER_99
+Yeah.
+
+[00:09:21] SPEAKER_04
+I agree.
+
+[00:09:23] SPEAKER_04
+I just don't see how I'm an idiot in this scenario.
+
+[00:09:27] SPEAKER_04
+I was fully on board to be, I'm the fool.
+
+[00:09:30] SPEAKER_04
+I don't think I'm an idiot here.
+
+[00:09:32] SPEAKER_04
+Wait, you're a fool, but not an idiot?
+
+[00:09:33] SPEAKER_04
+No, I'm a general fool, but I don't think what I did in this instance is an example of
+
+[00:09:40] SPEAKER_04
+that.
+
+[00:09:40] SPEAKER_04
+He's a general fool, but not a specific idiot.
+
+[00:09:43] SPEAKER_04
+Yes.
+
+[00:09:43] SPEAKER_01
+What was it Terry Bradshaw said?
+
+[00:09:44] SPEAKER_01
+I may be stupid, but I'm not dumb.
+
+[00:09:46] SPEAKER_05
+Exactly.
+
+[00:09:47] SPEAKER_01
+Yeah.
+
+[00:09:47] SPEAKER_03
+I was mainly fine with the discussion.
+
+[00:09:51] SPEAKER_03
+I just like at the end, you're like, I haven't listened to it though.
+
+[00:09:54] SPEAKER_04
+Oh, I never listened to any of it.
+
+[00:09:56] SPEAKER_04
+The first thing I listened to was that quiet place thing because I was trying to sink it.
+
+[00:10:01] SPEAKER_03
+I'll just say there's a lot of chiming in for someone who hasn't listened to it.
+
+[00:10:11] SPEAKER_01
+Definitely feels like a fight to me.
+
+[00:10:13] SPEAKER_04
+That's what I'm saying.
+
+[00:10:14] SPEAKER_04
+Not a fight.
+
+[00:10:15] SPEAKER_04
+Oh my God.
+
+[00:10:15] SPEAKER_04
+I was just trying to be helpful.
+
+[00:10:16] SPEAKER_04
+Next time, if I haven't listened, I will not reply, which means I will not reply to
+
+[00:10:21] SPEAKER_04
+whatever the thing is.
+
+[00:10:21] SPEAKER_04
+Well, that's not helpful.
+
+[00:10:23] SPEAKER_03
+No.
+
+[00:10:24] SPEAKER_03
+If you remember the recording well.
+
+[00:10:26] SPEAKER_04
+Now you're driving them away, Gavin.
+
+[00:10:27] SPEAKER_04
+Gavin, if listening is a prerequisite.
+
+[00:10:32] SPEAKER_03
+Andrew, would you feel better if Gavin apologized?
+
+[00:10:34] SPEAKER_03
+No.
+
+[00:10:35] SPEAKER_03
+I don't have.
+
+[00:10:36] SPEAKER_03
+I'm sorry.
+
+[00:10:36] SPEAKER_03
+I shouldn't have written my note as Andrew's an idiot, but I did want to bring up this
+
+[00:10:41] SPEAKER_03
+frustrating interaction.
+
+[00:10:44] SPEAKER_03
+Maybe the note should have been, I'm frustrated.
+
+[00:10:49] SPEAKER_05
+I think those would be my only notes for this show.
+
+[00:10:53] SPEAKER_04
+My note would be, weasel move.
+
+[00:10:55] SPEAKER_04
+Now, is the British weasel related to the British jackal?
+
+[00:11:00] SPEAKER_04
+I don't think so.
+
+[00:11:01] SPEAKER_04
+I don't see how it was weasel.
+
+[00:11:03] SPEAKER_04
+Because you didn't ignore the fact that you had this lined up.
+
+[00:11:07] SPEAKER_04
+You're at it in the chamber.
+
+[00:11:09] SPEAKER_03
+Because it was content.
+
+[00:11:09] SPEAKER_03
+I knew it was going to be content.
+
+[00:11:10] SPEAKER_03
+And then if I reacted and blew my reaction in the Slack, it's not as good.
+
+[00:11:14] SPEAKER_03
+I wanted to give it to you right here.
+
+[00:11:16] SPEAKER_04
+A little ha.
+
+[00:11:17] SPEAKER_04
+A little, just any form of interaction.
+
+[00:11:20] SPEAKER_04
+Because I said all that and I was like, I guess Gavin just didn't, whatever.
+
+[00:11:23] SPEAKER_04
+Okay, weird.
+
+[00:11:24] SPEAKER_04
+Zero response from Gavin on that.
+
+[00:11:27] SPEAKER_03
+I don't know if that was Weasley there.
+
+[00:11:30] SPEAKER_04
+The fact that you avoided it for, to attempt to blindside me on the show with Andrew's an idiot.
+
+[00:11:36] SPEAKER_03
+We save stuff all the time for the podcast, don't we?
+
+[00:11:39] SPEAKER_04
+Yeah, but the fact that it was Andrew's an idiot and I approached you waving the idiot flag.
+
+[00:11:44] SPEAKER_00
+Waving the idiot flag.
+
+[00:11:47] SPEAKER_00
+That's true.
+
+[00:11:47] SPEAKER_04
+I came to you with the idiot flag and you didn't acknowledge it.
+
+[00:11:50] SPEAKER_04
+And then were quiet for a few days.
+
+[00:11:52] SPEAKER_04
+And then you opened with, I got a note, Andrew's an idiot.
+
+[00:11:55] SPEAKER_04
+Hey, Andrew, remember that time you waved your idiot flag and I didn't acknowledge it?
+
+[00:12:00] SPEAKER_04
+Let's talk about it.
+
+[00:12:01] SPEAKER_03
+That's true.
+
+[00:12:02] SPEAKER_03
+Andrew did say to me in a private message.
+
+[00:12:05] SPEAKER_05
+Where's the screenshot of that?
+
+[00:12:08] SPEAKER_03
+Every single comment of the video version of TuneUp are people wanting the perspective.
+
+[00:12:13] SPEAKER_03
+It's an army of you being right.
+
+[00:12:17] SPEAKER_01
+I immediately conceded.
+
+[00:12:19] SPEAKER_01
+I feel like we need to make an idiot flag and then somebody has to have it at all times.
+
+[00:12:24] SPEAKER_01
+And they have to have it behind them when we record.
+
+[00:12:27] SPEAKER_01
+And then it gets granted to the new idiot.
+
+[00:12:29] SPEAKER_01
+Yeah, it's like the reverse Tower of Pimps from Achievement Hunter.
+
+[00:12:32] SPEAKER_03
+Or it's going to suck to spend $40 every time we have to give it to Andrew.
+
+[00:12:36] SPEAKER_03
+No, it's just staying with me.
+
+[00:12:38] SPEAKER_03
+It's not going anywhere.
+
+[00:12:39] SPEAKER_05
+Yeah, you just have one permanently, I think.
+
+[00:12:41] SPEAKER_03
+You know what, Andrew?
+
+[00:12:42] SPEAKER_03
+You immediately admitted it to me.
+
+[00:12:43] SPEAKER_03
+I hadn't seen the comments yet.
+
+[00:12:46] SPEAKER_03
+So I appreciate how you are ready to be wrong in my face.
+
+[00:12:51] SPEAKER_03
+What?
+
+[00:12:54] SPEAKER_04
+Listen, I'll be wrong in your face any day of the week.
+
+[00:12:57] SPEAKER_04
+So a lot of people would have kept quiet.
+
+[00:12:58] SPEAKER_03
+And I appreciate your honesty.
+
+[00:13:00] SPEAKER_04
+Yeah, listen, I saw it and I knew, I figured you might not see it.
+
+[00:13:03] SPEAKER_04
+So I went through the effort of making sure you knew.
+
+[00:13:06] SPEAKER_04
+Hey, this opinion I had turned out was wrong.
+
+[00:13:10] SPEAKER_04
+It was the wrong opinion.
+
+[00:13:11] SPEAKER_04
+You're right.
+
+[00:13:13] SPEAKER_01
+Oh, man.
+
+[00:13:14] SPEAKER_04
+But the next ones will have a video component.
+
+[00:13:17] SPEAKER_99
+Yeah.
+
+[00:13:18] SPEAKER_04
+Although I deleted all my OBS settings in which I did that.
+
+[00:13:21] SPEAKER_04
+Or wait, no, Nick.
+
+[00:13:23] SPEAKER_04
+Nick, you were there.
+
+[00:13:23] SPEAKER_04
+So I didn't need to.
+
+[00:13:24] SPEAKER_04
+Never mind.
+
+[00:13:24] SPEAKER_04
+It's fine.
+
+[00:13:25] SPEAKER_99
+What?
+
+[00:13:26] SPEAKER_04
+We're all good.
+
+[00:13:27] SPEAKER_04
+I'm pretty sure you have it.
+
+[00:13:31] SPEAKER_04
+If not, it's uploaded and it's fine.
+
+[00:13:33] SPEAKER_04
+Doesn't matter.
+
+[00:13:34] SPEAKER_04
+It's in the past.
+
+[00:13:35] SPEAKER_04
+We recorded a lot of stuff.
+
+[00:13:37] SPEAKER_04
+Are you saying you deleted all your recordings?
+
+[00:13:39] SPEAKER_04
+No, I threw out all my OBS settings that I was using to capture my desktop.
+
+[00:13:45] SPEAKER_04
+But didn't you already capture the next two?
+
+[00:13:47] SPEAKER_04
+Yes.
+
+[00:13:48] SPEAKER_02
+I captured one.
+
+[00:13:49] SPEAKER_02
+He did the other.
+
+[00:13:49] SPEAKER_04
+Yes.
+
+[00:13:50] SPEAKER_04
+But I was referencing.
+
+[00:13:53] SPEAKER_04
+I said going forward, they will all be recorded.
+
+[00:13:55] SPEAKER_04
+And then I said, although I just deleted all my OBS settings.
+
+[00:13:59] SPEAKER_05
+Oh, I see.
+
+[00:14:00] SPEAKER_05
+It's a bit circuitous to get there.
+
+[00:14:02] SPEAKER_05
+But I understand what you're saying now.
+
+[00:14:04] SPEAKER_05
+I understood.
+
+[00:14:05] SPEAKER_03
+We're not recording now.
+
+[00:14:07] SPEAKER_03
+You still have time to set it up again.
+
+[00:14:09] SPEAKER_04
+Do you know what the words mean going forward?
+
+[00:14:12] SPEAKER_03
+You said going forward, but I just deleted everything.
+
+[00:14:15] SPEAKER_04
+Yeah.
+
+[00:14:16] SPEAKER_04
+Meaning that I will have to figure that out before that is a thing that happens.
+
+[00:14:21] SPEAKER_04
+That doesn't affect that going forward, there'll be video, though.
+
+[00:14:24] SPEAKER_04
+If I don't have any of the settings in which I recorded the video, how am I going to record the video?
+
+[00:14:31] SPEAKER_03
+Because we'll set all that up.
+
+[00:14:32] SPEAKER_03
+We're not recording right now.
+
+[00:14:33] SPEAKER_03
+We're not doing tune-up now.
+
+[00:14:36] SPEAKER_99
+Okay.
+
+[00:14:37] SPEAKER_04
+It was just a throwaway point.
+
+[00:14:39] SPEAKER_04
+It was more, I was just trying to make a little joke about how I had to delete all that coincidentally today for a different thing.
+
+[00:14:46] SPEAKER_01
+Oh, my God.
+
+[00:14:47] SPEAKER_01
+Now I'm annoyed!
+
+[00:14:50] SPEAKER_01
+For the record, Andrew, I'm 100% on your side in that interaction.
+
+[00:14:53] SPEAKER_01
+I totally got what you were saying.
+
+[00:14:55] SPEAKER_99
+Yeah.
+
+[00:14:56] SPEAKER_01
+Crazy.
+
+[00:14:56] SPEAKER_01
+And so did Nick.
+
+[00:14:57] SPEAKER_01
+I don't know why.
+
+[00:14:58] SPEAKER_01
+Gavin got real pedantic real fast for no reason there.
+
+[00:15:01] SPEAKER_01
+I thought he was saying that you couldn't do it.
+
+[00:15:03] SPEAKER_05
+No, I didn't understand right away.
+
+[00:15:04] SPEAKER_05
+And then he parsed it out, and I got there.
+
+[00:15:07] SPEAKER_05
+I'm with, I understand now.
+
+[00:15:10] SPEAKER_05
+Having to vote, was I understandable?
+
+[00:15:12] SPEAKER_05
+Yes.
+
+[00:15:13] SPEAKER_05
+Yes.
+
+[00:15:14] SPEAKER_04
+There we go.
+
+[00:15:14] SPEAKER_04
+That's three.
+
+[00:15:17] SPEAKER_05
+That's the three that you need.
+
+[00:15:19] SPEAKER_05
+Okay, I see.
+
+[00:15:20] SPEAKER_05
+Yeah, you Gavin, team weasel down there.
+
+[00:15:23] SPEAKER_05
+Put you on the team, too.
+
+[00:15:25] SPEAKER_05
+I will say, I mean, the whole we is not me, and then somebody else was like some kind of animal.
+
+[00:15:31] SPEAKER_05
+Like, I mean, I was really on the outside looking in, man.
+
+[00:15:36] SPEAKER_99
+Team weasel.
+
+[00:15:37] SPEAKER_03
+I like when we just had a really pleasant Let's Play recording where we weren't arguing.
+
+[00:15:40] SPEAKER_03
+We were having a ton of fun, and then we came in hot to this one somehow.
+
+[00:15:42] SPEAKER_03
+Somehow?
+
+[00:15:43] SPEAKER_04
+Somehow?
+
+[00:15:44] SPEAKER_04
+What do you mean somehow?
+
+[00:15:45] SPEAKER_04
+Your opening note was Andrew's an idiot.
+
+[00:15:48] SPEAKER_04
+Somehow.
+
+[00:15:51] SPEAKER_04
+You put the fucking directions into the car, drove there, and said, I don't know how we
+
+[00:15:57] SPEAKER_04
+got here.
+
+[00:15:58] SPEAKER_04
+Somehow.
+
+[00:16:00] SPEAKER_04
+How did that happen?
+
+[00:16:01] SPEAKER_04
+It's like you called the Uber, asshole.
+
+[00:16:03] SPEAKER_04
+Oh, God.
+
+[00:16:05] SPEAKER_04
+You went to the destination you wanted.
+
+[00:16:09] SPEAKER_01
+Andrew, do you by any chance have any notes that say anything like, fuck Gavin, or Gavin
+
+[00:16:16] SPEAKER_01
+comma weasel, or anything along those lines?
+
+[00:16:20] SPEAKER_04
+I don't.
+
+[00:16:21] SPEAKER_04
+I got carrot juice, which I'm not happy about.
+
+[00:16:24] SPEAKER_04
+I bought some to try later.
+
+[00:16:25] SPEAKER_04
+No, I bought some to try later on the show.
+
+[00:16:27] SPEAKER_04
+Hell yeah.
+
+[00:16:28] SPEAKER_04
+But you don't even have to do, I mean, why wait?
+
+[00:16:30] SPEAKER_04
+Oh, man, but that'll be so unpleasant for the rest.
+
+[00:16:33] SPEAKER_04
+We're just starting this recording.
+
+[00:16:34] SPEAKER_04
+Yeah, no, I understand what I just said.
+
+[00:16:36] SPEAKER_04
+Yes.
+
+[00:16:37] SPEAKER_99
+Yeah.
+
+[00:16:38] SPEAKER_04
+Okay.
+
+[00:16:44] SPEAKER_04
+Do you think he's going to be able to see in the dark, or what's going to happen?
+
+[00:16:48] SPEAKER_04
+100% carrot.
+
+[00:16:50] SPEAKER_04
+Okay.
+
+[00:16:51] SPEAKER_04
+Insane move.
+
+[00:16:52] SPEAKER_04
+322% daily value of vitamin A.
+
+[00:16:55] SPEAKER_04
+Why?
+
+[00:16:56] SPEAKER_04
+Why this many?
+
+[00:16:58] SPEAKER_03
+Which one is A?
+
+[00:16:59] SPEAKER_03
+What does that do for you?
+
+[00:16:59] SPEAKER_04
+I don't know.
+
+[00:17:01] SPEAKER_04
+Perishable keep refrigerated.
+
+[00:17:04] SPEAKER_04
+Anything else interesting on here?
+
+[00:17:06] SPEAKER_04
+Feel good about what's in this bottle.
+
+[00:17:08] SPEAKER_04
+I don't.
+
+[00:17:09] SPEAKER_01
+Vitamin A is retinol.
+
+[00:17:12] SPEAKER_01
+Oh, good for eyeballs?
+
+[00:17:14] SPEAKER_01
+Good eyesight.
+
+[00:17:18] SPEAKER_01
+Yeah, it's all for the eyes.
+
+[00:17:19] SPEAKER_05
+It's an antioxidant.
+
+[00:17:20] SPEAKER_05
+It's good for your hair and skin, and it boosts immunity.
+
+[00:17:23] SPEAKER_01
+And teeth.
+
+[00:17:24] SPEAKER_01
+And reproduction.
+
+[00:17:25] SPEAKER_05
+This is great, Andrew.
+
+[00:17:25] SPEAKER_05
+You don't have to eat fish for the rest of the day.
+
+[00:17:27] SPEAKER_04
+I'm not an oxidant guy.
+
+[00:17:29] SPEAKER_04
+I don't trust oxidant.
+
+[00:17:30] SPEAKER_04
+That's why you want antioxidants.
+
+[00:17:31] SPEAKER_04
+I know, so you want all of this because they're anti that.
+
+[00:17:35] SPEAKER_04
+Well, no, anything that says oxidant, I don't like.
+
+[00:17:38] SPEAKER_03
+You're anti-antioxidant?
+
+[00:17:39] SPEAKER_04
+I'm just any use of oxidant.
+
+[00:17:42] SPEAKER_03
+I'm not a fan of it.
+
+[00:17:43] SPEAKER_05
+Yeah, no.
+
+[00:17:43] SPEAKER_05
+So he's not anti-antioxidant.
+
+[00:17:45] SPEAKER_05
+He's anti-oxidant.
+
+[00:17:47] SPEAKER_05
+If I see oxidant, I know I'm not going to like it.
+
+[00:17:50] SPEAKER_01
+Well, what you're seeing is the absence of oxidant.
+
+[00:17:53] SPEAKER_01
+You might be pro-oxidant.
+
+[00:17:55] SPEAKER_04
+You don't even know.
+
+[00:17:57] SPEAKER_04
+This just smells like carrot, which I don't know what it is.
+
+[00:18:00] SPEAKER_04
+It's 100% carrot.
+
+[00:18:02] SPEAKER_04
+Imagine opening it.
+
+[00:18:03] SPEAKER_04
+It's not like apples.
+
+[00:18:04] SPEAKER_04
+Oh, that would be awesome.
+
+[00:18:06] SPEAKER_04
+I'd be all about that.
+
+[00:18:07] SPEAKER_04
+Oh, what are the ingredients to this thing?
+
+[00:18:10] SPEAKER_04
+Probably carrot juice.
+
+[00:18:11] SPEAKER_04
+I got it.
+
+[00:18:11] SPEAKER_04
+I got a couple of guesses.
+
+[00:18:13] SPEAKER_04
+Can't be all carrot.
+
+[00:18:15] SPEAKER_04
+It's 11 and a half carrots in this bottle.
+
+[00:18:19] SPEAKER_04
+It says 11 and a half.
+
+[00:18:22] SPEAKER_04
+Crazy.
+
+[00:18:24] SPEAKER_04
+Holy shit.
+
+[00:18:25] SPEAKER_04
+I could chug 11 carrots.
+
+[00:18:27] SPEAKER_04
+Well, I'm not doing that, but wait a second.
+
+[00:18:29] SPEAKER_04
+Bugs Bunny wishes.
+
+[00:18:30] SPEAKER_04
+Veggies per bottle.
+
+[00:18:31] SPEAKER_04
+Three and a half.
+
+[00:18:33] SPEAKER_04
+Three and a half bottles of servings.
+
+[00:18:36] SPEAKER_04
+Where is the...
+
+[00:18:37] SPEAKER_03
+So you're about to have three servings of carrot?
+
+[00:18:40] SPEAKER_04
+Probably a quarter of a serving.
+
+[00:18:43] SPEAKER_01
+Dude, your eyesight's about to blast off.
+
+[00:18:45] SPEAKER_04
+Why wouldn't you have the whole thing?
+
+[00:18:46] SPEAKER_04
+It's good for you.
+
+[00:18:47] SPEAKER_04
+Well, this...
+
+[00:18:49] SPEAKER_04
+This...
+
+[00:18:50] SPEAKER_04
+What day is it today?
+
+[00:18:51] SPEAKER_04
+It expires tomorrow.
+
+[00:18:53] SPEAKER_04
+See?
+
+[00:18:53] SPEAKER_04
+Why wait?
+
+[00:18:54] SPEAKER_03
+So we're just sneaking in on this.
+
+[00:18:56] SPEAKER_03
+Is it true that baby carrots are just to cut up carrot?
+
+[00:18:59] SPEAKER_03
+Yeah, I believe that is true, yes.
+
+[00:19:00] SPEAKER_04
+Hmm.
+
+[00:19:01] SPEAKER_04
+I'm not seeing the ingredients, which is a little...
+
+[00:19:04] SPEAKER_04
+I think it's just carrot, man.
+
+[00:19:06] SPEAKER_04
+Carrot juice.
+
+[00:19:07] SPEAKER_04
+Yeah, that's it.
+
+[00:19:07] SPEAKER_04
+That's all the ingredient.
+
+[00:19:08] SPEAKER_04
+Okay, here we go.
+
+[00:19:11] SPEAKER_01
+What if we discover that Andrew loves carrots?
+
+[00:19:14] SPEAKER_01
+I think we're about to.
+
+[00:19:15] SPEAKER_05
+Is he going to chuck the whole thing?
+
+[00:19:17] SPEAKER_05
+No, he doesn't have the guts.
+
+[00:19:19] SPEAKER_05
+You know what?
+
+[00:19:21] SPEAKER_05
+You like it.
+
+[00:19:23] SPEAKER_99
+I like it.
+
+[00:19:24] SPEAKER_05
+You like it.
+
+[00:19:25] SPEAKER_01
+You know what else is orange?
+
+[00:19:26] SPEAKER_01
+Garfield.
+
+[00:19:28] SPEAKER_01
+A lot of good orange things in your life.
+
+[00:19:31] SPEAKER_05
+Andrew, where'd you go?
+
+[00:19:33] SPEAKER_01
+Okay.
+
+[00:19:36] SPEAKER_04
+I gotta say, I don't know how to feel about this.
+
+[00:19:41] SPEAKER_04
+This is...
+
+[00:19:42] SPEAKER_04
+This is baffling.
+
+[00:19:45] SPEAKER_04
+I, as I said, was traumatized by carrot juice as a child.
+
+[00:19:49] SPEAKER_04
+Uh-huh.
+
+[00:19:52] SPEAKER_04
+I'm beginning to wonder if maybe it was like a vegetable mixed juice, and it wasn't just
+
+[00:19:56] SPEAKER_04
+pure carrot.
+
+[00:19:56] SPEAKER_04
+Oh.
+
+[00:19:57] SPEAKER_04
+Because this just tastes like carrot.
+
+[00:19:59] SPEAKER_04
+This is just liquid carrot.
+
+[00:20:01] SPEAKER_05
+It's a carrot.
+
+[00:20:02] SPEAKER_05
+Jeff, do something.
+
+[00:20:07] SPEAKER_01
+I'm kind of at a loss as to what to do here.
+
+[00:20:10] SPEAKER_04
+It's just carrot.
+
+[00:20:11] SPEAKER_01
+I don't know how you expected it to be anything other than just carrot.
+
+[00:20:15] SPEAKER_01
+You even read the ingredients.
+
+[00:20:16] SPEAKER_01
+I think you were traumatized by some sort of vegetable medley.
+
+[00:20:20] SPEAKER_04
+I think so.
+
+[00:20:21] SPEAKER_04
+I think it may have been a medley, and it has clouded my vision of just straight carrot
+
+[00:20:27] SPEAKER_04
+juice.
+
+[00:20:28] SPEAKER_04
+Now, would I excitedly buy this?
+
+[00:20:31] SPEAKER_03
+No.
+
+[00:20:32] SPEAKER_03
+What happened with the...
+
+[00:20:33] SPEAKER_03
+What, you choked on it or something?
+
+[00:20:35] SPEAKER_04
+I was trying to chug it, and it's a lot to chug.
+
+[00:20:37] SPEAKER_04
+It was...
+
+[00:20:38] SPEAKER_04
+I didn't get far.
+
+[00:20:39] SPEAKER_03
+No, I mean, why were you traumatized by what you thought was carrot?
+
+[00:20:41] SPEAKER_04
+Oh, because I was...
+
+[00:20:43] SPEAKER_04
+I thought it was going to be like a juice.
+
+[00:20:44] SPEAKER_04
+Like, I was expecting something sweet.
+
+[00:20:46] SPEAKER_04
+And, yeah, it was just a vegetable.
+
+[00:20:51] SPEAKER_04
+That's not unpleasant at all.
+
+[00:20:55] SPEAKER_04
+As someone who loves carrots...
+
+[00:20:57] SPEAKER_03
+So you could do it every day in November?
+
+[00:21:00] SPEAKER_01
+I could.
+
+[00:21:02] SPEAKER_01
+As someone who loves carrots, these carrots are not bad, is what you just said.
+
+[00:21:07] SPEAKER_04
+That's true.
+
+[00:21:08] SPEAKER_04
+I just expected it as a liquid to taste different.
+
+[00:21:12] SPEAKER_04
+As someone who loves carrots, I didn't expect to like carrots.
+
+[00:21:15] SPEAKER_04
+Well, you know, sometimes when you break something down into a juice form, it's not...
+
+[00:21:20] SPEAKER_04
+It doesn't taste the same.
+
+[00:21:21] SPEAKER_01
+Yeah, liquid bacon's not the same as crispy bacon.
+
+[00:21:23] SPEAKER_01
+I got you.
+
+[00:21:25] SPEAKER_05
+That's true.
+
+[00:21:26] SPEAKER_05
+I just don't know.
+
+[00:21:27] SPEAKER_05
+Like, this thinking is...
+
+[00:21:28] SPEAKER_05
+Like, I just don't know what you...
+
+[00:21:30] SPEAKER_05
+I don't know.
+
+[00:21:30] SPEAKER_05
+I just don't understand.
+
+[00:21:32] SPEAKER_05
+I think I may...
+
+[00:21:34] SPEAKER_04
+Well, first of all, as I said, I think it was a vegetable medley.
+
+[00:21:37] SPEAKER_04
+And I think there may be a little bit of that child still in me of vegetables are gross.
+
+[00:21:45] SPEAKER_04
+Like, vegetable juice is gross.
+
+[00:21:49] SPEAKER_04
+Without actually processing that, no, it's just the thing you like.
+
+[00:21:52] SPEAKER_04
+You're an adult.
+
+[00:21:53] SPEAKER_04
+You enjoy carrots.
+
+[00:21:55] SPEAKER_04
+You enjoy vegetables.
+
+[00:21:56] SPEAKER_04
+This isn't bad.
+
+[00:21:57] SPEAKER_04
+This is a lot to take in, though.
+
+[00:21:58] SPEAKER_04
+I couldn't imagine chugging this.
+
+[00:22:02] SPEAKER_04
+Well...
+
+[00:22:02] SPEAKER_04
+How big is it?
+
+[00:22:04] SPEAKER_04
+It's only 450 milliliters, but it feels dense when you're consuming it.
+
+[00:22:09] SPEAKER_01
+Thick.
+
+[00:22:09] SPEAKER_01
+I don't think that most people do chug it.
+
+[00:22:12] SPEAKER_04
+I can't imagine.
+
+[00:22:13] SPEAKER_01
+I wouldn't say that that's the preferred way to drink it.
+
+[00:22:15] SPEAKER_01
+It's probably a sipper, you know?
+
+[00:22:18] SPEAKER_99
+Yeah.
+
+[00:22:19] SPEAKER_04
+It's really throwing me off.
+
+[00:22:21] SPEAKER_03
+Now I kind of want to see who could chug carrot the fastest.
+
+[00:22:24] SPEAKER_03
+I'll fuck you guys up.
+
+[00:22:25] SPEAKER_01
+Yeah, you will?
+
+[00:22:26] SPEAKER_01
+Of course, dude.
+
+[00:22:27] SPEAKER_01
+I love vegetables.
+
+[00:22:29] SPEAKER_01
+I'm not...
+
+[00:22:29] SPEAKER_01
+Any excuse.
+
+[00:22:31] SPEAKER_01
+You could drink half a liter of liquid carrot.
+
+[00:22:34] SPEAKER_01
+I don't see why not.
+
+[00:22:37] SPEAKER_01
+I'd like to try.
+
+[00:22:38] SPEAKER_01
+I'd like to try.
+
+[00:22:39] SPEAKER_01
+Next time we get together to set stuff on fire with incense, maybe we'll drink some carrot
+
+[00:22:44] SPEAKER_01
+juice.
+
+[00:22:45] SPEAKER_01
+Have we talked about the incense thing on a podcast yet?
+
+[00:22:47] SPEAKER_04
+Yeah.
+
+[00:22:48] SPEAKER_04
+Extensively.
+
+[00:22:50] SPEAKER_03
+Nick said no address, said yeah.
+
+[00:22:52] SPEAKER_04
+Oh, really?
+
+[00:22:52] SPEAKER_04
+That wasn't part of the show?
+
+[00:22:54] SPEAKER_04
+I never know.
+
+[00:22:55] SPEAKER_04
+I guess, you know, listen, I'm wrong.
+
+[00:22:57] SPEAKER_04
+If Nick says no, he's right.
+
+[00:22:58] SPEAKER_04
+What is the incense thing?
+
+[00:23:00] SPEAKER_04
+Eric, wait, you don't know what we're talking about?
+
+[00:23:03] SPEAKER_04
+I'm trying to set it up for you to explain to the audience.
+
+[00:23:05] SPEAKER_04
+That was a perfect setup, but I just spiked in the ground.
+
+[00:23:08] SPEAKER_05
+That was a really good setup.
+
+[00:23:09] SPEAKER_05
+I thought, Andrew, you did a great job.
+
+[00:23:12] SPEAKER_03
+I realized what you were doing as I was talking.
+
+[00:23:17] SPEAKER_03
+Gavin's got it in for you today.
+
+[00:23:18] SPEAKER_03
+Eric came in hot and said that there's no way an incense stick could start.
+
+[00:23:24] SPEAKER_05
+It's going to melt your synthetic carpet, but you're not going to – we talked about
+
+[00:23:33] SPEAKER_05
+this because I was talking about lighting incense the other day or whatever because your room
+
+[00:23:36] SPEAKER_05
+smells like cat shit piss or whatever.
+
+[00:23:39] SPEAKER_03
+I said I didn't want to because the cats would knock it over.
+
+[00:23:41] SPEAKER_05
+Yeah, and then I think we said, like, what are you worried about, like it catching on fire?
+
+[00:23:46] SPEAKER_05
+And you said, yeah.
+
+[00:23:47] SPEAKER_05
+And then Nick would, yeah, it'd catch on fire.
+
+[00:23:49] SPEAKER_05
+Absolutely not.
+
+[00:23:50] SPEAKER_05
+No, it's not – I don't think it would catch on fire.
+
+[00:23:54] SPEAKER_01
+So we're going to get together at our next live recording and we're going to try to build
+
+[00:24:00] SPEAKER_01
+fire all fucking Survivor but with incense and see if we can catch anything on fire.
+
+[00:24:06] SPEAKER_01
+But it's a constant ember.
+
+[00:24:08] SPEAKER_03
+If it just sat in carpet for like 10 seconds, surely it would burn the carpet.
+
+[00:24:11] SPEAKER_03
+We'll find out.
+
+[00:24:12] SPEAKER_05
+It will melt the carpet.
+
+[00:24:13] SPEAKER_05
+I don't think it's going to start a fire.
+
+[00:24:15] SPEAKER_99
+Melt?
+
+[00:24:15] SPEAKER_03
+What do you mean a melt?
+
+[00:24:17] SPEAKER_01
+Let's find out.
+
+[00:24:19] SPEAKER_01
+Yeah, this is all – what are we getting – what are you guys doing next Friday?
+
+[00:24:23] SPEAKER_01
+Ooh.
+
+[00:24:25] SPEAKER_05
+Setting a carpet on fire, I guess.
+
+[00:24:27] SPEAKER_01
+Yeah, let's get some carpet and set it on fire.
+
+[00:24:28] SPEAKER_05
+Nick's out of the office so he won't even get a play.
+
+[00:24:31] SPEAKER_02
+Aw, rats.
+
+[00:24:32] SPEAKER_01
+You'll be fine.
+
+[00:24:34] SPEAKER_01
+Speaking of rats, I got some supplemental content.
+
+[00:24:36] SPEAKER_01
+I want to pitch you guys a little bit.
+
+[00:24:39] SPEAKER_05
+What?
+
+[00:24:40] SPEAKER_05
+What is that?
+
+[00:24:40] SPEAKER_05
+I said, speaking of rats, I have some supplemental content.
+
+[00:24:42] SPEAKER_05
+No, I know, but what do you mean?
+
+[00:24:45] SPEAKER_05
+What rat-related content is not getting –
+
+[00:24:48] SPEAKER_05
+I have two rat-related ideas in addition to two other ideas.
+
+[00:24:52] SPEAKER_05
+Andrew heard that there's rat content, and he got sick of the weasel, and he's fucking done.
+
+[00:25:00] SPEAKER_05
+I – oh, do you think the carrots – Andrew, did the carrots take you out?
+
+[00:25:04] SPEAKER_99
+Andrew?
+
+[00:25:05] SPEAKER_05
+I'm back.
+
+[00:25:05] SPEAKER_05
+Sorry about that.
+
+[00:25:06] SPEAKER_05
+My internet dropped.
+
+[00:25:07] SPEAKER_05
+We thought maybe the carrots took you down.
+
+[00:25:09] SPEAKER_05
+Yeah, we assumed it was carrot-related.
+
+[00:25:10] SPEAKER_05
+But to sum it up and just to – you know, people are going to post.
+
+[00:25:15] SPEAKER_05
+Here's the thing – like Nick did.
+
+[00:25:17] SPEAKER_05
+Here's the thing online that said, don't light this on fire because it'll start a fire.
+
+[00:25:20] SPEAKER_05
+Yeah, things on fire can start a fire.
+
+[00:25:23] SPEAKER_05
+When you burn an incense and then you blow it out so that way it just goes – and it's just like the little wafts of smoke.
+
+[00:25:30] SPEAKER_05
+That's not going to set anything on fire.
+
+[00:25:31] SPEAKER_01
+Where do you think the wafts of smoke come from?
+
+[00:25:33] SPEAKER_01
+It's an ember.
+
+[00:25:34] SPEAKER_01
+And my – listen, and the reason I back Eric up here is because I can't light incense on fire with incense, and it's designed to burn.
+
+[00:25:41] SPEAKER_01
+There's no way.
+
+[00:25:42] SPEAKER_01
+There's no way.
+
+[00:25:43] SPEAKER_01
+You can't hold incense to incense and make incense catch on fire when incense is already on fire.
+
+[00:25:47] SPEAKER_01
+So I'm excited to test this out, and I'll be happy to be wrong if I am, but I don't think Eric and I are wrong.
+
+[00:25:52] SPEAKER_03
+If you hold incense to petrol, do you think it will burn?
+
+[00:25:58] SPEAKER_05
+Hold incense to – oh, to like gasoline?
+
+[00:26:01] SPEAKER_03
+Yeah, a puddle of gasoline.
+
+[00:26:03] SPEAKER_05
+I don't know.
+
+[00:26:05] SPEAKER_05
+I don't – like that seems – what an insane thing to have in your house, I guess.
+
+[00:26:13] SPEAKER_05
+Here's my bucket of gas, and I put it right next to my incense.
+
+[00:26:16] SPEAKER_05
+You did what?
+
+[00:26:17] SPEAKER_03
+If it's not burning, then what's the problem?
+
+[00:26:20] SPEAKER_05
+No, I'm saying it's not hot enough to catch, like, your normal room on fire.
+
+[00:26:27] SPEAKER_05
+I don't think that I'm out of line here at all.
+
+[00:26:30] SPEAKER_05
+I don't think it's –
+
+[00:26:31] SPEAKER_05
+I don't think – I think that if you are keeping your incense next to your gasoline, you shouldn't be – you shouldn't throw your hat in the ring for this one.
+
+[00:26:39] SPEAKER_05
+Well, I'm pulling out of this conversation.
+
+[00:26:42] SPEAKER_01
+Don't store gasoline and incense next to each other.
+
+[00:26:45] SPEAKER_01
+Everybody knows that.
+
+[00:26:47] SPEAKER_05
+You probably don't store gasoline for very long anyway.
+
+[00:26:50] SPEAKER_05
+Well, if you want to wait for the price to come down.
+
+[00:26:52] SPEAKER_05
+Yeah, yeah, that's true.
+
+[00:26:53] SPEAKER_05
+What do you do with your old gas?
+
+[00:26:55] SPEAKER_05
+I just drink it down.
+
+[00:26:57] SPEAKER_05
+With the carrot juice?
+
+[00:26:58] SPEAKER_05
+Mix it with carrot juice?
+
+[00:27:00] SPEAKER_05
+Yeah, mix it with carrot juice.
+
+[00:27:01] SPEAKER_05
+I get my – I get my – get my vitamin A and my vitamin G, gasoline, all in one place.
+
+[00:27:06] SPEAKER_04
+Is this still antioxidant at that point?
+
+[00:27:08] SPEAKER_05
+Oh, no, it's pure oxidant.
+
+[00:27:10] SPEAKER_05
+Oh, fuck yeah, okay.
+
+[00:27:11] SPEAKER_05
+Yeah, yeah, yeah.
+
+[00:27:13] SPEAKER_03
+So, Eric, if you feel strongly about this, would you – say you left your house for an hour and I'm in there.
+
+[00:27:18] SPEAKER_03
+Okay.
+
+[00:27:18] SPEAKER_03
+And I've got like a hundred and cent sticks and I'm just lighting them and blowing them out and flinging them all over.
+
+[00:27:23] SPEAKER_03
+Would you be fine with that?
+
+[00:27:25] SPEAKER_03
+Yeah, I don't think it's going to catch anything on fire.
+
+[00:27:27] SPEAKER_02
+Oh, wow, okay.
+
+[00:27:29] SPEAKER_03
+I was not expecting you to say yes.
+
+[00:27:32] SPEAKER_05
+Okay.
+
+[00:27:33] SPEAKER_03
+I'll be like winging them at the curtains, into the kitchen towels.
+
+[00:27:38] SPEAKER_05
+I'm not sure – I'm not sure why you would be doing this or what scenario this would exist in because I'm talking about a real practical scenario where you light incense, put it on your little shelf, and then have it be incense in a room.
+
+[00:27:50] SPEAKER_01
+And then a cat knocks it over and then your whole house burns down.
+
+[00:27:52] SPEAKER_01
+I think what Eric is saying is that's never, ever, ever going to happen.
+
+[00:27:55] SPEAKER_01
+Yeah, that's it.
+
+[00:27:58] SPEAKER_04
+The fact that he needs a hundred incense to burn your house down makes me feel like he doesn't even believe in your argument.
+
+[00:28:04] SPEAKER_04
+That's a lot of incense.
+
+[00:28:05] SPEAKER_01
+Here's what I need.
+
+[00:28:06] SPEAKER_01
+I need a drum of gasoline, a hundred cats, and a thousand incense sticks.
+
+[00:28:15] SPEAKER_05
+Nick is typing when he can just talk.
+
+[00:28:18] SPEAKER_99
+Yeah.
+
+[00:28:20] SPEAKER_05
+Great podcasting, bud.
+
+[00:28:22] SPEAKER_05
+He does it all the time.
+
+[00:28:23] SPEAKER_05
+He types.
+
+[00:28:24] SPEAKER_05
+He does.
+
+[00:28:25] SPEAKER_05
+He is in this argument.
+
+[00:28:28] SPEAKER_05
+That is true.
+
+[00:28:29] SPEAKER_03
+If he gets all the way in, he has to lean forwards, though.
+
+[00:28:31] SPEAKER_05
+Yeah.
+
+[00:28:31] SPEAKER_05
+Yeah.
+
+[00:28:32] SPEAKER_05
+Yeah.
+
+[00:28:32] SPEAKER_05
+Yeah.
+
+[00:28:32] SPEAKER_05
+And he's in this argument.
+
+[00:28:34] SPEAKER_05
+My back's bad now, you know?
+
+[00:28:37] SPEAKER_05
+What?
+
+[00:28:38] SPEAKER_03
+Whose side is Nick on?
+
+[00:28:40] SPEAKER_03
+I'm on your side.
+
+[00:28:40] SPEAKER_03
+Thanks.
+
+[00:28:41] SPEAKER_03
+Yeah.
+
+[00:28:42] SPEAKER_02
+But yeah, you're right.
+
+[00:28:55] SPEAKER_05
+That's probably not good.
+
+[00:28:58] SPEAKER_05
+Why?
+
+[00:28:58] SPEAKER_05
+If you light an incense stick on fire and go and blow out the fire of it.
+
+[00:29:03] SPEAKER_05
+Look, I can already see the Reddit comments on this whole thing.
+
+[00:29:06] SPEAKER_05
+I'm not worried about it.
+
+[00:29:07] SPEAKER_05
+I have my incense.
+
+[00:29:08] SPEAKER_05
+I'm not lighting my house on fire with it.
+
+[00:29:09] SPEAKER_05
+Don't worry about it.
+
+[00:29:10] SPEAKER_04
+I hate to see Team Weasel turn on themselves so quickly.
+
+[00:29:12] SPEAKER_01
+I will say, I have lit incense every night in my house, probably since the day I met Emily,
+
+[00:29:20] SPEAKER_01
+because she's big into incense.
+
+[00:29:21] SPEAKER_01
+And when she gets home, you know, she works late at the salon.
+
+[00:29:23] SPEAKER_01
+And so when she comes home, I like to have the house all like smelling and looking good
+
+[00:29:27] SPEAKER_01
+for her.
+
+[00:29:28] SPEAKER_01
+And so I always light a little bit of incense for her.
+
+[00:29:29] SPEAKER_01
+And every day of my life for probably seven years, and I have never had even close to
+
+[00:29:36] SPEAKER_01
+an errant issue with incense setting anything on fire or getting out of control or being
+
+[00:29:41] SPEAKER_01
+dangerous in any way whatsoever.
+
+[00:29:43] SPEAKER_04
+This incense is fucking out of control.
+
+[00:29:44] SPEAKER_04
+This incense is out of control.
+
+[00:29:50] SPEAKER_05
+But I want to go back to what I want to know what Jeff's rat content is.
+
+[00:29:54] SPEAKER_01
+Oh, yeah.
+
+[00:29:56] SPEAKER_01
+So I came, I went into the lab the other day.
+
+[00:29:59] SPEAKER_01
+Uh, I felt like it'd been a minute since I'd come up with some new ideas and I've been
+
+[00:30:03] SPEAKER_01
+thinking a lot about supplemental.
+
+[00:30:04] SPEAKER_01
+I've been thinking a lot about getting out and doing stuff in the world.
+
+[00:30:07] SPEAKER_01
+And so I came up with a couple of ideas.
+
+[00:30:09] SPEAKER_01
+I wanted to pitch you guys on today.
+
+[00:30:10] SPEAKER_01
+The first one I like, I think Eric will not like it specifically.
+
+[00:30:14] SPEAKER_01
+And I think we won't do it in much the same way you guys won't let me do the tombstone
+
+[00:30:18] SPEAKER_01
+one, but that's okay because maybe somebody will make a video game out of it.
+
+[00:30:21] SPEAKER_01
+You guys know I want to go do a show where we walk around the mall, right?
+
+[00:30:26] SPEAKER_01
+I wanted to call it mall walkers.
+
+[00:30:27] SPEAKER_01
+Because everybody on earth let me know there's another show called mall walkers where people
+
+[00:30:32] SPEAKER_01
+do that.
+
+[00:30:32] SPEAKER_01
+We won't call it mall walkers, but guess what?
+
+[00:30:34] SPEAKER_01
+Other people play GTA.
+
+[00:30:36] SPEAKER_01
+We still play GTA.
+
+[00:30:37] SPEAKER_01
+We're allowed to go fucking to a mall and record ourselves.
+
+[00:30:39] SPEAKER_01
+We'll probably still do it in some fashion.
+
+[00:30:41] SPEAKER_01
+But that got me thinking maybe we'll tweak the idea a little bit.
+
+[00:30:44] SPEAKER_01
+Although I do just think us walking around the mall is a phenomenal idea and I'm still
+
+[00:30:48] SPEAKER_01
+on board for it.
+
+[00:30:49] SPEAKER_01
+But I got to thinking, what if we just call it something different like mall rats?
+
+[00:30:51] SPEAKER_01
+And I was like, oh, I love that phrase.
+
+[00:30:53] SPEAKER_01
+But then that's like a Kevin Smith thing.
+
+[00:30:54] SPEAKER_01
+And I think he's making a sequel to mall rats even maybe.
+
+[00:30:57] SPEAKER_01
+And so I don't want to be caught up in the middle of that.
+
+[00:30:59] SPEAKER_01
+So I was thinking like mall brats, right?
+
+[00:31:01] SPEAKER_01
+Because that's like a play on mall rats.
+
+[00:31:03] SPEAKER_01
+But brat summer's over and I don't want to, you know, I don't want to relive that.
+
+[00:31:06] SPEAKER_01
+So what if instead we have a show where we all go around the mall and I get one of those
+
+[00:31:12] SPEAKER_01
+rubber mall rats, one of those rubber rats, and I hide it somewhere in the mall.
+
+[00:31:17] SPEAKER_01
+And then we play rat mall and then everybody goes around the mall and you try to find
+
+[00:31:20] SPEAKER_01
+the rat I hid in the mall.
+
+[00:31:23] SPEAKER_01
+Rat mall.
+
+[00:31:25] SPEAKER_01
+Rat mall.
+
+[00:31:27] SPEAKER_01
+Gavin, any thoughts on rat mall?
+
+[00:31:30] SPEAKER_01
+Sign me up.
+
+[00:31:32] SPEAKER_01
+Oh, I knew Gavin was on board from the jump.
+
+[00:31:34] SPEAKER_01
+We can play rat.
+
+[00:31:35] SPEAKER_01
+I'll play rat mall.
+
+[00:31:36] SPEAKER_01
+And I was just thinking how much fun it would be if there was unintended consequences.
+
+[00:31:41] SPEAKER_01
+Like people thought the rat was real or security finds it, you know, and they're like,
+
+[00:31:45] SPEAKER_01
+what the fuck is this rubber rat?
+
+[00:31:46] SPEAKER_01
+And is it a prank?
+
+[00:31:47] SPEAKER_01
+But it's not a prank.
+
+[00:31:48] SPEAKER_01
+It's just us playing the game.
+
+[00:31:49] SPEAKER_01
+I try to foresee a lot of unintended hilarity.
+
+[00:31:52] SPEAKER_05
+I also, man, I want somebody else to hide it so you can play rat mall, Jeff.
+
+[00:31:57] SPEAKER_01
+Yeah, maybe we'll get Emily or somebody or one of any, anybody's, uh, wife or friend
+
+[00:32:02] SPEAKER_01
+can come out and hide it for us.
+
+[00:32:03] SPEAKER_01
+And then we can all play rat mall together.
+
+[00:32:05] SPEAKER_04
+I think you should have to have somebody in the mall hide it for you.
+
+[00:32:08] SPEAKER_04
+I think you need to invite somebody who's there.
+
+[00:32:10] SPEAKER_01
+You hand a guy a footlocker or a rat?
+
+[00:32:12] SPEAKER_04
+Hey, do something about this.
+
+[00:32:13] SPEAKER_01
+We need an inside person.
+
+[00:32:15] SPEAKER_01
+Yeah.
+
+[00:32:16] SPEAKER_01
+Uh, okay.
+
+[00:32:16] SPEAKER_01
+So that's my first idea.
+
+[00:32:17] SPEAKER_01
+Rat mall.
+
+[00:32:18] SPEAKER_01
+Can we wear exterminator clothes?
+
+[00:32:20] SPEAKER_01
+Yeah, I think we should.
+
+[00:32:21] SPEAKER_05
+I think you can dress however it makes you feel like you are best at finding the rat.
+
+[00:32:27] SPEAKER_03
+I want to come up with my own pest control company and get a logo made and wear a big,
+
+[00:32:31] SPEAKER_03
+I know what, uh, I know what Nick will be wearing.
+
+[00:32:34] SPEAKER_01
+He'll be wearing a big pair of red boots.
+
+[00:32:36] SPEAKER_01
+That's right.
+
+[00:32:38] SPEAKER_01
+Uh, okay.
+
+[00:32:38] SPEAKER_01
+Here's my second idea.
+
+[00:32:39] SPEAKER_01
+I want to hit you guys with, I like this idea better than the first idea.
+
+[00:32:43] SPEAKER_01
+I've been thinking a lot about the past.
+
+[00:32:44] SPEAKER_01
+I've been reminiscing a little bit.
+
+[00:32:46] SPEAKER_01
+And one of my favorite, uh, one of the favorite productions I ever made when we were, uh, doing
+
+[00:32:51] SPEAKER_01
+Achievement Hunter back in the day was the show I, uh, I made called Sunday driving.
+
+[00:32:56] SPEAKER_01
+And what that show was, was, is essentially what I did already.
+
+[00:32:59] SPEAKER_01
+It's an old timey thing that people used to do back in the day.
+
+[00:33:02] SPEAKER_01
+They would just go Sunday driving back when cars were novel and you would just drive around
+
+[00:33:06] SPEAKER_01
+and enjoy the weather and listen to music or whatever.
+
+[00:33:08] SPEAKER_01
+And so in Grand Theft Auto, I, uh, I had this game that we would do, uh, I don't know,
+
+[00:33:13] SPEAKER_01
+I guess it wasn't really a game, but this, uh, video we would do where I would drive around
+
+[00:33:17] SPEAKER_01
+and I would pick somebody up on the street, like say Gavin.
+
+[00:33:19] SPEAKER_01
+And then we would just start talking and have a conversation that we'd go look for somebody
+
+[00:33:22] SPEAKER_01
+else.
+
+[00:33:22] SPEAKER_01
+And eventually we'd find Andrew and pick him up and then find, uh, Eric or whatever, and
+
+[00:33:27] SPEAKER_01
+just go through the whole thing and make a video out of it.
+
+[00:33:28] SPEAKER_01
+And we're just talking.
+
+[00:33:29] SPEAKER_01
+And then the conversation flows interestingly because you're adding people to it, uh, as it
+
+[00:33:34] SPEAKER_01
+goes.
+
+[00:33:34] SPEAKER_01
+And I was thinking about how much fun that was.
+
+[00:33:37] SPEAKER_01
+We've been back in GTA.
+
+[00:33:38] SPEAKER_01
+We've been kicking the tires on GTA quite a bit, but I thought, why do that in GTA?
+
+[00:33:43] SPEAKER_01
+Why not do it in real life?
+
+[00:33:45] SPEAKER_01
+What if you guys, uh, go downtown in Austin and like a five or a six mile radius and just
+
+[00:33:50] SPEAKER_01
+stand on street corners.
+
+[00:33:52] SPEAKER_01
+And maybe one of you gives me like an address location and I just have to drive and pick
+
+[00:33:56] SPEAKER_01
+up, let's say Eric.
+
+[00:33:57] SPEAKER_01
+And then Eric and I have to figure out how to navigate to Gavin and Nick.
+
+[00:34:00] SPEAKER_01
+And we just have a conversation while we do it.
+
+[00:34:02] SPEAKER_01
+And then once we're all in the car, we, uh, we go get ice cream or hot dogs or something.
+
+[00:34:07] SPEAKER_01
+I love it.
+
+[00:34:08] SPEAKER_01
+We do Sunday driving in real life on a Sunday.
+
+[00:34:11] SPEAKER_01
+Everyone you pick up has, has the clue to the next person.
+
+[00:34:14] SPEAKER_01
+Yeah.
+
+[00:34:14] SPEAKER_01
+That's like something like that.
+
+[00:34:15] SPEAKER_01
+So there's like a, we gamify it a little bit, but the point of it is the conversation
+
+[00:34:19] SPEAKER_01
+and the journey, not necessarily like winning.
+
+[00:34:22] SPEAKER_01
+So we don't want to make it too hard, but I like the idea of there being kind of stakes
+
+[00:34:26] SPEAKER_01
+and us trying to figure, like, I, I feel like that would be more fun than just GPSing
+
+[00:34:30] SPEAKER_01
+to somebody, you know?
+
+[00:34:31] SPEAKER_01
+Yeah, definitely.
+
+[00:34:33] SPEAKER_05
+I think, I think no maps is a really fun way to do that too.
+
+[00:34:36] SPEAKER_05
+With like, just, just like trying to figure out what streets everything is on.
+
+[00:34:40] SPEAKER_05
+I think it's great.
+
+[00:34:41] SPEAKER_01
+Yeah.
+
+[00:34:41] SPEAKER_01
+And then like, I was thinking we could dash cam that, but also if you don't want to, because
+
+[00:34:46] SPEAKER_01
+I'm, I'm also cognizant of, of not wanting to step on toes.
+
+[00:34:49] SPEAKER_01
+Uh, I know 100% eat does a thing where you guys record your, yourselves from the dash
+
+[00:34:54] SPEAKER_01
+cam.
+
+[00:34:54] SPEAKER_01
+And so I wouldn't want to appear too similar to that.
+
+[00:34:56] SPEAKER_01
+So another idea I had, uh, if we don't want to do it that way is then we could go back
+
+[00:35:00] SPEAKER_01
+and cam it in GTA.
+
+[00:35:03] SPEAKER_05
+Camming it in GTA would be insane.
+
+[00:35:05] SPEAKER_05
+That is so much extra work.
+
+[00:35:07] SPEAKER_05
+I'd rather just film it.
+
+[00:35:09] SPEAKER_05
+What an insane amount of work that is.
+
+[00:35:11] SPEAKER_01
+I don't think it is an insane amount of work.
+
+[00:35:13] SPEAKER_01
+I think we just listened to it and then we just all play GTA while we listened to it.
+
+[00:35:17] SPEAKER_01
+And then we just, we were like, we would just machinimate it as a big one.
+
+[00:35:20] SPEAKER_03
+And then think about how realistic the audio is.
+
+[00:35:23] SPEAKER_03
+So that is crazy.
+
+[00:35:26] SPEAKER_05
+That's crazy.
+
+[00:35:28] SPEAKER_01
+Wow.
+
+[00:35:29] SPEAKER_01
+Either way we do it.
+
+[00:35:30] SPEAKER_01
+I think a real life slash real life, uh, and the GTA Sunday driving could, would be
+
+[00:35:36] SPEAKER_01
+a lot of fun.
+
+[00:35:37] SPEAKER_01
+And I think that might be a cool Patreon, uh, show.
+
+[00:35:42] SPEAKER_05
+What if we do it in real life?
+
+[00:35:43] SPEAKER_05
+What if we do it in real life where you pick me up and then I have the clue to go get Gavin
+
+[00:35:47] SPEAKER_05
+and then Gavin has the clue to go get Nick.
+
+[00:35:49] SPEAKER_05
+And then after we go get Nick, we, and like we record all this in real life and then we
+
+[00:35:55] SPEAKER_05
+do it in the game.
+
+[00:35:56] SPEAKER_05
+But at that point where we go get Nick, that's where we end.
+
+[00:35:59] SPEAKER_05
+And then we pick up the rest of the conversation and it's in the game.
+
+[00:36:03] SPEAKER_05
+But now Andrew can go and we pick up Andrew and then we do something in the game.
+
+[00:36:07] SPEAKER_01
+That's cool too.
+
+[00:36:08] SPEAKER_05
+That's cool.
+
+[00:36:08] SPEAKER_05
+So that we are all participating.
+
+[00:36:09] SPEAKER_01
+I like that too.
+
+[00:36:10] SPEAKER_04
+If you didn't, uh, want to do the negative navigation thing, maybe I'm like on a call,
+
+[00:36:16] SPEAKER_04
+like a discord call with Jeff and I have maps of Austin.
+
+[00:36:19] SPEAKER_04
+And I'm the only one who knows where everybody is.
+
+[00:36:21] SPEAKER_04
+And I'm having to try to relay to Jeff how to get to these people.
+
+[00:36:25] SPEAKER_01
+I think that is a completely separate idea.
+
+[00:36:29] SPEAKER_01
+That's its own show.
+
+[00:36:31] SPEAKER_01
+I think that's like, keep talking and nobody explodes.
+
+[00:36:33] SPEAKER_01
+But like, I think that's a great navigation.
+
+[00:36:36] SPEAKER_01
+Yeah.
+
+[00:36:36] SPEAKER_01
+Yeah.
+
+[00:36:36] SPEAKER_01
+Like Andrew navigate.
+
+[00:36:37] SPEAKER_01
+I think like we do like a scavenger hunt or something through Austin and Andrew navigates
+
+[00:36:41] SPEAKER_01
+this.
+
+[00:36:41] SPEAKER_01
+I think that could be fucking fun.
+
+[00:36:42] SPEAKER_01
+I mean, we can combine it with this too, but I just, I think there's a lot there just in
+
+[00:36:45] SPEAKER_01
+that alone.
+
+[00:36:46] SPEAKER_01
+Um, so that's great.
+
+[00:36:47] SPEAKER_01
+That's kind of like the second idea I had in the lab.
+
+[00:36:50] SPEAKER_01
+And then the third idea I had, I actually had the other night, uh, we all, we went to
+
+[00:36:56] SPEAKER_01
+dinner, uh, what was a Sunday night for, for your small wife's birthday, Eric?
+
+[00:37:01] SPEAKER_05
+Yes.
+
+[00:37:01] SPEAKER_01
+And so, um, when we were done, we were, we all said goodbye in a parking garage.
+
+[00:37:07] SPEAKER_01
+And I was just thinking, it struck me that we were the only people in the parking garage.
+
+[00:37:13] SPEAKER_01
+It was like 11 o'clock at night when we were finished with dinner.
+
+[00:37:15] SPEAKER_01
+And it was just like this downtown parking garage and it was empty.
+
+[00:37:18] SPEAKER_01
+And the sound was like, I don't know, the place was, the sound was kind of baffling.
+
+[00:37:22] SPEAKER_01
+And it was just like, it was a cool environment.
+
+[00:37:24] SPEAKER_01
+And I thought it's funny that we're the only people in this whole space right now would
+
+[00:37:29] SPEAKER_01
+be fun to film something in here, but everybody was going their separate ways.
+
+[00:37:31] SPEAKER_01
+And it was, you know, we all went to bed or whatever, went home.
+
+[00:37:34] SPEAKER_01
+Um, and that got me thinking we should go back and do a podcast where we record in odd
+
+[00:37:41] SPEAKER_01
+spaces.
+
+[00:37:42] SPEAKER_01
+Now there was a podcast back in the day that rooster teeth, uh, that was on the roost
+
+[00:37:46] SPEAKER_01
+called podcast, but outside, I don't want to rip off their idea where they would just
+
+[00:37:49] SPEAKER_01
+like set up a folding table and they would invite people to come and then they would have
+
+[00:37:52] SPEAKER_01
+a conversation.
+
+[00:37:53] SPEAKER_01
+But what if we did a pot, uh, like a supplemental series called hide and speak where we, we went
+
+[00:37:58] SPEAKER_01
+out in public and then we've had to find a place where we hid kind of like how Gavin
+
+[00:38:03] SPEAKER_01
+would hide in halo two behind the, uh, behind the ramp.
+
+[00:38:06] SPEAKER_01
+And then we, we get in there, we hide, we're in public, but we're like, I don't know, behind
+
+[00:38:11] SPEAKER_01
+a tree or we're in like a cubby somewhere and we're hidden and we record until somebody
+
+[00:38:17] SPEAKER_01
+catches us, sees us, or until we hit like 20 minutes and then it's over.
+
+[00:38:20] SPEAKER_01
+And if we like hit 20 minutes, we complete the goal, which is to stay hidden for the whole
+
+[00:38:24] SPEAKER_01
+time.
+
+[00:38:24] SPEAKER_01
+But we just do public podcasts, but that are hidden from the public hide and speak.
+
+[00:38:30] SPEAKER_05
+I love it.
+
+[00:38:31] SPEAKER_05
+Just, I love it just for the name.
+
+[00:38:32] SPEAKER_05
+All right.
+
+[00:38:33] SPEAKER_05
+So I'm in great.
+
+[00:38:34] SPEAKER_01
+Did that start with the name first?
+
+[00:38:35] SPEAKER_01
+No, I came up with the name about an hour ago.
+
+[00:38:38] SPEAKER_05
+All right.
+
+[00:38:38] SPEAKER_05
+The name, the name's phenomenal.
+
+[00:38:40] SPEAKER_05
+Thank you.
+
+[00:38:40] SPEAKER_01
+Right, right before we started the, uh, the let's play, I came up with the name.
+
+[00:38:44] SPEAKER_01
+Uh, okay.
+
+[00:38:45] SPEAKER_01
+Last idea.
+
+[00:38:46] SPEAKER_01
+I have this, this one is a video game.
+
+[00:38:48] SPEAKER_01
+Okay.
+
+[00:38:49] SPEAKER_01
+I saw today and I just had this idea today.
+
+[00:38:51] SPEAKER_01
+Uh, I saw today on the, on the regulation subreddit.
+
+[00:38:54] SPEAKER_01
+Somebody mentioned that in, um, feed the beast, which is a, a Minecraft mod, uh, utility
+
+[00:39:02] SPEAKER_01
+I guess would be how you describe it.
+
+[00:39:04] SPEAKER_01
+Uh, there is a rats mod where you can play as rats and have rats all over the game and
+
+[00:39:08] SPEAKER_01
+stuff.
+
+[00:39:09] SPEAKER_01
+And so I was thinking, what if when we finally play Minecraft, we do, but we only play as
+
+[00:39:14] SPEAKER_01
+rats and we only do rat things and we call it rat craft.
+
+[00:39:17] SPEAKER_04
+I mean, I like that as an, I, as a, like, yeah, I want to do that.
+
+[00:39:24] SPEAKER_04
+It's like a one-off.
+
+[00:39:25] SPEAKER_03
+It wouldn't be like a whole series, but yeah, I think that's fun to Minecraft for one time
+
+[00:39:30] SPEAKER_03
+only for rat and it's rats.
+
+[00:39:32] SPEAKER_01
+We play once that, that this concludes, Oh, I have one other idea.
+
+[00:39:37] SPEAKER_01
+I don't think we'll actually do it, but I was thinking it would be fun if you ever,
+
+[00:39:39] SPEAKER_01
+if you guys ever wanted to have a roadside attraction, because I feel like that could
+
+[00:39:42] SPEAKER_01
+be a lot of fun, uh, an area that people haven't really, uh, dove into yet.
+
+[00:39:48] SPEAKER_01
+I think that could be, that could be fun is retractions.
+
+[00:39:51] SPEAKER_01
+You know, like when a newspaper has to run a retraction, what if you had a roadside
+
+[00:39:54] SPEAKER_01
+retractions attraction where it was a roadside attraction that was full of retractions and
+
+[00:39:59] SPEAKER_01
+you would go in it and you would just see all the people, all the things people had to
+
+[00:40:01] SPEAKER_01
+apologize for.
+
+[00:40:03] SPEAKER_01
+That's it.
+
+[00:40:03] SPEAKER_01
+I'm done.
+
+[00:40:04] SPEAKER_01
+What are the retractions about?
+
+[00:40:05] SPEAKER_01
+It's just like anything.
+
+[00:40:06] SPEAKER_01
+It was in the New York times.
+
+[00:40:07] SPEAKER_01
+They had to issue a retraction.
+
+[00:40:08] SPEAKER_01
+It's just all retractions are there.
+
+[00:40:10] SPEAKER_01
+So if you ever wanted to see a retraction, that's the clearing house of all retractions.
+
+[00:40:13] SPEAKER_05
+People are hearing this and probably going like, that's, that's so weird.
+
+[00:40:17] SPEAKER_05
+That's crazy.
+
+[00:40:17] SPEAKER_05
+Whatever.
+
+[00:40:18] SPEAKER_05
+Drive anywhere on route 66 and stop on any of those things.
+
+[00:40:20] SPEAKER_05
+We just saw cars in the ground that you could spray paint.
+
+[00:40:23] SPEAKER_05
+This is no different from that.
+
+[00:40:24] SPEAKER_05
+This is, this is not a bad idea.
+
+[00:40:27] SPEAKER_01
+Yeah.
+
+[00:40:27] SPEAKER_01
+It's, it's no different than the world's largest thermometer.
+
+[00:40:33] SPEAKER_01
+I like all these out in the world ideas.
+
+[00:40:36] SPEAKER_01
+Well, the roadside retractions attraction was just the dumb name idea I had that I had
+
+[00:40:39] SPEAKER_01
+to throw out there because it's been making me giggle for a couple of weeks.
+
+[00:40:42] SPEAKER_01
+But the other, the other things I would actually like to do.
+
+[00:40:45] SPEAKER_01
+It reminds me, Andrew, did you ever find the building?
+
+[00:40:49] SPEAKER_01
+What?
+
+[00:40:49] SPEAKER_01
+Oh no.
+
+[00:40:50] SPEAKER_04
+Still looking.
+
+[00:40:52] SPEAKER_04
+Still looking.
+
+[00:40:52] SPEAKER_04
+I'm still trying to find it.
+
+[00:40:54] SPEAKER_04
+No idea where it is.
+
+[00:40:55] SPEAKER_03
+This is from when Andrew sent me a picture of somewhere in Austin and I had to find
+
+[00:40:59] SPEAKER_03
+where it was and I immediately found it.
+
+[00:41:01] SPEAKER_03
+And then I sent him somewhere in Denimo.
+
+[00:41:03] SPEAKER_05
+Oh.
+
+[00:41:04] SPEAKER_03
+And just a picture of a place that he's still never found it.
+
+[00:41:07] SPEAKER_04
+How long ago was that?
+
+[00:41:09] SPEAKER_04
+Yes, months ago.
+
+[00:41:12] SPEAKER_04
+I happened to pick a coffee shop that he had previously been to.
+
+[00:41:16] SPEAKER_03
+Yeah.
+
+[00:41:17] SPEAKER_03
+You sent me a picture of a building.
+
+[00:41:18] SPEAKER_03
+It didn't say the name, but I recognized it.
+
+[00:41:20] SPEAKER_03
+I was like, oh, that's, that's, that's Halcyon.
+
+[00:41:22] SPEAKER_03
+I went there with whoever.
+
+[00:41:25] SPEAKER_04
+Yeah, still haven't found it.
+
+[00:41:26] SPEAKER_04
+Still looking.
+
+[00:41:27] SPEAKER_05
+You have to update us when you do.
+
+[00:41:29] SPEAKER_04
+Oh, I, listen, it'll be top of my notes.
+
+[00:41:32] SPEAKER_05
+Oh, that's good.
+
+[00:41:32] SPEAKER_05
+Uh, I actually have one thing that, uh, to bring to the table and it's Gavin won't
+
+[00:41:38] SPEAKER_05
+stop sending me voice memos.
+
+[00:41:40] SPEAKER_03
+We found out at dinner on, uh, your small wife's birthday, which is for some reason,
+
+[00:41:44] SPEAKER_03
+also my birthday.
+
+[00:41:45] SPEAKER_03
+We, uh, for some reason I got brought a happy birthday dessert.
+
+[00:41:51] SPEAKER_03
+And so did she.
+
+[00:41:52] SPEAKER_03
+And I was like, oh, my birthday.
+
+[00:41:53] SPEAKER_05
+My wife said that she was so happy that that happened because it wasn't like, she didn't
+
+[00:41:58] SPEAKER_05
+have like all the attention on her.
+
+[00:41:59] SPEAKER_05
+It was like, oh good.
+
+[00:42:00] SPEAKER_05
+Everyone's paying attention to Gavin and like the goofy birthday thing.
+
+[00:42:03] SPEAKER_01
+By the way, that, that fucking place that we went is my favorite restaurant in all of
+
+[00:42:07] SPEAKER_01
+Austin.
+
+[00:42:07] SPEAKER_01
+I love it so much.
+
+[00:42:08] SPEAKER_01
+Although the service was a little all over the map.
+
+[00:42:11] SPEAKER_01
+Uh, I thought Sunday night, but fucking yogurt is not dessert.
+
+[00:42:14] SPEAKER_01
+Thought it was really good.
+
+[00:42:16] SPEAKER_05
+I loved it.
+
+[00:42:16] SPEAKER_05
+I thought it was fantastic.
+
+[00:42:18] SPEAKER_03
+Yucky.
+
+[00:42:18] SPEAKER_03
+But during that meal, Eric let me know that he hates voice memos being sent.
+
+[00:42:23] SPEAKER_03
+Yeah.
+
+[00:42:23] SPEAKER_03
+It's faster for the sender, but slower for the receiver.
+
+[00:42:26] SPEAKER_05
+It is.
+
+[00:42:27] SPEAKER_05
+It's absolutely true.
+
+[00:42:28] SPEAKER_05
+If you're so distracted that you can't type out your thing concisely, that you're just
+
+[00:42:32] SPEAKER_05
+recording a voice note that is like 45 seconds long because you're driving or whatever.
+
+[00:42:38] SPEAKER_05
+Don't bother.
+
+[00:42:39] SPEAKER_05
+Yeah.
+
+[00:42:39] SPEAKER_03
+I've received a lot and I've never sent any, but now I'm sending him.
+
+[00:42:43] SPEAKER_03
+He is sending him to Eric.
+
+[00:42:44] SPEAKER_05
+He's just said, just a slurp of his coffee.
+
+[00:42:48] SPEAKER_05
+Uh, yep.
+
+[00:42:49] SPEAKER_05
+Just out here enjoying some coffee.
+
+[00:42:51] SPEAKER_04
+And it's like, you have any previews?
+
+[00:42:52] SPEAKER_04
+Do you have anything lined up that you could share?
+
+[00:42:55] SPEAKER_03
+I've got, I've got a good, um, response from Eric cause he sent one in reply.
+
+[00:43:05] SPEAKER_04
+None of that came through.
+
+[00:43:08] SPEAKER_05
+None of it came through.
+
+[00:43:09] SPEAKER_03
+I think I said, I hate this.
+
+[00:43:11] SPEAKER_03
+That is, that is correct.
+
+[00:43:12] SPEAKER_05
+Not a fan, but it is the only way that Gavin texts me now.
+
+[00:43:19] SPEAKER_05
+So you sit through it.
+
+[00:43:21] SPEAKER_05
+Also, it's, you can see like, it'll transcribe it, but it won't transcribe all.
+
+[00:43:27] SPEAKER_05
+It says like tap for more or whatever.
+
+[00:43:29] SPEAKER_05
+And then at that point, you're already so, so many steps into this thing that it's just
+
+[00:43:33] SPEAKER_05
+not, none of this is worth it.
+
+[00:43:34] SPEAKER_05
+It's the worst.
+
+[00:43:35] SPEAKER_03
+But now because I don't text Eric that much and I want to send him voice memos, I'm just
+
+[00:43:39] SPEAKER_03
+sending them for no reason.
+
+[00:43:41] SPEAKER_03
+I'm just like sending like little check-ins.
+
+[00:43:43] SPEAKER_03
+I'm just telling about stuff that I would never normally text him.
+
+[00:43:46] SPEAKER_05
+It's so banal.
+
+[00:43:47] SPEAKER_05
+And that's really what the voice memo thing is anyway, is that it's just banal stuff
+
+[00:43:52] SPEAKER_03
+that is to you and not for you.
+
+[00:43:55] SPEAKER_03
+Uh, it probably won't play down the mic, but it's transcribed it.
+
+[00:43:57] SPEAKER_03
+This is when I sent him, Hey man.
+
+[00:43:59] SPEAKER_03
+Yeah.
+
+[00:43:59] SPEAKER_03
+I'm just out with dinner.
+
+[00:44:00] SPEAKER_03
+I'm wondering your thoughts on whether I should get this big guy chocolate cake or
+
+[00:44:05] SPEAKER_03
+not.
+
+[00:44:05] SPEAKER_03
+So I decided, but I figured I'd ask around some friends.
+
+[00:44:09] SPEAKER_03
+Yeah.
+
+[00:44:09] SPEAKER_03
+Cause, uh, one of the desserts at the restaurant I was at was a big guy chocolate cake.
+
+[00:44:13] SPEAKER_03
+So, you know, I'm just checking in.
+
+[00:44:15] SPEAKER_03
+I'm just seeing how he's doing.
+
+[00:44:16] SPEAKER_03
+Did you get it?
+
+[00:44:17] SPEAKER_03
+I didn't.
+
+[00:44:17] SPEAKER_03
+Cause he didn't say anything apart from, I hate this.
+
+[00:44:20] SPEAKER_05
+Yeah.
+
+[00:44:20] SPEAKER_05
+I think I just said, I hate this.
+
+[00:44:21] SPEAKER_05
+I didn't care about the big guy chocolate cake.
+
+[00:44:24] SPEAKER_05
+My wife though, loves it.
+
+[00:44:26] SPEAKER_05
+My wife thinks this is hilarious.
+
+[00:44:28] SPEAKER_05
+She keeps telling me what to say back to Gavin and I just keep going.
+
+[00:44:31] SPEAKER_05
+I don't want to incur like, I don't want, I tried like once.
+
+[00:44:34] SPEAKER_05
+And then I just went, this is not for me.
+
+[00:44:36] SPEAKER_05
+I don't want to encourage this.
+
+[00:44:37] SPEAKER_05
+What did she want you to say to me?
+
+[00:44:39] SPEAKER_05
+I, I don't remember what it was or what, cause you've sent me a bunch of voice memos and she
+
+[00:44:45] SPEAKER_05
+has heard them.
+
+[00:44:46] SPEAKER_05
+And then she would be like, Oh, say this.
+
+[00:44:47] SPEAKER_05
+And I'm like, I don't remember what it is.
+
+[00:44:48] SPEAKER_05
+And it's just like, no, I don't want to encourage this behavior.
+
+[00:44:51] SPEAKER_05
+This is terrible.
+
+[00:44:52] SPEAKER_04
+I think you two should have to communicate exclusively via walkie talkie for like a week.
+
+[00:45:00] SPEAKER_04
+I think you both need walkie talkies.
+
+[00:45:02] SPEAKER_04
+And that's the only way you can talk to each other.
+
+[00:45:04] SPEAKER_03
+Hmm.
+
+[00:45:05] SPEAKER_03
+You don't have to be as concise though.
+
+[00:45:06] SPEAKER_03
+I don't have to do it all as big, one big long take.
+
+[00:45:09] SPEAKER_04
+No, but I think it's funny for you to just be able to, to like buzz in.
+
+[00:45:12] SPEAKER_04
+Like you guys get your code names, whatever your trucker names are, use those.
+
+[00:45:17] SPEAKER_03
+What is, what's the range on a walkie talkie?
+
+[00:45:19] SPEAKER_04
+I'm sure you could get a, a ridiculously long range one.
+
+[00:45:22] SPEAKER_03
+Maybe we should get into ham radio.
+
+[00:45:24] SPEAKER_03
+Oh, you can go across the fucking globe in ham radio.
+
+[00:45:28] SPEAKER_03
+Yeah.
+
+[00:45:28] SPEAKER_03
+You'd bounce it off the atmosphere.
+
+[00:45:30] SPEAKER_05
+Let's see what some long range walkie talkies go for, but long range is like, what is long
+
+[00:45:35] SPEAKER_05
+range?
+
+[00:45:35] SPEAKER_01
+I have no idea, man, $400 will get you to walkie talkie.
+
+[00:45:41] SPEAKER_01
+Oh my God.
+
+[00:45:41] SPEAKER_01
+They're normally a thousand dollars, but, but everyone's saying like, it's a pretty
+
+[00:45:46] SPEAKER_01
+unlimited range.
+
+[00:45:47] SPEAKER_01
+What does that mean?
+
+[00:45:49] SPEAKER_01
+Unlimited range.
+
+[00:45:51] SPEAKER_05
+Yeah.
+
+[00:45:51] SPEAKER_05
+I believe that.
+
+[00:45:52] SPEAKER_01
+I don't believe that at all.
+
+[00:45:53] SPEAKER_01
+Unlimited distance, unlimited use nationwide.
+
+[00:45:56] SPEAKER_01
+I think it's just a phone.
+
+[00:45:57] SPEAKER_05
+I have a 50 foot ham.
+
+[00:46:00] SPEAKER_05
+I have a 50 foot ham tower that gives me about 13 miles of range with these walkie talkies
+
+[00:46:05] SPEAKER_05
+around the house.
+
+[00:46:06] SPEAKER_05
+What the fuck?
+
+[00:46:11] SPEAKER_05
+You have a, what?
+
+[00:46:13] SPEAKER_03
+Let's get into ham towers.
+
+[00:46:14] SPEAKER_05
+I don't want to get into ham towers.
+
+[00:46:17] SPEAKER_01
+We're in a different ham zone, but we're back in the ham zone.
+
+[00:46:20] SPEAKER_01
+I love it.
+
+[00:46:21] SPEAKER_05
+We're the return to the ham zone.
+
+[00:46:23] SPEAKER_01
+We're a whole different kind of ham fandom.
+
+[00:46:27] SPEAKER_01
+Wow.
+
+[00:46:28] SPEAKER_01
+Maybe that's what the ham was about.
+
+[00:46:31] SPEAKER_01
+Oh, ham fan?
+
+[00:46:32] SPEAKER_01
+Yeah.
+
+[00:46:32] SPEAKER_01
+Could have been a radio fan, not a Hamilton fan.
+
+[00:46:37] SPEAKER_03
+Yeah.
+
+[00:46:38] SPEAKER_03
+I'd be willing to, if we could get the range, I would do the walkie talkie fan.
+
+[00:46:42] SPEAKER_04
+I just think it's funny.
+
+[00:46:44] SPEAKER_04
+For how long?
+
+[00:46:44] SPEAKER_04
+A week?
+
+[00:46:44] SPEAKER_01
+Like, yeah.
+
+[00:46:46] SPEAKER_04
+You have to, the buzz whenever.
+
+[00:46:48] SPEAKER_04
+It's more intrusive, I feel like.
+
+[00:46:51] SPEAKER_05
+I don't want to do that.
+
+[00:46:53] SPEAKER_05
+Thank you.
+
+[00:46:53] SPEAKER_04
+Because it's a live thing.
+
+[00:46:54] SPEAKER_04
+More intrusive than a phone?
+
+[00:46:55] SPEAKER_04
+Yeah, I think so.
+
+[00:46:56] SPEAKER_04
+Because the message there isn't implied, like, you can get to it when you get to it.
+
+[00:46:59] SPEAKER_04
+Where you're just, you're just demanding that Eric respond in this moment to help you
+
+[00:47:04] SPEAKER_04
+with your cake decision.
+
+[00:47:06] SPEAKER_03
+Oh, I got a voice message from Eric.
+
+[00:47:07] SPEAKER_03
+Oh, you did?
+
+[00:47:08] SPEAKER_03
+I'll see if it, I'll see if it plays through.
+
+[00:47:10] SPEAKER_05
+I don't want to do that.
+
+[00:47:13] SPEAKER_05
+Thank you.
+
+[00:47:15] SPEAKER_04
+Now, is that the ham radio or just radios in general there?
+
+[00:47:19] SPEAKER_03
+I assume all of this.
+
+[00:47:20] SPEAKER_04
+All of it?
+
+[00:47:21] SPEAKER_04
+All of it?
+
+[00:47:22] SPEAKER_04
+Gavin is, Gavin is right.
+
+[00:47:23] SPEAKER_01
+You know, I got to say, though, that's a great way to communicate because I feel like I can
+
+[00:47:29] SPEAKER_01
+understand Eric more here because of the inflection.
+
+[00:47:33] SPEAKER_01
+I'm not just having to interpret the text.
+
+[00:47:35] SPEAKER_01
+Yeah.
+
+[00:47:35] SPEAKER_05
+Right, right.
+
+[00:47:36] SPEAKER_05
+But that was a quick, that one was a, what, a three-second thing.
+
+[00:47:39] SPEAKER_05
+Gavin is sending me stuff that's like 25 seconds plus and you're trapped.
+
+[00:47:44] SPEAKER_05
+If I could, like, skip through or fast forward or whatever, then at least there's something
+
+[00:47:48] SPEAKER_05
+there.
+
+[00:47:48] SPEAKER_05
+And also, it's about nothing.
+
+[00:47:50] SPEAKER_05
+There's the difference.
+
+[00:47:51] SPEAKER_05
+It's about big guy chocolate cake.
+
+[00:47:52] SPEAKER_01
+There's the difference, Eric.
+
+[00:47:54] SPEAKER_01
+You might be trapped, but I hang on his every word.
+
+[00:47:58] SPEAKER_05
+Go sit in his lap and shit.
+
+[00:48:02] SPEAKER_03
+What if I send the messages directly to your small wife and she can relay any important
+
+[00:48:08] SPEAKER_03
+info to you?
+
+[00:48:08] SPEAKER_05
+Why don't you go ahead and do that?
+
+[00:48:11] SPEAKER_03
+I'm scared.
+
+[00:48:12] SPEAKER_05
+Yeah.
+
+[00:48:12] SPEAKER_05
+You're going to be texting my wife voice messages.
+
+[00:48:17] SPEAKER_05
+I'm too scared.
+
+[00:48:17] SPEAKER_05
+Hey, so what have you guys been up to?
+
+[00:48:18] SPEAKER_05
+Gavin's been sending my wife a lot of voice memos.
+
+[00:48:24] SPEAKER_04
+Maybe we need to add a Slack channel that's just voice memos.
+
+[00:48:29] SPEAKER_01
+It's terrible.
+
+[00:48:31] SPEAKER_01
+Oh, man.
+
+[00:48:31] SPEAKER_01
+We found out that our fart channel got archived.
+
+[00:48:33] SPEAKER_01
+A lot of farts are gone.
+
+[00:48:35] SPEAKER_01
+That's a bummer.
+
+[00:48:36] SPEAKER_01
+Did it?
+
+[00:48:36] SPEAKER_04
+Slack is holding Jeff's farts hostage.
+
+[00:48:39] SPEAKER_01
+Our farts went behind the paywall.
+
+[00:48:41] SPEAKER_01
+Yeah.
+
+[00:48:42] SPEAKER_01
+Because they're over 90 days old.
+
+[00:48:43] SPEAKER_01
+Yeah.
+
+[00:48:44] SPEAKER_04
+You're supposed to pay for Slack and we just don't.
+
+[00:48:46] SPEAKER_04
+There is a premium, yeah, paid for version of Slack and then the free version.
+
+[00:48:51] SPEAKER_04
+And when I went to film something, I thought I could pull Jeff's farts and nothing was there.
+
+[00:48:56] SPEAKER_04
+And so I texted him.
+
+[00:48:57] SPEAKER_04
+Did you delete all your where did the farts go?
+
+[00:48:59] SPEAKER_04
+Andrew was like, why did you delete all your why did you do this?
+
+[00:49:03] SPEAKER_01
+Like very accusatory.
+
+[00:49:04] SPEAKER_04
+And I was like, what?
+
+[00:49:05] SPEAKER_04
+Well, I just assumed that if anyone were going to delete that, like I just did.
+
+[00:49:09] SPEAKER_04
+Why would I ever?
+
+[00:49:10] SPEAKER_04
+I don't know.
+
+[00:49:10] SPEAKER_04
+That's why I was asking.
+
+[00:49:12] SPEAKER_04
+And then it just sent me a screenshot.
+
+[00:49:15] SPEAKER_04
+I didn't have it on my display of them saying that after like 30 or whatever, however many
+
+[00:49:19] SPEAKER_04
+days it archives it.
+
+[00:49:21] SPEAKER_04
+It's not permanently gone.
+
+[00:49:22] SPEAKER_04
+If I pay for Slack now, they will reappear.
+
+[00:49:26] SPEAKER_04
+So they're holding Jeff's farts hostage.
+
+[00:49:28] SPEAKER_04
+I think it's so funny.
+
+[00:49:30] SPEAKER_01
+I was able to find the farts on my phone and send them to him.
+
+[00:49:33] SPEAKER_01
+And I was actually kind of happy because when I did, I remembered I had completely forgotten
+
+[00:49:37] SPEAKER_01
+that right before I stopped recording, I had started recording all my diarrhea as well.
+
+[00:49:40] SPEAKER_01
+And man, those are some sounds.
+
+[00:49:42] SPEAKER_01
+Oh, yeah.
+
+[00:49:42] SPEAKER_01
+Why are you recording diarrhea?
+
+[00:49:44] SPEAKER_01
+I don't know.
+
+[00:49:45] SPEAKER_01
+I don't know.
+
+[00:49:45] SPEAKER_01
+I don't know.
+
+[00:49:46] SPEAKER_01
+That's genuinely repulsive.
+
+[00:49:47] SPEAKER_01
+I don't know.
+
+[00:49:47] SPEAKER_01
+It was pretty gross, right?
+
+[00:49:49] SPEAKER_01
+I don't know what the point of that was, but I did it.
+
+[00:49:52] SPEAKER_01
+And I got a bunch of them.
+
+[00:49:53] SPEAKER_01
+I feel like.
+
+[00:49:54] SPEAKER_01
+Where are you holding the phone during that?
+
+[00:49:57] SPEAKER_01
+Just out in front of me.
+
+[00:49:58] SPEAKER_01
+Like if I was reading it.
+
+[00:49:59] SPEAKER_01
+Yeah.
+
+[00:50:00] SPEAKER_01
+Do you think I'm like wedging it down into the toilet to get like superior sound?
+
+[00:50:03] SPEAKER_01
+No.
+
+[00:50:04] SPEAKER_01
+Yes.
+
+[00:50:05] SPEAKER_05
+Yes, I did think that.
+
+[00:50:06] SPEAKER_01
+I think it's because my, my shits are so loud that I can have a shit upstairs and Emily
+
+[00:50:13] SPEAKER_01
+can hear it in the front yard.
+
+[00:50:14] SPEAKER_01
+Like it is.
+
+[00:50:15] SPEAKER_01
+Why don't you put your phone in the front yard and we'll see if that's true.
+
+[00:50:18] SPEAKER_01
+We can do that.
+
+[00:50:18] SPEAKER_01
+We can absolutely do that.
+
+[00:50:20] SPEAKER_01
+See how loud my shits are.
+
+[00:50:22] SPEAKER_01
+Yeah, we could do that.
+
+[00:50:23] SPEAKER_01
+I can play some for you right now.
+
+[00:50:24] SPEAKER_01
+It's very loud.
+
+[00:50:25] SPEAKER_05
+No, it's good.
+
+[00:50:25] SPEAKER_05
+We're good.
+
+[00:50:26] SPEAKER_05
+No, I mean, we'll, we'll just, we'll just test it with like the experiment later.
+
+[00:50:29] SPEAKER_05
+Yeah.
+
+[00:50:29] SPEAKER_05
+You don't need to send it.
+
+[00:50:30] SPEAKER_05
+You sure?
+
+[00:50:31] SPEAKER_05
+Cause I got positive.
+
+[00:50:32] SPEAKER_05
+I got plenty.
+
+[00:50:32] SPEAKER_05
+No, we're sure.
+
+[00:50:33] SPEAKER_04
+Thanks.
+
+[00:50:34] SPEAKER_01
+Okay.
+
+[00:50:35] SPEAKER_04
+I needed the, the Jeff farts for a video that we filmed in the quiet place game.
+
+[00:50:41] SPEAKER_04
+I got a code for it and I'd been playing it and they had a feature where you can make, uh,
+
+[00:50:45] SPEAKER_04
+use your mic to capture your environmental audio, doing testing of different things that
+
+[00:50:51] SPEAKER_04
+you wouldn't see in the movie, but are very much a part of day to day life.
+
+[00:50:55] SPEAKER_04
+And, uh, I've been playing that game a lot.
+
+[00:50:57] SPEAKER_04
+That's a really fun game.
+
+[00:50:58] SPEAKER_04
+I was surprised by how tense it was for me as somebody who had like seen the movies.
+
+[00:51:05] SPEAKER_04
+I think it's almost the best thing you could say about a licensed game where it has changed
+
+[00:51:09] SPEAKER_04
+my view of those films.
+
+[00:51:11] SPEAKER_04
+Like it has made me so much more invested and feel so much more intense for the characters
+
+[00:51:15] SPEAKER_04
+because it is, it's tough to be quiet.
+
+[00:51:18] SPEAKER_03
+Should we try a, a, a let's play in it?
+
+[00:51:20] SPEAKER_03
+Oh, that'd be fun.
+
+[00:51:22] SPEAKER_03
+Yeah.
+
+[00:51:22] SPEAKER_03
+It might be fun to kind of do what we did and have, have all of our discord audio be
+
+[00:51:26] SPEAKER_03
+coming through.
+
+[00:51:27] SPEAKER_03
+So we all have to be quiet.
+
+[00:51:28] SPEAKER_04
+Well, the problem with it, I originally thought, Oh, I'll do a let's play, but I ended up getting
+
+[00:51:33] SPEAKER_04
+so into character.
+
+[00:51:34] SPEAKER_04
+I just wasn't talking.
+
+[00:51:35] SPEAKER_04
+Like I was in a group call with some people while playing it and I just could not speak
+
+[00:51:40] SPEAKER_04
+because I was like, I got to be fucking quiet, even though it couldn't pick up my voice.
+
+[00:51:44] SPEAKER_04
+It's just so.
+
+[00:51:44] SPEAKER_03
+To be fair, you did the same in tombstone tally.
+
+[00:51:46] SPEAKER_04
+Well, we were all doing it tombstone.
+
+[00:51:48] SPEAKER_03
+I like the idea that we could, we could only really have conversations by waterfalls and
+
+[00:51:52] SPEAKER_03
+stuff.
+
+[00:51:54] SPEAKER_04
+What a little talk sound, a little hide and speak.
+
+[00:51:56] SPEAKER_04
+If you will, I'm going to share my screen for a minute.
+
+[00:51:59] SPEAKER_04
+I have a clip for when I was playing it.
+
+[00:52:01] SPEAKER_04
+I thought I was the smartest person in the world for a moment.
+
+[00:52:08] SPEAKER_04
+And it went very much against me.
+
+[00:52:10] SPEAKER_04
+So I'm sharing my screen.
+
+[00:52:11] SPEAKER_04
+So you're trying to be sneaky.
+
+[00:52:13] SPEAKER_04
+It is the whole thing of like, you're just trying to avoid these aliens as quiet as possible.
+
+[00:52:18] SPEAKER_04
+And I was in, I was in a real bad situation where you have these moments where you get
+
+[00:52:23] SPEAKER_04
+these planks and you have to lay them down.
+
+[00:52:26] SPEAKER_04
+This is the first time I'd used a plank.
+
+[00:52:29] SPEAKER_04
+So there is a, the alien is following me around to give context of this clip and I'll explain
+
+[00:52:34] SPEAKER_04
+it while I'm walking through.
+
+[00:52:35] SPEAKER_04
+So I'm holding this plank and the alien is close by.
+
+[00:52:38] SPEAKER_04
+And I'm like, I just got to get across here and then I'll checkpoint and some walk in
+
+[00:52:44] SPEAKER_04
+and I see, I've never placed one before.
+
+[00:52:46] SPEAKER_04
+I place it.
+
+[00:52:47] SPEAKER_04
+You have to slowly do it.
+
+[00:52:49] SPEAKER_04
+So it doesn't make noise.
+
+[00:52:50] SPEAKER_04
+It doesn't just flomp.
+
+[00:52:51] SPEAKER_04
+I turn around.
+
+[00:52:51] SPEAKER_04
+The aliens right fucking there.
+
+[00:52:53] SPEAKER_04
+And I'm like, Oh God.
+
+[00:52:54] SPEAKER_04
+And I thought you clicked a to go across, but that's how you reset it.
+
+[00:52:57] SPEAKER_04
+So then I had to place it again and I'm slowly bringing it down and then I turn and
+
+[00:53:03] SPEAKER_04
+I'm like, I want to move, but the aliens right there and I make noise every step.
+
+[00:53:07] SPEAKER_04
+What do I do?
+
+[00:53:07] SPEAKER_04
+What do I fuck?
+
+[00:53:08] SPEAKER_04
+Oh, he's looking at me.
+
+[00:53:09] SPEAKER_04
+And I'm like, I'll just get on the beam.
+
+[00:53:11] SPEAKER_04
+So that way he can't get me.
+
+[00:53:13] SPEAKER_04
+I'm just going to, I'm going to stand here and I'll wait for him to leave while I just
+
+[00:53:16] SPEAKER_04
+hang out on this beam.
+
+[00:53:17] SPEAKER_04
+Oh, I fucking broke.
+
+[00:53:18] SPEAKER_04
+You can't just stand on the beam is what I thought beam breaks the beam breaks.
+
+[00:53:24] SPEAKER_04
+Oh, it's all of, I was just clipping nonstop on me shitting myself playing this game every
+
+[00:53:32] SPEAKER_04
+time I'd have an interaction.
+
+[00:53:34] SPEAKER_04
+This is my first one where I'm just like walking through, trying to be all sneaky, just looking
+
+[00:53:40] SPEAKER_04
+at my bar.
+
+[00:53:41] SPEAKER_04
+You can see how much noise you're making in contrast to the world around you.
+
+[00:53:44] SPEAKER_04
+And I'm like, okay, everything's all good.
+
+[00:53:47] SPEAKER_04
+And it's the fucking right.
+
+[00:53:49] SPEAKER_04
+Oh my God.
+
+[00:53:50] SPEAKER_04
+Holy shit.
+
+[00:53:53] SPEAKER_04
+It is just terrifying.
+
+[00:53:54] SPEAKER_04
+Cause you don't like in the movie, I never think about the idea of like, if you end up
+
+[00:53:57] SPEAKER_04
+next to one of these things, what do you do?
+
+[00:53:59] SPEAKER_04
+You just kind of stuck.
+
+[00:54:00] SPEAKER_04
+You can't move.
+
+[00:54:02] SPEAKER_04
+Cause you make noise.
+
+[00:54:03] SPEAKER_01
+Your lungs aren't looking good.
+
+[00:54:05] SPEAKER_04
+No, it's real bad.
+
+[00:54:06] SPEAKER_04
+You play as an asthmatic pregnant woman, which is a deadly combo for a quiet place scenario.
+
+[00:54:14] SPEAKER_04
+Just tiptoeing.
+
+[00:54:14] SPEAKER_04
+But, uh, we're going to have a, almost like a thing type thing coming out for that.
+
+[00:54:20] SPEAKER_04
+It'll be up by the time this comes out.
+
+[00:54:21] SPEAKER_03
+If you want to see the video of that, the, the, uh, the YouTube version will have it
+
+[00:54:25] SPEAKER_03
+in.
+
+[00:54:26] SPEAKER_04
+Yes.
+
+[00:54:26] SPEAKER_03
+If you're listening.
+
+[00:54:28] SPEAKER_04
+Um, that's not the only gaming thing.
+
+[00:54:31] SPEAKER_04
+You mind, uh, if I pivot to another game, Jeff, you were part of this.
+
+[00:54:37] SPEAKER_04
+I was, uh, I was playing sea of thieves, having a good time by myself, just relaxing, doing
+
+[00:54:46] SPEAKER_04
+some chess, getting up some loot and treasure.
+
+[00:54:48] SPEAKER_04
+And, uh, I got boarded by two people who were dicks and they killed, they just kept killing
+
+[00:54:53] SPEAKER_04
+me over and over again.
+
+[00:54:54] SPEAKER_04
+And I noticed a ship on a different Island.
+
+[00:54:57] SPEAKER_04
+And I thought, I'll avoid that.
+
+[00:54:58] SPEAKER_04
+I don't want to fight.
+
+[00:54:59] SPEAKER_04
+They had, I guess, cannibald or like rowboated to where I was and just hit in my boat.
+
+[00:55:05] SPEAKER_04
+And then when I went to leave, they just started killing me.
+
+[00:55:07] SPEAKER_04
+And their plan was to steer my boat back to their boat to sink me and then steal all my
+
+[00:55:13] SPEAKER_04
+stuff.
+
+[00:55:14] SPEAKER_04
+But at the last minute I killed them and I took control of my boat again and I escaped.
+
+[00:55:19] SPEAKER_04
+Then another ship showed up and started attacking them, sunk them.
+
+[00:55:24] SPEAKER_04
+And I thought, this is great.
+
+[00:55:25] SPEAKER_04
+I can now just get rid of all my stuff and sell it.
+
+[00:55:27] SPEAKER_04
+They happened to spawn in the path of where I needed to go.
+
+[00:55:31] SPEAKER_04
+So then we started a whole new chase and they were just trying to shoot me.
+
+[00:55:34] SPEAKER_04
+They were like clearly very experienced in this game.
+
+[00:55:36] SPEAKER_04
+And so I pulled up my recent players.
+
+[00:55:39] SPEAKER_04
+I recognize one of the names.
+
+[00:55:41] SPEAKER_04
+And once again, great feature at Xbox.
+
+[00:55:44] SPEAKER_04
+You can link your Twitch account to your profile.
+
+[00:55:47] SPEAKER_04
+And if they do that, you can open their Twitch.
+
+[00:55:50] SPEAKER_04
+And so I opened the Twitch and it was, they were streaming their perspective of chasing me.
+
+[00:55:55] SPEAKER_04
+And so I tweeted out, Hey, these guys are chasing me.
+
+[00:56:00] SPEAKER_04
+It's real.
+
+[00:56:01] SPEAKER_04
+Like this isn't going great.
+
+[00:56:02] SPEAKER_04
+Go watch if you want.
+
+[00:56:03] SPEAKER_04
+And then their chat went from, they had two people in their stream.
+
+[00:56:08] SPEAKER_04
+It was the guy who was streaming himself watching and his friend who was playing with him watching.
+
+[00:56:13] SPEAKER_04
+And they suddenly spiked to a hundred viewers and they didn't know why.
+
+[00:56:17] SPEAKER_04
+And they started freaking out as to why.
+
+[00:56:19] SPEAKER_04
+It was also very funny where I was messing with them and he was the most upset streamer I've ever heard.
+
+[00:56:25] SPEAKER_04
+He was cursing and like punching the wall and be like, this fucking bullshit.
+
+[00:56:29] SPEAKER_04
+This is the worst fucking thing.
+
+[00:56:30] SPEAKER_04
+And then all these people showed up and they were like, Oh, hey, hey, there are people here.
+
+[00:56:35] SPEAKER_04
+Whoa.
+
+[00:56:35] SPEAKER_04
+I get raided by somebody and they didn't know how to react.
+
+[00:56:39] SPEAKER_04
+They were losing their minds about it.
+
+[00:56:41] SPEAKER_04
+And the chat was so fucking funny where nobody was revealing where they came from, but they were making all sorts of references to the podcast.
+
+[00:56:48] SPEAKER_04
+They're like, this is a regulation stream and all that type of thing.
+
+[00:56:52] SPEAKER_04
+And they had no clue what was going on.
+
+[00:56:55] SPEAKER_04
+And so I texted Gavin saying, like, I need help because I was trying to accomplish something and I really needed a second hand on deck.
+
+[00:57:05] SPEAKER_04
+And I know Gavin has never had one of these moments in that game.
+
+[00:57:09] SPEAKER_04
+So I thought, oh, it'd be great to let Gavin see this side of this game that he hasn't seen before.
+
+[00:57:14] SPEAKER_04
+Gavin was busy.
+
+[00:57:15] SPEAKER_04
+So then I went to the Slack and said, is anyone around?
+
+[00:57:18] SPEAKER_04
+And Jeff was kind enough to hop on and help with this this getaway, which was perfect, because I I did a thing that allowed me to go into a part of the map that you can only go to if you do that thing.
+
+[00:57:31] SPEAKER_04
+And they did not know that you had to manually activate it.
+
+[00:57:35] SPEAKER_04
+So they went to swap over to do what I was doing and it would not work for them.
+
+[00:57:40] SPEAKER_04
+And so they they got sunk all while yelling about it.
+
+[00:57:43] SPEAKER_04
+And it was it was great trolling.
+
+[00:57:46] SPEAKER_04
+And then we had to try to escape.
+
+[00:57:47] SPEAKER_04
+The problem when all the people joined is they became way more committed to sinking me.
+
+[00:57:52] SPEAKER_04
+It was like, oh, they're never going to stop.
+
+[00:57:53] SPEAKER_04
+They're just going to continue to chase.
+
+[00:57:56] SPEAKER_04
+And so I said, Jeff, take the wheel and go west.
+
+[00:57:59] SPEAKER_04
+And Jeff, you there's no fault of your own.
+
+[00:58:02] SPEAKER_04
+I did not know Jeff had never steered the boat before.
+
+[00:58:04] SPEAKER_04
+So the first question Jeff said was, how do I tell which way is west?
+
+[00:58:09] SPEAKER_04
+And there's a compass right next to the wheel that tells you what direction you're going in.
+
+[00:58:12] SPEAKER_01
+Figured it out immediately.
+
+[00:58:13] SPEAKER_04
+Yeah.
+
+[00:58:17] SPEAKER_04
+And then you said, I think you misinterpreted the wind.
+
+[00:58:20] SPEAKER_04
+It was a whole thing.
+
+[00:58:21] SPEAKER_04
+But it's like, oh, boy, we are.
+
+[00:58:23] SPEAKER_04
+This is an inexperienced crew for this scenario.
+
+[00:58:26] SPEAKER_04
+It's not great.
+
+[00:58:27] SPEAKER_01
+And unfortunately, misinterpret the way.
+
+[00:58:30] SPEAKER_01
+I don't even know what he's talking about there.
+
+[00:58:31] SPEAKER_04
+I don't.
+
+[00:58:32] SPEAKER_04
+You said, like, how do I?
+
+[00:58:34] SPEAKER_04
+I don't remember.
+
+[00:58:35] SPEAKER_04
+It was a small detail, but it was you.
+
+[00:58:37] SPEAKER_04
+I think we were on voice.
+
+[00:58:39] SPEAKER_03
+We on voice chat talking.
+
+[00:58:41] SPEAKER_03
+We were on discord.
+
+[00:58:41] SPEAKER_04
+Yeah, we were.
+
+[00:58:42] SPEAKER_04
+No, yeah.
+
+[00:58:42] SPEAKER_04
+We're talking back and forth.
+
+[00:58:44] SPEAKER_04
+And I sent Jeff a link to the stream so he could hear what they were saying.
+
+[00:58:48] SPEAKER_04
+They wanted me banned for stream sniper.
+
+[00:58:51] SPEAKER_04
+They were not because I was in their chat saying, like, hey, maybe you should let this
+
+[00:58:54] SPEAKER_04
+guy go.
+
+[00:58:56] SPEAKER_04
+Maybe this isn't worth it.
+
+[00:58:58] SPEAKER_04
+Maybe you should just let them escape.
+
+[00:59:00] SPEAKER_01
+They eventually killed us.
+
+[00:59:01] SPEAKER_01
+But they eventually.
+
+[00:59:02] SPEAKER_04
+Yeah, we did not.
+
+[00:59:04] SPEAKER_04
+We did not last long beyond sinking them in that one instance.
+
+[00:59:08] SPEAKER_01
+I'm not much help in a fight in a game I haven't played since the last time we recorded
+
+[00:59:11] SPEAKER_01
+in it, which would have been.
+
+[00:59:13] SPEAKER_01
+Yeah.
+
+[00:59:13] SPEAKER_01
+Rooster teeth went under, I think.
+
+[00:59:15] SPEAKER_03
+I think I'm the same way, though.
+
+[00:59:16] SPEAKER_03
+You know, I don't think I've ever driven the boat.
+
+[00:59:19] SPEAKER_04
+I just never considered it.
+
+[00:59:20] SPEAKER_04
+It was very funny to be like, OK, Jeff, you take the wheel.
+
+[00:59:23] SPEAKER_04
+I was weird.
+
+[00:59:24] SPEAKER_01
+I was like, I've literally never.
+
+[00:59:26] SPEAKER_01
+I mean, I'm surely I have for like one second before, but I've whenever I play with the
+
+[00:59:30] SPEAKER_01
+Burndog and Antonio, Antonio is always the captain.
+
+[00:59:32] SPEAKER_01
+And whenever I play with y'all, Andrew's always the captain.
+
+[00:59:35] SPEAKER_01
+So I just never come up.
+
+[00:59:37] SPEAKER_04
+Yeah, it's funny.
+
+[00:59:38] SPEAKER_04
+But it was so I think it's the thing I'm going to do whenever anybody's chasing me and
+
+[00:59:43] SPEAKER_04
+I notice they happen to be streaming.
+
+[00:59:44] SPEAKER_04
+Is it so funny to see the reaction change and how they adjust?
+
+[00:59:48] SPEAKER_04
+I was hoping it would kind of throw them off, which it did initially.
+
+[00:59:52] SPEAKER_04
+But that was great.
+
+[00:59:54] SPEAKER_04
+It was a lot of fun.
+
+[00:59:55] SPEAKER_03
+After you messaged me, I reinstalled Sea of Thieves.
+
+[00:59:58] SPEAKER_03
+Great.
+
+[00:59:59] SPEAKER_03
+Just in case I was able to jump in again.
+
+[01:00:01] SPEAKER_03
+And then today, Call of Duty needed like a 300 gig update.
+
+[01:00:04] SPEAKER_03
+So I deleted it.
+
+[01:00:05] SPEAKER_01
+Dude, I wish you wouldn't.
+
+[01:00:06] SPEAKER_01
+They just released a big update to Sea of Thieves that we should play.
+
+[01:00:10] SPEAKER_01
+I need to get a bigger storage.
+
+[01:00:12] SPEAKER_04
+How do you want to shit on us for not having a bigger storage?
+
+[01:00:14] SPEAKER_04
+You're constantly shitting on us for not having enough space.
+
+[01:00:17] SPEAKER_05
+What a great turn near the end of the episode that this just took.
+
+[01:00:21] SPEAKER_05
+This is fantastic.
+
+[01:00:21] SPEAKER_01
+I just went out and bought a two terabyte fucking drive because Gavin shit on me in an episode
+
+[01:00:25] SPEAKER_01
+like three weeks ago.
+
+[01:00:26] SPEAKER_03
+Mine's one terabyte, but I had to delete Fallout and...
+
+[01:00:30] SPEAKER_03
+Well, we're not going to use Fallout.
+
+[01:00:31] SPEAKER_03
+That's fine.
+
+[01:00:32] SPEAKER_03
+Yeah.
+
+[01:00:33] SPEAKER_03
+And Sea of Thieves.
+
+[01:00:34] SPEAKER_03
+Reinstall Sea of Thieves.
+
+[01:00:35] SPEAKER_03
+I just need more time to properly consider what to delete.
+
+[01:00:38] SPEAKER_03
+Yeah, I just did it quickly because we were going to play.
+
+[01:00:40] SPEAKER_01
+I understand.
+
+[01:00:42] SPEAKER_01
+But they just released like a trolling update, which is cool.
+
+[01:00:45] SPEAKER_04
+They did.
+
+[01:00:45] SPEAKER_04
+But this man always shitting on us deleting stuff.
+
+[01:00:49] SPEAKER_04
+He's deleting stuff.
+
+[01:00:50] SPEAKER_04
+He's just quietly deleting.
+
+[01:00:52] SPEAKER_03
+Well, I couldn't exactly be...
+
+[01:00:54] SPEAKER_03
+I'm going to get a bigger storage, but that wouldn't help me today when we needed to
+
+[01:00:57] SPEAKER_03
+play the other game.
+
+[01:00:59] SPEAKER_01
+Interesting.
+
+[01:01:00] SPEAKER_01
+I feel like that wouldn't fly if you were on the other end of this conversation right
+
+[01:01:03] SPEAKER_01
+now.
+
+[01:01:05] SPEAKER_04
+Interesting.
+
+[01:01:06] SPEAKER_01
+I feel like that wouldn't be a good enough...
+
+[01:01:07] SPEAKER_01
+I feel like Gavin would hit back with a...
+
+[01:01:09] SPEAKER_01
+But we need the space today.
+
+[01:01:12] SPEAKER_01
+Or one of those snarky comments.
+
+[01:01:12] SPEAKER_01
+Take the hard drive with you.
+
+[01:01:13] SPEAKER_01
+Snarky comments.
+
+[01:01:14] SPEAKER_01
+Yeah.
+
+[01:01:14] SPEAKER_01
+It's a portable drive.
+
+[01:01:16] SPEAKER_03
+I may have snarked it.
+
+[01:01:17] SPEAKER_03
+I think it's also a bit of a bummer that if you upgrade from one terabyte to two terabytes,
+
+[01:01:22] SPEAKER_03
+you can't...
+
+[01:01:22] SPEAKER_03
+It's not three.
+
+[01:01:23] SPEAKER_03
+You just have to...
+
+[01:01:24] SPEAKER_03
+You have to take out the one and then go to you.
+
+[01:01:27] SPEAKER_01
+It really does suck.
+
+[01:01:28] SPEAKER_99
+I agree.
+
+[01:01:30] SPEAKER_03
+Oh, got a voice memo, I think.
+
+[01:01:32] SPEAKER_05
+Oh, you did?
+
+[01:01:32] SPEAKER_05
+Oh, gosh.
+
+[01:01:33] SPEAKER_05
+Hey, man, I think they got you on this one.
+
+[01:01:35] SPEAKER_05
+Sorry.
+
+[01:01:37] SPEAKER_05
+No, I was just agreeing with you guys and letting Gavin know that he got got.
+
+[01:01:41] SPEAKER_05
+Oh, can I leave voice memos on Slack?
+
+[01:01:44] SPEAKER_04
+Yeah, I can.
+
+[01:01:45] SPEAKER_02
+Oh, shit.
+
+[01:01:46] SPEAKER_04
+Oh, shit.
+
+[01:01:48] SPEAKER_04
+Are you guys getting in a huddle?
+
+[01:01:50] SPEAKER_04
+Oh, no.
+
+[01:01:51] SPEAKER_04
+That's a whole other thing.
+
+[01:01:52] SPEAKER_04
+I love to huddle up, though.
+
+[01:01:53] SPEAKER_04
+Great music in the huddle.
+
+[01:01:55] SPEAKER_04
+Andrew made a voice...
+
+[01:01:56] SPEAKER_04
+Oh, can I play this?
+
+[01:01:57] SPEAKER_04
+I mean, it's just what I said, but yeah.
+
+[01:01:59] SPEAKER_04
+You heard the memo.
+
+[01:02:00] SPEAKER_04
+Oh, can I leave voice memos on Slack?
+
+[01:02:02] SPEAKER_04
+Yeah, I can.
+
+[01:02:03] SPEAKER_03
+Oh, I see.
+
+[01:02:04] SPEAKER_04
+Oh.
+
+[01:02:04] SPEAKER_04
+I was just testing it.
+
+[01:02:06] SPEAKER_04
+I think...
+
+[01:02:07] SPEAKER_04
+This is...
+
+[01:02:08] SPEAKER_04
+We're getting in the voice memo territory, and I'm very excited about it.
+
+[01:02:11] SPEAKER_04
+Is this our voice memo era?
+
+[01:02:13] SPEAKER_04
+I think so.
+
+[01:02:14] SPEAKER_03
+Sorry, Eric.
+
+[01:02:14] SPEAKER_03
+Do we need voice memos on Discord for the Falcons?
+
+[01:02:17] SPEAKER_03
+Could we?
+
+[01:02:18] SPEAKER_03
+Could we?
+
+[01:02:19] SPEAKER_05
+I don't know.
+
+[01:02:20] SPEAKER_05
+I feel like we could just go into the channel right now and then finish the episode out over
+
+[01:02:26] SPEAKER_05
+there, and that would be something, but that's all I could really think of.
+
+[01:02:29] SPEAKER_05
+Message Eric Bedour.
+
+[01:02:31] SPEAKER_05
+Don't message Eric Bedour.
+
+[01:02:32] SPEAKER_05
+Remember, wrap up episode instead of message Eric Bedour.
+
+[01:02:36] SPEAKER_05
+Yeah, I don't think I can send a voice memo.
+
+[01:02:38] SPEAKER_01
+Yeah, congratulations on making it a quarter of a century, guys.
+
+[01:02:43] SPEAKER_01
+The 25 episodes of Regulation Podcast.
+
+[01:02:46] SPEAKER_01
+It seems like just yesterday that we ended the f***ing face at episode 206?
+
+[01:02:50] SPEAKER_01
+207?
+
+[01:02:51] SPEAKER_01
+Whatever it was.
+
+[01:02:52] SPEAKER_01
+What did...
+
+[01:02:52] SPEAKER_01
+What was it?
+
+[01:02:54] SPEAKER_02
+206.
+
+[01:02:54] SPEAKER_01
+Yeah, but it was our...
+
+[01:02:55] SPEAKER_01
+206?
+
+[01:02:56] SPEAKER_01
+206 would have been our 205th episode.
+
+[01:02:59] SPEAKER_01
+Is that right?
+
+[01:03:00] SPEAKER_01
+So we did one episode for every bone in the body.
+
+[01:03:03] SPEAKER_01
+That's...
+
+[01:03:04] SPEAKER_01
+Yeah, that was the goal.
+
+[01:03:04] SPEAKER_01
+Which was exactly how we planned it out, and thank you for finally revealing the true secret
+
+[01:03:09] SPEAKER_01
+of my face.
+
+[01:03:10] SPEAKER_01
+It was only designed to go as many episodes as we have bones in a body.
+
+[01:03:16] SPEAKER_01
+How are we going to end Regulation?
+
+[01:03:18] SPEAKER_01
+Hopefully, we have more than 180-odd episodes or so to go.
+
+[01:03:22] SPEAKER_01
+We're going to have to get some new bones.
+
+[01:03:24] SPEAKER_01
+Speaking of getting new bones, you guys should go get a t-shirt over at the regulationstore.com,
+
+[01:03:30] SPEAKER_01
+or if buying a t-shirt's not your thing, maybe go check out our Patreon over at...
+
+[01:03:36] SPEAKER_01
+Well, you know what?
+
+[01:03:37] SPEAKER_01
+Just go to regulatrion.com or jeff.sucks, and that'll answer all your questions, and
+
+[01:03:42] SPEAKER_01
+have a good day or night.
+
+[01:03:44] SPEAKER_01
+I don't know what time...
+
+[01:03:45] SPEAKER_01
+I don't even know when you're listening to this, but if it's evening, have a good evening.
+
+[01:03:48] SPEAKER_01
+If it's in the morning, have a good day.
+
+[01:03:49] SPEAKER_04
+That was a fantastic outro.
+
+[01:03:51] SPEAKER_04
+Yeah, I just had a quick question for Eric and Gavin before we wrapped up.
+
+[01:03:55] SPEAKER_04
+Did you guys have hot dog paranoia last night?
+
+[01:03:57] SPEAKER_04
+Because the hot dog counters were flying.
+
+[01:04:00] SPEAKER_05
+I never have hot dog paranoia, no.
+
+[01:04:02] SPEAKER_05
+Okay.
+
+[01:04:02] SPEAKER_01
+It's not a competition.
+
+[01:04:04] SPEAKER_03
+It's not.
+
+[01:04:04] SPEAKER_03
+I just have one dog, so the dog...
+
+[01:04:06] SPEAKER_03
+I just look at the nice pictures.
+
+[01:04:07] SPEAKER_04
+Yeah.
+
+[01:04:08] SPEAKER_04
+That's true.
+
+[01:04:08] SPEAKER_04
+Jeff takes great photos.
+
+[01:04:10] SPEAKER_01
+I take a photo of every hot dog I eat.
+
+[01:04:13] SPEAKER_99
+Yeah.
+
+[01:04:13] SPEAKER_04
+Bye!
+
+[01:04:16] SPEAKER_04
+Bye!
+
+[01:04:16] SPEAKER_04
+Bye!

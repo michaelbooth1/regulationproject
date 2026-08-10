@@ -1,0 +1,1832 @@
+{
+ "index": 91,
+ "title": "A Q&A with Andrew #2",
+ "pub_date": "2022-01-15T08:00:00+00:00",
+ "model": "large-v3-turbo",
+ "diarization_model": "pyannote/speaker-diarization-3.1",
+ "language": "en",
+ "language_probability": 1,
+ "duration_sec": 1501.621875,
+ "speaker_embeddings": {
+  "SPEAKER_00": [
+   0.042015,
+   0.10786,
+   -0.152998,
+   -0.017045,
+   -0.358989,
+   -0.317159,
+   0.535645,
+   -0.131158,
+   0.213124,
+   0.208464,
+   0.269674,
+   0.142576,
+   0.357475,
+   0.140446,
+   0.186685,
+   -0.294729,
+   -0.258096,
+   -0.082678,
+   0.073329,
+   0.188699,
+   -0.341825,
+   0.009131,
+   0.509751,
+   0.13715,
+   0.158349,
+   0.320526,
+   -0.159722,
+   -0.10831,
+   -0.032324,
+   -0.180434,
+   0.643883,
+   0.256991,
+   0.070859,
+   -0.190224,
+   -0.079592,
+   -0.070161,
+   0.21477,
+   -0.456344,
+   0.032742,
+   0.386744,
+   -0.301899,
+   0.031758,
+   0.450102,
+   0.290721,
+   -0.335227,
+   -0.048204,
+   -0.039209,
+   -0.11723,
+   0.500207,
+   0.600557,
+   -0.028788,
+   0.014058,
+   0.20176,
+   -0.19445,
+   -0.404096,
+   0.409839,
+   0.001486,
+   -0.123503,
+   -0.340165,
+   -0.061983,
+   0.484014,
+   0.078676,
+   0.142372,
+   0.021447,
+   -0.062829,
+   0.240609,
+   -0.243582,
+   -0.365655,
+   0.072486,
+   0.240229,
+   -0.245245,
+   -0.239288,
+   0.145471,
+   -0.234485,
+   0.021352,
+   0.214523,
+   -0.139704,
+   0.034846,
+   0.023403,
+   -0.100928,
+   -0.289003,
+   -0.134436,
+   0.245442,
+   -0.233621,
+   -0.476903,
+   -0.053686,
+   -0.115031,
+   -0.18773,
+   -0.261831,
+   -0.304755,
+   -0.162145,
+   0.313479,
+   0.23269,
+   -0.048057,
+   0.201495,
+   0.190946,
+   -0.08455,
+   0.163321,
+   0.142121,
+   -0.217305,
+   -0.015145,
+   -0.261601,
+   -0.223391,
+   -0.107219,
+   -0.234254,
+   -0.050953,
+   0.285429,
+   0.107072,
+   0.045438,
+   -0.323909,
+   0.457712,
+   0.331277,
+   -0.056102,
+   -0.081728,
+   0.048662,
+   -0.439568,
+   -0.013623,
+   -0.022482,
+   0.04392,
+   0.248927,
+   0.523263,
+   0.136205,
+   -0.315486,
+   -0.006139,
+   0.079918,
+   0.354401,
+   -0.115014,
+   -0.01611,
+   -0.312528,
+   0.008752,
+   -0.297334,
+   -0.0833,
+   0.00909,
+   0.300869,
+   0.269439,
+   -0.340792,
+   0.079864,
+   -0.007555,
+   0.409758,
+   -0.467304,
+   -0.312258,
+   0.133128,
+   0.216344,
+   0.172738,
+   -0.125505,
+   -0.158852,
+   0.13432,
+   -0.106947,
+   -0.154744,
+   -0.0831,
+   0.272817,
+   -0.292869,
+   -0.261095,
+   -0.188941,
+   -0.052073,
+   0.168947,
+   0.140063,
+   -0.314093,
+   0.018134,
+   0.001516,
+   0.421384,
+   -0.039839,
+   0.012738,
+   -0.071558,
+   -0.32554,
+   -0.143261,
+   -0.016992,
+   -0.205628,
+   0.078604,
+   -0.134934,
+   -0.266059,
+   0.088343,
+   -0.042084,
+   -0.433525,
+   -0.089993,
+   -0.397927,
+   -0.326828,
+   0.243965,
+   0.14699,
+   -0.066221,
+   -0.265531,
+   0.278942,
+   0.26124,
+   0.249547,
+   -0.234389,
+   -0.051382,
+   -0.171236,
+   0.347892,
+   -0.078694,
+   -0.406484,
+   -0.36551,
+   0.027982,
+   -0.052158,
+   -0.101711,
+   -0.011201,
+   0.000404,
+   0.394978,
+   0.240336,
+   0.11901,
+   0.332151,
+   -0.025501,
+   -0.094371,
+   0.109136,
+   -0.033177,
+   -0.355914,
+   0.040851,
+   0.065064,
+   -0.329756,
+   0.053286,
+   0.230743,
+   -0.00614,
+   0.06368,
+   -0.118489,
+   -0.302595,
+   -0.302046,
+   0.238579,
+   -0.020623,
+   0.137035,
+   0.339248,
+   0.633984,
+   0.267834,
+   0.13882,
+   0.090131,
+   0.165687,
+   0.243223,
+   -0.138457,
+   0.452693,
+   -0.226092,
+   0.160126,
+   -0.228352,
+   0.125131,
+   -0.158662,
+   0.008623,
+   0.547536,
+   0.266522,
+   0.32763,
+   -0.350629,
+   0.049824,
+   0.037578,
+   -0.503396,
+   -0.326741,
+   -0.278505,
+   -0.167499,
+   -0.296988,
+   -0.179196,
+   -0.049097,
+   -0.039804,
+   0.066852,
+   -0.118502,
+   0.311741,
+   0.016914,
+   -0.107246,
+   0.29337,
+   0.300487,
+   0.49916,
+   -0.202949
+  ]
+ },
+ "segments": [
+  {
+   "start": 0.43,
+   "end": 9.99,
+   "text": "There's no shortcut for saving time, but saving money is simple. Just combine your car and home insurance with Bel Air Direct and save. Get a quote at belairdirect.com.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 13.17,
+   "end": 15.99,
+   "text": "This is a Rooster Teeth production.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 27.88,
+   "end": 37.82,
+   "text": "Hello and welcome to episode two of the F**kface Q&A show. Thank you so much for joining me. I don't know, that was like a weird delivery on that.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 37.82,
+   "end": 47.12,
+   "text": "Anyway, hey, we're doing this again. There is like a three month gap between when I recorded the first one to the release of the second one.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 47.28,
+   "end": 52.8,
+   "text": "And I hope that that's not the case for this. I'm pretty sure that this is supposed to release in January. We'll see though.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 53.7,
+   "end": 60.88,
+   "text": "I guess first of all, I should just say thank you so much for everyone who listened and supported the first episode the way that you all did.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 60.88,
+   "end": 67.9,
+   "text": "And you all, well, I mean, that's presumptuous, but the feedback on the first one was so overwhelmingly kind and supportive.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 68.68,
+   "end": 77.46,
+   "text": "I got so many messages from people as well as just general comments that were just humbling and unspeakably thoughtful.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 77.46,
+   "end": 81.66,
+   "text": "I tried my best to reply to anybody who messaged me. I inevitably would miss them.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 82.44,
+   "end": 87.7,
+   "text": "If I missed your message, I'm sorry if you left a comment or like a tweet and I didn't acknowledge it in some way.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 87.7,
+   "end": 91.94,
+   "text": "I read it. I just didn't interact with it because honestly, it was probably too nice.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 92.3,
+   "end": 95.48,
+   "text": "I have this weird like anxiety thing where somebody is super complimentary.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 95.8,
+   "end": 105.18,
+   "text": "I feel weird liking it because it just says like I like this tweet, like the statement of Andrew Panton likes this statement about how great Andrew Panton is feels super obnoxious to me.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 105.56,
+   "end": 110.52,
+   "text": "You know, I don't think anyone interprets it that way. It's just this weird ego anxiety thing.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 110.66,
+   "end": 116.2,
+   "text": "So if you if you wrote something super sweet and I didn't like it, it's because you were too kind.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 116.2,
+   "end": 123.58,
+   "text": "And I appreciate it so much. I read it. But anxiety brain anyway, episode two.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 123.92,
+   "end": 129.9,
+   "text": "I'm going to change this format up a little bit for this because why wouldn't you change something that worked the first time?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 130.2,
+   "end": 136.22,
+   "text": "That's what everybody does. They find success and then they change the thing that worked well because that's smart.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 136.56,
+   "end": 141.1,
+   "text": "That's what smart people do. But we're going to do more questions because that's the heart of the show.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 141.16,
+   "end": 144.28,
+   "text": "The whole point of this. And I don't I apologize if I talked about it in the first episode.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 144.28,
+   "end": 149.3,
+   "text": "I don't really remember everything that was discussed. So if I'm covering old ground, sorry.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 149.92,
+   "end": 158.0,
+   "text": "But the kind of idea of the show came from I take calls from people in the community and I really enjoy engaging with you all in that way.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 158.22,
+   "end": 164.5,
+   "text": "But I would I wouldn't be able to answer everybody and I get voicemails and it felt really weird to me to call back.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 164.72,
+   "end": 168.0,
+   "text": "It just didn't seem like a thing I should do for whatever reason.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 168.0,
+   "end": 172.46,
+   "text": "You know, they call it is the whole thing in my head. I just didn't I didn't like the idea of calling somebody randomly.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 173.08,
+   "end": 177.92,
+   "text": "But I also wanted to, like, answer questions because some of them were either really thoughtful or just in general.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 178.0,
+   "end": 183.3,
+   "text": "Just I don't know if you take the time to call a number and leave a message, I would like to reply, especially if I hear it.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 183.3,
+   "end": 188.52,
+   "text": "And I didn't know how to. So I thought maybe there could be a show or something where I could quickly go through those.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 188.52,
+   "end": 199.54,
+   "text": "And thus we're here on this one. I would like to do that as well as talk about the Raymond Sumer thing, which is a bit I did on the show.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 199.64,
+   "end": 202.64,
+   "text": "And I would say it's the only bit that I regret doing.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 202.8,
+   "end": 206.28,
+   "text": "And we can talk a little bit about that as we progress through this.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 206.64,
+   "end": 208.44,
+   "text": "I know some people are like, you don't regret the pencil.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 208.66,
+   "end": 213.36,
+   "text": "And that's a fair statement to make. But I learned a lot about the pencil and not everybody hated it.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 213.36,
+   "end": 221.06,
+   "text": "I know the majority of people did not enjoy the pencil trial, but that was even for those who didn't like it.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 221.36,
+   "end": 227.3,
+   "text": "My goal is obviously always with what I do to try to make you laugh.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 227.38,
+   "end": 230.7,
+   "text": "And I won't always be successful at that. But that's the intent.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 230.84,
+   "end": 236.34,
+   "text": "So even though the pencil trial is very divisive, I learned a lot in a few different ways.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 236.58,
+   "end": 239.26,
+   "text": "So I ultimately don't regret doing that at all.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 239.26,
+   "end": 243.98,
+   "text": "But the Raymond Sumer thing went off the rails in a few different ways.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 243.98,
+   "end": 247.72,
+   "text": "And it was kind of a short sighted idea. It was a panic move, for lack of a better word.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 248.26,
+   "end": 256.36,
+   "text": "So maybe we should just transition into that immediately, explaining the history of Raymond Sumer, which is sort of like a two part thing.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 256.46,
+   "end": 260.02,
+   "text": "There is the why it happened and how the name came to be.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 260.44,
+   "end": 265.34,
+   "text": "So I think I'll start with how the name came to be, which is a very dumb story, which is shocking.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 265.34,
+   "end": 277.42,
+   "text": "I know. But Raymond, the name Raymond kind of became an inside joke between a friend of mine and myself, where I was talking about middle names to them.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 277.48,
+   "end": 281.68,
+   "text": "And I was thinking about how my middle name is the name of a relative in my family.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 282.06,
+   "end": 286.1,
+   "text": "And so when I went to tell them what my middle name was, I said my middle name is Raymond.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 286.1,
+   "end": 295.1,
+   "text": "And then I said, it's funny, though, because I really don't feel like a Raymond, sort of a weird, a weird identity thing where I don't associate with that at all.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 295.26,
+   "end": 301.52,
+   "text": "And then I realized the reason why it felt weird is because that isn't my my middle name, my middle name.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 301.58,
+   "end": 307.32,
+   "text": "My brain did this like weird crossing of wires where I thought, oh, yeah, my middle name is named after this relative.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 307.4,
+   "end": 310.76,
+   "text": "And then what came out is that relative's middle name, not mine.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 310.86,
+   "end": 313.38,
+   "text": "That relative's middle name is Raymond, not my middle name.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 313.38,
+   "end": 316.18,
+   "text": "And that's why it didn't feel like my middle name, because it's not.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 316.38,
+   "end": 319.38,
+   "text": "That wasn't my name. I forgot my name essentially in this moment.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 319.38,
+   "end": 322.98,
+   "text": "So like Raymond calling me Raymond became this inside joke between me and this person.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 323.06,
+   "end": 327.26,
+   "text": "And the so mayor aspect of it came from two other really close friends.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 327.26,
+   "end": 331.82,
+   "text": "When I was making the Twitter account, I was trying to change the at mention to something.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 332.04,
+   "end": 337.2,
+   "text": "And I tried like five or six different names and none of them would fit like they were already taken on Twitter.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 337.2,
+   "end": 343.48,
+   "text": "And so I was just looking at my friend group and I thought, ah, so mayor, that's sort of a unique name.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 343.48,
+   "end": 347.2,
+   "text": "I wonder if it's available. And it was. So I got their permission.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 347.2,
+   "end": 351.36,
+   "text": "And thus we got Raymond so mayor as a name.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 351.36,
+   "end": 359.98,
+   "text": "Um, what's really funny about that is they would, that friend group, uh, those, those people would go to interact with something on face.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 360.06,
+   "end": 364.62,
+   "text": "So there'd be an Instagram or something like that, but they would have some mayor in their username.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 364.7,
+   "end": 371.38,
+   "text": "It's like they'd go to interact and the panic that by doing so would then reveal the origin of the name in some way.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 371.38,
+   "end": 380.26,
+   "text": "So that's the history of how I created the name Raymond so mayor, the idea of it kind of came from a few different places.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 380.26,
+   "end": 390.84,
+   "text": "The original point of, I thought it would be interesting to do something with, um, essentially information you can't verify, but that we generally accept that thought came from a different story.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 390.84,
+   "end": 397.42,
+   "text": "I told on the podcast where I was traveling to Austin and there was a storm over the airport and we had to get redirected into San Antonio.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 397.42,
+   "end": 402.14,
+   "text": "And I went on this road trip, but the guy's sitting next to me on the flight and I didn't know anything about him.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 402.48,
+   "end": 410.0,
+   "text": "And when we were at the, the rental car, when he's picking it up, the guy said a different name, or at least it sounded like a different name than what I heard on the plane.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 410.24,
+   "end": 414.04,
+   "text": "And I had this anxiety moment of like, did you, did he lie to me? Do I not know?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 414.36,
+   "end": 419.6,
+   "text": "What do I, what do I actually know about this guy? Am I going to get killed? Is this, is this how I die? Is this my murder?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 419.9,
+   "end": 423.88,
+   "text": "And that kind of stuck with me. That thought of when I interact with somebody who I've never met before,",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 423.88,
+   "end": 429.52,
+   "text": "all the stuff that I just assume is true in our interaction. And wow, what a weird way to say",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 429.52,
+   "end": 434.92,
+   "text": "interaction and our interaction that I just don't question. Cause why would I like, it's just a weird",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 434.92,
+   "end": 441.22,
+   "text": "thing to assume. Nobody's like, Hey, I'm Bob. And then the response is like, go fuck yourself. You're",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 441.22,
+   "end": 448.5,
+   "text": "not Bob. I know a Bob when I see a Bob and you sir are not a Bob that never happens. It's just cool.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 448.64,
+   "end": 452.82,
+   "text": "Like who cares? So that stuck with me. And I was thinking about that a little bit. And I didn't know",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 452.82,
+   "end": 456.66,
+   "text": "if that was like a talking point somehow on the show that I could bring up, or if that would be",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 456.66,
+   "end": 463.78,
+   "text": "a bit within itself. And then a little after that, I did this weird puzzle thing where I had this",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 463.78,
+   "end": 469.74,
+   "text": "discord chat or group chat server, I guess is the word I'm looking for. And I don't remember why it",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 469.74,
+   "end": 474.68,
+   "text": "started, but it turned into a thing where I first was just like posting photos of not photos, but",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 474.68,
+   "end": 481.26,
+   "text": "numbers of random things on my desk. So like I had a Dr. Pepper bottle and I posted the customer",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 481.26,
+   "end": 485.86,
+   "text": "support line. And then people speculated like, what could this mean? So then I posted another",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 485.86,
+   "end": 490.54,
+   "text": "one and it just built. And then it turned into me buying a Swedish phone number and it like",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 490.54,
+   "end": 495.96,
+   "text": "escalated into this four day ridiculous thing that was so much fun. And the people that were",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 495.96,
+   "end": 500.38,
+   "text": "involved in it seemed to like really enjoy it. So I thought, Oh, I'd love to do more stuff",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 500.38,
+   "end": 505.32,
+   "text": "like that, which is also why I could be wrong. You could verify this, I guess, or maybe, I",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 505.32,
+   "end": 510.38,
+   "text": "don't know, post it or retweet it. I'll look at it. I think when I revealed the Raymond",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 510.38,
+   "end": 515.76,
+   "text": "Sumer thing, the only clue I gave that this was all a bit was if you take, I want to say",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 515.76,
+   "end": 523.86,
+   "text": "the first letter of every sentence, it spells fake. And it's a strangely written tweet because",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 523.86,
+   "end": 528.38,
+   "text": "of that. I was struggling to like, how do I balance this out or how do I make it sound",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 528.38,
+   "end": 532.84,
+   "text": "natural? So it doesn't read naturally really at all. It kind of feels like a shitty puzzle",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 532.84,
+   "end": 537.6,
+   "text": "when you read it. And that's because it was trying to hide the word fake or some indication",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 537.6,
+   "end": 545.44,
+   "text": "that it wasn't real. Uh, so those two ideas were like center points. And then the third",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 545.44,
+   "end": 551.46,
+   "text": "part, and this is where it gets a little bit darker. I apologize once again for taking it",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 551.46,
+   "end": 557.66,
+   "text": "to kind of sad place at around the same time I had a family member get diagnosed with cancer.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 557.66,
+   "end": 563.5,
+   "text": "That way, that was terminal. Um, and that was difficult and I was really struggling with that.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 563.76,
+   "end": 570.36,
+   "text": "And, uh, I decided to watch this movie called Paddleton, which happened to be a Mark Duplass",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 570.36,
+   "end": 575.58,
+   "text": "movie and a Ray Romano movie. And the premise of that movie is about one character having an",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 575.58,
+   "end": 581.5,
+   "text": "operable terminal cancer and them kind of going through that process together, which on the surface",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 581.5,
+   "end": 586.98,
+   "text": "seems like the worst possible movie you could watch if you were in my position. But it was the",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 586.98,
+   "end": 591.6,
+   "text": "strange thing of like, I was struggling and I just wanted to, I don't know, maybe seeing other",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 591.6,
+   "end": 598.4,
+   "text": "people go through a similar thing would provide some answer. And I don't know, I was just looking",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 598.4,
+   "end": 603.74,
+   "text": "for anything, I guess. And so I watched this movie and I did pull something from it, but it wasn't",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 603.74,
+   "end": 608.44,
+   "text": "really what I expected where the Ray Romano character buys the Mark Duplass character, this",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 608.44,
+   "end": 613.08,
+   "text": "shirt, or he makes it, sorry, he doesn't buy it. He makes this shirt and it's like a hangman",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 613.08,
+   "end": 617.64,
+   "text": "puzzle, you know, where it's like, it indicates how many letters are in the word, but not, it doesn't",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 617.64,
+   "end": 622.7,
+   "text": "reveal the word and it's two words. And they would play this game together when, whenever they'd have",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 622.7,
+   "end": 627.18,
+   "text": "free time, Mark Duplass would try to figure out what the puzzle was on his shirt. And so he'd make",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 627.18,
+   "end": 631.46,
+   "text": "guesses and you'd always say like fatty pork cause that lined up with what was there and he would",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 631.46,
+   "end": 636.42,
+   "text": "never be able to figure it out. But it was just like bonding thing they did. And you get to the end of",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 636.42,
+   "end": 641.96,
+   "text": "the movie. I apologize for spoiling Paddleton, but as right before the Duplass character dies,",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 641.96,
+   "end": 646.96,
+   "text": "he asks, what was the puzzle? And he learns that there was no answer to the puzzle, which",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 646.96,
+   "end": 652.38,
+   "text": "initially is like, fuck you. Why would you do this? Why would you make this shitty puzzle that",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 652.38,
+   "end": 658.24,
+   "text": "has no answer? And then Ray Romano explains that they would do these puzzles together and they'd go",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 658.24,
+   "end": 663.1,
+   "text": "on these adventures and like they do these things. And when they were done, there was that moment of",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 663.1,
+   "end": 668.92,
+   "text": "like, yeah, we did it. That's awesome. But there was also a sadness in that, that this experience",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 668.92,
+   "end": 674.94,
+   "text": "was now over that they had shared and that there was now kind of nothing for a time and that he knew",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 674.94,
+   "end": 679.28,
+   "text": "if he made him this shirt, that it would be his favorite shirt and that him and his friend would",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 679.28,
+   "end": 683.72,
+   "text": "have this puzzle for the rest of their lives that they could engage with. And I thought that that was",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 683.72,
+   "end": 688.22,
+   "text": "really beautiful. And I liked that a lot. And it kind of echoed some of the things I'd felt",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 688.22,
+   "end": 695.28,
+   "text": "recently doing that weird discord puzzle thing I did. So I became fascinated in this idea of like,",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 695.4,
+   "end": 700.92,
+   "text": "I would love to somehow do a fatty pork like puzzle with the community in some way. So I was",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 700.92,
+   "end": 706.26,
+   "text": "really fixated on that. And then the day after I watched the movie that that family member passed",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 706.26,
+   "end": 714.8,
+   "text": "away was sort of unexpected. And so I really was struggling with that. And there's feels weird to",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 714.8,
+   "end": 720.02,
+   "text": "say there's sort of a funny story on that day that I won't get into now. I guess if someone wants to",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 720.02,
+   "end": 724.36,
+   "text": "know about it, they could ask about it. But I really went into like just trying to as a distraction,",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 724.36,
+   "end": 731.16,
+   "text": "what can I do? Like what is I want to do a fatty pork? Then later that week, a few days after that,",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 731.16,
+   "end": 737.8,
+   "text": "and this is largely why Raymond Samir happened. Austin, Texas got hit by a snowstorm. It was like a",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 737.8,
+   "end": 745.94,
+   "text": "blizzard and, uh, of all things, a snowstorm. And it was like a serious thing. People didn't have power",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 745.94,
+   "end": 751.7,
+   "text": "for like a week. I want to say houses were being damaged. Water lines were, it was just chaos. It was",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 751.7,
+   "end": 758.52,
+   "text": "a terrible time apparently for people in the city. And, uh, it was, I think the day before an episode",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 758.52,
+   "end": 763.18,
+   "text": "was going to go out. I learned that we weren't going to be able to upload on Wednesday. And it'd be",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 763.18,
+   "end": 768.36,
+   "text": "the first time since we started our show that we wouldn't have an upload for that day. And this is,",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 768.36,
+   "end": 774.36,
+   "text": "I don't know, it's going to sound arrogant in some way or like self-important when it's not at",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 774.36,
+   "end": 781.78,
+   "text": "all intended to be. I hear so often from people, uh, that our show, like it's, it has been a constant",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 781.78,
+   "end": 786.3,
+   "text": "during this really difficult time. And I've, I've heard people say a lot that like, it means",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 786.3,
+   "end": 791.12,
+   "text": "something to me to know that on Wednesday, I have a new face that there's going to be something that",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 791.12,
+   "end": 796.92,
+   "text": "I can enjoy that will help or create laughter in my life at least. And how meaningful that is to",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 796.92,
+   "end": 803.48,
+   "text": "them. Uh, so I, it's important to me that we always have something on that day. So when I heard",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 803.48,
+   "end": 809.12,
+   "text": "that I kind of immediately went into this scramble mode of fuck, like I'd love if possible, cause I",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 809.12,
+   "end": 814.22,
+   "text": "still have power. Everything is normal to me. I have no issue. It's just like a regular day. Um,",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 814.72,
+   "end": 821.08,
+   "text": "is there something I can do that would give some piece of content on Wednesday? It can't be",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 821.08,
+   "end": 826.88,
+   "text": "long because it's going to be unedited. And also like, it can't be expansive or large because",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 826.88,
+   "end": 831.7,
+   "text": "that's not face at that point. Face is what everybody brings to it. And so I thought, what",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 831.7,
+   "end": 835.92,
+   "text": "is something I could do? That's brief. That would hopefully be something that the audience",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 835.92,
+   "end": 844.96,
+   "text": "enjoyed. Um, and so I was like, well, fuck I could do. You can't really confirm a name. Like I couldn't",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 844.96,
+   "end": 850.26,
+   "text": "think of a way in which someone could without a doubt confirm that my name is in Japan. I thought I could",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 850.26,
+   "end": 854.24,
+   "text": "do that. And that can maybe be a fatty pork thing. And I kind of rushed through this thought process",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 854.24,
+   "end": 860.28,
+   "text": "of, I could create things both ways of like what my name actually is. And so I kind of rushed into",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 860.28,
+   "end": 866.26,
+   "text": "it at that point and I recorded what I recorded and released it. And I was terrified when I did it.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 866.3,
+   "end": 872.0,
+   "text": "It was like this strangely stressful thing that is completely mine for putting on, but it was,",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 872.1,
+   "end": 877.0,
+   "text": "I was worried about, I don't know. I meant the best. It was, it was done with the best intentions.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 877.0,
+   "end": 883.24,
+   "text": "And I, I didn't, I didn't fully consider it. It was very sudden. So then it released and I saw some",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 883.24,
+   "end": 889.32,
+   "text": "of the negative sides of it. I felt really guilty for the people that like embraced me and championed",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 889.32,
+   "end": 896.1,
+   "text": "me for, for like revealing that as a thing when it wasn't an honest reveal. I felt guilt about that.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 896.14,
+   "end": 900.5,
+   "text": "And I felt like I had betrayed these people in a way. And I felt really bad about that. And then",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 900.5,
+   "end": 906.82,
+   "text": "there were also just some general discussions of like the phrasing around what it means to go by a",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 906.82,
+   "end": 913.0,
+   "text": "name in which you weren't given at birth. And like some of the, the, the tone of those discussions",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 913.0,
+   "end": 918.42,
+   "text": "were not at all what I intended or that I'd ever hope for. Like I never want anyone to feel",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 918.42,
+   "end": 922.56,
+   "text": "uncomfortable. And, and some of the, like the declarations of claiming that is somehow a",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 922.56,
+   "end": 929.62,
+   "text": "betrayal when it isn't, or like a lie in some way, a deception sucked. And I didn't, I didn't want",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 929.62,
+   "end": 935.56,
+   "text": "that. I was just trying to create something brief. And that was sort of inspired by this fatty pork",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 935.56,
+   "end": 943.02,
+   "text": "idea. Um, and then the other layer that sucked as well is there are people that really dug in",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 943.02,
+   "end": 948.82,
+   "text": "and they found the obituary for that relative of mine who passed away and they would send it to me",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 948.82,
+   "end": 955.54,
+   "text": "as a, like a, Hey, I figured it out. Like I, this is proof that you're this name and not this name. And",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 955.54,
+   "end": 963.84,
+   "text": "that at that time really sucked. Um, and made, made that aspect of it harder. And those aren't bad",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 963.84,
+   "end": 969.46,
+   "text": "people who did that. It's just, it's so, it's so easy to get lost in something like that, like a bit",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 969.46,
+   "end": 975.44,
+   "text": "of that type. Um, yeah. So I, I don't, I didn't hold anything against them. I understood why,",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 975.58,
+   "end": 981.98,
+   "text": "but it's just, it sucked. Uh, and I didn't really want to very quickly after it came out, I didn't",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 981.98,
+   "end": 986.04,
+   "text": "really want to pursue it in any way. And that's why there has never really been any advancement",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 986.04,
+   "end": 989.92,
+   "text": "from it outside of the episode. We talk about it. And if you listen to that episode, I am",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 989.92,
+   "end": 994.7,
+   "text": "very reluctant and don't really want to talk about it, but it was something we had to do",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 994.7,
+   "end": 1000.36,
+   "text": "because of what I had set up. Um, but that is, uh, the story of Raymond Sumer. I don't think I'm",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1000.36,
+   "end": 1005.0,
+   "text": "missing anything. I guess if you have any specific questions about it, feel free to ask. I hope that",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1005.0,
+   "end": 1011.6,
+   "text": "was interesting. Uh, and with that being said, we should actually move into the Q and a part of this",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1011.6,
+   "end": 1016.16,
+   "text": "show, which is the purpose of it. Also, if you want to ask a question, I should just say,",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1016.16,
+   "end": 1026.26,
+   "text": "you can call me at, uh, 512-487-7977. That is 512-487-7977. That is the number for Austin,",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1026.4,
+   "end": 1032.84,
+   "text": "Texas. Uh, I also tweet when I'm taking calls. Uh, so if you want to try to have a conversation",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1032.84,
+   "end": 1037.1,
+   "text": "with me, that would be the time to do that. Otherwise, if you just want to leave a question,",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1037.2,
+   "end": 1042.72,
+   "text": "feel free to phone that number anytime you like. And with that, let's get to our questions. Um,",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1042.72,
+   "end": 1050.8,
+   "text": "first questions, first questions. I'm great at speaking. Uh, what kind of music are you into?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1050.9,
+   "end": 1055.08,
+   "text": "This is sort of a difficult question for me to answer. I feel like it's super generic for people",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1055.08,
+   "end": 1059.92,
+   "text": "to be like, I like all music. And it's like, they don't actually, that's a sort of insane",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1059.92,
+   "end": 1066.24,
+   "text": "statement to make because of how wide ranging music is. But music is a thing that I avoided largely,",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1066.24,
+   "end": 1071.0,
+   "text": "which also sounds weird. It's a void in a sense of my knowledge. As far as entertainment goes,",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1071.0,
+   "end": 1075.56,
+   "text": "I played so many video games and have seen so many movies. I really invested all of my",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1075.56,
+   "end": 1081.52,
+   "text": "entertainment time in that way. And only recently have I gotten more into music. Um, I really like",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1081.52,
+   "end": 1089.44,
+   "text": "rock and pop and rap and Andy rock and jazz and some country, but I'm very selective with my country.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1089.44,
+   "end": 1094.26,
+   "text": "I'd say generally speaking, uh, maybe I'll just like make a playlist on Spotify or something of",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1094.26,
+   "end": 1100.06,
+   "text": "some songs I like. And if you want to listen to it, you're welcome to do so. Okay. Next question.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1100.06,
+   "end": 1105.42,
+   "text": "I should have, should have written these down better. Annabelle asks, is this number real?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1105.96,
+   "end": 1110.58,
+   "text": "This number is real. And it's one of my favorite things when people call it, not knowing that it's",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1110.58,
+   "end": 1114.46,
+   "text": "real. I had a call recently and I don't know, maybe we'll release this in some way, but this",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1114.46,
+   "end": 1120.44,
+   "text": "person called the number clearly just based on the fact that they got a shirt, a child kicker shirt",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1120.44,
+   "end": 1125.04,
+   "text": "and the joy that they had to learn that it actually was a real number. And it went somewhere",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1125.04,
+   "end": 1130.02,
+   "text": "was incredible. Like they at first were just shocked that they're on there. They're leaving",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1130.02,
+   "end": 1134.64,
+   "text": "a message for this number. And they were like, this is the greatest. And then somehow decided",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1134.64,
+   "end": 1138.94,
+   "text": "that this number might not be associated with the podcast that we just throw some random number",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1138.94,
+   "end": 1144.18,
+   "text": "on a shirt, which is, I guess, a fair assumption for our show. Uh, but he then tried to explain",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1144.18,
+   "end": 1150.0,
+   "text": "what the podcast was and convince them that they should listen to it, which is incredible. Uh, so this",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1150.0,
+   "end": 1155.06,
+   "text": "is in fact a real number, but it is such a treat to hear people make that realization.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1155.88,
+   "end": 1162.02,
+   "text": "Um, what's your favorite holiday treats? Oh, holiday treats. I feel like is eggnog a treat",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1162.02,
+   "end": 1166.22,
+   "text": "and not that I've ever had it, but I feel like when I hear holiday, for some reason,",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1166.28,
+   "end": 1172.64,
+   "text": "my brain kind of associates month of December. Uh, but, but really when I think of specific",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1172.64,
+   "end": 1178.22,
+   "text": "technically holiday treats, I think more Thanksgiving. So I'd say like pumpkin pie is a great holiday",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1178.22,
+   "end": 1182.36,
+   "text": "treat. Uh, even though you could have that year round, but to me, it's like very much",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1182.36,
+   "end": 1188.04,
+   "text": "a Thanksgiving staple and cranberry sauce, I think is highly underrated. I wish cranberry",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1188.04,
+   "end": 1194.3,
+   "text": "sauce is just year round. It's one of my favorite things. I love best part of Thanksgiving by far.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1195.12,
+   "end": 1200.94,
+   "text": "Uh, Olivia wants to know if I have any stories about orcas. I don't have any stories about orcas.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1201.88,
+   "end": 1207.36,
+   "text": "Unfortunately, I wish I did. It sounded like you really have a passion or enthusiasm for orcas.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1207.36,
+   "end": 1212.42,
+   "text": "So I'd love to know if you have a story. I did, however, do some research and I looked up some",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1212.42,
+   "end": 1217.7,
+   "text": "orca facts, which I found interesting. And one of them, this blew my fucking mind. Apparently",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1217.7,
+   "end": 1222.46,
+   "text": "orcas aren't whales. They're dolphins. Nobody told me this. They're apparently the largest type",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1222.46,
+   "end": 1229.86,
+   "text": "or species breed. One of those words is correct of dolphins. Uh, that was crazy. That's crazy to",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1229.86,
+   "end": 1235.5,
+   "text": "learn. They also are like the most widespread mammal outside of only humans, as far as like",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1235.5,
+   "end": 1239.76,
+   "text": "the amount of area they cover. There's so many different climates, or at least they're,",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1239.84,
+   "end": 1246.2,
+   "text": "they're more climates than any other animal outside of humans. Um, so those are some,",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1246.2,
+   "end": 1251.2,
+   "text": "some orca facts. I hope, I hope those were interesting to you. And I, as I said, I'd love",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1251.2,
+   "end": 1256.5,
+   "text": "to hear if you have a story or any, what your favorite orca fact is. Person from Virginia",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1256.5,
+   "end": 1260.96,
+   "text": "asked, do I have any halo to lasso tips? I do. I have two tips. One, and this is probably",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1260.96,
+   "end": 1265.2,
+   "text": "not useful to you because I'm assuming you started it, but if you haven't make sure you",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1265.2,
+   "end": 1271.22,
+   "text": "start it solo because if you go in with co-op, it skips over the tutorial level. Uh, and that",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1271.22,
+   "end": 1274.8,
+   "text": "fucking sucks because then you're screwed. You have to do it all over again. Like literally",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1274.8,
+   "end": 1279.88,
+   "text": "from the beginning to the end, you will get fucked over. If you do that, if you go in",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1279.88,
+   "end": 1283.52,
+   "text": "with a co-op partner, at least when I did it, maybe they fixed that, but that was certainly",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1283.52,
+   "end": 1288.98,
+   "text": "the case when I played it. My second halo to lasso tip is there are some phenomenal guides",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1288.98,
+   "end": 1295.7,
+   "text": "on YouTube for lasso runs, but there are also some really well done legendary halo to speed",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1295.7,
+   "end": 1301.26,
+   "text": "running guides. And I found that there were times where I found the lasso guide more useful",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1301.26,
+   "end": 1306.22,
+   "text": "and then I would find the speed running technique for an area to be more useful and bypassing",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1306.22,
+   "end": 1311.26,
+   "text": "things. So I would look at both things. If you're going to do any research for this, analyze",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1311.26,
+   "end": 1316.16,
+   "text": "both speed running and lasso specific guides and try to find techniques that fit the best",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1316.16,
+   "end": 1321.08,
+   "text": "for you. Cause for me, it was like, it was a constant kind of flipping of going back and",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1321.08,
+   "end": 1327.96,
+   "text": "forth. Um, a Boston Bruin fan wants to know if I'm a Vancouver Canucks fan. I am. Unfortunately,",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1328.72,
+   "end": 1335.18,
+   "text": "they're not easy to be a fan of things have been better recently since the firing of, uh,",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1335.84,
+   "end": 1339.48,
+   "text": "Jim Benning and Travis green. I don't think people probably really care about listening to",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1339.48,
+   "end": 1343.84,
+   "text": "me talk about the Vancouver Canucks, but there are aspects of their team that I think are",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1343.84,
+   "end": 1351.28,
+   "text": "so fucking crazy. The history of like the last 10 years, events with like the Luongo trade and",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1351.28,
+   "end": 1357.36,
+   "text": "just how the owners have operated in some ways is fucking wild. Uh, so maybe I'll talk about that",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1357.36,
+   "end": 1364.48,
+   "text": "at some point if somebody cares, but I'm going to move on from that question, going to Morgan in",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1364.48,
+   "end": 1369.44,
+   "text": "Athens, Ohio wants to thank us for making the show and for the friendship atmosphere we have during it.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1369.44,
+   "end": 1376.1,
+   "text": "Thank you, Morgan in Athens, Ohio, um, for listening and supporting and allowing us to have that space",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1376.1,
+   "end": 1382.92,
+   "text": "and doing so that space has meant so much to me. And it's almost like therapeutic now where",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1382.92,
+   "end": 1389.1,
+   "text": "for a comedy show, you'd think like you'd want to go in with like a really good mindset or like",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1389.1,
+   "end": 1394.06,
+   "text": "positive in some way. And there, there are times where I'll just speak for myself. I've recorded",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1394.06,
+   "end": 1398.7,
+   "text": "face being pretty down, you know, struggling with kind of some things in my personal life.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1399.34,
+   "end": 1404.68,
+   "text": "And it has been so helpful to just have that space. Like when I'm, I'm going through a difficult",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1404.68,
+   "end": 1409.46,
+   "text": "thing, knowing that I'm going to get an hour to play with some of my closest friends and just",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1409.46,
+   "end": 1416.26,
+   "text": "have fun and laugh has been invaluable, uh, over these last almost, I guess, two years at this point.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1416.26,
+   "end": 1425.2,
+   "text": "Um, so thank you for supporting us and allowing us to continue to make this really stupid show.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1425.88,
+   "end": 1431.08,
+   "text": "Um, I guess what, how long have I been recording for? We want to try to make these, Oh, 25,",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1431.28,
+   "end": 1437.98,
+   "text": "25 minutes. I should try to wrap this up. Um, what's one more, it's one more question that I have",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1437.98,
+   "end": 1446.25,
+   "text": "so many. What's my favorite type of corn? Uh, that's a tough one. I don't like cream corn corn on the",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1446.25,
+   "end": 1451.59,
+   "text": "cob feels like such a generic answer. I feel like popcorn is the elite corn. It's probably the best",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1451.59,
+   "end": 1458.47,
+   "text": "corn. I don't care for the band corn. Uh, I think popcorn, but I think there's an argument you can",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1458.47,
+   "end": 1465.73,
+   "text": "make for possibly corn pops or corn flex, less so flex corn pops though. Pretty good. I feel bad.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1465.85,
+   "end": 1469.93,
+   "text": "I have so many more questions. I guess I'll, I'll tackle these maybe next show. I'll just make it",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1469.93,
+   "end": 1475.15,
+   "text": "super specific on Q and a stuff so I could get through all of them. Uh, if I, you left the",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1475.15,
+   "end": 1479.63,
+   "text": "question, I didn't answer it. I will do my best to do so next episode. Once again, thank you so much",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1479.63,
+   "end": 1485.53,
+   "text": "for listening. Uh, it really means a lot to us that you all continue to support our show and allow us",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 1485.53,
+   "end": 1491.85,
+   "text": "to make it and do the dumb shit that we do. Uh, so thank you so much. I hope you have a wonderful day.",
+   "speaker": "SPEAKER_00"
+  }
+ ]
+}

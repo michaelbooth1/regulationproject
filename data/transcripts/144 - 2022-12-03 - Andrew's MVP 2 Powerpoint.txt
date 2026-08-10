@@ -1,0 +1,2235 @@
+# Episode 144: Andrew's MVP 2 Powerpoint
+published: 2022-12-03T08:00:00+00:00  |  duration: 00:27:03
+source: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/traffic.megaphone.fm/ROOSTER7493835717.mp3?updated=1774130429
+transcribed: 2026-08-07T16:21:24.698671-04:00  |  model: large-v3-turbo
+diarization: pyannote/speaker-diarization-3.1
+
+
+[00:00:00] SPEAKER_00
+Some things are better when they're kept simple. Like Simply Lemonade, made with real lemons and cane sugar, giving you a fresh, all-natural taste that shines through in every sip. It's the kind of drink that turns an everyday moment into something a little more special. Bright, refreshing, and crafted for people who appreciate the real thing. Visit the chill juice aisle in your local grocery store today and say yes to Simple.
+
+[00:00:27] SPEAKER_01
+Hungry now. What about now? Whenever it hits you, wherever you are, grab an O'Henry bar to satisfy your hunger. With its delicious combination of big, crunchy, salty peanuts covered in creamy caramel and chewy fudge with a chocolatey coating. Swing by a gas station and get an O'Henry today.
+
+[00:00:57] SPEAKER_05
+O'Hungry, O'Henry.
+
+[00:00:59] SPEAKER_03
+Hello and welcome to another piece of supplemental content for the F**kface Podcast. My name is Geoff Ramsey. With me as always, Andrew Panton, Gavin Free.
+
+[00:01:19] SPEAKER_03
+Somewhere in the back, Eric and Nick, I believe, are hanging out. And I'm excited about this one, fellas, because this recording is nine, approximately nine months in the making, I would say.
+
+[00:01:32] SPEAKER_06
+Somewhere around there. I'd love to know how many times we rescheduled this. At least six.
+
+[00:01:37] SPEAKER_03
+Eric, how many times have we rescheduled this?
+
+[00:01:39] SPEAKER_04
+Yeah, I think everyone got at least two in where we rescheduled it. Gavin might only be responsible for one, but I don't remember.
+
+[00:01:47] SPEAKER_06
+No, I'm one. I was going to be quiet. I only rescheduled once. I'm not giving Gavin the one.
+
+[00:01:52] SPEAKER_04
+Okay, that's good. He did not have that.
+
+[00:01:52] SPEAKER_04
+That's good. He was going to be quiet.
+
+[00:01:55] SPEAKER_03
+Well, I'm going to be honest and say I'm two or three, and I don't feel like I was the worst offender.
+
+[00:01:59] SPEAKER_03
+I think I'm two. Yeah. At least six, based off that.
+
+[00:02:04] SPEAKER_03
+Regardless, I will say this. We recorded the latest episode of F*** Face yesterday. I believe it was 1.27.
+
+[00:02:11] SPEAKER_03
+And after it, we realized this was on the calendar, and everybody wanted to record the monkey movie today, except for Andrew.
+
+[00:02:17] SPEAKER_03
+So we didn't let him reschedule it, but he did try. He did try yesterday to say, let's keep the recording slot, but record more F*** Face instead.
+
+[00:02:25] SPEAKER_03
+I suspect that's because the 98% that he said he was done on the presentation was more like 8%.
+
+[00:02:33] SPEAKER_03
+And now that you're yawning, it makes me think you pulled an all-nighter.
+
+[00:02:36] SPEAKER_06
+No, it was done by the time that happened. Sorry, I want this show to release every single week it's supposed to.
+
+[00:02:44] SPEAKER_06
+And Gavin previously said, we better be ready by the end of October, because he's out all of November, which isn't the case.
+
+[00:02:51] SPEAKER_06
+It's not the case at all.
+
+[00:02:52] SPEAKER_06
+So it's not my fault. It's not my fault that I was just going based off of what I was told, and I was concerned about the listeners being able to get the show.
+
+[00:02:59] SPEAKER_06
+I apologize for prioritizing their entertainment.
+
+[00:03:02] SPEAKER_02
+Your freaking dock, dude. You've got like four incompatible apps. You've got two question marks.
+
+[00:03:09] SPEAKER_02
+It's the anxiety.
+
+[00:03:10] SPEAKER_03
+The dock is going to be great. The dock is fantastic.
+
+[00:03:13] SPEAKER_03
+I would hate to see what your desktop looks like.
+
+[00:03:15] SPEAKER_03
+Oh, you want to see?
+
+[00:03:16] SPEAKER_03
+I think we've seen that before.
+
+[00:03:18] SPEAKER_03
+You want to see what it looks like right now?
+
+[00:03:19] SPEAKER_03
+Yeah.
+
+[00:03:20] SPEAKER_03
+Minimize this, please.
+
+[00:03:21] SPEAKER_06
+Yeah, we're going to drop it out of that, drop it out of that.
+
+[00:03:24] SPEAKER_06
+Oh, that's not terrible.
+
+[00:03:25] SPEAKER_06
+Nah, it's pretty good.
+
+[00:03:28] SPEAKER_02
+Is that a picture of your fingers?
+
+[00:03:30] SPEAKER_06
+I don't know what that was.
+
+[00:03:31] SPEAKER_06
+Oh, that was me complaining about a break shit and what the feed was for me and what my perspective was.
+
+[00:03:37] SPEAKER_06
+I was trying to be like, this is the quality ahead.
+
+[00:03:39] SPEAKER_06
+Is that a picture of Vancouver Island? Where do you live?
+
+[00:03:42] SPEAKER_06
+No, I don't know what that is. It's just the standard Mac thing.
+
+[00:03:46] SPEAKER_06
+Okay.
+
+[00:03:47] SPEAKER_03
+Okay, so now that we're an indeterminate amount of time into the supplemental content, I realize we haven't said what it is.
+
+[00:03:54] SPEAKER_03
+What we're going to be doing is this is going to be content in two parts.
+
+[00:03:57] SPEAKER_03
+We've been talking about watching the movie MVP 2 for a very long time.
+
+[00:04:02] SPEAKER_03
+We're finally going to do it.
+
+[00:04:03] SPEAKER_03
+It's about a monkey.
+
+[00:04:04] SPEAKER_03
+That's about as much as we know.
+
+[00:04:06] SPEAKER_03
+Highly influential to Andrew as a child.
+
+[00:04:08] SPEAKER_03
+But before we wanted to watch MVP 2, Gavin and I felt like we needed a primer on MVP 1 because we don't want to be lost in the weeds trying to catch up on old storylines.
+
+[00:04:18] SPEAKER_03
+So, Andrew, the first piece of this content, Andrew's going to give us his recitation, his distilled summary of what MVP 1 was all about.
+
+[00:04:29] SPEAKER_03
+Andrew?
+
+[00:04:29] SPEAKER_06
+Yeah, this is an important lead-in.
+
+[00:04:31] SPEAKER_06
+The doc has been made.
+
+[00:04:32] SPEAKER_06
+I'm excited to share this with you.
+
+[00:04:34] SPEAKER_06
+This is going to just go over kind of the broad strokes of the movie because I realized while re-watching this to gather these images,
+
+[00:04:41] SPEAKER_06
+the second movie has little to nothing to do with the first movie.
+
+[00:04:46] SPEAKER_06
+So we don't need this?
+
+[00:04:48] SPEAKER_06
+Completely pointless.
+
+[00:04:49] SPEAKER_06
+You're really gaining no additional information from this experience.
+
+[00:04:52] SPEAKER_06
+The movie ends in a completely different spot than the second one begins.
+
+[00:04:58] SPEAKER_06
+We get right into the middle of the action.
+
+[00:05:00] SPEAKER_03
+So would you say MVP 2 is more of like a soft reboot, kind of like Evil Dead to Evil Dead 2 kind of thing?
+
+[00:05:06] SPEAKER_06
+I would say so, but I haven't watched MVP 2 since I was probably 10, and I'm terrified that it's going to be a boring, terrible movie and that this is just all around the worst idea.
+
+[00:05:16] SPEAKER_02
+You should be presented in dewbox.
+
+[00:05:19] SPEAKER_06
+Ah, no.
+
+[00:05:19] SPEAKER_06
+I should have.
+
+[00:05:20] SPEAKER_06
+I should have went through.
+
+[00:05:21] SPEAKER_06
+Yeah, that's on me.
+
+[00:05:22] SPEAKER_06
+That's my failing.
+
+[00:05:23] SPEAKER_02
+No worries.
+
+[00:05:24] SPEAKER_02
+No worries.
+
+[00:05:24] SPEAKER_06
+Yeah, that's on me.
+
+[00:05:25] SPEAKER_06
+So should we begin this presentation of MVP?
+
+[00:05:29] SPEAKER_06
+I believe this movie came out in 98.
+
+[00:05:31] SPEAKER_04
+That could be wrong.
+
+[00:05:32] SPEAKER_04
+Could be opening.
+
+[00:05:32] SPEAKER_04
+I'm sorry, real quick.
+
+[00:05:33] SPEAKER_04
+If you're listening to this and you want to see Andrew's slideshow, go to the F*** Face YouTube in the video version of this supplemental piece of content will be Andrew's full slideshow.
+
+[00:05:44] SPEAKER_04
+Just wanted to let everyone know what was going on.
+
+[00:05:46] SPEAKER_04
+Looks like a movie came out in 2000, by the way.
+
+[00:05:50] SPEAKER_06
+Okay, 2000.
+
+[00:05:51] SPEAKER_06
+Great.
+
+[00:05:51] SPEAKER_06
+If you guys have any questions or want to interject, feel free to interrupt at any time.
+
+[00:05:55] SPEAKER_06
+But we shall begin with MVP, Most Valuable Primate, a presentation by me, Andrew Panton.
+
+[00:06:05] SPEAKER_06
+On to slide number two.
+
+[00:06:07] SPEAKER_05
+But before that, banana wipe!
+
+[00:06:11] SPEAKER_05
+Look at all the bananas!
+
+[00:06:12] SPEAKER_05
+Bananas coming down!
+
+[00:06:13] SPEAKER_05
+Bananas falling!
+
+[00:06:14] SPEAKER_05
+We got the banana wipe!
+
+[00:06:15] SPEAKER_05
+Oh, look down!
+
+[00:06:17] SPEAKER_05
+It's ready for bananas!
+
+[00:06:18] SPEAKER_05
+Look out!
+
+[00:06:18] SPEAKER_05
+Oh, it's coming through!
+
+[00:06:19] SPEAKER_05
+It's coming through with the bananas!
+
+[00:06:20] SPEAKER_03
+You fucking salad creamed that banana wipe so goddamn hard.
+
+[00:06:24] SPEAKER_06
+No, the tech wasn't there.
+
+[00:06:26] SPEAKER_06
+I was limited with what could be done.
+
+[00:06:27] SPEAKER_06
+That's the best banana wipe we got.
+
+[00:06:29] SPEAKER_06
+But here, we begin the motion picture with Jack.
+
+[00:06:32] SPEAKER_06
+It's the story of Jack.
+
+[00:06:34] SPEAKER_06
+And you may be wondering, is it minor league fan, Jack?
+
+[00:06:37] SPEAKER_06
+No, it's not.
+
+[00:06:39] SPEAKER_06
+Is it famous Jack Blackjack?
+
+[00:06:41] SPEAKER_06
+No, it's not him either.
+
+[00:06:42] SPEAKER_06
+Maybe it's Jack Johnson who did make a monkey movie, but it's not this monkey movie.
+
+[00:06:47] SPEAKER_06
+It's this story.
+
+[00:06:48] SPEAKER_06
+It's about Jack, this monkey.
+
+[00:06:51] SPEAKER_06
+That's Jack.
+
+[00:06:52] SPEAKER_06
+He sleeps in a college.
+
+[00:06:53] SPEAKER_06
+He lays in bed.
+
+[00:06:54] SPEAKER_06
+Is that drool?
+
+[00:06:55] SPEAKER_06
+Is he a chimpanzee?
+
+[00:06:59] SPEAKER_06
+He's a chimpanzee.
+
+[00:07:00] SPEAKER_06
+Yeah, we're not going to judge about the drool.
+
+[00:07:01] SPEAKER_06
+And you may be wondering, what does Jack like?
+
+[00:07:05] SPEAKER_06
+Jack likes...
+
+[00:07:06] SPEAKER_06
+90s decor!
+
+[00:07:09] SPEAKER_06
+You can see a lot of Godzilla in there.
+
+[00:07:10] SPEAKER_06
+It was probably one of the time that came out.
+
+[00:07:12] SPEAKER_06
+Jack also really likes hockey.
+
+[00:07:14] SPEAKER_06
+He's a big hockey guy.
+
+[00:07:15] SPEAKER_06
+It's in his room.
+
+[00:07:16] SPEAKER_06
+He's got Gretzky there.
+
+[00:07:17] SPEAKER_06
+He also enjoys coffee.
+
+[00:07:20] SPEAKER_06
+You see Jack Mug and his best friend, Dr.
+
+[00:07:23] SPEAKER_06
+Well, not his best friend, but his co-worker, Dr. Kendall.
+
+[00:07:25] SPEAKER_06
+His co-worker!
+
+[00:07:26] SPEAKER_06
+Jack also really is a big air-drying guy.
+
+[00:07:31] SPEAKER_06
+Like Jeff, you two have a lot in common.
+
+[00:07:33] SPEAKER_06
+He loves to air-dry.
+
+[00:07:35] SPEAKER_06
+He's super into it.
+
+[00:07:38] SPEAKER_06
+Jack loves being...
+
+[00:07:40] SPEAKER_06
+Oh, I forgot.
+
+[00:07:40] SPEAKER_06
+This is the whole slide.
+
+[00:07:41] SPEAKER_06
+My apologies.
+
+[00:07:42] SPEAKER_06
+Other notable actors.
+
+[00:07:44] SPEAKER_06
+Dave Thomas.
+
+[00:07:46] SPEAKER_06
+You may be thinking, wow, from Wendy's?
+
+[00:07:50] SPEAKER_06
+Nah.
+
+[00:07:51] SPEAKER_06
+Different Dave Thomas.
+
+[00:07:52] SPEAKER_06
+Not related in any way.
+
+[00:07:54] SPEAKER_06
+Next slide.
+
+[00:07:55] SPEAKER_06
+You can't even show a picture of him.
+
+[00:07:57] SPEAKER_06
+Jack loves college.
+
+[00:08:00] SPEAKER_06
+He's a...
+
+[00:08:00] SPEAKER_06
+So he's there.
+
+[00:08:01] SPEAKER_06
+It's like they study him.
+
+[00:08:02] SPEAKER_06
+They do research.
+
+[00:08:03] SPEAKER_06
+He's a big fan of college.
+
+[00:08:05] SPEAKER_06
+Mainly because his best friend, Darren, is there.
+
+[00:08:07] SPEAKER_06
+He loves Darren.
+
+[00:08:08] SPEAKER_06
+Darren is a janitor at the school.
+
+[00:08:10] SPEAKER_06
+They're best buds.
+
+[00:08:11] SPEAKER_06
+They hang out.
+
+[00:08:12] SPEAKER_06
+And that's his co-worker, Dr. Kendall, who you previously saw a mug for.
+
+[00:08:15] SPEAKER_06
+The mug guy.
+
+[00:08:16] SPEAKER_06
+Yeah.
+
+[00:08:17] SPEAKER_06
+He's like a researcher who does this study with Jack, showing how intelligent he is.
+
+[00:08:23] SPEAKER_06
+And they do it in front of kids, this whole thing.
+
+[00:08:25] SPEAKER_06
+Like, we should make Dr. Kendall mugs we can do for.
+
+[00:08:29] SPEAKER_06
+Jack also super into rollerblading.
+
+[00:08:31] SPEAKER_06
+Loves to help Darren clean up the school.
+
+[00:08:33] SPEAKER_06
+They ride around.
+
+[00:08:34] SPEAKER_06
+And they do classes.
+
+[00:08:36] SPEAKER_06
+The kids love them.
+
+[00:08:37] SPEAKER_06
+They do all sorts of things.
+
+[00:08:40] SPEAKER_06
+But here's Dr. Kendall at home.
+
+[00:08:42] SPEAKER_06
+This is...
+
+[00:08:42] SPEAKER_06
+So they have their big class.
+
+[00:08:44] SPEAKER_06
+And then Dr. Kendall's at home because this is Jack's final year at the school.
+
+[00:08:48] SPEAKER_06
+He's going to arrange to send Jack back to his reserve, which is, I believe, called L. Simeon.
+
+[00:08:52] SPEAKER_06
+And he's reminiscing about the past.
+
+[00:08:54] SPEAKER_06
+But then tragedy.
+
+[00:08:56] SPEAKER_06
+Tragedy strikes.
+
+[00:08:58] SPEAKER_06
+Dr. Kendall spills his milk.
+
+[00:09:00] SPEAKER_06
+It falls.
+
+[00:09:02] SPEAKER_06
+It hits the floor.
+
+[00:09:03] SPEAKER_06
+It's tragic.
+
+[00:09:05] SPEAKER_06
+Also, he is dead.
+
+[00:09:07] SPEAKER_06
+Dr. Kendall has died.
+
+[00:09:09] SPEAKER_06
+He's still walking with us.
+
+[00:09:13] SPEAKER_03
+We'll have to make an in memoriam mug.
+
+[00:09:14] SPEAKER_06
+And the saddest part of all of this, nobody told Jack.
+
+[00:09:19] SPEAKER_06
+He showed up to work.
+
+[00:09:21] SPEAKER_06
+He's like, where's Dr. Kendall?
+
+[00:09:23] SPEAKER_06
+He's really sad.
+
+[00:09:24] SPEAKER_06
+Because Dr. Kendall is now dead.
+
+[00:09:27] SPEAKER_06
+Oh, no, bad guys.
+
+[00:09:29] SPEAKER_06
+The bad guy showed up.
+
+[00:09:30] SPEAKER_06
+That's the head of the school.
+
+[00:09:32] SPEAKER_06
+He's a bad guy.
+
+[00:09:32] SPEAKER_06
+He has a British accent.
+
+[00:09:33] SPEAKER_06
+You don't really learn all that much about him.
+
+[00:09:35] SPEAKER_06
+He's got a white suit.
+
+[00:09:35] SPEAKER_06
+You can tell he's a bad guy.
+
+[00:09:37] SPEAKER_06
+They're there to take Jack away.
+
+[00:09:39] SPEAKER_06
+They're like, what are we going to do with Jack now that he's gone?
+
+[00:09:41] SPEAKER_06
+And he's like, I'm going to sell Jack to a hepatitis research facility.
+
+[00:09:46] SPEAKER_06
+And they'll test on Jack.
+
+[00:09:48] SPEAKER_06
+But Darren's here to save the day.
+
+[00:09:51] SPEAKER_06
+Oh, shit.
+
+[00:09:52] SPEAKER_06
+I clicked too quick.
+
+[00:09:53] SPEAKER_06
+That was a double click.
+
+[00:09:54] SPEAKER_06
+The janitor, like fucking Sam Fisher, sneaks by, holds the wall, listens in.
+
+[00:10:00] SPEAKER_06
+And he's like, we're going to sell him to hepatitis.
+
+[00:10:03] SPEAKER_06
+And then that's his face when he's like, oh, no.
+
+[00:10:05] SPEAKER_06
+Hepatitis is bad, Jack.
+
+[00:10:07] SPEAKER_06
+We might believe the guy in the white suit can't see that mop.
+
+[00:10:10] SPEAKER_06
+Yeah.
+
+[00:10:11] SPEAKER_06
+Yeah, you are.
+
+[00:10:14] SPEAKER_06
+So then Darren is like, we got to get you the fuck out of here, Jack.
+
+[00:10:17] SPEAKER_06
+So he throws Jack in a big bag and they go to the train station.
+
+[00:10:21] SPEAKER_06
+And he's like, be quiet, Jack.
+
+[00:10:23] SPEAKER_06
+I'm putting you on this train back to your home.
+
+[00:10:25] SPEAKER_06
+So then he throws Jack on the train and Jack pokes his head out just to see what's up.
+
+[00:10:30] SPEAKER_06
+Because he's heading back to the El Simeon Reserve, which is right there.
+
+[00:10:34] SPEAKER_06
+You see that El Simeon?
+
+[00:10:35] SPEAKER_06
+That's where he's from.
+
+[00:10:36] SPEAKER_06
+That's where his family is.
+
+[00:10:37] SPEAKER_06
+That's where he's trying to go to.
+
+[00:10:38] SPEAKER_06
+Go here, Jack.
+
+[00:10:40] SPEAKER_06
+El Simeon.
+
+[00:10:41] SPEAKER_06
+Meanwhile, in Nelson, Canada, we are introduced to Steven and his sister, Tara.
+
+[00:10:53] SPEAKER_06
+Steven is a big hockey guy.
+
+[00:10:54] SPEAKER_06
+He's from California.
+
+[00:10:56] SPEAKER_06
+They just moved to Nelson.
+
+[00:10:57] SPEAKER_06
+They've got a team in Nelson, Canada called the Nuggets, which from old school is their biggest fan.
+
+[00:11:05] SPEAKER_06
+He loves them.
+
+[00:11:05] SPEAKER_06
+He's a big, big Nuggets guy, loves the team.
+
+[00:11:09] SPEAKER_06
+Steven, being this hot import from California, you mix the Nuggets and the potential of Steven as an elite hockey player and you get eggs because they suck.
+
+[00:11:21] SPEAKER_06
+They're the worst team in the league.
+
+[00:11:22] SPEAKER_06
+They get thrown eggs at.
+
+[00:11:23] SPEAKER_06
+Everything's bad.
+
+[00:11:24] SPEAKER_06
+They're a terrible team.
+
+[00:11:25] SPEAKER_06
+They're just awful in every way.
+
+[00:11:27] SPEAKER_06
+So they suck.
+
+[00:11:28] SPEAKER_06
+But Steven's on the Nuggets.
+
+[00:11:29] SPEAKER_06
+But, uh-oh, there's another issue.
+
+[00:11:34] SPEAKER_06
+That's not your stop, Jack.
+
+[00:11:36] SPEAKER_06
+He slept through the train.
+
+[00:11:38] SPEAKER_06
+He missed his stop.
+
+[00:11:38] SPEAKER_06
+He's now in Nelson, Canada, and he's walking around.
+
+[00:11:41] SPEAKER_06
+He's just trying to figure things out a little bit.
+
+[00:11:44] SPEAKER_06
+He moves through.
+
+[00:11:46] SPEAKER_06
+He doesn't know where to go, but that treehouse sure looks cozy.
+
+[00:11:49] SPEAKER_02
+Why didn't Darren go with him?
+
+[00:11:52] SPEAKER_06
+Because he has to continue working.
+
+[00:11:54] SPEAKER_06
+He has a real job.
+
+[00:11:55] SPEAKER_06
+He works at the school.
+
+[00:11:56] SPEAKER_06
+He just didn't want Jack to be sold and potentially killed in a research project.
+
+[00:12:01] SPEAKER_06
+But the treehouse looks cozy.
+
+[00:12:03] SPEAKER_06
+He climbs up it.
+
+[00:12:04] SPEAKER_06
+He makes his home.
+
+[00:12:05] SPEAKER_06
+He's just living his life.
+
+[00:12:06] SPEAKER_06
+He's cozy.
+
+[00:12:07] SPEAKER_06
+Everything is great.
+
+[00:12:08] SPEAKER_06
+And maybe the best thing about Nelson is that the kids have bananas.
+
+[00:12:13] SPEAKER_06
+It's a great place to live.
+
+[00:12:14] SPEAKER_06
+Jack is really, really enjoying the new environment.
+
+[00:12:16] SPEAKER_06
+So he reaches.
+
+[00:12:18] SPEAKER_06
+He grabs the banana.
+
+[00:12:19] SPEAKER_06
+That's Tara's banana while they're watching Steven play hockey.
+
+[00:12:24] SPEAKER_06
+And, you know, first meetings are often tricky.
+
+[00:12:26] SPEAKER_06
+So she notices the banana move.
+
+[00:12:28] SPEAKER_06
+She's like, what's going on with this banana?
+
+[00:12:30] SPEAKER_06
+Jack's like, hey, what's up?
+
+[00:12:32] SPEAKER_06
+My name's Jack.
+
+[00:12:33] SPEAKER_06
+I like hockey and 90s decor.
+
+[00:12:35] SPEAKER_06
+And she does not take this well.
+
+[00:12:37] SPEAKER_06
+She is very alarmed by seeing this.
+
+[00:12:40] SPEAKER_06
+And Jack knows to get the fuck out.
+
+[00:12:42] SPEAKER_06
+He just runs.
+
+[00:12:42] SPEAKER_06
+He books it.
+
+[00:12:43] SPEAKER_06
+He goes back into the woods.
+
+[00:12:44] SPEAKER_06
+He heads back to the treehouse.
+
+[00:12:46] SPEAKER_02
+I like that we can see the previous screenshot in that new screenshot.
+
+[00:12:50] SPEAKER_02
+Yeah.
+
+[00:12:51] SPEAKER_06
+Sometimes it happens.
+
+[00:12:52] SPEAKER_06
+You get a little two for one.
+
+[00:12:54] SPEAKER_06
+Two for the price of one.
+
+[00:12:55] SPEAKER_06
+You're taking them too quickly.
+
+[00:12:58] SPEAKER_06
+Well, you know, this movie moves quickly, Gavin.
+
+[00:13:01] SPEAKER_06
+You got to keep up with it or else you get held in the past.
+
+[00:13:04] SPEAKER_06
+First meetings are tricky, but often they are worth it because they become friends.
+
+[00:13:08] SPEAKER_06
+She follows them to the treehouse.
+
+[00:13:11] SPEAKER_06
+They're now buds.
+
+[00:13:12] SPEAKER_06
+Jack is a hockey guy, as previously established.
+
+[00:13:17] SPEAKER_06
+He loves hockey.
+
+[00:13:18] SPEAKER_06
+So when they get him on the ice, they're like, whoa, look at you.
+
+[00:13:21] SPEAKER_06
+You're doing hockey stuff.
+
+[00:13:22] SPEAKER_06
+He's skating around.
+
+[00:13:23] SPEAKER_06
+He's playing in the net.
+
+[00:13:24] SPEAKER_06
+He slap shots the puck.
+
+[00:13:25] SPEAKER_06
+He hits it so hard it goes through the net.
+
+[00:13:28] SPEAKER_06
+That's how good his slap shot is.
+
+[00:13:29] SPEAKER_06
+Going through the net.
+
+[00:13:31] SPEAKER_06
+So then he's like, you know what?
+
+[00:13:32] SPEAKER_06
+I want to play for the team.
+
+[00:13:34] SPEAKER_06
+So he walks into the facility, throws some gear on, hops over the boards into the ice,
+
+[00:13:39] SPEAKER_06
+grabs the puck, scores a goal, gets out, leaves.
+
+[00:13:42] SPEAKER_06
+Shows up, scores, leaves.
+
+[00:13:43] SPEAKER_06
+Everyone's like, what's going on there?
+
+[00:13:44] SPEAKER_06
+That's fucking crazy.
+
+[00:13:46] SPEAKER_06
+They realize it was a chimp.
+
+[00:13:47] SPEAKER_06
+They're all like, what the hell is that monkey doing on the ice?
+
+[00:13:50] SPEAKER_06
+They're all, they're freaking out.
+
+[00:13:52] SPEAKER_06
+So then all the owners have a meeting because they profit share.
+
+[00:13:55] SPEAKER_06
+This is a real scene and plot point in the movie.
+
+[00:13:58] SPEAKER_06
+The owners get together.
+
+[00:13:59] SPEAKER_06
+They're like, what should we allow this monkey to play in our league?
+
+[00:14:02] SPEAKER_06
+They all profit share.
+
+[00:14:04] SPEAKER_06
+They're like, oh, people will pay money to see this monkey play hockey.
+
+[00:14:07] SPEAKER_06
+Let's do it.
+
+[00:14:08] SPEAKER_06
+So that's them.
+
+[00:14:09] SPEAKER_06
+They're all agreeing that he could be in the league.
+
+[00:14:11] SPEAKER_06
+He gets, he's now a legal player.
+
+[00:14:13] SPEAKER_06
+Everything is above board.
+
+[00:14:15] SPEAKER_06
+Welcome to the team, Jack.
+
+[00:14:16] SPEAKER_03
+Hey, can I just, one quick intersection?
+
+[00:14:19] SPEAKER_03
+Of course.
+
+[00:14:19] SPEAKER_03
+Because you said we could do that while shit's up on the stage.
+
+[00:14:22] SPEAKER_03
+Yeah.
+
+[00:14:23] SPEAKER_03
+Because the audience has already pointed it out a few times,
+
+[00:14:25] SPEAKER_03
+and I imagine they're going to point it out over and over again.
+
+[00:14:26] SPEAKER_03
+We, we know that a chimpanzee is not a monkey.
+
+[00:14:29] SPEAKER_03
+It's, I get it.
+
+[00:14:31] SPEAKER_03
+They're not the same thing, but monkey's just a fun word to say.
+
+[00:14:34] SPEAKER_03
+Okay, sorry, go ahead.
+
+[00:14:36] SPEAKER_06
+Now with Jack joining the Nuggets, the Nuggets go from shit to hit.
+
+[00:14:41] SPEAKER_06
+Hit.
+
+[00:14:42] SPEAKER_06
+Immediately.
+
+[00:14:42] SPEAKER_06
+They're going up.
+
+[00:14:44] SPEAKER_06
+They're scoring goals.
+
+[00:14:45] SPEAKER_06
+Jack's hitting people with sticks.
+
+[00:14:46] SPEAKER_06
+They're on papers.
+
+[00:14:47] SPEAKER_06
+He's thumbs up.
+
+[00:14:48] SPEAKER_06
+Oh, everything's great.
+
+[00:14:49] SPEAKER_06
+They're going to the Harvest Cup, which is like the highest achievement you get.
+
+[00:14:54] SPEAKER_06
+It's like their Super Bowl, essentially for their league, or Stanley Cup,
+
+[00:14:57] SPEAKER_06
+if we're within hockey.
+
+[00:14:59] SPEAKER_06
+But what happened to those bad guys?
+
+[00:15:03] SPEAKER_06
+He's all like calling around.
+
+[00:15:04] SPEAKER_06
+People are like, hey, where's Jack?
+
+[00:15:06] SPEAKER_06
+What's going on with Jack?
+
+[00:15:07] SPEAKER_06
+We're going to remove our funding if you can't find Jack.
+
+[00:15:09] SPEAKER_06
+So he's calling, going like, where's my monkey?
+
+[00:15:12] SPEAKER_06
+And he's eating, he's eating stuff.
+
+[00:15:14] SPEAKER_06
+And then he looks at the TV, and he sees highlights of Jack playing hockey,
+
+[00:15:18] SPEAKER_06
+saying that he's going to be in this tournament.
+
+[00:15:20] SPEAKER_06
+So he's like, oh, there he is.
+
+[00:15:22] SPEAKER_06
+There's my monkey.
+
+[00:15:22] SPEAKER_06
+I'm going to go get him.
+
+[00:15:24] SPEAKER_06
+So he travels to Vancouver, BC,
+
+[00:15:27] SPEAKER_06
+which is where the championship is for the Harvest Cup.
+
+[00:15:29] SPEAKER_06
+And this is all because he doesn't like Hepatitis?
+
+[00:15:32] SPEAKER_06
+He was trying to, no, there's no reason.
+
+[00:15:34] SPEAKER_06
+He just wanted money.
+
+[00:15:35] SPEAKER_06
+They're going to pay him money to send him to this facility.
+
+[00:15:38] SPEAKER_06
+So he's walking around the arena.
+
+[00:15:40] SPEAKER_06
+Tara walks into him, spills her hot chocolate all over his pants.
+
+[00:15:45] SPEAKER_06
+And then him and his sidekick are like, hey, have you seen my monkey?
+
+[00:15:48] SPEAKER_06
+With a wanted poster.
+
+[00:15:50] SPEAKER_06
+And Tara, like, runs away in fear.
+
+[00:15:52] SPEAKER_06
+And so he chases after her and goes to the team's room and is like, give me the monkey now.
+
+[00:15:57] SPEAKER_06
+And he points at him.
+
+[00:15:58] SPEAKER_06
+They close the door.
+
+[00:16:00] SPEAKER_02
+I think this guy was dressed as a pirate once in Kenan and Kel.
+
+[00:16:05] SPEAKER_02
+I'd love to check that.
+
+[00:16:07] SPEAKER_06
+So quick, they have to make a plan because they're there to steal Jack.
+
+[00:16:11] SPEAKER_06
+So they're going through.
+
+[00:16:12] SPEAKER_06
+They look at the back of Jack's photo.
+
+[00:16:14] SPEAKER_06
+They see the name El Simi Nature Preserve.
+
+[00:16:16] SPEAKER_06
+They're like, this must be it.
+
+[00:16:17] SPEAKER_06
+This must be his home.
+
+[00:16:18] SPEAKER_06
+So they call the preserve and then Tara gets in a cab and she's going to go help figure things out.
+
+[00:16:25] SPEAKER_06
+She's leaving the arena.
+
+[00:16:26] SPEAKER_06
+They're go-go now.
+
+[00:16:27] SPEAKER_06
+She's go-go now-ing to get assistance for the future.
+
+[00:16:31] SPEAKER_06
+After all that happens, we go back to the game because it's important.
+
+[00:16:35] SPEAKER_06
+It's the championship match.
+
+[00:16:37] SPEAKER_06
+It's 1-1, 2 minutes, 32 seconds on the clock, third period.
+
+[00:16:41] SPEAKER_06
+It's down to the wire.
+
+[00:16:42] SPEAKER_06
+The Nuggets take a shot and it stops on the line.
+
+[00:16:45] SPEAKER_06
+I need to drink water in my throat.
+
+[00:16:46] SPEAKER_06
+And that's not a goal.
+
+[00:16:49] SPEAKER_06
+That's not a goal.
+
+[00:16:51] SPEAKER_06
+It hasn't crossed.
+
+[00:16:52] SPEAKER_06
+It's stopped directly on the line.
+
+[00:16:55] SPEAKER_06
+So it's a big scramble.
+
+[00:16:57] SPEAKER_06
+The goalie gets all caught up.
+
+[00:16:58] SPEAKER_06
+The goalie's being held down.
+
+[00:16:59] SPEAKER_06
+They're fighting.
+
+[00:17:00] SPEAKER_06
+All the players are fighting.
+
+[00:17:01] SPEAKER_06
+But Jack, he slides for it.
+
+[00:17:04] SPEAKER_06
+He goes right between the legs of the guy.
+
+[00:17:06] SPEAKER_06
+Oh, he's begged him.
+
+[00:17:07] SPEAKER_06
+And he scores.
+
+[00:17:09] SPEAKER_06
+The Nuggets win.
+
+[00:17:10] SPEAKER_06
+The Nuggets win the championship.
+
+[00:17:11] SPEAKER_06
+They're all celebrating.
+
+[00:17:12] SPEAKER_06
+Everyone's all happy.
+
+[00:17:13] SPEAKER_06
+It's a huge success.
+
+[00:17:14] SPEAKER_06
+But wait, it was Tara all along.
+
+[00:17:18] SPEAKER_06
+She's the one who scored.
+
+[00:17:20] SPEAKER_06
+She slid in.
+
+[00:17:21] SPEAKER_06
+And they're like, wait, was Tara?
+
+[00:17:24] SPEAKER_06
+Where's Jack?
+
+[00:17:26] SPEAKER_06
+What happened?
+
+[00:17:26] SPEAKER_06
+Doesn't matter.
+
+[00:17:27] SPEAKER_06
+Party time.
+
+[00:17:27] SPEAKER_06
+We're celebrating.
+
+[00:17:28] SPEAKER_06
+We're celebrating the win.
+
+[00:17:29] SPEAKER_06
+It's a big win.
+
+[00:17:30] SPEAKER_06
+Bad guy's loss.
+
+[00:17:31] SPEAKER_06
+But where's Jack?
+
+[00:17:34] SPEAKER_06
+Jack's on a journey.
+
+[00:17:36] SPEAKER_06
+He was the one who got in the cab.
+
+[00:17:38] SPEAKER_06
+They took him to the airport and bought him a ticket to go back to the El Simeon Preserve.
+
+[00:17:43] SPEAKER_06
+So he's riding in.
+
+[00:17:44] SPEAKER_06
+He goes home.
+
+[00:17:45] SPEAKER_06
+He gets driven there.
+
+[00:17:46] SPEAKER_06
+He sees his family.
+
+[00:17:47] SPEAKER_06
+His best friend Darren now works there.
+
+[00:17:50] SPEAKER_06
+Everything's great.
+
+[00:17:51] SPEAKER_06
+He gives him a hug.
+
+[00:17:52] SPEAKER_06
+It's just happy.
+
+[00:17:53] SPEAKER_06
+Everything's all around happy.
+
+[00:17:54] SPEAKER_06
+They win the championship.
+
+[00:17:56] SPEAKER_06
+Everyone's great.
+
+[00:17:56] SPEAKER_06
+He goes home.
+
+[00:17:57] SPEAKER_06
+Darren's there.
+
+[00:17:58] SPEAKER_06
+It is the end of the film.
+
+[00:18:00] SPEAKER_06
+Banana wipe.
+
+[00:18:01] SPEAKER_06
+Yeah.
+
+[00:18:02] SPEAKER_06
+Oh, you did it.
+
+[00:18:03] SPEAKER_06
+Oh, you did it.
+
+[00:18:04] SPEAKER_06
+That was excellent.
+
+[00:18:06] SPEAKER_06
+But wait.
+
+[00:18:06] SPEAKER_06
+Hey.
+
+[00:18:13] SPEAKER_06
+I was curious about Jack and who played him in the role.
+
+[00:18:17] SPEAKER_06
+Jack was played by three different chimps.
+
+[00:18:20] SPEAKER_06
+Louie, Bernie, and Mac.
+
+[00:18:21] SPEAKER_06
+Yes.
+
+[00:18:22] SPEAKER_06
+One of them, Bernie.
+
+[00:18:24] SPEAKER_06
+See there?
+
+[00:18:26] SPEAKER_06
+Bernie played him, I think, the most for MVP.
+
+[00:18:28] SPEAKER_06
+And I believe also in MVP 2.
+
+[00:18:31] SPEAKER_06
+Bernie is now in the Oakland Zoo.
+
+[00:18:33] SPEAKER_06
+Oh.
+
+[00:18:34] SPEAKER_06
+Did he get put on a train?
+
+[00:18:35] SPEAKER_06
+Yeah, he just flew.
+
+[00:18:37] SPEAKER_06
+That's where he really went.
+
+[00:18:39] SPEAKER_06
+He went there.
+
+[00:18:40] SPEAKER_06
+I read in 2010 was the last update I was able to find a Bernie.
+
+[00:18:43] SPEAKER_06
+So I emailed.
+
+[00:18:44] SPEAKER_02
+Oh, dear.
+
+[00:18:45] SPEAKER_06
+I emailed the Oakland Zoo to confirm he was still a resident there.
+
+[00:18:49] SPEAKER_06
+They replied saying, yes, he was.
+
+[00:18:51] SPEAKER_06
+And then sent me a bunch of information about how using animals in films is wrong.
+
+[00:18:55] SPEAKER_06
+So I did not follow up.
+
+[00:18:58] SPEAKER_99
+Banana wipe.
+
+[00:19:00] SPEAKER_06
+The end.
+
+[00:19:00] SPEAKER_03
+What about the other two chimps?
+
+[00:19:02] SPEAKER_03
+I have no idea where they went.
+
+[00:19:03] SPEAKER_02
+Okay.
+
+[00:19:04] SPEAKER_03
+What was the bad guy's name in the suit?
+
+[00:19:07] SPEAKER_06
+Oh, God.
+
+[00:19:08] SPEAKER_06
+What was it?
+
+[00:19:09] SPEAKER_06
+Is it Peabody, maybe?
+
+[00:19:10] SPEAKER_06
+I don't remember.
+
+[00:19:11] SPEAKER_06
+He's such an insignificant character in the movie.
+
+[00:19:15] SPEAKER_03
+I was trying to look up the cast to see if he did, in fact, appear in.
+
+[00:19:19] SPEAKER_02
+Oh, is that right?
+
+[00:19:21] SPEAKER_02
+Was I right?
+
+[00:19:21] SPEAKER_02
+I don't know.
+
+[00:19:22] SPEAKER_02
+I can't.
+
+[00:19:23] SPEAKER_02
+I think he worked at a jewelry shop in Friends, too.
+
+[00:19:25] SPEAKER_03
+Is his name Dr. Peabody?
+
+[00:19:27] SPEAKER_03
+Maybe that's it?
+
+[00:19:28] SPEAKER_03
+Yeah.
+
+[00:19:28] SPEAKER_03
+I think it is Peabody.
+
+[00:19:30] SPEAKER_03
+Okay, let's see.
+
+[00:19:31] SPEAKER_03
+He appeared in, oh, my God, he's been in 115 things.
+
+[00:19:35] SPEAKER_03
+He's been in a lot of stuff.
+
+[00:19:37] SPEAKER_02
+I've seen him as just a miffed Brit in pretty much every American thing he's in.
+
+[00:19:41] SPEAKER_03
+You said Keenan and Kel, right?
+
+[00:19:42] SPEAKER_02
+Yeah.
+
+[00:19:44] SPEAKER_03
+He's not showing up for that.
+
+[00:19:46] SPEAKER_02
+Oh, shit.
+
+[00:19:47] SPEAKER_03
+Could be wrong.
+
+[00:19:47] SPEAKER_03
+Oh, was that?
+
+[00:19:48] SPEAKER_03
+Well, what's that show called?
+
+[00:19:49] SPEAKER_03
+Kel?
+
+[00:19:49] SPEAKER_03
+Keenan and Kel?
+
+[00:19:50] SPEAKER_03
+No, no.
+
+[00:19:50] SPEAKER_03
+He played Gavin the Waiter.
+
+[00:19:52] SPEAKER_03
+He played Gavin the Waiter in 1999 in Keenan and Kel.
+
+[00:19:57] SPEAKER_02
+Yeah, I think he was dressed as a pirate with a parrot on him.
+
+[00:20:00] SPEAKER_03
+He was the British colonel in The Spy Who Shagged Me.
+
+[00:20:03] SPEAKER_03
+Really?
+
+[00:20:03] SPEAKER_03
+Oh, that's where I recognize him from.
+
+[00:20:06] SPEAKER_03
+Yeah, I could see that now.
+
+[00:20:09] SPEAKER_03
+Oh, he's in MVP 2 as well.
+
+[00:20:11] SPEAKER_03
+Oh, spoiler.
+
+[00:20:13] SPEAKER_03
+He plays a different character.
+
+[00:20:15] SPEAKER_03
+And he's Dr. Peabody in Most Valuable Primate and MVP 2 Most Vertical Primate, which I did
+
+[00:20:20] SPEAKER_03
+not know what it's called.
+
+[00:20:20] SPEAKER_03
+His name is Mr. Raheja.
+
+[00:20:25] SPEAKER_03
+Interesting.
+
+[00:20:26] SPEAKER_03
+We'll have to keep our eye open for him.
+
+[00:20:27] SPEAKER_03
+We will.
+
+[00:20:28] SPEAKER_03
+Anyway, I didn't mean to get us sidetracked.
+
+[00:20:30] SPEAKER_03
+Andrew, that was a phenomenal recitation.
+
+[00:20:34] SPEAKER_03
+I feel completely and totally versed in the MVP universe now.
+
+[00:20:38] SPEAKER_03
+And I don't know about you, Gavin, but I was hanging on your every word.
+
+[00:20:42] SPEAKER_02
+I loved it.
+
+[00:20:42] SPEAKER_02
+That was great.
+
+[00:20:43] SPEAKER_02
+And the surprise banana wipe at the end.
+
+[00:20:45] SPEAKER_06
+Yeah.
+
+[00:20:47] SPEAKER_06
+I got a lot of help in putting that together.
+
+[00:20:49] SPEAKER_06
+If it was just me, it would it would have definitely been more salad creamed.
+
+[00:20:53] SPEAKER_06
+I'm glad that you guys enjoyed it.
+
+[00:20:54] SPEAKER_06
+I'm excited to watch this movie.
+
+[00:20:56] SPEAKER_06
+I yeah, I don't know if this is terrible.
+
+[00:21:01] SPEAKER_06
+I don't know if this will be fun.
+
+[00:21:03] SPEAKER_06
+I'm hoping it will be fun.
+
+[00:21:04] SPEAKER_06
+I know it starts out great.
+
+[00:21:06] SPEAKER_06
+It has a fantastic opening.
+
+[00:21:07] SPEAKER_06
+It's the only thing I've revisited in recent time.
+
+[00:21:10] SPEAKER_06
+Should we should we start?
+
+[00:21:11] SPEAKER_06
+We probably should.
+
+[00:21:12] SPEAKER_03
+This guy is like my new favorite actor.
+
+[00:21:14] SPEAKER_03
+His roles, man.
+
+[00:21:16] SPEAKER_03
+He I've posted in the check in the text chat.
+
+[00:21:19] SPEAKER_02
+Was that Darren or Peabody?
+
+[00:21:23] SPEAKER_03
+Oh, there he is.
+
+[00:21:25] SPEAKER_03
+Mr. Peabody or Dr. Peabody.
+
+[00:21:29] SPEAKER_03
+That's fantastic.
+
+[00:21:30] SPEAKER_03
+Oh, that's awesome.
+
+[00:21:33] SPEAKER_03
+Oh, all right.
+
+[00:21:35] SPEAKER_03
+Well, I think that covers MVP one most vertical primate from 2000 in its entirety.
+
+[00:21:41] SPEAKER_03
+If you needed a primer before you watch MVP two, you've got it right there.
+
+[00:21:46] SPEAKER_03
+Thanks for listening to this.
+
+[00:21:47] SPEAKER_03
+Now go ahead and stop.
+
+[00:21:49] SPEAKER_03
+And then if you're brave, hop on into MVP two with us.
+
+[00:21:52] SPEAKER_03
+Most vertical primate.
+
+[00:21:55] SPEAKER_03
+What service is it on so people can watch along?
+
+[00:21:57] SPEAKER_04
+Amazon Prime.
+
+[00:21:58] SPEAKER_04
+Amazon.
+
+[00:21:59] SPEAKER_04
+You can get on Amazon and Tubi.
+
+[00:22:01] SPEAKER_03
+I was about to say, I have no idea.
+
+[00:22:03] SPEAKER_03
+It sounds like Amazon Prime.
+
+[00:22:04] SPEAKER_03
+Okay, there you go.
+
+[00:22:05] SPEAKER_04
+I mean, you just share a screen through Discord.
+
+[00:22:19] SPEAKER_04
+Yeah, I clicked the button and it took me here.
+
+[00:22:22] SPEAKER_04
+You clicked the Discord button for sharing screens?
+
+[00:22:25] SPEAKER_04
+I clicked the Discord button for sharing screen and it took me here.
+
+[00:22:28] SPEAKER_06
+I don't know why you're mad at me.
+
+[00:22:32] SPEAKER_06
+I don't know.
+
+[00:22:32] SPEAKER_06
+I don't know why.
+
+[00:22:33] SPEAKER_06
+I'm getting yelled at for yawning.
+
+[00:22:34] SPEAKER_06
+All I did was yawn.
+
+[00:22:36] SPEAKER_06
+I'm getting attacked for that.
+
+[00:22:37] SPEAKER_06
+I'm clicking buttons.
+
+[00:22:39] SPEAKER_06
+I'm doing everything I'm supposed to do.
+
+[00:22:40] SPEAKER_04
+I'm clicking.
+
+[00:22:40] SPEAKER_04
+You think the thing that absolves you here is that you're clicking buttons?
+
+[00:22:44] SPEAKER_04
+You think that's what I want to hear?
+
+[00:22:46] SPEAKER_04
+Yeah.
+
+[00:22:46] SPEAKER_04
+Yeah, because you wanted me to share my screen.
+
+[00:22:48] SPEAKER_04
+Wait, why is...
+
+[00:22:48] SPEAKER_04
+Hey, Gavin just shared his screen.
+
+[00:22:51] SPEAKER_04
+It was very easy.
+
+[00:22:52] SPEAKER_04
+Oh, congratulations.
+
+[00:22:53] SPEAKER_06
+You on a different computer were able to do a thing that I couldn't do on my computer.
+
+[00:22:57] SPEAKER_06
+It's 100% simple.
+
+[00:22:58] SPEAKER_06
+No, I got a security pop-up.
+
+[00:23:00] SPEAKER_06
+I mean, it's dead simple to share your screen.
+
+[00:23:04] SPEAKER_06
+You can choose to quit Google Chrome app now or do it on your own later.
+
+[00:23:09] SPEAKER_04
+I don't under...
+
+[00:23:10] SPEAKER_04
+Are you...
+
+[00:23:11] SPEAKER_04
+Do you not have Discord?
+
+[00:23:12] SPEAKER_04
+You have the app?
+
+[00:23:13] SPEAKER_04
+Like a browser app?
+
+[00:23:14] SPEAKER_04
+I'm just on their browser.
+
+[00:23:16] SPEAKER_04
+Yeah, I just go on the browser.
+
+[00:23:17] SPEAKER_04
+What?
+
+[00:23:17] SPEAKER_04
+I just Google it.
+
+[00:23:18] SPEAKER_04
+Oh, we're...
+
+[00:23:19] SPEAKER_04
+I don't use the app.
+
+[00:23:20] SPEAKER_04
+We're fucked.
+
+[00:23:20] SPEAKER_06
+This isn't like...
+
+[00:23:22] SPEAKER_02
+So we're doing Discord through a browser.
+
+[00:23:24] SPEAKER_06
+Why?
+
+[00:23:25] SPEAKER_06
+The entire time.
+
+[00:23:26] SPEAKER_06
+Why?
+
+[00:23:26] SPEAKER_06
+Why wouldn't I...
+
+[00:23:27] SPEAKER_06
+Why would I do it any other way?
+
+[00:23:28] SPEAKER_03
+It's a program.
+
+[00:23:30] SPEAKER_03
+Look, I'm sharing my screen.
+
+[00:23:31] SPEAKER_04
+Yeah.
+
+[00:23:32] SPEAKER_04
+Jeff, did it take you...
+
+[00:23:33] SPEAKER_04
+Like, when you were doing that, did it take you to a Google Chrome page where you just
+
+[00:23:38] SPEAKER_04
+started clicking buttons?
+
+[00:23:40] SPEAKER_06
+No, it didn't do any of those things.
+
+[00:23:42] SPEAKER_06
+Okay.
+
+[00:23:42] SPEAKER_06
+Wait.
+
+[00:23:43] SPEAKER_06
+No, wait a second.
+
+[00:23:43] SPEAKER_06
+I think it's okay now.
+
+[00:23:45] SPEAKER_06
+I think we can record the screen.
+
+[00:23:47] SPEAKER_06
+Share your screen.
+
+[00:23:48] SPEAKER_06
+This is so good already.
+
+[00:23:49] SPEAKER_06
+Okay, we're going to...
+
+[00:23:50] SPEAKER_06
+Entire screen.
+
+[00:23:53] SPEAKER_02
+Who's Jerry Lee Lewis?
+
+[00:23:54] SPEAKER_04
+What do you mean, who's Jerry Lee Lewis?
+
+[00:23:57] SPEAKER_04
+He's not American.
+
+[00:23:58] SPEAKER_04
+Gavin's not American.
+
+[00:23:59] SPEAKER_04
+Oh.
+
+[00:24:00] SPEAKER_02
+Yeah.
+
+[00:24:01] SPEAKER_04
+I mean, consider that.
+
+[00:24:03] SPEAKER_04
+My...
+
+[00:24:03] SPEAKER_04
+I think I'm sure...
+
+[00:24:04] SPEAKER_04
+Well, he's dead.
+
+[00:24:05] SPEAKER_04
+He's famous for marrying his...
+
+[00:24:07] SPEAKER_04
+Oh, really?
+
+[00:24:07] SPEAKER_04
+No, Jerry...
+
+[00:24:08] SPEAKER_04
+No, Jerry Lewis is not dead.
+
+[00:24:11] SPEAKER_04
+Are you talking about Jerry Lee Lewis or Jerry Lee Lewis?
+
+[00:24:14] SPEAKER_04
+Jerry Lee Lewis is not dead.
+
+[00:24:16] SPEAKER_04
+Oh.
+
+[00:24:16] SPEAKER_04
+A bunch of reports came out saying he died.
+
+[00:24:19] SPEAKER_04
+He is not dead.
+
+[00:24:20] SPEAKER_04
+He's famous for marrying his 14-year-old cousin.
+
+[00:24:22] SPEAKER_04
+He's not famous for marrying his cousin.
+
+[00:24:25] SPEAKER_04
+He is famous and he married his cousin.
+
+[00:24:27] SPEAKER_04
+But not dead?
+
+[00:24:29] SPEAKER_04
+No, he's not dead.
+
+[00:24:30] SPEAKER_04
+No, it came out yesterday.
+
+[00:24:31] SPEAKER_04
+A bunch of people reported that he's dead.
+
+[00:24:32] SPEAKER_04
+He's like 88 or 89.
+
+[00:24:35] SPEAKER_04
+He's old.
+
+[00:24:35] SPEAKER_02
+It just popped up on my watch.
+
+[00:24:37] SPEAKER_02
+Dead at 87.
+
+[00:24:39] SPEAKER_04
+No, wait.
+
+[00:24:39] SPEAKER_04
+Hang on.
+
+[00:24:40] SPEAKER_04
+Did...
+
+[00:24:40] SPEAKER_04
+No, he didn't act...
+
+[00:24:41] SPEAKER_04
+He actually died?
+
+[00:24:42] SPEAKER_04
+Jerry Lee Lewis died?
+
+[00:24:44] SPEAKER_04
+Did he just die?
+
+[00:24:45] SPEAKER_02
+I mean, it just popped up on my watch saying...
+
+[00:24:46] SPEAKER_04
+I mean, one day ago...
+
+[00:24:49] SPEAKER_04
+Entertainment Weekly, one day ago...
+
+[00:24:52] SPEAKER_04
+Jerry Lee Lewis is alive after being erroneously reported dead at 87.
+
+[00:24:56] SPEAKER_04
+Is he dead?
+
+[00:24:56] SPEAKER_02
+That would be annoying to die the next day after that.
+
+[00:24:58] SPEAKER_06
+He cannot be.
+
+[00:24:59] SPEAKER_06
+It's not on CNN.
+
+[00:25:01] SPEAKER_06
+That happened with the Queen, right?
+
+[00:25:02] SPEAKER_06
+There are fake reports that they were like,
+
+[00:25:04] SPEAKER_06
+Oh, she's dead.
+
+[00:25:05] SPEAKER_06
+And they're like, No, she's not dead.
+
+[00:25:06] SPEAKER_06
+She's fine.
+
+[00:25:07] SPEAKER_06
+Wikipedia says he's alive.
+
+[00:25:08] SPEAKER_04
+No, Wikipedia says he's dead.
+
+[00:25:10] SPEAKER_04
+And TMZ is reporting now that Jerry Lee Lewis is dead at 87.
+
+[00:25:14] SPEAKER_02
+What are the chances?
+
+[00:25:15] SPEAKER_04
+We weren't even going to give him socks.
+
+[00:25:17] SPEAKER_04
+I mean, hi.
+
+[00:25:18] SPEAKER_04
+He's 88.
+
+[00:25:18] SPEAKER_03
+Gavin, do you remember...
+
+[00:25:20] SPEAKER_03
+Have you ever heard that song,
+
+[00:25:21] SPEAKER_03
+Goodness Gracious, Great Balls of Fire?
+
+[00:25:22] SPEAKER_03
+Oh, yeah.
+
+[00:25:23] SPEAKER_03
+I've heard that.
+
+[00:25:23] SPEAKER_03
+That's Jerry Lee Lewis.
+
+[00:25:25] SPEAKER_06
+I tweeted that yesterday.
+
+[00:25:27] SPEAKER_06
+Oh, you did.
+
+[00:25:28] SPEAKER_06
+Just because I thought it was funny.
+
+[00:25:30] SPEAKER_06
+Yeah.
+
+[00:25:30] SPEAKER_06
+You tweeted.
+
+[00:25:30] SPEAKER_06
+People wouldn't have contacts.
+
+[00:25:32] SPEAKER_06
+All I did was tweet Great Balls of Fire, the video for it.
+
+[00:25:34] SPEAKER_02
+Because he was reported dead?
+
+[00:25:36] SPEAKER_04
+No, because he put icy hot.
+
+[00:25:37] SPEAKER_04
+No, because my balls were on fire.
+
+[00:25:38] SPEAKER_04
+Oh.
+
+[00:25:40] SPEAKER_02
+And then you...
+
+[00:25:40] SPEAKER_02
+So you killed him?
+
+[00:25:42] SPEAKER_02
+I guess.
+
+[00:25:42] SPEAKER_02
+You killed Jerry Lee.
+
+[00:25:43] SPEAKER_02
+I didn't have anything to do with that.
+
+[00:25:44] SPEAKER_03
+Holy shit!
+
+[00:25:46] SPEAKER_03
+We...
+
+[00:25:46] SPEAKER_03
+Andrew killed Jerry Lee Lewis.
+
+[00:25:49] SPEAKER_03
+Oh, Andrew's live.
+
+[00:25:51] SPEAKER_04
+Okay.
+
+[00:25:51] SPEAKER_04
+I've been live for a long time.
+
+[00:25:53] SPEAKER_04
+So, Jeff, go ahead and intro it, and then we'll go from there.
+
+[00:25:56] SPEAKER_04
+Okay, are you ready?
+
+[00:25:57] SPEAKER_04
+Am I recording?
+
+[00:25:58] SPEAKER_02
+Your doc is a nightmare.
+
+[00:26:02] SPEAKER_03
+I just wanted to make sure.
+
+[00:26:03] SPEAKER_03
+All right.
+
+[00:26:04] SPEAKER_03
+Is it now...
+
+[00:26:05] SPEAKER_03
+I'm going to wait for Andrew to say he's recording and good.
+
+[00:26:07] SPEAKER_03
+I'm recording.
+
+[00:26:07] SPEAKER_03
+Yeah, I'm good.
+
+[00:26:08] SPEAKER_03
+Seven minutes in.
+
+[00:26:10] SPEAKER_06
+Are you streaming to us at the highest quality?
+
+[00:26:12] SPEAKER_06
+I don't know what that means.
+
+[00:26:13] SPEAKER_06
+How would I check that?
+
+[00:26:15] SPEAKER_02
+Because you get to pick, like, the resolution that you're streaming.
+
+[00:26:17] SPEAKER_06
+Oh, stream settings.
+
+[00:26:18] SPEAKER_06
+Oh.
+
+[00:26:19] SPEAKER_06
+I can change windows.
+
+[00:26:20] SPEAKER_06
+How many bits do you have?
+
+[00:26:21] SPEAKER_06
+Are you going to blow through all your bits?
+
+[00:26:23] SPEAKER_06
+Oh, no.
+
+[00:26:23] SPEAKER_06
+My bits are good.
+
+[00:26:24] SPEAKER_06
+My bits are secure.
+
+[00:26:25] SPEAKER_06
+I don't know how I would change that setting, Gavin.
+
+[00:26:29] SPEAKER_06
+How does it look?
+
+[00:26:29] SPEAKER_06
+You look for me.
+
+[00:26:31] SPEAKER_04
+Tell me how it looks.
+
+[00:26:32] SPEAKER_02
+It looks a bit blurry.
+
+[00:26:33] SPEAKER_04
+There's one setting that says smoother frame rate, and the other one says, like, more readable
+
+[00:26:37] SPEAKER_04
+text.
+
+[00:26:38] SPEAKER_04
+So, I want...
+
+[00:26:39] SPEAKER_04
+Like...
+
+[00:26:40] SPEAKER_04
+Yours doesn't have that.
+
+[00:26:42] SPEAKER_04
+I hate...
+
+[00:26:43] SPEAKER_04
+I hate...
+
+[00:26:43] SPEAKER_04
+Probably because you're using a browser.
+
+[00:26:44] SPEAKER_04
+It's because you're using a browser version.
+
+[00:26:45] SPEAKER_04
+Jesus Christ.
+
+[00:26:46] SPEAKER_02
+Of all of the apps on your doc, of all of those, none of them are Discord.
+
+[00:26:53] SPEAKER_06
+Why would I download it when I could just Google it?
+
+[00:26:55] SPEAKER_04
+I don't even know what all these are.
+
+[00:27:02] SPEAKER_03
+I'll tell you what they aren't.

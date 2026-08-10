@@ -53,3 +53,19 @@ resolve `SPEAKER_xx` to the actual hosts after the audio is deleted.
 The downloaded mp3 is deleted after transcription. `data/catalog.json` tracks
 per-episode status; a crash just leaves the current episode "error" and the
 pipeline resumes cleanly on the next run.
+
+## Refresh speaker identities and frontend data
+
+After adding transcripts, rebuild the cross-episode voice clusters in a staging
+directory, then promote them while migrating the existing names to the new
+global IDs:
+
+```powershell
+.venv\Scripts\python.exe scripts\map_speakers.py --output-dir frontend\generated
+.venv\Scripts\python.exe frontend\scripts\generate_speaker_stats.py --promote
+```
+
+The mapper uses average-linkage clustering at a calibrated cosine threshold of
+`0.80`. `--promote` updates the canonical files under `data/`, preserves named
+voices by matching their episode-local cluster members, and regenerates the
+frontend speaker-time snapshot.

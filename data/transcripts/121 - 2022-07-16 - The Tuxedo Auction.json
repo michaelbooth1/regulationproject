@@ -1,0 +1,2240 @@
+{
+ "index": 121,
+ "title": "The Tuxedo Auction",
+ "pub_date": "2022-07-16T07:00:00+00:00",
+ "model": "large-v3-turbo",
+ "diarization_model": "pyannote/speaker-diarization-3.1",
+ "language": "en",
+ "language_probability": 1,
+ "duration_sec": 938.056125,
+ "speaker_embeddings": {
+  "SPEAKER_00": [
+   -0.14404,
+   0.104999,
+   -0.122586,
+   0.051764,
+   -0.009068,
+   0.167606,
+   0.322146,
+   -0.187234,
+   0.231902,
+   -0.053019,
+   0.145262,
+   -0.059145,
+   0.014468,
+   -0.064644,
+   -0.063932,
+   0.068436,
+   -0.019934,
+   0.039402,
+   0.09992,
+   -0.042538,
+   -0.088646,
+   -0.077939,
+   0.084335,
+   -0.126095,
+   -0.007807,
+   -0.147433,
+   0.147765,
+   -0.101499,
+   0.172196,
+   -0.058522,
+   0.184279,
+   0.11928,
+   0.204017,
+   -0.275032,
+   -0.329969,
+   0.056572,
+   -0.046843,
+   -0.133553,
+   0.216309,
+   -0.083735,
+   -0.05881,
+   0.084324,
+   0.106481,
+   0.037522,
+   -0.163884,
+   0.026972,
+   0.100513,
+   -0.173497,
+   0.06076,
+   0.394407,
+   0.04789,
+   -0.064127,
+   0.062314,
+   -0.212784,
+   -0.032594,
+   0.24561,
+   -0.143077,
+   -0.120423,
+   0.04437,
+   -0.175291,
+   0.134968,
+   -0.247902,
+   0.118984,
+   -0.066777,
+   -0.020849,
+   -0.064798,
+   -0.103043,
+   0.003728,
+   0.00192,
+   -0.242037,
+   0.013436,
+   0.106731,
+   -0.143934,
+   -0.128793,
+   0.101102,
+   0.093795,
+   -0.047594,
+   0.019847,
+   0.095716,
+   0.150501,
+   -0.044404,
+   0.027331,
+   0.063724,
+   -0.14382,
+   0.132216,
+   0.237487,
+   -0.009709,
+   0.050416,
+   -0.087713,
+   -0.064074,
+   0.142362,
+   0.028003,
+   0.281426,
+   0.057742,
+   0.041492,
+   -0.097957,
+   0.182251,
+   0.061028,
+   -0.069221,
+   0.045351,
+   0.083912,
+   -0.120772,
+   -0.135583,
+   -0.162984,
+   -0.105752,
+   -0.096535,
+   0.121603,
+   0.050484,
+   0.02905,
+   -0.06321,
+   0.158365,
+   0.007333,
+   -0.255504,
+   -0.030262,
+   -0.01162,
+   -0.107588,
+   0.04362,
+   -0.018194,
+   -0.041294,
+   0.177522,
+   0.182368,
+   -0.252059,
+   0.180424,
+   0.109723,
+   -0.050705,
+   0.060496,
+   -0.039145,
+   -0.066616,
+   -0.156677,
+   0.228919,
+   -0.090964,
+   -0.13819,
+   0.001788,
+   0.109888,
+   0.090813,
+   -0.188614,
+   0.13649,
+   -0.134198,
+   0.044944,
+   -0.088876,
+   -0.127293,
+   0.078392,
+   0.127919,
+   0.223755,
+   -0.139865,
+   0.004792,
+   -0.101484,
+   -0.070483,
+   -0.026805,
+   0.128602,
+   0.036871,
+   -0.145601,
+   -0.16439,
+   -0.125126,
+   -0.095717,
+   -0.045357,
+   -0.174277,
+   -0.047895,
+   -0.067107,
+   -0.105443,
+   0.048146,
+   0.076384,
+   0.022099,
+   0.08823,
+   -0.181468,
+   0.024328,
+   0.14755,
+   0.020103,
+   0.004941,
+   0.010466,
+   -0.166541,
+   0.068659,
+   0.204367,
+   0.031714,
+   -0.038263,
+   -0.144253,
+   -0.050942,
+   0.045827,
+   -0.155438,
+   0.011088,
+   -0.186719,
+   0.095538,
+   -0.125391,
+   0.065112,
+   -0.126463,
+   -0.15692,
+   -0.055866,
+   0.029695,
+   -0.075891,
+   -0.099459,
+   0.001521,
+   0.062193,
+   -0.104817,
+   -0.065888,
+   -0.055571,
+   0.14973,
+   0.17652,
+   -0.089059,
+   -0.101314,
+   0.128723,
+   -0.107148,
+   0.088467,
+   0.102917,
+   0.003449,
+   -0.100772,
+   -0.186045,
+   0.083924,
+   -0.335931,
+   -0.075542,
+   -0.198415,
+   -0.107,
+   0.066513,
+   -0.065,
+   -0.226999,
+   -0.029605,
+   0.156198,
+   -0.002332,
+   0.059045,
+   0.124828,
+   0.055712,
+   0.214144,
+   -0.177296,
+   0.033549,
+   0.030659,
+   0.001571,
+   -0.165779,
+   0.412778,
+   -0.006078,
+   0.081408,
+   -0.053799,
+   -0.035481,
+   -0.043185,
+   -0.090613,
+   0.144124,
+   -0.068522,
+   -0.001864,
+   -0.258415,
+   0.099485,
+   -0.146153,
+   -0.115713,
+   -0.021814,
+   -0.114251,
+   -0.016067,
+   0.000171,
+   0.16554,
+   -0.063029,
+   -0.069788,
+   0.028231,
+   -0.041625,
+   0.210455,
+   0.087037,
+   -0.045034,
+   0.05835,
+   0.189637,
+   0.253866,
+   -0.132306
+  ],
+  "SPEAKER_01": [
+   -0.100244,
+   0.09603,
+   -0.166748,
+   -0.029623,
+   -0.301853,
+   -0.171089,
+   0.483126,
+   -0.194394,
+   0.238478,
+   0.134601,
+   0.253862,
+   0.072326,
+   0.105045,
+   0.079769,
+   0.119153,
+   -0.165583,
+   -0.27703,
+   -0.082083,
+   0.048188,
+   0.145053,
+   -0.281818,
+   -0.051432,
+   0.448809,
+   0.08309,
+   0.029694,
+   0.102056,
+   -0.036804,
+   -0.109814,
+   0.045385,
+   -0.151174,
+   0.56747,
+   0.307658,
+   0.164642,
+   -0.264941,
+   -0.194088,
+   -0.01488,
+   0.089558,
+   -0.333021,
+   0.199391,
+   0.229943,
+   -0.272,
+   0.043031,
+   0.402579,
+   0.185192,
+   -0.213056,
+   -0.045354,
+   -0.074379,
+   -0.191313,
+   0.515839,
+   0.729398,
+   0.17659,
+   0.05795,
+   0.095074,
+   -0.227837,
+   -0.195749,
+   0.376924,
+   -0.112253,
+   -0.255476,
+   -0.159098,
+   -0.020227,
+   0.401101,
+   -0.040914,
+   0.15823,
+   -0.039273,
+   -0.019905,
+   0.251968,
+   -0.192856,
+   -0.187615,
+   0.090287,
+   0.052379,
+   -0.149632,
+   -0.160053,
+   0.030164,
+   -0.39801,
+   0.127268,
+   0.258189,
+   -0.077344,
+   0.112606,
+   0.066806,
+   -0.03557,
+   -0.207041,
+   -0.155003,
+   0.179232,
+   -0.137285,
+   -0.219902,
+   0.026743,
+   -0.112254,
+   0.002123,
+   -0.23124,
+   -0.262342,
+   0.054995,
+   0.314472,
+   0.224523,
+   0.023735,
+   0.103003,
+   -0.011996,
+   0.05408,
+   0.20382,
+   0.004627,
+   -0.120687,
+   0.078769,
+   -0.203016,
+   -0.152225,
+   -0.151518,
+   -0.252607,
+   -0.007519,
+   0.238203,
+   0.076937,
+   -0.04682,
+   -0.305056,
+   0.406897,
+   0.222228,
+   -0.134056,
+   -0.122858,
+   -0.06001,
+   -0.350463,
+   -0.026069,
+   0.001005,
+   0.015344,
+   0.220897,
+   0.507203,
+   0.069789,
+   -0.136472,
+   0.135903,
+   0.018485,
+   0.31125,
+   -0.107409,
+   0.021491,
+   -0.400256,
+   0.061309,
+   -0.299658,
+   -0.103045,
+   0.117624,
+   0.181664,
+   0.299119,
+   -0.381044,
+   0.059287,
+   -0.062835,
+   0.2412,
+   -0.370299,
+   -0.273731,
+   0.067143,
+   0.226029,
+   0.187434,
+   -0.148057,
+   -0.146495,
+   0.123802,
+   -0.197649,
+   -0.062761,
+   -0.081353,
+   0.214232,
+   -0.22729,
+   -0.341608,
+   -0.215847,
+   -0.146882,
+   0.122023,
+   -0.027109,
+   -0.315511,
+   -0.018983,
+   -0.055892,
+   0.317356,
+   0.027735,
+   -0.06752,
+   0.09594,
+   -0.276124,
+   -0.127954,
+   -0.026305,
+   -0.103192,
+   -0.057024,
+   -0.073144,
+   -0.243819,
+   0.061624,
+   0.238558,
+   -0.21548,
+   0.037943,
+   -0.423308,
+   -0.23498,
+   0.188556,
+   -0.06384,
+   -0.050979,
+   -0.284007,
+   0.244368,
+   0.167494,
+   0.19166,
+   -0.154778,
+   -0.203277,
+   -0.053104,
+   0.278186,
+   -0.121377,
+   -0.237122,
+   -0.283215,
+   0.086105,
+   -0.011247,
+   -0.107258,
+   -0.129894,
+   0.108595,
+   0.363643,
+   0.090313,
+   0.081544,
+   0.419662,
+   -0.074962,
+   -0.016058,
+   0.055875,
+   0.044451,
+   -0.349775,
+   -0.069982,
+   0.014109,
+   -0.329763,
+   -0.075733,
+   0.065102,
+   0.005719,
+   0.162303,
+   -0.115987,
+   -0.291714,
+   -0.215379,
+   0.139913,
+   0.075109,
+   0.049983,
+   0.295446,
+   0.437216,
+   0.280338,
+   0.11208,
+   0.111422,
+   0.076197,
+   0.202386,
+   -0.192945,
+   0.481814,
+   -0.245889,
+   0.061771,
+   -0.278764,
+   0.08013,
+   -0.162284,
+   -0.014318,
+   0.541685,
+   0.095721,
+   0.188517,
+   -0.375566,
+   -0.02722,
+   0.016352,
+   -0.510164,
+   -0.244378,
+   -0.277565,
+   -0.163283,
+   -0.212439,
+   -0.120582,
+   -0.15784,
+   0.021511,
+   -0.059258,
+   -0.130096,
+   0.220619,
+   0.022593,
+   0.086342,
+   0.2989,
+   0.258001,
+   0.437404,
+   -0.199056
+  ]
+ },
+ "segments": [
+  {
+   "start": 0.55,
+   "end": 9.97,
+   "text": "There's no shortcut for saving time, but saving money is simple. Just combine your car and home insurance with Bel Air Direct and save. Get a quote at belairdirect.com.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 10.39,
+   "end": 42.48,
+   "text": "So we currently have Topkin Maverick pair of framed challenge coins. I don't really know what a challenge coin is. I assume that they're for the purpose of challenging, but I don't know if there's a game like you drop a challenge coin and then do rock, paper, scissors or like a thumb war or game of tag. We're already moved on. Doesn't matter. I will never get an answer to that question.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 42.5,
+   "end": 61.52,
+   "text": "We're at lot 1,373. I believe that the tuxedo lot is 1,399. So we have a little bit to go, but these have a tendency of moving pretty quickly. This is the thing on display. Total Recall 2012 Federal Police Rapid Response Unit costume.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 61.52,
+   "end": 71.1,
+   "text": "Who would? I mean, it's a cool suit, but is there anybody? I don't think I've ever heard anyone be a fan of Total Recall, the 2012 version.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 71.56,
+   "end": 80.6,
+   "text": "Like I've seen it. It's not the worst movie, but. Somebody must have a fandom for it, and I would love to meet that person because it's just so bland.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 80.6,
+   "end": 91.98,
+   "text": "Is this so average? It's like peak, top tier, mediocre Colin Farrell, and it's going for a lot. I don't understand. Also, the estimates don't.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 92.56,
+   "end": 99.88,
+   "text": "So when you do these auctions, at least on this website, they have an estimate, which is a minimum number and a higher end number.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 99.88,
+   "end": 110.7,
+   "text": "So this one is a minimum of 3,000 to a maximum of 5,000. They set a lower entry bid, but from what I've seen, you can only get the item if you hit their minimum estimate.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 110.94,
+   "end": 120.22,
+   "text": "So I'm curious how they set those. Is it based on some sort of market research or is it like what the person who's selling it is selling it?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 120.24,
+   "end": 125.42,
+   "text": "Because I don't think. I'm pretty sure this is just an auction house. I don't know how much of this they actually own.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 125.42,
+   "end": 129.66,
+   "text": "And I'm pretty sure that they're just sort of like the middleman between people selling their collections.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 131.42,
+   "end": 134.62,
+   "text": "Be interesting to know how they acquire these pieces.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 136.06,
+   "end": 139.14,
+   "text": "That was fast. They just have nobody wanted the Colin Farrell.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 139.7,
+   "end": 143.54,
+   "text": "Total Recall. Melina Stunt Jacket from Total Recall 2012.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 143.84,
+   "end": 146.1,
+   "text": "Who the fuck is Melina?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 147.74,
+   "end": 151.08,
+   "text": "Jacket from Len Weissman. Len Weissman. What did he make?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 151.42,
+   "end": 155.81,
+   "text": "I think he did. Is he the Resident Evil guy?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 155.81,
+   "end": 157.81,
+   "text": "And he did Death Race, I want to say.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 158.19,
+   "end": 159.43,
+   "text": "This is moving fast.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 160.23,
+   "end": 160.75,
+   "text": "Chairs.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 161.61,
+   "end": 163.53,
+   "text": "The Fall Gravity Elevator Chairs.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 163.73,
+   "end": 165.29,
+   "text": "Still Total Recall 2012.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 165.75,
+   "end": 168.23,
+   "text": "They're really loading up with like the banger movies.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 168.49,
+   "end": 172.29,
+   "text": "We're going from Total Recall to the Tuxedo, it seems.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 174.37,
+   "end": 177.73,
+   "text": "So I've essentially, we have a cap on how much I can spend.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 178.65,
+   "end": 180.93,
+   "text": "Or we as a show can spend. It's not my money, thankfully.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 180.93,
+   "end": 183.65,
+   "text": "On the Tuxedo Tux.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 185.89,
+   "end": 188.47,
+   "text": "And I've essentially hit the top bid that we can do.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 188.71,
+   "end": 190.71,
+   "text": "Because there is a 30% fee.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 190.93,
+   "end": 194.49,
+   "text": "It's like a charge that gets added to the auction.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 195.07,
+   "end": 196.49,
+   "text": "Whatever the bid is.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 196.71,
+   "end": 198.97,
+   "text": "So I think we have a cap.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 199.31,
+   "end": 203.57,
+   "text": "I've hit essentially the highest point I can place where I'm comfortable doing it.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 203.57,
+   "end": 206.77,
+   "text": "And I've been told strictly to not cross this cap.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 207.41,
+   "end": 213.17,
+   "text": "I have heard from other people on the show that like, ah, you know, if you go over, we could cover it ourselves in some way.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 213.39,
+   "end": 214.11,
+   "text": "They're not here.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 214.31,
+   "end": 215.81,
+   "text": "I'm not comfortable making that choice.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 215.89,
+   "end": 217.53,
+   "text": "I'm just going to stick with what I was told.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 217.53,
+   "end": 225.49,
+   "text": "I am, however, optimistic by the fact that, sadly, the Tuxedo lot is at the essential end of this auction.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 225.63,
+   "end": 226.81,
+   "text": "So most of the stuff is gone.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 226.99,
+   "end": 234.05,
+   "text": "But the thing that follows the Tuxedo is a baseball uniform from the baseball scene in Twilight.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 234.61,
+   "end": 235.93,
+   "text": "I don't remember what character it is.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 235.97,
+   "end": 238.27,
+   "text": "It's not Bella or Edward.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 238.71,
+   "end": 239.69,
+   "text": "It's one of the Cullens.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 240.31,
+   "end": 241.65,
+   "text": "Which I think they're the only ones that wear the suit.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 241.65,
+   "end": 247.61,
+   "text": "So anyway, if we miss out on the Tuxedo, I'm hoping to at least get that.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 248.35,
+   "end": 253.09,
+   "text": "And if neither of those go through, I've been told I can spend as long as I hit the cap.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 253.21,
+   "end": 254.33,
+   "text": "As long as I'm below that number.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 254.49,
+   "end": 261.69,
+   "text": "So we might have to go into Friday to grab something on that day to surprise the guys with.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 262.65,
+   "end": 263.87,
+   "text": "Now, 1379.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 265.09,
+   "end": 266.87,
+   "text": "These can be tricky, too, because I don't know.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 267.41,
+   "end": 268.41,
+   "text": "Sometimes it's immediate.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 268.57,
+   "end": 269.75,
+   "text": "Sometimes it takes a while.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 271.65,
+   "end": 277.89,
+   "text": "Um, Trick is the current thing is Lot 1379 Trick 2019.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 278.75,
+   "end": 281.07,
+   "text": "Trick's Tom Neiman's hoodie and gloves.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 281.91,
+   "end": 284.35,
+   "text": "I don't think I know what Trick is.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 285.45,
+   "end": 288.83,
+   "text": "Is that the, um, it was like, no, that was called Trick or Treat.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 288.89,
+   "end": 289.61,
+   "text": "I don't know what Trick is.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 290.43,
+   "end": 295.69,
+   "text": "Tron, Lot 1380, 1982 set of 12, 12 Cautilus.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 297.17,
+   "end": 297.57,
+   "text": "Cautilus?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 297.69,
+   "end": 298.09,
+   "text": "Cautilus?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 298.49,
+   "end": 298.97,
+   "text": "Cautilus?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 300.47,
+   "end": 300.87,
+   "text": "Cautilus?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 301.31,
+   "end": 302.23,
+   "text": "And two image prints?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 302.93,
+   "end": 304.07,
+   "text": "It is unfortunate.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 304.23,
+   "end": 307.43,
+   "text": "You cannot, like, click the thing, so you can't zoom in.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 307.75,
+   "end": 308.67,
+   "text": "Ah, Tron Legacy.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 308.95,
+   "end": 311.45,
+   "text": "Black Guard's light cycle baton?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 312.49,
+   "end": 314.91,
+   "text": "Is that how they activated the light cycle things?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 315.03,
+   "end": 315.93,
+   "text": "Or is that like a baton?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 316.13,
+   "end": 317.15,
+   "text": "They'd...",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 317.15,
+   "end": 317.85,
+   "text": "It's the description.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 319.77,
+   "end": 324.27,
+   "text": "Black Guard's light cycle baton from Joseph Kaczynski's sci-fi action sequel, Tron Legacy.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 324.27,
+   "end": 334.69,
+   "text": "Directorial program clue, Jeff Bridges and his team of elite warriors used their baton, oh, they did, to deploy light cycles as they battled fellow programs on the game grid.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 334.69,
+   "end": 337.83,
+   "text": "I wonder if that is a challenge coin scenario.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 337.83,
+   "end": 344.85,
+   "text": "Dropping your light cycle for the Maverick, whatever, that sequel, Top Gun Maverick.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 345.25,
+   "end": 346.87,
+   "text": "I think that's what the second one is called.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 346.87,
+   "end": 352.23,
+   "text": "Oh, this is something that I wish was later on in the fucking thing.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 352.37,
+   "end": 353.39,
+   "text": "I would love to have this.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 353.47,
+   "end": 360.89,
+   "text": "Lot, 1382, Tropic Thunder, 2008, Alpha Chino's, Brandon T. Jackson, booty sweat energy drink.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 361.25,
+   "end": 364.19,
+   "text": "What a fantastic, stupid prop to have.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 364.19,
+   "end": 372.43,
+   "text": "Um, Tropic Thunder opened with all these fake commercials and Brandon T. Jackson plays like this rapper turned actor in the movie.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 372.57,
+   "end": 375.63,
+   "text": "And booty sweat is like the fake energy drink that he promoted.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 375.89,
+   "end": 380.49,
+   "text": "Having a real can or like the can from the thing in universe item.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 380.59,
+   "end": 381.35,
+   "text": "I think that's so cool.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 381.43,
+   "end": 384.55,
+   "text": "Those are the collectibles I enjoy as far as movie stuff goes.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 385.45,
+   "end": 386.19,
+   "text": "It's just so stupid.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 387.27,
+   "end": 388.57,
+   "text": "There's like four or five.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 388.73,
+   "end": 389.51,
+   "text": "So now it's another one.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 389.59,
+   "end": 393.05,
+   "text": "The Bustin' Up are another Alpha Chino's great product.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 393.05,
+   "end": 397.59,
+   "text": "Pop a Cap and Hunger Energy Bar Chocolate Cocoa Butter Flavor.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 398.89,
+   "end": 399.41,
+   "text": "Fantastic.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 399.97,
+   "end": 402.19,
+   "text": "I'm so mad that this stuff isn't because it is.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 402.93,
+   "end": 405.05,
+   "text": "It's below the range by quite a bit.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 405.13,
+   "end": 407.17,
+   "text": "Like we definitely got one of these.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 408.25,
+   "end": 410.67,
+   "text": "And what a fucking cool thing to have.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 412.37,
+   "end": 417.29,
+   "text": "Next one is the Cody's Danny McBride's Tropic Thunder book.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 418.21,
+   "end": 421.27,
+   "text": "I don't think there's any images of what the inside looks like.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 421.27,
+   "end": 422.23,
+   "text": "I'm trying to remember.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 422.23,
+   "end": 423.77,
+   "text": "I haven't seen the movie since it came out.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 423.87,
+   "end": 427.83,
+   "text": "But I think Nick Nolte's character in it.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 427.91,
+   "end": 432.07,
+   "text": "Nolte wrote a book about his experience in the war.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 432.23,
+   "end": 437.17,
+   "text": "And that's what they're in movie movie called Tropic Thunder is based off of.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 437.25,
+   "end": 438.09,
+   "text": "I'm assuming it's that.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 438.09,
+   "end": 443.37,
+   "text": "Now we have Tropic Thunder Kirk Lazarus's Stunt Shotgun.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 443.93,
+   "end": 446.41,
+   "text": "Weapons don't really do anything for me as far as props go.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 447.21,
+   "end": 452.31,
+   "text": "It's currently it's expected to go for 2,500 at most, but it is above that at 2,750.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 452.31,
+   "end": 459.86,
+   "text": "Uh, Stunt Ithaca 30.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 460.02,
+   "end": 461.3,
+   "text": "Okay, we've moved on.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 462.26,
+   "end": 463.42,
+   "text": "Once again, Tropic Thunder.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 464.56,
+   "end": 466.6,
+   "text": "Twigman figure award and lip bomb.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 466.7,
+   "end": 467.36,
+   "text": "I don't.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 468.36,
+   "end": 469.58,
+   "text": "I don't remember that.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 469.66,
+   "end": 473.6,
+   "text": "I also don't remember Ben Stiller's character being called Tug Speedman.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 475.72,
+   "end": 481.57,
+   "text": "Um, Twigman figure award and lip bomb from Stiller's action comedy Tropic Thunder.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 481.73,
+   "end": 486.69,
+   "text": "Speedman used his chapstick before mistakenly killing a panda he believed was a fiercer creature.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 487.51,
+   "end": 491.93,
+   "text": "Later, he received the bowl and red cloth containing a wooden Oscar statue from his adopted son.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 491.93,
+   "end": 502.72,
+   "text": "Now we got Simple Jack on VHS, uh, filming, dragging.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 502.96,
+   "end": 505.46,
+   "text": "I wonder what is on, if it comes with a tape or not.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 506.3,
+   "end": 508.66,
+   "text": "If it does, what is on that tape?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 510.74,
+   "end": 511.84,
+   "text": "We're getting close, though.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 514.04,
+   "end": 516.64,
+   "text": "We're only like 12 away from the Tuxedo lot.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 519.28,
+   "end": 519.86,
+   "text": "Oh, boy.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 520.12,
+   "end": 520.4,
+   "text": "Okay.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 523.2,
+   "end": 529.22,
+   "text": "Uh, the lot consists of a color printed cardboard Simple Jack VHS cover affixed with an Oshie VHS video sticker.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 529.52,
+   "end": 530.44,
+   "text": "Ah, changed.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 531.96,
+   "end": 532.4,
+   "text": "Oh!",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 532.4,
+   "end": 535.42,
+   "text": "Oh, you can get his best actor, Oscar.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 535.54,
+   "end": 540.76,
+   "text": "I wonder, I assume, the word has made it, that's surprising, I thought it would be plastic.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 540.88,
+   "end": 550.18,
+   "text": "The word has made a metal designed to resemble a man holding an olive branch plated with, uh, gold and mounted to a black enameled base.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 550.86,
+   "end": 557.98,
+   "text": "The gold color plaque affixed to the base is blank and the enamel is flaking from production use, exposing the metal underneath.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 559.76,
+   "end": 560.92,
+   "text": "Could have bought a fake Oscar.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 560.92,
+   "end": 564.23,
+   "text": "Oh, we're only 10 away.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 567.15,
+   "end": 569.25,
+   "text": "Best actor envelope?",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 570.77,
+   "end": 573.77,
+   "text": "I guess it's from when he won the award, is the current thing that's up.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 574.55,
+   "end": 576.67,
+   "text": "I wonder how much Tropic Thunder holds up.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 577.05,
+   "end": 583.27,
+   "text": "At the time, I remember thinking it was very funny, but I haven't seen it in, oh, God, 14 years?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 583.27,
+   "end": 587.19,
+   "text": "Okay, we've moved away from Tropic Thunder.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 587.29,
+   "end": 588.13,
+   "text": "We're now on Troy.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 589.05,
+   "end": 592.35,
+   "text": "A movie that I wanted to like, but it sucked.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 595.17,
+   "end": 595.49,
+   "text": "2004.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 595.49,
+   "end": 599.19,
+   "text": "I just don't know what you'd do with a shield.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 599.61,
+   "end": 600.05,
+   "text": "Like, I guess.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 601.01,
+   "end": 601.65,
+   "text": "I don't know.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 602.01,
+   "end": 602.85,
+   "text": "What's it made out of?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 603.31,
+   "end": 607.35,
+   "text": "SFX Arrow Strike, Mere Midian Shield from Wolfgang Peterson's mythical epic, Troy.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 608.45,
+   "end": 609.47,
+   "text": "Uh, buh, buh, buh, buh.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 609.55,
+   "end": 610.33,
+   "text": "It's fiberglass.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 610.45,
+   "end": 615.85,
+   "text": "The fiberglass shield is painted black, and we have swapped to more storyboards that I cannot make.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 615.85,
+   "end": 618.89,
+   "text": "Uh, make out what is happening.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 619.87,
+   "end": 634.16,
+   "text": "Oh, it says the, the, the, the Menelos and Paris dual sequence Menelos, Menelos, Ashbury hand-drawn pencil storyboards.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 635.5,
+   "end": 642.76,
+   "text": "Kind of looks like Eric Bana a little bit, but I don't think, I think he plays Hector in the movie.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 643.52,
+   "end": 644.22,
+   "text": "I believe it was his name.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 644.22,
+   "end": 649.74,
+   "text": "Um, another movie I haven't seen since probably 2005 or 6.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 651.26,
+   "end": 652.26,
+   "text": "More storyboards.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 652.52,
+   "end": 658.7,
+   "text": "I wonder if you feel, if you buy one in the storyboard lots, like, whoever buys that, do they feel compelled to buy this?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 658.82,
+   "end": 662.0,
+   "text": "Or is it like, I fucking love, this one is the arrival of Achilles.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 662.38,
+   "end": 664.24,
+   "text": "Like, is someone like, I fucking love that scene.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 664.66,
+   "end": 667.74,
+   "text": "It's my favorite scene in the movie, and they're all in on it.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 667.76,
+   "end": 669.22,
+   "text": "Or is it just like, you're getting a collection.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 670.12,
+   "end": 672.96,
+   "text": "How many of these people are buying because they care about it?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 672.96,
+   "end": 676.34,
+   "text": "And how much of this is thinking that they can resell this later?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 676.92,
+   "end": 683.06,
+   "text": "I'd love to know how many items have gone through this store multiple times, but just different owners.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 683.46,
+   "end": 686.84,
+   "text": "Like, what is the most sold movie prop in history would be fascinating.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 687.38,
+   "end": 687.8,
+   "text": "True Blood.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 688.38,
+   "end": 691.94,
+   "text": "We're now moving back to lesser things.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 692.86,
+   "end": 693.64,
+   "text": "I've never seen True Blood.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 693.64,
+   "end": 697.6,
+   "text": "I guess I shouldn't say that, but I feel like the consensus I hear is that it's not great.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 698.02,
+   "end": 701.6,
+   "text": "Or maybe it started out really good, and then it kind of lost its way.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 702.7,
+   "end": 703.66,
+   "text": "I haven't seen it, but.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 704.54,
+   "end": 708.42,
+   "text": "Bill Compton, Steve Moyer's Moon Goddess Emporium Assault Costume.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 708.5,
+   "end": 709.16,
+   "text": "That's a lot of words.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 710.22,
+   "end": 711.94,
+   "text": "Moon Goddess Emporium Assault Costume.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 712.28,
+   "end": 712.98,
+   "text": "It looks fucked up.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 714.02,
+   "end": 715.76,
+   "text": "Somebody paid a lot of money for a fucked up thing.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 715.98,
+   "end": 717.24,
+   "text": "Oh, that has fake blood on it.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 717.64,
+   "end": 718.3,
+   "text": "That's great.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 718.3,
+   "end": 721.86,
+   "text": "Louisiana Anti-Vampire Task Force jacket.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 722.34,
+   "end": 725.4,
+   "text": "How do you join the Louisiana Anti-Vampire Task Force?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 726.04,
+   "end": 727.54,
+   "text": "Is that like a Facebook ad?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 728.26,
+   "end": 733.3,
+   "text": "Are you on Craigslist and you kind of join it as a joke, and then you learn they're really...",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 733.3,
+   "end": 735.88,
+   "text": "Are vampires established in the True Blood world?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 736.38,
+   "end": 737.74,
+   "text": "Or is it like a secret thing?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 740.25,
+   "end": 743.85,
+   "text": "I don't think I'll ever watch True Blood, so I'll never know the answer to that.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 743.85,
+   "end": 751.98,
+   "text": "Um, ah, Tara Thornton's Routina Wesley's Death Costume.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 752.98,
+   "end": 757.52,
+   "text": "I feel like that has to be something specific and not just a random spoiler.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 758.7,
+   "end": 761.9,
+   "text": "Although maybe I guess they could label it as the thing she died in, but that would be weird.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 762.46,
+   "end": 763.34,
+   "text": "True Blood Bottle.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 763.68,
+   "end": 765.88,
+   "text": "This feels like something that was made for Comic-Con.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 766.9,
+   "end": 768.36,
+   "text": "Uh, bu-bu-bu-bu-bu-bu.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 769.12,
+   "end": 773.16,
+   "text": "This bottle is labeled 100% True Blood with blood type AB negative.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 773.16,
+   "end": 775.94,
+   "text": "I guess it was just used on set.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 776.06,
+   "end": 776.48,
+   "text": "It wasn't...",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 776.48,
+   "end": 778.08,
+   "text": "That feels like a fucking...",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 778.08,
+   "end": 778.94,
+   "text": "You're getting a loot crate.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 779.28,
+   "end": 780.88,
+   "text": "We're so close to the tuxedo.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 781.12,
+   "end": 781.82,
+   "text": "I just realized.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 781.92,
+   "end": 782.7,
+   "text": "We're coming right up on it.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 782.78,
+   "end": 783.5,
+   "text": "We're two away.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 784.66,
+   "end": 785.66,
+   "text": "We're two away.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 786.48,
+   "end": 788.28,
+   "text": "I'm gonna turn on this guy's audio.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 789.3,
+   "end": 791.9,
+   "text": "When it gets to the tuxedo lot, we'll see what happens.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 794.63,
+   "end": 795.47,
+   "text": "Oh, boy.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 796.67,
+   "end": 797.07,
+   "text": "Okay.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 799.33,
+   "end": 800.55,
+   "text": "One away at this point.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 800.89,
+   "end": 802.73,
+   "text": "1398 Tucker, the man in his dream.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 802.83,
+   "end": 805.03,
+   "text": "I've never fucking heard of Tucker, the man in his dream.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 805.03,
+   "end": 809.51,
+   "text": "A set of four hand-drawn John Belt Tucker Sedan illustrations with PR.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 811.87,
+   "end": 815.89,
+   "text": "Current bid is below what the minimum is that they're hoping for.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 817.98,
+   "end": 818.78,
+   "text": "We're about to close.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 818.86,
+   "end": 819.72,
+   "text": "We're about to be on the tuxedo.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 819.88,
+   "end": 821.14,
+   "text": "We're about to be on the tuxedo.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 821.38,
+   "end": 822.94,
+   "text": "I'm putting the audio on because...",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 823.88,
+   "end": 825.36,
+   "text": "Because we're going to the tuxedo.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 826.02,
+   "end": 830.28,
+   "text": "We're at the tuxedo.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 834.8,
+   "end": 835.3,
+   "text": "Current bid.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 835.78,
+   "end": 837.22,
+   "text": "We are the highest bidder right now.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 838.04,
+   "end": 838.84,
+   "text": "Current bid, $2,000.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 840.66,
+   "end": 842.86,
+   "text": "The guy, the auctioneer wants to wear the tuxedo.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 842.94,
+   "end": 843.3,
+   "text": "It's $2,000.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 843.36,
+   "end": 843.88,
+   "text": "We're at the top bid.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 843.88,
+   "end": 845.18,
+   "text": "No interest so far.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 845.5,
+   "end": 846.12,
+   "text": "Holy shit.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 846.42,
+   "end": 847.42,
+   "text": "Nobody bid.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 847.7,
+   "end": 848.16,
+   "text": "Nobody bid.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 848.6,
+   "end": 849.12,
+   "text": "Nobody bid.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 849.6,
+   "end": 850.26,
+   "text": "Just hold off.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 850.68,
+   "end": 851.16,
+   "text": "Hold off.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 851.28,
+   "end": 851.64,
+   "text": "Nobody bid.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 852.62,
+   "end": 853.3,
+   "text": "It's about to close.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 853.44,
+   "end": 853.92,
+   "text": "We're about to get it.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 854.0,
+   "end": 854.5,
+   "text": "We're about to get it.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 854.92,
+   "end": 855.2,
+   "text": "Come on.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 855.28,
+   "end": 855.48,
+   "text": "Hold.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 855.66,
+   "end": 855.9,
+   "text": "Hold.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 856.26,
+   "end": 856.5,
+   "text": "Hold.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 856.92,
+   "end": 857.24,
+   "text": "Hold.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 858.16,
+   "end": 858.46,
+   "text": "Hold.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 858.8,
+   "end": 859.04,
+   "text": "Sell.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 859.68,
+   "end": 860.1,
+   "text": "Get it.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 860.28,
+   "end": 860.72,
+   "text": "Sold.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 861.0,
+   "end": 861.58,
+   "text": "We got it.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 862.26,
+   "end": 863.16,
+   "text": "We got the tuxedo.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 863.62,
+   "end": 864.48,
+   "text": "From the tuxedo.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 866.06,
+   "end": 866.8,
+   "text": "Holy shit.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 867.0,
+   "end": 869.64,
+   "text": "That means we can't get the Twilight baseball costume.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 869.94,
+   "end": 870.58,
+   "text": "But who cares?",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 870.58,
+   "end": 872.66,
+   "text": "We fucking got the tuxedo.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 872.84,
+   "end": 873.68,
+   "text": "Holy shit.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 874.7,
+   "end": 875.22,
+   "text": "Wow.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 877.56,
+   "end": 878.12,
+   "text": "Oh.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 880.0,
+   "end": 880.44,
+   "text": "Oh.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 880.6,
+   "end": 881.34,
+   "text": "The fucking.",
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 881.7,
+   "end": 883.44,
+   "text": "We never would have got the Twilight thing anyway.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 883.54,
+   "end": 884.72,
+   "text": "It's already up to $4,000.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 885.2,
+   "end": 886.34,
+   "text": "It just fucking flew.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 886.46,
+   "end": 888.14,
+   "text": "People love the baseball scene in Twilight.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 889.14,
+   "end": 889.86,
+   "text": "We got the.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 889.98,
+   "end": 890.62,
+   "text": "Oh my God.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 891.42,
+   "end": 894.1,
+   "text": "So I was told that I could spend to the cap.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 894.28,
+   "end": 895.58,
+   "text": "I still have some cap space.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 896.56,
+   "end": 897.48,
+   "text": "It might be tricky.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 897.6,
+   "end": 898.62,
+   "text": "That was shipping and everything.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 898.9,
+   "end": 899.66,
+   "text": "That might be.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 899.98,
+   "end": 901.82,
+   "text": "We might be as close as we could get to it.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 901.84,
+   "end": 903.8,
+   "text": "Because that was actually more with the.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 903.8,
+   "end": 904.5,
+   "text": "The percentage.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 904.72,
+   "end": 905.76,
+   "text": "I guess my math is off.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 906.54,
+   "end": 906.9,
+   "text": "Wow.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 907.5,
+   "end": 908.38,
+   "text": "We got it.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 908.62,
+   "end": 909.32,
+   "text": "Holy fuck.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 910.46,
+   "end": 911.34,
+   "text": "This is exciting.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 912.1,
+   "end": 913.56,
+   "text": "Now I'm going to have to go through this process.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 914.22,
+   "end": 915.64,
+   "text": "I can't wait to share with the guys.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 915.74,
+   "end": 917.28,
+   "text": "I don't know how this will exist.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 917.38,
+   "end": 918.38,
+   "text": "The thing that I just recorded.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 918.56,
+   "end": 919.38,
+   "text": "If it will come out.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 919.58,
+   "end": 920.06,
+   "text": "The way it will.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 920.14,
+   "end": 920.36,
+   "text": "I don't.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 920.42,
+   "end": 920.86,
+   "text": "I have no idea.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 921.54,
+   "end": 922.44,
+   "text": "But if you're listening to this.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 922.44,
+   "end": 922.74,
+   "text": "I guess.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 922.82,
+   "end": 923.18,
+   "text": "Thank you.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 923.18,
+   "end": 925.76,
+   "text": "And I'm going to stop.",
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 926.62,
+   "end": 927.62,
+   "text": "Bye.",
+   "speaker": "SPEAKER_01"
+  }
+ ]
+}
