@@ -1,0 +1,381 @@
+{
+  "generatedAt": "2026-08-10T18:10:12.137363-04:00",
+  "complete": true,
+  "models": {
+    "transcription": "large-v3-turbo",
+    "diarization": "pyannote/speaker-diarization-community-1"
+  },
+  "forcedSpeakers": 2,
+  "thresholds": {
+    "minimumSimilarity": 0.52,
+    "minimumMargin": 0.08,
+    "minimumEvidenceSeconds": 0.55,
+    "minimumSentenceEvidenceSeconds": 1.5
+  },
+  "totals": {
+    "requested": 8,
+    "processed": 8,
+    "clean": 8
+  },
+  "entries": [
+    {
+      "id": "eric-flip-a-bird",
+      "episode": 380,
+      "expectedSpeaker": "eric",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 214.18,
+      "matchedStartSec": 185.0,
+      "matchedEndSec": 187.54,
+      "dynamicOffsetSec": -29.18,
+      "matchedText": "We just throw the bird in the air and make it do flips.",
+      "wholeQuote": {
+        "host": "eric",
+        "bestHost": "eric",
+        "similarity": 0.717,
+        "margin": 0.3164
+      },
+      "turnBlocks": [
+        {
+          "text": "We just throw the bird in the air and make it do flips.",
+          "start": 4.0,
+          "end": 6.54,
+          "duration": 2.54,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.717,
+          "margin": 0.3164
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "We just throw the bird in the air and make it do flips.",
+          "start": 4.0,
+          "end": 6.54,
+          "duration": 2.54,
+          "diarizationLabel": null,
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.717,
+          "margin": 0.3164
+        }
+      ]
+    },
+    {
+      "id": "eric-guitar-egg",
+      "episode": 382,
+      "expectedSpeaker": "eric",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 953.5,
+      "matchedStartSec": 954.28,
+      "matchedEndSec": 956.68,
+      "dynamicOffsetSec": 0.78,
+      "matchedText": "could we call it guitar hero with an egg",
+      "wholeQuote": {
+        "host": "eric",
+        "bestHost": "eric",
+        "similarity": 0.7774,
+        "margin": 0.5687
+      },
+      "turnBlocks": [
+        {
+          "text": "could we call it guitar hero with an egg",
+          "start": 4.0,
+          "end": 6.4,
+          "duration": 2.4,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.7774,
+          "margin": 0.5687
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "could we call it guitar hero with an egg",
+          "start": 4.0,
+          "end": 6.4,
+          "duration": 2.4,
+          "diarizationLabel": null,
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.7774,
+          "margin": 0.5687
+        }
+      ]
+    },
+    {
+      "id": "geoff-egg-economy",
+      "episode": 71,
+      "expectedSpeaker": "geoff",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.7368,
+      "expectedStartSec": 2056.46,
+      "matchedStartSec": 2082.08,
+      "matchedEndSec": 2085.32,
+      "dynamicOffsetSec": 25.62,
+      "matchedText": "the top one's a thousand dollar egg, $500 egg.",
+      "wholeQuote": {
+        "host": "geoff",
+        "bestHost": "geoff",
+        "similarity": 0.741,
+        "margin": 0.4351
+      },
+      "turnBlocks": [
+        {
+          "text": "the top one's a thousand dollar egg, $500 egg.",
+          "start": 4.0,
+          "end": 7.24,
+          "duration": 3.24,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.741,
+          "margin": 0.4351
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "the top one's a thousand dollar egg, $500 egg.",
+          "start": 4.0,
+          "end": 7.24,
+          "duration": 3.24,
+          "diarizationLabel": null,
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.741,
+          "margin": 0.4351
+        }
+      ]
+    },
+    {
+      "id": "geoff-betty-white-bread",
+      "episode": 82,
+      "expectedSpeaker": "geoff",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 2931.37,
+      "matchedStartSec": 2926.49,
+      "matchedEndSec": 2928.07,
+      "dynamicOffsetSec": -4.88,
+      "matchedText": "She's older than sliced bread.",
+      "wholeQuote": {
+        "host": "geoff",
+        "bestHost": "geoff",
+        "similarity": 0.6046,
+        "margin": 0.2675
+      },
+      "turnBlocks": [
+        {
+          "text": "She's older than sliced bread.",
+          "start": 4.0,
+          "end": 5.58,
+          "duration": 1.58,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.6046,
+          "margin": 0.2675
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "She's older than sliced bread.",
+          "start": 4.0,
+          "end": 5.58,
+          "duration": 1.58,
+          "diarizationLabel": null,
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.6046,
+          "margin": 0.2675
+        }
+      ]
+    },
+    {
+      "id": "gavin-boiled-fish",
+      "episode": 54,
+      "expectedSpeaker": "gavin",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 2958.79,
+      "matchedStartSec": 2930.31,
+      "matchedEndSec": 2931.93,
+      "dynamicOffsetSec": -28.48,
+      "matchedText": "You're just going to come back to a boiled fish.",
+      "wholeQuote": {
+        "host": null,
+        "bestHost": "gavin",
+        "similarity": 0.5144,
+        "margin": 0.175
+      },
+      "turnBlocks": [
+        {
+          "text": "back to a boiled fish.",
+          "start": 4.38,
+          "end": 5.62,
+          "duration": 1.24,
+          "diarizationLabel": "SPEAKER_01",
+          "host": null,
+          "bestHost": "gavin",
+          "similarity": 0.4769,
+          "margin": 0.2022
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "You're just going to come back to a boiled fish.",
+          "start": 4.0,
+          "end": 5.62,
+          "duration": 1.62,
+          "diarizationLabel": null,
+          "host": null,
+          "bestHost": "gavin",
+          "similarity": 0.5144,
+          "margin": 0.175
+        }
+      ]
+    },
+    {
+      "id": "eric-two-headed-bird",
+      "episode": 97,
+      "expectedSpeaker": "eric",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 3044.24,
+      "matchedStartSec": 3074.82,
+      "matchedEndSec": 3076.1,
+      "dynamicOffsetSec": 30.58,
+      "matchedText": "Mine has two -headed bird tongues.",
+      "wholeQuote": {
+        "host": "eric",
+        "bestHost": "eric",
+        "similarity": 0.7276,
+        "margin": 0.501
+      },
+      "turnBlocks": [
+        {
+          "text": "Mine has two -headed bird tongues.",
+          "start": 4.0,
+          "end": 5.28,
+          "duration": 1.28,
+          "diarizationLabel": "SPEAKER_01",
+          "host": "eric",
+          "bestHost": "eric",
+          "similarity": 0.7276,
+          "margin": 0.501
+        }
+      ],
+      "sentenceBlocks": []
+    },
+    {
+      "id": "geoff-third-bread",
+      "episode": 100,
+      "expectedSpeaker": "geoff",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 1.0,
+      "expectedStartSec": 530.61,
+      "matchedStartSec": 533.17,
+      "matchedEndSec": 536.15,
+      "dynamicOffsetSec": 2.56,
+      "matchedText": "No, like 90 of the time, the third bread's the best bread.",
+      "wholeQuote": {
+        "host": "geoff",
+        "bestHost": "geoff",
+        "similarity": 0.7577,
+        "margin": 0.3039
+      },
+      "turnBlocks": [
+        {
+          "text": "No, like 90 of the time, the third bread's the best bread.",
+          "start": 4.0,
+          "end": 6.98,
+          "duration": 2.98,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.7577,
+          "margin": 0.3039
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "No, like 90 of the time, the third bread's the best bread.",
+          "start": 4.0,
+          "end": 6.98,
+          "duration": 2.98,
+          "diarizationLabel": null,
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.7577,
+          "margin": 0.3039
+        }
+      ]
+    },
+    {
+      "id": "geoff-possum-anus",
+      "episode": 169,
+      "expectedSpeaker": "geoff",
+      "status": "clean",
+      "reasons": [],
+      "alignmentScore": 0.8919,
+      "expectedStartSec": 2975.82,
+      "matchedStartSec": 2920.1,
+      "matchedEndSec": 2931.32,
+      "dynamicOffsetSec": -55.72,
+      "matchedText": "we do have a possum but my possum is about the size of a big cat and i've never seen a cat close to that like i'm telling you that is that is 50 pound dog shit right there",
+      "wholeQuote": {
+        "host": "geoff",
+        "bestHost": "geoff",
+        "similarity": 0.9265,
+        "margin": 0.487
+      },
+      "turnBlocks": [
+        {
+          "text": "we do have a possum but my possum is about the size of a big cat",
+          "start": 4.0,
+          "end": 8.7,
+          "duration": 4.7,
+          "diarizationLabel": "SPEAKER_01",
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.8644,
+          "margin": 0.3992
+        },
+        {
+          "text": "and i've never seen a cat close to that like i'm telling you that is that is 50 pound dog shit right there",
+          "start": 8.7,
+          "end": 15.22,
+          "duration": 6.52,
+          "diarizationLabel": "SPEAKER_00",
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.9152,
+          "margin": 0.5737
+        }
+      ],
+      "sentenceBlocks": [
+        {
+          "text": "we do have a possum but my possum is about the size of a big cat and i've never seen a cat close to that like i'm telling you that is that is 50 pound dog shit right there",
+          "start": 4.0,
+          "end": 15.22,
+          "duration": 11.22,
+          "diarizationLabel": null,
+          "host": "geoff",
+          "bestHost": "geoff",
+          "similarity": 0.9265,
+          "margin": 0.487
+        }
+      ]
+    }
+  ]
+}

@@ -7,7 +7,7 @@ Pipeline (per episode):
   3. decode it once with PyAV to mono 16 kHz float audio (no system ffmpeg)
   4. transcribe with faster-whisper (large-v3-turbo, English, GPU)
   5. diarize speakers with pyannote (official speaker-diarization-3.1)
-  6. merge: assign each whisper segment its dominant speaker
+  6. merge: split Whisper segments at word-level speaker changes
   7. write data/transcripts/000N - YYYY-MM-DD - <Title>.txt and .json
      (speaker labels per segment)
   8. delete the audio file; update the manifest
@@ -220,6 +220,59 @@ def segment_speaker(diarization, start: float, end: float) -> str:
     return best_label if best_overlap > 0 else "SPEAKER_99"
 
 
+def split_segment_by_speaker(segment, diarization) -> list[dict]:
+    """Split one Whisper segment whenever its word-level speaker changes.
+
+    Whisper sentence boundaries and diarization boundaries are independent. A
+    short reply can therefore share one Whisper segment with the previous
+    speaker. Assigning the whole segment by majority overlap silently gives the
+    reply to the wrong person, so diarized runs request word timestamps and
+    group adjacent words by their own dominant speaker instead.
+
+    Older/no-word model output falls back to the original segment-level rule.
+    """
+
+    words = [
+        word
+        for word in (getattr(segment, "words", None) or [])
+        if getattr(word, "start", None) is not None
+        and getattr(word, "end", None) is not None
+        and getattr(word, "word", "").strip()
+    ]
+    if not words:
+        return [{
+            "start": segment.start,
+            "end": segment.end,
+            "text": segment.text.strip(),
+            "speaker": segment_speaker(diarization, segment.start, segment.end),
+        }]
+
+    chunks = []
+    current_words = []
+    current_speaker = None
+    for word in words:
+        speaker = segment_speaker(diarization, word.start, word.end)
+        if current_words and speaker != current_speaker:
+            chunks.append({
+                "start": current_words[0].start,
+                "end": current_words[-1].end,
+                "text": "".join(item.word for item in current_words).strip(),
+                "speaker": current_speaker,
+            })
+            current_words = []
+        current_words.append(word)
+        current_speaker = speaker
+
+    if current_words:
+        chunks.append({
+            "start": current_words[0].start,
+            "end": current_words[-1].end,
+            "text": "".join(item.word for item in current_words).strip(),
+            "speaker": current_speaker,
+        })
+    return chunks
+
+
 # --------------------------------------------------------------------------
 # main transcription + diarization pass
 # --------------------------------------------------------------------------
@@ -256,6 +309,9 @@ def transcribe_episode(ep: dict, audio, sample_rate: int, model_name: str,
         initial_prompt=INITIAL_PROMPT,
         vad_filter=True,
         beam_size=5,
+        # Needed to split a sentence when another host begins speaking inside
+        # the same Whisper segment. This prevents majority-speaker bleed.
+        word_timestamps=do_diarize,
     )
 
     base = "{:03d} - {} - {}".format(ep["index"], ep["pub_date"][:10],
@@ -272,19 +328,29 @@ def transcribe_episode(ep: dict, audio, sample_rate: int, model_name: str,
         f.write(f"transcribed: {datetime.now().astimezone().isoformat()}  |  model: {model_name}\n")
         f.write(f"diarization: {DIARIZATION_MODEL if do_diarize else 'off'}\n\n")
         for seg in segments:
-            line = seg.text.strip()
-            if not line:
-                continue
-            speaker = segment_speaker(diar, seg.start, seg.end) if diar else ""
-            f.write(f"\n[{format_duration(seg.start)}] {speaker}\n{line}\n")
-            if not quiet:
-                print(f"    {format_duration(seg.start)} {speaker}  {line[:60]}{'...' if len(line) > 60 else ''}")
-            segments_out.append({
+            pieces = split_segment_by_speaker(seg, diar) if diar else [{
                 "start": seg.start,
                 "end": seg.end,
-                "text": line,
-                "speaker": speaker or None,
-            })
+                "text": seg.text.strip(),
+                "speaker": "",
+            }]
+            for piece in pieces:
+                line = piece["text"].strip()
+                if not line:
+                    continue
+                speaker = piece["speaker"]
+                f.write(f"\n[{format_duration(piece['start'])}] {speaker}\n{line}\n")
+                if not quiet:
+                    print(
+                        f"    {format_duration(piece['start'])} {speaker}  "
+                        f"{line[:60]}{'...' if len(line) > 60 else ''}"
+                    )
+                segments_out.append({
+                    "start": piece["start"],
+                    "end": piece["end"],
+                    "text": line,
+                    "speaker": speaker or None,
+                })
 
     json_out = {
         "index": ep["index"],
