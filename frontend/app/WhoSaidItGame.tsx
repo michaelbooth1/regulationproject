@@ -202,12 +202,13 @@ export default function WhoSaidItGame({ mappedEpisodes }: { mappedEpisodes: numb
           <small>who said it</small>
         </span>
       </Link>
-      <div className="topbar-tools">
+      <nav className="topbar-tools" aria-label="Site navigation">
+        <Link className="bank-link stats-link" href="/stats">Speaker stats</Link>
         <div className="corpus-stamp">
           <span aria-hidden="true" />
           {mappedEpisodes} episodes digested
         </div>
-      </div>
+      </nav>
     </header>
   );
 

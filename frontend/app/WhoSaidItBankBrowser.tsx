@@ -70,6 +70,7 @@ export default function WhoSaidItBankBrowser({ mappedEpisodes }: { mappedEpisode
         <nav className="topbar-tools" aria-label="Game navigation">
           <Link className="bank-link" href="/">Play game</Link>
           <Link className="bank-link active" href="/who-said-it/bank" aria-current="page">Quote bank</Link>
+          <Link className="bank-link" href="/stats">Speaker stats</Link>
           <div className="corpus-stamp"><span aria-hidden="true" />{mappedEpisodes} episodes digested</div>
         </nav>
       </header>

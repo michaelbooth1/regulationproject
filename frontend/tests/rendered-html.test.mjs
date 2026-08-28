@@ -62,6 +62,21 @@ test("server-renders the dedicated Who Said It route", async () => {
 });
 
 
+test("server-renders the transcript-derived speaker timeline", async () => {
+  const response = await render("/stats");
+  assert.equal(response.status, 200);
+  const html = await response.text();
+  assert.match(html, /<title>Who Gets the Mic\? \| Regulation Who Said It<\/title>/i);
+  assert.match(html, /who gets[\s\S]*the mic\?/i);
+  assert.match(html, /Share of the conversation/i);
+  assert.match(html, /Minutes on mic/i);
+  assert.match(html, /First 100 vs latest 100/i);
+  assert.match(html, /3\.2(?:<!-- -->)?%/i);
+  assert.match(html, /21\.2(?:<!-- -->)?%/i);
+  assert.match(html, /href="\/stats"[^>]*>Speaker stats/i);
+});
+
+
 test("server-renders the searchable, fully attributed 100-quote bank", async () => {
   const response = await render("/who-said-it/bank");
   assert.equal(response.status, 200);

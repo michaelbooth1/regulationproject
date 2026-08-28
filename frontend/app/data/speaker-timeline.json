@@ -1,0 +1,569 @@
+{
+  "generatedAt": "2026-08-28T21:16:06.169816+00:00",
+  "completedEpisodes": 415,
+  "windowSize": 20,
+  "method": "Approximate Whisper segment durations assigned to canonical diarized speaker identities. Shares use only Geoff, Andrew, Gavin, and Eric.",
+  "first100": {
+    "Geoff": {
+      "minutesPerEpisode": 19.75,
+      "share": 40.7
+    },
+    "Andrew": {
+      "minutesPerEpisode": 18.34,
+      "share": 37.81
+    },
+    "Gavin": {
+      "minutesPerEpisode": 8.87,
+      "share": 18.27
+    },
+    "Eric": {
+      "minutesPerEpisode": 1.56,
+      "share": 3.21
+    }
+  },
+  "latest100": {
+    "Geoff": {
+      "minutesPerEpisode": 14.84,
+      "share": 29.72
+    },
+    "Andrew": {
+      "minutesPerEpisode": 16.98,
+      "share": 34.0
+    },
+    "Gavin": {
+      "minutesPerEpisode": 7.53,
+      "share": 15.07
+    },
+    "Eric": {
+      "minutesPerEpisode": 10.59,
+      "share": 21.21
+    }
+  },
+  "windows": [
+    {
+      "startIndex": 1,
+      "endIndex": 20,
+      "startDate": "2020-05-20",
+      "endDate": "2020-10-07",
+      "episodeCount": 20,
+      "hosts": {
+        "Geoff": {
+          "minutesPerEpisode": 17.71,
+          "share": 41.62
+        },
+        "Andrew": {
+          "minutesPerEpisode": 15.56,
+          "share": 36.57
+        },
+        "Gavin": {
+          "minutesPerEpisode": 8.29,
+          "share": 19.49
+        },
+        "Eric": {
+          "minutesPerEpisode": 0.98,
+          "share": 2.31
+        }
+      }
+    },
+    {
+      "startIndex": 21,
+      "endIndex": 40,
+      "startDate": "2020-10-14",
+      "endDate": "2021-02-17",
+      "episodeCount": 20,
+      "hosts": {
+        "Geoff": {
+          "minutesPerEpisode": 18.94,
+          "share": 40.46
+        },
+        "Andrew": {
+          "minutesPerEpisode": 16.65,
+          "share": 35.57
+        },
+        "Gavin": {
+          "minutesPerEpisode": 9.05,
+          "share": 19.34
+        },
+        "Eric": {
+          "minutesPerEpisode": 2.17,
+          "share": 4.63
+        }
+      }
+    },
+    {
+      "startIndex": 41,
+      "endIndex": 60,
+      "startDate": "2021-02-19",
+      "endDate": "2021-06-30",
+      "episodeCount": 20,
+      "hosts": {
+        "Geoff": {
+          "minutesPerEpisode": 21.93,
+          "share": 42.44
+        },
+        "Andrew": {
+          "minutesPerEpisode": 18.13,
+          "share": 35.08
+        },
+        "Gavin": {
+          "minutesPerEpisode": 10.42,
+          "share": 20.17
+        },
+        "Eric": {
+          "minutesPerEpisode": 1.19,
+          "share": 2.31
+        }
+      }
+    },
+    {
+      "startIndex": 61,
+      "endIndex": 80,
+      "startDate": "2021-07-07",
+      "endDate": "2021-11-13",
+      "episodeCount": 20,
+      "hosts": {
+        "Geoff": {
+          "minutesPerEpisode": 22.22,
+          "share": 42.88
+        },
+        "Andrew": {
+          "minutesPerEpisode": 19.17,
+          "share": 36.99
+        },
+        "Gavin": {
+          "minutesPerEpisode": 8.8,
+          "share": 16.99
+        },
+        "Eric": {
+          "minutesPerEpisode": 1.63,
+          "share": 3.15
+        }
+      }
+    },
+    {
+      "startIndex": 81,
+      "endIndex": 100,
+      "startDate": "2021-11-17",
+      "endDate": "2022-03-02",
+      "episodeCount": 20,
+      "hosts": {
+        "Geoff": {
+          "minutesPerEpisode": 17.94,
+          "share": 36.08
+        },
+        "Andrew": {
+          "minutesPerEpisode": 22.22,
+          "share": 44.68
+        },
+        "Gavin": {
+          "minutesPerEpisode": 7.76,
+          "share": 15.6
+        },
+        "Eric": {
+          "minutesPerEpisode": 1.81,
+          "share": 3.64
+        }
+      }
+    },
+    {
+      "startIndex": 101,
+      "endIndex": 120,
+      "startDate": "2022-03-09",
+      "endDate": "2022-07-13",
+      "episodeCount": 20,
+      "hosts": {
+        "Geoff": {
+          "minutesPerEpisode": 20.98,
+          "share": 40.12
+        },
+        "Andrew": {
+          "minutesPerEpisode": 19.43,
+          "share": 37.15
+        },
+        "Gavin": {
+          "minutesPerEpisode": 8.29,
+          "share": 15.85
+        },
+        "Eric": {
+          "minutesPerEpisode": 3.6,
+          "share": 6.89
+        }
+      }
+    },
+    {
+      "startIndex": 121,
+      "endIndex": 140,
+      "startDate": "2022-07-16",
+      "endDate": "2022-11-12",
+      "episodeCount": 20,
+      "hosts": {
+        "Geoff": {
+          "minutesPerEpisode": 20.11,
+          "share": 42.04
+        },
+        "Andrew": {
+          "minutesPerEpisode": 16.07,
+          "share": 33.58
+        },
+        "Gavin": {
+          "minutesPerEpisode": 7.69,
+          "share": 16.08
+        },
+        "Eric": {
+          "minutesPerEpisode": 3.97,
+          "share": 8.3
+        }
+      }
+    },
+    {
+      "startIndex": 141,
+      "endIndex": 160,
+      "startDate": "2022-11-16",
+      "endDate": "2023-02-22",
+      "episodeCount": 20,
+      "hosts": {
+        "Geoff": {
+          "minutesPerEpisode": 20.87,
+          "share": 41.26
+        },
+        "Andrew": {
+          "minutesPerEpisode": 16.25,
+          "share": 32.12
+        },
+        "Gavin": {
+          "minutesPerEpisode": 7.58,
+          "share": 14.99
+        },
+        "Eric": {
+          "minutesPerEpisode": 5.89,
+          "share": 11.64
+        }
+      }
+    },
+    {
+      "startIndex": 161,
+      "endIndex": 180,
+      "startDate": "2023-03-01",
+      "endDate": "2023-05-31",
+      "episodeCount": 20,
+      "hosts": {
+        "Geoff": {
+          "minutesPerEpisode": 20.99,
+          "share": 42.24
+        },
+        "Andrew": {
+          "minutesPerEpisode": 14.27,
+          "share": 28.71
+        },
+        "Gavin": {
+          "minutesPerEpisode": 7.48,
+          "share": 15.06
+        },
+        "Eric": {
+          "minutesPerEpisode": 6.95,
+          "share": 13.99
+        }
+      }
+    },
+    {
+      "startIndex": 181,
+      "endIndex": 200,
+      "startDate": "2023-06-07",
+      "endDate": "2023-09-02",
+      "episodeCount": 20,
+      "hosts": {
+        "Geoff": {
+          "minutesPerEpisode": 18.64,
+          "share": 38.96
+        },
+        "Andrew": {
+          "minutesPerEpisode": 13.56,
+          "share": 28.34
+        },
+        "Gavin": {
+          "minutesPerEpisode": 7.32,
+          "share": 15.31
+        },
+        "Eric": {
+          "minutesPerEpisode": 8.32,
+          "share": 17.39
+        }
+      }
+    },
+    {
+      "startIndex": 201,
+      "endIndex": 220,
+      "startDate": "2023-09-06",
+      "endDate": "2023-12-16",
+      "episodeCount": 20,
+      "hosts": {
+        "Geoff": {
+          "minutesPerEpisode": 19.7,
+          "share": 38.57
+        },
+        "Andrew": {
+          "minutesPerEpisode": 15.88,
+          "share": 31.1
+        },
+        "Gavin": {
+          "minutesPerEpisode": 7.01,
+          "share": 13.72
+        },
+        "Eric": {
+          "minutesPerEpisode": 8.49,
+          "share": 16.62
+        }
+      }
+    },
+    {
+      "startIndex": 221,
+      "endIndex": 240,
+      "startDate": "2023-12-20",
+      "endDate": "2024-04-10",
+      "episodeCount": 20,
+      "hosts": {
+        "Geoff": {
+          "minutesPerEpisode": 20.45,
+          "share": 36.86
+        },
+        "Andrew": {
+          "minutesPerEpisode": 18.13,
+          "share": 32.67
+        },
+        "Gavin": {
+          "minutesPerEpisode": 7.95,
+          "share": 14.33
+        },
+        "Eric": {
+          "minutesPerEpisode": 8.95,
+          "share": 16.14
+        }
+      }
+    },
+    {
+      "startIndex": 241,
+      "endIndex": 260,
+      "startDate": "2024-04-17",
+      "endDate": "2024-08-01",
+      "episodeCount": 20,
+      "hosts": {
+        "Geoff": {
+          "minutesPerEpisode": 18.63,
+          "share": 33.08
+        },
+        "Andrew": {
+          "minutesPerEpisode": 20.14,
+          "share": 35.77
+        },
+        "Gavin": {
+          "minutesPerEpisode": 7.87,
+          "share": 13.98
+        },
+        "Eric": {
+          "minutesPerEpisode": 9.67,
+          "share": 17.16
+        }
+      }
+    },
+    {
+      "startIndex": 261,
+      "endIndex": 280,
+      "startDate": "2024-08-07",
+      "endDate": "2024-11-08",
+      "episodeCount": 20,
+      "hosts": {
+        "Geoff": {
+          "minutesPerEpisode": 13.48,
+          "share": 28.09
+        },
+        "Andrew": {
+          "minutesPerEpisode": 17.39,
+          "share": 36.26
+        },
+        "Gavin": {
+          "minutesPerEpisode": 7.24,
+          "share": 15.1
+        },
+        "Eric": {
+          "minutesPerEpisode": 9.85,
+          "share": 20.54
+        }
+      }
+    },
+    {
+      "startIndex": 281,
+      "endIndex": 300,
+      "startDate": "2024-11-13",
+      "endDate": "2025-02-05",
+      "episodeCount": 20,
+      "hosts": {
+        "Geoff": {
+          "minutesPerEpisode": 17.82,
+          "share": 33.91
+        },
+        "Andrew": {
+          "minutesPerEpisode": 15.2,
+          "share": 28.94
+        },
+        "Gavin": {
+          "minutesPerEpisode": 7.37,
+          "share": 14.02
+        },
+        "Eric": {
+          "minutesPerEpisode": 12.15,
+          "share": 23.13
+        }
+      }
+    },
+    {
+      "startIndex": 301,
+      "endIndex": 320,
+      "startDate": "2025-02-12",
+      "endDate": "2025-05-25",
+      "episodeCount": 20,
+      "hosts": {
+        "Geoff": {
+          "minutesPerEpisode": 15.47,
+          "share": 30.6
+        },
+        "Andrew": {
+          "minutesPerEpisode": 16.31,
+          "share": 32.24
+        },
+        "Gavin": {
+          "minutesPerEpisode": 8.03,
+          "share": 15.88
+        },
+        "Eric": {
+          "minutesPerEpisode": 10.76,
+          "share": 21.28
+        }
+      }
+    },
+    {
+      "startIndex": 321,
+      "endIndex": 340,
+      "startDate": "2025-05-28",
+      "endDate": "2025-08-22",
+      "episodeCount": 20,
+      "hosts": {
+        "Geoff": {
+          "minutesPerEpisode": 16.49,
+          "share": 32.73
+        },
+        "Andrew": {
+          "minutesPerEpisode": 16.61,
+          "share": 32.97
+        },
+        "Gavin": {
+          "minutesPerEpisode": 7.87,
+          "share": 15.62
+        },
+        "Eric": {
+          "minutesPerEpisode": 9.41,
+          "share": 18.68
+        }
+      }
+    },
+    {
+      "startIndex": 341,
+      "endIndex": 360,
+      "startDate": "2025-08-24",
+      "endDate": "2025-11-19",
+      "episodeCount": 20,
+      "hosts": {
+        "Geoff": {
+          "minutesPerEpisode": 16.48,
+          "share": 31.49
+        },
+        "Andrew": {
+          "minutesPerEpisode": 16.73,
+          "share": 31.97
+        },
+        "Gavin": {
+          "minutesPerEpisode": 8.25,
+          "share": 15.76
+        },
+        "Eric": {
+          "minutesPerEpisode": 10.87,
+          "share": 20.78
+        }
+      }
+    },
+    {
+      "startIndex": 361,
+      "endIndex": 380,
+      "startDate": "2025-11-23",
+      "endDate": "2026-03-04",
+      "episodeCount": 20,
+      "hosts": {
+        "Geoff": {
+          "minutesPerEpisode": 13.77,
+          "share": 27.47
+        },
+        "Andrew": {
+          "minutesPerEpisode": 18.83,
+          "share": 37.56
+        },
+        "Gavin": {
+          "minutesPerEpisode": 8.06,
+          "share": 16.08
+        },
+        "Eric": {
+          "minutesPerEpisode": 9.47,
+          "share": 18.89
+        }
+      }
+    },
+    {
+      "startIndex": 381,
+      "endIndex": 400,
+      "startDate": "2026-03-08",
+      "endDate": "2026-05-20",
+      "episodeCount": 20,
+      "hosts": {
+        "Geoff": {
+          "minutesPerEpisode": 12.86,
+          "share": 28.13
+        },
+        "Andrew": {
+          "minutesPerEpisode": 16.26,
+          "share": 35.57
+        },
+        "Gavin": {
+          "minutesPerEpisode": 5.75,
+          "share": 12.57
+        },
+        "Eric": {
+          "minutesPerEpisode": 10.84,
+          "share": 23.72
+        }
+      }
+    },
+    {
+      "startIndex": 401,
+      "endIndex": 415,
+      "startDate": "2026-05-24",
+      "endDate": "2026-08-05",
+      "episodeCount": 15,
+      "hosts": {
+        "Geoff": {
+          "minutesPerEpisode": 15.06,
+          "share": 29.66
+        },
+        "Andrew": {
+          "minutesPerEpisode": 16.68,
+          "share": 32.86
+        },
+        "Gavin": {
+          "minutesPerEpisode": 7.39,
+          "share": 14.55
+        },
+        "Eric": {
+          "minutesPerEpisode": 11.64,
+          "share": 22.93
+        }
+      }
+    }
+  ]
+}
