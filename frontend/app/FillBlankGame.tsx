@@ -222,24 +222,24 @@ export default function FillBlankGame({ mappedEpisodes }: { mappedEpisodes: numb
               <p className="fine-print">
                 Choose the missing words from four possible repairs. Once the file is locked,
                 the transcript restores the three lines before it and identifies who said it.
-                Every wrong repair borrows language or a premise from elsewhere in the archive.
-                Back-to-back games avoid repeats.
+                Every blank and every repair is one to three words; the wrong answers are written
+                to fit the sentence without advertising themselves as jokes. Back-to-back games avoid repeats.
               </p>
             </div>
 
             <aside className="blank-evidence" aria-label="Example fill in the blank question">
               <div className="blank-evidence-head">
                 <span>Damaged evidence / sample 001</span>
-                <b>One word missing</b>
+                <b>Two words missing</b>
               </div>
               <blockquote>
-                “...and every morning <mark>________</mark> would be on your waffle?”
+                “I have a 50-foot <mark>________</mark> that gives me about 13 miles of range.”
               </blockquote>
               <ol>
-                <li><b>A</b> the Cosmic Crisp review</li>
-                <li className="is-answer"><b>B</b> the news</li>
-                <li><b>C</b> the Rat Boy trailer</li>
-                <li><b>D</b> the Bovril sales figures</li>
+                <li><b>A</b> radio tower</li>
+                <li className="is-answer"><b>B</b> ham tower</li>
+                <li><b>C</b> relay antenna</li>
+                <li><b>D</b> signal mast</li>
               </ol>
               <dl>
                 <div><dt>Question bank</dt><dd>{FILL_BLANK_BANK.length}</dd></div>
@@ -270,7 +270,7 @@ export default function FillBlankGame({ mappedEpisodes }: { mappedEpisodes: numb
             </div>
             <div className="progress-track" aria-hidden="true"><span style={{ width: `${progress}%` }} /></div>
             <div className="blank-progress-meta">
-              <p>{current.difficulty} file / archive language reconstruction</p>
+              <p>{current.difficulty} file / short-form transcript reconstruction</p>
               <ol aria-label={`Round progress: question ${currentIndex + 1} of ${round.length}`}>
                 {round.map((question, index) => {
                   const answer = answers[index];

@@ -3,17 +3,15 @@
 ## Game shape
 
 - The game lives at `/blank` and does not replace Regulation Who Said It.
-- Each run serves 10 damaged quotes from a curated 50-question bank. The
-  current bank is a complete second edition: none of its source quotes overlap
-  the retired launch bank.
+- Each run serves 10 damaged quotes from a curated 50-question bank.
 - A run contains three easy, four medium, and three hard repairs.
-- The harder second-edition bank contains 10 easy, 20 medium, and 20 hard
-  files; “easy” now describes the amount of contextual leakage, not throwaway
-  wrong answers.
+- The bank contains 10 easy, 20 medium, and 20 hard files; “easy” describes the
+  amount of contextual leakage, not throwaway wrong answers.
 - The immediately previous ten questions are avoided whenever the remaining
   bank can satisfy the difficulty mix.
-- Every question removes one exact span from a verified transcript quote and
-  offers four editorially written replacements.
+- Every question uses a verified source line no longer than 120 characters,
+  removes one exact span of one to three words, and offers four choices that
+  are each no longer than three words.
 - A choice locks immediately. The correct repair is shown in the full quote,
   followed by the three preceding transcript turns and the attributed quote.
 - Number keys 1–4 select answers on desktop; all controls remain touch friendly.
@@ -30,33 +28,35 @@
 
 ## Editorial direction
 
-The missing text should be funny to reconstruct, not merely difficult to guess.
-The strongest blanks are concrete nouns, suspicious measurements, invented
-phrases, or a final turn that changes the sentence from ordinary to absurd.
+The source line should already sound funny or absurd out of context. The blank
+does not have to contain the joke. Ordinary missing nouns, actions, numbers,
+locations, and durations often create a harder and fairer question because the
+surrounding quote carries the comedy.
 
 Distractors are manually written to satisfy five rules:
 
 1. every option should fit the sentence grammatically;
-2. every wrong answer must derive its central phrase or premise from another
-   audited quote in the archive;
+2. every answer is one to three words, with no exception;
 3. all four answers should occupy the same semantic class and have a similar
    cadence, specificity, and length;
-4. at least two wrong answers should be credible completions even to a regular
-   listener—not merely random jokes;
+4. all three wrong answers should be credible, ordinary completions—not a pile
+   of conspicuous callback jokes competing with the real line;
 5. the full restored transcript must still identify one unambiguous historical
    answer.
 
-The preferred decoy vocabulary comes from recurring Regulation dialects: food
-engineering, animal logic, fake products, plumbing and body systems, canonical
-show bits, and suspiciously exact measurements. Generic absurdity is rejected
-when a real archive premise can do the same job more convincingly.
+Decoys should come from the sentence's immediate semantic world: other tools
+for a tool, other durations for a duration, other rooms or fixtures for a
+location, and so on. A show-specific term is useful only when it reads as a
+genuine peer to the other choices. The correct answer must not be the sole
+option wearing a neon comedy hat.
 
 The bank reuses source quotes from `who-said-it-bank.json`, which means speaker,
 episode, publication date, timestamp, lead-in context, and attribution have
 already passed the Who Said It transcript checks. `fill-blank-bank.json` stores
-the source quote ID, exact missing span, three distractors, their archive-source
-IDs, and game difficulty. The application constructs the final four choices at
-runtime, so the correct answer cannot drift away from the transcript.
+the source quote ID, exact missing span, three short distractors, and game
+difficulty. The application validates the quote-length and choice-length rules
+and constructs the final four choices at runtime, so the correct answer cannot
+drift away from the transcript.
 
 ## Visual system
 

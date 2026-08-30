@@ -71,10 +71,11 @@ test("server-renders the Regulation Fill in the Blank game", async () => {
   assert.match(html, /Reconstruct ten absurd lines from the show(?:&#x27;|')s history/i);
   assert.match(html, /Open the damaged transcript/i);
   assert.match(html, /three lines before it and identifies who said it/i);
-  assert.match(html, /Every wrong repair borrows language or a premise from elsewhere in the archive/i);
-  assert.match(html, /every morning/i);
-  assert.match(html, /the Rat Boy trailer/i);
-  assert.doesNotMatch(html, /every toilet on Earth was flushed/i);
+  assert.match(html, /Every blank and every repair is one to three words/i);
+  assert.match(html, /I have a 50-foot/i);
+  assert.match(html, /radio tower/i);
+  assert.match(html, /ham tower/i);
+  assert.doesNotMatch(html, /every morning/i);
   assert.match(html, /<dt>Question bank<\/dt><dd>50<\/dd>/i);
   assert.match(html, /href="\/blank\/bank"[^>]*>Review bank<\/a>/i);
   assert.match(html, /href="\/"[^>]*>Who said it<\/a>/i);
@@ -94,8 +95,9 @@ test("server-renders the complete fill-in-the-blank review desk", async () => {
   assert.match(html, /Mark for removal/i);
   assert.match(html, /Copy removal list/i);
   assert.match(html, /Open transcript context/i);
-  assert.match(html, /repair-sock-timeline/i);
-  assert.match(html, /approximately, I(?:&#x27;|')d say, 15 to 45 seconds/i);
+  assert.match(html, /short-egg-economy/i);
+  assert.match(html, /short-puffer-fish/i);
+  assert.match(html, /Correct repair[^]*talons/i);
   assert.match(html, /Marks live in this browser/i);
 });
 
@@ -117,6 +119,7 @@ test("keeps the fill-in-the-blank bank curated and transcript-grounded", async (
   assert.equal(blankBank.length, 50);
   assert.equal(new Set(blankBank.map((item) => item.id)).size, 50);
   assert.equal(new Set(blankBank.map((item) => item.quoteId)).size, 50);
+  assert.ok(blankBank.every((item) => item.id.startsWith("short-")));
   assert.deepEqual(
     Object.fromEntries(
       ["easy", "medium", "hard"].map((difficulty) => [
@@ -127,46 +130,32 @@ test("keeps the fill-in-the-blank bank curated and transcript-grounded", async (
     { easy: 10, medium: 20, hard: 20 },
   );
 
-  const retiredSourceIds = new Set([
-    "geoff-banana-diet", "geoff-twelve-foot-toilet", "geoff-global-flush",
-    "geoff-gentle-ghost", "geoff-sleeping-pill-horse", "geoff-poop-two-chairs",
-    "andrew-pepsi-hotline", "andrew-ham-currency", "andrew-seventy-five-sauces",
-    "andrew-horse-egg", "andrew-swan-dna", "andrew-potatoast", "gavin-bed-toilet",
-    "gavin-puffer-fish", "gavin-fruit-bagel", "gavin-ham-inside-pig",
-    "gavin-pizza-strip", "eric-bean-hole-tent", "eric-icy-hot-fastball",
-    "eric-ham-tower", "eric-wide-angle-head", "eric-guitar-egg", "eric-bank-floor",
-    "geoff-potato-ass-chips", "geoff-hot-dog-glove-catch", "geoff-shirt-physics",
-    "geoff-rabbit-spaghetti", "geoff-pizza-bones", "andrew-cosmic-fart-protest",
-    "andrew-collapsing-toilet", "andrew-egg-window", "andrew-hot-dog-cannon",
-    "andrew-ham-fan-golf", "andrew-fish-requirements", "gavin-upstairs-toilet",
-    "gavin-pickle-paste", "gavin-shampoo-bottle-game", "gavin-sausage-flag",
-    "gavin-pencil-ice-pick", "eric-electric-toilet", "eric-no-ding",
-    "eric-goat-milk-hot-dog", "eric-gooch-dog", "eric-waffle-cone",
-    "geoff-second-wave-fart", "geoff-bloopy-trail", "andrew-stair-butt-shimmy",
-    "gavin-anus-curtain", "eric-deer-piss-review", "eric-two-headed-bird",
-  ]);
   assert.deepEqual(
-    blankBank.filter((item) => retiredSourceIds.has(item.quoteId)).map((item) => item.quoteId),
-    [],
+    Object.fromEntries(
+      ["geoff", "andrew", "gavin", "eric"].map((speaker) => [
+        speaker,
+        blankBank.filter((item) => quoteById.get(item.quoteId)?.speaker === speaker).length,
+      ]),
+    ),
+    { geoff: 12, andrew: 13, gavin: 13, eric: 12 },
   );
 
   for (const item of blankBank) {
     const source = quoteById.get(item.quoteId);
     assert.ok(source, `Missing source quote for ${item.id}`);
+    assert.ok(source.quote.length <= 120, `${item.id} source is too long (${source.quote.length})`);
     assert.equal(source.quote.split(item.answer).length - 1, 1, `${item.id} must blank one exact span`);
     assert.equal(item.distractors.length, 3);
-    assert.equal(new Set(item.distractors.map((distractor) => distractor.text.toLowerCase())).size, 3);
+    assert.equal(new Set(item.distractors.map((distractor) => distractor.toLowerCase())).size, 3);
+    const options = [item.answer, ...item.distractors];
     assert.equal(
-      new Set([item.answer, ...item.distractors.map((distractor) => distractor.text)]
-        .map((option) => option.toLowerCase())).size,
+      new Set(options.map((option) => option.toLowerCase())).size,
       4,
     );
-    for (const distractor of item.distractors) {
-      assert.ok(distractor.sourceQuoteIds.length, `${item.id} has an ungrounded distractor`);
-      for (const sourceQuoteId of distractor.sourceQuoteIds) {
-        assert.ok(quoteById.has(sourceQuoteId), `${item.id} cites unknown source ${sourceQuoteId}`);
-        assert.notEqual(sourceQuoteId, item.quoteId, `${item.id} cites itself as a distractor source`);
-      }
+    for (const option of options) {
+      assert.equal(option, option.trim(), `${item.id} has padded choice text`);
+      const wordCount = option.trim().split(/\s+/).length;
+      assert.ok(wordCount >= 1 && wordCount <= 3, `${item.id} choice has ${wordCount} words: ${option}`);
     }
   }
 
@@ -182,10 +171,10 @@ test("keeps the fill-in-the-blank bank curated and transcript-grounded", async (
   assert.match(component, /Said by \{correctProfile\.name\}/);
   assert.match(component, /handleShortcut/);
   assert.match(component, /window\.localStorage/);
-  assert.match(component, /archive language reconstruction/);
+  assert.match(component, /short-form transcript reconstruction/);
   assert.doesNotMatch(component, /\{source\.topic\}/);
-  assert.match(component, /the Bovril sales figures/);
-  assert.match(preferencesSource, /regulation-fill-blank-removals-v1/);
+  assert.match(component, /relay antenna/);
+  assert.match(preferencesSource, /regulation-fill-blank-removals-v2/);
   assert.match(preferencesSource, /normalizeBlankRemovalIds/);
   assert.match(preferencesSource, /KNOWN_BLANK_IDS/);
   assert.match(bankBrowserSource, /navigator\.clipboard\.writeText/);

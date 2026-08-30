@@ -8,10 +8,7 @@ type FillBlankDefinition = {
   id: string;
   quoteId: string;
   answer: string;
-  distractors: Array<{
-    text: string;
-    sourceQuoteIds: string[];
-  }>;
+  distractors: string[];
   difficulty: BlankDifficulty;
 };
 
@@ -26,6 +23,12 @@ export type FillBlankQuestion = {
 };
 
 const quoteById = new Map(WHO_SAID_IT_BANK.map((quote) => [quote.id, quote]));
+const MAX_CHOICE_WORDS = 3;
+const MAX_QUOTE_CHARACTERS = 120;
+
+function choiceWordCount(choice: string): number {
+  return choice.trim().split(/\s+/).length;
+}
 
 /**
  * Join the curated blank choices to the already-audited quote records. Keeping
@@ -35,6 +38,10 @@ const quoteById = new Map(WHO_SAID_IT_BANK.map((quote) => [quote.id, quote]));
 export const FILL_BLANK_BANK: FillBlankQuestion[] = (rawBank as FillBlankDefinition[]).map((blank) => {
   const source = quoteById.get(blank.quoteId);
   if (!source) throw new Error(`Unknown fill-in-the-blank quote: ${blank.quoteId}`);
+
+  if (source.quote.length > MAX_QUOTE_CHARACTERS) {
+    throw new Error(`${blank.id} uses a quote longer than ${MAX_QUOTE_CHARACTERS} characters`);
+  }
 
   const answerIndex = source.quote.indexOf(blank.answer);
   if (answerIndex < 0) {
@@ -48,21 +55,14 @@ export const FILL_BLANK_BANK: FillBlankQuestion[] = (rawBank as FillBlankDefinit
     throw new Error(`${blank.id} must have exactly three distractors`);
   }
 
-  for (const distractor of blank.distractors) {
-    if (!distractor.sourceQuoteIds.length) {
-      throw new Error(`${blank.id} has an ungrounded distractor: "${distractor.text}"`);
-    }
-    for (const sourceQuoteId of distractor.sourceQuoteIds) {
-      if (!quoteById.has(sourceQuoteId)) {
-        throw new Error(`${blank.id} cites an unknown distractor source: ${sourceQuoteId}`);
-      }
-      if (sourceQuoteId === blank.quoteId) {
-        throw new Error(`${blank.id} cannot cite its own quote as distractor material`);
-      }
+  const options = [blank.answer, ...blank.distractors];
+  for (const option of options) {
+    const wordCount = choiceWordCount(option);
+    if (option !== option.trim() || wordCount < 1 || wordCount > MAX_CHOICE_WORDS) {
+      throw new Error(`${blank.id} has a choice outside the 1–${MAX_CHOICE_WORDS} word limit: "${option}"`);
     }
   }
 
-  const options = [blank.answer, ...blank.distractors.map((distractor) => distractor.text)];
   if (new Set(options.map((option) => option.toLocaleLowerCase())).size !== 4) {
     throw new Error(`${blank.id} must have four distinct choices`);
   }

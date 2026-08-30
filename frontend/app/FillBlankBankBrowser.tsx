@@ -204,7 +204,7 @@ export default function FillBlankBankBrowser({ mappedEpisodes }: { mappedEpisode
             type="search"
             value={query}
             onChange={(event) => setQuery(event.target.value)}
-            placeholder="Try: sock, Bovril, Episode 42, repair-pickle..."
+            placeholder="Try: toilet, Bovril, Episode 42, short-pickle..."
           />
         </label>
 

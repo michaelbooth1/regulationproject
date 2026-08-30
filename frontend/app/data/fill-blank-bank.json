@@ -1,552 +1,352 @@
 [
   {
-    "id": "repair-sock-timeline",
-    "quoteId": "geoff-sock-forensics",
-    "answer": "approximately, I'd say, 15 to 45 seconds",
-    "distractors": [
-      { "text": "roughly, I'd say, 10 to 15 seconds", "sourceQuoteIds": ["gavin-pickle-paste"] },
-      { "text": "approximately, I'd say, 30 to 80 seconds", "sourceQuoteIds": ["eric-sausage-bop", "eric-icy-hot-fastball"] },
-      { "text": "about, I'd say, 13 to 19 seconds", "sourceQuoteIds": ["eric-ham-tower", "andrew-inflatable-battle-bus"] }
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "repair-bovril-geography",
-    "quoteId": "geoff-bovril-empire",
-    "answer": "Argentinian beef ranches",
-    "distractors": [
-      { "text": "Indian FC5 potato farms", "sourceQuoteIds": ["eric-potato-patent"] },
-      { "text": "Canadian Cosmic Crisp orchards", "sourceQuoteIds": ["andrew-cosmic-fart-protest"] },
-      { "text": "English giant-dill-pickle farms", "sourceQuoteIds": ["geoff-pickle-bag"] }
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "repair-waste-roll-call",
-    "quoteId": "geoff-animal-waste-ranking",
-    "answer": "elephant shit, junk shit",
-    "distractors": [
-      { "text": "possum shit, Burn Dog shit", "sourceQuoteIds": ["geoff-possum-anus", "gavin-cross-year-turd"] },
-      { "text": "swan shit, puffer fish shit", "sourceQuoteIds": ["andrew-swan-dna", "gavin-puffer-fish"] },
-      { "text": "deer shit, Rat Boy shit", "sourceQuoteIds": ["eric-deer-piss-review", "eric-rat-boy-trailer"] }
-    ],
-    "difficulty": "hard"
-  },
-  {
-    "id": "repair-display-toilet-verdict",
-    "quoteId": "geoff-display-toilet",
-    "answer": "would I piss in a display toilet? Yeah, I would use the display toilet",
-    "distractors": [
-      { "text": "would I piss from upstairs? Yeah, I would aim down into the toilet", "sourceQuoteIds": ["gavin-upstairs-toilet"] },
-      { "text": "would I try the electric seat? Yeah, I would let it zap the piss out", "sourceQuoteIds": ["eric-electric-toilet"] },
-      { "text": "would I use the bed toilet? Yeah, I would pull the lever and tilt forward", "sourceQuoteIds": ["gavin-bed-toilet"] }
-    ],
-    "difficulty": "easy"
-  },
-  {
-    "id": "repair-pickle-scale",
-    "quoteId": "geoff-pickle-bag",
-    "answer": "a porn star's cock",
-    "distractors": [
-      { "text": "a 50-pound dog turd", "sourceQuoteIds": ["geoff-possum-anus"] },
-      { "text": "an ostrich egg sandwich", "sourceQuoteIds": ["andrew-ostrich-sandwich"] },
-      { "text": "a giant monkey's foot", "sourceQuoteIds": ["gavin-king-kong-taxonomy", "andrew-foot-unit"] }
-    ],
-    "difficulty": "hard"
-  },
-  {
-    "id": "repair-egg-price-list",
+    "id": "short-egg-economy",
     "quoteId": "geoff-egg-economy",
-    "answer": "a $1,000 egg, a $500 egg",
-    "distractors": [
-      { "text": "a $1,000 pencil, a $500 banana", "sourceQuoteIds": ["gavin-charity-pencil", "andrew-sixty-four-bananas"] },
-      { "text": "a $1,000 ham tower, a $500 toilet", "sourceQuoteIds": ["eric-ham-tower", "geoff-twelve-foot-toilet"] },
-      { "text": "a $1,000 Cosmic Crisp, a $500 meat Slurpee", "sourceQuoteIds": ["andrew-cosmic-fart-protest", "andrew-meat-slurpee"] }
-    ],
+    "answer": "$1,000 egg",
+    "distractors": ["$750 egg", "$2,000 egg", "$1,500 egg"],
     "difficulty": "hard"
   },
   {
-    "id": "repair-bread-age",
-    "quoteId": "geoff-betty-white-bread",
-    "answer": "She's",
-    "distractors": [
-      { "text": "The Bovril Empire's", "sourceQuoteIds": ["geoff-bovril-empire"] },
-      { "text": "Ham Ham Coin's", "sourceQuoteIds": ["andrew-ham-currency"] },
-      { "text": "The egg window's", "sourceQuoteIds": ["andrew-egg-window"] }
-    ],
+    "id": "short-gentle-ghost",
+    "quoteId": "geoff-gentle-ghost",
+    "answer": "gentle",
+    "distractors": ["friendly", "quiet", "angry"],
+    "difficulty": "medium"
+  },
+  {
+    "id": "short-twelve-foot-toilet",
+    "quoteId": "geoff-twelve-foot-toilet",
+    "answer": "12-foot",
+    "distractors": ["6-foot", "8-foot", "10-foot"],
     "difficulty": "easy"
   },
   {
-    "id": "repair-third-bread-frequency",
+    "id": "short-third-bread",
     "quoteId": "geoff-third-bread",
-    "answer": "90% of the time",
-    "distractors": [
-      { "text": "50% of the time", "sourceQuoteIds": ["eric-sock-probability"] },
-      { "text": "75% of the time", "sourceQuoteIds": ["andrew-seventy-five-sauces"] },
-      { "text": "64% of the time", "sourceQuoteIds": ["andrew-sixty-four-bananas"] }
-    ],
-    "difficulty": "hard"
-  },
-  {
-    "id": "repair-cowboy-hat-call",
-    "quoteId": "geoff-midnight-cowboy-hat",
-    "answer": "Cowboy hat",
-    "distractors": [
-      { "text": "Ham fan", "sourceQuoteIds": ["andrew-ham-fan-golf"] },
-      { "text": "Gooch Dog", "sourceQuoteIds": ["eric-gooch-dog"] },
-      { "text": "Banana wipes", "sourceQuoteIds": ["andrew-banana-wipes"] }
-    ],
-    "difficulty": "hard"
-  },
-  {
-    "id": "repair-possum-evidence",
-    "quoteId": "geoff-possum-anus",
-    "answer": "50-pound dog shit",
-    "distractors": [
-      { "text": "elephant-sized possum shit", "sourceQuoteIds": ["geoff-animal-waste-ranking"] },
-      { "text": "big-cat-sized junk shit", "sourceQuoteIds": ["geoff-animal-waste-ranking"] },
-      { "text": "50-pound Burn Dog shit", "sourceQuoteIds": ["eric-ham-tower", "gavin-cross-year-turd"] }
-    ],
+    "answer": "90%",
+    "distractors": ["50%", "75%", "100%"],
     "difficulty": "medium"
   },
   {
-    "id": "repair-waxing-pact",
-    "quoteId": "geoff-ass-waxing-pact",
-    "answer": "get my asshole waxed. But what if we go get our assholes waxed together",
-    "distractors": [
-      { "text": "put Icy Hot on my dick. But what if we try throwing 80 miles an hour together", "sourceQuoteIds": ["eric-icy-hot-fastball"] },
-      { "text": "clog a toilet alone. But what if we turn it into a contest together", "sourceQuoteIds": ["geoff-toilet-clog-race"] },
-      { "text": "remove a shampoo bottle. But what if every game ships without it", "sourceQuoteIds": ["gavin-shampoo-bottle-game"] }
-    ],
+    "id": "short-sleeping-pill-horse",
+    "quoteId": "geoff-sleeping-pill-horse",
+    "answer": "horse",
+    "distractors": ["dog", "swan", "coyote"],
+    "difficulty": "hard"
+  },
+  {
+    "id": "short-poop-two-chairs",
+    "quoteId": "geoff-poop-two-chairs",
+    "answer": "two chairs",
+    "distractors": ["three stools", "two couches", "four cushions"],
     "difficulty": "medium"
   },
   {
-    "id": "repair-toilet-clog-contest",
-    "quoteId": "geoff-toilet-clog-race",
-    "answer": "a contest to see who could clog a toilet first",
-    "distractors": [
-      { "text": "a contest to see who could eat 64 bananas first", "sourceQuoteIds": ["andrew-sixty-four-bananas"] },
-      { "text": "a contest to see who could pick the right sock first", "sourceQuoteIds": ["geoff-sock-forensics"] },
-      { "text": "a contest to see who could throw a Frisbee wrong first", "sourceQuoteIds": ["eric-sausage-bop"] }
-    ],
-    "difficulty": "hard"
-  },
-  {
-    "id": "repair-cat-hideout",
-    "quoteId": "andrew-cat-litter-tail",
-    "answer": "sitting on a toilet in my underwear",
-    "distractors": [
-      { "text": "hiding behind a stack of waffle makers", "sourceQuoteIds": ["gavin-flying-hot-dogs"] },
-      { "text": "crouching behind a 12-foot toilet", "sourceQuoteIds": ["geoff-twelve-foot-toilet"] },
-      { "text": "hiding inside an inflatable battle bus", "sourceQuoteIds": ["andrew-inflatable-battle-bus"] }
-    ],
-    "difficulty": "hard"
-  },
-  {
-    "id": "repair-inflatable-purchase",
-    "quoteId": "andrew-inflatable-battle-bus",
-    "answer": "a 19-foot-long, 18-foot-high battle bus that you could inflate",
-    "distractors": [
-      { "text": "a 50-foot ham tower with 13 miles of range", "sourceQuoteIds": ["eric-ham-tower"] },
-      { "text": "a 12-foot toilet somebody mailed across the country", "sourceQuoteIds": ["geoff-twelve-foot-toilet"] },
-      { "text": "a hundred-grand inflatable pencil for charity", "sourceQuoteIds": ["gavin-charity-pencil"] }
-    ],
-    "difficulty": "hard"
-  },
-  {
-    "id": "repair-waffle-method",
-    "quoteId": "andrew-waffle-identity",
-    "answer": "waffle or a pancake at that point? I'm putting pancake mix in a waffle maker. Is that a waffle or a pancake",
-    "distractors": [
-      { "text": "sandwich or potatoast at that point? I'm putting mashed potato in a baked potato. Is that bread or potato", "sourceQuoteIds": ["andrew-potatoast"] },
-      { "text": "drink or meat Slurpee at that point? I'm putting Bovril and ice in a Slurpee machine. Is that meat or a drink", "sourceQuoteIds": ["andrew-meat-slurpee"] },
-      { "text": "bagel or sliced pineapple at that point? I'm putting pineapple in a ring. Is that fruit or a bagel", "sourceQuoteIds": ["gavin-fruit-bagel"] }
-    ],
+    "id": "short-global-flush",
+    "quoteId": "geoff-global-flush",
+    "answer": "toilet",
+    "distractors": ["urinal", "bidet", "drain"],
     "difficulty": "easy"
   },
   {
-    "id": "repair-personal-foot-unit",
-    "quoteId": "andrew-foot-unit",
-    "answer": "a foot was the size of my foot. I'd use my foot to measure feet",
-    "distractors": [
-      { "text": "an egg was a complete measuring system. I'd use an egg to measure everybody", "sourceQuoteIds": ["andrew-egg-measurement"] },
-      { "text": "a pizza strip was a unit of length. I'd use the strip to measure feet", "sourceQuoteIds": ["gavin-pizza-strip"] },
-      { "text": "a ham tower was a unit of range. I'd use the tower to measure miles", "sourceQuoteIds": ["eric-ham-tower"] }
-    ],
+    "id": "short-potato-ass-chips",
+    "quoteId": "geoff-potato-ass-chips",
+    "answer": "Doritos",
+    "distractors": ["Cheetos", "Pringles", "Fritos"],
+    "difficulty": "hard"
+  },
+  {
+    "id": "short-animal-waste-ranking",
+    "quoteId": "geoff-animal-waste-ranking",
+    "answer": "human shit",
+    "distractors": ["duck shit", "goat shit", "bear shit"],
     "difficulty": "medium"
   },
   {
-    "id": "repair-banana-sentence",
+    "id": "short-shirt-physics",
+    "quoteId": "geoff-shirt-physics",
+    "answer": "shirt",
+    "distractors": ["pants", "underwear", "towel"],
+    "difficulty": "medium"
+  },
+  {
+    "id": "short-banana-diet",
+    "quoteId": "geoff-banana-diet",
+    "answer": "14 months",
+    "distractors": ["2 weeks", "6 months", "3 years"],
+    "difficulty": "hard"
+  },
+  {
+    "id": "short-rabbit-spaghetti",
+    "quoteId": "geoff-rabbit-spaghetti",
+    "answer": "bird seed",
+    "distractors": ["rabbit pellets", "dry oats", "fresh carrots"],
+    "difficulty": "hard"
+  },
+  {
+    "id": "short-seventy-five-sauces",
+    "quoteId": "andrew-seventy-five-sauces",
+    "answer": "75",
+    "distractors": ["50", "100", "200"],
+    "difficulty": "hard"
+  },
+  {
+    "id": "short-piss-dog",
+    "quoteId": "andrew-piss-dog",
+    "answer": "the toilet",
+    "distractors": ["the bathtub", "the shower", "a drain"],
+    "difficulty": "easy"
+  },
+  {
+    "id": "short-egg-window",
+    "quoteId": "andrew-egg-window",
+    "answer": "closed",
+    "distractors": ["open", "locked", "stuck"],
+    "difficulty": "medium"
+  },
+  {
+    "id": "short-hot-dog-cannon",
+    "quoteId": "andrew-hot-dog-cannon",
+    "answer": "I'm assuming",
+    "distractors": ["I guess", "I think", "apparently"],
+    "difficulty": "hard"
+  },
+  {
+    "id": "short-horse-egg",
+    "quoteId": "andrew-horse-egg",
+    "answer": "line the egg",
+    "distractors": ["hold the egg", "lift the egg", "set the egg"],
+    "difficulty": "medium"
+  },
+  {
+    "id": "short-sixty-four-bananas",
     "quoteId": "andrew-sixty-four-bananas",
     "answer": "64 days",
-    "distractors": [
-      { "text": "14 months", "sourceQuoteIds": ["geoff-banana-diet"] },
-      { "text": "75 days", "sourceQuoteIds": ["andrew-seventy-five-sauces"] },
-      { "text": "two weeks", "sourceQuoteIds": ["eric-biweekly-math"] }
-    ],
+    "distractors": ["30 days", "42 days", "90 days"],
+    "difficulty": "hard"
+  },
+  {
+    "id": "short-potatoast",
+    "quoteId": "andrew-potatoast",
+    "answer": "bread",
+    "distractors": ["bun", "crust", "shell"],
     "difficulty": "medium"
   },
   {
-    "id": "repair-meat-slurpee-name",
-    "quoteId": "andrew-meat-slurpee",
-    "answer": "meat Slurpee",
-    "distractors": [
-      { "text": "Bovril Slurpee", "sourceQuoteIds": ["geoff-bovril-empire"] },
-      { "text": "frosted Bov", "sourceQuoteIds": ["geoff-bovril-empire"] },
-      { "text": "summer Bov", "sourceQuoteIds": ["geoff-bovril-empire"] }
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "repair-banana-wipe-description",
-    "quoteId": "andrew-banana-wipes",
-    "answer": "What would a banana wipe look like?",
-    "distractors": [
-      { "text": "What would a banana wipe taste like?", "sourceQuoteIds": ["geoff-banana-diet"] },
-      { "text": "What would a banana wipe smell like?", "sourceQuoteIds": ["gavin-surprise-fart"] },
-      { "text": "What would a banana wipe feel like?", "sourceQuoteIds": ["andrew-toeless-socks"] }
-    ],
-    "difficulty": "easy"
-  },
-  {
-    "id": "repair-pizza-confidence",
-    "quoteId": "andrew-italian-pizza-hands",
-    "answer": "Italian pizza hands",
-    "distractors": [
-      { "text": "regulation pizza hands", "sourceQuoteIds": ["gavin-sausage-flag"] },
-      { "text": "Unifarm pizza hands", "sourceQuoteIds": ["andrew-ham-currency"] },
-      { "text": "Cosmic Crisp pizza hands", "sourceQuoteIds": ["andrew-cosmic-fart-protest"] }
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "repair-shocks-guy",
-    "quoteId": "andrew-toeless-socks",
-    "answer": "Not a sock guy—a shocks guy",
-    "distractors": [
-      { "text": "Not a sock guy—a shorts guy", "sourceQuoteIds": ["gavin-ankle-trousers"] },
-      { "text": "Not a sock guy—an egg-measurement guy", "sourceQuoteIds": ["andrew-egg-measurement"] },
-      { "text": "Not a sock guy—a frosted Bov guy", "sourceQuoteIds": ["andrew-meat-slurpee"] }
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "repair-piss-dog-wish",
-    "quoteId": "andrew-piss-dog",
-    "answer": "a piss dog that can, like, piss in the toilet",
-    "distractors": [
-      { "text": "a dog that only exists before it's shot and then vanishes", "sourceQuoteIds": ["gavin-vanishing-dog"] },
-      { "text": "a monkey with a magnet in its butt on my shoulder", "sourceQuoteIds": ["eric-magnet-butt-monkey"] },
-      { "text": "a bird I can throw in the air and make do flips", "sourceQuoteIds": ["eric-flip-a-bird"] }
-    ],
-    "difficulty": "easy"
-  },
-  {
-    "id": "repair-egg-measuring-system",
-    "quoteId": "andrew-egg-measurement",
-    "answer": "an egg",
-    "distractors": [
-      { "text": "my foot", "sourceQuoteIds": ["andrew-foot-unit"] },
-      { "text": "a pizza strip", "sourceQuoteIds": ["gavin-pizza-strip"] },
-      { "text": "a ham tower", "sourceQuoteIds": ["eric-ham-tower"] }
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "repair-ostrich-length",
+    "id": "short-ostrich-sandwich",
     "quoteId": "andrew-ostrich-sandwich",
-    "answer": "just like a foot. It has to be a foot long",
-    "distractors": [
-      { "text": "just like a 19-foot battle bus. It has to be inflatable", "sourceQuoteIds": ["andrew-inflatable-battle-bus"] },
-      { "text": "just like a pizza strip. It has to be as long as possible", "sourceQuoteIds": ["gavin-pizza-strip"] },
-      { "text": "just like a 50-foot ham tower. It has to have 13 miles of range", "sourceQuoteIds": ["eric-ham-tower"] }
-    ],
-    "difficulty": "hard"
-  },
-  {
-    "id": "repair-sock-odds",
-    "quoteId": "eric-sock-probability",
-    "answer": "a 50-50 chance",
-    "distractors": [
-      { "text": "a 90-percent chance", "sourceQuoteIds": ["geoff-third-bread"] },
-      { "text": "a one-in-64 chance", "sourceQuoteIds": ["andrew-sixty-four-bananas"] },
-      { "text": "a 10-to-15-to-one chance", "sourceQuoteIds": ["gavin-pickle-paste"] }
-    ],
-    "difficulty": "hard"
-  },
-  {
-    "id": "repair-towel-route",
-    "quoteId": "eric-wet-ass-gap",
-    "answer": "I got my legs, skip on up, got my torso",
-    "distractors": [
-      { "text": "I got my feet, picked a sock, moved up to my legs", "sourceQuoteIds": ["geoff-sock-forensics"] },
-      { "text": "I got my toes, cut the socks, worked up to my pants", "sourceQuoteIds": ["andrew-toeless-socks"] },
-      { "text": "I got my torso, wrapped the shirt, moved down to my legs", "sourceQuoteIds": ["geoff-shirt-physics"] }
-    ],
-    "difficulty": "hard"
-  },
-  {
-    "id": "repair-biweekly-arithmetic",
-    "quoteId": "eric-biweekly-math",
-    "answer": "Two every one week",
-    "distractors": [
-      { "text": "One every 64 days", "sourceQuoteIds": ["andrew-sixty-four-bananas"] },
-      { "text": "Ten to fifteen every two weeks", "sourceQuoteIds": ["gavin-pickle-paste"] },
-      { "text": "Seventy-five every one week", "sourceQuoteIds": ["andrew-seventy-five-sauces"] }
-    ],
+    "answer": "an ostrich egg",
+    "distractors": ["a goose egg", "a duck egg", "a turkey egg"],
     "difficulty": "easy"
   },
   {
-    "id": "repair-dbox-itinerary",
-    "quoteId": "eric-dbox-break-shit",
-    "answer": "Break Shit",
-    "distractors": [
-      { "text": "Sausage Talk", "sourceQuoteIds": ["gavin-sausage-flag"] },
-      { "text": "the Cosmic Crisp review", "sourceQuoteIds": ["andrew-cosmic-fart-protest"] },
-      { "text": "Sitting Normally", "sourceQuoteIds": ["gavin-dick-out-sequel"] }
-    ],
+    "id": "short-collapsing-toilet",
+    "quoteId": "andrew-collapsing-toilet",
+    "answer": "fell apart",
+    "distractors": ["tipped over", "started leaking", "cracked underneath"],
     "difficulty": "medium"
   },
   {
-    "id": "repair-sneaky-conclusion",
-    "quoteId": "eric-sneaky-fish-logic",
-    "answer": "then a fish isn't going to be the sneakiest animal",
-    "distractors": [
-      { "text": "then the coyote has to be the sneakiest animal", "sourceQuoteIds": ["gavin-king-kong-taxonomy"] },
-      { "text": "then neither one can be the sneakiest animal", "sourceQuoteIds": ["gavin-puffer-fish"] },
-      { "text": "then no one's dog has to be sneakier than both", "sourceQuoteIds": ["gavin-vanishing-dog"] }
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "repair-sausage-bite",
-    "quoteId": "eric-sausage-bop",
-    "answer": "a sausage bap",
-    "distractors": [
-      { "text": "a Cosmic Crisp", "sourceQuoteIds": ["andrew-cosmic-fart-protest"] },
-      { "text": "a waffle cone", "sourceQuoteIds": ["eric-waffle-cone"] },
-      { "text": "a baked potato", "sourceQuoteIds": ["andrew-potatoast"] }
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "repair-rat-boy-playback",
-    "quoteId": "eric-rat-boy-trailer",
-    "answer": "autoplayed next to it",
-    "distractors": [
-      { "text": "played right after Break Shit", "sourceQuoteIds": ["eric-dbox-break-shit"] },
-      { "text": "showed up on the morning waffle", "sourceQuoteIds": ["gavin-news-waffle"] },
-      { "text": "vanished as soon as I clicked it", "sourceQuoteIds": ["gavin-vanishing-dog"] }
-    ],
+    "id": "short-ham-currency",
+    "quoteId": "andrew-ham-currency",
+    "answer": "currency",
+    "distractors": ["payment", "donation", "deposit"],
     "difficulty": "easy"
   },
   {
-    "id": "repair-magnetic-monkey",
-    "quoteId": "eric-magnet-butt-monkey",
-    "answer": "a magnet in his butt",
-    "distractors": [
-      { "text": "a stick-on funnel on his butt", "sourceQuoteIds": ["gavin-stick-on-funnel"] },
-      { "text": "a shampoo bottle up his butt", "sourceQuoteIds": ["gavin-shampoo-alibi"] },
-      { "text": "a wide-angle lens on his head", "sourceQuoteIds": ["eric-wide-angle-head"] }
-    ],
+    "id": "short-swan-dna",
+    "quoteId": "andrew-swan-dna",
+    "answer": "spit sample",
+    "distractors": ["feather sample", "blood sample", "saliva swab"],
     "difficulty": "hard"
   },
   {
-    "id": "repair-potato-variety",
-    "quoteId": "eric-potato-patent",
-    "answer": "the FC5 potato variety",
-    "distractors": [
-      { "text": "the CC64 potato variety", "sourceQuoteIds": ["andrew-cosmic-fart-protest", "andrew-sixty-four-bananas"] },
-      { "text": "the HH75 potato variety", "sourceQuoteIds": ["andrew-ham-currency", "andrew-seventy-five-sauces"] },
-      { "text": "the BOV19 potato variety", "sourceQuoteIds": ["geoff-bovril-empire", "andrew-inflatable-battle-bus"] }
-    ],
+    "id": "short-egg-measurement",
+    "quoteId": "andrew-egg-measurement",
+    "answer": "by an egg",
+    "distractors": ["by a hand", "by a foot", "by a head"],
+    "difficulty": "hard"
+  },
+  {
+    "id": "short-cosmic-fart-protest",
+    "quoteId": "andrew-cosmic-fart-protest",
+    "answer": "a fart",
+    "distractors": ["a sneeze", "a burp", "the hiccups"],
     "difficulty": "medium"
   },
   {
-    "id": "repair-crazy-frog-status",
-    "quoteId": "eric-crazy-frog",
-    "answer": "Crazy Frog's dick",
-    "distractors": [
-      { "text": "Rat Boy's dick", "sourceQuoteIds": ["eric-rat-boy-trailer"] },
-      { "text": "Gooch Dog's dick", "sourceQuoteIds": ["eric-gooch-dog"] },
-      { "text": "King Kong's dick", "sourceQuoteIds": ["gavin-king-kong-taxonomy"] }
-    ],
-    "difficulty": "easy"
-  },
-  {
-    "id": "repair-emergency-name",
-    "quoteId": "eric-cherry-spaghetti",
-    "answer": "Cherry Roosevelt Fat Boso Chowing Spaghetti",
-    "distractors": [
-      { "text": "Betty White Pizza Bones Waffle Cone", "sourceQuoteIds": ["geoff-betty-white-bread", "geoff-pizza-bones", "eric-waffle-cone"] },
-      { "text": "Gooch Dog Ham Fan Eating Pancakes", "sourceQuoteIds": ["eric-gooch-dog", "andrew-ham-fan-golf", "andrew-waffle-identity"] },
-      { "text": "Crazy Frog Piss Dog Drinking Bovril", "sourceQuoteIds": ["eric-crazy-frog", "andrew-piss-dog", "andrew-meat-slurpee"] }
-    ],
-    "difficulty": "hard"
-  },
-  {
-    "id": "repair-bird-trick",
-    "quoteId": "eric-flip-a-bird",
-    "answer": "throw the bird in the air",
-    "distractors": [
-      { "text": "launch the bird from a hot dog gun", "sourceQuoteIds": ["andrew-hot-dog-cannon"] },
-      { "text": "toss the bird off a 50-foot ham tower", "sourceQuoteIds": ["eric-ham-tower"] },
-      { "text": "fire the bird from an inflatable battle bus", "sourceQuoteIds": ["andrew-inflatable-battle-bus"] }
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "repair-king-kong-classification",
-    "quoteId": "gavin-king-kong-taxonomy",
-    "answer": "But they're not all monkeys. King Kong's not a giant monkey.",
-    "distractors": [
-      { "text": "But they're not all apes. King Kong's not a regulation ape.", "sourceQuoteIds": ["gavin-sausage-flag"] },
-      { "text": "But they're not all gorillas. King Kong's just a very gorilla-looking boy.", "sourceQuoteIds": ["eric-rat-boy-trailer"] },
-      { "text": "But they're not all monkeys. King Kong's a 50-pound primate.", "sourceQuoteIds": ["geoff-possum-anus"] }
-    ],
-    "difficulty": "easy"
-  },
-  {
-    "id": "repair-domestic-obstacles",
-    "quoteId": "gavin-flying-hot-dogs",
-    "answer": "waffle makers, dog toasters, dodging flying hot dogs",
-    "distractors": [
-      { "text": "banana wipes, meat Slurpees, dodging giant dill pickles", "sourceQuoteIds": ["andrew-banana-wipes", "andrew-meat-slurpee", "geoff-pickle-bag"] },
-      { "text": "electric toilet seats, shampoo bottles, dodging regulation flags", "sourceQuoteIds": ["eric-electric-toilet", "gavin-shampoo-bottle-game", "gavin-sausage-flag"] },
-      { "text": "hot dog gloves, pizza bones, dodging 64 bananas", "sourceQuoteIds": ["geoff-hot-dog-glove-catch", "geoff-pizza-bones", "andrew-sixty-four-bananas"] }
-    ],
-    "difficulty": "hard"
-  },
-  {
-    "id": "repair-sitting-sequel",
-    "quoteId": "gavin-dick-out-sequel",
-    "answer": "Sitting With Your Dick Out",
-    "distractors": [
-      { "text": "Sitting With Your Ass Wet", "sourceQuoteIds": ["eric-wet-ass-gap"] },
-      { "text": "Sitting on an Electric Toilet", "sourceQuoteIds": ["eric-electric-toilet"] },
-      { "text": "Sitting With a Stick-On Funnel", "sourceQuoteIds": ["gavin-stick-on-funnel"] }
-    ],
-    "difficulty": "hard"
-  },
-  {
-    "id": "repair-aquarium-outcome",
+    "id": "short-boiled-fish",
     "quoteId": "gavin-boiled-fish",
-    "answer": "boiled fish",
-    "distractors": [
-      { "text": "meat Slurpee", "sourceQuoteIds": ["andrew-meat-slurpee"] },
-      { "text": "nugget steak", "sourceQuoteIds": ["gavin-nugget-steak"] },
-      { "text": "fruit bagel", "sourceQuoteIds": ["gavin-fruit-bagel"] }
-    ],
+    "answer": "come back",
+    "distractors": ["return home", "come home", "get back"],
     "difficulty": "easy"
   },
   {
-    "id": "repair-nugget-ratio",
-    "quoteId": "gavin-nugget-steak",
-    "answer": "ratio of the fried part to the entire thing",
-    "distractors": [
-      { "text": "ratio of crust to the whole pizza", "sourceQuoteIds": ["geoff-pizza-bones"] },
-      { "text": "ratio of pickle paste to the whole cucumber", "sourceQuoteIds": ["gavin-pickle-paste"] },
-      { "text": "ratio of mashed potato to the baked-potato shell", "sourceQuoteIds": ["andrew-potatoast"] }
-    ],
+    "id": "short-ham-inside-pig",
+    "quoteId": "gavin-ham-inside-pig",
+    "answer": "picture",
+    "distractors": ["photograph", "video", "diagram"],
     "difficulty": "medium"
   },
   {
-    "id": "repair-shampoo-explanation",
-    "quoteId": "gavin-shampoo-alibi",
-    "answer": "pretend it can happen",
-    "distractors": [
-      { "text": "blame it on the gentle ghost", "sourceQuoteIds": ["geoff-gentle-ghost"] },
-      { "text": "say the toilet fell apart", "sourceQuoteIds": ["andrew-collapsing-toilet"] },
-      { "text": "call it an anus curtain", "sourceQuoteIds": ["gavin-anus-curtain"] }
-    ],
-    "difficulty": "hard"
-  },
-  {
-    "id": "repair-piss-inventory",
-    "quoteId": "gavin-surprise-fart",
-    "answer": "A piss, it's only ever piss, coffee, or asparagus. None of which are a surprise.",
-    "distractors": [
-      { "text": "A burp, it's only ever Bovril, pickle paste, or goat milk. None of which are a surprise.", "sourceQuoteIds": ["andrew-meat-slurpee", "gavin-pickle-paste", "eric-goat-milk-hot-dog"] },
-      { "text": "A shit, it's only ever banana, Cosmic Crisp, or spaghetti. None of which are a surprise.", "sourceQuoteIds": ["geoff-banana-diet", "andrew-cosmic-fart-protest", "geoff-rabbit-spaghetti"] },
-      { "text": "A sneeze, it's only ever ham, sausage, or hot dog. None of which are a surprise.", "sourceQuoteIds": ["andrew-ham-currency", "eric-sausage-bop", "eric-goat-milk-hot-dog"] }
-    ],
-    "difficulty": "hard"
-  },
-  {
-    "id": "repair-temporary-dog",
-    "quoteId": "gavin-vanishing-dog",
-    "answer": "about to be shot",
-    "distractors": [
-      { "text": "about to piss in the toilet", "sourceQuoteIds": ["andrew-piss-dog"] },
-      { "text": "about to catch a flying hot dog", "sourceQuoteIds": ["gavin-flying-hot-dogs"] },
-      { "text": "about to do a butt shimmy", "sourceQuoteIds": ["andrew-stair-butt-shimmy"] }
-    ],
+    "id": "short-fruit-bagel",
+    "quoteId": "gavin-fruit-bagel",
+    "answer": "pineapple",
+    "distractors": ["banana", "apple", "mango"],
     "difficulty": "medium"
   },
   {
-    "id": "repair-new-year-turd",
+    "id": "short-pencil-ice-pick",
+    "quoteId": "gavin-pencil-ice-pick",
+    "answer": "ice pick",
+    "distractors": ["screwdriver", "chisel", "crowbar"],
+    "difficulty": "medium"
+  },
+  {
+    "id": "short-sausage-flag",
+    "quoteId": "gavin-sausage-flag",
+    "answer": "regulation flag",
+    "distractors": ["yellow flag", "challenge flag", "penalty flag"],
+    "difficulty": "hard"
+  },
+  {
+    "id": "short-puffer-fish",
+    "quoteId": "gavin-puffer-fish",
+    "answer": "talons",
+    "distractors": ["claws", "grip", "beak"],
+    "difficulty": "medium"
+  },
+  {
+    "id": "short-pickle-paste",
+    "quoteId": "gavin-pickle-paste",
+    "answer": "paste",
+    "distractors": ["relish", "puree", "juice"],
+    "difficulty": "hard"
+  },
+  {
+    "id": "short-cross-year-turd",
     "quoteId": "gavin-cross-year-turd",
-    "answer": "in 2023, but landed in 2024",
-    "distractors": [
-      { "text": "in the shower, but landed at the toilet", "sourceQuoteIds": ["geoff-bloopy-trail"] },
-      { "text": "upstairs, but landed in the toilet downstairs", "sourceQuoteIds": ["gavin-upstairs-toilet"] },
-      { "text": "during one week, but landed two weeks later", "sourceQuoteIds": ["eric-biweekly-math"] }
-    ],
+    "answer": "landed in 2024",
+    "distractors": ["landed that evening", "landed after midnight", "landed in 2025"],
     "difficulty": "hard"
   },
   {
-    "id": "repair-waffle-broadcast",
-    "quoteId": "gavin-news-waffle",
-    "answer": "the news",
-    "distractors": [
-      { "text": "the weather data", "sourceQuoteIds": ["gavin-ankle-trousers"] },
-      { "text": "the Bovril sales report", "sourceQuoteIds": ["geoff-bovril-empire"] },
-      { "text": "the day's Cosmic Crisp review", "sourceQuoteIds": ["andrew-cosmic-fart-protest"] }
-    ],
-    "difficulty": "medium"
+    "id": "short-upstairs-toilet",
+    "quoteId": "gavin-upstairs-toilet",
+    "answer": "toilet",
+    "distractors": ["bathtub", "sink", "drain"],
+    "difficulty": "easy"
   },
   {
-    "id": "repair-butt-funnel",
+    "id": "short-stick-on-funnel",
     "quoteId": "gavin-stick-on-funnel",
     "answer": "stick-on funnel",
-    "distractors": [
-      { "text": "wearable piss hole", "sourceQuoteIds": ["gavin-bed-toilet"] },
-      { "text": "removable shampoo chute", "sourceQuoteIds": ["gavin-shampoo-bottle-game"] },
-      { "text": "electric toilet hose", "sourceQuoteIds": ["eric-electric-toilet"] }
-    ],
+    "distractors": ["rubber nozzle", "plastic guard", "flexible tube"],
     "difficulty": "medium"
   },
   {
-    "id": "repair-charity-total",
-    "quoteId": "gavin-charity-pencil",
-    "answer": "a hundred grand",
-    "distractors": [
-      { "text": "one thousand dollars", "sourceQuoteIds": ["geoff-egg-economy"] },
-      { "text": "five hundred dollars", "sourceQuoteIds": ["geoff-egg-economy"] },
-      { "text": "seventy-five Ham Ham Coins", "sourceQuoteIds": ["andrew-seventy-five-sauces", "andrew-ham-currency"] }
-    ],
-    "difficulty": "hard"
-  },
-  {
-    "id": "repair-roast-one-fork",
-    "quoteId": "gavin-roast-one-fork",
-    "answer": "a hunk of roast beef through a roast potato",
-    "distractors": [
-      { "text": "a quarter-pound hot dog through a waffle cone", "sourceQuoteIds": ["eric-goat-milk-hot-dog", "eric-waffle-cone"] },
-      { "text": "a giant dill pickle through a baked potato", "sourceQuoteIds": ["geoff-pickle-bag", "andrew-potatoast"] },
-      { "text": "a fried ostrich egg through a foot-long sandwich", "sourceQuoteIds": ["andrew-ostrich-sandwich"] }
-    ],
-    "difficulty": "hard"
-  },
-  {
-    "id": "repair-ankle-study",
+    "id": "short-ankle-trousers",
     "quoteId": "gavin-ankle-trousers",
     "answer": "shorts or trousers",
-    "distractors": [
-      { "text": "toe-less socks or normal socks", "sourceQuoteIds": ["andrew-toeless-socks"] },
-      { "text": "underwear or pants", "sourceQuoteIds": ["andrew-cat-litter-tail", "andrew-toeless-socks"] },
-      { "text": "socks or no socks", "sourceQuoteIds": ["eric-sock-probability", "andrew-toeless-socks"] }
-    ],
+    "distractors": ["jeans or joggers", "boots or trainers", "socks or sandals"],
+    "difficulty": "hard"
+  },
+  {
+    "id": "short-anus-curtain",
+    "quoteId": "gavin-anus-curtain",
+    "answer": "sold",
+    "distractors": ["designed", "made", "patented"],
+    "difficulty": "easy"
+  },
+  {
+    "id": "short-vanishing-dog",
+    "quoteId": "gavin-vanishing-dog",
+    "answer": "it vanishes",
+    "distractors": ["it runs away", "nobody sees it", "it plays dead"],
+    "difficulty": "hard"
+  },
+  {
+    "id": "short-two-headed-bird",
+    "quoteId": "eric-two-headed-bird",
+    "answer": "bird",
+    "distractors": ["snake", "lizard", "frog"],
+    "difficulty": "hard"
+  },
+  {
+    "id": "short-guitar-egg",
+    "quoteId": "eric-guitar-egg",
+    "answer": "Guitar Hero",
+    "distractors": ["Rock Band", "Beat Saber", "Just Dance"],
+    "difficulty": "easy"
+  },
+  {
+    "id": "short-no-ding",
+    "quoteId": "eric-no-ding",
+    "answer": "ding",
+    "distractors": ["vibrate", "beep", "alert you"],
     "difficulty": "medium"
+  },
+  {
+    "id": "short-flip-a-bird",
+    "quoteId": "eric-flip-a-bird",
+    "answer": "do flips",
+    "distractors": ["fly home", "land safely", "come back"],
+    "difficulty": "medium"
+  },
+  {
+    "id": "short-deer-piss-review",
+    "quoteId": "eric-deer-piss-review",
+    "answer": "a river",
+    "distractors": ["the woods", "a field", "the snow"],
+    "difficulty": "hard"
+  },
+  {
+    "id": "short-bean-hole-tent",
+    "quoteId": "eric-bean-hole-tent",
+    "answer": "our tent",
+    "distractors": ["our canopy", "our shelter", "our tarp"],
+    "difficulty": "hard"
+  },
+  {
+    "id": "short-gooch-dog",
+    "quoteId": "eric-gooch-dog",
+    "answer": "Gooch Dog",
+    "distractors": ["Chili Dog", "Corn Dog", "Slaw Dog"],
+    "difficulty": "easy"
+  },
+  {
+    "id": "short-electric-toilet",
+    "quoteId": "eric-electric-toilet",
+    "answer": "electric",
+    "distractors": ["heated", "automatic", "smart"],
+    "difficulty": "medium"
+  },
+  {
+    "id": "short-bank-floor",
+    "quoteId": "eric-bank-floor",
+    "answer": "shit",
+    "distractors": ["piss", "vomit", "spit"],
+    "difficulty": "medium"
+  },
+  {
+    "id": "short-sausage-bop",
+    "quoteId": "eric-sausage-bop",
+    "answer": "sausage bap",
+    "distractors": ["breakfast sandwich", "hot dog", "meatball sub"],
+    "difficulty": "hard"
+  },
+  {
+    "id": "short-icy-hot-fastball",
+    "quoteId": "eric-icy-hot-fastball",
+    "answer": "Icy Hot",
+    "distractors": ["warming cream", "muscle rub", "pain gel"],
+    "difficulty": "medium"
+  },
+  {
+    "id": "short-ham-tower",
+    "quoteId": "eric-ham-tower",
+    "answer": "ham tower",
+    "distractors": ["radio tower", "relay antenna", "signal mast"],
+    "difficulty": "hard"
   }
 ]
