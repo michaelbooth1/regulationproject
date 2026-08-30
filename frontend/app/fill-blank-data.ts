@@ -8,7 +8,10 @@ type FillBlankDefinition = {
   id: string;
   quoteId: string;
   answer: string;
-  options: string[];
+  distractors: Array<{
+    text: string;
+    sourceQuoteIds: string[];
+  }>;
   difficulty: BlankDifficulty;
 };
 
@@ -37,14 +40,42 @@ export const FILL_BLANK_BANK: FillBlankQuestion[] = (rawBank as FillBlankDefinit
   if (answerIndex < 0) {
     throw new Error(`Answer "${blank.answer}" is not present in ${blank.quoteId}`);
   }
+  if (source.quote.indexOf(blank.answer, answerIndex + blank.answer.length) >= 0) {
+    throw new Error(`Answer "${blank.answer}" appears more than once in ${blank.quoteId}`);
+  }
+
+  if (blank.distractors.length !== 3) {
+    throw new Error(`${blank.id} must have exactly three distractors`);
+  }
+
+  for (const distractor of blank.distractors) {
+    if (!distractor.sourceQuoteIds.length) {
+      throw new Error(`${blank.id} has an ungrounded distractor: "${distractor.text}"`);
+    }
+    for (const sourceQuoteId of distractor.sourceQuoteIds) {
+      if (!quoteById.has(sourceQuoteId)) {
+        throw new Error(`${blank.id} cites an unknown distractor source: ${sourceQuoteId}`);
+      }
+      if (sourceQuoteId === blank.quoteId) {
+        throw new Error(`${blank.id} cannot cite its own quote as distractor material`);
+      }
+    }
+  }
+
+  const options = [blank.answer, ...blank.distractors.map((distractor) => distractor.text)];
+  if (new Set(options.map((option) => option.toLocaleLowerCase())).size !== 4) {
+    throw new Error(`${blank.id} must have four distinct choices`);
+  }
 
   return {
-    ...blank,
+    id: blank.id,
     source,
+    answer: blank.answer,
+    options,
+    difficulty: blank.difficulty,
     beforeBlank: source.quote.slice(0, answerIndex),
     afterBlank: source.quote.slice(answerIndex + blank.answer.length),
   };
 });
 
 export const FILL_BLANK_LENGTH = 10;
-

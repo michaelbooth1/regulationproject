@@ -3,8 +3,13 @@
 ## Game shape
 
 - The game lives at `/blank` and does not replace Regulation Who Said It.
-- Each run serves 10 damaged quotes from a curated 50-question bank.
+- Each run serves 10 damaged quotes from a curated 50-question bank. The
+  current bank is a complete second edition: none of its source quotes overlap
+  the retired launch bank.
 - A run contains three easy, four medium, and three hard repairs.
+- The harder second-edition bank contains 10 easy, 20 medium, and 20 hard
+  files; “easy” now describes the amount of contextual leakage, not throwaway
+  wrong answers.
 - The immediately previous ten questions are avoided whenever the remaining
   bank can satisfy the difficulty mix.
 - Every question removes one exact span from a verified transcript quote and
@@ -20,16 +25,29 @@ The missing text should be funny to reconstruct, not merely difficult to guess.
 The strongest blanks are concrete nouns, suspicious measurements, invented
 phrases, or a final turn that changes the sentence from ordinary to absurd.
 
-Distractors are manually written to satisfy three rules:
+Distractors are manually written to satisfy five rules:
 
 1. every option should fit the sentence grammatically;
-2. at least two wrong answers should feel plausible in the show’s universe;
-3. the correct answer must still produce the funniest or most specific line.
+2. every wrong answer must derive its central phrase or premise from another
+   audited quote in the archive;
+3. all four answers should occupy the same semantic class and have a similar
+   cadence, specificity, and length;
+4. at least two wrong answers should be credible completions even to a regular
+   listener—not merely random jokes;
+5. the full restored transcript must still identify one unambiguous historical
+   answer.
+
+The preferred decoy vocabulary comes from recurring Regulation dialects: food
+engineering, animal logic, fake products, plumbing and body systems, canonical
+show bits, and suspiciously exact measurements. Generic absurdity is rejected
+when a real archive premise can do the same job more convincingly.
 
 The bank reuses source quotes from `who-said-it-bank.json`, which means speaker,
 episode, publication date, timestamp, lead-in context, and attribution have
 already passed the Who Said It transcript checks. `fill-blank-bank.json` stores
-only the source quote ID, exact missing span, options, and game difficulty.
+the source quote ID, exact missing span, three distractors, their archive-source
+IDs, and game difficulty. The application constructs the final four choices at
+runtime, so the correct answer cannot drift away from the transcript.
 
 ## Visual system
 
@@ -54,8 +72,10 @@ length, and number of possible repairs.
 ### Question
 
 Progress and file difficulty sit above one dominant quote panel. The missing
-span is highlighted and four large choices sit directly below it. After a
-choice, both the selected repair and the correct repair remain visible.
+span is highlighted and four large choices sit directly below it. The source
+topic stays hidden until the answer is locked because several archive labels
+would reveal the missing phrase. After a choice, both the selected repair and
+the correct repair remain visible.
 
 ### Reveal
 
@@ -79,4 +99,3 @@ answer. The player can start another round or return to Who Said It.
   context can extend the document naturally.
 - Navigation and answers collapse cleanly at mobile widths without horizontal
   scrolling or text smaller than the existing site’s secondary labels.
-

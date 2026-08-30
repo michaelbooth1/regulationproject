@@ -219,6 +219,7 @@ export default function FillBlankGame({ mappedEpisodes }: { mappedEpisodes: numb
               <p className="fine-print">
                 Choose the missing words from four possible repairs. Once the file is locked,
                 the transcript restores the three lines before it and identifies who said it.
+                Every wrong repair borrows language or a premise from elsewhere in the archive.
                 Back-to-back games avoid repeats.
               </p>
             </div>
@@ -229,13 +230,13 @@ export default function FillBlankGame({ mappedEpisodes }: { mappedEpisodes: numb
                 <b>One word missing</b>
               </div>
               <blockquote>
-                “What if every <mark>________</mark> on Earth was flushed at the exact same time?”
+                “...and every morning <mark>________</mark> would be on your waffle?”
               </blockquote>
               <ol>
-                <li><b>A</b> waffle maker</li>
-                <li className="is-answer"><b>B</b> toilet</li>
-                <li><b>C</b> fire hydrant</li>
-                <li><b>D</b> hot tub</li>
+                <li><b>A</b> the Cosmic Crisp review</li>
+                <li className="is-answer"><b>B</b> the news</li>
+                <li><b>C</b> the Rat Boy trailer</li>
+                <li><b>D</b> the Bovril sales figures</li>
               </ol>
               <dl>
                 <div><dt>Question bank</dt><dd>{FILL_BLANK_BANK.length}</dd></div>
@@ -266,7 +267,7 @@ export default function FillBlankGame({ mappedEpisodes }: { mappedEpisodes: numb
             </div>
             <div className="progress-track" aria-hidden="true"><span style={{ width: `${progress}%` }} /></div>
             <div className="blank-progress-meta">
-              <p>{current.difficulty} file / {source.topic}</p>
+              <p>{current.difficulty} file / archive language reconstruction</p>
               <ol aria-label={`Round progress: question ${currentIndex + 1} of ${round.length}`}>
                 {round.map((question, index) => {
                   const answer = answers[index];
@@ -440,4 +441,3 @@ export default function FillBlankGame({ mappedEpisodes }: { mappedEpisodes: numb
     </main>
   );
 }
-

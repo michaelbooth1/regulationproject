@@ -71,8 +71,10 @@ test("server-renders the Regulation Fill in the Blank game", async () => {
   assert.match(html, /Reconstruct ten absurd lines from the show(?:&#x27;|')s history/i);
   assert.match(html, /Open the damaged transcript/i);
   assert.match(html, /three lines before it and identifies who said it/i);
-  assert.match(html, /What if every/i);
-  assert.match(html, /waffle maker/i);
+  assert.match(html, /Every wrong repair borrows language or a premise from elsewhere in the archive/i);
+  assert.match(html, /every morning/i);
+  assert.match(html, /the Rat Boy trailer/i);
+  assert.doesNotMatch(html, /every toilet on Earth was flushed/i);
   assert.match(html, /<dt>Question bank<\/dt><dd>50<\/dd>/i);
   assert.match(html, /href="\/"[^>]*>Who said it<\/a>/i);
 });
@@ -100,16 +102,50 @@ test("keeps the fill-in-the-blank bank curated and transcript-grounded", async (
         blankBank.filter((item) => item.difficulty === difficulty).length,
       ]),
     ),
-    { easy: 17, medium: 17, hard: 16 },
+    { easy: 10, medium: 20, hard: 20 },
+  );
+
+  const retiredSourceIds = new Set([
+    "geoff-banana-diet", "geoff-twelve-foot-toilet", "geoff-global-flush",
+    "geoff-gentle-ghost", "geoff-sleeping-pill-horse", "geoff-poop-two-chairs",
+    "andrew-pepsi-hotline", "andrew-ham-currency", "andrew-seventy-five-sauces",
+    "andrew-horse-egg", "andrew-swan-dna", "andrew-potatoast", "gavin-bed-toilet",
+    "gavin-puffer-fish", "gavin-fruit-bagel", "gavin-ham-inside-pig",
+    "gavin-pizza-strip", "eric-bean-hole-tent", "eric-icy-hot-fastball",
+    "eric-ham-tower", "eric-wide-angle-head", "eric-guitar-egg", "eric-bank-floor",
+    "geoff-potato-ass-chips", "geoff-hot-dog-glove-catch", "geoff-shirt-physics",
+    "geoff-rabbit-spaghetti", "geoff-pizza-bones", "andrew-cosmic-fart-protest",
+    "andrew-collapsing-toilet", "andrew-egg-window", "andrew-hot-dog-cannon",
+    "andrew-ham-fan-golf", "andrew-fish-requirements", "gavin-upstairs-toilet",
+    "gavin-pickle-paste", "gavin-shampoo-bottle-game", "gavin-sausage-flag",
+    "gavin-pencil-ice-pick", "eric-electric-toilet", "eric-no-ding",
+    "eric-goat-milk-hot-dog", "eric-gooch-dog", "eric-waffle-cone",
+    "geoff-second-wave-fart", "geoff-bloopy-trail", "andrew-stair-butt-shimmy",
+    "gavin-anus-curtain", "eric-deer-piss-review", "eric-two-headed-bird",
+  ]);
+  assert.deepEqual(
+    blankBank.filter((item) => retiredSourceIds.has(item.quoteId)).map((item) => item.quoteId),
+    [],
   );
 
   for (const item of blankBank) {
     const source = quoteById.get(item.quoteId);
     assert.ok(source, `Missing source quote for ${item.id}`);
     assert.equal(source.quote.split(item.answer).length - 1, 1, `${item.id} must blank one exact span`);
-    assert.equal(item.options.length, 4);
-    assert.equal(new Set(item.options).size, 4);
-    assert.equal(item.options.filter((option) => option === item.answer).length, 1);
+    assert.equal(item.distractors.length, 3);
+    assert.equal(new Set(item.distractors.map((distractor) => distractor.text.toLowerCase())).size, 3);
+    assert.equal(
+      new Set([item.answer, ...item.distractors.map((distractor) => distractor.text)]
+        .map((option) => option.toLowerCase())).size,
+      4,
+    );
+    for (const distractor of item.distractors) {
+      assert.ok(distractor.sourceQuoteIds.length, `${item.id} has an ungrounded distractor`);
+      for (const sourceQuoteId of distractor.sourceQuoteIds) {
+        assert.ok(quoteById.has(sourceQuoteId), `${item.id} cites unknown source ${sourceQuoteId}`);
+        assert.notEqual(sourceQuoteId, item.quoteId, `${item.id} cites itself as a distractor source`);
+      }
+    }
   }
 
   assert.match(roundSource, /easy:\s*3/);
@@ -120,6 +156,9 @@ test("keeps the fill-in-the-blank bank curated and transcript-grounded", async (
   assert.match(component, /Said by \{correctProfile\.name\}/);
   assert.match(component, /handleShortcut/);
   assert.match(component, /window\.localStorage/);
+  assert.match(component, /archive language reconstruction/);
+  assert.doesNotMatch(component, /\{source\.topic\}/);
+  assert.match(component, /the Bovril sales figures/);
   assert.match(styles, /\.blank-choice-grid/);
   assert.match(styles, /\.blank-restored-line/);
   assert.match(styles, /\.blank-review/);
