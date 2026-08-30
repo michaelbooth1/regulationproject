@@ -71,10 +71,10 @@ test("server-renders the Regulation Fill in the Blank game", async () => {
   assert.match(html, /Reconstruct ten absurd lines from the show(?:&#x27;|')s history/i);
   assert.match(html, /Open the damaged transcript/i);
   assert.match(html, /three lines before it and identifies who said it/i);
-  assert.match(html, /Every blank and every repair is one to three words/i);
-  assert.match(html, /I have a 50-foot/i);
-  assert.match(html, /radio tower/i);
-  assert.match(html, /ham tower/i);
+  assert.match(html, /Every blank removes the memorable one-to-three-word punchline/i);
+  assert.match(html, /game of catch/i);
+  assert.match(html, /lobster-claw mitts/i);
+  assert.match(html, /hot dog gloves/i);
   assert.doesNotMatch(html, /every morning/i);
   assert.match(html, /<dt>Question bank<\/dt><dd>50<\/dd>/i);
   assert.match(html, /href="\/blank\/bank"[^>]*>Review bank<\/a>/i);
@@ -95,17 +95,19 @@ test("server-renders the complete fill-in-the-blank review desk", async () => {
   assert.match(html, /Mark for removal/i);
   assert.match(html, /Copy removal list/i);
   assert.match(html, /Open transcript context/i);
-  assert.match(html, /short-egg-economy/i);
-  assert.match(html, /short-puffer-fish/i);
-  assert.match(html, /Correct repair[^]*talons/i);
+  assert.match(html, /punchline-geoff-hot-dog-gloves/i);
+  assert.match(html, /punchline-gavin-news-waffle/i);
+  assert.match(html, /Correct repair[^]*hot dog gloves/i);
   assert.match(html, /Marks live in this browser/i);
 });
 
 
 test("keeps the fill-in-the-blank bank curated and transcript-grounded", async () => {
-  const [blankText, quoteText, component, roundSource, preferencesSource, bankBrowserSource, styles] = await Promise.all([
+  const [blankText, quoteText, extraQuoteText, speakerMapText, component, roundSource, preferencesSource, bankBrowserSource, styles] = await Promise.all([
     readFile(new URL("../app/data/fill-blank-bank.json", import.meta.url), "utf8"),
     readFile(new URL("../app/data/who-said-it-bank.json", import.meta.url), "utf8"),
+    readFile(new URL("../app/data/fill-blank-extra-sources.json", import.meta.url), "utf8"),
+    readFile(new URL("../../data/speaker_map.json", import.meta.url), "utf8"),
     readFile(new URL("../app/FillBlankGame.tsx", import.meta.url), "utf8"),
     readFile(new URL("../app/fill-blank-round.ts", import.meta.url), "utf8"),
     readFile(new URL("../app/fill-blank-preferences.ts", import.meta.url), "utf8"),
@@ -113,13 +115,102 @@ test("keeps the fill-in-the-blank bank curated and transcript-grounded", async (
     readFile(new URL("../app/globals.css", import.meta.url), "utf8"),
   ]);
   const blankBank = JSON.parse(blankText);
-  const quoteBank = JSON.parse(quoteText);
+  const sharedQuoteBank = JSON.parse(quoteText);
+  const extraQuoteBank = JSON.parse(extraQuoteText);
+  const speakerMap = JSON.parse(speakerMapText);
+  const quoteBank = [...sharedQuoteBank, ...extraQuoteBank];
   const quoteById = new Map(quoteBank.map((quote) => [quote.id, quote]));
 
   assert.equal(blankBank.length, 50);
   assert.equal(new Set(blankBank.map((item) => item.id)).size, 50);
   assert.equal(new Set(blankBank.map((item) => item.quoteId)).size, 50);
-  assert.ok(blankBank.every((item) => item.id.startsWith("short-")));
+  assert.ok(blankBank.every((item) => item.id.startsWith("punchline-")));
+  const retiredSourceIds = new Set([
+    "geoff-egg-economy",
+    "geoff-gentle-ghost",
+    "geoff-twelve-foot-toilet",
+    "geoff-third-bread",
+    "geoff-sleeping-pill-horse",
+    "geoff-poop-two-chairs",
+    "geoff-global-flush",
+    "geoff-potato-ass-chips",
+    "geoff-animal-waste-ranking",
+    "geoff-shirt-physics",
+    "geoff-banana-diet",
+    "geoff-rabbit-spaghetti",
+    "andrew-seventy-five-sauces",
+    "andrew-piss-dog",
+    "andrew-egg-window",
+    "andrew-hot-dog-cannon",
+    "andrew-horse-egg",
+    "andrew-sixty-four-bananas",
+    "andrew-potatoast",
+    "andrew-ostrich-sandwich",
+    "andrew-collapsing-toilet",
+    "andrew-ham-currency",
+    "andrew-swan-dna",
+    "andrew-egg-measurement",
+    "andrew-cosmic-fart-protest",
+    "gavin-boiled-fish",
+    "gavin-ham-inside-pig",
+    "gavin-fruit-bagel",
+    "gavin-pencil-ice-pick",
+    "gavin-sausage-flag",
+    "gavin-puffer-fish",
+    "gavin-pickle-paste",
+    "gavin-cross-year-turd",
+    "gavin-upstairs-toilet",
+    "gavin-stick-on-funnel",
+    "gavin-ankle-trousers",
+    "gavin-anus-curtain",
+    "gavin-vanishing-dog",
+    "eric-two-headed-bird",
+    "eric-guitar-egg",
+    "eric-no-ding",
+    "eric-flip-a-bird",
+    "eric-deer-piss-review",
+    "eric-bean-hole-tent",
+    "eric-gooch-dog",
+    "eric-electric-toilet",
+    "eric-bank-floor",
+    "eric-sausage-bop",
+    "eric-icy-hot-fastball",
+    "eric-ham-tower",
+  ]);
+  assert.deepEqual(
+    blankBank.filter((item) => retiredSourceIds.has(item.quoteId)).map((item) => item.quoteId),
+    [],
+    "the rebuilt bank must not recycle any source quote from the retired edition",
+  );
+  assert.equal(extraQuoteBank.length, 16);
+  assert.equal(new Set(extraQuoteBank.map((source) => source.id)).size, extraQuoteBank.length);
+  assert.deepEqual(
+    extraQuoteBank.filter((source) => sharedQuoteBank.some((shared) => shared.id === source.id)),
+    [],
+  );
+  assert.ok(extraQuoteBank.every((source) => (
+    source.sourceFile
+    && Number.isInteger(source.segmentIndex)
+    && source.endSec > source.startSec
+    && source.leadIn.length === 3
+    && source.leadIn.every((line) => line.speaker && line.text && line.startSec < source.startSec)
+  )));
+  const globalSpeakerByHost = { geoff: "G01", andrew: "G02", gavin: "G03", eric: "G04" };
+  for (const source of extraQuoteBank) {
+    const transcriptText = await readFile(
+      new URL(`../../data/transcripts/${source.sourceFile}`, import.meta.url),
+      "utf8",
+    );
+    const transcript = JSON.parse(transcriptText);
+    const segment = transcript.segments[source.segmentIndex];
+    assert.equal(segment.text.trim(), source.quote, `${source.id} must preserve the exact transcript text`);
+    assert.equal(segment.start, source.startSec, `${source.id} must preserve the transcript timestamp`);
+    assert.equal(
+      speakerMap.episodes[String(source.episode)][segment.speaker],
+      globalSpeakerByHost[source.speaker],
+      `${source.id} must preserve the canonical speaker mapping`,
+    );
+  }
   assert.deepEqual(
     Object.fromEntries(
       ["easy", "medium", "hard"].map((difficulty) => [
@@ -137,14 +228,16 @@ test("keeps the fill-in-the-blank bank curated and transcript-grounded", async (
         blankBank.filter((item) => quoteById.get(item.quoteId)?.speaker === speaker).length,
       ]),
     ),
-    { geoff: 12, andrew: 13, gavin: 13, eric: 12 },
+    { geoff: 13, andrew: 12, gavin: 12, eric: 13 },
   );
 
   for (const item of blankBank) {
     const source = quoteById.get(item.quoteId);
     assert.ok(source, `Missing source quote for ${item.id}`);
-    assert.ok(source.quote.length <= 120, `${item.id} source is too long (${source.quote.length})`);
-    assert.equal(source.quote.split(item.answer).length - 1, 1, `${item.id} must blank one exact span`);
+    const prompt = item.excerpt ?? source.quote;
+    assert.ok(source.quote.includes(prompt), `${item.id} excerpt must be verbatim`);
+    assert.ok(prompt.length <= 145, `${item.id} prompt is too long (${prompt.length})`);
+    assert.equal(prompt.split(item.answer).length - 1, 1, `${item.id} must blank one exact span`);
     assert.equal(item.distractors.length, 3);
     assert.equal(new Set(item.distractors.map((distractor) => distractor.toLowerCase())).size, 3);
     const options = [item.answer, ...item.distractors];
@@ -158,6 +251,11 @@ test("keeps the fill-in-the-blank bank curated and transcript-grounded", async (
       assert.ok(wordCount >= 1 && wordCount <= 3, `${item.id} choice has ${wordCount} words: ${option}`);
     }
   }
+  const retiredFillerAnswers = new Set(["I'm assuming", "I guess", "I think", "apparently"]);
+  assert.deepEqual(
+    blankBank.filter((item) => retiredFillerAnswers.has(item.answer)).map((item) => item.id),
+    [],
+  );
 
   assert.match(roundSource, /easy:\s*3/);
   assert.match(roundSource, /medium:\s*4/);
@@ -171,10 +269,10 @@ test("keeps the fill-in-the-blank bank curated and transcript-grounded", async (
   assert.match(component, /Said by \{correctProfile\.name\}/);
   assert.match(component, /handleShortcut/);
   assert.match(component, /window\.localStorage/);
-  assert.match(component, /short-form transcript reconstruction/);
+  assert.match(component, /archive punchline reconstruction/);
   assert.doesNotMatch(component, /\{source\.topic\}/);
-  assert.match(component, /relay antenna/);
-  assert.match(preferencesSource, /regulation-fill-blank-removals-v2/);
+  assert.match(component, /sausage-finger gloves/);
+  assert.match(preferencesSource, /regulation-fill-blank-removals-v3/);
   assert.match(preferencesSource, /normalizeBlankRemovalIds/);
   assert.match(preferencesSource, /KNOWN_BLANK_IDS/);
   assert.match(bankBrowserSource, /navigator\.clipboard\.writeText/);

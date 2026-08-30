@@ -2,7 +2,7 @@ import { FILL_BLANK_BANK } from "./fill-blank-data";
 
 
 // A new curation generation gets a new key so old dislikes cannot hide a rebuilt bank.
-export const BLANK_REMOVALS_STORAGE_KEY = "regulation-fill-blank-removals-v2";
+export const BLANK_REMOVALS_STORAGE_KEY = "regulation-fill-blank-removals-v3";
 
 const KNOWN_BLANK_IDS = new Set(FILL_BLANK_BANK.map((question) => question.id));
 

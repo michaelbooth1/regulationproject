@@ -9,9 +9,9 @@
   amount of contextual leakage, not throwaway wrong answers.
 - The immediately previous ten questions are avoided whenever the remaining
   bank can satisfy the difficulty mix.
-- Every question uses a verified source line no longer than 120 characters,
-  removes one exact span of one to three words, and offers four choices that
-  are each no longer than three words.
+- Every question uses a verified transcript prompt no longer than 145
+  characters, removes one exact span of one to three words, and offers four
+  choices that are each no longer than three words.
 - A choice locks immediately. The correct repair is shown in the full quote,
   followed by the three preceding transcript turns and the attributed quote.
 - Number keys 1–4 select answers on desktop; all controls remain touch friendly.
@@ -28,10 +28,15 @@
 
 ## Editorial direction
 
-The source line should already sound funny or absurd out of context. The blank
-does not have to contain the joke. Ordinary missing nouns, actions, numbers,
-locations, and durations often create a harder and fairer question because the
-surrounding quote carries the comedy.
+The blank is the joke. A prompt only belongs in the bank when removing one to
+three words conceals its vivid, memorable payoff: the strange object, bodily
+image, invented food, impossible action, or exact phrase that made the original
+line worth remembering. Never blank connective tissue, filler, a generic verb,
+or an ordinary number while leaving the comic image visible.
+
+The damaged sentence should create a real moment of curiosity. Restoring the
+answer should deliver the line's comic turn, not merely make an already-complete
+joke grammatically accurate.
 
 Distractors are manually written to satisfy five rules:
 
@@ -39,24 +44,26 @@ Distractors are manually written to satisfy five rules:
 2. every answer is one to three words, with no exception;
 3. all four answers should occupy the same semantic class and have a similar
    cadence, specificity, and length;
-4. all three wrong answers should be credible, ordinary completions—not a pile
-   of conspicuous callback jokes competing with the real line;
+4. all three wrong answers should be equally vivid, plausible Regulation
+   phrases—not ordinary filler sitting beside one conspicuously funny answer;
 5. the full restored transcript must still identify one unambiguous historical
    answer.
 
-Decoys should come from the sentence's immediate semantic world: other tools
-for a tool, other durations for a duration, other rooms or fixtures for a
-location, and so on. A show-specific term is useful only when it reads as a
-genuine peer to the other choices. The correct answer must not be the sole
-option wearing a neon comedy hat.
+Decoys should come from the sentence's immediate semantic world: other grotesque
+fixtures for a grotesque fixture, other invented foods for an invented food,
+other questionable stunts for a questionable stunt, and so on. They should feel
+like things the show plausibly could have said without borrowing unrelated
+callbacks. The correct answer must not be the sole option wearing a neon comedy
+hat, and none of the options should collapse into generic connective language.
 
-The bank reuses source quotes from `who-said-it-bank.json`, which means speaker,
-episode, publication date, timestamp, lead-in context, and attribution have
-already passed the Who Said It transcript checks. `fill-blank-bank.json` stores
-the source quote ID, exact missing span, three short distractors, and game
-difficulty. The application validates the quote-length and choice-length rules
-and constructs the final four choices at runtime, so the correct answer cannot
-drift away from the transcript.
+The bank primarily reuses attributed records from `who-said-it-bank.json` and
+keeps a small companion source file for lines mined specifically for this game.
+Both carry speaker, episode, publication date, timestamp, lead-in context, and
+attribution. `fill-blank-bank.json` stores the source ID, an optional exact
+short excerpt, the missing span, three short distractors, and game difficulty.
+The application verifies that excerpts and answers occur verbatim in the source
+transcript and constructs the final four choices at runtime, so the repair
+cannot drift away from the archive.
 
 ## Visual system
 

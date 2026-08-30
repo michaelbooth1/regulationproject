@@ -44,6 +44,7 @@ const SEARCH_TEXT_BY_ID = new Map(
     [
       question.id,
       question.source.id,
+      question.displayQuote,
       question.source.quote,
       question.source.title,
       question.source.topic,
@@ -204,7 +205,7 @@ export default function FillBlankBankBrowser({ mappedEpisodes }: { mappedEpisode
             type="search"
             value={query}
             onChange={(event) => setQuery(event.target.value)}
-            placeholder="Try: toilet, Bovril, Episode 42, short-pickle..."
+            placeholder="Try: toilet, Bovril, Episode 42, punchline-pickle..."
           />
         </label>
 

@@ -1,4 +1,5 @@
 import rawBank from "./data/fill-blank-bank.json";
+import rawExtraSources from "./data/fill-blank-extra-sources.json";
 import { WHO_SAID_IT_BANK, type WhoSaidItQuote } from "./who-said-it-data";
 
 
@@ -7,6 +8,7 @@ export type BlankDifficulty = "easy" | "medium" | "hard";
 type FillBlankDefinition = {
   id: string;
   quoteId: string;
+  excerpt?: string;
   answer: string;
   distractors: string[];
   difficulty: BlankDifficulty;
@@ -15,6 +17,7 @@ type FillBlankDefinition = {
 export type FillBlankQuestion = {
   id: string;
   source: WhoSaidItQuote;
+  displayQuote: string;
   answer: string;
   options: string[];
   difficulty: BlankDifficulty;
@@ -22,32 +25,40 @@ export type FillBlankQuestion = {
   afterBlank: string;
 };
 
-const quoteById = new Map(WHO_SAID_IT_BANK.map((quote) => [quote.id, quote]));
+const sourceBank = [
+  ...WHO_SAID_IT_BANK,
+  ...(rawExtraSources as WhoSaidItQuote[]),
+];
+const quoteById = new Map(sourceBank.map((quote) => [quote.id, quote]));
 const MAX_CHOICE_WORDS = 3;
-const MAX_QUOTE_CHARACTERS = 120;
+const MAX_QUOTE_CHARACTERS = 145;
 
 function choiceWordCount(choice: string): number {
   return choice.trim().split(/\s+/).length;
 }
 
 /**
- * Join the curated blank choices to the already-audited quote records. Keeping
- * one source of truth means speaker, episode, timestamp, and transcript context
- * stay in sync with Who Said It.
+ * Join each curated blank to an attributed transcript record. Most sources are
+ * shared with Who Said It; the few lines mined specifically for this game live
+ * in a small companion source file with the same provenance fields.
  */
 export const FILL_BLANK_BANK: FillBlankQuestion[] = (rawBank as FillBlankDefinition[]).map((blank) => {
   const source = quoteById.get(blank.quoteId);
   if (!source) throw new Error(`Unknown fill-in-the-blank quote: ${blank.quoteId}`);
 
-  if (source.quote.length > MAX_QUOTE_CHARACTERS) {
-    throw new Error(`${blank.id} uses a quote longer than ${MAX_QUOTE_CHARACTERS} characters`);
+  const displayQuote = blank.excerpt ?? source.quote;
+  if (!source.quote.includes(displayQuote)) {
+    throw new Error(`${blank.id} uses an excerpt that is not an exact part of its transcript quote`);
+  }
+  if (displayQuote.length > MAX_QUOTE_CHARACTERS) {
+    throw new Error(`${blank.id} uses a prompt longer than ${MAX_QUOTE_CHARACTERS} characters`);
   }
 
-  const answerIndex = source.quote.indexOf(blank.answer);
+  const answerIndex = displayQuote.indexOf(blank.answer);
   if (answerIndex < 0) {
     throw new Error(`Answer "${blank.answer}" is not present in ${blank.quoteId}`);
   }
-  if (source.quote.indexOf(blank.answer, answerIndex + blank.answer.length) >= 0) {
+  if (displayQuote.indexOf(blank.answer, answerIndex + blank.answer.length) >= 0) {
     throw new Error(`Answer "${blank.answer}" appears more than once in ${blank.quoteId}`);
   }
 
@@ -67,14 +78,19 @@ export const FILL_BLANK_BANK: FillBlankQuestion[] = (rawBank as FillBlankDefinit
     throw new Error(`${blank.id} must have four distinct choices`);
   }
 
+  const sourceIndex = source.quote.indexOf(displayQuote);
+  const omittedBefore = sourceIndex > 0 ? "…" : "";
+  const omittedAfter = sourceIndex + displayQuote.length < source.quote.length ? "…" : "";
+
   return {
     id: blank.id,
     source,
+    displayQuote,
     answer: blank.answer,
     options,
     difficulty: blank.difficulty,
-    beforeBlank: source.quote.slice(0, answerIndex),
-    afterBlank: source.quote.slice(answerIndex + blank.answer.length),
+    beforeBlank: omittedBefore + displayQuote.slice(0, answerIndex),
+    afterBlank: displayQuote.slice(answerIndex + blank.answer.length) + omittedAfter,
   };
 });
 
