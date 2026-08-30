@@ -18,6 +18,15 @@
   followed by the three preceding transcript turns and the attributed quote.
 - Number keys 1–4 select answers on desktop; all controls remain touch friendly.
 - Device-local history records games, personal best, and lifetime accuracy.
+- The complete spoiler-filled review desk lives at `/blank/bank`. It shows all
+  50 damaged lines, their four choices, correct repairs, attribution, source
+  IDs, and optional transcript context.
+- Review-desk removal marks persist in the current browser and affect the next
+  game immediately. They do not edit the published JSON; the page can copy a
+  stable ID list for permanent editorial cleanup.
+- The picker prefers unmarked questions while retaining the three/four/three
+  difficulty mix. If a difficulty is over-curated, it uses only the minimum
+  number of marked files required to keep a ten-question game playable.
 
 ## Editorial direction
 

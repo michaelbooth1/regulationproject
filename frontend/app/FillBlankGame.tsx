@@ -9,6 +9,7 @@ import {
   type BlankDifficulty,
   type FillBlankQuestion,
 } from "./fill-blank-data";
+import { readBlankRemovalIds } from "./fill-blank-preferences";
 import { pickBlankRound, shuffleBlankOptions } from "./fill-blank-round";
 import { HOST_ORDER, HOST_PROFILES } from "./quiz-data";
 import { formatTranscriptTime } from "./who-said-it-data";
@@ -126,7 +127,8 @@ export default function FillBlankGame({ mappedEpisodes }: { mappedEpisodes: numb
 
   const start = useCallback(() => {
     const avoidIds = new Set(round.map((question) => question.id));
-    const nextRound = pickBlankRound(avoidIds).map((question) => ({
+    const removalIds = readBlankRemovalIds();
+    const nextRound = pickBlankRound(avoidIds, removalIds).map((question) => ({
       ...question,
       shuffledOptions: shuffleBlankOptions(question.options),
     }));
@@ -196,6 +198,7 @@ export default function FillBlankGame({ mappedEpisodes }: { mappedEpisodes: numb
         </span>
       </Link>
       <nav className="topbar-tools" aria-label="Site navigation">
+        <Link className="bank-link blank-review-bank-link" href="/blank/bank">Review bank</Link>
         <Link className="bank-link" href="/">Who said it</Link>
         <Link className="bank-link stats-link" href="/stats">Speaker stats</Link>
         <div className="corpus-stamp"><span aria-hidden="true" />{mappedEpisodes} episodes digested</div>

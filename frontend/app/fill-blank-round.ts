@@ -21,36 +21,46 @@ function shuffle<T>(items: readonly T[]): T[] {
   return result;
 }
 
-function hasTargetMix(round: FillBlankQuestion[]) {
-  return (Object.keys(BLANK_DIFFICULTY_TARGETS) as BlankDifficulty[]).every(
-    (difficulty) => (
-      round.filter((question) => question.difficulty === difficulty).length
-      === BLANK_DIFFICULTY_TARGETS[difficulty]
-    ),
+/**
+ * Draw a balanced round using four priority tiers per difficulty: fresh and
+ * active, repeated and active, fresh and marked, then repeated and marked.
+ * Marked files therefore disappear whenever each active difficulty pool can
+ * fill its quota, while an over-curated local bank can still start a game.
+ */
+export function pickBlankRound(
+  avoidIds: ReadonlySet<string> = new Set(),
+  removalIds: ReadonlySet<string> = new Set(),
+): FillBlankQuestion[] {
+  const selected = (Object.keys(BLANK_DIFFICULTY_TARGETS) as BlankDifficulty[]).flatMap(
+    (difficulty) => {
+      const quota = BLANK_DIFFICULTY_TARGETS[difficulty];
+      const matching = FILL_BLANK_BANK.filter((question) => question.difficulty === difficulty);
+      const tiers = [
+        matching.filter((question) => !removalIds.has(question.id) && !avoidIds.has(question.id)),
+        matching.filter((question) => !removalIds.has(question.id) && avoidIds.has(question.id)),
+        matching.filter((question) => removalIds.has(question.id) && !avoidIds.has(question.id)),
+        matching.filter((question) => removalIds.has(question.id) && avoidIds.has(question.id)),
+      ];
+
+      const picked: FillBlankQuestion[] = [];
+      for (const tier of tiers) {
+        picked.push(...shuffle(tier).slice(0, quota - picked.length));
+        if (picked.length === quota) break;
+      }
+
+      if (picked.length !== quota) {
+        throw new Error(`Not enough ${difficulty} fill-in-the-blank questions for a round`);
+      }
+      return picked;
+    },
   );
-}
 
-/** Draw ten questions, avoiding the immediately previous game when possible. */
-export function pickBlankRound(avoidIds: ReadonlySet<string> = new Set()): FillBlankQuestion[] {
-  const fresh = FILL_BLANK_BANK.filter((question) => !avoidIds.has(question.id));
-
-  for (const pool of [fresh, FILL_BLANK_BANK]) {
-    if (pool.length < FILL_BLANK_LENGTH) continue;
-    for (let attempt = 0; attempt < 400; attempt += 1) {
-      const candidate = shuffle(pool).slice(0, FILL_BLANK_LENGTH);
-      if (hasTargetMix(candidate)) return candidate;
-    }
+  if (selected.length !== FILL_BLANK_LENGTH) {
+    throw new Error(`Expected ${FILL_BLANK_LENGTH} fill-in-the-blank questions`);
   }
-
-  return shuffle(
-    (Object.keys(BLANK_DIFFICULTY_TARGETS) as BlankDifficulty[]).flatMap((difficulty) => (
-      shuffle(FILL_BLANK_BANK.filter((question) => question.difficulty === difficulty))
-        .slice(0, BLANK_DIFFICULTY_TARGETS[difficulty])
-    )),
-  );
+  return shuffle(selected);
 }
 
 export function shuffleBlankOptions(options: readonly string[]): string[] {
   return shuffle(options);
 }
-

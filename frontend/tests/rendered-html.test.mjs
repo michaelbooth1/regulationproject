@@ -76,16 +76,38 @@ test("server-renders the Regulation Fill in the Blank game", async () => {
   assert.match(html, /the Rat Boy trailer/i);
   assert.doesNotMatch(html, /every toilet on Earth was flushed/i);
   assert.match(html, /<dt>Question bank<\/dt><dd>50<\/dd>/i);
+  assert.match(html, /href="\/blank\/bank"[^>]*>Review bank<\/a>/i);
   assert.match(html, /href="\/"[^>]*>Who said it<\/a>/i);
 });
 
 
+test("server-renders the complete fill-in-the-blank review desk", async () => {
+  const response = await render("/blank/bank");
+  assert.equal(response.status, 200);
+  const html = await response.text();
+  assert.match(html, /<title>Fill in the Blank Bank \| Regulation Who Said It<\/title>/i);
+  assert.match(html, /Review all <strong>50<\/strong> damaged files/i);
+  assert.match(html, /Search blanks, answers, decoys, episodes, or IDs/i);
+  assert.match(html, /Showing <strong>50<\/strong> of (?:<!-- -->)?50/i);
+  assert.equal((html.match(/class="blank-bank-card"/g) ?? []).length, 50);
+  assert.equal((html.match(/Correct repair/g) ?? []).length, 50);
+  assert.match(html, /Mark for removal/i);
+  assert.match(html, /Copy removal list/i);
+  assert.match(html, /Open transcript context/i);
+  assert.match(html, /repair-sock-timeline/i);
+  assert.match(html, /approximately, I(?:&#x27;|')d say, 15 to 45 seconds/i);
+  assert.match(html, /Marks live in this browser/i);
+});
+
+
 test("keeps the fill-in-the-blank bank curated and transcript-grounded", async () => {
-  const [blankText, quoteText, component, roundSource, styles] = await Promise.all([
+  const [blankText, quoteText, component, roundSource, preferencesSource, bankBrowserSource, styles] = await Promise.all([
     readFile(new URL("../app/data/fill-blank-bank.json", import.meta.url), "utf8"),
     readFile(new URL("../app/data/who-said-it-bank.json", import.meta.url), "utf8"),
     readFile(new URL("../app/FillBlankGame.tsx", import.meta.url), "utf8"),
     readFile(new URL("../app/fill-blank-round.ts", import.meta.url), "utf8"),
+    readFile(new URL("../app/fill-blank-preferences.ts", import.meta.url), "utf8"),
+    readFile(new URL("../app/FillBlankBankBrowser.tsx", import.meta.url), "utf8"),
     readFile(new URL("../app/globals.css", import.meta.url), "utf8"),
   ]);
   const blankBank = JSON.parse(blankText);
@@ -152,6 +174,10 @@ test("keeps the fill-in-the-blank bank curated and transcript-grounded", async (
   assert.match(roundSource, /medium:\s*4/);
   assert.match(roundSource, /hard:\s*3/);
   assert.match(roundSource, /avoidIds/);
+  assert.match(roundSource, /removalIds/);
+  assert.match(roundSource, /fresh and marked/i);
+  assert.match(component, /readBlankRemovalIds/);
+  assert.match(component, /pickBlankRound\(avoidIds, removalIds\)/);
   assert.match(component, /Three preceding transcript lines followed by the restored quote/);
   assert.match(component, /Said by \{correctProfile\.name\}/);
   assert.match(component, /handleShortcut/);
@@ -159,9 +185,18 @@ test("keeps the fill-in-the-blank bank curated and transcript-grounded", async (
   assert.match(component, /archive language reconstruction/);
   assert.doesNotMatch(component, /\{source\.topic\}/);
   assert.match(component, /the Bovril sales figures/);
+  assert.match(preferencesSource, /regulation-fill-blank-removals-v1/);
+  assert.match(preferencesSource, /normalizeBlankRemovalIds/);
+  assert.match(preferencesSource, /KNOWN_BLANK_IDS/);
+  assert.match(bankBrowserSource, /navigator\.clipboard\.writeText/);
+  assert.match(bankBrowserSource, /window\.addEventListener\("storage"/);
+  assert.match(bankBrowserSource, /aria-pressed=\{isMarked\}/);
+  assert.match(bankBrowserSource, /Copy removal list/);
   assert.match(styles, /\.blank-choice-grid/);
   assert.match(styles, /\.blank-restored-line/);
   assert.match(styles, /\.blank-review/);
+  assert.match(styles, /\.blank-bank-card\.is-marked/);
+  assert.match(styles, /\.blank-bank-options/);
 });
 
 
