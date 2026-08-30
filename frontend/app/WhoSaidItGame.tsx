@@ -203,6 +203,7 @@ export default function WhoSaidItGame({ mappedEpisodes }: { mappedEpisodes: numb
         </span>
       </Link>
       <nav className="topbar-tools" aria-label="Site navigation">
+        <Link className="bank-link" href="/blank">Fill the blank</Link>
         <Link className="bank-link stats-link" href="/stats">Speaker stats</Link>
         <div className="corpus-stamp">
           <span aria-hidden="true" />

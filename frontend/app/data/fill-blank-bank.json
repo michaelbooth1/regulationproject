@@ -1,0 +1,352 @@
+[
+  {
+    "id": "blank-banana-popsicles",
+    "quoteId": "geoff-banana-diet",
+    "answer": "banana popsicles",
+    "options": ["banana popsicles", "Bovril cubes", "pickle paste", "ham sandwiches"],
+    "difficulty": "easy"
+  },
+  {
+    "id": "blank-twelve-foot-toilet",
+    "quoteId": "geoff-twelve-foot-toilet",
+    "answer": "12-foot toilet",
+    "options": ["50-foot ham tower", "19-foot battle bus", "12-foot toilet", "six-foot pencil"],
+    "difficulty": "easy"
+  },
+  {
+    "id": "blank-global-flush",
+    "quoteId": "geoff-global-flush",
+    "answer": "toilet",
+    "options": ["waffle maker", "toilet", "fire hydrant", "hot tub"],
+    "difficulty": "easy"
+  },
+  {
+    "id": "blank-gentle-ghost",
+    "quoteId": "geoff-gentle-ghost",
+    "answer": "gentle ghost",
+    "options": ["gentle ghost", "sock detective", "wet possum", "pencil judge"],
+    "difficulty": "medium"
+  },
+  {
+    "id": "blank-horse-sleeping-pill",
+    "quoteId": "geoff-sleeping-pill-horse",
+    "answer": "sleeping pill",
+    "options": ["regulation apple", "tiny blindfold", "sleeping pill", "beef bracelet"],
+    "difficulty": "medium"
+  },
+  {
+    "id": "blank-two-chairs",
+    "quoteId": "geoff-poop-two-chairs",
+    "answer": "two chairs",
+    "options": ["one mailbox", "two chairs", "four waffles", "three strangers"],
+    "difficulty": "hard"
+  },
+  {
+    "id": "blank-pepsi-hotline",
+    "quoteId": "andrew-pepsi-hotline",
+    "answer": "Pepsi 1-800 number",
+    "options": ["local police tip line", "Donkey Kong support desk", "Pepsi 1-800 number", "Canadian weather service"],
+    "difficulty": "hard"
+  },
+  {
+    "id": "blank-ham-ham-coin",
+    "quoteId": "andrew-ham-currency",
+    "answer": "Ham Ham Coin",
+    "options": ["Ham Ham Coin", "Beef Bucks", "Bovril Bonds", "Pencil Cash"],
+    "difficulty": "easy"
+  },
+  {
+    "id": "blank-seventy-five-sauces",
+    "quoteId": "andrew-seventy-five-sauces",
+    "answer": "75 nugget sauces",
+    "options": ["64 bananas", "75 nugget sauces", "100 regulation apples", "40 baked potatoes"],
+    "difficulty": "easy"
+  },
+  {
+    "id": "blank-horse-egg",
+    "quoteId": "andrew-horse-egg",
+    "answer": "horse",
+    "options": ["horse", "swan", "ostrich", "puffer fish"],
+    "difficulty": "medium"
+  },
+  {
+    "id": "blank-swan-dna",
+    "quoteId": "andrew-swan-dna",
+    "answer": "23andMe",
+    "options": ["the FBI", "23andMe", "a Canadian pharmacy", "the pencil museum"],
+    "difficulty": "hard"
+  },
+  {
+    "id": "blank-potato-bread",
+    "quoteId": "andrew-potatoast",
+    "answer": "baked potato",
+    "options": ["waffle cone", "baked potato", "giant nugget", "hollowed pickle"],
+    "difficulty": "medium"
+  },
+  {
+    "id": "blank-bed-pulley",
+    "quoteId": "gavin-bed-toilet",
+    "answer": "levers and pulley system",
+    "options": ["levers and pulley system", "regulation trap door", "lubricated mattress chute", "team of trained swans"],
+    "difficulty": "hard"
+  },
+  {
+    "id": "blank-puffer-fish",
+    "quoteId": "gavin-puffer-fish",
+    "answer": "unpuffed",
+    "options": ["conscious", "unpuffed", "legally airborne", "emotionally stable"],
+    "difficulty": "easy"
+  },
+  {
+    "id": "blank-fruit-bagel",
+    "quoteId": "gavin-fruit-bagel",
+    "answer": "sliced pineapple",
+    "options": ["two onion rings", "sliced pineapple", "a split apple", "frozen Bovril"],
+    "difficulty": "medium"
+  },
+  {
+    "id": "blank-ham-inside-pig",
+    "quoteId": "gavin-ham-inside-pig",
+    "answer": "ham",
+    "options": ["ham", "sausage", "bacon", "pork chop"],
+    "difficulty": "hard"
+  },
+  {
+    "id": "blank-pizza-strip",
+    "quoteId": "gavin-pizza-strip",
+    "answer": "long strip",
+    "options": ["perfect sphere", "long strip", "meat Slurpee", "wearable scarf"],
+    "difficulty": "hard"
+  },
+  {
+    "id": "blank-bean-hole",
+    "quoteId": "eric-bean-hole-tent",
+    "answer": "bean hole",
+    "options": ["bean hole", "bog entrance", "piss trench", "potato patent"],
+    "difficulty": "easy"
+  },
+  {
+    "id": "blank-icy-hot-fastball",
+    "quoteId": "eric-icy-hot-fastball",
+    "answer": "80 miles an hour",
+    "options": ["80 miles an hour", "a perfect spiral", "through a car window", "with both hands"],
+    "difficulty": "medium"
+  },
+  {
+    "id": "blank-ham-tower",
+    "quoteId": "eric-ham-tower",
+    "answer": "50-foot ham tower",
+    "options": ["12-foot toilet", "50-foot ham tower", "regulation radio mast", "giant sausage flag"],
+    "difficulty": "easy"
+  },
+  {
+    "id": "blank-wide-angle-lens",
+    "quoteId": "eric-wide-angle-head",
+    "answer": "big wide-angle lens",
+    "options": ["tiny rear-view mirror", "big wide-angle lens", "GoPro on a pencil", "magnifying monocle"],
+    "difficulty": "medium"
+  },
+  {
+    "id": "blank-guitar-egg",
+    "quoteId": "eric-guitar-egg",
+    "answer": "Guitar Hero",
+    "options": ["Guitar Hero", "Rock Band", "Egg Scramble", "Sausage Talk"],
+    "difficulty": "easy"
+  },
+  {
+    "id": "blank-bank-floor",
+    "quoteId": "eric-bank-floor",
+    "answer": "shit on the floor",
+    "options": ["ask for a tour", "wear a tuxedo", "shit on the floor", "release a swan"],
+    "difficulty": "hard"
+  },
+  {
+    "id": "blank-potato-ass-chips",
+    "quoteId": "geoff-potato-ass-chips",
+    "answer": "potato-ass chips",
+    "options": ["potato-ass chips", "regulation crisps", "pickle-paste crackers", "waffle bones"],
+    "difficulty": "easy"
+  },
+  {
+    "id": "blank-hot-dog-gloves",
+    "quoteId": "geoff-hot-dog-glove-catch",
+    "answer": "hot dog gloves",
+    "options": ["ham mittens", "hot dog gloves", "sausage sleeves", "baseball socks"],
+    "difficulty": "medium"
+  },
+  {
+    "id": "blank-shirt-physics",
+    "quoteId": "geoff-shirt-physics",
+    "answer": "wrapped around my dick",
+    "options": ["blocked the toilet", "became a piss curtain", "wrapped around my dick", "got stuck in the sink"],
+    "difficulty": "hard"
+  },
+  {
+    "id": "blank-rabbit-spaghetti",
+    "quoteId": "geoff-rabbit-spaghetti",
+    "answer": "spaghetti",
+    "options": ["spaghetti", "Cosmic Crisps", "banana wipes", "Bovril"],
+    "difficulty": "medium"
+  },
+  {
+    "id": "blank-pizza-bones",
+    "quoteId": "geoff-pizza-bones",
+    "answer": "pizza bones",
+    "options": ["crust sticks", "pizza bones", "bread handles", "tomato rails"],
+    "difficulty": "easy"
+  },
+  {
+    "id": "blank-cosmic-fart",
+    "quoteId": "andrew-cosmic-fart-protest",
+    "answer": "conjure a fart",
+    "options": ["conjure a fart", "hide an apple", "fake a phone call", "summon a ghost"],
+    "difficulty": "medium"
+  },
+  {
+    "id": "blank-collapsing-toilet",
+    "quoteId": "andrew-collapsing-toilet",
+    "answer": "toilet fell apart",
+    "options": ["floor became slippery", "toilet fell apart", "cat stole my pants", "sink started screaming"],
+    "difficulty": "easy"
+  },
+  {
+    "id": "blank-egg-window",
+    "quoteId": "andrew-egg-window",
+    "answer": "egg window",
+    "options": ["waffle era", "egg window", "ham season", "pencil phase"],
+    "difficulty": "hard"
+  },
+  {
+    "id": "blank-hot-dog-gun",
+    "quoteId": "andrew-hot-dog-cannon",
+    "answer": "hot dog gun",
+    "options": ["T-shirt cannon", "hot dog gun", "sausage trebuchet", "ham slingshot"],
+    "difficulty": "medium"
+  },
+  {
+    "id": "blank-ham-fan",
+    "quoteId": "andrew-ham-fan-golf",
+    "answer": "Ham fan",
+    "options": ["Ham fan", "Bog boy", "Go go now", "Gooch Dog"],
+    "difficulty": "hard"
+  },
+  {
+    "id": "blank-fish-requirements",
+    "quoteId": "andrew-fish-requirements",
+    "answer": "fit the requirements",
+    "options": ["have regulation length", "fit the requirements", "know how to swim", "match the photograph"],
+    "difficulty": "hard"
+  },
+  {
+    "id": "blank-upstairs-toilet",
+    "quoteId": "gavin-upstairs-toilet",
+    "answer": "upstairs",
+    "options": ["the roof", "upstairs", "inside the shower", "behind a curtain"],
+    "difficulty": "easy"
+  },
+  {
+    "id": "blank-pickle-paste",
+    "quoteId": "gavin-pickle-paste",
+    "answer": "10 to 15 times",
+    "options": ["marginally", "exactly twice", "10 to 15 times", "emotionally"],
+    "difficulty": "medium"
+  },
+  {
+    "id": "blank-shampoo-game",
+    "quoteId": "gavin-shampoo-bottle-game",
+    "answer": "shampoo bottle",
+    "options": ["shampoo bottle", "regulation pencil", "waffle cone", "plastic swan"],
+    "difficulty": "easy"
+  },
+  {
+    "id": "blank-sausage-flag",
+    "quoteId": "gavin-sausage-flag",
+    "answer": "regulation flag",
+    "options": ["regulation flag", "penalty sausage", "commercial break", "medical waiver"],
+    "difficulty": "hard"
+  },
+  {
+    "id": "blank-pencil-ice-pick",
+    "quoteId": "gavin-pencil-ice-pick",
+    "answer": "ice pick",
+    "options": ["hot dog", "paintbrush", "ice pick", "toilet brush"],
+    "difficulty": "medium"
+  },
+  {
+    "id": "blank-electric-toilet",
+    "quoteId": "eric-electric-toilet",
+    "answer": "zap your ass",
+    "options": ["zap your ass", "measure the stream", "warm your feet", "alert the neighbors"],
+    "difficulty": "easy"
+  },
+  {
+    "id": "blank-no-ding",
+    "quoteId": "eric-no-ding",
+    "answer": "doesn't ding",
+    "options": ["changes color", "doesn't ding", "alerts the group chat", "voids the warranty"],
+    "difficulty": "medium"
+  },
+  {
+    "id": "blank-goat-milk",
+    "quoteId": "eric-goat-milk-hot-dog",
+    "answer": "whole goat milk",
+    "options": ["warm Bovril", "pickle brine", "whole goat milk", "melted vanilla ice cream"],
+    "difficulty": "hard"
+  },
+  {
+    "id": "blank-gooch-dog",
+    "quoteId": "eric-gooch-dog",
+    "answer": "Gooch Dog",
+    "options": ["Gooch Dog", "Rat Boy", "Piss Dog", "Burn Dog"],
+    "difficulty": "medium"
+  },
+  {
+    "id": "blank-waffle-cone",
+    "quoteId": "eric-waffle-cone",
+    "answer": "the star",
+    "options": ["the star", "structurally sound", "the regulation choice", "worth the risk"],
+    "difficulty": "easy"
+  },
+  {
+    "id": "blank-second-wave-fart",
+    "quoteId": "geoff-second-wave-fart",
+    "answer": "second wave of fart",
+    "options": ["surprise ending", "second wave of fart", "formal apology", "tiny encore"],
+    "difficulty": "medium"
+  },
+  {
+    "id": "blank-bloopy-trail",
+    "quoteId": "geoff-bloopy-trail",
+    "answer": "bloopy turds",
+    "options": ["wet footprints", "shampoo bottles", "bloopy turds", "regulation breadcrumbs"],
+    "difficulty": "hard"
+  },
+  {
+    "id": "blank-stair-shimmy",
+    "quoteId": "andrew-stair-butt-shimmy",
+    "answer": "dog doing a butt shimmy",
+    "options": ["dog doing a butt shimmy", "crab escaping a bucket", "pencil rolling off a desk", "swan entering a courtroom"],
+    "difficulty": "easy"
+  },
+  {
+    "id": "blank-anus-curtain",
+    "quoteId": "gavin-anus-curtain",
+    "answer": "anus curtain",
+    "options": ["tail blindfold", "privacy sock", "anus curtain", "cat trousers"],
+    "difficulty": "medium"
+  },
+  {
+    "id": "blank-deer-piss-review",
+    "quoteId": "eric-deer-piss-review",
+    "answer": "deer pissing in a river",
+    "options": ["swan stealing a sandwich", "deer pissing in a river", "horse falling asleep", "fish missing requirements"],
+    "difficulty": "hard"
+  },
+  {
+    "id": "blank-two-headed-bird",
+    "quoteId": "eric-two-headed-bird",
+    "answer": "two-headed bird tongues",
+    "options": ["two-headed bird tongues", "three regulation beaks", "webbed rat feet", "one enormous goose tooth"],
+    "difficulty": "hard"
+  }
+]

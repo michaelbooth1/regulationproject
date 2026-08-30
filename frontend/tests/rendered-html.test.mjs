@@ -62,6 +62,70 @@ test("server-renders the dedicated Who Said It route", async () => {
 });
 
 
+test("server-renders the Regulation Fill in the Blank game", async () => {
+  const response = await render("/blank");
+  assert.equal(response.status, 200);
+  const html = await response.text();
+  assert.match(html, /<title>Regulation Fill in the Blank<\/title>/i);
+  assert.match(html, /fill in the blank/i);
+  assert.match(html, /Reconstruct ten absurd lines from the show(?:&#x27;|')s history/i);
+  assert.match(html, /Open the damaged transcript/i);
+  assert.match(html, /three lines before it and identifies who said it/i);
+  assert.match(html, /What if every/i);
+  assert.match(html, /waffle maker/i);
+  assert.match(html, /<dt>Question bank<\/dt><dd>50<\/dd>/i);
+  assert.match(html, /href="\/"[^>]*>Who said it<\/a>/i);
+});
+
+
+test("keeps the fill-in-the-blank bank curated and transcript-grounded", async () => {
+  const [blankText, quoteText, component, roundSource, styles] = await Promise.all([
+    readFile(new URL("../app/data/fill-blank-bank.json", import.meta.url), "utf8"),
+    readFile(new URL("../app/data/who-said-it-bank.json", import.meta.url), "utf8"),
+    readFile(new URL("../app/FillBlankGame.tsx", import.meta.url), "utf8"),
+    readFile(new URL("../app/fill-blank-round.ts", import.meta.url), "utf8"),
+    readFile(new URL("../app/globals.css", import.meta.url), "utf8"),
+  ]);
+  const blankBank = JSON.parse(blankText);
+  const quoteBank = JSON.parse(quoteText);
+  const quoteById = new Map(quoteBank.map((quote) => [quote.id, quote]));
+
+  assert.equal(blankBank.length, 50);
+  assert.equal(new Set(blankBank.map((item) => item.id)).size, 50);
+  assert.equal(new Set(blankBank.map((item) => item.quoteId)).size, 50);
+  assert.deepEqual(
+    Object.fromEntries(
+      ["easy", "medium", "hard"].map((difficulty) => [
+        difficulty,
+        blankBank.filter((item) => item.difficulty === difficulty).length,
+      ]),
+    ),
+    { easy: 17, medium: 17, hard: 16 },
+  );
+
+  for (const item of blankBank) {
+    const source = quoteById.get(item.quoteId);
+    assert.ok(source, `Missing source quote for ${item.id}`);
+    assert.equal(source.quote.split(item.answer).length - 1, 1, `${item.id} must blank one exact span`);
+    assert.equal(item.options.length, 4);
+    assert.equal(new Set(item.options).size, 4);
+    assert.equal(item.options.filter((option) => option === item.answer).length, 1);
+  }
+
+  assert.match(roundSource, /easy:\s*3/);
+  assert.match(roundSource, /medium:\s*4/);
+  assert.match(roundSource, /hard:\s*3/);
+  assert.match(roundSource, /avoidIds/);
+  assert.match(component, /Three preceding transcript lines followed by the restored quote/);
+  assert.match(component, /Said by \{correctProfile\.name\}/);
+  assert.match(component, /handleShortcut/);
+  assert.match(component, /window\.localStorage/);
+  assert.match(styles, /\.blank-choice-grid/);
+  assert.match(styles, /\.blank-restored-line/);
+  assert.match(styles, /\.blank-review/);
+});
+
+
 test("server-renders the transcript-derived speaker timeline", async () => {
   const response = await render("/stats");
   assert.equal(response.status, 200);

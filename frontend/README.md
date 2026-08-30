@@ -49,7 +49,13 @@ The primary routes are:
 
 - `/` — game
 - `/who-said-it` — direct game URL
+- `/blank` — ten-question transcript fill-in-the-blank game
 - `/who-said-it/bank` — fully attributed quote bank
+
+The fill-in-the-blank game has its own curated 50-question bank and reuses the
+verified speaker, episode, timestamp, and three-line transcript context from the
+Who Said It archive. See `FILL_BLANK_DESIGN.md` for the interaction and curation
+rules.
 
 ## Validation
 
