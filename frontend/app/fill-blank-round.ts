@@ -60,7 +60,3 @@ export function pickBlankRound(
   }
   return shuffle(selected);
 }
-
-export function shuffleBlankOptions(options: readonly string[]): string[] {
-  return shuffle(options);
-}

@@ -1,37 +1,79 @@
 "use client";
 
 import Link from "next/link";
-import { useCallback, useEffect, useMemo, useRef, useState, type CSSProperties } from "react";
+import {
+  useCallback,
+  useEffect,
+  useMemo,
+  useRef,
+  useState,
+  type CSSProperties,
+  type FormEvent,
+  type ReactNode,
+} from "react";
 import { HostBadge } from "./HostBadge";
 import {
+  BLANK_MAX_SCORE,
+  BLANK_POINTS_PER_QUESTION,
   FILL_BLANK_BANK,
   FILL_BLANK_LENGTH,
+  canRevealMore,
+  revealedLetterCount,
   type BlankDifficulty,
   type FillBlankQuestion,
 } from "./fill-blank-data";
-import { readBlankRemovalIds } from "./fill-blank-preferences";
-import { pickBlankRound, shuffleBlankOptions } from "./fill-blank-round";
+import { compactGuess, isSolved, judgeGuess, type MatchReason } from "./fill-blank-match";
+import { logBlankGuess, readBlankRemovalIds } from "./fill-blank-preferences";
+import { pickBlankRound } from "./fill-blank-round";
 import { HOST_ORDER, HOST_PROFILES } from "./quiz-data";
 import { formatTranscriptTime } from "./who-said-it-data";
 
 
 type Stage = "intro" | "playing" | "result";
-type PreparedQuestion = FillBlankQuestion & { shuffledOptions: string[] };
+type Feedback = { tone: "near" | "wrong" | "info"; text: string };
 type AnswerRecord = {
-  question: PreparedQuestion;
-  choice: string;
-  correct: boolean;
+  question: FillBlankQuestion;
+  misses: string[];
+  hintsUsed: number;
+  points: number;
+  solved: boolean;
+  /** What the player typed when a plural, alias, or typo was accepted. */
+  acceptedAs: { typed: string; reason: MatchReason } | null;
+};
+type QuestionState = {
+  input: string;
+  points: number;
+  hintLevel: number;
+  misses: string[];
+  nearMissUsed: boolean;
+  feedback: Feedback | null;
+  shake: number;
 };
 type LifetimeStats = {
   games: number;
   best: number;
-  totalCorrect: number;
+  totalPoints: number;
+  totalSolved: number;
+  totalClean: number;
   totalQuestions: number;
 };
 
-const STATS_KEY = "regulation-fill-blank-stats-v1";
+const STATS_KEY = "regulation-fill-blank-stats-v2";
 const UNKNOWN_SPEAKER_COLOR = "#c8c2b7";
-const EMPTY_STATS: LifetimeStats = { games: 0, best: 0, totalCorrect: 0, totalQuestions: 0 };
+const LETTER = /[\p{L}\p{N}]/u;
+const EMPTY_STATS: LifetimeStats = {
+  games: 0, best: 0, totalPoints: 0, totalSolved: 0, totalClean: 0, totalQuestions: 0,
+};
+const FRESH_QUESTION: QuestionState = {
+  input: "",
+  points: BLANK_POINTS_PER_QUESTION,
+  hintLevel: 0,
+  misses: [],
+  nearMissUsed: false,
+  feedback: null,
+  shake: 0,
+};
+const EXAMPLE_QUESTION = FILL_BLANK_BANK.find((question) => question.answer === "Alexa") ?? FILL_BLANK_BANK[0];
 
 function scrollToTop() {
   window.requestAnimationFrame(() => window.scrollTo({ top: 0, behavior: "smooth" }));
@@ -43,8 +85,8 @@ function loadLifetimeStats(): LifetimeStats {
     const parsed: unknown = JSON.parse(window.localStorage.getItem(STATS_KEY) ?? "null");
     if (!parsed || typeof parsed !== "object") return EMPTY_STATS;
     const candidate = parsed as Partial<LifetimeStats>;
-    if ([candidate.games, candidate.best, candidate.totalCorrect, candidate.totalQuestions]
-      .every((value) => Number.isInteger(value) && (value ?? -1) >= 0)) {
+    const values = (Object.keys(EMPTY_STATS) as (keyof LifetimeStats)[]).map((key) => candidate[key]);
+    if (values.every((value) => Number.isInteger(value) && (value ?? -1) >= 0)) {
       return candidate as LifetimeStats;
     }
   } catch {
@@ -54,25 +96,25 @@ function loadLifetimeStats(): LifetimeStats {
 }
 
 function verdictFor(score: number) {
-  if (score === 10) {
+  if (score === BLANK_MAX_SCORE) {
     return {
       title: "Perfect reconstruction",
       copy: "Every missing word returned to its proper crime scene. The archive has nothing left to teach you.",
     };
   }
-  if (score >= 8) {
+  if (score >= 24) {
     return {
       title: "Archive restoration expert",
       copy: "You can rebuild a Regulation sentence from the shape of the damage alone.",
     };
   }
-  if (score >= 6) {
+  if (score >= 18) {
     return {
       title: "Certified stenographer",
       copy: "Most of the evidence survived. A few beans, dogs, and toilet components remain unaccounted for.",
     };
   }
-  if (score >= 3) {
+  if (score >= 9) {
     return {
       title: "Contextually adjacent",
       copy: "You understood the sentence. The sentence did not necessarily understand you.",
@@ -89,22 +131,106 @@ function transcriptSpeakerColor(speaker: string) {
   return host ? HOST_PROFILES[host].color : UNKNOWN_SPEAKER_COLOR;
 }
 
+function patternLabel(question: FillBlankQuestion, hintLevel: number) {
+  const lengths = question.wordLengths;
+  const shape = `${lengths.length} ${lengths.length === 1 ? "word" : "words"}: `
+    + lengths.map((length) => `${length} ${length === 1 ? "letter" : "letters"}`).join(", ");
+  if (!hintLevel) return shape;
+  const starts = question.answer.split(" ").map((word, index) => (
+    [...word].filter((char) => LETTER.test(char))
+      .slice(0, revealedLetterCount(lengths[index], hintLevel)).join("").toUpperCase() || "none"
+  ));
+  return `${shape}; revealed letters ${starts.join(", ")}`;
+}
+
+/** The blank as letter tiles. Typed letters fill tiles in order; hints show beneath empty ones. */
+function BlankTiles({
+  question,
+  typed = "",
+  hintLevel = 0,
+  solvedView = false,
+}: {
+  question: FillBlankQuestion;
+  typed?: string;
+  hintLevel?: number;
+  solvedView?: boolean;
+}) {
+  const typedLetters = [...typed].filter((char) => LETTER.test(char));
+  let letterIndex = 0;
+  const totalLetters = question.wordLengths.reduce((sum, length) => sum + length, 0);
+  const overflow = typedLetters.slice(totalLetters).join("");
+  const words: ReactNode[][] = [[]];
+
+  question.pattern.forEach((cell, index) => {
+    if (cell.kind === "space") {
+      words.push([]);
+      return;
+    }
+    const word = words[words.length - 1];
+    if (cell.kind === "fixed") {
+      word.push(<span className="blank-tile fixed" key={index}>{cell.char}</span>);
+      return;
+    }
+    const typedChar = typedLetters[letterIndex];
+    letterIndex += 1;
+    const hinted = cell.position < revealedLetterCount(question.wordLengths[cell.word], hintLevel);
+    if (solvedView) {
+      word.push(<span className="blank-tile solved" key={index}>{cell.char}</span>);
+    } else if (typedChar) {
+      word.push(<span className="blank-tile typed" key={index}>{typedChar}</span>);
+    } else if (hinted) {
+      word.push(<span className="blank-tile hinted" key={index}>{cell.char}</span>);
+    } else {
+      word.push(<span className="blank-tile" key={index} />);
+    }
+  });
+
+  return (
+    <span className="blank-tiles" aria-hidden="true">
+      {words.map((word, index) => (
+        <span className="blank-tile-word" key={index}>{word}</span>
+      ))}
+      {overflow && !solvedView && <span className="blank-tile-overflow">{overflow}</span>}
+    </span>
+  );
+}
+
+function PointsMeter({ points, label }: { points: number; label?: string }) {
+  return (
+    <span className="blank-points-meter" aria-label={label ?? `${points} of ${BLANK_POINTS_PER_QUESTION} points`}>
+      {Array.from({ length: BLANK_POINTS_PER_QUESTION }, (_, index) => (
+        <i className={index < points ? "on" : undefined} key={index} aria-hidden="true" />
+      ))}
+    </span>
+  );
+}
+
+function acceptedNote(acceptedAs: AnswerRecord["acceptedAs"]) {
+  if (!acceptedAs) return null;
+  const why = acceptedAs.reason === "typo" ? "spelling forgiven" : acceptedAs.reason === "plural" ? "plural forgiven" : "also accepted";
+  return `You typed “${acceptedAs.typed}” · ${why}`;
+}
+
 export default function FillBlankGame({ mappedEpisodes }: { mappedEpisodes: number }) {
   const [stage, setStage] = useState<Stage>("intro");
-  const [round, setRound] = useState<PreparedQuestion[]>([]);
+  const [round, setRound] = useState<FillBlankQuestion[]>([]);
   const [currentIndex, setCurrentIndex] = useState(0);
-  const [selectedChoice, setSelectedChoice] = useState<string | null>(null);
+  const [questionState, setQuestionState] = useState<QuestionState>(FRESH_QUESTION);
   const [answers, setAnswers] = useState<AnswerRecord[]>([]);
   const [stats, setStats] = useState<LifetimeStats>(loadLifetimeStats);
   const nextButtonRef = useRef<HTMLButtonElement>(null);
+  const inputRef = useRef<HTMLInputElement>(null);
 
   const current = round[currentIndex];
-  const score = answers.filter((answer) => answer.correct).length;
+  const currentRecord = current && answers[currentIndex]?.question.id === current.id ? answers[currentIndex] : null;
+  const score = answers.reduce((total, answer) => total + answer.points, 0);
+  const solvedCount = answers.filter((answer) => answer.solved).length;
+  const cleanCount = answers.filter((answer) => answer.points === BLANK_POINTS_PER_QUESTION).length;
   const verdict = useMemo(() => verdictFor(score), [score]);
   const currentStreak = useMemo(() => {
     let streak = 0;
     for (let index = answers.length - 1; index >= 0; index -= 1) {
-      if (!answers[index].correct) break;
+      if (!answers[index].solved) break;
       streak += 1;
     }
     return streak;
@@ -115,47 +241,127 @@ export default function FillBlankGame({ mappedEpisodes }: { mappedEpisodes: numb
       const matching = answers.filter((answer) => answer.question.difficulty === difficulty);
       return {
         difficulty,
-        correct: matching.filter((answer) => answer.correct).length,
+        points: matching.reduce((total, answer) => total + answer.points, 0),
+        possible: matching.length * BLANK_POINTS_PER_QUESTION,
+        solved: matching.filter((answer) => answer.solved).length,
         total: matching.length,
       };
     })
   ), [answers]);
 
   useEffect(() => {
-    if (selectedChoice) nextButtonRef.current?.focus();
-  }, [selectedChoice]);
+    if (currentRecord) nextButtonRef.current?.focus();
+  }, [currentRecord]);
+
+  useEffect(() => {
+    if (stage === "playing" && !currentRecord) inputRef.current?.focus({ preventScroll: true });
+  }, [stage, currentIndex, currentRecord]);
 
   const start = useCallback(() => {
     const avoidIds = new Set(round.map((question) => question.id));
     const removalIds = readBlankRemovalIds();
-    const nextRound = pickBlankRound(avoidIds, removalIds).map((question) => ({
-      ...question,
-      shuffledOptions: shuffleBlankOptions(question.options),
-    }));
-    setRound(nextRound);
+    setRound(pickBlankRound(avoidIds, removalIds));
     setCurrentIndex(0);
-    setSelectedChoice(null);
+    setQuestionState(FRESH_QUESTION);
     setAnswers([]);
     setStage("playing");
     scrollToTop();
   }, [round]);
 
-  const choose = useCallback((choice: string) => {
-    if (!current || selectedChoice) return;
-    setSelectedChoice(choice);
-    setAnswers((existing) => [
-      ...existing,
-      { question: current, choice, correct: choice === current.answer },
-    ]);
-  }, [current, selectedChoice]);
+  const finishQuestion = useCallback((record: Omit<AnswerRecord, "question">) => {
+    if (!current) return;
+    setAnswers((existing) => [...existing, { question: current, ...record }]);
+  }, [current]);
+
+  const submit = useCallback((event: FormEvent) => {
+    event.preventDefault();
+    if (!current || currentRecord) return;
+    const state = questionState;
+    const guess = state.input.trim();
+    const result = judgeGuess(guess, current);
+    if (result.verdict === "empty") return;
+
+    if (isSolved(result)) {
+      setQuestionState({ ...state, feedback: null });
+      finishQuestion({
+        misses: state.misses,
+        hintsUsed: state.hintLevel,
+        points: state.points,
+        solved: true,
+        acceptedAs: result.verdict === "accepted" ? { typed: guess, reason: result.reason } : null,
+      });
+      return;
+    }
+
+    const key = compactGuess(guess);
+    if (state.misses.some((miss) => compactGuess(miss) === key)) {
+      setQuestionState({ ...state, feedback: { tone: "info", text: `Already tried “${guess}”. No charge.` } });
+      return;
+    }
+
+    logBlankGuess(current.id, guess);
+    if (result.verdict === "near" && !state.nearMissUsed) {
+      setQuestionState({
+        ...state,
+        nearMissUsed: true,
+        shake: state.shake + 1,
+        feedback: { tone: "near", text: "So close — check your spelling. That one was free." },
+      });
+      return;
+    }
+
+    const points = state.points - 1;
+    const misses = [...state.misses, guess];
+    if (points === 0) {
+      setQuestionState({ ...state, input: "", points, misses, shake: state.shake + 1, feedback: null });
+      finishQuestion({ misses, hintsUsed: state.hintLevel, points: 0, solved: false, acceptedAs: null });
+      return;
+    }
+    setQuestionState({
+      ...state,
+      input: "",
+      points,
+      misses,
+      shake: state.shake + 1,
+      feedback: { tone: "wrong", text: `“${guess}” isn’t it. −1 point.` },
+    });
+  }, [current, currentRecord, finishQuestion, questionState]);
+
+  const takeHint = useCallback(() => {
+    if (!current || currentRecord) return;
+    setQuestionState((state) => {
+      if (state.points < 2 || !canRevealMore(current, state.hintLevel)) return state;
+      return {
+        ...state,
+        points: state.points - 1,
+        hintLevel: state.hintLevel + 1,
+        feedback: { tone: "info", text: "Hint used. −1 point." },
+      };
+    });
+    inputRef.current?.focus({ preventScroll: true });
+  }, [current, currentRecord]);
+
+  const giveUp = useCallback(() => {
+    if (!current || currentRecord) return;
+    setQuestionState((state) => ({ ...state, points: 0, feedback: null }));
+    finishQuestion({
+      misses: questionState.misses,
+      hintsUsed: questionState.hintLevel,
+      points: 0,
+      solved: false,
+      acceptedAs: null,
+    });
+  }, [current, currentRecord, finishQuestion, questionState]);
 
   const next = useCallback(() => {
-    if (!selectedChoice) return;
+    if (!currentRecord) return;
     if (currentIndex === round.length - 1) {
-      const updated = {
+      const updated: LifetimeStats = {
         games: stats.games + 1,
         best: Math.max(stats.best, score),
-        totalCorrect: stats.totalCorrect + score,
+        totalPoints: stats.totalPoints + score,
+        totalSolved: stats.totalSolved + solvedCount,
+        totalClean: stats.totalClean + cleanCount,
         totalQuestions: stats.totalQuestions + FILL_BLANK_LENGTH,
       };
       setStats(updated);
@@ -167,26 +373,15 @@ export default function FillBlankGame({ mappedEpisodes }: { mappedEpisodes: numb
       setStage("result");
     } else {
       setCurrentIndex((index) => index + 1);
-      setSelectedChoice(null);
+      setQuestionState(FRESH_QUESTION);
     }
     scrollToTop();
-  }, [currentIndex, round.length, score, selectedChoice, stats]);
+  }, [cleanCount, currentIndex, currentRecord, round.length, score, solvedCount, stats]);
 
-  useEffect(() => {
-    function handleShortcut(event: KeyboardEvent) {
-      if (stage !== "playing" || selectedChoice || event.altKey || event.ctrlKey || event.metaKey) return;
-      const target = event.target as HTMLElement | null;
-      if (target?.closest("input, textarea, select")) return;
-      const optionIndex = Number(event.key) - 1;
-      if (current && optionIndex >= 0 && optionIndex < current.shuffledOptions.length) {
-        event.preventDefault();
-        choose(current.shuffledOptions[optionIndex]);
-      }
-    }
-
-    window.addEventListener("keydown", handleShortcut);
-    return () => window.removeEventListener("keydown", handleShortcut);
-  }, [choose, current, selectedChoice, stage]);
+  function keepInputVisible() {
+    if (!window.matchMedia("(max-width: 720px)").matches) return;
+    window.setTimeout(() => inputRef.current?.scrollIntoView({ block: "nearest", behavior: "smooth" }), 250);
+  }
 
   const topbar = (
     <header className="quiz-topbar blank-topbar">
@@ -215,36 +410,33 @@ export default function FillBlankGame({ mappedEpisodes }: { mappedEpisodes: numb
             <div className="blank-intro-copy">
               <p className="blank-kicker">Transcript damage detected</p>
               <h1><span>regulation</span>fill in the blank</h1>
-              <p className="intro-lede">Reconstruct ten absurd lines from the show&apos;s history.</p>
+              <p className="intro-lede">Type the missing words back into ten absurd lines from the show&apos;s history.</p>
               <button className="primary-button" type="button" onClick={start}>
                 Open the damaged transcript <span aria-hidden="true">→</span>
               </button>
               <p className="fine-print">
-                Choose the missing words from four possible repairs. Once the file is locked,
-                the transcript restores the three lines before it and identifies who said it.
-                Every blank removes the memorable one-to-three-word punchline—not filler. The
-                wrong answers are equally plausible pieces of Regulation nonsense. Back-to-back games avoid repeats.
+                Each blank is worth three points. A wrong guess or a letter hint costs one. Capitals,
+                punctuation, and small spelling slips are forgiven. Every answer restores the original
+                quote, the three lines before it, and who said it.
               </p>
             </div>
 
             <aside className="blank-evidence" aria-label="Example fill in the blank question">
               <div className="blank-evidence-head">
                 <span>Damaged evidence / sample 001</span>
-                <b>Two words missing</b>
+                <b>{patternLabel(EXAMPLE_QUESTION, 0)}</b>
               </div>
               <blockquote>
-                “Just try to have a game of catch with a bunch of <mark>________</mark> and baseballs.”
+                “{EXAMPLE_QUESTION.beforeBlank}<mark><BlankTiles question={EXAMPLE_QUESTION} solvedView /></mark>{EXAMPLE_QUESTION.afterBlank}”
               </blockquote>
-              <ol>
-                <li><b>A</b> lobster-claw mitts</li>
-                <li className="is-answer"><b>B</b> hot dog gloves</li>
-                <li><b>C</b> giant foam hands</li>
-                <li><b>D</b> sausage-finger gloves</li>
-              </ol>
+              <div className="blank-evidence-guess">
+                <span className="blank-evidence-input">{EXAMPLE_QUESTION.answer.toLowerCase()}<i aria-hidden="true" /></span>
+                <strong>Repair accepted · +3</strong>
+              </div>
               <dl>
                 <div><dt>Question bank</dt><dd>{FILL_BLANK_BANK.length}</dd></div>
                 <div><dt>Repairs per run</dt><dd>{FILL_BLANK_LENGTH}</dd></div>
-                <div><dt>Possible repairs</dt><dd>4</dd></div>
+                <div><dt>Max score</dt><dd>{BLANK_MAX_SCORE}</dd></div>
               </dl>
             </aside>
           </div>
@@ -257,7 +449,11 @@ export default function FillBlankGame({ mappedEpisodes }: { mappedEpisodes: numb
     const progress = ((currentIndex + 1) / round.length) * 100;
     const source = current.source;
     const correctProfile = HOST_PROFILES[source.speaker];
-    const selectedWasCorrect = selectedChoice === current.answer;
+    const { input, points, hintLevel, misses, feedback, shake } = questionState;
+    const hintAvailable = !currentRecord && points >= 2 && canRevealMore(current, hintLevel);
+    const hintReason = points < 2
+      ? "Your last point is saved for a guess."
+      : !canRevealMore(current, hintLevel) ? "No more letters to reveal." : undefined;
 
     return (
       <main className="quiz-shell blank-shell blank-playing-shell">
@@ -266,7 +462,7 @@ export default function FillBlankGame({ mappedEpisodes }: { mappedEpisodes: numb
           <div className="question-progress blank-progress">
             <div className="progress-labels">
               <span>Blank {String(currentIndex + 1).padStart(2, "0")}</span>
-              <span>{score} repaired / streak {currentStreak}</span>
+              <span>{score} pts / streak {currentStreak}</span>
             </div>
             <div className="progress-track" aria-hidden="true"><span style={{ width: `${progress}%` }} /></div>
             <div className="blank-progress-meta">
@@ -274,7 +470,7 @@ export default function FillBlankGame({ mappedEpisodes }: { mappedEpisodes: numb
               <ol aria-label={`Round progress: question ${currentIndex + 1} of ${round.length}`}>
                 {round.map((question, index) => {
                   const answer = answers[index];
-                  const state = answer ? (answer.correct ? "correct" : "wrong") : index === currentIndex ? "current" : "upcoming";
+                  const state = answer ? (answer.solved ? "correct" : "wrong") : index === currentIndex ? "current" : "upcoming";
                   return <li className={state} key={question.id} aria-label={`Question ${index + 1}: ${state}`}>{index + 1}</li>;
                 })}
               </ol>
@@ -285,45 +481,88 @@ export default function FillBlankGame({ mappedEpisodes }: { mappedEpisodes: numb
             <span aria-hidden="true">“</span>
             <blockquote>
               {current.beforeBlank}
-              <mark aria-label="missing words">________</mark>
+              <mark
+                className={shake ? "blank-shake" : undefined}
+                key={shake}
+                aria-label={`missing words, ${patternLabel(current, hintLevel)}`}
+              >
+                <BlankTiles question={current} typed={input} hintLevel={hintLevel} solvedView={currentRecord !== null} />
+              </mark>
               {current.afterBlank}
             </blockquote>
-            <p>— select the missing evidence</p>
+            <p>— {patternLabel(current, 0)}</p>
           </article>
 
-          <div className="blank-choice-grid" aria-label="Choose the missing words">
-            {current.shuffledOptions.map((option, optionIndex) => {
-              const isCorrect = selectedChoice !== null && option === current.answer;
-              const isWrongChoice = selectedChoice === option && option !== current.answer;
-              return (
+          {!currentRecord && (
+            <form className="blank-answer-panel" onSubmit={submit}>
+              <div className="blank-answer-status">
+                <PointsMeter points={points} />
+                <span>worth {points}</span>
+                {misses.length > 0 && (
+                  <ul aria-label="Wrong guesses">
+                    {misses.map((miss) => <li key={miss}><s>{miss}</s></li>)}
+                  </ul>
+                )}
+              </div>
+              <label className="blank-answer-label" htmlFor="blank-answer-input">Type the missing words</label>
+              <div className="blank-answer-row">
+                <input
+                  id="blank-answer-input"
+                  ref={inputRef}
+                  type="text"
+                  value={input}
+                  onChange={(event) => setQuestionState((state) => ({ ...state, input: event.target.value }))}
+                  onFocus={keepInputVisible}
+                  autoComplete="off"
+                  autoCorrect="off"
+                  autoCapitalize="none"
+                  spellCheck={false}
+                  enterKeyHint="go"
+                  maxLength={48}
+                  placeholder="type your repair…"
+                />
+                <button className="primary-button compact" type="submit" disabled={!input.trim()}>
+                  Submit <span aria-hidden="true">↵</span>
+                </button>
+              </div>
+              <div className="blank-answer-tools">
                 <button
                   type="button"
-                  key={option}
-                  disabled={selectedChoice !== null}
-                  className={`blank-choice${isCorrect ? " correct" : ""}${isWrongChoice ? " wrong" : ""}`}
-                  onClick={() => choose(option)}
-                  aria-pressed={selectedChoice === option}
+                  className="blank-tool-button"
+                  onClick={takeHint}
+                  aria-disabled={!hintAvailable}
+                  title={hintReason}
+                  disabled={!hintAvailable}
                 >
-                  <span>{String.fromCharCode(65 + optionIndex)}</span>
-                  <strong>{option}</strong>
-                  <kbd aria-hidden="true">{optionIndex + 1}</kbd>
+                  Reveal a letter <b>−1</b>
                 </button>
-              );
-            })}
-          </div>
+                <button type="button" className="blank-tool-button ghost" onClick={giveUp}>Give up</button>
+                <p className={`blank-answer-feedback${feedback ? ` ${feedback.tone}` : ""}`} role="status" aria-live="polite">
+                  {feedback?.text ?? (hintReason && hintLevel > 0 ? hintReason : "")}
+                </p>
+              </div>
+            </form>
+          )}
 
-          {selectedChoice && (
+          {currentRecord && (
             <aside
-              className={`blank-reveal wsi-reveal ${selectedWasCorrect ? "correct" : "wrong"}`}
+              className={`blank-reveal wsi-reveal ${currentRecord.solved ? "correct" : "wrong"}`}
               style={{ "--host-color": correctProfile.color, "--host-pale": correctProfile.pale } as CSSProperties}
               role="status"
               aria-live="polite"
             >
               <div className="blank-restored-line">
-                <span>{selectedWasCorrect ? "Repair accepted" : "Repair rejected"}</span>
+                <span>
+                  {currentRecord.solved ? "Repair accepted" : "Repair rejected"} · +{currentRecord.points}
+                  {" "}<PointsMeter points={currentRecord.points} />
+                </span>
                 <blockquote>
                   “{current.beforeBlank}<mark>{current.answer}</mark>{current.afterBlank}”
                 </blockquote>
+                {currentRecord.acceptedAs && <small className="blank-accepted-note">{acceptedNote(currentRecord.acceptedAs)}</small>}
+                {currentRecord.misses.length > 0 && (
+                  <small className="blank-accepted-note">Missed: {currentRecord.misses.map((miss) => `“${miss}”`).join(", ")}</small>
+                )}
               </div>
               <div className="wsi-transcript-lead">
                 <div className="wsi-transcript-heading">
@@ -362,19 +601,15 @@ export default function FillBlankGame({ mappedEpisodes }: { mappedEpisodes: numb
             </aside>
           )}
 
-          <div className="wsi-round-controls blank-round-controls">
-            <span>{selectedChoice ? "Transcript restored. Continue when ready." : "Pick one replacement."}</span>
-            <button
-              className="primary-button compact"
-              type="button"
-              disabled={!selectedChoice}
-              onClick={next}
-              ref={nextButtonRef}
-            >
-              {currentIndex === round.length - 1 ? "Close the file" : "Next damaged line"}
-              <span aria-hidden="true">→</span>
-            </button>
-          </div>
+          {currentRecord && (
+            <div className="wsi-round-controls blank-round-controls">
+              <span>Transcript restored. Press Enter to continue.</span>
+              <button className="primary-button compact" type="button" onClick={next} ref={nextButtonRef}>
+                {currentIndex === round.length - 1 ? "Close the file" : "Next damaged line"}
+                <span aria-hidden="true">→</span>
+              </button>
+            </div>
+          )}
         </section>
       </main>
     );
@@ -386,7 +621,7 @@ export default function FillBlankGame({ mappedEpisodes }: { mappedEpisodes: numb
       <section className="blank-result-hero">
         <div>
           <p className="blank-kicker">Archive repair complete</p>
-          <p className="blank-score"><strong>{score}</strong><span>/ {FILL_BLANK_LENGTH}</span></p>
+          <p className="blank-score"><strong>{score}</strong><span>/ {BLANK_MAX_SCORE}</span></p>
           <h1>{verdict.title}</h1>
           <p>{verdict.copy}</p>
           <div className="wsi-result-actions">
@@ -396,13 +631,13 @@ export default function FillBlankGame({ mappedEpisodes }: { mappedEpisodes: numb
         </div>
         <aside className="blank-score-slip">
           <span>Transcript integrity</span>
-          <strong>{Math.round((score / FILL_BLANK_LENGTH) * 100)}%</strong>
-          <p>{FILL_BLANK_LENGTH - score} incorrect repairs</p>
-          <div className="blank-score-bar" aria-hidden="true"><span style={{ width: `${score * 10}%` }} /></div>
+          <strong>{Math.round((score / BLANK_MAX_SCORE) * 100)}%</strong>
+          <p>{solvedCount}/{FILL_BLANK_LENGTH} repaired · {cleanCount} clean</p>
+          <div className="blank-score-bar" aria-hidden="true"><span style={{ width: `${(score / BLANK_MAX_SCORE) * 100}%` }} /></div>
           <dl>
             <div><dt>Games repaired</dt><dd>{stats.games}</dd></div>
-            <div><dt>Personal best</dt><dd>{stats.best}/10</dd></div>
-            <div><dt>Lifetime accuracy</dt><dd>{stats.totalQuestions ? Math.round((stats.totalCorrect / stats.totalQuestions) * 100) : 0}%</dd></div>
+            <div><dt>Personal best</dt><dd>{stats.best}/{BLANK_MAX_SCORE}</dd></div>
+            <div><dt>Lifetime solve rate</dt><dd>{stats.totalQuestions ? Math.round((stats.totalSolved / stats.totalQuestions) * 100) : 0}%</dd></div>
           </dl>
         </aside>
       </section>
@@ -413,8 +648,8 @@ export default function FillBlankGame({ mappedEpisodes }: { mappedEpisodes: numb
           {difficultyBreakdown.map((item) => (
             <article key={item.difficulty}>
               <span>{item.difficulty} files</span>
-              <strong>{item.correct}<small>/{item.total}</small></strong>
-              <p>{item.total - item.correct} rejected</p>
+              <strong>{item.points}<small>/{item.possible}</small></strong>
+              <p>{item.solved}/{item.total} repaired</p>
             </article>
           ))}
         </div>
@@ -426,13 +661,17 @@ export default function FillBlankGame({ mappedEpisodes }: { mappedEpisodes: numb
           {answers.map((answer, index) => {
             const profile = HOST_PROFILES[answer.question.source.speaker];
             return (
-              <li className={answer.correct ? "correct" : "wrong"} key={answer.question.id}>
+              <li className={answer.solved ? "correct" : "wrong"} key={answer.question.id}>
                 <span>{String(index + 1).padStart(2, "0")}</span>
                 <div>
                   <p>
                     {answer.question.beforeBlank}<mark>{answer.question.answer}</mark>{answer.question.afterBlank}
                   </p>
-                  {!answer.correct && <small>You chose “{answer.choice}”</small>}
+                  <small>
+                    <PointsMeter points={answer.points} /> +{answer.points}
+                    {answer.hintsUsed > 0 && ` · ${answer.hintsUsed} ${answer.hintsUsed === 1 ? "hint" : "hints"}`}
+                    {answer.misses.length > 0 && ` · you tried ${answer.misses.map((miss) => `“${miss}”`).join(", ")}`}
+                  </small>
                 </div>
                 <HostBadge host={answer.question.source.speaker} />
                 <b>{profile.name}</b>

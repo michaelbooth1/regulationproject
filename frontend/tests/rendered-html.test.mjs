@@ -1,6 +1,7 @@
 import assert from "node:assert/strict";
 import { access, readFile } from "node:fs/promises";
 import test from "node:test";
+import { isSolved, judgeGuess } from "../app/fill-blank-match.ts";
 
 
 async function render(pathname = "/") {
@@ -68,15 +69,18 @@ test("server-renders the Regulation Fill in the Blank game", async () => {
   const html = await response.text();
   assert.match(html, /<title>Regulation Fill in the Blank<\/title>/i);
   assert.match(html, /fill in the blank/i);
-  assert.match(html, /Reconstruct ten absurd lines from the show(?:&#x27;|')s history/i);
+  assert.match(html, /Type the missing words back into ten absurd lines from the show(?:&#x27;|')s history/i);
   assert.match(html, /Open the damaged transcript/i);
-  assert.match(html, /three lines before it and identifies who said it/i);
-  assert.match(html, /Every blank removes the memorable one-to-three-word punchline/i);
-  assert.match(html, /game of catch/i);
-  assert.match(html, /lobster-claw mitts/i);
-  assert.match(html, /hot dog gloves/i);
+  assert.match(html, /three lines before it, and who said it/i);
+  assert.match(html, /Each blank is worth three points/i);
+  assert.match(html, /small spelling slips are forgiven/i);
+  assert.match(html, /Repair accepted · \+3/i);
+  assert.match(html, /class="blank-tiles"/i);
+  assert.match(html, /<dt>Max score<\/dt><dd>30<\/dd>/i);
+  assert.doesNotMatch(html, /beach towels|blank-choice/i);
+  assert.doesNotMatch(html, /hot dog gloves|lobster-claw mitts/i);
   assert.doesNotMatch(html, /every morning/i);
-  assert.match(html, /<dt>Question bank<\/dt><dd>50<\/dd>/i);
+  assert.match(html, /<dt>Question bank<\/dt><dd>60<\/dd>/i);
   assert.match(html, /href="\/blank\/bank"[^>]*>Review bank<\/a>/i);
   assert.match(html, /href="\/"[^>]*>Who said it<\/a>/i);
 });
@@ -87,27 +91,30 @@ test("server-renders the complete fill-in-the-blank review desk", async () => {
   assert.equal(response.status, 200);
   const html = await response.text();
   assert.match(html, /<title>Fill in the Blank Bank \| Regulation Who Said It<\/title>/i);
-  assert.match(html, /Review all <strong>50<\/strong> damaged files/i);
-  assert.match(html, /Search blanks, answers, decoys, episodes, or IDs/i);
-  assert.match(html, /Showing <strong>50<\/strong> of (?:<!-- -->)?50/i);
-  assert.equal((html.match(/class="blank-bank-card"/g) ?? []).length, 50);
-  assert.equal((html.match(/Correct repair/g) ?? []).length, 50);
+  assert.match(html, /Review all <strong>60<\/strong> damaged files/i);
+  assert.match(html, /Search blanks, answers, aliases, logged guesses, episodes, or IDs/i);
+  assert.match(html, /Showing <strong>60<\/strong> of (?:<!-- -->)?60/i);
+  assert.equal((html.match(/class="blank-bank-card"/g) ?? []).length, 60);
+  assert.equal((html.match(/<span>Accepted forms<\/span>/g) ?? []).length, 60);
+  assert.equal((html.match(/Try a guess/g) ?? []).length, 60);
   assert.match(html, /Mark for removal/i);
   assert.match(html, /Copy removal list/i);
   assert.match(html, /Open transcript context/i);
-  assert.match(html, /punchline-geoff-hot-dog-gloves/i);
-  assert.match(html, /punchline-gavin-news-waffle/i);
-  assert.match(html, /Correct repair[^]*hot dog gloves/i);
+  assert.match(html, /fresh-curtains/i);
+  assert.match(html, /fresh-dinklage-tape/i);
+  assert.match(html, /shower curtains<strong>Answer<\/strong>/i);
+  assert.doesNotMatch(html, /beach towels/i);
   assert.match(html, /Marks live in this browser/i);
 });
 
 
 test("keeps the fill-in-the-blank bank curated and transcript-grounded", async () => {
-  const [blankText, quoteText, extraQuoteText, speakerMapText, component, roundSource, preferencesSource, bankBrowserSource, styles] = await Promise.all([
+  const [blankText, quoteText, sourceText, speakerMapText, speakerNamesText, component, roundSource, preferencesSource, bankBrowserSource, styles] = await Promise.all([
     readFile(new URL("../app/data/fill-blank-bank.json", import.meta.url), "utf8"),
     readFile(new URL("../app/data/who-said-it-bank.json", import.meta.url), "utf8"),
-    readFile(new URL("../app/data/fill-blank-extra-sources.json", import.meta.url), "utf8"),
+    readFile(new URL("../app/data/fill-blank-sources.json", import.meta.url), "utf8"),
     readFile(new URL("../../data/speaker_map.json", import.meta.url), "utf8"),
+    readFile(new URL("../../data/speaker_names.json", import.meta.url), "utf8"),
     readFile(new URL("../app/FillBlankGame.tsx", import.meta.url), "utf8"),
     readFile(new URL("../app/fill-blank-round.ts", import.meta.url), "utf8"),
     readFile(new URL("../app/fill-blank-preferences.ts", import.meta.url), "utf8"),
@@ -116,146 +123,91 @@ test("keeps the fill-in-the-blank bank curated and transcript-grounded", async (
   ]);
   const blankBank = JSON.parse(blankText);
   const sharedQuoteBank = JSON.parse(quoteText);
-  const extraQuoteBank = JSON.parse(extraQuoteText);
-  const speakerMap = JSON.parse(speakerMapText);
-  const quoteBank = [...sharedQuoteBank, ...extraQuoteBank];
-  const quoteById = new Map(quoteBank.map((quote) => [quote.id, quote]));
+  const sources = JSON.parse(sourceText);
+  const speakerMap = JSON.parse(speakerMapText).episodes;
+  const speakerNames = JSON.parse(speakerNamesText);
+  const sourceById = new Map(sources.map((source) => [source.id, source]));
 
-  assert.equal(blankBank.length, 50);
-  assert.equal(new Set(blankBank.map((item) => item.id)).size, 50);
-  assert.equal(new Set(blankBank.map((item) => item.quoteId)).size, 50);
-  assert.ok(blankBank.every((item) => item.id.startsWith("punchline-")));
-  const retiredSourceIds = new Set([
-    "geoff-egg-economy",
-    "geoff-gentle-ghost",
-    "geoff-twelve-foot-toilet",
-    "geoff-third-bread",
-    "geoff-sleeping-pill-horse",
-    "geoff-poop-two-chairs",
-    "geoff-global-flush",
-    "geoff-potato-ass-chips",
-    "geoff-animal-waste-ranking",
-    "geoff-shirt-physics",
-    "geoff-banana-diet",
-    "geoff-rabbit-spaghetti",
-    "andrew-seventy-five-sauces",
-    "andrew-piss-dog",
-    "andrew-egg-window",
-    "andrew-hot-dog-cannon",
-    "andrew-horse-egg",
-    "andrew-sixty-four-bananas",
-    "andrew-potatoast",
-    "andrew-ostrich-sandwich",
-    "andrew-collapsing-toilet",
-    "andrew-ham-currency",
-    "andrew-swan-dna",
-    "andrew-egg-measurement",
-    "andrew-cosmic-fart-protest",
-    "gavin-boiled-fish",
-    "gavin-ham-inside-pig",
-    "gavin-fruit-bagel",
-    "gavin-pencil-ice-pick",
-    "gavin-sausage-flag",
-    "gavin-puffer-fish",
-    "gavin-pickle-paste",
-    "gavin-cross-year-turd",
-    "gavin-upstairs-toilet",
-    "gavin-stick-on-funnel",
-    "gavin-ankle-trousers",
-    "gavin-anus-curtain",
-    "gavin-vanishing-dog",
-    "eric-two-headed-bird",
-    "eric-guitar-egg",
-    "eric-no-ding",
-    "eric-flip-a-bird",
-    "eric-deer-piss-review",
-    "eric-bean-hole-tent",
-    "eric-gooch-dog",
-    "eric-electric-toilet",
-    "eric-bank-floor",
-    "eric-sausage-bop",
-    "eric-icy-hot-fastball",
-    "eric-ham-tower",
-  ]);
-  assert.deepEqual(
-    blankBank.filter((item) => retiredSourceIds.has(item.quoteId)).map((item) => item.quoteId),
-    [],
-    "the rebuilt bank must not recycle any source quote from the retired edition",
-  );
-  assert.equal(extraQuoteBank.length, 16);
-  assert.equal(new Set(extraQuoteBank.map((source) => source.id)).size, extraQuoteBank.length);
-  assert.deepEqual(
-    extraQuoteBank.filter((source) => sharedQuoteBank.some((shared) => shared.id === source.id)),
-    [],
-  );
-  assert.ok(extraQuoteBank.every((source) => (
-    source.sourceFile
-    && Number.isInteger(source.segmentIndex)
-    && source.endSec > source.startSec
-    && source.leadIn.length === 3
-    && source.leadIn.every((line) => line.speaker && line.text && line.startSec < source.startSec)
-  )));
+  assert.equal(blankBank.length, 60);
+  assert.equal(new Set(blankBank.map((item) => item.id)).size, 60);
+  assert.equal(new Set(blankBank.map((item) => item.quoteId)).size, 60);
+  assert.ok(blankBank.every((item) => item.id.startsWith("fresh-")));
+  assert.equal(sources.length, 60);
+  assert.equal(sourceById.size, 60);
+  assert.equal(new Set(sources.map((source) => source.episode)).size, 60);
+  assert.ok(sources.every((source) => !sharedQuoteBank.some((shared) => shared.id === source.id)));
+
+  // Check the published content against the raw archive, independently of the
+  // app's loader. ASR fragments may be joined, but no words may be invented.
   const globalSpeakerByHost = { geoff: "G01", andrew: "G02", gavin: "G03", eric: "G04" };
-  for (const source of extraQuoteBank) {
-    const transcriptText = await readFile(
-      new URL(`../../data/transcripts/${source.sourceFile}`, import.meta.url),
+  for (const source of sources) {
+    const transcript = JSON.parse(await readFile(
+      new URL("../../data/transcripts/" + encodeURIComponent(source.sourceFile), import.meta.url),
       "utf8",
-    );
-    const transcript = JSON.parse(transcriptText);
-    const segment = transcript.segments[source.segmentIndex];
-    assert.equal(segment.text.trim(), source.quote, `${source.id} must preserve the exact transcript text`);
-    assert.equal(segment.start, source.startSec, `${source.id} must preserve the transcript timestamp`);
-    assert.equal(
-      speakerMap.episodes[String(source.episode)][segment.speaker],
-      globalSpeakerByHost[source.speaker],
-      `${source.id} must preserve the canonical speaker mapping`,
-    );
-  }
-  assert.deepEqual(
-    Object.fromEntries(
-      ["easy", "medium", "hard"].map((difficulty) => [
-        difficulty,
-        blankBank.filter((item) => item.difficulty === difficulty).length,
-      ]),
-    ),
-    { easy: 10, medium: 20, hard: 20 },
-  );
+    ));
+    const segments = transcript.segments;
+    const fullText = segments.map((segment) => segment.text.trim()).join(" ");
+    const covered = segments.slice(source.segmentIndex, source.endSegmentIndex + 1);
+    assert.ok(covered.length > 0, source.id);
+    assert.equal(source.episode, transcript.index);
+    assert.equal(source.title, transcript.title);
+    assert.equal(source.published, transcript.pub_date.slice(0, 10));
+    assert.equal(covered.map((segment) => segment.text.trim()).join(" "), source.quote, source.id);
+    assert.equal(fullText.slice(source.startChar, source.endChar), source.quote, source.id);
+    assert.equal(covered[0].start, source.startSec);
+    assert.equal(covered.at(-1).end, source.endSec);
+    for (const segment of covered) {
+      assert.equal(speakerMap[source.episode][segment.speaker], globalSpeakerByHost[source.speaker], source.id);
+    }
 
-  assert.deepEqual(
-    Object.fromEntries(
-      ["geoff", "andrew", "gavin", "eric"].map((speaker) => [
-        speaker,
-        blankBank.filter((item) => quoteById.get(item.quoteId)?.speaker === speaker).length,
-      ]),
-    ),
-    { geoff: 13, andrew: 12, gavin: 12, eric: 13 },
-  );
-
-  for (const item of blankBank) {
-    const source = quoteById.get(item.quoteId);
-    assert.ok(source, `Missing source quote for ${item.id}`);
-    const prompt = item.excerpt ?? source.quote;
-    assert.ok(source.quote.includes(prompt), `${item.id} excerpt must be verbatim`);
-    assert.ok(prompt.length <= 145, `${item.id} prompt is too long (${prompt.length})`);
-    assert.equal(prompt.split(item.answer).length - 1, 1, `${item.id} must blank one exact span`);
-    assert.equal(item.distractors.length, 3);
-    assert.equal(new Set(item.distractors.map((distractor) => distractor.toLowerCase())).size, 3);
-    const options = [item.answer, ...item.distractors];
-    assert.equal(
-      new Set(options.map((option) => option.toLowerCase())).size,
-      4,
-    );
-    for (const option of options) {
-      assert.equal(option, option.trim(), `${item.id} has padded choice text`);
-      const wordCount = option.trim().split(/\s+/).length;
-      assert.ok(wordCount >= 1 && wordCount <= 3, `${item.id} choice has ${wordCount} words: ${option}`);
+    assert.equal(source.leadIn.length, 3, source.id);
+    let previousEnd = -1;
+    for (const line of source.leadIn) {
+      assert.equal(fullText.slice(line.startChar, line.endChar), line.text, source.id);
+      assert.ok(line.startChar > previousEnd && line.endChar < source.startChar, source.id);
+      assert.ok(line.segmentIndex <= line.endSegmentIndex && line.endSegmentIndex < source.segmentIndex, source.id);
+      const first = segments[line.segmentIndex];
+      assert.equal(line.startSec, first.start, source.id);
+      assert.ok(line.startSec < source.startSec, source.id);
+      for (const segment of segments.slice(line.segmentIndex, line.endSegmentIndex + 1)) {
+        const mappedName = speakerNames[speakerMap[source.episode][segment.speaker]]?.name ?? "Unidentified speaker";
+        assert.equal(line.speaker, mappedName, source.id);
+      }
+      assert.notEqual(line.speaker, "Ad");
+      assert.doesNotMatch(line.text, /Via Rail|Sip responsibly|Prime presents/i);
+      previousEnd = line.endChar;
     }
   }
-  const retiredFillerAnswers = new Set(["I'm assuming", "I guess", "I think", "apparently"]);
   assert.deepEqual(
-    blankBank.filter((item) => retiredFillerAnswers.has(item.answer)).map((item) => item.id),
-    [],
+    Object.fromEntries(["easy", "medium", "hard"].map((difficulty) => [
+      difficulty, blankBank.filter((item) => item.difficulty === difficulty).length,
+    ])),
+    { easy: 15, medium: 25, hard: 20 },
   );
+  for (const host of Object.keys(globalSpeakerByHost)) {
+    assert.ok(sources.filter((source) => source.speaker === host).length >= 5, host);
+  }
+
+  for (const item of blankBank) {
+    const source = sourceById.get(item.quoteId);
+    assert.ok(source, "Missing source quote for " + item.id);
+    const prompt = item.excerpt ?? source.quote;
+    assert.ok(source.quote.includes(prompt), item.id + " excerpt must be verbatim");
+    assert.ok(prompt.length <= 145, item.id + " prompt is too long");
+    assert.equal(prompt.split(item.answer).length - 1, 1, item.id + " must blank one exact span");
+    assert.equal(item.difficulty, source.difficulty);
+    assert.equal(item.answer, item.answer.trim(), item.id + " has padded answer text");
+    const wordCount = item.answer.split(/\s+/).length;
+    assert.ok(wordCount >= 1 && wordCount <= 3, item.id + " has a long answer: " + item.answer);
+    assert.equal(item.distractors, undefined, item.id + " still carries multiple-choice distractors");
+    for (const form of item.accept ?? []) {
+      assert.ok(isSolved(judgeGuess(form, item)), item.id + " accept form must match: " + form);
+      assert.ok(!isSolved(judgeGuess(form, { answer: item.answer })), item.id + " alias is already accepted by the matcher: " + form);
+    }
+    for (const form of item.reject ?? []) {
+      assert.ok(!isSolved(judgeGuess(form, item)), item.id + " reject form must not match: " + form);
+    }
+  }
 
   assert.match(roundSource, /easy:\s*3/);
   assert.match(roundSource, /medium:\s*4/);
@@ -267,19 +219,24 @@ test("keeps the fill-in-the-blank bank curated and transcript-grounded", async (
   assert.match(component, /pickBlankRound\(avoidIds, removalIds\)/);
   assert.match(component, /Three preceding transcript lines followed by the restored quote/);
   assert.match(component, /Said by \{correctProfile\.name\}/);
-  assert.match(component, /handleShortcut/);
+  assert.match(component, /judgeGuess/);
+  assert.match(component, /autoCorrect="off"/);
+  assert.match(component, /logBlankGuess/);
   assert.match(component, /window\.localStorage/);
   assert.match(component, /archive punchline reconstruction/);
   assert.doesNotMatch(component, /\{source\.topic\}/);
-  assert.match(component, /sausage-finger gloves/);
-  assert.match(preferencesSource, /regulation-fill-blank-removals-v3/);
+  assert.match(component, /const EXAMPLE_QUESTION = FILL_BLANK_BANK\.find/);
+  assert.match(preferencesSource, /regulation-fill-blank-removals-v5/);
+  assert.match(preferencesSource, /regulation-fill-blank-guesses-v1/);
   assert.match(preferencesSource, /normalizeBlankRemovalIds/);
   assert.match(preferencesSource, /KNOWN_BLANK_IDS/);
   assert.match(bankBrowserSource, /navigator\.clipboard\.writeText/);
   assert.match(bankBrowserSource, /window\.addEventListener\("storage"/);
   assert.match(bankBrowserSource, /aria-pressed=\{isMarked\}/);
   assert.match(bankBrowserSource, /Copy removal list/);
-  assert.match(styles, /\.blank-choice-grid/);
+  assert.match(styles, /\.blank-answer-panel/);
+  assert.match(styles, /\.blank-tile \{/);
+  assert.doesNotMatch(styles, /\.blank-choice/);
   assert.match(styles, /\.blank-restored-line/);
   assert.match(styles, /\.blank-review/);
   assert.match(styles, /\.blank-bank-card\.is-marked/);

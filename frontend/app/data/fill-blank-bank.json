@@ -1,386 +1,463 @@
 [
   {
-    "id": "punchline-geoff-wet-dog-puke",
-    "quoteId": "raw-geoff-wet-dog-puke",
-    "answer": "wet dog puke",
-    "distractors": ["cold cat vomit", "warm raccoon piss", "stale horse spit"],
+    "id": "fresh-curtains",
+    "quoteId": "transcript-curtains",
+    "answer": "shower curtains",
+    "accept": [
+      "curtains"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "fresh-blood-relative",
+    "quoteId": "transcript-blood-relative",
+    "excerpt": "blood is thicker than water, but it's not, it's not thicker than gravy.",
+    "answer": "gravy",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fresh-sleep-restraint",
+    "quoteId": "transcript-sleep-restraint",
+    "answer": "kidnapping myself",
     "difficulty": "hard"
   },
   {
-    "id": "punchline-geoff-bovril-empire",
-    "quoteId": "geoff-bovril-empire",
-    "excerpt": "By 1968, the Bovril Empire owned Argentinian beef ranches that totaled the equivalent of half the size of England.",
-    "answer": "Bovril Empire",
-    "distractors": ["Marmite Empire", "OXO Empire", "Spam Empire"],
+    "id": "fresh-daily-countdown",
+    "quoteId": "transcript-daily-countdown",
+    "answer": "snake",
     "difficulty": "hard"
   },
   {
-    "id": "punchline-geoff-hot-dog-gloves",
-    "quoteId": "geoff-hot-dog-glove-catch",
-    "excerpt": "Just try to have a game of catch with a bunch of hot dog gloves and baseballs. Why wouldn't we do that?",
-    "answer": "hot dog gloves",
-    "distractors": ["lobster-claw mitts", "giant foam hands", "sausage-finger gloves"],
+    "id": "fresh-bat-credentials",
+    "quoteId": "transcript-bat-credentials",
+    "answer": "bat enthusiast",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fresh-passport-subject",
+    "quoteId": "transcript-passport-subject",
+    "excerpt": "I've never taken a passport photo for a goose before.",
+    "answer": "goose",
+    "accept": [
+      "geese"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "fresh-primate-cinema",
+    "quoteId": "transcript-primate-cinema",
+    "answer": "Andy Serkis",
+    "accept": [
+      "Serkis"
+    ],
     "difficulty": "easy"
   },
   {
-    "id": "punchline-geoff-display-toilet",
-    "quoteId": "geoff-display-toilet",
-    "excerpt": "If I really had to pee, would I piss in a display toilet?",
-    "answer": "display toilet",
-    "distractors": ["showroom bidet", "display urinal", "demo bathtub"],
+    "id": "fresh-yard-refreshment",
+    "quoteId": "transcript-yard-refreshment",
+    "excerpt": "I can't think of anything more quenching after 350 baseballs than beans that have been sitting in your yard for a day.",
+    "answer": "beans",
     "difficulty": "medium"
   },
   {
-    "id": "punchline-geoff-pizza-bones",
-    "quoteId": "geoff-pizza-bones",
-    "excerpt": "I've never heard pizza crust referred to as pizza bones before in my entire life.",
-    "answer": "pizza bones",
-    "distractors": ["crust handles", "bread ribs", "dough skeleton"],
+    "id": "fresh-tap-replacement",
+    "quoteId": "transcript-tap-replacement",
+    "answer": "milk",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fresh-buried-dessert",
+    "quoteId": "transcript-buried-dessert",
+    "answer": "jelly bean hole",
     "difficulty": "easy"
   },
   {
-    "id": "punchline-geoff-second-wave",
-    "quoteId": "geoff-second-wave-fart",
-    "excerpt": "“No, no, there's more to me than that,” and then comes back with a second wave of fart.",
-    "answer": "second wave",
-    "distractors": ["victory lap", "bonus round", "parting shot"],
+    "id": "fresh-planet-purpose",
+    "quoteId": "transcript-planet-purpose",
+    "answer": "bird toilet",
     "difficulty": "hard"
   },
   {
-    "id": "punchline-geoff-pickle-size",
-    "quoteId": "geoff-pickle-bag",
-    "excerpt": "a big-ass honking giant dill pickle the size of, like, a porn star's cock.",
-    "answer": "porn star's cock",
-    "distractors": ["baby's forearm", "police baton", "table leg"],
+    "id": "fresh-rock-star-meal",
+    "quoteId": "transcript-rock-star-meal",
+    "excerpt": "I made the Smash Mouth guy eat a shit ton of eggs.",
+    "answer": "eggs",
     "difficulty": "hard"
   },
   {
-    "id": "punchline-geoff-bloopy-trail",
-    "quoteId": "geoff-bloopy-trail",
-    "excerpt": "I shit all the way to the toilet—a trail of little bloopy turds.",
-    "answer": "little bloopy turds",
-    "distractors": ["tiny poop nuggets", "soft brown pellets", "miniature butt pebbles"],
-    "difficulty": "medium"
-  },
-  {
-    "id": "punchline-geoff-question-fart",
-    "quoteId": "raw-geoff-question-fart",
-    "answer": "perfect question fart",
-    "distractors": ["three-act story fart", "formal apology fart", "victory lap fart"],
-    "difficulty": "hard"
-  },
-  {
-    "id": "punchline-geoff-dog-shit",
-    "quoteId": "geoff-possum-anus",
-    "excerpt": "And I've never seen a cat turd come close to that. That is 50-pound dog shit right there.",
-    "answer": "50-pound dog shit",
-    "distractors": ["full-grown bear shit", "small-horse shit", "human-sized raccoon shit"],
-    "difficulty": "medium"
-  },
-  {
-    "id": "punchline-geoff-waxing-pact",
-    "quoteId": "geoff-ass-waxing-pact",
-    "excerpt": "But what if we go get our assholes waxed together?",
-    "answer": "assholes waxed together",
-    "distractors": ["backs tattooed together", "nipples pierced together", "teeth whitened together"],
-    "difficulty": "medium"
-  },
-  {
-    "id": "punchline-geoff-toilet-race",
-    "quoteId": "geoff-toilet-clog-race",
-    "excerpt": "This may be the best invention in the history of F**kface, but do you think we could pull off a contest to see who could clog a toilet first?",
-    "answer": "clog a toilet",
-    "distractors": ["flood a bathroom", "break a plunger", "fill a bathtub"],
-    "difficulty": "medium"
-  },
-  {
-    "id": "punchline-andrew-pepsi-hotline",
-    "quoteId": "andrew-pepsi-hotline",
-    "excerpt": "The next day I posted a random photo of a Donkey Kong character and another number, this time to the Pepsi 1-800 number.",
-    "answer": "Pepsi 1-800 number",
-    "distractors": ["Nintendo tip line", "Coca-Cola complaint line", "Pizza Hut hotline"],
-    "difficulty": "medium"
-  },
-  {
-    "id": "punchline-andrew-ham-fan",
-    "quoteId": "andrew-ham-fan-golf",
-    "excerpt": "I just imagine someone getting ready to take a shot in golf, and then the entire crowd starts chanting, ‘Ham fan.’",
-    "answer": "Ham fan",
-    "distractors": ["Spam fan", "Beef chief", "Pork dork"],
-    "difficulty": "hard"
-  },
-  {
-    "id": "punchline-andrew-pubes-sunglasses",
-    "quoteId": "raw-andrew-pubes-sunglasses",
-    "answer": "pubes sunglasses",
-    "distractors": ["ass-hair toupees", "eyebrow mittens", "mustache earmuffs"],
-    "difficulty": "hard"
-  },
-  {
-    "id": "punchline-andrew-litter-tail",
-    "quoteId": "andrew-cat-litter-tail",
-    "excerpt": "Cat now has a tail of litter because it all stuck to it.",
-    "answer": "tail of litter",
-    "distractors": ["tail of glitter", "tail of flour", "tail of oatmeal"],
-    "difficulty": "medium"
-  },
-  {
-    "id": "punchline-andrew-battle-bus",
-    "quoteId": "andrew-inflatable-battle-bus",
-    "excerpt": "The most expensive thing they had was a 19-foot-long, 18-foot-high battle bus that you could inflate.",
-    "answer": "battle bus",
-    "distractors": ["pirate ship", "monster truck", "giant toilet"],
+    "id": "fresh-nightly-prayer",
+    "quoteId": "transcript-nightly-prayer",
+    "answer": "Alexa",
     "difficulty": "easy"
   },
   {
-    "id": "punchline-andrew-tokyo-drifting",
-    "quoteId": "raw-andrew-tokyo-drifting",
-    "answer": "Tokyo drifting",
-    "distractors": ["power sliding", "doing donuts", "street racing"],
+    "id": "fresh-qualified-champion",
+    "quoteId": "transcript-qualified-champion",
+    "answer": "bowel",
     "difficulty": "hard"
   },
   {
-    "id": "punchline-andrew-butt-shimmy",
-    "quoteId": "andrew-stair-butt-shimmy",
-    "excerpt": "Like a dog doing a butt shimmy across all my stairs.",
-    "answer": "butt shimmy",
-    "distractors": ["booty scoot", "crab shuffle", "carpet crawl"],
+    "id": "fresh-remote-button",
+    "quoteId": "transcript-remote-button",
+    "answer": "baseball bat",
+    "accept": [
+      "bat"
+    ],
     "difficulty": "medium"
   },
   {
-    "id": "punchline-andrew-meat-slurpee",
-    "quoteId": "andrew-meat-slurpee",
-    "excerpt": "Can we do a Slurpee Bovril? A meat Slurpee.",
-    "answer": "meat Slurpee",
-    "distractors": ["gravy slushie", "beef smoothie", "broth milkshake"],
+    "id": "fresh-pizza-score",
+    "quoteId": "transcript-pizza-score",
+    "answer": "waffle iron",
+    "accept": [
+      "waffle maker"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "fresh-future-shock",
+    "quoteId": "transcript-future-shock",
+    "answer": "Nintendo Switch",
+    "accept": [
+      "Switch"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "fresh-lid-down",
+    "quoteId": "transcript-lid-down",
+    "answer": "iPad",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fresh-throat-geometry",
+    "quoteId": "transcript-throat-geometry",
+    "answer": "inverse throat",
+    "accept": [
+      "reverse throat"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "fresh-cruise-navigation",
+    "quoteId": "transcript-cruise-navigation",
+    "answer": "in a circle",
+    "accept": [
+      "around in circles"
+    ],
     "difficulty": "easy"
   },
   {
-    "id": "punchline-andrew-banana-wipe",
-    "quoteId": "andrew-banana-wipes",
-    "excerpt": "What would a banana wipe look like?",
-    "answer": "banana wipe",
-    "distractors": ["potato sponge", "pickle cloth", "ham tissue"],
+    "id": "fresh-popcorn-proposal",
+    "quoteId": "transcript-popcorn-proposal",
+    "answer": "port-a-potty",
+    "accept": [
+      "porta-john",
+      "porta-loo",
+      "portable toilet"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "fresh-appliance-funding",
+    "quoteId": "transcript-appliance-funding",
+    "answer": "gambling",
+    "accept": [
+      "betting"
+    ],
     "difficulty": "medium"
   },
   {
-    "id": "punchline-andrew-pizza-hands",
-    "quoteId": "andrew-italian-pizza-hands",
-    "excerpt": "Every pizza I made, I got, like, Italian pizza hands, because I'd make a pizza and I'd grow confident.",
-    "answer": "Italian pizza hands",
-    "distractors": ["Chicago pizza hands", "Brooklyn pizza hands", "Neapolitan pizza hands"],
+    "id": "fresh-raccoon-chef",
+    "quoteId": "transcript-raccoon-chef",
+    "answer": "Anthony Bourdain",
+    "accept": [
+      "Bourdain"
+    ],
     "difficulty": "hard"
   },
   {
-    "id": "punchline-andrew-toeless-socks",
-    "quoteId": "andrew-toeless-socks",
-    "excerpt": "Toe-less socks. I realized I hate pants because I feel confined with my legs.",
-    "answer": "Toe-less socks",
-    "distractors": ["Fingerless trousers", "Backless shoes", "Sleeveless socks"],
+    "id": "fresh-daily-utensil",
+    "quoteId": "transcript-daily-utensil",
+    "answer": "toilet scrubber",
+    "accept": [
+      "toilet brush"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "fresh-cinema-training",
+    "quoteId": "transcript-cinema-training",
+    "answer": "training",
     "difficulty": "hard"
   },
   {
-    "id": "punchline-gavin-piss-hole",
-    "quoteId": "gavin-bed-toilet",
-    "excerpt": "A piss hole in the mattress, or some sort of levers and pulley system à la Wallace and Gromit",
-    "answer": "piss hole",
-    "distractors": ["toilet hatch", "urine funnel", "bedpan chute"],
+    "id": "fresh-ghost-reboot",
+    "quoteId": "transcript-ghost-reboot",
+    "answer": "ASMR channel",
+    "accept": [
+      "ASMR"
+    ],
     "difficulty": "easy"
   },
   {
-    "id": "punchline-gavin-parsnip-fork",
-    "quoteId": "gavin-roast-one-fork",
-    "excerpt": "Imagine a hunk of roast beef through a roast potato, with a bit of parsnip into horseradish, on one fork.",
-    "answer": "parsnip into horseradish",
-    "distractors": ["carrot through gravy", "stuffing into mustard", "potato through custard"],
+    "id": "fresh-hardware-dealer",
+    "quoteId": "transcript-hardware-dealer",
+    "answer": "hot dog guy",
+    "accept": [
+      "hot dog man",
+      "hot dog vendor"
+    ],
     "difficulty": "hard"
   },
   {
-    "id": "punchline-gavin-potato-frowns",
-    "quoteId": "raw-gavin-potato-frowns",
-    "answer": "potato frowns",
-    "distractors": ["waffle scowls", "pickle grimaces", "nugget sneers"],
-    "difficulty": "medium"
-  },
-  {
-    "id": "punchline-gavin-shampoo-butt",
-    "quoteId": "gavin-shampoo-bottle-game",
-    "excerpt": "I like the idea of having to remove the shampoo bottle from the butt, but every game ships without that piece.",
-    "answer": "from the butt",
-    "distractors": ["from the toaster", "from a drainpipe", "from a mannequin"],
+    "id": "fresh-monkey-ethics",
+    "quoteId": "transcript-monkey-ethics",
+    "answer": "ride the skateboard",
+    "accept": [
+      "skateboard"
+    ],
     "difficulty": "hard"
   },
   {
-    "id": "punchline-gavin-eat-pencil",
-    "quoteId": "gavin-charity-pencil",
-    "excerpt": "What if you raised a hundred grand for Nick's charity to eat the pencil?",
+    "id": "fresh-sneeze-feedback",
+    "quoteId": "transcript-sneeze-feedback",
+    "excerpt": "I need to adjust my sneeze instinct because I ended up sneezing directly into the fan and then it just blasts back.",
+    "answer": "the fan",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fresh-back-business",
+    "quoteId": "transcript-back-business",
+    "answer": "play chess",
+    "accept": [
+      "chess"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "fresh-basket-market",
+    "quoteId": "transcript-basket-market",
+    "answer": "weaver dies",
+    "accept": [
+      "weaver is dead"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "fresh-alter-ego",
+    "quoteId": "transcript-alter-ego",
+    "answer": "wore hats",
+    "accept": [
+      "wear hats"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "fresh-fridge-souvenir",
+    "quoteId": "transcript-fridge-souvenir",
+    "answer": "fridge magnet",
+    "accept": [
+      "refrigerator magnet"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": "fresh-self-appointed-judge",
+    "quoteId": "transcript-self-appointed-judge",
     "answer": "eat the pencil",
-    "distractors": ["swallow a crayon", "lick a battery", "bite a stapler"],
     "difficulty": "easy"
   },
   {
-    "id": "punchline-gavin-flying-hot-dogs",
-    "quoteId": "gavin-flying-hot-dogs",
-    "excerpt": "I'm stepping over waffle makers, dog toasters, dodging flying hot dogs.",
-    "answer": "flying hot dogs",
-    "distractors": ["airborne corn dogs", "incoming sausages", "loose pizza rolls"],
+    "id": "fresh-snake-alert",
+    "quoteId": "transcript-snake-alert",
+    "answer": "Usain Bolt",
+    "accept": [
+      "Bolt"
+    ],
     "difficulty": "easy"
   },
   {
-    "id": "punchline-gavin-dick-out",
-    "quoteId": "gavin-dick-out-sequel",
-    "excerpt": "You think Sitting With Your Dick Out is the best sequel to Sitting Normally?",
-    "answer": "Dick Out",
-    "distractors": ["Shoes On", "Legs Crossed", "Hat Backwards"],
-    "difficulty": "medium"
-  },
-  {
-    "id": "punchline-gavin-nugget-steak",
-    "quoteId": "gavin-nugget-steak",
-    "excerpt": "Like, if you had a big nugget steak, would it be less delicious?",
-    "answer": "nugget steak",
-    "distractors": ["chicken brick", "breaded roast", "crispy meatloaf"],
-    "difficulty": "medium"
-  },
-  {
-    "id": "punchline-gavin-shampoo-alibi",
-    "quoteId": "gavin-shampoo-alibi",
-    "excerpt": "Do you think if it wasn't his ass, he tells his partner that shampoo was up his ass, or does he just pretend it can happen?",
-    "answer": "up his ass",
-    "distractors": ["inside the toaster", "behind the toilet", "under his pillow"],
-    "difficulty": "medium"
-  },
-  {
-    "id": "punchline-gavin-wax-pills",
-    "quoteId": "raw-gavin-wax-pills",
-    "answer": "wax pills",
-    "distractors": ["grease capsules", "paraffin pellets", "candle tablets"],
-    "difficulty": "hard"
-  },
-  {
-    "id": "punchline-gavin-news-waffle",
-    "quoteId": "gavin-news-waffle",
-    "excerpt": "What if there was a waffle machine that had some sort of way to change the top structure, and every morning the news would be on your waffle?",
-    "answer": "on your waffle",
-    "distractors": ["printed on bacon", "inside your toast", "broadcast through cereal"],
-    "difficulty": "hard"
-  },
-  {
-    "id": "punchline-geoff-dick-shelf",
-    "quoteId": "raw-geoff-dick-shelf",
-    "answer": "dick shelf",
-    "distractors": ["gooch ledge", "ball balcony", "pube awning"],
-    "difficulty": "hard"
-  },
-  {
-    "id": "punchline-andrew-double-barrel",
-    "quoteId": "raw-andrew-double-barrel",
-    "answer": "double barrel dick",
-    "distractors": ["side-by-side cock", "twin-nozzle penis", "dual-chamber hog"],
-    "difficulty": "medium"
-  },
-  {
-    "id": "punchline-gavin-meaty-sparrow",
-    "quoteId": "raw-gavin-meaty-sparrow",
-    "answer": "really meaty ass",
-    "distractors": ["secret dump truck", "huge muscular butt", "powerful little gooch"],
-    "difficulty": "medium"
-  },
-  {
-    "id": "punchline-eric-crazy-frog",
-    "quoteId": "eric-crazy-frog",
-    "excerpt": "Did you know that you can see Crazy Frog's dick?",
-    "answer": "Crazy Frog's dick",
-    "distractors": ["Sonic's bare feet", "Mario's nipples", "Pac-Man's teeth"],
+    "id": "fresh-nursery-logic",
+    "quoteId": "transcript-nursery-logic",
+    "excerpt": "who would try to put an egg back together?",
+    "answer": "egg",
     "difficulty": "easy"
   },
   {
-    "id": "punchline-eric-cherry-spaghetti",
-    "quoteId": "eric-cherry-spaghetti",
-    "excerpt": "To me, it's when he's giving her a name, and it's Cherry Roosevelt Fat Boso Chowing Spaghetti.",
-    "answer": "Chowing Spaghetti",
-    "distractors": ["Eating Lasagna", "Drinking Gravy", "Chewing Meatballs"],
-    "difficulty": "hard"
-  },
-  {
-    "id": "punchline-eric-break-shit",
-    "quoteId": "eric-dbox-break-shit",
-    "excerpt": "Right after we do Break Shit, we're going and seeing fucking Fast & Furious 9 in D-Box.",
-    "answer": "Break Shit",
-    "distractors": ["Smash Trash", "Kick Furniture", "Punch Dinner"],
-    "difficulty": "medium"
-  },
-  {
-    "id": "punchline-eric-cheese-sock",
-    "quoteId": "raw-eric-cheese-sock",
-    "answer": "cheese sock",
-    "distractors": ["gravy glove", "pickle sleeve", "ham mitten"],
-    "difficulty": "hard"
-  },
-  {
-    "id": "punchline-eric-goat-milk",
-    "quoteId": "eric-goat-milk-hot-dog",
-    "excerpt": "A quarter-pound all-beef hot dog with chopped peppers, onions, bacon, and brown mustard, submerged in a glass of 100% whole goat milk.",
-    "answer": "goat milk",
-    "distractors": ["pickle brine", "nacho cheese", "beef gravy"],
-    "difficulty": "hard"
-  },
-  {
-    "id": "punchline-eric-potato-patent",
-    "quoteId": "eric-potato-patent",
-    "excerpt": "PepsiCo sued some Indian farmers for cultivating the FC5 potato variety, accusing growers of infringing on their potato patent.",
-    "answer": "potato patent",
-    "distractors": ["turnip trademark", "carrot copyright", "parsnip license"],
-    "difficulty": "medium"
-  },
-  {
-    "id": "punchline-eric-rat-boy",
-    "quoteId": "eric-rat-boy-trailer",
-    "excerpt": "It's a trailer for a movie called Rat Boy where it's just a very rat-looking boy.",
-    "answer": "Rat Boy",
-    "distractors": ["Mole Child", "Ferret Kid", "Lizard Lad"],
+    "id": "fresh-waxing-report",
+    "quoteId": "transcript-waxing-report",
+    "answer": "Larry David",
+    "accept": [
+      "David"
+    ],
     "difficulty": "easy"
   },
   {
-    "id": "punchline-eric-speed-bag",
-    "quoteId": "raw-eric-speed-bag",
-    "answer": "speed bag",
-    "distractors": ["power wash", "jump-start", "steam clean"],
-    "difficulty": "medium"
-  },
-  {
-    "id": "punchline-eric-gremlin-rat",
-    "quoteId": "raw-eric-gremlin-rat",
-    "answer": "cum slurping",
-    "distractors": ["gravy guzzling", "cheese stealing", "soup huffing"],
-    "difficulty": "medium"
-  },
-  {
-    "id": "punchline-eric-cum-era",
-    "quoteId": "raw-eric-cum-era",
-    "answer": "cum era",
-    "distractors": ["gooch era", "egg era", "rat era"],
-    "difficulty": "hard"
-  },
-  {
-    "id": "punchline-eric-corn-dog-bird",
-    "quoteId": "raw-eric-corn-dog-bird",
-    "answer": "corn dog",
-    "distractors": ["pizza roll", "onion ring", "mozzarella stick"],
+    "id": "fresh-bulk-buy",
+    "quoteId": "transcript-bulk-buy",
+    "answer": "toilet paper",
+    "accept": [
+      "bog roll",
+      "loo roll",
+      "toilet roll"
+    ],
     "difficulty": "easy"
   },
   {
-    "id": "punchline-eric-poop-nose",
-    "quoteId": "raw-eric-poop-nose",
-    "answer": "poop nose",
-    "distractors": ["butt snout", "fart face", "turd beak"],
+    "id": "fresh-rabbit-legend",
+    "quoteId": "transcript-rabbit-legend",
+    "answer": "Olive Garden",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fresh-hybrid-breakfast",
+    "quoteId": "transcript-hybrid-breakfast",
+    "answer": "paffle",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fresh-alarm-strategy",
+    "quoteId": "transcript-alarm-strategy",
+    "answer": "bathtub",
+    "accept": [
+      "bath",
+      "tub"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "fresh-trust-issues",
+    "quoteId": "transcript-trust-issues",
+    "answer": "regulation fart",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fresh-icing-endgame",
+    "quoteId": "transcript-icing-endgame",
+    "answer": "sleeping on cake",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fresh-pasta-texture",
+    "quoteId": "transcript-pasta-texture",
+    "answer": "al dente",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fresh-pitching-aid",
+    "quoteId": "transcript-pitching-aid",
+    "answer": "Icy Hot",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fresh-sleep-accessory",
+    "quoteId": "transcript-sleep-accessory",
+    "answer": "hostage tape",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fresh-dessert-dispenser",
+    "quoteId": "transcript-dessert-dispenser",
+    "answer": "fire extinguisher",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fresh-midlife-bmx",
+    "quoteId": "transcript-midlife-bmx",
+    "answer": "clown bicycle",
+    "accept": [
+      "clown bike"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "fresh-shower-stance",
+    "quoteId": "transcript-shower-stance",
+    "answer": "waterboarding",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fresh-condiment-launch",
+    "quoteId": "transcript-condiment-launch",
+    "answer": "slip and slide",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fresh-memoir-chapter",
+    "quoteId": "transcript-memoir-chapter",
+    "answer": "burger confidence",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fresh-charity-pencil",
+    "quoteId": "transcript-charity-pencil",
+    "answer": "MRI machine",
+    "accept": [
+      "MRI"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "fresh-fraud-alert",
+    "quoteId": "transcript-fraud-alert",
+    "answer": "pillow guy",
+    "accept": [
+      "pillow man"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "fresh-printer-test",
+    "quoteId": "transcript-printer-test",
+    "answer": "hockey law",
+    "accept": [
+      "NHL law"
+    ],
     "difficulty": "hard"
   },
   {
-    "id": "punchline-eric-human-ass",
-    "quoteId": "raw-eric-human-ass",
-    "answer": "human ass",
-    "distractors": ["primate butt", "tiny gooch", "little dump truck"],
-    "difficulty": "medium"
+    "id": "fresh-office-fungus",
+    "quoteId": "transcript-office-fungus",
+    "answer": "carpet mushrooms",
+    "difficulty": "hard"
+  },
+  {
+    "id": "fresh-legal-loophole",
+    "quoteId": "transcript-legal-loophole",
+    "answer": "horse murder",
+    "difficulty": "hard"
+  },
+  {
+    "id": "fresh-scent-cover",
+    "quoteId": "transcript-scent-cover",
+    "answer": "asparagus",
+    "difficulty": "hard"
+  },
+  {
+    "id": "fresh-race-tactics",
+    "quoteId": "transcript-race-tactics",
+    "answer": "shell",
+    "accept": [
+      "red shell",
+      "green shell",
+      "blue shell"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "fresh-floating-furniture",
+    "quoteId": "transcript-floating-furniture",
+    "answer": "milk icicles",
+    "difficulty": "hard"
+  },
+  {
+    "id": "fresh-dinklage-tape",
+    "quoteId": "transcript-dinklage-tape",
+    "answer": "Dinklage's",
+    "accept": [
+      "Peter Dinklage's"
+    ],
+    "difficulty": "hard"
   }
 ]

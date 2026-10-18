@@ -49,13 +49,18 @@ The primary routes are:
 
 - `/` — game
 - `/who-said-it` — direct game URL
-- `/blank` — ten-question transcript fill-in-the-blank game
+- `/blank` — ten-question typed-answer transcript fill-in-the-blank game
+- `/blank/bank` — all 60 blanks, accepted answers, a guess tester, and source context
 - `/who-said-it/bank` — fully attributed quote bank
 
-The fill-in-the-blank game has its own curated 50-question bank and reuses the
-verified speaker, episode, timestamp, and three-line transcript context from the
-Who Said It archive. See `FILL_BLANK_DESIGN.md` for the interaction and curation
-rules.
+The fill-in-the-blank game has 60 questions from 60 distinct episodes, stored
+in `app/data/fill-blank-bank.json`. Players type the missing words, and
+`app/fill-blank-match.ts` forgives case, punctuation, articles, plurals,
+per-question aliases, and small typos. Its independent
+`app/data/fill-blank-sources.json` records exact transcript passages, segment
+ranges, timestamps, speaker mappings, and three preceding sentences. Tests
+verify these against the raw archive. See `FILL_BLANK_DESIGN.md` for the
+interaction and curation rules.
 
 ## Validation
 

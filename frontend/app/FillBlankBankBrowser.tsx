@@ -9,8 +9,12 @@ import {
   type FillBlankQuestion,
 } from "./fill-blank-data";
 import { BLANK_DIFFICULTY_TARGETS } from "./fill-blank-round";
+import { judgeGuess, type MatchResult } from "./fill-blank-match";
 import {
+  BLANK_GUESSES_STORAGE_KEY,
   BLANK_REMOVALS_STORAGE_KEY,
+  clearBlankGuessLog,
+  readBlankGuessLog,
   readBlankRemovalIds,
   writeBlankRemovalIds,
 } from "./fill-blank-preferences";
@@ -52,20 +56,54 @@ const SEARCH_TEXT_BY_ID = new Map(
       question.source.episode,
       HOST_PROFILES[question.source.speaker].name,
       question.answer,
-      ...question.options,
+      ...question.accept,
+      ...question.reject,
       ...question.source.leadIn.flatMap((line) => [line.speaker, line.text]),
     ].join(" ").toLocaleLowerCase(),
   ]),
 );
-const DISPLAY_OPTIONS_BY_ID = new Map(
-  FILL_BLANK_BANK.map((question, index) => {
-    const shift = index % question.options.length;
-    return [
-      question.id,
-      [...question.options.slice(shift), ...question.options.slice(0, shift)],
-    ];
-  }),
-);
+const VERDICT_LABELS: Record<MatchResult["reason"], string> = {
+  exact: "Exact match",
+  plural: "Accepted · plural",
+  alias: "Accepted · alias",
+  typo: "Accepted · typo",
+  near: "Near miss · free retry",
+  rejected: "Wrong · on reject list",
+  wrong: "Wrong",
+  empty: "",
+};
+
+function GuessTester({ question }: { question: FillBlankQuestion }) {
+  const [guess, setGuess] = useState("");
+  const result = guess.trim() ? judgeGuess(guess, question) : null;
+  return (
+    <label className="blank-bank-tester">
+      <span>Try a guess</span>
+      <input
+        type="text"
+        value={guess}
+        onChange={(event) => setGuess(event.target.value)}
+        autoComplete="off"
+        autoCorrect="off"
+        autoCapitalize="none"
+        spellCheck={false}
+        placeholder="type to test the matcher"
+      />
+      <output className={result ? `verdict-${result.verdict}` : undefined} aria-live="polite">
+        {result && (
+          <>
+            {VERDICT_LABELS[result.reason]}
+            {result.distance !== null && result.distance > 0 && ` · distance ${result.distance}`}
+          </>
+        )}
+      </output>
+    </label>
+  );
+}
+
+function suggestedAccept(question: FillBlankQuestion, guess: string): string {
+  return `"${question.id}": "accept": ${JSON.stringify([...question.accept, guess])}`;
+}
 
 function removalList(questions: FillBlankQuestion[]): string {
   return questions.map((question) => (
@@ -82,12 +120,17 @@ export default function FillBlankBankBrowser({ mappedEpisodes }: { mappedEpisode
   const [markedIds, setMarkedIds] = useState<Set<string>>(new Set());
   const [notice, setNotice] = useState("");
   const [copyFallback, setCopyFallback] = useState(false);
+  const [guessLog, setGuessLog] = useState<Record<string, string[]>>({});
 
   useEffect(() => {
-    const initialSync = window.setTimeout(() => setMarkedIds(readBlankRemovalIds()), 0);
+    const initialSync = window.setTimeout(() => {
+      setMarkedIds(readBlankRemovalIds());
+      setGuessLog(readBlankGuessLog());
+    }, 0);
 
     function syncAcrossTabs(event: StorageEvent) {
       if (event.key === BLANK_REMOVALS_STORAGE_KEY) setMarkedIds(readBlankRemovalIds());
+      if (event.key === BLANK_GUESSES_STORAGE_KEY) setGuessLog(readBlankGuessLog());
     }
 
     window.addEventListener("storage", syncAcrossTabs);
@@ -110,10 +153,12 @@ export default function FillBlankBankBrowser({ mappedEpisodes }: { mappedEpisode
       const isMarked = markedIds.has(question.id);
       const matchesRemoval = removalFilter === "all"
         || (removalFilter === "marked" ? isMarked : !isMarked);
-      const haystack = SEARCH_TEXT_BY_ID.get(question.id) ?? "";
+      const haystack = (SEARCH_TEXT_BY_ID.get(question.id) ?? "")
+        + " " + (guessLog[question.id] ?? []).join(" ").toLocaleLowerCase();
       return matchesHost && matchesDifficulty && matchesRemoval && (!needle || haystack.includes(needle));
     });
-  }, [difficulty, host, markedIds, query, removalFilter]);
+  }, [difficulty, guessLog, host, markedIds, query, removalFilter]);
+  const loggedGuessCount = Object.values(guessLog).reduce((total, guesses) => total + guesses.length, 0);
 
   const emergencyFillers = useMemo(() => DIFFICULTIES.reduce((total, level) => {
     const unmarked = FILL_BLANK_BANK.filter(
@@ -152,6 +197,22 @@ export default function FillBlankBankBrowser({ mappedEpisodes }: { mappedEpisode
     setNotice("Cleared every local removal mark.");
   }
 
+  function clearGuesses() {
+    clearBlankGuessLog();
+    setGuessLog({});
+    setNotice("Cleared every logged guess on this device.");
+  }
+
+  async function copySuggestion(question: FillBlankQuestion, guess: string) {
+    const text = suggestedAccept(question, guess);
+    try {
+      await navigator.clipboard.writeText(text);
+      setNotice(`Copied an accept entry for “${guess}”.`);
+    } catch {
+      setNotice(`Copy unavailable. Add to ${question.id}: ${text}`);
+    }
+  }
+
   async function copyMarkedQuestions() {
     if (!copiedText) return;
     try {
@@ -187,7 +248,7 @@ export default function FillBlankBankBrowser({ mappedEpisodes }: { mappedEpisode
           <p className="blank-kicker">Curator desk / spoilers everywhere</p>
           <h1>Review all <strong>{FILL_BLANK_BANK.length}</strong> damaged files.</h1>
           <p>
-            Inspect every blank, decoy, answer, and source. Mark anything that should leave the game,
+            Inspect every blank, accepted spelling, logged guess, and source. Test the matcher on any file. Mark anything that should leave the game,
             then copy the resulting list when you want the source bank cleaned permanently.
           </p>
         </div>
@@ -200,12 +261,12 @@ export default function FillBlankBankBrowser({ mappedEpisodes }: { mappedEpisode
 
       <section className="blank-bank-controls" aria-label="Fill in the blank bank filters">
         <label className="blank-bank-search">
-          <span>Search blanks, answers, decoys, episodes, or IDs</span>
+          <span>Search blanks, answers, aliases, logged guesses, episodes, or IDs</span>
           <input
             type="search"
             value={query}
             onChange={(event) => setQuery(event.target.value)}
-            placeholder="Try: toilet, Bovril, Episode 42, punchline-pickle..."
+            placeholder="Try: fridge, Alexa, Episode 158..."
           />
         </label>
 
@@ -241,6 +302,7 @@ export default function FillBlankBankBrowser({ mappedEpisodes }: { mappedEpisode
           <div className="blank-bank-actions">
             <button type="button" onClick={copyMarkedQuestions} disabled={markedIds.size === 0}>Copy removal list</button>
             <button type="button" onClick={clearMarks} disabled={markedIds.size === 0}>Clear marks</button>
+            <button type="button" onClick={clearGuesses} disabled={loggedGuessCount === 0}>Clear {loggedGuessCount} logged guesses</button>
           </div>
         </div>
 
@@ -263,7 +325,7 @@ export default function FillBlankBankBrowser({ mappedEpisodes }: { mappedEpisode
           const profile = HOST_PROFILES[question.source.speaker];
           const bankNumber = QUESTION_NUMBER_BY_ID.get(question.id) ?? 0;
           const isMarked = markedIds.has(question.id);
-          const displayOptions = DISPLAY_OPTIONS_BY_ID.get(question.id) ?? question.options;
+          const loggedGuesses = guessLog[question.id] ?? [];
 
           return (
             <article
@@ -294,18 +356,37 @@ export default function FillBlankBankBrowser({ mappedEpisodes }: { mappedEpisode
                 <code>{question.id}</code>
               </div>
 
-              <ol className="blank-bank-options" aria-label={`Possible repairs for file ${bankNumber}`}>
-                {displayOptions.map((option, optionIndex) => {
-                  const isCorrect = option === question.answer;
-                  return (
-                    <li className={isCorrect ? "is-correct" : ""} key={option}>
-                      <span>{String.fromCharCode(65 + optionIndex)}</span>
-                      <p>{option}</p>
-                      {isCorrect && <strong>Correct repair</strong>}
-                    </li>
-                  );
-                })}
-              </ol>
+              <div className="blank-bank-options">
+                <div>
+                  <span>Accepted forms</span>
+                  <ul aria-label={`Accepted forms for file ${bankNumber}`}>
+                    <li className="is-correct">{question.answer}<strong>Answer</strong></li>
+                    {question.accept.map((form) => <li key={form}>{form}</li>)}
+                  </ul>
+                </div>
+                {question.reject.length > 0 && (
+                  <div>
+                    <span>Rejected forms</span>
+                    <ul aria-label={`Rejected forms for file ${bankNumber}`}>
+                      {question.reject.map((form) => <li className="is-rejected" key={form}>{form}</li>)}
+                    </ul>
+                  </div>
+                )}
+                <GuessTester question={question} />
+                {loggedGuesses.length > 0 && (
+                  <div className="blank-bank-logged">
+                    <span>Guesses typed on this device</span>
+                    <ul>
+                      {loggedGuesses.map((guess) => (
+                        <li key={guess}>
+                          {guess}
+                          <button type="button" onClick={() => copySuggestion(question, guess)}>Copy as accept</button>
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+                )}
+              </div>
 
               <details className="blank-bank-context">
                 <summary>Open transcript context</summary>
