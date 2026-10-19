@@ -305,8 +305,11 @@ slips are forgiven.
 - The points meter (●●●) drains as guesses and hints are spent.
 - A wrong guess shakes the tiles (skipped under `prefers-reduced-motion`) and
   adds the guess to a struck-through list.
-- Hinted letters show in empty tiles in a different ink. Typed letters fill
-  tiles in order and cover hints, so the player still types the full answer.
+- Revealed letters are locked into their tiles in a different ink and can't
+  be changed. Typed letters skip them and fill the remaining tiles in order,
+  so after a hint the player types only the missing letters. The guess judged
+  is the whole blank, locked letters included. Taking a hint drops any typed
+  letter that was sitting in a tile it locks.
 - The source topic stays hidden until reveal, because several archive labels
   would reveal the missing phrase.
 

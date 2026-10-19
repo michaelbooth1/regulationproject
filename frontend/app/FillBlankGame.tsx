@@ -21,6 +21,7 @@ import {
   revealedLetterCount,
   type BlankDifficulty,
   type FillBlankQuestion,
+  type PatternCell,
 } from "./fill-blank-data";
 import { compactGuess, isSolved, judgeGuess, type MatchReason } from "./fill-blank-match";
 import { logBlankGuess, readBlankRemovalIds } from "./fill-blank-preferences";
@@ -143,7 +144,57 @@ function patternLabel(question: FillBlankQuestion, hintLevel: number) {
   return `${shape}; revealed letters ${starts.join(", ")}`;
 }
 
-/** The blank as letter tiles. Typed letters fill tiles in order; hints show beneath empty ones. */
+type TileState = { patternIndex: number; char: string; state: "locked" | "typed" | "empty"; typedIndex: number | null };
+
+function isLocked(question: FillBlankQuestion, cell: Extract<PatternCell, { kind: "letter" }>, hintLevel: number) {
+  return cell.position < revealedLetterCount(question.wordLengths[cell.word], hintLevel);
+}
+
+/**
+ * Place typed letters into the blank. Revealed letters are locked: typed
+ * letters skip over them, so the player only types the remaining letters.
+ */
+function layoutTiles(question: FillBlankQuestion, typed: string, hintLevel: number) {
+  const typedLetters = [...typed].filter((char) => LETTER.test(char));
+  const tiles: TileState[] = [];
+  let next = 0;
+  question.pattern.forEach((cell, patternIndex) => {
+    if (cell.kind !== "letter") return;
+    if (isLocked(question, cell, hintLevel)) {
+      tiles.push({ patternIndex, char: cell.char, state: "locked", typedIndex: null });
+    } else if (next < typedLetters.length) {
+      tiles.push({ patternIndex, char: typedLetters[next], state: "typed", typedIndex: next });
+      next += 1;
+    } else {
+      tiles.push({ patternIndex, char: "", state: "empty", typedIndex: null });
+    }
+  });
+  return { tiles, typedLetters, overflow: typedLetters.slice(next).join("") };
+}
+
+/** The guess to judge: raw input before any hint, otherwise the blank with its locked letters. */
+function composeGuess(question: FillBlankQuestion, typed: string, hintLevel: number): string {
+  if (hintLevel === 0) return typed.trim();
+  const { tiles, overflow } = layoutTiles(question, typed, hintLevel);
+  const byPattern = new Map(tiles.map((tile) => [tile.patternIndex, tile.char]));
+  const composed = question.pattern.map((cell, index) => (
+    cell.kind === "space" ? " " : cell.kind === "fixed" ? cell.char : byPattern.get(index) ?? ""
+  )).join("");
+  return (composed + overflow).trim();
+}
+
+/** Typed letters that stay after a hint locks more cells; letters under new locks are dropped. */
+function inputAfterHint(question: FillBlankQuestion, typed: string, hintLevel: number): string {
+  const { tiles, typedLetters, overflow } = layoutTiles(question, typed, hintLevel);
+  const kept = tiles.filter((tile) => {
+    if (tile.state !== "typed") return false;
+    const cell = question.pattern[tile.patternIndex];
+    return cell.kind === "letter" && !isLocked(question, cell, hintLevel + 1);
+  }).map((tile) => typedLetters[tile.typedIndex ?? 0]);
+  return kept.join("") + overflow;
+}
+
+/** The blank as letter tiles. Revealed letters are locked; typed letters fill the rest in order. */
 function BlankTiles({
   question,
   typed = "",
@@ -155,10 +206,8 @@ function BlankTiles({
   hintLevel?: number;
   solvedView?: boolean;
 }) {
-  const typedLetters = [...typed].filter((char) => LETTER.test(char));
-  let letterIndex = 0;
-  const totalLetters = question.wordLengths.reduce((sum, length) => sum + length, 0);
-  const overflow = typedLetters.slice(totalLetters).join("");
+  const { tiles, overflow } = layoutTiles(question, typed, hintLevel);
+  const tileByPattern = new Map(tiles.map((tile) => [tile.patternIndex, tile]));
   const words: ReactNode[][] = [[]];
 
   question.pattern.forEach((cell, index) => {
@@ -171,15 +220,13 @@ function BlankTiles({
       word.push(<span className="blank-tile fixed" key={index}>{cell.char}</span>);
       return;
     }
-    const typedChar = typedLetters[letterIndex];
-    letterIndex += 1;
-    const hinted = cell.position < revealedLetterCount(question.wordLengths[cell.word], hintLevel);
+    const tile = tileByPattern.get(index);
     if (solvedView) {
       word.push(<span className="blank-tile solved" key={index}>{cell.char}</span>);
-    } else if (typedChar) {
-      word.push(<span className="blank-tile typed" key={index}>{typedChar}</span>);
-    } else if (hinted) {
+    } else if (tile?.state === "locked") {
       word.push(<span className="blank-tile hinted" key={index}>{cell.char}</span>);
+    } else if (tile?.state === "typed") {
+      word.push(<span className="blank-tile typed" key={index}>{tile.char}</span>);
     } else {
       word.push(<span className="blank-tile" key={index} />);
     }
@@ -277,7 +324,7 @@ export default function FillBlankGame({ mappedEpisodes }: { mappedEpisodes: numb
     event.preventDefault();
     if (!current || currentRecord) return;
     const state = questionState;
-    const guess = state.input.trim();
+    const guess = composeGuess(current, state.input, state.hintLevel);
     const result = judgeGuess(guess, current);
     if (result.verdict === "empty") return;
 
@@ -333,6 +380,7 @@ export default function FillBlankGame({ mappedEpisodes }: { mappedEpisodes: numb
       if (state.points < 2 || !canRevealMore(current, state.hintLevel)) return state;
       return {
         ...state,
+        input: inputAfterHint(current, state.input, state.hintLevel),
         points: state.points - 1,
         hintLevel: state.hintLevel + 1,
         feedback: { tone: "info", text: "Hint used. −1 point." },
@@ -519,7 +567,7 @@ export default function FillBlankGame({ mappedEpisodes }: { mappedEpisodes: numb
                   spellCheck={false}
                   enterKeyHint="go"
                   maxLength={48}
-                  placeholder="type your repair…"
+                  placeholder={hintLevel ? "type the remaining letters…" : "type your repair…"}
                 />
                 <button className="primary-button compact" type="submit" disabled={!input.trim()}>
                   Submit <span aria-hidden="true">↵</span>
